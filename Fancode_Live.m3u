@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Khuwair Warriors vs Ruwi Rangers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92708" group-title="Oman D10 League, 2024",Khuwair Warriors vs Ruwi Rangers
-https://dai.fancode.com/primary/92708_english_hls_5756adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Indatwa Hampshire CC Women vs Muhanga Zebras CC Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93065" group-title="RCA Women's T10 League",Indatwa Hampshire CC Women vs Muhanga Zebras CC Women
 https://dai.google.com/linear/hls/event/eX4-k--3Th-CZdoUlnvREA/master.m3u8
 #EXTINF:-1 tvg-name="Pak Barcelona vs Men in Blue" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93170" group-title="ECS Spain, 2024",Pak Barcelona vs Men in Blue
