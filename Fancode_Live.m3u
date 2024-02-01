@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Azaiba XI vs Bousher Busters" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92709" group-title="Oman D10 League, 2024",Azaiba XI vs Bousher Busters
 https://dai.fancode.com/primary/92709_english_hls_5025adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Pak Barcelona vs Men in Blue" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93172" group-title="ECS Spain, 2024",Pak Barcelona vs Men in Blue
+https://dai.google.com/linear/hls/event/Ym06gws2RP2r-Kk-_k_8dQ/master.m3u8
 #EXTINF:-1 tvg-name="Alif Pharma vs Karwan Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92620" group-title="ICCA Arabian Cricket League Round 2",Alif Pharma vs Karwan Cricket Club
 https://dai.google.com/linear/hls/event/74egZSQyQdqNTibrcRaUcA/master.m3u8
 #EXTINF:-1 tvg-name="Ranipet vs Chengalpattu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92674" group-title="TNCA SS Rajan T20 Trophy, 2024",Ranipet vs Chengalpattu

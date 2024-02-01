@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 3,
-  "updated_on": "01-02-2024 on 8:44:04 PM \ud83c\udf19",
+  "channels_amount": 4,
+  "updated_on": "01-02-2024 on 9:25:14 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -14,6 +14,17 @@
       "team_2": "Bousher Busters",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBUS@2x.png",
       "stream_link": "https://dai.fancode.com/primary/92709_english_hls_5025adfreeta-no/index.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ECS Spain, 2024",
+      "match_id": 93172,
+      "match_name": "Pak Barcelona vs Men in Blue",
+      "team_1": "Pak Barcelona",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PKB@2x.png",
+      "team_2": "Men in Blue",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MB@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/Ym06gws2RP2r-Kk-_k_8dQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
