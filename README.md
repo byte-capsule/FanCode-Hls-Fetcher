@@ -30,6 +30,7 @@
 
 <h1 align="center">
  <a href="www.aynaott.com"><img src="https://github.com/byte-capsule/FanCode-Hls-Fetcher/blob/main/images/fancode_banner.png"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbyte-capsule%2FFanCode-Hls-Fetcher&count_bg=%2379C83D&title_bg=%23555555&icon=mattermost.svg&icon_color=%23E7E7E7&title=Visitors+&edge_flat=false"/></a>
 </h1>
 
 # 📕Introdicton 
