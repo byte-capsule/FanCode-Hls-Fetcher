@@ -1,20 +1,9 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 5,
-  "updated_on": "01-02-2024 on 9:43:55 PM \ud83c\udf19",
+  "channels_amount": 4,
+  "updated_on": "01-02-2024 on 10:12:44 PM \ud83c\udf19",
   "channels": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Oman D10 League, 2024",
-      "match_id": 92709,
-      "match_name": "Azaiba XI vs Bousher Busters",
-      "team_1": "Azaiba XI",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AZAI@2x.png",
-      "team_2": "Bousher Busters",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBUS@2x.png",
-      "stream_link": "https://dai.fancode.com/primary/92709_english_hls_5025adfreeta-no/index.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Oman D10 League, 2024",
@@ -50,14 +39,14 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "TNCA SS Rajan T20 Trophy, 2024",
-      "match_id": 92674,
-      "match_name": "Ranipet vs Chengalpattu",
-      "team_1": "Ranipet",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RAN@2x.png",
-      "team_2": "Chengalpattu",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CHU@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/GX6AogwdTcqYo5EtCIHIZw/master.m3u8"
+      "event_name": "Ireland Women tour of Zimbabwe, 2024",
+      "match_id": 92483,
+      "match_name": "Zimbabwe Women vs Ireland Women",
+      "team_1": "Zimbabwe Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZM@2x.png",
+      "team_2": "Ireland Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/uXF-hj21SSOrD9Cj1YrumQ/master.m3u8"
     }
   ]
 }
