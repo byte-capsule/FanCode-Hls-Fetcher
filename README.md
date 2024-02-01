@@ -5,7 +5,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://play.google.com/store/apps/details?id=com.aynaott.apps"><img src="https://github.com/byte-capsule/FanCode-Hls-Fetcher/blob/main/images/aynaott_logo.png" alt="⭐ AynaoOTT ⭐" width="200"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.aynaott.apps"><img src="https://github.com/byte-capsule/FanCode-Hls-Fetcher/blob/main/images/fancode_banner.png" alt="⭐ FanCode ⭐" width="200"></a>
   <br>
   ⭐ FanCode ⭐
   <br>
@@ -29,7 +29,7 @@
 </p>
 
 <h1 align="center">
- <a href="www.aynaott.com"><img src="https://github.com/byte-capsule/FanCode-Hls-Fetcher/blob/main/images/aynaott_banner.jpeg"></a>
+ <a href="www.aynaott.com"><img src="https://github.com/byte-capsule/FanCode-Hls-Fetcher/blob/main/images/fancode_banner.png"></a>
 </h1>
 
 # 📕Introdicton 
