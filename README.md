@@ -5,7 +5,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://play.google.com/store/apps/details?id=com.aynaott.apps"><img src="https://github.com/byte-capsule/FanCode-Hls-Fetcher/blob/main/images/fancode_logo.png" alt="⭐ FanCode ⭐" width="200"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.aynaott.apps"><img src="https://github.com/byte-capsule/FanCode-Hls-Fetcher/blob/main/images/fancode_banner.png" alt="⭐ FanCode ⭐" width="200"></a>
   <br>
   ⭐ FanCode ⭐
   <br>
@@ -22,7 +22,7 @@
       <img src="https://img.shields.io/badge/Byte_Capsule-%E2%98%BC-green.svg">
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.banglalink.toffee">
-    <img src="https://img.shields.io/badge/App-FanCode-orange">
+    <img src="https://img.shields.io/badge/App-AynaaOTT-red">
   </a>
   </a>
   <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://img.shields.io/badge/Made%20in-Bangladesh_🇧🇩-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square"></a>
@@ -64,7 +64,7 @@ curl -X GET https://raw.githubusercontent.com/byte-capsule/FanCode-Hls-Fetcher/m
 
 
 <h1 align="center">
- <a href="https://raw.githubusercontent.com/byte-capsule/FanCode-Hls-Fetcher/main/AynaOTT_Hls_links.Json?token=GHSAT0AAAAAACIGXJTZNCFBIKMA5RTUUUG4ZMZG7XQ"><img src="https://github.com/byte-capsule/FanCode-Hls-Fetcher/blob/main/images/json_file.jpg"></a>
+ <a href="https://raw.githubusercontent.com/byte-capsule/FanCode-Hls-Fetcher/main/Fancode_hls_m3u8.Json?"><img src="https://github.com/byte-capsule/FanCode-Hls-Fetcher/blob/main/images/output.jpg"></a>
 </h1>
 
 # 🎥How To Play
@@ -101,9 +101,7 @@ curl -X GET https://raw.githubusercontent.com/byte-capsule/FanCode-Hls-Fetcher/m
 <h1 align="center">
  <a href="https://raw.githubusercontent.com/byte-capsule/FanCode-Hls-Fetcher/main/Fancode_Live.m3u"><img src="https://github.com/byte-capsule/FanCode-Hls-Fetcher/blob/main/images/3.jpg"></a>
 </h1>
-<h1 align="center">
- <a href="https://raw.githubusercontent.com/byte-capsule/FanCode-Hls-Fetcher/main/Fancode_Live.m3u"><img src="https://github.com/byte-capsule/FanCode-Hls-Fetcher/blob/main/images/4.jpg"></a>
-</h1>
+
 
 
 # 🚬Credits
