@@ -1,0 +1,6 @@
+pycryptodome==3.19.0
+pytz==2023.3.post1
+requests==2.31.0
+urllib3==2.0.6
+pyzipper==0.3.6
+diskcache==5.6.3
