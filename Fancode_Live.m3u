@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Kuwait Nationals vs Renegades CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92087" group-title="KCC T20 Challengers Cup, 2024",Kuwait Nationals vs Renegades CC
+https://dai.google.com/linear/hls/event/Tap8HnevQX6daFrAPLOc1w/master.m3u8
 #EXTINF:-1 tvg-name="Japan vs Thailand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92935" group-title="ACC Men's T20I Challenger Cup, 2024",Japan vs Thailand
 https://dai.google.com/linear/hls/event/BJO-vPaoQ4aHsDAVpHBaEg/master.m3u8
 #EXTINF:-1 tvg-name="Pondicherry South XI vs Yanam XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92990" group-title="Pondicherry Masters 10 Over Cricket Tournament",Pondicherry South XI vs Yanam XI
