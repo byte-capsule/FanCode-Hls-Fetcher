@@ -1,7 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Kuwait Under-19 vs CECC-B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92086" group-title="KCC T20 Challengers Cup, 2024",Kuwait Under-19 vs CECC-B
+https://dai.google.com/linear/hls/event/QqEMzf3bRoG_5K5X3dV5IA/master.m3u8
 #EXTINF:-1 tvg-name="Singapore vs Maldives" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92934" group-title="ACC Men's T20I Challenger Cup, 2024",Singapore vs Maldives
 https://dai.google.com/linear/hls/event/aVM3QqCTShyG1xkhZRZFtQ/master.m3u8
-#EXTINF:-1 tvg-name="Pondicherry North XI vs Mahe XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92988" group-title="Pondicherry Masters 10 Over Cricket Tournament",Pondicherry North XI vs Mahe XI
-https://dai.google.com/linear/hls/event/0bqWRHFqQtup5SAu17qSPQ/master.m3u8
 #EXTINF:-1 tvg-name="Afghanistan vs Sri Lanka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="91212" group-title="Afghanistan tour of Sri Lanka, 2024",Afghanistan vs Sri Lanka
 https://pubads.g.doubleclick.net/ssai/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
+#EXTINF:-1 tvg-name="Pondicherry North XI vs Mahe XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92988" group-title="Pondicherry Masters 10 Over Cricket Tournament",Pondicherry North XI vs Mahe XI
+https://dai.google.com/linear/hls/event/0bqWRHFqQtup5SAu17qSPQ/master.m3u8
