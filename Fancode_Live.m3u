@@ -1,15 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Stack CC XI vs Jeleeb Knight Riders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92089" group-title="KCC T20 Challengers Cup, 2024",Stack CC XI vs Jeleeb Knight Riders
-https://dai.google.com/linear/hls/event/0EiWNPg0TyKofMeh7proeg/master.m3u8
-#EXTINF:-1 tvg-name="Ruwi Rangers vs Qurum Thunders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92714" group-title="Oman D10 League, 2024",Ruwi Rangers vs Qurum Thunders
-https://dai.fancode.com/primary/92714_english_hls_5695adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Khuwair Warriors vs Darsait Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92715" group-title="Oman D10 League, 2024",Khuwair Warriors vs Darsait Titans
-https://dai.fancode.com/primary/92715_english_hls_5707adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Ireland Women vs Zimbabwe Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92484" group-title="Ireland Women tour of Zimbabwe, 2024",Ireland Women vs Zimbabwe Women
-https://dai.google.com/linear/hls/event/HdANjlk3QMuf-G5-RzTbxA/master.m3u8
-#EXTINF:-1 tvg-name="Dubai Dare Devils vs London Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92623" group-title="ICCA Arabian Cricket League Round 2",Dubai Dare Devils vs London Lions
-https://dai.google.com/linear/hls/event/qdH-6ispQlyFZp-Kx-ULUA/master.m3u8
-#EXTINF:-1 tvg-name="Afghanistan vs Sri Lanka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="91212" group-title="Afghanistan tour of Sri Lanka, 2024",Afghanistan vs Sri Lanka
-https://pubads.g.doubleclick.net/ssai/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
-#EXTINF:-1 tvg-name="Nigeria vs Angola" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="91159" group-title="Africa Cup of Nations",Nigeria vs Angola
-https://dai.fancode.com/primary/91159_english_hls_5965adfreeta-di/index.m3u8
