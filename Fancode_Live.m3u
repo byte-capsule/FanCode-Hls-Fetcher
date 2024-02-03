@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Ghubrah Giants vs Darsait Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92717" group-title="Oman D10 League, 2024",Ghubrah Giants vs Darsait Titans
 https://dai.fancode.com/primary/92717_english_hls_4949adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Ruwi Rangers vs Azaiba XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92718" group-title="Oman D10 League, 2024",Ruwi Rangers vs Azaiba XI
+https://dai.fancode.com/primary/92718_english_hls_4910adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Seven Districts vs Dubai Wanderers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92624" group-title="ICCA Arabian Cricket League Round 2",Seven Districts vs Dubai Wanderers
 https://dai.google.com/linear/hls/event/OLeFKl8tRrCCovCCksYKRQ/master.m3u8
 #EXTINF:-1 tvg-name="Catalunya Red vs Pak Barcelona" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93180" group-title="ECS Spain, 2024",Catalunya Red vs Pak Barcelona
@@ -11,5 +13,3 @@ https://dai.google.com/linear/hls/event/4NjqeQ9cTLuhGdQ24979jw/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
 #EXTINF:-1 tvg-name="Preston North End vs Ipswich Town" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="91979" group-title="EFL Championship 2023-24",Preston North End vs Ipswich Town
 https://dai.fancode.com/primary/91979_english_hls_5073adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Shillong Lajong FC vs Inter Kashi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92909" group-title="I League 2023-24",Shillong Lajong FC vs Inter Kashi
-https://dai.google.com/linear/hls/event/JQsNTPP8RdmeUBg4xdp1ag/master.m3u8
