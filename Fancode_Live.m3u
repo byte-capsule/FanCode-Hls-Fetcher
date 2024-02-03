@@ -1,11 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Ruwi Rangers vs Azaiba XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92718" group-title="Oman D10 League, 2024",Ruwi Rangers vs Azaiba XI
 https://dai.fancode.com/primary/92718_english_hls_4910adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Bousher Busters vs Khuwair Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92719" group-title="Oman D10 League, 2024",Bousher Busters vs Khuwair Warriors
+https://dai.fancode.com/primary/92719_english_hls_6426adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="DCC Starlets vs AZ Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92625" group-title="ICCA Arabian Cricket League Round 2",DCC Starlets vs AZ Sports
 https://dai.google.com/linear/hls/event/x56CJNAkSZiePjTvmcLRPA/master.m3u8
-#EXTINF:-1 tvg-name="Afghanistan vs Sri Lanka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="91212" group-title="Afghanistan tour of Sri Lanka, 2024",Afghanistan vs Sri Lanka
-https://pubads.g.doubleclick.net/ssai/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
 #EXTINF:-1 tvg-name="Al Mulla Exchange vs NCM Investment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="91640" group-title="Kuwait T20 Elite Cup 2nd Edition, 2024",Al Mulla Exchange vs NCM Investment
 https://dai.google.com/linear/hls/event/8BLc6LkkRb2ukvfAZCmgPg/master.m3u8
+#EXTINF:-1 tvg-name="Afghanistan vs Sri Lanka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="91212" group-title="Afghanistan tour of Sri Lanka, 2024",Afghanistan vs Sri Lanka
+https://pubads.g.doubleclick.net/ssai/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
 #EXTINF:-1 tvg-name="Mali vs Côte d'Ivoire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="91161" group-title="Africa Cup of Nations",Mali vs Côte d'Ivoire
 https://dai.fancode.com/primary/91161_english_hls_5297adfreeta-no/index.m3u8
