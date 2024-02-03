@@ -1,11 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Tribhuwan Army Club vs Nepal Police Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92237" group-title="PM Cup Men's National Cricket Tournament 2024",Tribhuwan Army Club vs Nepal Police Club
+https://dai.google.com/linear/hls/event/PuapindYSpCO-GhaL0DocQ/master.m3u8
 #EXTINF:-1 tvg-name="Bhutan vs Saudi Arabia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92936" group-title="ACC Men's T20I Challenger Cup, 2024",Bhutan vs Saudi Arabia
 https://dai.google.com/linear/hls/event/DzQcrtuzTFGM1x9BtY6cWg/master.m3u8
 #EXTINF:-1 tvg-name="Canada vs Hong Kong, China" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92968" group-title="Hong Kong Men's One Day Tri-Series",Canada vs Hong Kong, China
 https://dai.google.com/linear/hls/event/5BW4ohs3TjKt0rcbknCx-w/master.m3u8
 #EXTINF:-1 tvg-name="Afghanistan vs Sri Lanka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="91212" group-title="Afghanistan tour of Sri Lanka, 2024",Afghanistan vs Sri Lanka
 https://pubads.g.doubleclick.net/ssai/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
-#EXTINF:-1 tvg-name="Tribhuwan Army Club vs Nepal Police Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92237" group-title="PM Cup Men's National Cricket Tournament 2024",Tribhuwan Army Club vs Nepal Police Club
-https://dai.google.com/linear/hls/event/PuapindYSpCO-GhaL0DocQ/master.m3u8
 #EXTINF:-1 tvg-name="Pondicherry West XI vs Pondicherry North XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92991" group-title="Pondicherry Masters 10 Over Cricket Tournament",Pondicherry West XI vs Pondicherry North XI
 https://dai.google.com/linear/hls/event/InfhKn7cTWyinp7KhSABiQ/master.m3u8
+#EXTINF:-1 tvg-name="India PD vs England PD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93079" group-title="India-England Physically Disabled T20, 2024",India PD vs England PD
+https://dai.google.com/linear/hls/event/vaxCJXFyQvGXvQHh6NbtRA/master.m3u8
