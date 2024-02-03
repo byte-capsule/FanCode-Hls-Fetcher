@@ -11,7 +11,11 @@ https://dai.google.com/linear/hls/event/5BW4ohs3TjKt0rcbknCx-w/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
 #EXTINF:-1 tvg-name="India PD vs England PD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93079" group-title="India-England Physically Disabled T20, 2024",India PD vs England PD
 https://dai.google.com/linear/hls/event/vaxCJXFyQvGXvQHh6NbtRA/master.m3u8
-#EXTINF:-1 tvg-name="Western United vs Sydney FC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92569" group-title="A League Men 2023-24",Western United vs Sydney FC
-https://dai.google.com/linear/hls/event/I8B3OE7YS9e58Tfm4yJ4fg/master.m3u8
+#EXTINF:-1 tvg-name="Khulna Tigers vs Fortune Barishal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="90961" group-title="Bangladesh Premier League, 2024",Khulna Tigers vs Fortune Barishal
+https://dai.google.com/linear/hls/event/K5yOxEQaSCaq50upqhRX4g/master.m3u8
+#EXTINF:-1 tvg-name="Sorwathe Girls CC Women vs Muhanga Zebras CC Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93066" group-title="RCA Women's T10 League",Sorwathe Girls CC Women vs Muhanga Zebras CC Women
+https://dai.google.com/linear/hls/event/A9dz3WJyQ52rrLqRqrjB9w/master.m3u8
 #EXTINF:-1 tvg-name="Newcastle Jets vs Melbourne Victory" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92570" group-title="A League Men 2023-24",Newcastle Jets vs Melbourne Victory
 https://dai.google.com/linear/hls/event/wt3omtviSZ2ZgW1ClR3flw/master.m3u8
+#EXTINF:-1 tvg-name="Western United vs Sydney FC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92569" group-title="A League Men 2023-24",Western United vs Sydney FC
+https://dai.google.com/linear/hls/event/I8B3OE7YS9e58Tfm4yJ4fg/master.m3u8
