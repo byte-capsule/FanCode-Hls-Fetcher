@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Amerat Royals vs Qurum Thunders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92716" group-title="Oman D10 League, 2024",Amerat Royals vs Qurum Thunders
 https://dai.fancode.com/primary/92716_english_hls_4685adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Indatwa Hampshire CC Women vs Charity CC Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93068" group-title="RCA Women's T10 League",Indatwa Hampshire CC Women vs Charity CC Women
-https://dai.google.com/linear/hls/event/q_m80GANTmSnm3Fi8N6Fug/master.m3u8
+#EXTINF:-1 tvg-name="Seven Districts vs Dubai Wanderers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92624" group-title="ICCA Arabian Cricket League Round 2",Seven Districts vs Dubai Wanderers
+https://dai.google.com/linear/hls/event/OLeFKl8tRrCCovCCksYKRQ/master.m3u8
 #EXTINF:-1 tvg-name="Catalunya Red vs Pak Barcelona" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93179" group-title="ECS Spain, 2024",Catalunya Red vs Pak Barcelona
 https://dai.google.com/linear/hls/event/6g2gMgLXS9yYIB6HWylwPQ/master.m3u8
 #EXTINF:-1 tvg-name="Rangpur Riders vs Sylhet Strikers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="90962" group-title="Bangladesh Premier League, 2024",Rangpur Riders vs Sylhet Strikers
