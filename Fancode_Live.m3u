@@ -3,7 +3,11 @@
 https://dai.fancode.com/primary/92716_english_hls_4685adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Gahanga Queens CC Women vs Sorwathe Girls CC Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93067" group-title="RCA Women's T10 League",Gahanga Queens CC Women vs Sorwathe Girls CC Women
 https://dai.google.com/linear/hls/event/GsSebBpUQuCmi3Y_wNOtiw/master.m3u8
+#EXTINF:-1 tvg-name="Indatwa Hampshire CC Women vs Charity CC Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93068" group-title="RCA Women's T10 League",Indatwa Hampshire CC Women vs Charity CC Women
+https://dai.google.com/linear/hls/event/q_m80GANTmSnm3Fi8N6Fug/master.m3u8
 #EXTINF:-1 tvg-name="Sohal Hospitalet vs Barcelona International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93178" group-title="ECS Spain, 2024",Sohal Hospitalet vs Barcelona International
 https://dai.google.com/linear/hls/event/-tfPXmqZQA-NrBesTmYpBA/master.m3u8
+#EXTINF:-1 tvg-name="Rangpur Riders vs Sylhet Strikers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="90962" group-title="Bangladesh Premier League, 2024",Rangpur Riders vs Sylhet Strikers
+https://dai.google.com/linear/hls/event/4NjqeQ9cTLuhGdQ24979jw/master.m3u8
 #EXTINF:-1 tvg-name="Afghanistan vs Sri Lanka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="91212" group-title="Afghanistan tour of Sri Lanka, 2024",Afghanistan vs Sri Lanka
 https://pubads.g.doubleclick.net/ssai/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
