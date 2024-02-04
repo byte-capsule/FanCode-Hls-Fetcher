@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 6,
-  "updated_on": "04-02-2024 on 3:45:48 PM \ud83c\udf1e",
+  "channels_amount": 5,
+  "updated_on": "04-02-2024 on 4:13:23 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -40,13 +40,13 @@
     {
       "event_catagory": "cricket",
       "event_name": "RCA Men's T10 League",
-      "match_id": 93045,
-      "match_name": "Challengers CC vs Kutchi Tigers",
-      "team_1": "Challengers CC",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CHLC@2x.png",
-      "team_2": "Kutchi Tigers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KH@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/JdaxCzYaQLOcfuoxswFtJg/master.m3u8"
+      "match_id": 93046,
+      "match_name": "IPRC Kigali CC vs Indorwa CC",
+      "team_1": "IPRC Kigali CC",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KIGL@2x.png",
+      "team_2": "Indorwa CC",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IR@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/VNpYzvxPR3Kt_Ntdib9wTA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -58,17 +58,6 @@
       "team_2": "Magic Badalona",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MGC@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/F6aCDlbESfCFzet1M-6VYg/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "A League Men 2023-24",
-      "match_id": 92572,
-      "match_name": "Macarthur vs Western Sydney Wanderers",
-      "team_1": "Macarthur",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MACA@2x.png",
-      "team_2": "Western Sydney Wanderers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYWA@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/jsXATr5kRdiKutS1aN-moQ/master.m3u8"
     }
   ]
 }
