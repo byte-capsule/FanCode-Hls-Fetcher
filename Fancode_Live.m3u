@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Spades Real Estate vs AZ Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92628" group-title="ICCA Arabian Cricket League Round 2",Spades Real Estate vs AZ Sports
+https://dai.google.com/linear/hls/event/IDUWGUJ2TXqIfn5E77VIRw/master.m3u8
 #EXTINF:-1 tvg-name="Pak Barcelona vs Pak I Care Badalona" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93187" group-title="ECS Spain, 2024",Pak Barcelona vs Pak I Care Badalona
 https://dai.google.com/linear/hls/event/D7xz7K5-SFOkxyY3sj1VWw/master.m3u8
 #EXTINF:-1 tvg-name="Qurum Thunders vs Bousher Busters" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92720" group-title="Oman D10 League, 2024",Qurum Thunders vs Bousher Busters
