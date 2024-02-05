@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Spades Real Estate vs AZ Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92628" group-title="ICCA Arabian Cricket League Round 2",Spades Real Estate vs AZ Sports
-https://dai.google.com/linear/hls/event/IDUWGUJ2TXqIfn5E77VIRw/master.m3u8
-#EXTINF:-1 tvg-name="Pak Barcelona vs Pak I Care Badalona" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93188" group-title="ECS Spain, 2024",Pak Barcelona vs Pak I Care Badalona
-https://dai.google.com/linear/hls/event/F1YSRbApTVKHzrGAoUeavQ/master.m3u8
 #EXTINF:-1 tvg-name="Ruwi Rangers vs Ghubrah Giants" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92722" group-title="Oman D10 League, 2024",Ruwi Rangers vs Ghubrah Giants
 https://dai.fancode.com/primary/92722_english_hls_4788adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Kuwait Swedish vs Al Hajery Team XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="91641" group-title="Kuwait T20 Elite Cup 2nd Edition, 2024",Kuwait Swedish vs Al Hajery Team XI
+https://dai.google.com/linear/hls/event/zOx7v9FgSfKis4xZ-eaIcg/master.m3u8
