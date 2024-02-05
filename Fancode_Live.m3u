@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Cambodia vs Bhutan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92946" group-title="ACC Men's T20I Challenger Cup, 2024",Cambodia vs Bhutan
-https://dai.google.com/linear/hls/event/HgA-w31KTLqUQavRFaPcLQ/master.m3u8
 #EXTINF:-1 tvg-name="Pondicherry North XI vs Yanam XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92997" group-title="Pondicherry Masters 10 Over Cricket Tournament",Pondicherry North XI vs Yanam XI
 https://dai.google.com/linear/hls/event/vXDyfsP7QLed1TjYVRU4fg/master.m3u8
 #EXTINF:-1 tvg-name="Sohal Hospitalet vs Catalunya Jaguar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93185" group-title="ECS Spain, 2024",Sohal Hospitalet vs Catalunya Jaguar
