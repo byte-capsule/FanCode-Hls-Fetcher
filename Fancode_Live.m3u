@@ -3,5 +3,7 @@
  Free Trial attempt unsuccessful......it requires Premium Account
 #EXTINF:-1 tvg-name="Malaysia vs Hong Kong, China" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93265" group-title="Malaysia tour of Hong Kong, 2024",Malaysia vs Hong Kong, China
 https://dai.google.com/linear/hls/event/bPVktzunQOS4xYHXRbfZug/master.m3u8
+#EXTINF:-1 tvg-name="Pondicherry West XI vs Pondicherry South XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93002" group-title="Pondicherry Masters 10 Over Cricket Tournament",Pondicherry West XI vs Pondicherry South XI
+https://dai.google.com/linear/hls/event/cnaBA4sUQUqs-tjlpKcFxw/master.m3u8
 #EXTINF:-1 tvg-name="Wellington Phoenix vs Central Coast Mariners" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92566" group-title="A League Men 2023-24",Wellington Phoenix vs Central Coast Mariners
 https://dai.google.com/linear/hls/event/M7waEPq3TmakBH5A7BBWwQ/master.m3u8
