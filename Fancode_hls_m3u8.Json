@@ -1,18 +1,18 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 4,
-  "updated_on": "06-02-2024 on 0:45:55 PM \ud83c\udf1e",
+  "channels_amount": 5,
+  "updated_on": "06-02-2024 on 1:22:35 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
       "event_name": "ACC Men's T20I Challenger Cup, 2024",
       "match_id": 92942,
-      "match_name": "Thailand vs Maldives",
-      "team_1": "Thailand",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THL@2x.png",
-      "team_2": "Maldives",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MLD@2x.png",
+      "match_name": "Maldives vs Thailand",
+      "team_1": "Maldives",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MLD@2x.png",
+      "team_2": "Thailand",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THL@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/9Xu8E48nQmaMM1it1fluAA/master.m3u8"
     },
     {
@@ -47,6 +47,17 @@
       "team_2": "Hong Kong, China",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HK@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/bPVktzunQOS4xYHXRbfZug/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Bangladesh Premier League, 2024",
+      "match_id": 90963,
+      "match_name": "Rangpur Riders vs Durdanto Dhaka",
+      "team_1": "Rangpur Riders",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RANG@2x.png",
+      "team_2": "Durdanto Dhaka",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DUD@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/aHlIGXuXS66wfZ-xqUrqIg/master.m3u8"
     }
   ]
 }

@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Thailand vs Maldives" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92942" group-title="ACC Men's T20I Challenger Cup, 2024",Thailand vs Maldives
+#EXTINF:-1 tvg-name="Maldives vs Thailand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92942" group-title="ACC Men's T20I Challenger Cup, 2024",Maldives vs Thailand
 https://dai.google.com/linear/hls/event/9Xu8E48nQmaMM1it1fluAA/master.m3u8
 #EXTINF:-1 tvg-name="Mahe XI vs Yanam XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93001" group-title="Pondicherry Masters 10 Over Cricket Tournament",Mahe XI vs Yanam XI
 https://dai.google.com/linear/hls/event/pMw03jN4RHivJL18wdui6g/master.m3u8
@@ -7,3 +7,5 @@ https://dai.google.com/linear/hls/event/pMw03jN4RHivJL18wdui6g/master.m3u8
 https://dai.google.com/linear/hls/event/CKSFcplZRmWJ7vNAlNhG4A/master.m3u8
 #EXTINF:-1 tvg-name="Malaysia vs Hong Kong, China" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93265" group-title="Malaysia tour of Hong Kong, 2024",Malaysia vs Hong Kong, China
 https://dai.google.com/linear/hls/event/bPVktzunQOS4xYHXRbfZug/master.m3u8
+#EXTINF:-1 tvg-name="Rangpur Riders vs Durdanto Dhaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="90963" group-title="Bangladesh Premier League, 2024",Rangpur Riders vs Durdanto Dhaka
+https://dai.google.com/linear/hls/event/aHlIGXuXS66wfZ-xqUrqIg/master.m3u8
