@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Singapore vs Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92941" group-title="ACC Men's T20I Challenger Cup, 2024",Singapore vs Japan
  Free Trial attempt unsuccessful......it requires Premium Account
-#EXTINF:-1 tvg-name="Malaysia vs Hong Kong, China" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93265" group-title="Malaysia tour of Hong Kong, 2024",Malaysia vs Hong Kong, China
-https://dai.google.com/linear/hls/event/bPVktzunQOS4xYHXRbfZug/master.m3u8
 #EXTINF:-1 tvg-name="Pondicherry West XI vs Pondicherry South XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93002" group-title="Pondicherry Masters 10 Over Cricket Tournament",Pondicherry West XI vs Pondicherry South XI
 https://dai.google.com/linear/hls/event/cnaBA4sUQUqs-tjlpKcFxw/master.m3u8
+#EXTINF:-1 tvg-name="Malaysia vs Hong Kong, China" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93265" group-title="Malaysia tour of Hong Kong, 2024",Malaysia vs Hong Kong, China
+https://dai.google.com/linear/hls/event/bPVktzunQOS4xYHXRbfZug/master.m3u8
 #EXTINF:-1 tvg-name="India PD vs England PD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93080" group-title="India-England Physically Disabled T20, 2024",India PD vs England PD
 https://dai.google.com/linear/hls/event/CKSFcplZRmWJ7vNAlNhG4A/master.m3u8
 #EXTINF:-1 tvg-name="Wellington Phoenix vs Central Coast Mariners" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92566" group-title="A League Men 2023-24",Wellington Phoenix vs Central Coast Mariners
