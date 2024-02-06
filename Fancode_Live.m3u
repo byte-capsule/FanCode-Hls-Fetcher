@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Suncorp vs London Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92736" group-title="ICCA Arabian Cricket League Round 2",Suncorp vs London Lions
-https://dai.google.com/linear/hls/event/5PWnUsueQQeQDB0pIvULlA/master.m3u8
 #EXTINF:-1 tvg-name="Amerat Royals vs Ghubrah Giants" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92726" group-title="Oman D10 League, 2024",Amerat Royals vs Ghubrah Giants
 https://dai.fancode.com/primary/92726_english_hls_4580adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Chattogram Challengers vs Fortune Barishal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="90964" group-title="Bangladesh Premier League, 2024",Chattogram Challengers vs Fortune Barishal
- Free Trial attempt unsuccessful......it requires Premium Account
-#EXTINF:-1 tvg-name="Royal Barcelona vs Catalunya Dragons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93192" group-title="ECS Spain, 2024",Royal Barcelona vs Catalunya Dragons
-https://dai.google.com/linear/hls/event/hbLtyUUcSfSExaQ6cVI0mA/master.m3u8
+#EXTINF:-1 tvg-name="Kuwait Under-19 vs Toyota TGS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92091" group-title="KCC T20 Challengers Cup, 2024",Kuwait Under-19 vs Toyota TGS
+https://dai.google.com/linear/hls/event/u8BP3OPBQS68CziTf0l3Ig/master.m3u8
