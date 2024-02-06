@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Pondicherry North XI vs Karaikal XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93000" group-title="Pondicherry Masters 10 Over Cricket Tournament",Pondicherry North XI vs Karaikal XI
-https://dai.google.com/linear/hls/event/48EhlhbVRg-vwEMGGaNUQw/master.m3u8
 #EXTINF:-1 tvg-name="Rangpur Riders vs Durdanto Dhaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="90963" group-title="Bangladesh Premier League, 2024",Rangpur Riders vs Durdanto Dhaka
 https://dai.google.com/linear/hls/event/aHlIGXuXS66wfZ-xqUrqIg/master.m3u8
-#EXTINF:-1 tvg-name="Catalunya Jaguar vs Barcelona International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93189" group-title="ECS Spain, 2024",Catalunya Jaguar vs Barcelona International
-https://dai.google.com/linear/hls/event/KRgyrSr0RdigjuoItcWVZA/master.m3u8
