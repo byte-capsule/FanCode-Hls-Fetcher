@@ -7,3 +7,5 @@ https://dai.fancode.com/primary/92725_english_hls_4318adfreeta-no/index.m3u8
  Free Trial attempt unsuccessful......it requires Premium Account
 #EXTINF:-1 tvg-name="Catalunya Dragons vs Royal Barcelona" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93191" group-title="ECS Spain, 2024",Catalunya Dragons vs Royal Barcelona
 https://dai.google.com/linear/hls/event/p1xu4OUxTlmFSiWRCfhuCw/master.m3u8
+#EXTINF:-1 tvg-name="Royal Barcelona vs Catalunya Dragons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93192" group-title="ECS Spain, 2024",Royal Barcelona vs Catalunya Dragons
+https://dai.google.com/linear/hls/event/hbLtyUUcSfSExaQ6cVI0mA/master.m3u8
