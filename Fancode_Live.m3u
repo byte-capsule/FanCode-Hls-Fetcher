@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Comilla Victorians vs Khulna Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="90965" group-title="Bangladesh Premier League, 2024",Comilla Victorians vs Khulna Tigers
 https://dai.google.com/linear/hls/event/sbt45IITSsuWNTEQfKuA-w/master.m3u8
-#EXTINF:-1 tvg-name="Pondicherry West XI vs Pondicherry South XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93003" group-title="Pondicherry Masters 10 Over Cricket Tournament",Pondicherry West XI vs Pondicherry South XI
-https://dai.google.com/linear/hls/event/yC1FZOhlREiM9MfGkmF9EA/master.m3u8
-#EXTINF:-1 tvg-name="Catalunya Red vs Men in Blue" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93193" group-title="ECS Spain, 2024",Catalunya Red vs Men in Blue
-https://dai.google.com/linear/hls/event/qFYml5bMSdeO4Uf8TMLNvA/master.m3u8
+#EXTINF:-1 tvg-name="Catalunya Red vs Men in Blue" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93194" group-title="ECS Spain, 2024",Catalunya Red vs Men in Blue
+https://dai.google.com/linear/hls/event/otRPvdidTR-pdrBGDpr3vQ/master.m3u8
