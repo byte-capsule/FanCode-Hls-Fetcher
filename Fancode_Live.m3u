@@ -5,3 +5,5 @@
 https://dai.google.com/linear/hls/event/K9bMrIMSS_qatOHo_d5sWw/master.m3u8
 #EXTINF:-1 tvg-name="Al Hajery Team XI vs Al Mulla Exchange" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="91642" group-title="Kuwait T20 Elite Cup 2nd Edition, 2024",Al Hajery Team XI vs Al Mulla Exchange
 https://dai.google.com/linear/hls/event/JKZxvAbiTHy4tkJ0mCQWtg/master.m3u8
+#EXTINF:-1 tvg-name="Nigeria vs South Africa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="91163" group-title="Africa Cup of Nations",Nigeria vs South Africa
+https://dai.fancode.com/primary/91163_english_hls_5317adfreeta-no/index.m3u8
