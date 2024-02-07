@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Ruwi Rangers vs Ghubrah Giants" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92728" group-title="Oman D10 League, 2024",Ruwi Rangers vs Ghubrah Giants
+https://dai.fancode.com/primary/92728_english_hls_4793adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Royal Barcelona vs Pak I Care Badalona" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93195" group-title="ECS Spain, 2024",Royal Barcelona vs Pak I Care Badalona
 https://dai.google.com/linear/hls/event/qJHseaf-TNSGEaFcfhxsRw/master.m3u8
 #EXTINF:-1 tvg-name="Durdanto Dhaka vs Sylhet Strikers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="90966" group-title="Bangladesh Premier League, 2024",Durdanto Dhaka vs Sylhet Strikers
