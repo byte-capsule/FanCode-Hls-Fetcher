@@ -3,7 +3,7 @@
 https://dai.fancode.com/primary/92731_english_hls_5488adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Catalunya Dragons vs Barcelona International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93199" group-title="ECS Spain, 2024",Catalunya Dragons vs Barcelona International
 https://dai.google.com/linear/hls/event/TRL7sUqFRCOIG7kJUDl4Jg/master.m3u8
-#EXTINF:-1 tvg-name="Jamaica Scorpions vs Windward Islands Volcanoes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93709" group-title="West Indies Championship",Jamaica Scorpions vs Windward Islands Volcanoes
-https://dai.google.com/linear/hls/event/K9bMrIMSS_qatOHo_d5sWw/master.m3u8
 #EXTINF:-1 tvg-name="Fly Emirates vs Alif Pharma" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92738" group-title="ICCA Arabian Cricket League Round 2",Fly Emirates vs Alif Pharma
 https://dai.google.com/linear/hls/event/JK5fHpTXQHKqwQJDMxJhIA/master.m3u8
+#EXTINF:-1 tvg-name="Jamaica Scorpions vs Windward Islands Volcanoes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93709" group-title="West Indies Championship",Jamaica Scorpions vs Windward Islands Volcanoes
+https://dai.google.com/linear/hls/event/K9bMrIMSS_qatOHo_d5sWw/master.m3u8
