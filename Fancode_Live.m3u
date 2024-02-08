@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Nepal vs Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93872" group-title="Canada tour of Nepal, 2024",Nepal vs Canada
+#EXTINF:-1 tvg-name="Nepal vs Canada-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93872" group-title="Canada tour of Nepal, 2024",Nepal vs Canada
 https://dai.fancode.com/primary/93872_english_hls_4895adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Hong Kong, China vs Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93266" group-title="Malaysia tour of Hong Kong, 2024",Hong Kong, China vs Malaysia
 https://dai.google.com/linear/hls/event/qtkpUBYITBySKry1whsduA/master.m3u8
