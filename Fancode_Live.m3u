@@ -3,5 +3,7 @@
 https://dai.google.com/linear/hls/event/qtkpUBYITBySKry1whsduA/master.m3u8
 #EXTINF:-1 tvg-name="Jamaica Scorpions vs Windward  Islands Volcanoes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93709" group-title="West Indies Championship",Jamaica Scorpions vs Windward  Islands Volcanoes
 https://dai.google.com/linear/hls/event/K9bMrIMSS_qatOHo_d5sWw/master.m3u8
-#EXTINF:-1 tvg-name="Forge vs Guadalajara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93737" group-title="CONCACAF Champions Cup",Forge vs Guadalajara
-https://dai.google.com/linear/hls/event/V-u9xbq4SO-s_ZAab-nniA/master.m3u8
+#EXTINF:-1 tvg-name="Nepal vs Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93872" group-title="Canada tour of Nepal, 2024",Nepal vs Canada
+https://dai.fancode.com/primary/93872_english_hls_4895adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Vancouver Whitecaps FC vs Tigres" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93738" group-title="CONCACAF Champions Cup",Vancouver Whitecaps FC vs Tigres
+https://dai.google.com/linear/hls/event/VVFEhpVeQB2GkrG1ry6SSA/master.m3u8
