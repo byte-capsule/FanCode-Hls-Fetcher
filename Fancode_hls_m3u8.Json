@@ -1,31 +1,9 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 4,
-  "updated_on": "08-02-2024 on 4:45:52 PM \ud83c\udf1e",
+  "channels_amount": 2,
+  "updated_on": "08-02-2024 on 5:10:52 PM \ud83c\udf1e",
   "channels": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Canada tour of Nepal, 2024",
-      "match_id": 93872,
-      "match_name": "Nepal vs Canada",
-      "team_1": "Nepal",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
-      "team_2": "Canada",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAN@2x.png",
-      "stream_link": "https://dai.fancode.com/primary/93872_english_hls_4895adfreeta-no/index.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECS Spain, 2024",
-      "match_id": 93197,
-      "match_name": "Royal Barcelona vs Magic Badalona",
-      "team_1": "Royal Barcelona",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RB@2x.png",
-      "team_2": "Magic Badalona",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MGC@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/BARc6kuSQACbHg0HdUNSuw/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "ECS Spain, 2024",
