@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Qurum Thunders vs Ghubrah Giants" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92731" group-title="Oman D10 League, 2024",Qurum Thunders vs Ghubrah Giants
+https://dai.fancode.com/primary/92731_english_hls_5488adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Catalunya Dragons vs Barcelona International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93199" group-title="ECS Spain, 2024",Catalunya Dragons vs Barcelona International
 https://dai.google.com/linear/hls/event/TRL7sUqFRCOIG7kJUDl4Jg/master.m3u8
 #EXTINF:-1 tvg-name="Jamaica Scorpions vs Windward Islands Volcanoes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93709" group-title="West Indies Championship",Jamaica Scorpions vs Windward Islands Volcanoes
