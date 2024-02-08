@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Amerat Royals vs Ruwi Rangers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92732" group-title="Oman D10 League, 2024",Amerat Royals vs Ruwi Rangers
 https://dai.fancode.com/primary/92732_english_hls_5372adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Barcelona International vs Catalunya Dragons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93200" group-title="ECS Spain, 2024",Barcelona International vs Catalunya Dragons
-https://dai.google.com/linear/hls/event/1ObneMvvQEqnoX4vAEDoKQ/master.m3u8
 #EXTINF:-1 tvg-name="Fly Emirates vs Alif Pharma" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92738" group-title="ICCA Arabian Cricket League Round 2",Fly Emirates vs Alif Pharma
 https://dai.google.com/linear/hls/event/JK5fHpTXQHKqwQJDMxJhIA/master.m3u8
 #EXTINF:-1 tvg-name="Jamaica Scorpions vs Windward Islands Volcanoes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93709" group-title="West Indies Championship",Jamaica Scorpions vs Windward Islands Volcanoes
