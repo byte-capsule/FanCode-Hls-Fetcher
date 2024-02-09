@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Friends XI vs Kuwait Nationals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92095" group-title="KCC T20 Challengers Cup, 2024",Friends XI vs Kuwait Nationals
+https://dai.google.com/linear/hls/event/XJFaQp4GQWiOCB8KsVx_nA/master.m3u8
 #EXTINF:-1 tvg-name="Singapore vs Cambodia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92944" group-title="ACC Men's T20I Challenger Cup, 2024",Singapore vs Cambodia
 https://dai.google.com/linear/hls/event/Y444WkB3StWglpNwFHaERQ/master.m3u8
 #EXTINF:-1 tvg-name="Jamaica Scorpions vs Windward Islands Volcanoes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93709" group-title="West Indies Championship",Jamaica Scorpions vs Windward Islands Volcanoes
@@ -9,7 +11,7 @@ https://dai.google.com/linear/hls/event/dGDTHEB1RhepC8ouPs9a5w/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
 #EXTINF:-1 tvg-name="Catalunya Red vs Catalunya Jaguar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93201" group-title="ECS Spain, 2024",Catalunya Red vs Catalunya Jaguar
 https://dai.google.com/linear/hls/event/A9uZZrsJQeqdQEIDhlyyRw/master.m3u8
-#EXTINF:-1 tvg-name="Rajasthan United FC vs Real Kashmir FC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92912" group-title="I League 2023-24",Rajasthan United FC vs Real Kashmir FC
-https://dai.google.com/linear/hls/event/7ykFKRetSuWrz_kAtvk_qg/master.m3u8
 #EXTINF:-1 tvg-name="Adelaide United vs Perth Glory" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92573" group-title="A League Men 2023-24",Adelaide United vs Perth Glory
 https://dai.google.com/linear/hls/event/yE4kOqM-SYuKKQU6vgZVHQ/master.m3u8
+#EXTINF:-1 tvg-name="Rajasthan United FC vs Real Kashmir FC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92912" group-title="I League 2023-24",Rajasthan United FC vs Real Kashmir FC
+https://dai.google.com/linear/hls/event/7ykFKRetSuWrz_kAtvk_qg/master.m3u8
