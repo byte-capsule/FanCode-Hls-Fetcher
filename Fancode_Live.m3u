@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Qurum Thunders vs Ruwi Rangers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92734" group-title="Oman D10 League, 2024",Qurum Thunders vs Ruwi Rangers
-https://dai.fancode.com/primary/92734_english_hls_5703adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Golden Sapero Technical Service vs Mid-East Metals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92740" group-title="ICCA Arabian Cricket League Round 2",Golden Sapero Technical Service vs Mid-East Metals
-https://dai.google.com/linear/hls/event/BULfDOTQTp2Fyxw10vFeVw/master.m3u8
+#EXTINF:-1 tvg-name="Amerat Royals vs Bousher Busters" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92735" group-title="Oman D10 League, 2024",Amerat Royals vs Bousher Busters
+https://dai.fancode.com/primary/92735_english_hls_5504adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Royal Barcelona vs Men in Blue" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93204" group-title="ECS Spain, 2024",Royal Barcelona vs Men in Blue
 https://dai.google.com/linear/hls/event/h92R7HUKQmuKc9FXySJwSA/master.m3u8
 #EXTINF:-1 tvg-name="Durdanto Dhaka vs Comilla Victorians" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="90968" group-title="Bangladesh Premier League, 2024",Durdanto Dhaka vs Comilla Victorians
