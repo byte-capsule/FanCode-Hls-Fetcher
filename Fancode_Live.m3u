@@ -7,9 +7,5 @@ https://dai.google.com/linear/hls/event/K9bMrIMSS_qatOHo_d5sWw/master.m3u8
 https://dai.google.com/linear/hls/event/dGDTHEB1RhepC8ouPs9a5w/master.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka vs Afghanistan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="91209" group-title="Afghanistan tour of Sri Lanka, 2024",Sri Lanka vs Afghanistan
 https://pubads.g.doubleclick.net/ssai/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
-#EXTINF:-1 tvg-name="Catalunya Red vs Catalunya Jaguar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93201" group-title="ECS Spain, 2024",Catalunya Red vs Catalunya Jaguar
-https://dai.google.com/linear/hls/event/A9uZZrsJQeqdQEIDhlyyRw/master.m3u8
-#EXTINF:-1 tvg-name="Adelaide United vs Perth Glory" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92573" group-title="A League Men 2023-24",Adelaide United vs Perth Glory
-https://dai.google.com/linear/hls/event/yE4kOqM-SYuKKQU6vgZVHQ/master.m3u8
-#EXTINF:-1 tvg-name="Rajasthan United FC vs Real Kashmir FC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92912" group-title="I League 2023-24",Rajasthan United FC vs Real Kashmir FC
-https://dai.google.com/linear/hls/event/7ykFKRetSuWrz_kAtvk_qg/master.m3u8
+#EXTINF:-1 tvg-name="Catalunya Jaguar vs Catalunya Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93202" group-title="ECS Spain, 2024",Catalunya Jaguar vs Catalunya Red
+https://dai.google.com/linear/hls/event/DXZ2m-VOTRi36iLyC2Y4iw/master.m3u8
