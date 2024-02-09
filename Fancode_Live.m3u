@@ -3,3 +3,5 @@
 https://dai.google.com/linear/hls/event/K9bMrIMSS_qatOHo_d5sWw/master.m3u8
 #EXTINF:-1 tvg-name="Malaysia vs Hong Kong, China" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93267" group-title="Malaysia tour of Hong Kong, 2024",Malaysia vs Hong Kong, China
 https://dai.google.com/linear/hls/event/RiZ-baIUTZSBU8YysP_nmA/master.m3u8
+#EXTINF:-1 tvg-name="Japan vs Saudi Arabia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92943" group-title="ACC Men's T20I Challenger Cup, 2024",Japan vs Saudi Arabia
+https://dai.google.com/linear/hls/event/CGjhGEfUQ2OBpXLwXO09zA/master.m3u8
