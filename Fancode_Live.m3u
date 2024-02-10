@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="DCC Starlets vs Suncorp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92742" group-title="ICCA Arabian Cricket League Round 2",DCC Starlets vs Suncorp
 https://dai.google.com/linear/hls/event/4eCqEtugRvCAO6ZDLZ6cww/master.m3u8
-#EXTINF:-1 tvg-name="Sorwathe Girls CC Women vs Indatwa Hampshire CC Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93071" group-title="RCA Women's T10 League",Sorwathe Girls CC Women vs Indatwa Hampshire CC Women
+#EXTINF:-1 tvg-name="Indatwa Hampshire CC Women vs Sorwathe Girls CC Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93071" group-title="RCA Women's T10 League",Indatwa Hampshire CC Women vs Sorwathe Girls CC Women
 https://dai.google.com/linear/hls/event/VPjs9gBVSFaw9iQfhg-xkg/master.m3u8
 #EXTINF:-1 tvg-name="Fortune Barishal vs Durdanto Dhaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="90970" group-title="Bangladesh Premier League, 2024",Fortune Barishal vs Durdanto Dhaka
 https://dai.google.com/linear/hls/event/HzDf-V7IQF2KdX6WdyqTDw/master.m3u8
@@ -9,3 +9,5 @@ https://dai.google.com/linear/hls/event/HzDf-V7IQF2KdX6WdyqTDw/master.m3u8
 https://dai.google.com/linear/hls/event/aToCHDk3StuRxXNE7yCvNg/master.m3u8
 #EXTINF:-1 tvg-name="Ipswich Town vs West Bromwich Albion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="91981" group-title="EFL Championship 2023-24",Ipswich Town vs West Bromwich Albion
 https://dai.fancode.com/primary/91981_english_hls_8243adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Aizawl vs Mohammedan SC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92914" group-title="I League 2023-24",Aizawl vs Mohammedan SC
+https://dai.google.com/linear/hls/event/crD_2VMaTJq6O6SnDDx91A/master.m3u8
