@@ -1,3 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Sorwathe Girls CC Women vs Indatwa Hampshire CC Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93071" group-title="RCA Women's T10 League",Sorwathe Girls CC Women vs Indatwa Hampshire CC Women
+https://dai.google.com/linear/hls/event/VPjs9gBVSFaw9iQfhg-xkg/master.m3u8
+#EXTINF:-1 tvg-name="Fortune Barishal vs Durdanto Dhaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="90970" group-title="Bangladesh Premier League, 2024",Fortune Barishal vs Durdanto Dhaka
+https://dai.google.com/linear/hls/event/HzDf-V7IQF2KdX6WdyqTDw/master.m3u8
 #EXTINF:-1 tvg-name="Pak Barcelona vs Sohal Hospitalet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93206" group-title="ECS Spain, 2024",Pak Barcelona vs Sohal Hospitalet
 https://dai.google.com/linear/hls/event/P1XibHbeRdybokYr-lu3mw/master.m3u8
