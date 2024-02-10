@@ -1,16 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Bhutan Women vs Maldives Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93621" group-title="ACC Women's T20 Premier Cup, 2024",Bhutan Women vs Maldives Women
 https://dai.google.com/linear/hls/event/HttScd-ASQOH2pi8jj7IMw/master.m3u8
-#EXTINF:-1 tvg-name="Bahrain Women vs Qatar Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93620" group-title="ACC Women's T20 Premier Cup, 2024",Bahrain Women vs Qatar Women
-https://dai.google.com/linear/hls/event/rAcCiznUSimJIt7Xw3v81w/master.m3u8
 #EXTINF:-1 tvg-name="Japan Women vs Oman Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93619" group-title="ACC Women's T20 Premier Cup, 2024",Japan Women vs Oman Women
 https://dai.google.com/linear/hls/event/Pr5mBaCNRJCA7xEgZ-F-WA/master.m3u8
 #EXTINF:-1 tvg-name="Singapore Women vs Kuwait Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93615" group-title="ACC Women's T20 Premier Cup, 2024",Singapore Women vs Kuwait Women
 https://dai.google.com/linear/hls/event/3EnK9NKCSeuvaMdKTRCJ0Q/master.m3u8
-#EXTINF:-1 tvg-name="Canada vs Nepal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93873" group-title="Canada tour of Nepal, 2024",Canada vs Nepal
-https://dai.fancode.com/primary/93873_english_hls_5439adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Rangpur Riders vs Chattogram Challengers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="90969" group-title="Bangladesh Premier League, 2024",Rangpur Riders vs Chattogram Challengers
 https://dai.google.com/linear/hls/event/Pq8cWJzOSpiuT0UI6gQDDg/master.m3u8
+#EXTINF:-1 tvg-name="Canada vs Nepal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93873" group-title="Canada tour of Nepal, 2024",Canada vs Nepal
+https://dai.fancode.com/primary/93873_english_hls_5439adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Gahanga Queens CC Women vs Charity CC Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93069" group-title="RCA Women's T10 League",Gahanga Queens CC Women vs Charity CC Women
 https://dai.google.com/linear/hls/event/NASTL5FNTdC1SG10dpNwkA/master.m3u8
 #EXTINF:-1 tvg-name="Brisbane Roar vs Melbourne City" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92576" group-title="A League Men 2023-24",Brisbane Roar vs Melbourne City
