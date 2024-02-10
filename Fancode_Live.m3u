@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DCC Starlets vs Suncorp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92742" group-title="ICCA Arabian Cricket League Round 2",DCC Starlets vs Suncorp
+https://dai.google.com/linear/hls/event/4eCqEtugRvCAO6ZDLZ6cww/master.m3u8
 #EXTINF:-1 tvg-name="Sorwathe Girls CC Women vs Indatwa Hampshire CC Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93071" group-title="RCA Women's T10 League",Sorwathe Girls CC Women vs Indatwa Hampshire CC Women
 https://dai.google.com/linear/hls/event/VPjs9gBVSFaw9iQfhg-xkg/master.m3u8
 #EXTINF:-1 tvg-name="Fortune Barishal vs Durdanto Dhaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="90970" group-title="Bangladesh Premier League, 2024",Fortune Barishal vs Durdanto Dhaka
