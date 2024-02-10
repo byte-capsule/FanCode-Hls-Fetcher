@@ -3,5 +3,7 @@
 https://dai.google.com/linear/hls/event/VPjs9gBVSFaw9iQfhg-xkg/master.m3u8
 #EXTINF:-1 tvg-name="Fortune Barishal vs Durdanto Dhaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="90970" group-title="Bangladesh Premier League, 2024",Fortune Barishal vs Durdanto Dhaka
 https://dai.google.com/linear/hls/event/HzDf-V7IQF2KdX6WdyqTDw/master.m3u8
-#EXTINF:-1 tvg-name="Pak Barcelona vs Sohal Hospitalet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93206" group-title="ECS Spain, 2024",Pak Barcelona vs Sohal Hospitalet
-https://dai.google.com/linear/hls/event/P1XibHbeRdybokYr-lu3mw/master.m3u8
+#EXTINF:-1 tvg-name="Catalunya Red vs Barcelona International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93207" group-title="ECS Spain, 2024",Catalunya Red vs Barcelona International
+https://dai.google.com/linear/hls/event/aToCHDk3StuRxXNE7yCvNg/master.m3u8
+#EXTINF:-1 tvg-name="Ipswich Town vs West Bromwich Albion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="91981" group-title="EFL Championship 2023-24",Ipswich Town vs West Bromwich Albion
+https://dai.fancode.com/primary/91981_english_hls_8243adfreeta-no/index.m3u8
