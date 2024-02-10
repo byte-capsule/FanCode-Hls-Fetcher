@@ -1,1 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Hong Kong, China Women vs Nepal Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93618" group-title="ACC Women's T20 Premier Cup, 2024",Hong Kong, China Women vs Nepal Women
+https://dai.google.com/linear/hls/event/5RaDcqaCS8-Qxdl3OpLHIQ/master.m3u8
+#EXTINF:-1 tvg-name="Indonesia Women vs Malaysia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93617" group-title="ACC Women's T20 Premier Cup, 2024",Indonesia Women vs Malaysia Women
+https://dai.google.com/linear/hls/event/s7TyWk-6QzOXA6A0Ooy44Q/master.m3u8
+#EXTINF:-1 tvg-name="United Arab Emirates Women vs China Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93616" group-title="ACC Women's T20 Premier Cup, 2024",United Arab Emirates Women vs China Women
+https://dai.google.com/linear/hls/event/62Ik5m19RUyOj_2ZUlhdLw/master.m3u8
+#EXTINF:-1 tvg-name="Myanmar Women vs Thailand Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93614" group-title="ACC Women's T20 Premier Cup, 2024",Myanmar Women vs Thailand Women
+https://dai.google.com/linear/hls/event/P_xBr9hoQ2qXd3vPglUvfQ/master.m3u8
