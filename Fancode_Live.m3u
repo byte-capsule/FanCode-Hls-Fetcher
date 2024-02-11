@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Indonesia Women vs Bahrain Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93625" group-title="ACC Women's T20 Premier Cup, 2024",Indonesia Women vs Bahrain Women
-https://dai.google.com/linear/hls/event/atHL6jPjTW2oUYgCVr1uRg/master.m3u8
-#EXTINF:-1 tvg-name="United Arab Emirates Women vs Oman Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93624" group-title="ACC Women's T20 Premier Cup, 2024",United Arab Emirates Women vs Oman Women
-https://dai.google.com/linear/hls/event/EUJ7AuA4To2ZZqWjeF35Hg/master.m3u8
 #EXTINF:-1 tvg-name="Thailand Women vs Kuwait Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93623" group-title="ACC Women's T20 Premier Cup, 2024",Thailand Women vs Kuwait Women
 https://dai.google.com/linear/hls/event/cB4FPbR4Qn-7UEVdSEWnuA/master.m3u8
 #EXTINF:-1 tvg-name="Japan vs Singapore" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92945" group-title="ACC Men's T20I Challenger Cup, 2024",Japan vs Singapore
