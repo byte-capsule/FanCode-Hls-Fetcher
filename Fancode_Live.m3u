@@ -7,3 +7,5 @@ https://dai.google.com/linear/hls/event/EUJ7AuA4To2ZZqWjeF35Hg/master.m3u8
 https://dai.google.com/linear/hls/event/cB4FPbR4Qn-7UEVdSEWnuA/master.m3u8
 #EXTINF:-1 tvg-name="Bhutan Women vs Nepal Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93622" group-title="ACC Women's T20 Premier Cup, 2024",Bhutan Women vs Nepal Women
 https://dai.google.com/linear/hls/event/1xzxdIKTR2Oo4z_oLUyR_A/master.m3u8
+#EXTINF:-1 tvg-name="Japan vs Singapore" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92945" group-title="ACC Men's T20I Challenger Cup, 2024",Japan vs Singapore
+https://dai.google.com/linear/hls/event/bhyw-L47SgO8qsfeIMooWA/master.m3u8
