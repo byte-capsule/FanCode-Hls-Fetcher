@@ -1,3 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Toyota TGS vs GAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92098" group-title="KCC T20 Challengers Cup, 2024",Toyota TGS vs GAT
+https://dai.google.com/linear/hls/event/4zPcAmwgTEO9qKWKsiaHsQ/master.m3u8
 #EXTINF:-1 tvg-name="Pak I Care Badalona vs Magic Badalona" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93212" group-title="ECS Spain, 2024",Pak I Care Badalona vs Magic Badalona
 https://dai.google.com/linear/hls/event/PtRbDozaSte0eE61aSL_RA/master.m3u8
