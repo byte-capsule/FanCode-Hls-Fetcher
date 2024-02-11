@@ -87,6 +87,7 @@ curl -X GET https://raw.githubusercontent.com/byte-capsule/FanCode-Hls-Fetcher/m
 **📹 Other**
 * Use Any OTT Player [Download](https://www.google.com/search?q=ott+player+for+pc+and+ios&client=ms-android-xiaomi-terr1-rso2&sca_esv=596181589&sxsrf=AM9HkKnV10drltrN-Twr51eQaTzOzAP_pg%3A1704535658479&ei=aiaZZebrHIG8juMPwLuasAQ&oq=ott+player+for+pc+and+ios&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIhlvdHQgcGxheWVyIGZvciBwYyBhbmQgaW9zMgUQIRigATIFECEYoAEyBRAhGJ8FSKIzUKAIWKcucAJ4AZABAJgBlgOgAbARqgEJMC4zLjQuMS4xuAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICBhAAGBYYHuIDBBgAIEGIBgGQBgg&sclient=mobile-gws-wiz-serp)
 * Add This Universal PlayList [Playlist Link](https://raw.githubusercontent.com/byte-capsule/FanCode-Hls-Fetcher/main/Fancode_Live.m3u)
+* 👆 Short Link : https://s.id/21HE6
 *  Enjoy 😊
 
 **🧩 Some IPTV Players Names**
