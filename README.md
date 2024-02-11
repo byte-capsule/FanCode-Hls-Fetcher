@@ -73,12 +73,14 @@ curl -X GET https://raw.githubusercontent.com/byte-capsule/FanCode-Hls-Fetcher/m
 **📱Android**
 
 * Universal PlayList works in Any IPTV Player App [Playlist Link](https://raw.githubusercontent.com/byte-capsule/FanCode-Hls-Fetcher/main/Fancode_Live.m3u)
+* 👆 Short Link : https://s.id/21HE6
 
 *  Enjoy 😊
 
 **🖥️ Android TV**
 
 * Universal PlayList works in Any IPTV Player [Playlist Link](https://raw.githubusercontent.com/byte-capsule/FanCode-Hls-Fetcher/main/Fancode_Live.m3u)
+* 👆 Short Link : https://s.id/21HE6
 
 *  Enjoy 😊
 
