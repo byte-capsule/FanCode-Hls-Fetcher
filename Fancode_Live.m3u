@@ -1,3 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="KRM Panthers vs Afghan Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92100" group-title="KCC T20 Challengers Cup, 2024",KRM Panthers vs Afghan Tigers
+https://dai.google.com/linear/hls/event/JlzMS0YpRpyWTFL2O266vQ/master.m3u8
 #EXTINF:-1 tvg-name="Al Riffa vs Al-Nahda Muscat Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93646" group-title="AFC Cup",Al Riffa vs Al-Nahda Muscat Club
 https://dai.google.com/linear/hls/event/2YtX42efSsuQlCK6NKsZfg/master.m3u8
