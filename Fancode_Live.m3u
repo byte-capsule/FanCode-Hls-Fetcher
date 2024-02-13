@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Rayan XI vs Friends XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92099" group-title="KCC T20 Challengers Cup, 2024",Rayan XI vs Friends XI
 https://dai.google.com/linear/hls/event/aQkij628TiGO_ENUPk3m4Q/master.m3u8
-#EXTINF:-1 tvg-name="London Lions vs DCC Starlets" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92895" group-title="ICCA Arabian Cricket League Round 2",London Lions vs DCC Starlets
+#EXTINF:-1 tvg-name="DCC Starlets vs London Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92895" group-title="ICCA Arabian Cricket League Round 2",DCC Starlets vs London Lions
 https://dai.google.com/linear/hls/event/n3Pk-OJiQvycvXwD8U-qQQ/master.m3u8
 #EXTINF:-1 tvg-name="Al Ahed vs Al Kahrabaa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93649" group-title="AFC Cup",Al Ahed vs Al Kahrabaa
 https://dai.google.com/linear/hls/event/crxkNB8nRaihUpeQM_wFCw/master.m3u8
