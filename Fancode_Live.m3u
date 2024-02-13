@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Thailand Women vs Singapore Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93636" group-title="ACC Women's T20 Premier Cup, 2024",Thailand Women vs Singapore Women
-https://dai.google.com/linear/hls/event/QnncEI7OT52KysA8za4nfw/master.m3u8
 #EXTINF:-1 tvg-name="Ruwi Rangers vs Qurum Thunders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93891" group-title="Oman D50 League, 2024",Ruwi Rangers vs Qurum Thunders
 https://dai.google.com/linear/hls/event/olwVtT6mSsCf5S44kfy3ww/master.m3u8
 #EXTINF:-1 tvg-name="Comilla Victorians vs Chattogram Challengers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="90971" group-title="Bangladesh Premier League, 2024",Comilla Victorians vs Chattogram Challengers
 https://dai.google.com/linear/hls/event/klZ4A_29SVyBS8722ZbBKQ/master.m3u8
-#EXTINF:-1 tvg-name="Macarthur vs Sabah FC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93647" group-title="AFC Cup",Macarthur vs Sabah FC
-https://dai.google.com/linear/hls/event/8XmPLJVUSLKI4dt5SfRLoQ/master.m3u8
+#EXTINF:-1 tvg-name="Barcelona International vs Royal Barcelona" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93217" group-title="ECS Spain, 2024",Barcelona International vs Royal Barcelona
+https://dai.google.com/linear/hls/event/oAZElxrXSYe-ULdCq3s5XA/master.m3u8
+#EXTINF:-1 tvg-name="Central Coast Mariners vs Phnom Penh Crown" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93648" group-title="AFC Cup",Central Coast Mariners vs Phnom Penh Crown
+https://dai.google.com/linear/hls/event/EvkFp0vHSWu9M9fmlTujgw/master.m3u8
