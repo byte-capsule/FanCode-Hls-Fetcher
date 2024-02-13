@@ -1,9 +1,53 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 1,
-  "updated_on": "13-02-2024 on 11:04:34 AM \ud83c\udf1e",
+  "channels_amount": 5,
+  "updated_on": "13-02-2024 on 11:26:37 AM \ud83c\udf1e",
   "channels": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "ACC Women's T20 Premier Cup, 2024",
+      "match_id": 93637,
+      "match_name": "Japan Women vs United Arab Emirates Women",
+      "team_1": "Japan Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JPN@2x.png",
+      "team_2": "United Arab Emirates Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UAE@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/UcQrCcjyTmuAnDcCt_04LQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ACC Women's T20 Premier Cup, 2024",
+      "match_id": 93636,
+      "match_name": "Thailand Women vs Singapore Women",
+      "team_1": "Thailand Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THL@2x.png",
+      "team_2": "Singapore Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SING@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/QnncEI7OT52KysA8za4nfw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ACC Women's T20 Premier Cup, 2024",
+      "match_id": 93635,
+      "match_name": "Nepal Women vs Maldives Women",
+      "team_1": "Nepal Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
+      "team_2": "Maldives Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MLD@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/uFSM8P53RbmAUi6PBvNdvA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ACC Women's T20 Premier Cup, 2024",
+      "match_id": 93634,
+      "match_name": "Qatar Women vs Indonesia Women",
+      "team_1": "Qatar Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-QTR@2x.png",
+      "team_2": "Indonesia Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-INDA@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/GpeV6S5BSJe1t16HXH8jEg/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "Navi Mumbai Premier League",

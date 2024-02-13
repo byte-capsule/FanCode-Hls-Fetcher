@@ -1,3 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Japan Women vs United Arab Emirates Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93637" group-title="ACC Women's T20 Premier Cup, 2024",Japan Women vs United Arab Emirates Women
+https://dai.google.com/linear/hls/event/UcQrCcjyTmuAnDcCt_04LQ/master.m3u8
+#EXTINF:-1 tvg-name="Thailand Women vs Singapore Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93636" group-title="ACC Women's T20 Premier Cup, 2024",Thailand Women vs Singapore Women
+https://dai.google.com/linear/hls/event/QnncEI7OT52KysA8za4nfw/master.m3u8
+#EXTINF:-1 tvg-name="Nepal Women vs Maldives Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93635" group-title="ACC Women's T20 Premier Cup, 2024",Nepal Women vs Maldives Women
+https://dai.google.com/linear/hls/event/uFSM8P53RbmAUi6PBvNdvA/master.m3u8
+#EXTINF:-1 tvg-name="Qatar Women vs Indonesia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93634" group-title="ACC Women's T20 Premier Cup, 2024",Qatar Women vs Indonesia Women
+https://dai.google.com/linear/hls/event/GpeV6S5BSJe1t16HXH8jEg/master.m3u8
 #EXTINF:-1 tvg-name="Kalyan Tuskers vs Ambernath Avengers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93935" group-title="Navi Mumbai Premier League",Kalyan Tuskers vs Ambernath Avengers
 https://dai.google.com/linear/hls/event/J70q47g3RFilvCilJYKpDQ/master.m3u8
