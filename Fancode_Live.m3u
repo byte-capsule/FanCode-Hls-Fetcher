@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Thailand Women vs Singapore Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93636" group-title="ACC Women's T20 Premier Cup, 2024",Thailand Women vs Singapore Women
 https://dai.google.com/linear/hls/event/QnncEI7OT52KysA8za4nfw/master.m3u8
-#EXTINF:-1 tvg-name="Nepal Women vs Maldives Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93635" group-title="ACC Women's T20 Premier Cup, 2024",Nepal Women vs Maldives Women
-https://dai.google.com/linear/hls/event/uFSM8P53RbmAUi6PBvNdvA/master.m3u8
 #EXTINF:-1 tvg-name="Ruwi Rangers vs Qurum Thunders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93891" group-title="Oman D50 League, 2024",Ruwi Rangers vs Qurum Thunders
 https://dai.google.com/linear/hls/event/olwVtT6mSsCf5S44kfy3ww/master.m3u8
 #EXTINF:-1 tvg-name="Comilla Victorians vs Chattogram Challengers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="90971" group-title="Bangladesh Premier League, 2024",Comilla Victorians vs Chattogram Challengers
