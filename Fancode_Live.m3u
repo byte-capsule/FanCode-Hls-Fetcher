@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Ruwi Rangers vs Qurum Thunders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93891" group-title="Oman D50 League, 2024",Ruwi Rangers vs Qurum Thunders
-https://dai.google.com/linear/hls/event/olwVtT6mSsCf5S44kfy3ww/master.m3u8
 #EXTINF:-1 tvg-name="Royal Barcelona vs Barcelona International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93218" group-title="ECS Spain, 2024",Royal Barcelona vs Barcelona International
 https://dai.google.com/linear/hls/event/6szhk1uzS96w6hOFD-h3YQ/master.m3u8
+#EXTINF:-1 tvg-name="Ruwi Rangers vs Qurum Thunders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93891" group-title="Oman D50 League, 2024",Ruwi Rangers vs Qurum Thunders
+https://dai.google.com/linear/hls/event/olwVtT6mSsCf5S44kfy3ww/master.m3u8
 #EXTINF:-1 tvg-name="Shandong Taishan vs Kawasaki Frontale" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93345" group-title="AFC Champions League",Shandong Taishan vs Kawasaki Frontale
 https://dai.fancode.com/primary/93345_english_hls_4765adfreeta-di/index.m3u8
