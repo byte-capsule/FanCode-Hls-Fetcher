@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Hong Kong, China vs China" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93581" group-title="East Asia Cup, 2024",Hong Kong, China vs China
-https://dai.google.com/linear/hls/event/PzZC4Y4MQZuVHl_JUjKrmw/master.m3u8
 #EXTINF:-1 tvg-name="United Arab Emirates Women vs Indonesia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93641" group-title="ACC Women's T20 Premier Cup, 2024",United Arab Emirates Women vs Indonesia Women
 https://dai.google.com/linear/hls/event/1Oce9CpOS3K4G55zUbk1sQ/master.m3u8
 #EXTINF:-1 tvg-name="Hong Kong, China Women vs Thailand Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93639" group-title="ACC Women's T20 Premier Cup, 2024",Hong Kong, China Women vs Thailand Women
