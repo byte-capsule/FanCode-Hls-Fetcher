@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Fortune Barishal vs Durdanto Dhaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="90973" group-title="Bangladesh Premier League, 2024",Fortune Barishal vs Durdanto Dhaka
 https://dai.google.com/linear/hls/event/f-pA118rSR6f7WuZcS6KBw/master.m3u8
-#EXTINF:-1 tvg-name="Bousher Busters vs Darsait Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93892" group-title="Oman D50 League, 2024",Bousher Busters vs Darsait Titans
-https://dai.google.com/linear/hls/event/Z3XpGmeTRr2J3XwK1qXU3g/master.m3u8
 #EXTINF:-1 tvg-name="Afghanistan vs Sri Lanka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="91211" group-title="Afghanistan tour of Sri Lanka, 2024",Afghanistan vs Sri Lanka
 https://pubads.g.doubleclick.net/ssai/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
+#EXTINF:-1 tvg-name="Bousher Busters vs Darsait Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93892" group-title="Oman D50 League, 2024",Bousher Busters vs Darsait Titans
+https://dai.google.com/linear/hls/event/Z3XpGmeTRr2J3XwK1qXU3g/master.m3u8
 #EXTINF:-1 tvg-name="Magic Badalona vs Catalunya Dragons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93221" group-title="ECS Spain, 2024",Magic Badalona vs Catalunya Dragons
 https://dai.google.com/linear/hls/event/zLdC_Rl9RC6s5-Lv7XBNOQ/master.m3u8
 #EXTINF:-1 tvg-name="Jeonbuk Motors vs Pohang Steelers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93343" group-title="AFC Champions League",Jeonbuk Motors vs Pohang Steelers
