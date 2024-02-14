@@ -1,11 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Japan vs Hong Kong, China" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93582" group-title="East Asia Cup, 2024",Japan vs Hong Kong, China
-https://dai.google.com/linear/hls/event/RSBdBVpGRH6diyHMXkToEQ/master.m3u8
-#EXTINF:-1 tvg-name="Kuwait Women vs Nepal Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93640" group-title="ACC Women's T20 Premier Cup, 2024",Kuwait Women vs Nepal Women
-https://dai.google.com/linear/hls/event/x4MBZxvES7WTQYEfyqIy9w/master.m3u8
-#EXTINF:-1 tvg-name="Malaysia Women vs Japan Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93638" group-title="ACC Women's T20 Premier Cup, 2024",Malaysia Women vs Japan Women
-https://dai.google.com/linear/hls/event/znVnOL4XQ423oNaEzF6tzw/master.m3u8
 #EXTINF:-1 tvg-name="Fortune Barishal vs Durdanto Dhaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="90973" group-title="Bangladesh Premier League, 2024",Fortune Barishal vs Durdanto Dhaka
 https://dai.google.com/linear/hls/event/f-pA118rSR6f7WuZcS6KBw/master.m3u8
 #EXTINF:-1 tvg-name="Bousher Busters vs Darsait Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93892" group-title="Oman D50 League, 2024",Bousher Busters vs Darsait Titans
 https://dai.google.com/linear/hls/event/Z3XpGmeTRr2J3XwK1qXU3g/master.m3u8
+#EXTINF:-1 tvg-name="Afghanistan vs Sri Lanka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="91211" group-title="Afghanistan tour of Sri Lanka, 2024",Afghanistan vs Sri Lanka
+https://pubads.g.doubleclick.net/ssai/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
+#EXTINF:-1 tvg-name="Magic Badalona vs Catalunya Dragons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93221" group-title="ECS Spain, 2024",Magic Badalona vs Catalunya Dragons
+https://dai.google.com/linear/hls/event/zLdC_Rl9RC6s5-Lv7XBNOQ/master.m3u8
