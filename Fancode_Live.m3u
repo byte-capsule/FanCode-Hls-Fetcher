@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Hong Kong, China Women vs Thailand Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93639" group-title="ACC Women's T20 Premier Cup, 2024",Hong Kong, China Women vs Thailand Women
-https://dai.google.com/linear/hls/event/LiwD9uQLQR6nAX6WurVf9A/master.m3u8
 #EXTINF:-1 tvg-name="Ambernath Avengers vs Koparkhairne Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93937" group-title="Navi Mumbai Premier League",Ambernath Avengers vs Koparkhairne Titans
 https://dai.google.com/linear/hls/event/V28awro_SI6WfTxBP9rhNA/master.m3u8
-#EXTINF:-1 tvg-name="Guadalajara vs Forge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93739" group-title="CONCACAF Champions Cup",Guadalajara vs Forge
-https://dai.google.com/linear/hls/event/12sRsrzBSqilbDvWC5B9kw/master.m3u8
