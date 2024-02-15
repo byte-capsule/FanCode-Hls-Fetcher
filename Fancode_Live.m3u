@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Pak I Care Badalona vs Men in Blue" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93226" group-title="ECS Spain, 2024",Pak I Care Badalona vs Men in Blue
+https://dai.google.com/linear/hls/event/sA9ChK4mTDS4b56a6bb5Wg/master.m3u8
 #EXTINF:-1 tvg-name="Leeward Islands Hurricanes vs Guyana Harpy Eagles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93710" group-title="West Indies Championship",Leeward Islands Hurricanes vs Guyana Harpy Eagles
 https://dai.google.com/linear/hls/event/NHkp29FNTlq6sifC6lIbJQ/master.m3u8
 #EXTINF:-1 tvg-name="Ulsan Hyundai vs Ventforet Kofu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93344" group-title="AFC Champions League",Ulsan Hyundai vs Ventforet Kofu
