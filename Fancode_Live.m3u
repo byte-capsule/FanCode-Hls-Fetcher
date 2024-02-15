@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Japan vs China" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93583" group-title="East Asia Cup, 2024",Japan vs China
-https://dai.google.com/linear/hls/event/J_cwZAq0SC2SWZ3h8a0Hhg/master.m3u8
-#EXTINF:-1 tvg-name="Leeward Islands Hurricanes vs Guyana Harpy Eagles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93710" group-title="West Indies Championship",Leeward Islands Hurricanes vs Guyana Harpy Eagles
-https://dai.google.com/linear/hls/event/NHkp29FNTlq6sifC6lIbJQ/master.m3u8
 #EXTINF:-1 tvg-name="Nepal vs Namibia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93575" group-title="ICC CWC League 2, 2023-27",Nepal vs Namibia
 https://dai.google.com/linear/hls/event/VQMxdh_-QMW6WPSlUqnr2g/master.m3u8
+#EXTINF:-1 tvg-name="Leeward Islands Hurricanes vs Guyana Harpy Eagles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93710" group-title="West Indies Championship",Leeward Islands Hurricanes vs Guyana Harpy Eagles
+https://dai.google.com/linear/hls/event/NHkp29FNTlq6sifC6lIbJQ/master.m3u8
 #EXTINF:-1 tvg-name="América vs Real Estelí" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93741" group-title="CONCACAF Champions Cup",América vs Real Estelí
 https://dai.google.com/linear/hls/event/I7rw7DGIQDijj_rsNHlwbg/master.m3u8
