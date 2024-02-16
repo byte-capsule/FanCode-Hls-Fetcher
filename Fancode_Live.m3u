@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Catalunya Dragons vs Men in Blue" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93232" group-title="ECS Spain, 2024",Catalunya Dragons vs Men in Blue
-https://dai.google.com/linear/hls/event/_r3eCBQvSOSi9SEhMys7YQ/master.m3u8
-#EXTINF:-1 tvg-name="Rangpur Riders vs Chattogram Challengers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="90976" group-title="Bangladesh Premier League, 2024",Rangpur Riders vs Chattogram Challengers
-https://dai.google.com/linear/hls/event/yjGDMm5HQ0m3dolnNDUBvg/master.m3u8
+#EXTINF:-1 tvg-name="GAT vs CECC-B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92107" group-title="KCC T20 Challengers Cup, 2024",GAT vs CECC-B
+https://dai.google.com/linear/hls/event/u6RmozZ_TCWFKCYj9SDnuA/master.m3u8
 #EXTINF:-1 tvg-name="Leeward Islands Hurricanes vs Guyana Harpy Eagles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93710" group-title="West Indies Championship",Leeward Islands Hurricanes vs Guyana Harpy Eagles
 https://dai.google.com/linear/hls/event/NHkp29FNTlq6sifC6lIbJQ/master.m3u8
