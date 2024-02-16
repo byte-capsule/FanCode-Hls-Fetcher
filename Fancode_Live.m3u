@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Japan vs China" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93586" group-title="East Asia Cup, 2024",Japan vs China
 https://dai.google.com/linear/hls/event/rzklrYhnS6SAvOQElRm3CA/master.m3u8
-#EXTINF:-1 tvg-name="Nepal Women vs Malaysia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93643" group-title="ACC Women's T20 Premier Cup, 2024",Nepal Women vs Malaysia Women
-https://dai.google.com/linear/hls/event/Li8WFmYhQ6ujV9VEB91pXQ/master.m3u8
 #EXTINF:-1 tvg-name="Leeward Islands Hurricanes vs Guyana Harpy Eagles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93710" group-title="West Indies Championship",Leeward Islands Hurricanes vs Guyana Harpy Eagles
 https://dai.google.com/linear/hls/event/NHkp29FNTlq6sifC6lIbJQ/master.m3u8
 #EXTINF:-1 tvg-name="Durdanto Dhaka vs Khulna Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="90975" group-title="Bangladesh Premier League, 2024",Durdanto Dhaka vs Khulna Tigers
 https://dai.google.com/linear/hls/event/Uek0XSwDRQqbrtzogEesjg/master.m3u8
 #EXTINF:-1 tvg-name="Qurum Thunders vs Amerat Royals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93893" group-title="Oman D50 League, 2024",Qurum Thunders vs Amerat Royals
 https://dai.google.com/linear/hls/event/kwg66LFqQSKsuLy0oTckVg/master.m3u8
-#EXTINF:-1 tvg-name="Sanpada Scorpions vs Belapur Blasters" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93941" group-title="Navi Mumbai Premier League",Sanpada Scorpions vs Belapur Blasters
-https://dai.google.com/linear/hls/event/llfmh6MxQKyDqZIWDMOqLg/master.m3u8
+#EXTINF:-1 tvg-name="Sohal Hospitalet vs Magic Badalona" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93229" group-title="ECS Spain, 2024",Sohal Hospitalet vs Magic Badalona
+https://dai.google.com/linear/hls/event/2N6RpG04RTSbBAnPhymPkg/master.m3u8
+#EXTINF:-1 tvg-name="Western United vs Newcastle Jets" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92580" group-title="A League Men 2023-24",Western United vs Newcastle Jets
+https://dai.google.com/linear/hls/event/NXNpiYprQpqcs9I2usJ_8A/master.m3u8
