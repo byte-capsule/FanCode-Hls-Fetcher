@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="China vs Hong Kong, China" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93585" group-title="East Asia Cup, 2024",China vs Hong Kong, China
-https://dai.google.com/linear/hls/event/zrhKkND0TTuoVpa3b5nQAA/master.m3u8
 #EXTINF:-1 tvg-name="United Arab Emirates Women vs Thailand Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93642" group-title="ACC Women's T20 Premier Cup, 2024",United Arab Emirates Women vs Thailand Women
 https://dai.google.com/linear/hls/event/KajKIFveQ2SFqiN8SLUlzg/master.m3u8
 #EXTINF:-1 tvg-name="Leeward Islands Hurricanes vs Guyana Harpy Eagles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93710" group-title="West Indies Championship",Leeward Islands Hurricanes vs Guyana Harpy Eagles
