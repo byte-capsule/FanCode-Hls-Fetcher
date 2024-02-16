@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Rayan XI vs IB CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92105" group-title="KCC T20 Challengers Cup, 2024",Rayan XI vs IB CC
-https://dai.google.com/linear/hls/event/3FkGdmlOQWCsBi5KF4A1wg/master.m3u8
+#EXTINF:-1 tvg-name="Al Sayer vs Noor CM Academy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92106" group-title="KCC T20 Challengers Cup, 2024",Al Sayer vs Noor CM Academy
+https://dai.google.com/linear/hls/event/CjBss9VFTZe6UlhKMRTS7Q/master.m3u8
 #EXTINF:-1 tvg-name="Mira Bhayandar Lions vs Ambernath Avengers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93942" group-title="Navi Mumbai Premier League",Mira Bhayandar Lions vs Ambernath Avengers
 https://dai.google.com/linear/hls/event/Y166p_eMQUKSKUGaS9D_fA/master.m3u8
 #EXTINF:-1 tvg-name="Catalunya Dragons vs Men in Blue" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93231" group-title="ECS Spain, 2024",Catalunya Dragons vs Men in Blue
@@ -9,7 +9,5 @@ https://dai.google.com/linear/hls/event/b3Dw4P53SWKVct9a2Oa3wQ/master.m3u8
 https://dai.google.com/linear/hls/event/yjGDMm5HQ0m3dolnNDUBvg/master.m3u8
 #EXTINF:-1 tvg-name="Leeward Islands Hurricanes vs Guyana Harpy Eagles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93710" group-title="West Indies Championship",Leeward Islands Hurricanes vs Guyana Harpy Eagles
 https://dai.google.com/linear/hls/event/NHkp29FNTlq6sifC6lIbJQ/master.m3u8
-#EXTINF:-1 tvg-name="Qurum Thunders vs Amerat Royals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93893" group-title="Oman D50 League, 2024",Qurum Thunders vs Amerat Royals
-https://dai.google.com/linear/hls/event/kwg66LFqQSKsuLy0oTckVg/master.m3u8
 #EXTINF:-1 tvg-name="DCC Starlets vs Spades Real Estate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92752" group-title="ICCA Arabian Cricket League Round 2",DCC Starlets vs Spades Real Estate
 https://dai.google.com/linear/hls/event/P5HtI1xHRY-sQxA2Dxog6Q/master.m3u8
