@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 4,
-  "updated_on": "16-02-2024 on 4:41:04 PM \ud83c\udf1e",
+  "channels_amount": 5,
+  "updated_on": "16-02-2024 on 5:03:05 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -14,6 +14,17 @@
       "team_2": "IB CC",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IBC@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/3FkGdmlOQWCsBi5KF4A1wg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ECS Spain, 2024",
+      "match_id": 93230,
+      "match_name": "Magic Badalona vs Sohal Hospitalet",
+      "team_1": "Magic Badalona",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MGC@2x.png",
+      "team_2": "Sohal Hospitalet",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SO@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/c6FvxnO7QiybAnOQRNZSmQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
