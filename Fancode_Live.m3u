@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Rayan XI vs IB CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92105" group-title="KCC T20 Challengers Cup, 2024",Rayan XI vs IB CC
 https://dai.google.com/linear/hls/event/3FkGdmlOQWCsBi5KF4A1wg/master.m3u8
+#EXTINF:-1 tvg-name="Mira Bhayandar Lions vs Ambernath Avengers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93942" group-title="Navi Mumbai Premier League",Mira Bhayandar Lions vs Ambernath Avengers
+https://dai.google.com/linear/hls/event/Y166p_eMQUKSKUGaS9D_fA/master.m3u8
 #EXTINF:-1 tvg-name="Magic Badalona vs Sohal Hospitalet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93230" group-title="ECS Spain, 2024",Magic Badalona vs Sohal Hospitalet
 https://dai.google.com/linear/hls/event/c6FvxnO7QiybAnOQRNZSmQ/master.m3u8
 #EXTINF:-1 tvg-name="Leeward Islands Hurricanes vs Guyana Harpy Eagles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93710" group-title="West Indies Championship",Leeward Islands Hurricanes vs Guyana Harpy Eagles
