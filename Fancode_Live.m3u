@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Japan vs China" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93586" group-title="East Asia Cup, 2024",Japan vs China
-https://dai.google.com/linear/hls/event/rzklrYhnS6SAvOQElRm3CA/master.m3u8
 #EXTINF:-1 tvg-name="Leeward Islands Hurricanes vs Guyana Harpy Eagles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93710" group-title="West Indies Championship",Leeward Islands Hurricanes vs Guyana Harpy Eagles
 https://dai.google.com/linear/hls/event/NHkp29FNTlq6sifC6lIbJQ/master.m3u8
 #EXTINF:-1 tvg-name="Durdanto Dhaka vs Khulna Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="90975" group-title="Bangladesh Premier League, 2024",Durdanto Dhaka vs Khulna Tigers
