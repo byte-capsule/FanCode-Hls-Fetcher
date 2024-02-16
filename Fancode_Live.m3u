@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="SBS CC vs Renegades CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92104" group-title="KCC T20 Challengers Cup, 2024",SBS CC vs Renegades CC
-https://dai.google.com/linear/hls/event/eAPze-a5TEeUf1x2CxCQ3g/master.m3u8
 #EXTINF:-1 tvg-name="Japan vs China" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93586" group-title="East Asia Cup, 2024",Japan vs China
 https://dai.google.com/linear/hls/event/rzklrYhnS6SAvOQElRm3CA/master.m3u8
 #EXTINF:-1 tvg-name="Nepal Women vs Malaysia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93643" group-title="ACC Women's T20 Premier Cup, 2024",Nepal Women vs Malaysia Women
