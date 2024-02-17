@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Czechia Women vs Spain Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94409" group-title="ECI-W Spain-Czechia, 2024",Czechia Women vs Spain Women
-https://dai.google.com/linear/hls/event/2LdTxDO3T0Wr6qrxQv2W2g/master.m3u8
+#EXTINF:-1 tvg-name="Kuwait Under-19 vs Jeleeb Knight Riders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92108" group-title="KCC T20 Challengers Cup, 2024",Kuwait Under-19 vs Jeleeb Knight Riders
+https://dai.google.com/linear/hls/event/gPW7IM2ZR7uMXfUhHfXSNA/master.m3u8
 #EXTINF:-1 tvg-name="Leeward Islands Hurricanes vs Guyana Harpy Eagles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93710" group-title="West Indies Championship",Leeward Islands Hurricanes vs Guyana Harpy Eagles
 https://dai.google.com/linear/hls/event/NHkp29FNTlq6sifC6lIbJQ/master.m3u8
 #EXTINF:-1 tvg-name="Lahore Qalandars vs Islamabad United" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93838" group-title="PSL, 2024",Lahore Qalandars vs Islamabad United
 https://dai.google.com/linear/hls/event/KpCwuzZ8RBeNRabNrgp-nQ/master.m3u8
-#EXTINF:-1 tvg-name="Sri Lanka vs Afghanistan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="91206" group-title="Afghanistan tour of Sri Lanka, 2024",Sri Lanka vs Afghanistan
-https://pubads.g.doubleclick.net/ssai/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
