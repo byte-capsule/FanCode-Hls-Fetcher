@@ -11,5 +11,9 @@ https://dai.google.com/linear/hls/event/7TE8i0zXRSCdGzbqi3AiCg/master.m3u8
 https://dai.google.com/linear/hls/event/T13m_UAoSJKiTdRIWvdnCA/master.m3u8
 #EXTINF:-1 tvg-name="Fortune Barishal vs Sylhet Strikers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="90977" group-title="Bangladesh Premier League, 2024",Fortune Barishal vs Sylhet Strikers
 https://dai.google.com/linear/hls/event/xjHfr_Q3QD-s8KmIQik2LA/master.m3u8
+#EXTINF:-1 tvg-name="Spain Women vs Czechia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94407" group-title="ECI-W Spain-Czechia, 2024",Spain Women vs Czechia Women
+https://dai.google.com/linear/hls/event/368Y0WV_Syqh-WMCbAB5Vw/master.m3u8
+#EXTINF:-1 tvg-name="Muhanga Zebras CC Women vs Charity CC Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93072" group-title="RCA Women's T10 League",Muhanga Zebras CC Women vs Charity CC Women
+https://dai.google.com/linear/hls/event/pOiHqRyEQiSq7wCqSgPKpA/master.m3u8
 #EXTINF:-1 tvg-name="Sydney FC vs Adelaide United" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92581" group-title="A League Men 2023-24",Sydney FC vs Adelaide United
 https://dai.google.com/linear/hls/event/bV0oqtq_STmhdL_m0Gc2ow/master.m3u8
