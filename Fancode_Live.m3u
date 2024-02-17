@@ -1,8 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Czechia Women vs Spain Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94408" group-title="ECI-W Spain-Czechia, 2024",Czechia Women vs Spain Women
+https://dai.google.com/linear/hls/event/BXCz-EbEQDWLqCsJh7-5vg/master.m3u8
 #EXTINF:-1 tvg-name="Gahanga Queens CC Women vs Indatwa Hampshire CC Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93073" group-title="RCA Women's T10 League",Gahanga Queens CC Women vs Indatwa Hampshire CC Women
 https://dai.google.com/linear/hls/event/7OovEshPSPW_UD409YThfg/master.m3u8
-#EXTINF:-1 tvg-name="Czechia vs Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94449" group-title="ECI Spain-Czechia, 2024",Czechia vs Spain
-https://dai.google.com/linear/hls/event/QZvCN0I1QMOj5Pw2NOH4kA/master.m3u8
 #EXTINF:-1 tvg-name="Leeward Islands Hurricanes vs Guyana Harpy Eagles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93710" group-title="West Indies Championship",Leeward Islands Hurricanes vs Guyana Harpy Eagles
 https://dai.google.com/linear/hls/event/NHkp29FNTlq6sifC6lIbJQ/master.m3u8
 #EXTINF:-1 tvg-name="Ruwi Rangers vs Darsait Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93894" group-title="Oman D50 League, 2024",Ruwi Rangers vs Darsait Titans
