@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Kalyan Tuskers vs Thane Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93944" group-title="Navi Mumbai Premier League",Kalyan Tuskers vs Thane Tigers
-https://dai.google.com/linear/hls/event/Cyb5KhCbRNGNVfUHdNbKOA/master.m3u8
 #EXTINF:-1 tvg-name="Czechia Women vs Spain Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94409" group-title="ECI-W Spain-Czechia, 2024",Czechia Women vs Spain Women
 https://dai.google.com/linear/hls/event/2LdTxDO3T0Wr6qrxQv2W2g/master.m3u8
-#EXTINF:-1 tvg-name="Chattogram Challengers vs Durdanto Dhaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="90978" group-title="Bangladesh Premier League, 2024",Chattogram Challengers vs Durdanto Dhaka
-https://dai.google.com/linear/hls/event/qkjD0vHwT5CsbS6Jk_lXqQ/master.m3u8
 #EXTINF:-1 tvg-name="Leeward Islands Hurricanes vs Guyana Harpy Eagles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93710" group-title="West Indies Championship",Leeward Islands Hurricanes vs Guyana Harpy Eagles
 https://dai.google.com/linear/hls/event/NHkp29FNTlq6sifC6lIbJQ/master.m3u8
 #EXTINF:-1 tvg-name="Lahore Qalandars vs Islamabad United" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93838" group-title="PSL, 2024",Lahore Qalandars vs Islamabad United
