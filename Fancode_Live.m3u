@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Multan Sultans vs Karachi Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93840" group-title="PSL, 2024",Multan Sultans vs Karachi Kings
 https://dai.google.com/linear/hls/event/qMaGDYOJRLWYSOOy2eMzBg/master.m3u8
-#EXTINF:-1 tvg-name="Ambernath Avengers vs Vashi Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93946" group-title="Navi Mumbai Premier League",Ambernath Avengers vs Vashi Warriors
-https://dai.google.com/linear/hls/event/NAeeF4VEQD2yCC-afxUihg/master.m3u8
 #EXTINF:-1 tvg-name="Czechia vs Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94453" group-title="ECI Spain-Czechia, 2024",Czechia vs Spain
 https://dai.google.com/linear/hls/event/1dmysUzCSp2RxdNg4zXTNw/master.m3u8
 #EXTINF:-1 tvg-name="Spades Real Estate vs Dubai Dare Devils" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92754" group-title="ICCA Arabian Cricket League Round 2",Spades Real Estate vs Dubai Dare Devils
