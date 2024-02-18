@@ -1,13 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Quetta Gladiators vs Peshawar Zalmi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93839" group-title="PSL, 2024",Quetta Gladiators vs Peshawar Zalmi
-https://dai.google.com/linear/hls/event/nvXTSy8WT7-JMMS_vwfhbQ/master.m3u8
 #EXTINF:-1 tvg-name="Ambernath Avengers vs Vashi Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93946" group-title="Navi Mumbai Premier League",Ambernath Avengers vs Vashi Warriors
 https://dai.google.com/linear/hls/event/NAeeF4VEQD2yCC-afxUihg/master.m3u8
 #EXTINF:-1 tvg-name="Spain vs Czechia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94452" group-title="ECI Spain-Czechia, 2024",Spain vs Czechia
 https://dai.google.com/linear/hls/event/k3fwSrLNSfujJkACsV2tcQ/master.m3u8
 #EXTINF:-1 tvg-name="IPRC Kigali CC vs Kutchi Sports Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93053" group-title="RCA Men's T10 League",IPRC Kigali CC vs Kutchi Sports Club
 https://dai.google.com/linear/hls/event/qlJj1kirSHGwBDsoTS1tBg/master.m3u8
-#EXTINF:-1 tvg-name="Qurum Thunders vs Bousher Busters" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93895" group-title="Oman D50 League, 2024",Qurum Thunders vs Bousher Busters
-https://dai.google.com/linear/hls/event/OckLPVrPSaS8ZGfxaS4qRQ/master.m3u8
+#EXTINF:-1 tvg-name="Spades Real Estate vs Dubai Dare Devils" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92754" group-title="ICCA Arabian Cricket League Round 2",Spades Real Estate vs Dubai Dare Devils
+https://dai.google.com/linear/hls/event/TVndZRG-SrSTx3ufBJ_krg/master.m3u8
 #EXTINF:-1 tvg-name="Brighton and Hove Albion Women vs Liverpool Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92845" group-title="Barclays FA Women's Super League 2023-24",Brighton and Hove Albion Women vs Liverpool Women
 https://dai.fancode.com/primary/92845_english_hls_4469adfreeta-di/index.m3u8
