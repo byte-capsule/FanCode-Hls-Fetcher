@@ -2,7 +2,7 @@
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "channels_amount": 3,
-  "updated_on": "18-02-2024 on 10:40:59 PM \ud83c\udf19",
+  "updated_on": "18-02-2024 on 11:02:35 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -29,13 +29,13 @@
     {
       "event_catagory": "cricket",
       "event_name": "ICCA Arabian Cricket League Round 2",
-      "match_id": 92754,
-      "match_name": "Spades Real Estate vs Dubai Dare Devils",
-      "team_1": "Spades Real Estate",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOLR@2x.png",
-      "team_2": "Dubai Dare Devils",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DDD@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/TVndZRG-SrSTx3ufBJ_krg/master.m3u8"
+      "match_id": 92755,
+      "match_name": "AZ Sports vs Golden Sapero Technical Service",
+      "team_1": "AZ Sports",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AZSP@2x.png",
+      "team_2": "Golden Sapero Technical Service",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CR1@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/lHCCu3DOTcawKfS16XPQ4Q/master.m3u8"
     }
   ]
 }
