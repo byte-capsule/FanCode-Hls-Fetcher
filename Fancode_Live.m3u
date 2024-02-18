@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Quetta Gladiators vs Peshawar Zalmi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93839" group-title="PSL, 2024",Quetta Gladiators vs Peshawar Zalmi
 https://dai.google.com/linear/hls/event/nvXTSy8WT7-JMMS_vwfhbQ/master.m3u8
+#EXTINF:-1 tvg-name="Right Guards CC vs Indorwa CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93052" group-title="RCA Men's T10 League",Right Guards CC vs Indorwa CC
+https://dai.google.com/linear/hls/event/iyZyoHbkRsaAdX8wCSRK6w/master.m3u8
 #EXTINF:-1 tvg-name="Fly Emirates vs Dubai Gymkhana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92897" group-title="ICCA Arabian Cricket League Round 2",Fly Emirates vs Dubai Gymkhana
 https://dai.google.com/linear/hls/event/6UmtGMypQA6t2TMzdZ-Sgw/master.m3u8
+#EXTINF:-1 tvg-name="Spain Women vs Czechia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94410" group-title="ECI-W Spain-Czechia, 2024",Spain Women vs Czechia Women
+https://dai.google.com/linear/hls/event/X7a0rLt2QW6kZCbG4CxPHg/master.m3u8
 #EXTINF:-1 tvg-name="Nepal A vs Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94456" group-title="Nepal A vs Canada Series",Nepal A vs Canada
 https://dai.google.com/linear/hls/event/VwKqHF_JR0-Ry3lIbrhvOw/master.m3u8
 #EXTINF:-1 tvg-name="Qurum Thunders vs Bousher Busters" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93895" group-title="Oman D50 League, 2024",Qurum Thunders vs Bousher Busters
 https://dai.google.com/linear/hls/event/OckLPVrPSaS8ZGfxaS4qRQ/master.m3u8
-#EXTINF:-1 tvg-name="Right Guards CC vs Indorwa CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93052" group-title="RCA Men's T10 League",Right Guards CC vs Indorwa CC
-https://dai.google.com/linear/hls/event/iyZyoHbkRsaAdX8wCSRK6w/master.m3u8
-#EXTINF:-1 tvg-name="Spain Women vs Czechia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94410" group-title="ECI-W Spain-Czechia, 2024",Spain Women vs Czechia Women
-https://dai.google.com/linear/hls/event/X7a0rLt2QW6kZCbG4CxPHg/master.m3u8
