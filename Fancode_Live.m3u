@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Koparkhairne Titans vs Thane Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93948" group-title="Navi Mumbai Premier League",Koparkhairne Titans vs Thane Tigers
 https://dai.google.com/linear/hls/event/1Au4bQKvQEKoQeR3e7IF8Q/master.m3u8
+#EXTINF:-1 tvg-name="Pak I Care Badalona vs Sohal Hospitalet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93235" group-title="ECS Spain, 2024",Pak I Care Badalona vs Sohal Hospitalet
+https://dai.google.com/linear/hls/event/XwLW5wvPT-upc0euFVr8BA/master.m3u8
 #EXTINF:-1 tvg-name="Fortune Barishal vs Rangpur Riders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="90980" group-title="Bangladesh Premier League, 2024",Fortune Barishal vs Rangpur Riders
 https://dai.google.com/linear/hls/event/VTjFgmHtTcyEV_rv-tmUdQ/master.m3u8
 #EXTINF:-1 tvg-name="New Zealand Over-40s vs India Over-40s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94390" group-title="IMC Over-40s Cricket World Cup, 2024",New Zealand Over-40s vs India Over-40s
