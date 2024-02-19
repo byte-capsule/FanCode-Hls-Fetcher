@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Karwan Cricket Club vs The Vision Shipping" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92756" group-title="ICCA Arabian Cricket League Round 2",Karwan Cricket Club vs The Vision Shipping
+https://dai.google.com/linear/hls/event/-WmS5rYDQ9molxECywDIgA/master.m3u8
 #EXTINF:-1 tvg-name="Koparkhairne Titans vs Thane Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93948" group-title="Navi Mumbai Premier League",Koparkhairne Titans vs Thane Tigers
 https://dai.google.com/linear/hls/event/1Au4bQKvQEKoQeR3e7IF8Q/master.m3u8
 #EXTINF:-1 tvg-name="Pak I Care Badalona vs Sohal Hospitalet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93235" group-title="ECS Spain, 2024",Pak I Care Badalona vs Sohal Hospitalet
