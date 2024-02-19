@@ -7,12 +7,10 @@ https://dai.google.com/linear/hls/event/1Au4bQKvQEKoQeR3e7IF8Q/master.m3u8
 https://dai.google.com/linear/hls/event/XwLW5wvPT-upc0euFVr8BA/master.m3u8
 #EXTINF:-1 tvg-name="Fortune Barishal vs Rangpur Riders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="90980" group-title="Bangladesh Premier League, 2024",Fortune Barishal vs Rangpur Riders
 https://dai.google.com/linear/hls/event/VTjFgmHtTcyEV_rv-tmUdQ/master.m3u8
-#EXTINF:-1 tvg-name="New Zealand Over-40s vs India Over-40s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94390" group-title="IMC Over-40s Cricket World Cup, 2024",New Zealand Over-40s vs India Over-40s
-https://dai.google.com/linear/hls/event/HzlkS6sYR52p-fZOapf6jA/master.m3u8
-#EXTINF:-1 tvg-name="Zimbabwe Over-40s vs England Over-40s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94389" group-title="IMC Over-40s Cricket World Cup, 2024",Zimbabwe Over-40s vs England Over-40s
-https://dai.google.com/linear/hls/event/WEA8OQ_lRQGLkr-fUwSNSw/master.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka vs Afghanistan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="91207" group-title="Afghanistan tour of Sri Lanka, 2024",Sri Lanka vs Afghanistan
 https://pubads.g.doubleclick.net/ssai/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
+#EXTINF:-1 tvg-name="New Zealand Over-40s vs India Over-40s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94390" group-title="IMC Over-40s Cricket World Cup, 2024",New Zealand Over-40s vs India Over-40s
+https://dai.google.com/linear/hls/event/HzlkS6sYR52p-fZOapf6jA/master.m3u8
 #EXTINF:-1 tvg-name="Lahore Qalandars vs Quetta Gladiators" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93841" group-title="PSL, 2024",Lahore Qalandars vs Quetta Gladiators
 https://dai.google.com/linear/hls/event/TLNc7jxWRJOBeucht4vovA/master.m3u8
 #EXTINF:-1 tvg-name="Aizawl vs Sreenidi Deccan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92920" group-title="I League 2023-24",Aizawl vs Sreenidi Deccan
