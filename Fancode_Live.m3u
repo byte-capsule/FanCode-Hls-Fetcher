@@ -1,15 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Alif Pharma vs The Vision Shipping" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92758" group-title="ICCA Arabian Cricket League Round 2",Alif Pharma vs The Vision Shipping
  Free Trial attempt unsuccessful......it requires Premium Account
-#EXTINF:-1 tvg-name="Kalyan Tuskers vs Belapur Blasters" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93950" group-title="Navi Mumbai Premier League",Kalyan Tuskers vs Belapur Blasters
-https://dai.google.com/linear/hls/event/q7DhiEB-QQ6GlDNkv5E5jQ/master.m3u8
 #EXTINF:-1 tvg-name="Pak Barcelona vs Magic Badalona" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93240" group-title="ECS Spain, 2024",Pak Barcelona vs Magic Badalona
 https://dai.google.com/linear/hls/event/3Pd6f1KyQyeAbcpsJe7MyQ/master.m3u8
 #EXTINF:-1 tvg-name="Rangpur Riders vs Comilla Victorians" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="90982" group-title="Bangladesh Premier League, 2024",Rangpur Riders vs Comilla Victorians
 https://dai.google.com/linear/hls/event/AO63FHr-QY-f0-_V6geZHg/master.m3u8
-#EXTINF:-1 tvg-name="New Zealand Over-40s vs Wales Over-40s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94392" group-title="IMC Over-40s Cricket World Cup, 2024",New Zealand Over-40s vs Wales Over-40s
-https://dai.fancode.com/primary/94392_english_hls_5625adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="India Over-40s vs UAE Over-40s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94391" group-title="IMC Over-40s Cricket World Cup, 2024",India Over-40s vs UAE Over-40s
-https://dai.fancode.com/primary/94391_english_hls_8717adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Islamabad United vs Multan Sultans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93842" group-title="PSL, 2024",Islamabad United vs Multan Sultans
 https://dai.google.com/linear/hls/event/eJB0v7XXTa-kZttmxGbPKQ/master.m3u8
+#EXTINF:-1 tvg-name="Al Kahrabaa vs Al Ahed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93656" group-title="AFC Cup",Al Kahrabaa vs Al Ahed
+https://dai.google.com/linear/hls/event/JZQXBxRRQ1CkHbeMFKovLg/master.m3u8
