@@ -13,3 +13,5 @@ https://dai.google.com/linear/hls/event/iYZy4qlHR92JkCkLhQPK_g/master.m3u8
 https://dai.fancode.com/primary/94392_english_hls_5625adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="India Over-40s vs UAE Over-40s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94391" group-title="IMC Over-40s Cricket World Cup, 2024",India Over-40s vs UAE Over-40s
 https://dai.fancode.com/primary/94391_english_hls_8717adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Islamabad United vs Multan Sultans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93842" group-title="PSL, 2024",Islamabad United vs Multan Sultans
+https://dai.google.com/linear/hls/event/eJB0v7XXTa-kZttmxGbPKQ/master.m3u8
