@@ -1,7 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Darsait Titans vs Amerat Royals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93896" group-title="Oman D50 League, 2024",Darsait Titans vs Amerat Royals
+https://dai.google.com/linear/hls/event/iYZy4qlHR92JkCkLhQPK_g/master.m3u8
 #EXTINF:-1 tvg-name="Mira Bhayandar Lions vs Vashi Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93949" group-title="Navi Mumbai Premier League",Mira Bhayandar Lions vs Vashi Warriors
 https://dai.google.com/linear/hls/event/85CmOZTmQ2-m51l4Fp4dIw/master.m3u8
 #EXTINF:-1 tvg-name="Canada vs Nepal A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94457" group-title="Nepal A vs Canada Series",Canada vs Nepal A
 https://dai.google.com/linear/hls/event/2-2ufzdXR62YWFFyFyaOEA/master.m3u8
-#EXTINF:-1 tvg-name="Darsait Titans vs Amerat Royals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93896" group-title="Oman D50 League, 2024",Darsait Titans vs Amerat Royals
-https://dai.google.com/linear/hls/event/iYZy4qlHR92JkCkLhQPK_g/master.m3u8
