@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Alif Pharma vs The Vision Shipping" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92758" group-title="ICCA Arabian Cricket League Round 2",Alif Pharma vs The Vision Shipping
- Free Trial attempt unsuccessful......it requires Premium Account
-#EXTINF:-1 tvg-name="Pak Barcelona vs Magic Badalona" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93240" group-title="ECS Spain, 2024",Pak Barcelona vs Magic Badalona
-https://dai.google.com/linear/hls/event/3Pd6f1KyQyeAbcpsJe7MyQ/master.m3u8
+#EXTINF:-1 tvg-name="Seven Districts Juniors vs Dubai Wanderers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92759" group-title="ICCA Arabian Cricket League Round 2",Seven Districts Juniors vs Dubai Wanderers
+https://dai.google.com/linear/hls/event/Us_y6lROSyGZVE5s5iO7eg/master.m3u8
 #EXTINF:-1 tvg-name="Islamabad United vs Multan Sultans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93842" group-title="PSL, 2024",Islamabad United vs Multan Sultans
 https://dai.google.com/linear/hls/event/eJB0v7XXTa-kZttmxGbPKQ/master.m3u8
 #EXTINF:-1 tvg-name="Al Kahrabaa vs Al Ahed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93656" group-title="AFC Cup",Al Kahrabaa vs Al Ahed

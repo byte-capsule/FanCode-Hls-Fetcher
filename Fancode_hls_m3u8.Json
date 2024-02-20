@@ -1,30 +1,19 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 4,
-  "updated_on": "20-02-2024 on 10:41:06 PM \ud83c\udf19",
+  "channels_amount": 3,
+  "updated_on": "20-02-2024 on 11:03:26 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
       "event_name": "ICCA Arabian Cricket League Round 2",
-      "match_id": 92758,
-      "match_name": "Alif Pharma vs The Vision Shipping",
-      "team_1": "Alif Pharma",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ALF@2x.png",
-      "team_2": "The Vision Shipping",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TVSLL@2x.png",
-      "stream_link": " Free Trial attempt unsuccessful......it requires Premium Account"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECS Spain, 2024",
-      "match_id": 93240,
-      "match_name": "Pak Barcelona vs Magic Badalona",
-      "team_1": "Pak Barcelona",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PKB@2x.png",
-      "team_2": "Magic Badalona",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MGC@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/3Pd6f1KyQyeAbcpsJe7MyQ/master.m3u8"
+      "match_id": 92759,
+      "match_name": "Seven Districts Juniors vs Dubai Wanderers",
+      "team_1": "Seven Districts Juniors",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SEVN@2x.png",
+      "team_2": "Dubai Wanderers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAND@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/Us_y6lROSyGZVE5s5iO7eg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
