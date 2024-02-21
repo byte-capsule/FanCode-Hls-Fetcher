@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Sanpada Scorpions vs Koparkhairne Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93952" group-title="Navi Mumbai Premier League",Sanpada Scorpions vs Koparkhairne Titans
 https://dai.google.com/linear/hls/event/M1KinhEQQC6TJberTxRk1g/master.m3u8
+#EXTINF:-1 tvg-name="Catalunya Red vs Royal Barcelona" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93243" group-title="ECS Spain, 2024",Catalunya Red vs Royal Barcelona
+https://dai.google.com/linear/hls/event/G7WdjPLySGyQaYy4yfjAJw/master.m3u8
 #EXTINF:-1 tvg-name="Bousher Busters vs Ruwi Rangers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93897" group-title="Oman D50 League, 2024",Bousher Busters vs Ruwi Rangers
 https://dai.google.com/linear/hls/event/nzKaRI9jSwOPOjxYDWE2QQ/master.m3u8
-#EXTINF:-1 tvg-name="Peshawar Zalmi vs Karachi Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93843" group-title="PSL, 2024",Peshawar Zalmi vs Karachi Kings
-https://dai.google.com/linear/hls/event/DnG7ixv4S6y6BtKzP3grYw/master.m3u8
 #EXTINF:-1 tvg-name="Yokohama F. Marinos vs Bangkok United" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93354" group-title="AFC Champions League",Yokohama F. Marinos vs Bangkok United
 https://dai.google.com/linear/hls/event/SLEEV5G8SJW_IHJhWZasOw/master.m3u8
