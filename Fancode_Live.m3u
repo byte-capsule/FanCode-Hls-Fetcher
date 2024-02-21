@@ -1,8 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Jeleeb Knight Riders vs GAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92112" group-title="KCC T20 Challengers Cup, 2024",Jeleeb Knight Riders vs GAT
+https://dai.google.com/linear/hls/event/fdDqho5ZTk2sLhsC8uWhZQ/master.m3u8
 #EXTINF:-1 tvg-name="Lahore Qalandars vs Multan Sultans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93844" group-title="PSL, 2024",Lahore Qalandars vs Multan Sultans
 https://dai.google.com/linear/hls/event/2ppuUJGmRDGUgMWcJHLvlg/master.m3u8
-#EXTINF:-1 tvg-name="Afghanistan vs Sri Lanka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="91208" group-title="Afghanistan tour of Sri Lanka, 2024",Afghanistan vs Sri Lanka
-https://pubads.g.doubleclick.net/ssai/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
 #EXTINF:-1 tvg-name="Trinidad &Tobago Red Force vs Leeward Islands Hurricanes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93714" group-title="West Indies Championship",Trinidad &Tobago Red Force vs Leeward Islands Hurricanes
 https://dai.google.com/linear/hls/event/syRiQlD-Tyiz0nNiV8RmgA/master.m3u8
 #EXTINF:-1 tvg-name="Al Ain vs Nasaf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93347" group-title="AFC Champions League",Al Ain vs Nasaf
