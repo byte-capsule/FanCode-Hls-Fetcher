@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Sanpada Scorpions vs Koparkhairne Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93952" group-title="Navi Mumbai Premier League",Sanpada Scorpions vs Koparkhairne Titans
-https://dai.google.com/linear/hls/event/M1KinhEQQC6TJberTxRk1g/master.m3u8
 #EXTINF:-1 tvg-name="Catalunya Red vs Royal Barcelona" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93244" group-title="ECS Spain, 2024",Catalunya Red vs Royal Barcelona
 https://dai.google.com/linear/hls/event/mbp_zlSZRUuM_CkP1uoPYA/master.m3u8
 #EXTINF:-1 tvg-name="Lahore Qalandars vs Multan Sultans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93844" group-title="PSL, 2024",Lahore Qalandars vs Multan Sultans
