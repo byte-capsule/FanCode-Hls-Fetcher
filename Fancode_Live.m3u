@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="St. Louis City SC vs Houston Dynamo FC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93744" group-title="CONCACAF Champions Cup",St. Louis City SC vs Houston Dynamo FC
+https://dai.google.com/linear/hls/event/EK_NOCGORwecxCqVjhnl-A/master.m3u8
+#EXTINF:-1 tvg-name="Mexico Women vs Argentina Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94017" group-title="CONCACAF Womens Gold Cup",Mexico Women vs Argentina Women
+https://dai.google.com/linear/hls/event/9eDWrJ5BR6KJlpgYRILGdg/master.m3u8
