@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="USA Women vs Dominican Republic Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94018" group-title="CONCACAF Womens Gold Cup",USA Women vs Dominican Republic Women
+https://dai.google.com/linear/hls/event/U8knqDSnTJi749csLW521A/master.m3u8
+#EXTINF:-1 tvg-name="Saprissa vs Philadelphia Union" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93745" group-title="CONCACAF Champions Cup",Saprissa vs Philadelphia Union
+https://dai.google.com/linear/hls/event/MOBuNeVhSS2PXSTGgE09gw/master.m3u8
