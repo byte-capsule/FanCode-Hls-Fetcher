@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Catalunya Red vs Royal Barcelona" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93244" group-title="ECS Spain, 2024",Catalunya Red vs Royal Barcelona
-https://dai.google.com/linear/hls/event/mbp_zlSZRUuM_CkP1uoPYA/master.m3u8
 #EXTINF:-1 tvg-name="Lahore Qalandars vs Multan Sultans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93844" group-title="PSL, 2024",Lahore Qalandars vs Multan Sultans
 https://dai.google.com/linear/hls/event/2ppuUJGmRDGUgMWcJHLvlg/master.m3u8
 #EXTINF:-1 tvg-name="Afghanistan vs Sri Lanka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="91208" group-title="Afghanistan tour of Sri Lanka, 2024",Afghanistan vs Sri Lanka
