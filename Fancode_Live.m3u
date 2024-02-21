@@ -3,3 +3,7 @@
 https://dai.google.com/linear/hls/event/nzKaRI9jSwOPOjxYDWE2QQ/master.m3u8
 #EXTINF:-1 tvg-name="Nepal vs Namibia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93578" group-title="ICC CWC League 2, 2023-27",Nepal vs Namibia
 https://dai.fancode.com/primary/93578_english_hls_6141adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Catalunya Dragons vs Sohal Hospitalet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93241" group-title="ECS Spain, 2024",Catalunya Dragons vs Sohal Hospitalet
+https://dai.google.com/linear/hls/event/27jR1drRSM-C1h83KI-uBQ/master.m3u8
+#EXTINF:-1 tvg-name="Peshawar Zalmi vs Karachi Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93843" group-title="PSL, 2024",Peshawar Zalmi vs Karachi Kings
+https://dai.google.com/linear/hls/event/DnG7ixv4S6y6BtKzP3grYw/master.m3u8
