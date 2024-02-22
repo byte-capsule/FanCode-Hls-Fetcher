@@ -9,3 +9,5 @@ https://dai.fancode.com/primary/94393_english_hls_8300adfreeta-di/index.m3u8
 https://dai.google.com/linear/hls/event/syRiQlD-Tyiz0nNiV8RmgA/master.m3u8
 #EXTINF:-1 tvg-name="Golden Sapero Technical Service vs Spades Real Estate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92760" group-title="ICCA Arabian Cricket League Round 2",Golden Sapero Technical Service vs Spades Real Estate
 https://dai.google.com/linear/hls/event/HUsNI1v_TmWMyY3Zve6rIA/master.m3u8
+#EXTINF:-1 tvg-name="Islamabad United vs Quetta Gladiators" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93845" group-title="PSL, 2024",Islamabad United vs Quetta Gladiators
+https://dai.google.com/linear/hls/event/t26LFHM-QqOYMOitfgZs-g/master.m3u8
