@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Vashi Warriors vs Thane Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93954" group-title="Navi Mumbai Premier League",Vashi Warriors vs Thane Tigers
 https://dai.google.com/linear/hls/event/9rpkNSnOSYizo8CUn8worA/master.m3u8
+#EXTINF:-1 tvg-name="Golden Sapero Technical Service vs Spades Real Estate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92760" group-title="ICCA Arabian Cricket League Round 2",Golden Sapero Technical Service vs Spades Real Estate
+https://dai.google.com/linear/hls/event/HUsNI1v_TmWMyY3Zve6rIA/master.m3u8
 #EXTINF:-1 tvg-name="India Over-40s vs Wales Over-40s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94394" group-title="IMC Over-40s Cricket World Cup, 2024",India Over-40s vs Wales Over-40s
 https://dai.fancode.com/primary/94394_english_hls_5677adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Canada Over-40s vs Australia Over-40s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94393" group-title="IMC Over-40s Cricket World Cup, 2024",Canada Over-40s vs Australia Over-40s
 https://dai.fancode.com/primary/94393_english_hls_8300adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Trinidad &Tobago Red Force vs Leeward Islands Hurricanes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93714" group-title="West Indies Championship",Trinidad &Tobago Red Force vs Leeward Islands Hurricanes
 https://dai.google.com/linear/hls/event/syRiQlD-Tyiz0nNiV8RmgA/master.m3u8
-#EXTINF:-1 tvg-name="Golden Sapero Technical Service vs Spades Real Estate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92760" group-title="ICCA Arabian Cricket League Round 2",Golden Sapero Technical Service vs Spades Real Estate
-https://dai.google.com/linear/hls/event/HUsNI1v_TmWMyY3Zve6rIA/master.m3u8
 #EXTINF:-1 tvg-name="Islamabad United vs Quetta Gladiators" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93845" group-title="PSL, 2024",Islamabad United vs Quetta Gladiators
 https://dai.google.com/linear/hls/event/t26LFHM-QqOYMOitfgZs-g/master.m3u8
