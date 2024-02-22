@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Vashi Warriors vs Thane Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93954" group-title="Navi Mumbai Premier League",Vashi Warriors vs Thane Tigers
+https://dai.google.com/linear/hls/event/9rpkNSnOSYizo8CUn8worA/master.m3u8
 #EXTINF:-1 tvg-name="Catalunya Jaguar vs Pak Barcelona" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93246" group-title="ECS Spain, 2024",Catalunya Jaguar vs Pak Barcelona
 https://dai.google.com/linear/hls/event/vmSLv4dyQzCefI02fMOMpw/master.m3u8
 #EXTINF:-1 tvg-name="Qurum Thunders vs Darsait Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93898" group-title="Oman D50 League, 2024",Qurum Thunders vs Darsait Titans
