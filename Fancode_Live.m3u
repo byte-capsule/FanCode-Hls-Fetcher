@@ -5,5 +5,7 @@ https://dai.google.com/linear/hls/event/c3pVs2uJQLeWFFlqVJJo7w/master.m3u8
 https://dai.fancode.com/primary/94394_english_hls_5677adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Canada Over-40s vs Australia Over-40s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94393" group-title="IMC Over-40s Cricket World Cup, 2024",Canada Over-40s vs Australia Over-40s
 https://dai.fancode.com/primary/94393_english_hls_8300adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Catalunya Jaguar vs Pak Barcelona" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93246" group-title="ECS Spain, 2024",Catalunya Jaguar vs Pak Barcelona
+https://dai.google.com/linear/hls/event/vmSLv4dyQzCefI02fMOMpw/master.m3u8
 #EXTINF:-1 tvg-name="Trinidad &Tobago Red Force vs Leeward Islands Hurricanes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93714" group-title="West Indies Championship",Trinidad &Tobago Red Force vs Leeward Islands Hurricanes
 https://dai.google.com/linear/hls/event/syRiQlD-Tyiz0nNiV8RmgA/master.m3u8
