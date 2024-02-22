@@ -7,6 +7,8 @@ https://dai.google.com/linear/hls/event/KNIEadmQSmuPnm_2LsoWDQ/master.m3u8
 https://dai.google.com/linear/hls/event/GzNvLyJ3SfSZ1-H7Wa8fKQ/master.m3u8
 #EXTINF:-1 tvg-name="Trinidad &Tobago Red Force vs Leeward Islands Hurricanes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93714" group-title="West Indies Championship",Trinidad &Tobago Red Force vs Leeward Islands Hurricanes
 https://dai.google.com/linear/hls/event/syRiQlD-Tyiz0nNiV8RmgA/master.m3u8
+#EXTINF:-1 tvg-name="Nepal A vs Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94458" group-title="Nepal A vs Canada Series",Nepal A vs Canada
+https://dai.google.com/linear/hls/event/gzzUcRNVREydmfFSy5r4Kw/master.m3u8
 #EXTINF:-1 tvg-name="Brazil Women vs Puerto Rico Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94020" group-title="CONCACAF Womens Gold Cup",Brazil Women vs Puerto Rico Women
 https://dai.google.com/linear/hls/event/RaA-93NYRSq8Akaf0yHYkg/master.m3u8
 #EXTINF:-1 tvg-name="Cavalry vs Orlando City SC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93747" group-title="CONCACAF Champions Cup",Cavalry vs Orlando City SC
