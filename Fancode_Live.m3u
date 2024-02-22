@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Trinidad &Tobago Red Force vs Leeward Islands Hurricanes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93714" group-title="West Indies Championship",Trinidad &Tobago Red Force vs Leeward Islands Hurricanes
-https://dai.google.com/linear/hls/event/syRiQlD-Tyiz0nNiV8RmgA/master.m3u8
 #EXTINF:-1 tvg-name="Saudi Arabia vs Kuwait" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93993" group-title="ICC CWC Challenge League Play-off, 2024",Saudi Arabia vs Kuwait
 https://dai.google.com/linear/hls/event/naxTKpBlT6eknNPRuSs8Tg/master.m3u8
 #EXTINF:-1 tvg-name="Bahrain vs Vanuatu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93992" group-title="ICC CWC Challenge League Play-off, 2024",Bahrain vs Vanuatu
 https://dai.google.com/linear/hls/event/KNIEadmQSmuPnm_2LsoWDQ/master.m3u8
 #EXTINF:-1 tvg-name="Italy vs Bermuda" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93991" group-title="ICC CWC Challenge League Play-off, 2024",Italy vs Bermuda
 https://dai.google.com/linear/hls/event/GzNvLyJ3SfSZ1-H7Wa8fKQ/master.m3u8
-#EXTINF:-1 tvg-name="Independiente La Chorrera vs New England Revolution" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93746" group-title="CONCACAF Champions Cup",Independiente La Chorrera vs New England Revolution
-https://dai.google.com/linear/hls/event/lLCfuWVFRQG1PeT1qo0Vwg/master.m3u8
+#EXTINF:-1 tvg-name="Trinidad &Tobago Red Force vs Leeward Islands Hurricanes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93714" group-title="West Indies Championship",Trinidad &Tobago Red Force vs Leeward Islands Hurricanes
+https://dai.google.com/linear/hls/event/syRiQlD-Tyiz0nNiV8RmgA/master.m3u8
 #EXTINF:-1 tvg-name="Panama Women vs Colombia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94019" group-title="CONCACAF Womens Gold Cup",Panama Women vs Colombia Women
 https://dai.google.com/linear/hls/event/E47jGpI_STidX9OXAh42vA/master.m3u8
+#EXTINF:-1 tvg-name="Independiente La Chorrera vs New England Revolution" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93746" group-title="CONCACAF Champions Cup",Independiente La Chorrera vs New England Revolution
+https://dai.google.com/linear/hls/event/lLCfuWVFRQG1PeT1qo0Vwg/master.m3u8
