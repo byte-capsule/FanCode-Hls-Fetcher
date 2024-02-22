@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Qurum Thunders vs Darsait Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93898" group-title="Oman D50 League, 2024",Qurum Thunders vs Darsait Titans
+https://dai.google.com/linear/hls/event/c3pVs2uJQLeWFFlqVJJo7w/master.m3u8
 #EXTINF:-1 tvg-name="Mira Bhayandar Lions vs Kalyan Tuskers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93953" group-title="Navi Mumbai Premier League",Mira Bhayandar Lions vs Kalyan Tuskers
 https://dai.google.com/linear/hls/event/JR5VYfP8SmOeOoDz-9uv-Q/master.m3u8
 #EXTINF:-1 tvg-name="Saudi Arabia vs Kuwait" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93993" group-title="ICC CWC Challenge League Play-off, 2024",Saudi Arabia vs Kuwait
@@ -11,5 +13,3 @@ https://dai.google.com/linear/hls/event/GzNvLyJ3SfSZ1-H7Wa8fKQ/master.m3u8
 https://dai.google.com/linear/hls/event/syRiQlD-Tyiz0nNiV8RmgA/master.m3u8
 #EXTINF:-1 tvg-name="Nepal A vs Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94458" group-title="Nepal A vs Canada Series",Nepal A vs Canada
 https://dai.google.com/linear/hls/event/gzzUcRNVREydmfFSy5r4Kw/master.m3u8
-#EXTINF:-1 tvg-name="Qurum Thunders vs Darsait Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93898" group-title="Oman D50 League, 2024",Qurum Thunders vs Darsait Titans
-https://dai.google.com/linear/hls/event/c3pVs2uJQLeWFFlqVJJo7w/master.m3u8
