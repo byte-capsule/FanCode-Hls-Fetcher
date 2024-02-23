@@ -1,8 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Toyota TGS vs Jeleeb Knight Riders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92118" group-title="KCC T20 Challengers Cup, 2024",Toyota TGS vs Jeleeb Knight Riders
+https://dai.google.com/linear/hls/event/vVYBJxM6SjO4_KR-I_LokQ/master.m3u8
 #EXTINF:-1 tvg-name="Karwan Cricket Club vs Dubai Gymkhana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94674" group-title="ICCA Arabian Cricket League Round 2",Karwan Cricket Club vs Dubai Gymkhana
 https://dai.google.com/linear/hls/event/KWbOnJO3TZGkh1R-a0Rpcg/master.m3u8
-#EXTINF:-1 tvg-name="Magic Badalona vs Catalunya Jaguar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93250" group-title="ECS Spain, 2024",Magic Badalona vs Catalunya Jaguar
-https://dai.google.com/linear/hls/event/iUhlIy6fSm6UyGpkdOiLUQ/master.m3u8
 #EXTINF:-1 tvg-name="Mumbai Champions vs Telangana Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94488" group-title="Indian Veterans Premier League",Mumbai Champions vs Telangana Tigers
 https://dai.google.com/linear/hls/event/LJ1F2UHnRG-or4qfR3cZrw/master.m3u8
 #EXTINF:-1 tvg-name="Trinidad &Tobago Red Force vs Leeward Islands Hurricanes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93714" group-title="West Indies Championship",Trinidad &Tobago Red Force vs Leeward Islands Hurricanes
