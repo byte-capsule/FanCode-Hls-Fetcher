@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Noor CM Academy vs MEC Study Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92116" group-title="KCC T20 Challengers Cup, 2024",Noor CM Academy vs MEC Study Group
-https://dai.google.com/linear/hls/event/klKrQ3ppQLq6DDMN0TV2Jg/master.m3u8
+#EXTINF:-1 tvg-name="Osmani CC vs Seazen Challengers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92117" group-title="KCC T20 Challengers Cup, 2024",Osmani CC vs Seazen Challengers
+https://dai.google.com/linear/hls/event/ZeDdnwT0QJ6l_a6010nfrw/master.m3u8
 #EXTINF:-1 tvg-name="AZ Sports vs Mid-East Metals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94673" group-title="ICCA Arabian Cricket League Round 2",AZ Sports vs Mid-East Metals
 https://dai.google.com/linear/hls/event/6Bw8gO3ERci4KEllDBGZ8Q/master.m3u8
 #EXTINF:-1 tvg-name="Ambernath Avengers vs Sanpada Scorpions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93956" group-title="Navi Mumbai Premier League",Ambernath Avengers vs Sanpada Scorpions
@@ -15,5 +15,5 @@ https://dai.fancode.com/primary/94396_english_hls_6119adfreeta-no/index.m3u8
 https://dai.fancode.com/primary/94395_english_hls_8642adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Trinidad &Tobago Red Force vs Leeward Islands Hurricanes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93714" group-title="West Indies Championship",Trinidad &Tobago Red Force vs Leeward Islands Hurricanes
 https://dai.google.com/linear/hls/event/syRiQlD-Tyiz0nNiV8RmgA/master.m3u8
-#EXTINF:-1 tvg-name="Amerat Royals vs Ruwi Rangers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93899" group-title="Oman D50 League, 2024",Amerat Royals vs Ruwi Rangers
-https://dai.google.com/linear/hls/event/aMJJkw_KRxicqlaC5I2_mw/master.m3u8
+#EXTINF:-1 tvg-name="Mumbai Champions vs Telangana Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94488" group-title="Indian Veterans Premier League",Mumbai Champions vs Telangana Tigers
+https://dai.google.com/linear/hls/event/LJ1F2UHnRG-or4qfR3cZrw/master.m3u8
