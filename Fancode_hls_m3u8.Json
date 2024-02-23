@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 7,
-  "updated_on": "23-02-2024 on 6:50:27 PM \ud83c\udf19",
+  "channels_amount": 9,
+  "updated_on": "23-02-2024 on 7:05:51 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -17,6 +17,17 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "ICCA Arabian Cricket League Round 2",
+      "match_id": 94673,
+      "match_name": "AZ Sports vs Mid-East Metals",
+      "team_1": "AZ Sports",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AZSP@2x.png",
+      "team_2": "Mid-East Metals",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MIDS@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/6Bw8gO3ERci4KEllDBGZ8Q/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "Navi Mumbai Premier League",
       "match_id": 93956,
       "match_name": "Ambernath Avengers vs Sanpada Scorpions",
@@ -25,6 +36,17 @@
       "team_2": "Sanpada Scorpions",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SASS@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/vT0KHIelRMuifHXkqZtzzA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ECS Spain, 2024",
+      "match_id": 93249,
+      "match_name": "Pak Barcelona vs Pak I Care Badalona",
+      "team_1": "Pak Barcelona",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PKB@2x.png",
+      "team_2": "Pak I Care Badalona",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PIC@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/QHp6t4nNR9qbkpF8oiT9Og/master.m3u8"
     },
     {
       "event_catagory": "cricket",
