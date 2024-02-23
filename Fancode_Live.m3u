@@ -9,7 +9,9 @@ https://dai.google.com/linear/hls/event/aMJJkw_KRxicqlaC5I2_mw/master.m3u8
 https://dai.google.com/linear/hls/event/Q-Pbl4W3Q4GQVYjkJLc2Rg/master.m3u8
 #EXTINF:-1 tvg-name="Italy vs Saudi Arabia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93995" group-title="ICC CWC Challenge League Play-off, 2024",Italy vs Saudi Arabia
 https://dai.google.com/linear/hls/event/1Ta_TUmIRfC7blIlWJjlIg/master.m3u8
-#EXTINF:-1 tvg-name="Tanzania vs Vanuatu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93994" group-title="ICC CWC Challenge League Play-off, 2024",Tanzania vs Vanuatu
-https://dai.google.com/linear/hls/event/Fa9FmJ2lTDaoUNRitQU0IQ/master.m3u8
 #EXTINF:-1 tvg-name="Comilla Victorians vs Fortune Barishal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="90983" group-title="Bangladesh Premier League, 2024",Comilla Victorians vs Fortune Barishal
 https://dai.google.com/linear/hls/event/8dJA9oH_Tl69IIlQE_V8eg/master.m3u8
+#EXTINF:-1 tvg-name="India Over-40s vs Sri Lanka Over-40s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94396" group-title="IMC Over-40s Cricket World Cup, 2024",India Over-40s vs Sri Lanka Over-40s
+https://dai.fancode.com/primary/94396_english_hls_6119adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Canada Over-40s vs USA Over-40s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94395" group-title="IMC Over-40s Cricket World Cup, 2024",Canada Over-40s vs USA Over-40s
+https://dai.fancode.com/primary/94395_english_hls_8642adfreeta-di/index.m3u8
