@@ -17,3 +17,5 @@ https://dai.fancode.com/primary/94395_english_hls_8642adfreeta-di/index.m3u8
 https://dai.google.com/linear/hls/event/syRiQlD-Tyiz0nNiV8RmgA/master.m3u8
 #EXTINF:-1 tvg-name="Mumbai Champions vs Telangana Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94488" group-title="Indian Veterans Premier League",Mumbai Champions vs Telangana Tigers
 https://dai.google.com/linear/hls/event/LJ1F2UHnRG-or4qfR3cZrw/master.m3u8
+#EXTINF:-1 tvg-name="Peshawar Zalmi vs Multan Sultans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93846" group-title="PSL, 2024",Peshawar Zalmi vs Multan Sultans
+https://dai.google.com/linear/hls/event/vqeHzcYsRDGsC_whYXN4tw/master.m3u8
