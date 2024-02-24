@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="The Vision Shipping vs Fly Emirates" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94676" group-title="ICCA Arabian Cricket League Round 2",The Vision Shipping vs Fly Emirates
-https://dai.google.com/linear/hls/event/bFRroN9HQsC-Rzb1m0VQdw/master.m3u8
+#EXTINF:-1 tvg-name="AZ Sports vs London Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94677" group-title="ICCA Arabian Cricket League Round 2",AZ Sports vs London Lions
+https://dai.google.com/linear/hls/event/81jKYo7dRD6zqO8u22f3oA/master.m3u8
 #EXTINF:-1 tvg-name="Thane Tigers vs Mira Bhayandar Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93958" group-title="Navi Mumbai Premier League",Thane Tigers vs Mira Bhayandar Lions
 https://dai.google.com/linear/hls/event/MVmATFJVRKW0yiSLu8Lu7g/master.m3u8
 #EXTINF:-1 tvg-name="Magic Badalona vs Royal Barcelona" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93253" group-title="ECS Spain, 2024",Magic Badalona vs Royal Barcelona
@@ -11,7 +11,7 @@ https://dai.google.com/linear/hls/event/uNjyy4hkRVeFgyi1yb9g1w/master.m3u8
 https://dai.google.com/linear/hls/event/syRiQlD-Tyiz0nNiV8RmgA/master.m3u8
 #EXTINF:-1 tvg-name="Lahore Qalandars vs Karachi Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93847" group-title="PSL, 2024",Lahore Qalandars vs Karachi Kings
 https://dai.google.com/linear/hls/event/iuo5eKXsR_qA4tFvDXd27Q/master.m3u8
-#EXTINF:-1 tvg-name="DPR Korea Women vs Japan Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94703" group-title="AFC Women's Olympic Qualifying Tournament",DPR Korea Women vs Japan Women
-https://dai.google.com/linear/hls/event/EbKhbw9FRSmTwrKzKBiZVA/master.m3u8
+#EXTINF:-1 tvg-name="Sunderland vs Swansea City" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="91991" group-title="EFL Championship 2023-24",Sunderland vs Swansea City
+https://dai.fancode.com/primary/91991_english_hls_5375adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Churchill Brothers vs Gokulam Kerala FC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92922" group-title="I League 2023-24",Churchill Brothers vs Gokulam Kerala FC
 https://dai.google.com/linear/hls/event/eGkZAQAzQCCLkCgp_Is8IA/master.m3u8
