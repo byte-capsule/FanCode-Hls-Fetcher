@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 7,
-  "updated_on": "24-02-2024 on 5:21:03 PM \ud83c\udf1e",
+  "channels_amount": 5,
+  "updated_on": "24-02-2024 on 5:40:51 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -28,17 +28,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Indian Veterans Premier League",
-      "match_id": 94489,
-      "match_name": "Red Carpet Delhi vs Chhattisgarh Warriors",
-      "team_1": "Red Carpet Delhi",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RED@2x.png",
-      "team_2": "Chhattisgarh Warriors",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CW@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/u2lxwC62QyaH_QaE7uhPnQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "West Indies Championship",
       "match_id": 93714,
       "match_name": "Trinidad &Tobago Red Force vs Leeward Islands Hurricanes",
@@ -58,17 +47,6 @@
       "team_2": "Wellington Phoenix",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WELA@2x.png",
       "stream_link": "https://dai.fancode.com/primary/92589_english_hls_4721adfreeta-no/index.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "AFC Women's Olympic Qualifying Tournament",
-      "match_id": 94702,
-      "match_name": "Uzbekistan Women vs Australia Women",
-      "team_1": "Uzbekistan Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-UB@2x.png",
-      "team_2": "Australia Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AUS@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/9i8ukQqkQcWdT1626lJO5w/master.m3u8"
     },
     {
       "event_catagory": "football",
