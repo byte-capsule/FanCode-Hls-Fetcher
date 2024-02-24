@@ -3,3 +3,5 @@
 https://dai.fancode.com/primary/88971_english_hls_5956adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Trinidad &Tobago Red Force vs Leeward Islands Hurricanes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93714" group-title="West Indies Championship",Trinidad &Tobago Red Force vs Leeward Islands Hurricanes
 https://dai.google.com/linear/hls/event/syRiQlD-Tyiz0nNiV8RmgA/master.m3u8
+#EXTINF:-1 tvg-name="Argentina Women vs USA Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94041" group-title="CONCACAF Womens Gold Cup",Argentina Women vs USA Women
+https://dai.google.com/linear/hls/event/_AmHoFbjRM2cj75qV8k-DA/master.m3u8

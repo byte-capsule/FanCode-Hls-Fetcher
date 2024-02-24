@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 2,
-  "updated_on": "24-02-2024 on 09:06:57 AM \ud83c\udf1e",
+  "channels_amount": 3,
+  "updated_on": "24-02-2024 on 09:24:49 AM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -25,6 +25,17 @@
       "team_2": "Leeward Islands Hurricanes",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HURR@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/syRiQlD-Tyiz0nNiV8RmgA/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "CONCACAF Womens Gold Cup",
+      "match_id": 94041,
+      "match_name": "Argentina Women vs USA Women",
+      "team_1": "Argentina Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ARGT@2x.png",
+      "team_2": "USA Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-USA@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/_AmHoFbjRM2cj75qV8k-DA/master.m3u8"
     }
   ]
 }
