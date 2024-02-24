@@ -1,10 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="The Vision Shipping vs Fly Emirates" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94676" group-title="ICCA Arabian Cricket League Round 2",The Vision Shipping vs Fly Emirates
 https://dai.google.com/linear/hls/event/bFRroN9HQsC-Rzb1m0VQdw/master.m3u8
-#EXTINF:-1 tvg-name="Magic Badalona vs Men in Blue" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93252" group-title="ECS Spain, 2024",Magic Badalona vs Men in Blue
-https://dai.google.com/linear/hls/event/JEiC9a5WSE2qe1TJzv8uMg/master.m3u8
+#EXTINF:-1 tvg-name="Thane Tigers vs Mira Bhayandar Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93958" group-title="Navi Mumbai Premier League",Thane Tigers vs Mira Bhayandar Lions
+https://dai.google.com/linear/hls/event/MVmATFJVRKW0yiSLu8Lu7g/master.m3u8
 #EXTINF:-1 tvg-name="Trinidad &Tobago Red Force vs Leeward Islands Hurricanes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93714" group-title="West Indies Championship",Trinidad &Tobago Red Force vs Leeward Islands Hurricanes
 https://dai.google.com/linear/hls/event/syRiQlD-Tyiz0nNiV8RmgA/master.m3u8
+#EXTINF:-1 tvg-name="Hull City vs West Bromwich Albion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="91989" group-title="EFL Championship 2023-24",Hull City vs West Bromwich Albion
+https://dai.fancode.com/primary/91989_english_hls_5274adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Perth Glory vs Wellington Phoenix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92589" group-title="A League Men 2023-24",Perth Glory vs Wellington Phoenix
 https://dai.fancode.com/primary/92589_english_hls_4721adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Inter Kashi vs Real Kashmir FC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92921" group-title="I League 2023-24",Inter Kashi vs Real Kashmir FC
