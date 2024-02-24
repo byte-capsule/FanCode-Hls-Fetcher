@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="DCC Starlets vs Golden Sapero Technical Service" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94675" group-title="ICCA Arabian Cricket League Round 2",DCC Starlets vs Golden Sapero Technical Service
-https://dai.google.com/linear/hls/event/BLJrsgjKQmy2rbBHI3k5nA/master.m3u8
 #EXTINF:-1 tvg-name="Red Carpet Delhi vs Chhattisgarh Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94489" group-title="Indian Veterans Premier League",Red Carpet Delhi vs Chhattisgarh Warriors
 https://dai.google.com/linear/hls/event/u2lxwC62QyaH_QaE7uhPnQ/master.m3u8
 #EXTINF:-1 tvg-name="Magic Badalona vs Men in Blue" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93252" group-title="ECS Spain, 2024",Magic Badalona vs Men in Blue
