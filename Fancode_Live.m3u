@@ -5,11 +5,15 @@ https://dai.google.com/linear/hls/event/bFRroN9HQsC-Rzb1m0VQdw/master.m3u8
 https://dai.google.com/linear/hls/event/MVmATFJVRKW0yiSLu8Lu7g/master.m3u8
 #EXTINF:-1 tvg-name="Magic Badalona vs Royal Barcelona" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93253" group-title="ECS Spain, 2024",Magic Badalona vs Royal Barcelona
 https://dai.google.com/linear/hls/event/xBA_xkhhQqK9A2S6c01kmw/master.m3u8
-#EXTINF:-1 tvg-name="VVIP Uttar Pradesh vs Rajasthan Legends" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94490" group-title="Indian Veterans Premier League",VVIP Uttar Pradesh vs Rajasthan Legends
+#EXTINF:-1 tvg-name="Rajasthan Legends vs VVIP Uttar Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94490" group-title="Indian Veterans Premier League",Rajasthan Legends vs VVIP Uttar Pradesh
 https://dai.google.com/linear/hls/event/uNjyy4hkRVeFgyi1yb9g1w/master.m3u8
 #EXTINF:-1 tvg-name="Trinidad &Tobago Red Force vs Leeward Islands Hurricanes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93714" group-title="West Indies Championship",Trinidad &Tobago Red Force vs Leeward Islands Hurricanes
 https://dai.google.com/linear/hls/event/syRiQlD-Tyiz0nNiV8RmgA/master.m3u8
+#EXTINF:-1 tvg-name="Lahore Qalandars vs Karachi Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93847" group-title="PSL, 2024",Lahore Qalandars vs Karachi Kings
+https://dai.google.com/linear/hls/event/iuo5eKXsR_qA4tFvDXd27Q/master.m3u8
 #EXTINF:-1 tvg-name="Hull City vs West Bromwich Albion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="91989" group-title="EFL Championship 2023-24",Hull City vs West Bromwich Albion
 https://dai.fancode.com/primary/91989_english_hls_5274adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="DPR Korea Women vs Japan Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94703" group-title="AFC Women's Olympic Qualifying Tournament",DPR Korea Women vs Japan Women
 https://dai.google.com/linear/hls/event/EbKhbw9FRSmTwrKzKBiZVA/master.m3u8
+#EXTINF:-1 tvg-name="Churchill Brothers vs Gokulam Kerala FC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92922" group-title="I League 2023-24",Churchill Brothers vs Gokulam Kerala FC
+https://dai.google.com/linear/hls/event/eGkZAQAzQCCLkCgp_Is8IA/master.m3u8
