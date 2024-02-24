@@ -5,3 +5,5 @@ https://dai.fancode.com/primary/88971_english_hls_5956adfreeta-di/index.m3u8
 https://dai.google.com/linear/hls/event/syRiQlD-Tyiz0nNiV8RmgA/master.m3u8
 #EXTINF:-1 tvg-name="Argentina Women vs USA Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94041" group-title="CONCACAF Womens Gold Cup",Argentina Women vs USA Women
 https://dai.google.com/linear/hls/event/_AmHoFbjRM2cj75qV8k-DA/master.m3u8
+#EXTINF:-1 tvg-name="Júbilo Iwata vs Vissel Kobe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93881" group-title="J League 2024",Júbilo Iwata vs Vissel Kobe
+https://dai.google.com/linear/hls/event/YKbBRLaDQfCZ_2v7sv1kTw/master.m3u8
