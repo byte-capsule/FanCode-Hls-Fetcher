@@ -1,19 +1,19 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 5,
-  "updated_on": "24-02-2024 on 4:40:56 PM \ud83c\udf1e",
+  "channels_amount": 7,
+  "updated_on": "24-02-2024 on 5:02:15 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
-      "event_name": "Indian Veterans Premier League",
-      "match_id": 94489,
-      "match_name": "Red Carpet Delhi vs Chhattisgarh Warriors",
-      "team_1": "Red Carpet Delhi",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RED@2x.png",
-      "team_2": "Chhattisgarh Warriors",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CW@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/u2lxwC62QyaH_QaE7uhPnQ/master.m3u8"
+      "event_name": "ICCA Arabian Cricket League Round 2",
+      "match_id": 94676,
+      "match_name": "The Vision Shipping vs Fly Emirates",
+      "team_1": "The Vision Shipping",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TVSLL@2x.png",
+      "team_2": "Fly Emirates",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FLY@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/bFRroN9HQsC-Rzb1m0VQdw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -25,6 +25,17 @@
       "team_2": "Men in Blue",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MB@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/JEiC9a5WSE2qe1TJzv8uMg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Indian Veterans Premier League",
+      "match_id": 94489,
+      "match_name": "Red Carpet Delhi vs Chhattisgarh Warriors",
+      "team_1": "Red Carpet Delhi",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RED@2x.png",
+      "team_2": "Chhattisgarh Warriors",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CW@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/u2lxwC62QyaH_QaE7uhPnQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -40,13 +51,13 @@
     {
       "event_catagory": "football",
       "event_name": "A League Men 2023-24",
-      "match_id": 92588,
-      "match_name": "Adelaide United vs Western Sydney Wanderers",
-      "team_1": "Adelaide United",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ADLA@2x.png",
-      "team_2": "Western Sydney Wanderers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYWA@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/hzztq02KT-ComD4xZalV4g/master.m3u8"
+      "match_id": 92589,
+      "match_name": "Perth Glory vs Wellington Phoenix",
+      "team_1": "Perth Glory",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PERTHGA@2x.png",
+      "team_2": "Wellington Phoenix",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WELA@2x.png",
+      "stream_link": "https://dai.fancode.com/primary/92589_english_hls_4721adfreeta-no/index.m3u8"
     },
     {
       "event_catagory": "football",
@@ -58,6 +69,17 @@
       "team_2": "Australia Women",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AUS@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/9i8ukQqkQcWdT1626lJO5w/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "I League 2023-24",
+      "match_id": 92921,
+      "match_name": "Inter Kashi vs Real Kashmir FC",
+      "team_1": "Inter Kashi",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KASH@2x.png",
+      "team_2": "Real Kashmir FC",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/KSH-FT1@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/-STbpK9FTcOqRjPCmOfxjA/master.m3u8"
     }
   ]
 }
