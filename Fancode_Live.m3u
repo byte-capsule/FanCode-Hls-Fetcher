@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Dubai Dare Devils vs DCC Starlets" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92763" group-title="ICCA Arabian Cricket League Round 2",Dubai Dare Devils vs DCC Starlets
 https://dai.google.com/linear/hls/event/1Qr_4hxkRfWadRgevzburA/master.m3u8
-#EXTINF:-1 tvg-name="Belapur Blasters vs Ambernath Avengers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93960" group-title="Navi Mumbai Premier League",Belapur Blasters vs Ambernath Avengers
-https://dai.google.com/linear/hls/event/2A9fqiLwQ6eKlDMQofbZwg/master.m3u8
 #EXTINF:-1 tvg-name="VVIP Uttar Pradesh vs Red Carpet Delhi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94492" group-title="Indian Veterans Premier League",VVIP Uttar Pradesh vs Red Carpet Delhi
 https://dai.google.com/linear/hls/event/dee9eKYASYa2Sq9U2QxhGQ/master.m3u8
 #EXTINF:-1 tvg-name="Nigeria Women vs Sierra Leone Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94437" group-title="NCF Women's T20 Invitational, 2024",Nigeria Women vs Sierra Leone Women
