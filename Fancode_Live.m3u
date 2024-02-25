@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Telangana Tigers vs Rajasthan Legends" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94491" group-title="Indian Veterans Premier League",Telangana Tigers vs Rajasthan Legends
 https://dai.google.com/linear/hls/event/oTBRc4AlTB-MIvAym1hpdg/master.m3u8
-#EXTINF:-1 tvg-name="Nepal vs Netherlands" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93580" group-title="ICC CWC League 2, 2023-27",Nepal vs Netherlands
-https://dai.fancode.com/primary/93580_english_hls_5099adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="India Over-40s vs South Africa Over-40s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94398" group-title="IMC Over-40s Cricket World Cup, 2024",India Over-40s vs South Africa Over-40s
 https://dai.fancode.com/primary/94398_english_hls_5259adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="New Zealand Over-40s vs UAE Over-40s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94397" group-title="IMC Over-40s Cricket World Cup, 2024",New Zealand Over-40s vs UAE Over-40s
@@ -13,5 +11,5 @@ https://dai.google.com/linear/hls/event/AP37FmRBR8aFhAB53hNBpg/master.m3u8
 https://dai.google.com/linear/hls/event/bSVSISvcS163wszMsFwNLA/master.m3u8
 #EXTINF:-1 tvg-name="Qurum Thunders vs Ruwi Rangers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93900" group-title="Oman D50 League, 2024",Qurum Thunders vs Ruwi Rangers
 https://dai.google.com/linear/hls/event/bclaxPDQSbW3NkDmT9bXXw/master.m3u8
-#EXTINF:-1 tvg-name="Right Guards CC vs Challengers CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93055" group-title="RCA Men's T10 League",Right Guards CC vs Challengers CC
+#EXTINF:-1 tvg-name="Challengers CC vs Right Guards CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93055" group-title="RCA Men's T10 League",Challengers CC vs Right Guards CC
 https://dai.google.com/linear/hls/event/qHP8EhLXR0aN9Enjj_9nBQ/master.m3u8

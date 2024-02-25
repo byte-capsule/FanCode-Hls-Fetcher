@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 8,
-  "updated_on": "25-02-2024 on 4:03:41 PM \ud83c\udf1e",
+  "channels_amount": 7,
+  "updated_on": "25-02-2024 on 4:26:10 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -14,17 +14,6 @@
       "team_2": "Rajasthan Legends",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RL@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/oTBRc4AlTB-MIvAym1hpdg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC CWC League 2, 2023-27",
-      "match_id": 93580,
-      "match_name": "Nepal vs Netherlands",
-      "team_1": "Nepal",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
-      "team_2": "Netherlands",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
-      "stream_link": "https://dai.fancode.com/primary/93580_english_hls_5099adfreeta-no/index.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -85,11 +74,11 @@
       "event_catagory": "cricket",
       "event_name": "RCA Men's T10 League",
       "match_id": 93055,
-      "match_name": "Right Guards CC vs Challengers CC",
-      "team_1": "Right Guards CC",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RGC@2x.png",
-      "team_2": "Challengers CC",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CHLC@2x.png",
+      "match_name": "Challengers CC vs Right Guards CC",
+      "team_1": "Challengers CC",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CHLC@2x.png",
+      "team_2": "Right Guards CC",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RGC@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/qHP8EhLXR0aN9Enjj_9nBQ/master.m3u8"
     }
   ]
