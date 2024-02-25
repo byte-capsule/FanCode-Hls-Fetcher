@@ -9,11 +9,11 @@ https://dai.fancode.com/primary/93580_english_hls_5099adfreeta-no/index.m3u8
 https://dai.fancode.com/primary/94398_english_hls_5259adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="New Zealand Over-40s vs UAE Over-40s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94397" group-title="IMC Over-40s Cricket World Cup, 2024",New Zealand Over-40s vs UAE Over-40s
 https://dai.fancode.com/primary/94397_english_hls_8538adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Multan Sultans vs Quetta Gladiators" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93848" group-title="PSL, 2024",Multan Sultans vs Quetta Gladiators
+https://dai.google.com/linear/hls/event/bSVSISvcS163wszMsFwNLA/master.m3u8
 #EXTINF:-1 tvg-name="Qurum Thunders vs Ruwi Rangers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93900" group-title="Oman D50 League, 2024",Qurum Thunders vs Ruwi Rangers
 https://dai.google.com/linear/hls/event/bclaxPDQSbW3NkDmT9bXXw/master.m3u8
 #EXTINF:-1 tvg-name="Indorwa CC vs Kutchi Sports Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93054" group-title="RCA Men's T10 League",Indorwa CC vs Kutchi Sports Club
 https://dai.google.com/linear/hls/event/y_vPGSxwSU6adVl-XcWMUw/master.m3u8
-#EXTINF:-1 tvg-name="Multan Sultans vs Quetta Gladiators" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93848" group-title="PSL, 2024",Multan Sultans vs Quetta Gladiators
-https://dai.google.com/linear/hls/event/bSVSISvcS163wszMsFwNLA/master.m3u8
 #EXTINF:-1 tvg-name="Rwanda Women vs Tanzania Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94436" group-title="NCF Women's T20 Invitational, 2024",Rwanda Women vs Tanzania Women
 https://dai.google.com/linear/hls/event/AP37FmRBR8aFhAB53hNBpg/master.m3u8
