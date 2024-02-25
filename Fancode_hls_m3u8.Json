@@ -1,19 +1,19 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 9,
-  "updated_on": "25-02-2024 on 8:40:52 PM \ud83c\udf19",
+  "channels_amount": 8,
+  "updated_on": "25-02-2024 on 9:02:57 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
       "event_name": "ICCA Arabian Cricket League Round 2",
-      "match_id": 92762,
-      "match_name": "Mid-East Metals vs AZ Sports",
-      "team_1": "Mid-East Metals",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MIDS@2x.png",
-      "team_2": "AZ Sports",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AZSP@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/wIkBFKjwRCKeB3-axtviAQ/master.m3u8"
+      "match_id": 92763,
+      "match_name": "Dubai Dare Devils vs DCC Starlets",
+      "team_1": "Dubai Dare Devils",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DDD@2x.png",
+      "team_2": "DCC Starlets",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DCC@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/1Qr_4hxkRfWadRgevzburA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -25,17 +25,6 @@
       "team_2": "Ambernath Avengers",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AMBA@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/2A9fqiLwQ6eKlDMQofbZwg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "RCA Men's T10 League",
-      "match_id": 93056,
-      "match_name": "Zonic Tigers CC vs IPRC Kigali CC",
-      "team_1": "Zonic Tigers CC",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZON@2x.png",
-      "team_2": "IPRC Kigali CC",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KIGL@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/wxgPzFKyTxul7K0Gg04zVg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -73,17 +62,6 @@
     {
       "event_catagory": "cricket",
       "event_name": "IMC Over-40s Cricket World Cup, 2024",
-      "match_id": 94398,
-      "match_name": "India Over-40s vs South Africa Over-40s",
-      "team_1": "India Over-40s",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IND@2x.png",
-      "team_2": "South Africa Over-40s",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
-      "stream_link": "https://dai.fancode.com/primary/94398_english_hls_5259adfreeta-di/index.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "IMC Over-40s Cricket World Cup, 2024",
       "match_id": 94397,
       "match_name": "New Zealand Over-40s vs UAE Over-40s",
       "team_1": "New Zealand Over-40s",
@@ -102,6 +80,17 @@
       "team_2": "Shillong Lajong FC",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/BW-FT1@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/b6sC2ediS32Y2tnFuq_RUg/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "Carabao Cup 2023",
+      "match_id": 93282,
+      "match_name": "Chelsea vs Liverpool",
+      "team_1": "Chelsea",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CHEL@2x.png",
+      "team_2": "Liverpool",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LIVP@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/4XpIVIY_SDqu-uXDI0qD5Q/master.m3u8"
     }
   ]
 }
