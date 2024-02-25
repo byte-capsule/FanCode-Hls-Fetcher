@@ -9,3 +9,5 @@ https://dai.google.com/linear/hls/event/ZHIo-jMJSaWjdcZiC4lENg/master.m3u8
 https://dai.google.com/linear/hls/event/RyHGSezQQtC9W52a_dMmag/master.m3u8
 #EXTINF:-1 tvg-name="Bermuda vs Saudi Arabia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93997" group-title="ICC CWC Challenge League Play-off, 2024",Bermuda vs Saudi Arabia
 https://dai.google.com/linear/hls/event/_BMwMgURSBeoCCQuVQlj8Q/master.m3u8
+#EXTINF:-1 tvg-name="Colombia Women vs Brazil Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94043" group-title="CONCACAF Womens Gold Cup",Colombia Women vs Brazil Women
+https://dai.google.com/linear/hls/event/11itoLh3QHiJdQYEeJZ-_A/master.m3u8
