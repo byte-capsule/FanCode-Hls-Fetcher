@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Dubai Dare Devils vs DCC Starlets" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92763" group-title="ICCA Arabian Cricket League Round 2",Dubai Dare Devils vs DCC Starlets
 https://dai.google.com/linear/hls/event/1Qr_4hxkRfWadRgevzburA/master.m3u8
+#EXTINF:-1 tvg-name="Osmani CC vs KRM Panthers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95434" group-title="KCC T20 Challengers Cup, 2024",Osmani CC vs KRM Panthers
+https://dai.google.com/linear/hls/event/IvJHpvCzTDeo1uEeAtrmeg/master.m3u8
 #EXTINF:-1 tvg-name="Peshawar Zalmi vs Lahore Qalandars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93849" group-title="PSL, 2024",Peshawar Zalmi vs Lahore Qalandars
 https://dai.google.com/linear/hls/event/LjC4ZCkuS_OEbt9MBM766Q/master.m3u8
 #EXTINF:-1 tvg-name="Chelsea vs Liverpool" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93282" group-title="Carabao Cup 2023",Chelsea vs Liverpool
