@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 4,
-  "updated_on": "25-02-2024 on 11:41:11 PM \ud83c\udf19",
+  "channels_amount": 2,
+  "updated_on": "26-02-2024 on 00:06:53 AM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -25,28 +25,6 @@
       "team_2": "KRM Panthers",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KRM@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/IvJHpvCzTDeo1uEeAtrmeg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "PSL, 2024",
-      "match_id": 93849,
-      "match_name": "Peshawar Zalmi vs Lahore Qalandars",
-      "team_1": "Peshawar Zalmi",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PEZ@2x.png",
-      "team_2": "Lahore Qalandars",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LAQ@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/LjC4ZCkuS_OEbt9MBM766Q/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "Carabao Cup 2023",
-      "match_id": 93282,
-      "match_name": "Chelsea vs Liverpool",
-      "team_1": "Chelsea",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CHEL@2x.png",
-      "team_2": "Liverpool",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LIVP@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/4XpIVIY_SDqu-uXDI0qD5Q/master.m3u8"
     }
   ]
 }
