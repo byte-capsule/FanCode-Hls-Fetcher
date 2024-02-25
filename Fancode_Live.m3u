@@ -13,7 +13,9 @@ https://dai.google.com/linear/hls/event/L690cYIwSCqU3IXxKDTGHA/master.m3u8
 https://dai.google.com/linear/hls/event/bclaxPDQSbW3NkDmT9bXXw/master.m3u8
 #EXTINF:-1 tvg-name="Indorwa CC vs Kutchi Sports Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93054" group-title="RCA Men's T10 League",Indorwa CC vs Kutchi Sports Club
 https://dai.google.com/linear/hls/event/y_vPGSxwSU6adVl-XcWMUw/master.m3u8
-#EXTINF:-1 tvg-name="South Africa Over-40s vs India Over-40s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94398" group-title="IMC Over-40s Cricket World Cup, 2024",South Africa Over-40s vs India Over-40s
+#EXTINF:-1 tvg-name="India Over-40s vs South Africa Over-40s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94398" group-title="IMC Over-40s Cricket World Cup, 2024",India Over-40s vs South Africa Over-40s
 https://dai.fancode.com/primary/94398_english_hls_5259adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="New Zealand Over-40s vs UAE Over-40s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94397" group-title="IMC Over-40s Cricket World Cup, 2024",New Zealand Over-40s vs UAE Over-40s
 https://dai.fancode.com/primary/94397_english_hls_8538adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Telangana Tigers vs Rajasthan Legends" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94491" group-title="Indian Veterans Premier League",Telangana Tigers vs Rajasthan Legends
+https://dai.google.com/linear/hls/event/oTBRc4AlTB-MIvAym1hpdg/master.m3u8
