@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Nepal vs Netherlands" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93580" group-title="ICC CWC League 2, 2023-27",Nepal vs Netherlands
 https://dai.fancode.com/primary/93580_english_hls_5099adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Kowloon Cricket Club vs Diasqua Little Sai Wan Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95166" group-title="CHK Men's Premier League T20",Kowloon Cricket Club vs Diasqua Little Sai Wan Cricket Club
+https://dai.google.com/linear/hls/event/cjXtlCcCSsCBt6bDXWBSfQ/master.m3u8
+#EXTINF:-1 tvg-name="United Services Recreation Club vs Hong Kong Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95165" group-title="CHK Men's Premier League T20",United Services Recreation Club vs Hong Kong Cricket Club
+https://dai.google.com/linear/hls/event/L690cYIwSCqU3IXxKDTGHA/master.m3u8
+#EXTINF:-1 tvg-name="Qurum Thunders vs Ruwi Rangers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93900" group-title="Oman D50 League, 2024",Qurum Thunders vs Ruwi Rangers
+https://dai.google.com/linear/hls/event/bclaxPDQSbW3NkDmT9bXXw/master.m3u8
 #EXTINF:-1 tvg-name="Vashi Warriors vs Sanpada Scorpions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93959" group-title="Navi Mumbai Premier League",Vashi Warriors vs Sanpada Scorpions
 https://dai.google.com/linear/hls/event/EWXf3eZTSOOTNw8FRUpvvg/master.m3u8
 #EXTINF:-1 tvg-name="Kuwait vs Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93999" group-title="ICC CWC Challenge League Play-off, 2024",Kuwait vs Italy
@@ -9,12 +15,6 @@ https://dai.google.com/linear/hls/event/ZHIo-jMJSaWjdcZiC4lENg/master.m3u8
 https://dai.google.com/linear/hls/event/RyHGSezQQtC9W52a_dMmag/master.m3u8
 #EXTINF:-1 tvg-name="Bermuda vs Saudi Arabia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93997" group-title="ICC CWC Challenge League Play-off, 2024",Bermuda vs Saudi Arabia
 https://dai.google.com/linear/hls/event/_BMwMgURSBeoCCQuVQlj8Q/master.m3u8
-#EXTINF:-1 tvg-name="United Services Recreation Club vs Hong Kong Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95165" group-title="CHK Men's Premier League T20",United Services Recreation Club vs Hong Kong Cricket Club
-https://dai.google.com/linear/hls/event/L690cYIwSCqU3IXxKDTGHA/master.m3u8
-#EXTINF:-1 tvg-name="Kowloon Cricket Club vs Diasqua Little Sai Wan Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95166" group-title="CHK Men's Premier League T20",Kowloon Cricket Club vs Diasqua Little Sai Wan Cricket Club
-https://dai.google.com/linear/hls/event/cjXtlCcCSsCBt6bDXWBSfQ/master.m3u8
-#EXTINF:-1 tvg-name="Qurum Thunders vs Ruwi Rangers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93900" group-title="Oman D50 League, 2024",Qurum Thunders vs Ruwi Rangers
-https://dai.google.com/linear/hls/event/bclaxPDQSbW3NkDmT9bXXw/master.m3u8
 #EXTINF:-1 tvg-name="Tokyo Verdy vs Yokohama F. Marinos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93883" group-title="J League 2024",Tokyo Verdy vs Yokohama F. Marinos
 https://dai.google.com/linear/hls/event/fTpLGBKmQnyAXrp6u-sKmw/master.m3u8
 #EXTINF:-1 tvg-name="Melbourne Victory vs Central Coast Mariners" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92590" group-title="A League Men 2023-24",Melbourne Victory vs Central Coast Mariners
