@@ -1,20 +1,9 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 11,
-  "updated_on": "25-02-2024 on 2:41:12 PM \ud83c\udf1e",
+  "channels_amount": 10,
+  "updated_on": "25-02-2024 on 3:03:15 PM \ud83c\udf1e",
   "channels": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC CWC Challenge League Play-off, 2024",
-      "match_id": 93998,
-      "match_name": "Tanzania vs Malaysia",
-      "team_1": "Tanzania",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TNZN@2x.png",
-      "team_2": "Malaysia",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALY@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/RyHGSezQQtC9W52a_dMmag/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "ICC CWC Challenge League Play-off, 2024",
@@ -28,6 +17,17 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "Indian Veterans Premier League",
+      "match_id": 94491,
+      "match_name": "Telangana Tigers vs Rajasthan Legends",
+      "team_1": "Telangana Tigers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TLT@2x.png",
+      "team_2": "Rajasthan Legends",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RL@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/oTBRc4AlTB-MIvAym1hpdg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "ICC CWC League 2, 2023-27",
       "match_id": 93580,
       "match_name": "Nepal vs Netherlands",
@@ -36,50 +36,6 @@
       "team_2": "Netherlands",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
       "stream_link": "https://dai.fancode.com/primary/93580_english_hls_5099adfreeta-no/index.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "CHK Men's Premier League T20",
-      "match_id": 95166,
-      "match_name": "Kowloon Cricket Club vs Diasqua Little Sai Wan Cricket Club",
-      "team_1": "Kowloon Cricket Club",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KCCW@2x.png",
-      "team_2": "Diasqua Little Sai Wan Cricket Club",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DLWW@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/cjXtlCcCSsCBt6bDXWBSfQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "CHK Men's Premier League T20",
-      "match_id": 95165,
-      "match_name": "United Services Recreation Club vs Hong Kong Cricket Club",
-      "team_1": "United Services Recreation Club",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USR@2x.png",
-      "team_2": "Hong Kong Cricket Club",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HCCW@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/L690cYIwSCqU3IXxKDTGHA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Oman D50 League, 2024",
-      "match_id": 93900,
-      "match_name": "Qurum Thunders vs Ruwi Rangers",
-      "team_1": "Qurum Thunders",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-QURM@2x.png",
-      "team_2": "Ruwi Rangers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RUWIRA@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/bclaxPDQSbW3NkDmT9bXXw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "RCA Men's T10 League",
-      "match_id": 93054,
-      "match_name": "Indorwa CC vs Kutchi Sports Club",
-      "team_1": "Indorwa CC",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IR@2x.png",
-      "team_2": "Kutchi Sports Club",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KH@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/y_vPGSxwSU6adVl-XcWMUw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -105,14 +61,36 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Indian Veterans Premier League",
-      "match_id": 94491,
-      "match_name": "Telangana Tigers vs Rajasthan Legends",
-      "team_1": "Telangana Tigers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TLT@2x.png",
-      "team_2": "Rajasthan Legends",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RL@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/oTBRc4AlTB-MIvAym1hpdg/master.m3u8"
+      "event_name": "CHK Men's Premier League T20",
+      "match_id": 95166,
+      "match_name": "Kowloon Cricket Club vs Diasqua Little Sai Wan Cricket Club",
+      "team_1": "Kowloon Cricket Club",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KCCW@2x.png",
+      "team_2": "Diasqua Little Sai Wan Cricket Club",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DLWW@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/cjXtlCcCSsCBt6bDXWBSfQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Oman D50 League, 2024",
+      "match_id": 93900,
+      "match_name": "Qurum Thunders vs Ruwi Rangers",
+      "team_1": "Qurum Thunders",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-QURM@2x.png",
+      "team_2": "Ruwi Rangers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RUWIRA@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/bclaxPDQSbW3NkDmT9bXXw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "RCA Men's T10 League",
+      "match_id": 93054,
+      "match_name": "Indorwa CC vs Kutchi Sports Club",
+      "team_1": "Indorwa CC",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IR@2x.png",
+      "team_2": "Kutchi Sports Club",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KH@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/y_vPGSxwSU6adVl-XcWMUw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -124,6 +102,17 @@
       "team_2": "Quetta Gladiators",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-QG@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/bSVSISvcS163wszMsFwNLA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "NCF Women's T20 Invitational, 2024",
+      "match_id": 94436,
+      "match_name": "Rwanda Women vs Tanzania Women",
+      "team_1": "Rwanda Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RWA@2x.png",
+      "team_2": "Tanzania Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TNZN@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/AP37FmRBR8aFhAB53hNBpg/master.m3u8"
     }
   ]
 }
