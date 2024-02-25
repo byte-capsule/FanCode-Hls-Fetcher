@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 7,
-  "updated_on": "25-02-2024 on 11:41:09 AM \ud83c\udf1e",
+  "channels_amount": 11,
+  "updated_on": "25-02-2024 on 0:07:08 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -71,6 +71,28 @@
       "stream_link": "https://dai.google.com/linear/hls/event/L690cYIwSCqU3IXxKDTGHA/master.m3u8"
     },
     {
+      "event_catagory": "cricket",
+      "event_name": "CHK Men's Premier League T20",
+      "match_id": 95166,
+      "match_name": "Kowloon Cricket Club vs Diasqua Little Sai Wan Cricket Club",
+      "team_1": "Kowloon Cricket Club",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KCCW@2x.png",
+      "team_2": "Diasqua Little Sai Wan Cricket Club",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DLWW@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/cjXtlCcCSsCBt6bDXWBSfQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Oman D50 League, 2024",
+      "match_id": 93900,
+      "match_name": "Qurum Thunders vs Ruwi Rangers",
+      "team_1": "Qurum Thunders",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-QURM@2x.png",
+      "team_2": "Ruwi Rangers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RUWIRA@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/bclaxPDQSbW3NkDmT9bXXw/master.m3u8"
+    },
+    {
       "event_catagory": "football",
       "event_name": "J League 2024",
       "match_id": 93883,
@@ -80,6 +102,28 @@
       "team_2": "Yokohama F. Marinos",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-YKM@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/fTpLGBKmQnyAXrp6u-sKmw/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "A League Men 2023-24",
+      "match_id": 92590,
+      "match_name": "Melbourne Victory vs Central Coast Mariners",
+      "team_1": "Melbourne Victory",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLVA@2x.png",
+      "team_2": "Central Coast Mariners",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CENTA@2x.png",
+      "stream_link": "https://dai.fancode.com/primary/92590_english_hls_5292adfreeta-no/index.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "A League Men 2023-24",
+      "match_id": 92587,
+      "match_name": "Newcastle Jets vs Macarthur",
+      "team_1": "Newcastle Jets",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NJA@2x.png",
+      "team_2": "Macarthur",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MACA@2x.png",
+      "stream_link": "https://dai.fancode.com/primary/92587_english_hls_8639adfreeta-no/index.m3u8"
     }
   ]
 }
