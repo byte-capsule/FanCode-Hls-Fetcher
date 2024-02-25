@@ -19,3 +19,5 @@ https://dai.fancode.com/primary/94398_english_hls_5259adfreeta-di/index.m3u8
 https://dai.fancode.com/primary/94397_english_hls_8538adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Telangana Tigers vs Rajasthan Legends" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94491" group-title="Indian Veterans Premier League",Telangana Tigers vs Rajasthan Legends
 https://dai.google.com/linear/hls/event/oTBRc4AlTB-MIvAym1hpdg/master.m3u8
+#EXTINF:-1 tvg-name="Multan Sultans vs Quetta Gladiators" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93848" group-title="PSL, 2024",Multan Sultans vs Quetta Gladiators
+https://dai.google.com/linear/hls/event/bSVSISvcS163wszMsFwNLA/master.m3u8
