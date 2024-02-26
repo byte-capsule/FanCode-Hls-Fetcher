@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 7,
-  "updated_on": "26-02-2024 on 7:23:30 PM \ud83c\udf19",
+  "channels_amount": 8,
+  "updated_on": "26-02-2024 on 7:41:13 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -80,6 +80,17 @@
       "team_2": "Darsait Titans",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DART@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/OdXPSJG7SWmRd7G27nlwew/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "PSL, 2024",
+      "match_id": 93850,
+      "match_name": "Peshawar Zalmi vs Islamabad United",
+      "team_1": "Peshawar Zalmi",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PEZ@2x.png",
+      "team_2": "Islamabad United",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IU@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/vF4thnk4TCqqqF9m8mAPTQ/master.m3u8"
     }
   ]
 }
