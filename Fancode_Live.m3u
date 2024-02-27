@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Zagreb Assassins vs Skanderborg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94966" group-title="European Cricket League, 2024",Zagreb Assassins vs Skanderborg
-https://dai.google.com/linear/hls/event/jkzwvqy2T6KU8uLQl4XTLA/master.m3u8
 #EXTINF:-1 tvg-name="Bousher Busters vs Ruwi Rangers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93902" group-title="Oman D50 League, 2024",Bousher Busters vs Ruwi Rangers
 https://dai.google.com/linear/hls/event/MM3yAICBQmerqnyA8LaAXw/master.m3u8
 #EXTINF:-1 tvg-name="Mumbai Champions vs Red Carpet Delhi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94495" group-title="Indian Veterans Premier League",Mumbai Champions vs Red Carpet Delhi
