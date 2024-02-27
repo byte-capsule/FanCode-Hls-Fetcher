@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Jinnah Brescia vs Heritage CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94967" group-title="European Cricket League, 2024",Jinnah Brescia vs Heritage CC
+https://dai.google.com/linear/hls/event/QMJhIufyQK-45TmqnNT4Xw/master.m3u8
 #EXTINF:-1 tvg-name="Bousher Busters vs Ruwi Rangers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93902" group-title="Oman D50 League, 2024",Bousher Busters vs Ruwi Rangers
 https://dai.google.com/linear/hls/event/MM3yAICBQmerqnyA8LaAXw/master.m3u8
 #EXTINF:-1 tvg-name="England Over-40s vs South Africa Over-40s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94401" group-title="IMC Over-40s Cricket World Cup, 2024",England Over-40s vs South Africa Over-40s
