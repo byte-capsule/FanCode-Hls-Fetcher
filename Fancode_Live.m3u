@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Zagreb Assassins vs Cobra CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94968" group-title="European Cricket League, 2024",Zagreb Assassins vs Cobra CC
-https://dai.google.com/linear/hls/event/N73fyoHEQL2yhoG07JvxZw/master.m3u8
 #EXTINF:-1 tvg-name="DCC Starlets vs Mid-East Metals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92898" group-title="ICCA Arabian Cricket League Round 2",DCC Starlets vs Mid-East Metals
 https://dai.google.com/linear/hls/event/FhKisxD0SkGg_dTrrMJdRw/master.m3u8
-#EXTINF:-1 tvg-name="Telangana Tigers vs Chhattisgarh Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94496" group-title="Indian Veterans Premier League",Telangana Tigers vs Chhattisgarh Warriors
-https://dai.google.com/linear/hls/event/_2cK4Z5yTzqh0pHSPykZRg/master.m3u8
 #EXTINF:-1 tvg-name="Sanpada Scorpions vs Vashi Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93963" group-title="Navi Mumbai Premier League",Sanpada Scorpions vs Vashi Warriors
  Free Trial attempt unsuccessful......it requires Premium Account
 #EXTINF:-1 tvg-name="Multan Sultans vs Lahore Qalandars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93851" group-title="PSL, 2024",Multan Sultans vs Lahore Qalandars
