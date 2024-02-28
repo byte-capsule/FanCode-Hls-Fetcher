@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 6,
-  "updated_on": "28-02-2024 on 10:07:09 PM \ud83c\udf19",
+  "channels_amount": 4,
+  "updated_on": "28-02-2024 on 10:29:58 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -25,28 +25,6 @@
       "team_2": "Mumbai Champions",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MUC@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/rK57uf_QRTeLQcXtt5bqoQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "NCF Women's T20 Invitational, 2024",
-      "match_id": 94441,
-      "match_name": "Tanzania Women vs Sierra Leone Women",
-      "team_1": "Tanzania Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TNZN@2x.png",
-      "team_2": "Sierra Leone Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SILN@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/ANH4isQjQSiYH-njk2_EVQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Bangladesh Premier League, 2024",
-      "match_id": 90987,
-      "match_name": "Rangpur Riders vs Fortune Barishal",
-      "team_1": "Rangpur Riders",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RANG@2x.png",
-      "team_2": "Fortune Barishal",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FBAA@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/AjLQFvkKQt6nX_7UHNSfKg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
