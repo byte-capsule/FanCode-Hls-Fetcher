@@ -1,5 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Orlando City SC vs Cavalry" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93751" group-title="CONCACAF Champions Cup",Orlando City SC vs Cavalry
-https://dai.google.com/linear/hls/event/W-OueV0yTn2el-av265l8g/master.m3u8
+#EXTINF:-1 tvg-name="Tanzania vs Bermuda" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94005" group-title="ICC CWC Challenge League Play-off, 2024",Tanzania vs Bermuda
+https://dai.google.com/linear/hls/event/t4V0QHqPToS1Xtjc_MQTsg/master.m3u8
+#EXTINF:-1 tvg-name="Italy vs Bahrain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94004" group-title="ICC CWC Challenge League Play-off, 2024",Italy vs Bahrain
+https://dai.google.com/linear/hls/event/R4ek8G6DSW65DQfZTqDMeg/master.m3u8
+#EXTINF:-1 tvg-name="Kuwait vs Vanuatu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94003" group-title="ICC CWC Challenge League Play-off, 2024",Kuwait vs Vanuatu
+https://dai.google.com/linear/hls/event/n3RhIdtPTZe4pNQdkBjM6g/master.m3u8
+#EXTINF:-1 tvg-name="Philadelphia Union vs Saprissa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93752" group-title="CONCACAF Champions Cup",Philadelphia Union vs Saprissa
+https://dai.google.com/linear/hls/event/JzMG_MhkRVquSk1nEGXCWA/master.m3u8
 #EXTINF:-1 tvg-name="Colombia Women vs Puerto Rico Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94049" group-title="CONCACAF Womens Gold Cup",Colombia Women vs Puerto Rico Women
 https://dai.google.com/linear/hls/event/8i_7qmANQqSHPG-2QzQcKw/master.m3u8
