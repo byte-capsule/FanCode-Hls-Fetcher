@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Heritage CC vs Jinnah Brescia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94973" group-title="European Cricket League, 2024",Heritage CC vs Jinnah Brescia
+https://dai.google.com/linear/hls/event/iUWrZz80TcCW9m8aEEN1QA/master.m3u8
 #EXTINF:-1 tvg-name="VVIP Uttar Pradesh vs Mumbai Champions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94498" group-title="Indian Veterans Premier League",VVIP Uttar Pradesh vs Mumbai Champions
 https://dai.google.com/linear/hls/event/rK57uf_QRTeLQcXtt5bqoQ/master.m3u8
 #EXTINF:-1 tvg-name="Tanzania Women vs Sierra Leone Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94441" group-title="NCF Women's T20 Invitational, 2024",Tanzania Women vs Sierra Leone Women
