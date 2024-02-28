@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Skanderborg vs Jinnah Brescia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94972" group-title="European Cricket League, 2024",Skanderborg vs Jinnah Brescia
 https://dai.google.com/linear/hls/event/1IpfP9JIS6yiEWz_aeV4Nw/master.m3u8
+#EXTINF:-1 tvg-name="Sierra Leone Women vs Tanzania Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94441" group-title="NCF Women's T20 Invitational, 2024",Sierra Leone Women vs Tanzania Women
+https://dai.google.com/linear/hls/event/ANH4isQjQSiYH-njk2_EVQ/master.m3u8
 #EXTINF:-1 tvg-name="United Arab Emirates vs Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94696" group-title="ICC CWC League 2, 2023-27",United Arab Emirates vs Canada
 https://dai.google.com/linear/hls/event/Husy26tDTKO6OxTdeVLxjA/master.m3u8
-#EXTINF:-1 tvg-name="Afghanistan vs Ireland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93916" group-title="Ireland tour of Afghanistan, 2024",Afghanistan vs Ireland
-https://dai.google.com/linear/hls/event/nKutzpLKTCSjFDMzJSLvVw/master.m3u8
 #EXTINF:-1 tvg-name="Rangpur Riders vs Fortune Barishal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="90987" group-title="Bangladesh Premier League, 2024",Rangpur Riders vs Fortune Barishal
 https://dai.google.com/linear/hls/event/AjLQFvkKQt6nX_7UHNSfKg/master.m3u8
-#EXTINF:-1 tvg-name="Aizawl vs Real Kashmir FC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92924" group-title="I League 2023-24",Aizawl vs Real Kashmir FC
-https://dai.google.com/linear/hls/event/lGx84YtvSIKmfueAp_dSMA/master.m3u8
+#EXTINF:-1 tvg-name="Afghanistan vs Ireland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93916" group-title="Ireland tour of Afghanistan, 2024",Afghanistan vs Ireland
+https://dai.google.com/linear/hls/event/nKutzpLKTCSjFDMzJSLvVw/master.m3u8
