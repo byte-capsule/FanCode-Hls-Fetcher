@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Orlando City SC vs Cavalry" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93751" group-title="CONCACAF Champions Cup",Orlando City SC vs Cavalry
+https://dai.google.com/linear/hls/event/W-OueV0yTn2el-av265l8g/master.m3u8
+#EXTINF:-1 tvg-name="Colombia Women vs Puerto Rico Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94049" group-title="CONCACAF Womens Gold Cup",Colombia Women vs Puerto Rico Women
+https://dai.google.com/linear/hls/event/8i_7qmANQqSHPG-2QzQcKw/master.m3u8
