@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Red Carpet Delhi vs Rajasthan Legends" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94500" group-title="Indian Veterans Premier League",Red Carpet Delhi vs Rajasthan Legends
 https://dai.google.com/linear/hls/event/UZCGdagxRSeBb9PTxTas6w/master.m3u8
-#EXTINF:-1 tvg-name="England Over-40s vs Australia Over-40s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94403" group-title="IMC Over-40s Cricket World Cup, 2024",England Over-40s vs Australia Over-40s
-https://dai.google.com/linear/hls/event/dkzEOX4NQkuBAeLQo0bCeA/master.m3u8
-#EXTINF:-1 tvg-name="India Over-40s vs Sri Lanka Over-40s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94402" group-title="IMC Over-40s Cricket World Cup, 2024",India Over-40s vs Sri Lanka Over-40s
-https://dai.google.com/linear/hls/event/y4SGERWiSeiERVh8WYd36Q/master.m3u8
 #EXTINF:-1 tvg-name="Sierra Leone Women vs Nigeria Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94443" group-title="NCF Women's T20 Invitational, 2024",Sierra Leone Women vs Nigeria Women
 https://dai.google.com/linear/hls/event/SBJdmgCjS3yOKb19SFig5g/master.m3u8
+#EXTINF:-1 tvg-name="England Over-40s vs Australia Over-40s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94403" group-title="IMC Over-40s Cricket World Cup, 2024",England Over-40s vs Australia Over-40s
+https://dai.google.com/linear/hls/event/dkzEOX4NQkuBAeLQo0bCeA/master.m3u8
 #EXTINF:-1 tvg-name="Afghanistan vs Ireland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93916" group-title="Ireland tour of Afghanistan, 2024",Afghanistan vs Ireland
 https://dai.google.com/linear/hls/event/nKutzpLKTCSjFDMzJSLvVw/master.m3u8
+#EXTINF:-1 tvg-name="Karachi Kings vs Quetta Gladiators" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93853" group-title="PSL, 2024",Karachi Kings vs Quetta Gladiators
+https://dai.google.com/linear/hls/event/8mEwD6p8QreEseEwz0229A/master.m3u8
