@@ -2,18 +2,18 @@
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "channels_amount": 8,
-  "updated_on": "29-02-2024 on 5:20:53 PM \ud83c\udf1e",
+  "updated_on": "29-02-2024 on 5:44:33 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
       "event_name": "European Cricket League, 2024",
-      "match_id": 94975,
-      "match_name": "Hornchurch vs Mechelen Eagles",
-      "team_1": "Hornchurch",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HOR@2x.png",
-      "team_2": "Mechelen Eagles",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/MECC-CR1@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/JCRv4D33TTi7MH--bNf7pg/master.m3u8"
+      "match_id": 94976,
+      "match_name": "Huddinge vs Wimbledon",
+      "team_1": "Huddinge",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HUD@2x.png",
+      "team_2": "Wimbledon",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/WIM-CR1@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/5wju6DqDQlW5bS4M50EQXQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
