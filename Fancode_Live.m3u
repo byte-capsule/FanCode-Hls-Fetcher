@@ -1,5 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Afghanistan vs Ireland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93916" group-title="Ireland tour of Afghanistan, 2024",Afghanistan vs Ireland
 https://dai.google.com/linear/hls/event/nKutzpLKTCSjFDMzJSLvVw/master.m3u8
-#EXTINF:-1 tvg-name="FC Cincinnati vs Cavalier Sports Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93754" group-title="CONCACAF Champions Cup",FC Cincinnati vs Cavalier Sports Club
-https://dai.google.com/linear/hls/event/wq7GL2UETcSs92UIIXLS7g/master.m3u8
