@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Hornchurch vs Prague CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94977" group-title="European Cricket League, 2024",Hornchurch vs Prague CC
-https://dai.google.com/linear/hls/event/ghBOyKWEROaugOYjKRJ1Vw/master.m3u8
+#EXTINF:-1 tvg-name="Mechelen Eagles vs Wimbledon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94978" group-title="European Cricket League, 2024",Mechelen Eagles vs Wimbledon
+https://dai.google.com/linear/hls/event/Xl9E-zYsSW2w6kNhPzz72A/master.m3u8
+#EXTINF:-1 tvg-name="Super XI Strikers vs Cochin Hurricanes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92124" group-title="KCC T20 Challengers Cup, 2024",Super XI Strikers vs Cochin Hurricanes
+https://dai.google.com/linear/hls/event/xk-smcz8SXmcGnaBE8q_mg/master.m3u8
 #EXTINF:-1 tvg-name="Red Carpet Delhi vs Rajasthan Legends" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94500" group-title="Indian Veterans Premier League",Red Carpet Delhi vs Rajasthan Legends
 https://dai.google.com/linear/hls/event/UZCGdagxRSeBb9PTxTas6w/master.m3u8
 #EXTINF:-1 tvg-name="Karachi Kings vs Quetta Gladiators" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93853" group-title="PSL, 2024",Karachi Kings vs Quetta Gladiators
