@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="KRM Panthers vs Cochin Hurricanes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92126" group-title="KCC T20 Challengers Cup, 2024",KRM Panthers vs Cochin Hurricanes
 https://dai.google.com/linear/hls/event/EYqtkFOlT_eMNTBPPAXsCw/master.m3u8
+#EXTINF:-1 tvg-name="Mechelen Eagles vs Prague CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94980" group-title="European Cricket League, 2024",Mechelen Eagles vs Prague CC
+https://dai.google.com/linear/hls/event/XH-gbOiuQlyfI228vrZhhA/master.m3u8
 #EXTINF:-1 tvg-name="Gauhati Town Club Women vs Icon Academy Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95535" group-title="Guwahati Women's League 2024",Gauhati Town Club Women vs Icon Academy Women
 https://dai.google.com/linear/hls/event/RClDD2hvT9KOSsNASFDnGw/master.m3u8
-#EXTINF:-1 tvg-name="Bahrain vs Kuwait" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94007" group-title="ICC CWC Challenge League Play-off, 2024",Bahrain vs Kuwait
-https://dai.google.com/linear/hls/event/AP925eo3SNyyg_OzmNLOKg/master.m3u8
 #EXTINF:-1 tvg-name="Mumbai Champions vs Rajasthan Legends" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94501" group-title="Indian Veterans Premier League",Mumbai Champions vs Rajasthan Legends
 https://dai.google.com/linear/hls/event/ucatffQ4QOewBuDp2qgzAA/master.m3u8
 #EXTINF:-1 tvg-name="Scotland vs Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94697" group-title="ICC CWC League 2, 2023-27",Scotland vs Canada
@@ -13,7 +13,7 @@ https://dai.google.com/linear/hls/event/Q9yRwHrVQi-2-ARIngstRw/master.m3u8
 https://dai.google.com/linear/hls/event/usmBBZr_SsaDmAA29pefcw/master.m3u8
 #EXTINF:-1 tvg-name="Afghanistan vs Ireland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93916" group-title="Ireland tour of Afghanistan, 2024",Afghanistan vs Ireland
 https://dai.google.com/linear/hls/event/nKutzpLKTCSjFDMzJSLvVw/master.m3u8
-#EXTINF:-1 tvg-name="Nepal vs Namibia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95097" group-title="Nepal T20I Triangular Series",Nepal vs Namibia
-https://dai.google.com/linear/hls/event/wliE7WgXQMOAbmmI6Wd6rA/master.m3u8
 #EXTINF:-1 tvg-name="Macarthur vs Melbourne City" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94063" group-title="A League Men 2023-24",Macarthur vs Melbourne City
 https://dai.fancode.com/primary/94063_english_hls_5610adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Yokohama F. Marinos vs Avispa Fukuoka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93884" group-title="J League 2024",Yokohama F. Marinos vs Avispa Fukuoka
+https://dai.google.com/linear/hls/event/W1e3cj84RVG8GDDfPhY3og/master.m3u8
