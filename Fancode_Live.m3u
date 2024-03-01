@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Scotland vs Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94697" group-title="ICC CWC League 2, 2023-27",Scotland vs Canada
+https://dai.google.com/linear/hls/event/Q9yRwHrVQi-2-ARIngstRw/master.m3u8
 #EXTINF:-1 tvg-name="Afghanistan vs Ireland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93916" group-title="Ireland tour of Afghanistan, 2024",Afghanistan vs Ireland
 https://dai.google.com/linear/hls/event/nKutzpLKTCSjFDMzJSLvVw/master.m3u8
 #EXTINF:-1 tvg-name="Italy vs Tanzania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94008" group-title="ICC CWC Challenge League Play-off, 2024",Italy vs Tanzania
@@ -9,5 +11,3 @@ https://dai.google.com/linear/hls/event/AP925eo3SNyyg_OzmNLOKg/master.m3u8
 https://dai.google.com/linear/hls/event/05jAVv1IRLaNE131zfWJYA/master.m3u8
 #EXTINF:-1 tvg-name="Nepal vs Namibia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95097" group-title="Nepal T20I Triangular Series",Nepal vs Namibia
 https://dai.google.com/linear/hls/event/wliE7WgXQMOAbmmI6Wd6rA/master.m3u8
-#EXTINF:-1 tvg-name="Scotland vs Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94697" group-title="ICC CWC League 2, 2023-27",Scotland vs Canada
-https://dai.google.com/linear/hls/event/Q9yRwHrVQi-2-ARIngstRw/master.m3u8
