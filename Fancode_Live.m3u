@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="91 Yards Club Women vs City Cricket Club Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95537" group-title="Guwahati Women's League 2024",91 Yards Club Women vs City Cricket Club Women
-https://dai.google.com/linear/hls/event/4dNmr73yT2CT-ErBm9L01A/master.m3u8
+#EXTINF:-1 tvg-name="Prague CC vs Huddinge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94986" group-title="European Cricket League, 2024",Prague CC vs Huddinge
+ Free Trial attempt unsuccessful......it requires Premium Account
 #EXTINF:-1 tvg-name="Mumbai Champions vs Red Carpet Delhi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94503" group-title="Indian Veterans Premier League",Mumbai Champions vs Red Carpet Delhi
 https://dai.google.com/linear/hls/event/yxWREEACRyixVgt2uooApQ/master.m3u8
-#EXTINF:-1 tvg-name="Peshawar Zalmi vs Lahore Qalandars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93854" group-title="PSL, 2024",Peshawar Zalmi vs Lahore Qalandars
-https://fancodelive-c.akamaized.net/hls/live/2040703/a8c98873-fe2a-4501-a294-f744d88d2e31/master.m3u8
 #EXTINF:-1 tvg-name="Sierra Leone Women vs Rwanda Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94444" group-title="NCF Women's T20 Invitational, 2024",Sierra Leone Women vs Rwanda Women
 https://dai.google.com/linear/hls/event/9UZIwtiFSxqPKkDOq1mt2g/master.m3u8
+#EXTINF:-1 tvg-name="Peshawar Zalmi vs Lahore Qalandars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93854" group-title="PSL, 2024",Peshawar Zalmi vs Lahore Qalandars
+https://fancodelive-c.akamaized.net/hls/live/2040703/a8c98873-fe2a-4501-a294-f744d88d2e31/master.m3u8
 #EXTINF:-1 tvg-name="Western Sydney Wanderers vs Sydney FC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94065" group-title="A League Men 2023-24",Western Sydney Wanderers vs Sydney FC
 https://dai.fancode.com/primary/94065_english_hls_5880adfreeta-no/index.m3u8
