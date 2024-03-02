@@ -3,7 +3,9 @@
 https://dai.google.com/linear/hls/event/4dNmr73yT2CT-ErBm9L01A/master.m3u8
 #EXTINF:-1 tvg-name="Mumbai Champions vs Red Carpet Delhi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94503" group-title="Indian Veterans Premier League",Mumbai Champions vs Red Carpet Delhi
 https://dai.google.com/linear/hls/event/yxWREEACRyixVgt2uooApQ/master.m3u8
-#EXTINF:-1 tvg-name="Netherlands vs Nepal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95098" group-title="Nepal T20I Triangular Series",Netherlands vs Nepal
-https://dai.google.com/linear/hls/event/NY4gDmvZQ8akkTftiOyVgQ/master.m3u8
-#EXTINF:-1 tvg-name="Newcastle Jets vs Central Coast Mariners" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94061" group-title="A League Men 2023-24",Newcastle Jets vs Central Coast Mariners
-https://dai.fancode.com/primary/94061_english_hls_5449adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Peshawar Zalmi vs Lahore Qalandars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93854" group-title="PSL, 2024",Peshawar Zalmi vs Lahore Qalandars
+https://fancodelive-c.akamaized.net/hls/live/2040703/a8c98873-fe2a-4501-a294-f744d88d2e31/master.m3u8
+#EXTINF:-1 tvg-name="Sierra Leone Women vs Rwanda Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94444" group-title="NCF Women's T20 Invitational, 2024",Sierra Leone Women vs Rwanda Women
+https://dai.google.com/linear/hls/event/9UZIwtiFSxqPKkDOq1mt2g/master.m3u8
+#EXTINF:-1 tvg-name="Western Sydney Wanderers vs Sydney FC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94065" group-title="A League Men 2023-24",Western Sydney Wanderers vs Sydney FC
+https://dai.fancode.com/primary/94065_english_hls_5880adfreeta-no/index.m3u8
