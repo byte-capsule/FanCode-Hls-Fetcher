@@ -2,7 +2,7 @@
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "channels_amount": 4,
-  "updated_on": "02-03-2024 on 0:27:45 PM \ud83c\udf1e",
+  "updated_on": "02-03-2024 on 0:41:19 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -18,17 +18,6 @@
     {
       "event_catagory": "football",
       "event_name": "J League 2024",
-      "match_id": 93909,
-      "match_name": "Sagan Tosu vs Consadole Sapporo",
-      "team_1": "Sagan Tosu",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-STO@2x.png",
-      "team_2": "Consadole Sapporo",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CSA@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/D2dyNL0UT6uTW6O1sKSXkA/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "J League 2024",
       "match_id": 93910,
       "match_name": "Kashima Antlers vs Cerezo Osaka",
       "team_1": "Kashima Antlers",
@@ -36,6 +25,17 @@
       "team_2": "Cerezo Osaka",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COS@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/-4GP0m1aS2WuJD2WozFcmg/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "J League 2024",
+      "match_id": 93909,
+      "match_name": "Sagan Tosu vs Consadole Sapporo",
+      "team_1": "Sagan Tosu",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-STO@2x.png",
+      "team_2": "Consadole Sapporo",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CSA@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/D2dyNL0UT6uTW6O1sKSXkA/master.m3u8"
     },
     {
       "event_catagory": "football",
