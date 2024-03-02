@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Birmingham City vs Southampton" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95092" group-title="EFL Championship 2023-24",Birmingham City vs Southampton
-https://dai.fancode.com/primary/95092_english_hls_8694adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="MG Warriors vs Al Mulla Exchange - B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92128" group-title="KCC T20 Challengers Cup, 2024",MG Warriors vs Al Mulla Exchange - B
+https://dai.google.com/linear/hls/event/_2rvyCCfSVyI-U5aSFN7kA/master.m3u8
 #EXTINF:-1 tvg-name="Unicaja vs RETAbet Bilbao Basket" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94028" group-title="Liga Endesa",Unicaja vs RETAbet Bilbao Basket
 https://dai.google.com/linear/hls/event/31-ti6wRRPqt985_0Zce3g/master.m3u8
