@@ -1,15 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Gamblers SC vs Old Victorians" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94989" group-title="European Cricket League, 2024",Gamblers SC vs Old Victorians
 https://dai.google.com/linear/hls/event/L_LMRKA3RmKNinYTxrm3jQ/master.m3u8
-#EXTINF:-1 tvg-name="91 Yards Club Women vs Gauhati Town Club Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95539" group-title="Guwahati Women's League 2024",91 Yards Club Women vs Gauhati Town Club Women
-https://dai.google.com/linear/hls/event/1NAJe8O8Tz6Ih07nbSsBoQ/master.m3u8
+#EXTINF:-1 tvg-name="Indorwa CC vs Zonic Tigers CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93058" group-title="RCA Men's T10 League",Indorwa CC vs Zonic Tigers CC
+ Free Trial attempt unsuccessful......it requires Premium Account
 #EXTINF:-1 tvg-name="Papua New Guinea vs Oman" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95843" group-title="PNG tour of Oman, 2024",Papua New Guinea vs Oman
 https://dai.google.com/linear/hls/event/xfKl3EvAQ7KgOIztW4DWrQ/master.m3u8
 #EXTINF:-1 tvg-name="United Arab Emirates vs Scotland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94698" group-title="ICC CWC League 2, 2023-27",United Arab Emirates vs Scotland
 https://dai.google.com/linear/hls/event/XtCrE3mkR8mxByg4INLR1Q/master.m3u8
 #EXTINF:-1 tvg-name="Tanzania Women vs Sierra Leone Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94446" group-title="NCF Women's T20 Invitational, 2024",Tanzania Women vs Sierra Leone Women
 https://dai.google.com/linear/hls/event/NVQz39PGT7esmKl-s9mTwA/master.m3u8
-#EXTINF:-1 tvg-name="Zonic Tigers CC vs Indorwa CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93058" group-title="RCA Men's T10 League",Zonic Tigers CC vs Indorwa CC
- Free Trial attempt unsuccessful......it requires Premium Account
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94663" group-title="LIV Golf Jeddah",Day 3
 https://dai.google.com/linear/hls/event/jLJeGkIBTUuzNzdNuGEg3w/master.m3u8
