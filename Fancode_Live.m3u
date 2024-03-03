@@ -13,3 +13,5 @@ https://dai.google.com/linear/hls/event/V3ww041xTNGDlzQw7_Aovg/master.m3u8
 https://dai.google.com/linear/hls/event/gxGx6zprQC2DtfWHIgrIig/master.m3u8
 #EXTINF:-1 tvg-name="Brazil Women vs Argentina Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94054" group-title="CONCACAF Womens Gold Cup",Brazil Women vs Argentina Women
 https://dai.google.com/linear/hls/event/4KBsiu0hTZWcyypEB6mHlw/master.m3u8
+#EXTINF:-1 tvg-name="Wellington Phoenix vs Adelaide United" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94062" group-title="A League Men 2023-24",Wellington Phoenix vs Adelaide United
+https://dai.fancode.com/primary/94062_english_hls_4951adfreeta-di/index.m3u8
