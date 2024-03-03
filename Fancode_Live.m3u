@@ -1,19 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Olten vs Afyonkarahisar SHS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94990" group-title="European Cricket League, 2024",Olten vs Afyonkarahisar SHS
 https://dai.google.com/linear/hls/event/dKRin-iMQNqqadjuzLsiuA/master.m3u8
-#EXTINF:-1 tvg-name="Indorwa CC vs Zonic Tigers CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93058" group-title="RCA Men's T10 League",Indorwa CC vs Zonic Tigers CC
- Free Trial attempt unsuccessful......it requires Premium Account
 #EXTINF:-1 tvg-name="Kutchi Sports Club vs Right Guards CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93059" group-title="RCA Men's T10 League",Kutchi Sports Club vs Right Guards CC
 https://dai.google.com/linear/hls/event/YmTPaWZzRxuH7rN-J4pPnw/master.m3u8
-#EXTINF:-1 tvg-name="Papua New Guinea vs Oman" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95843" group-title="PNG tour of Oman, 2024",Papua New Guinea vs Oman
-https://dai.google.com/linear/hls/event/xfKl3EvAQ7KgOIztW4DWrQ/master.m3u8
 #EXTINF:-1 tvg-name="Durham vs Mountaineers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95874" group-title="Zimbabwe Domestic T20, 2024",Durham vs Mountaineers
 https://dai.google.com/linear/hls/event/WqjvtwiVRXqLllszZz1h9w/master.m3u8
-#EXTINF:-1 tvg-name="Tanzania Women vs Sierra Leone Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94446" group-title="NCF Women's T20 Invitational, 2024",Tanzania Women vs Sierra Leone Women
-https://dai.google.com/linear/hls/event/NVQz39PGT7esmKl-s9mTwA/master.m3u8
+#EXTINF:-1 tvg-name="Papua New Guinea vs Oman" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95843" group-title="PNG tour of Oman, 2024",Papua New Guinea vs Oman
+https://dai.google.com/linear/hls/event/xfKl3EvAQ7KgOIztW4DWrQ/master.m3u8
+#EXTINF:-1 tvg-name="Mumbai Champions vs VVIP Uttar Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94505" group-title="Indian Veterans Premier League",Mumbai Champions vs VVIP Uttar Pradesh
+https://dai.google.com/linear/hls/event/_R93nEC8SHmHQiORmpqIJA/master.m3u8
 #EXTINF:-1 tvg-name="Uzbekistan Women vs Chinese Taipei Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95656" group-title="AFC U20 Women's Asian Cup Uzbekistan 2024",Uzbekistan Women vs Chinese Taipei Women
 https://dai.google.com/linear/hls/event/-psTS48zQ02QlnBEpQADtw/master.m3u8
 #EXTINF:-1 tvg-name="Zhejiang vs Shenzhen Peng City" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95102" group-title="Chinese Super League 2024",Zhejiang vs Shenzhen Peng City
 https://dai.google.com/linear/hls/event/9HJpxZzlRLm_UG3nJvNaBw/master.m3u8
+#EXTINF:-1 tvg-name="Arsenal Women vs Tottenham Hotspur Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94196" group-title="Barclays FA Women's Super League 2023-24",Arsenal Women vs Tottenham Hotspur Women
+https://dai.fancode.com/primary/94196_english_hls_4450adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94663" group-title="LIV Golf Jeddah",Day 3
 https://dai.google.com/linear/hls/event/jLJeGkIBTUuzNzdNuGEg3w/master.m3u8
