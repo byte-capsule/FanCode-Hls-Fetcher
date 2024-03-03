@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Olten vs Afyonkarahisar SHS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94990" group-title="European Cricket League, 2024",Olten vs Afyonkarahisar SHS
-https://dai.google.com/linear/hls/event/dKRin-iMQNqqadjuzLsiuA/master.m3u8
 #EXTINF:-1 tvg-name="Kutchi Sports Club vs Right Guards CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93059" group-title="RCA Men's T10 League",Kutchi Sports Club vs Right Guards CC
 https://dai.google.com/linear/hls/event/YmTPaWZzRxuH7rN-J4pPnw/master.m3u8
 #EXTINF:-1 tvg-name="Durham vs Mountaineers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95874" group-title="Zimbabwe Domestic T20, 2024",Durham vs Mountaineers
@@ -9,7 +7,9 @@ https://dai.google.com/linear/hls/event/WqjvtwiVRXqLllszZz1h9w/master.m3u8
 https://dai.google.com/linear/hls/event/Tyq3LrFMSzedABCgr67JPA/master.m3u8
 #EXTINF:-1 tvg-name="Mumbai Champions vs VVIP Uttar Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94505" group-title="Indian Veterans Premier League",Mumbai Champions vs VVIP Uttar Pradesh
 https://dai.google.com/linear/hls/event/_R93nEC8SHmHQiORmpqIJA/master.m3u8
-#EXTINF:-1 tvg-name="Arsenal Women vs Tottenham Hotspur Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94196" group-title="Barclays FA Women's Super League 2023-24",Arsenal Women vs Tottenham Hotspur Women
-https://dai.fancode.com/primary/94196_english_hls_4450adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Multan Sultans vs Karachi Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93856" group-title="PSL, 2024",Multan Sultans vs Karachi Kings
+https://fancodelive-c.akamaized.net/hls/live/2040703/9fcd1a36-17e1-449a-9c65-12017961b3a0/master.m3u8
 #EXTINF:-1 tvg-name="Gokulam Kerala FC vs Mohammedan SC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93590" group-title="I League 2023-24",Gokulam Kerala FC vs Mohammedan SC
 https://dai.google.com/linear/hls/event/5YyQRNbOQyuz3Ksc2xrHhg/master.m3u8
+#EXTINF:-1 tvg-name="Arsenal Women vs Tottenham Hotspur Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94196" group-title="Barclays FA Women's Super League 2023-24",Arsenal Women vs Tottenham Hotspur Women
+https://dai.fancode.com/primary/94196_english_hls_4450adfreeta-di/index.m3u8
