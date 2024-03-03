@@ -2,7 +2,7 @@
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "channels_amount": 11,
-  "updated_on": "03-03-2024 on 1:40:55 PM \ud83c\udf1e",
+  "updated_on": "03-03-2024 on 2:08:44 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -25,17 +25,6 @@
       "team_2": "Bermuda",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRM@2x.png",
       "stream_link": " Free Trial attempt unsuccessful......it requires Premium Account"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC CWC Challenge League Play-off, 2024",
-      "match_id": 94009,
-      "match_name": "Kuwait vs Tanzania",
-      "team_1": "Kuwait",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUW@2x.png",
-      "team_2": "Tanzania",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TNZN@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/gxGx6zprQC2DtfWHIgrIig/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -105,17 +94,6 @@
     },
     {
       "event_catagory": "football",
-      "event_name": "A League Men 2023-24",
-      "match_id": 94066,
-      "match_name": "Brisbane Roar vs Melbourne Victory",
-      "team_1": "Brisbane Roar",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BRBI@2x.png",
-      "team_2": "Melbourne Victory",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLVA@2x.png",
-      "stream_link": "https://dai.fancode.com/primary/94066_english_hls_5029adfreeta-di/index.m3u8"
-    },
-    {
-      "event_catagory": "football",
       "event_name": "J League 2024",
       "match_id": 93911,
       "match_name": "Urawa Red Diamonds vs Tokyo Verdy",
@@ -124,6 +102,28 @@
       "team_2": "Tokyo Verdy",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-TV@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/lyca7tsCQoWfOogw1ubLXQ/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "AFC U20 Women's Asian Cup Uzbekistan 2024",
+      "match_id": 95655,
+      "match_name": "Korea Republic Women vs Australia Women",
+      "team_1": "Korea Republic Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SOK@2x.png",
+      "team_2": "Australia Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AUS@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/WqUyYvUaQQ6s89PIRHOZiA/master.m3u8"
+    },
+    {
+      "event_catagory": "golf",
+      "event_name": "LIV Golf Jeddah",
+      "match_id": 94663,
+      "match_name": "Day 3",
+      "team_1": "Day 3",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LM@2x.png",
+      "team_2": "Jeddah",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/jLJeGkIBTUuzNzdNuGEg3w/master.m3u8"
     }
   ]
 }
