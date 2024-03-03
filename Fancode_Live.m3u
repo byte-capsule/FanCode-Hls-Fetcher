@@ -1,9 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="SBS CC vs CECC-B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92129" group-title="KCC T20 Challengers Cup, 2024",SBS CC vs CECC-B
-https://dai.google.com/linear/hls/event/heByIULbRUOdqUcEsfAf7A/master.m3u8
-#EXTINF:-1 tvg-name="Mashonaland Eagles vs Matabeleland Tuskers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95876" group-title="Zimbabwe Domestic T20, 2024",Mashonaland Eagles vs Matabeleland Tuskers
-https://dai.google.com/linear/hls/event/5Ywe1YMcSz-hJhuUmBG2VQ/master.m3u8
-#EXTINF:-1 tvg-name="Mumbai Champions vs VVIP Uttar Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94505" group-title="Indian Veterans Premier League",Mumbai Champions vs VVIP Uttar Pradesh
-https://dai.google.com/linear/hls/event/_R93nEC8SHmHQiORmpqIJA/master.m3u8
-#EXTINF:-1 tvg-name="Leicester City Women vs Chelsea Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94197" group-title="Barclays FA Women's Super League 2023-24",Leicester City Women vs Chelsea Women
-https://dai.fancode.com/primary/94197_english_hls_4656adfreeta-no/index.m3u8
