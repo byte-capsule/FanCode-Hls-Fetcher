@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Gamblers SC vs Old Victorians" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94989" group-title="European Cricket League, 2024",Gamblers SC vs Old Victorians
-https://dai.google.com/linear/hls/event/L_LMRKA3RmKNinYTxrm3jQ/master.m3u8
+#EXTINF:-1 tvg-name="Olten vs Afyonkarahisar SHS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94990" group-title="European Cricket League, 2024",Olten vs Afyonkarahisar SHS
+https://dai.google.com/linear/hls/event/dKRin-iMQNqqadjuzLsiuA/master.m3u8
 #EXTINF:-1 tvg-name="Indorwa CC vs Zonic Tigers CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93058" group-title="RCA Men's T10 League",Indorwa CC vs Zonic Tigers CC
  Free Trial attempt unsuccessful......it requires Premium Account
+#EXTINF:-1 tvg-name="Kutchi Sports Club vs Right Guards CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93059" group-title="RCA Men's T10 League",Kutchi Sports Club vs Right Guards CC
+https://dai.google.com/linear/hls/event/YmTPaWZzRxuH7rN-J4pPnw/master.m3u8
 #EXTINF:-1 tvg-name="Papua New Guinea vs Oman" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95843" group-title="PNG tour of Oman, 2024",Papua New Guinea vs Oman
 https://dai.google.com/linear/hls/event/xfKl3EvAQ7KgOIztW4DWrQ/master.m3u8
 #EXTINF:-1 tvg-name="Durham vs Mountaineers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95874" group-title="Zimbabwe Domestic T20, 2024",Durham vs Mountaineers
