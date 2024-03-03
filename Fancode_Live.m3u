@@ -17,3 +17,5 @@ https://dai.google.com/linear/hls/event/gxGx6zprQC2DtfWHIgrIig/master.m3u8
 https://mls3.fancode.com/bc47d655-e048-4f2e-9db0-d874aa6c63ff/master.m3u8
 #EXTINF:-1 tvg-name="Brisbane Roar vs Melbourne Victory" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94066" group-title="A League Men 2023-24",Brisbane Roar vs Melbourne Victory
 https://dai.fancode.com/primary/94066_english_hls_5029adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Urawa Red Diamonds vs Tokyo Verdy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93911" group-title="J League 2024",Urawa Red Diamonds vs Tokyo Verdy
+https://dai.google.com/linear/hls/event/lyca7tsCQoWfOogw1ubLXQ/master.m3u8
