@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="SSF Panthers vs Pak United CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95695" group-title="Grand Rumble T10 Championship Season 2",SSF Panthers vs Pak United CC
-https://dai.google.com/linear/hls/event/4gRwivr1QgGapbPa4VVWQA/master.m3u8
+#EXTINF:-1 tvg-name="Royal Strikers CC vs Active CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95696" group-title="Grand Rumble T10 Championship Season 2",Royal Strikers CC vs Active CC
+https://dai.google.com/linear/hls/event/nzVoxQoVQni95-CF6MCCrg/master.m3u8
 #EXTINF:-1 tvg-name="City Cricket Club Women vs Gauhati Town Club Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95541" group-title="Guwahati Women's League 2024",City Cricket Club Women vs Gauhati Town Club Women
 https://dai.google.com/linear/hls/event/h0HixXnfTH2_ULDjdznUhg/master.m3u8
 #EXTINF:-1 tvg-name="Oman vs Papua New Guinea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95844" group-title="PNG tour of Oman, 2024",Oman vs Papua New Guinea
 https://dai.google.com/linear/hls/event/iYnFm6s-T_eVaGUyOfPSLQ/master.m3u8
+#EXTINF:-1 tvg-name="DPR Korea Women vs China PR Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95657" group-title="AFC U20 Women's Asian Cup Uzbekistan 2024",DPR Korea Women vs China PR Women
+https://dai.google.com/linear/hls/event/QwZItxu7R4OXH_NlL9uhYg/master.m3u8
