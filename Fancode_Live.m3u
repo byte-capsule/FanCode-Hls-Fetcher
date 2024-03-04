@@ -7,3 +7,7 @@ https://dai.google.com/linear/hls/event/iYnFm6s-T_eVaGUyOfPSLQ/master.m3u8
 https://dai.google.com/linear/hls/event/o-t4oYyjRAaBMdMFhikcyw/master.m3u8
 #EXTINF:-1 tvg-name="Dubai Thunders vs Z Games Strikers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95892" group-title="ICC Academy Ramadan T20",Dubai Thunders vs Z Games Strikers
 https://dai.google.com/linear/hls/event/rb8YAtqRRES-9anpVxIEtw/master.m3u8
+#EXTINF:-1 tvg-name="Islamabad United vs Peshawar Zalmi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93857" group-title="PSL, 2024",Islamabad United vs Peshawar Zalmi
+https://dai.fancode.com/primary/93857_english_hls_3971adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Churchill Brothers FC vs Shillong Lajong FC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93592" group-title="I League 2023-24",Churchill Brothers FC vs Shillong Lajong FC
+https://dai.google.com/linear/hls/event/NpZfsbkhQnCYojTQ0meihQ/master.m3u8
