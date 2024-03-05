@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 5,
-  "updated_on": "05-03-2024 on 9:41:06 PM \ud83c\udf19",
+  "channels_amount": 6,
+  "updated_on": "05-03-2024 on 10:06:54 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -50,14 +50,25 @@
     },
     {
       "event_catagory": "volleyball",
-      "event_name": "Volleyball Womens Beach Pro Tour",
-      "match_id": 96166,
-      "match_name": "\u00c1lvarez M/Moreno vs Verg\u00e9-D\u00e9pr\u00e9, A./M\u00e4der",
-      "team_1": "\u00c1lvarez M/Moreno",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-ESPA@2x.png",
-      "team_2": "Verg\u00e9-D\u00e9pr\u00e9, A./M\u00e4der",
+      "event_name": "Volleyball Mens Beach Pro Tour",
+      "match_id": 96177,
+      "match_name": "Hodges/Schubert vs Krattiger/Breer",
+      "team_1": "Hodges/Schubert",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-AST@2x.png",
+      "team_2": "Krattiger/Breer",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-SWZ@2x.png",
-      "stream_link": "https://dai.fancode.com/primary/96166_english_hls_3294adfreeta-no/index.m3u8"
+      "stream_link": "https://dai.fancode.com/primary/96177_english_hls_6529adfreeta-di/index.m3u8"
+    },
+    {
+      "event_catagory": "volleyball",
+      "event_name": "Volleyball Mens Beach Pro Tour",
+      "match_id": 96176,
+      "match_name": "Seidl,R./Pristauz vs van de Velde/Immers",
+      "team_1": "Seidl,R./Pristauz",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-AUST@2x.png",
+      "team_2": "van de Velde/Immers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-NTH@2x.png",
+      "stream_link": "https://dai.fancode.com/primary/96176_english_hls_9812adfreeta-no/index.m3u8"
     }
   ]
 }
