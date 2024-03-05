@@ -1,52 +1,7 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 4,
-  "updated_on": "06-03-2024 on 00:27:07 AM \ud83c\udf19",
-  "channels": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC Academy Ramadan T20",
-      "match_id": 95895,
-      "match_name": "Prim Height Transport vs Top Stars",
-      "team_1": "Prim Height Transport",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PHTS@2x.png",
-      "team_2": "Top Stars",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TS@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/nW8oDcxBQO6oOCXa8eQQOw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Zimbabwe Domestic T20, 2024",
-      "match_id": 95887,
-      "match_name": "Matabeleland Tuskers vs Mountaineers",
-      "team_1": "Matabeleland Tuskers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MATC@2x.png",
-      "team_2": "Mountaineers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MOUC@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/1zhOvh_uSIqmu61oP3L8nQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "KCC T20 Challengers Cup, 2024",
-      "match_id": 92130,
-      "match_name": "CECC-B vs Al Mulla Exchange - B",
-      "team_1": "CECC-B",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CECT@2x.png",
-      "team_2": "Al Mulla Exchange - B",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR4@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/-ZRZ8a1vQTyHX9l0ycX0vQ/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "AFC Champions League",
-      "match_id": 93357,
-      "match_name": "Al-Hilal vs Al-Ittihad",
-      "team_1": "Al-Hilal",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AHS@2x.png",
-      "team_2": "Al-Ittihad",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ITT@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/quLGkv88S1C-fo-tmXDC6g/master.m3u8"
-    }
-  ]
+  "channels_amount": 0,
+  "updated_on": "06-03-2024 on 00:40:59 AM \ud83c\udf19",
+  "channels": []
 }
