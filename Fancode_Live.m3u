@@ -3,6 +3,8 @@
 https://dai.google.com/linear/hls/event/jtPMq-t8QRShPTeQR4w6fg/master.m3u8
 #EXTINF:-1 tvg-name="Kuwait vs Bahrain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95597" group-title="Malaysia Open T20I Championship, 2024",Kuwait vs Bahrain
 https://dai.google.com/linear/hls/event/8nVLTimTRAufUld4hIFimw/master.m3u8
+#EXTINF:-1 tvg-name="Icon Sports Club vs 91 Yards Club Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95563" group-title="Guwahati Women's League 2024",Icon Sports Club vs 91 Yards Club Women
+https://dai.google.com/linear/hls/event/CYEYu8lOQCGjGqFAJBloyw/master.m3u8
 #EXTINF:-1 tvg-name="Canada vs United Arab Emirates" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94699" group-title="ICC CWC League 2, 2023-27",Canada vs United Arab Emirates
 https://dai.google.com/linear/hls/event/LEFmRkRyRzeAqfsomeIzrg/master.m3u8
 #EXTINF:-1 tvg-name="Koshi Province vs Karnali Province" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96031" group-title="National T20 Championship, 2024",Koshi Province vs Karnali Province
@@ -11,7 +13,9 @@ https://dai.google.com/linear/hls/event/Tp4l0OsFSbujx9Xs1rprNA/master.m3u8
 https://dai.google.com/linear/hls/event/CWICMmsiQUyMq3LgkAfddA/master.m3u8
 #EXTINF:-1 tvg-name="Ratnagiri District vs Nanded District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96057" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Ratnagiri District vs Nanded District
 https://dai.google.com/linear/hls/event/PgPGorCqRV-s1LIyYegspQ/master.m3u8
-#EXTINF:-1 tvg-name="Bansley/Bukovec vs Klinger D./Klinger R." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96157" group-title="Volleyball Womens Beach Pro Tour",Bansley/Bukovec vs Klinger D./Klinger R.
-https://dai.fancode.com/primary/96157_english_hls_4282adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Tina/Anastasija vs DAMLA/REHANNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96156" group-title="Volleyball Womens Beach Pro Tour",Tina/Anastasija vs DAMLA/REHANNA
 https://dai.fancode.com/primary/96156_english_hls_9522adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Coakley/Sweat vs Placette/Richard" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96159" group-title="Volleyball Womens Beach Pro Tour",Coakley/Sweat vs Placette/Richard
+https://dai.fancode.com/primary/96159_english_hls_107adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Esmée/Zoé vs Hladun/Lazarenko" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96158" group-title="Volleyball Womens Beach Pro Tour",Esmée/Zoé vs Hladun/Lazarenko
+https://dai.fancode.com/primary/96158_english_hls_3924adfreeta-no/index.m3u8
