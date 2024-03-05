@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="CC Akademik - Sofia vs Old Victorians" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94999" group-title="European Cricket League, 2024",CC Akademik - Sofia vs Old Victorians
 https://dai.google.com/linear/hls/event/4n9-SIa5SIG96-jYZU4bLw/master.m3u8
-#EXTINF:-1 tvg-name="Global Stars CC vs Active CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95700" group-title="Grand Rumble T10 Championship Season 2",Global Stars CC vs Active CC
-https://dai.google.com/linear/hls/event/9Az69sK6Q0icphhgf0GcTQ/master.m3u8
 #EXTINF:-1 tvg-name="Sudur Pashchim Province vs Gandaki Province" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96032" group-title="National T20 Championship, 2024",Sudur Pashchim Province vs Gandaki Province
 https://dai.google.com/linear/hls/event/OdSJjZBCQ7WWR3jFm5EDww/master.m3u8
 #EXTINF:-1 tvg-name="Canada vs United Arab Emirates" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94699" group-title="ICC CWC League 2, 2023-27",Canada vs United Arab Emirates
