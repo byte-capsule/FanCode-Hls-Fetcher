@@ -1,11 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Durham vs Southern Rocks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95888" group-title="Zimbabwe Domestic T20, 2024",Durham vs Southern Rocks
 https://dai.google.com/linear/hls/event/23sbXdqtTOaI_c8AsUuB1w/master.m3u8
+#EXTINF:-1 tvg-name="Olten vs Gamblers SC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95000" group-title="European Cricket League, 2024",Olten vs Gamblers SC
+https://dai.google.com/linear/hls/event/UviIEkueQvmLWmdOebxeyA/master.m3u8
 #EXTINF:-1 tvg-name="Canada vs United Arab Emirates" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94699" group-title="ICC CWC League 2, 2023-27",Canada vs United Arab Emirates
 https://dai.google.com/linear/hls/event/LEFmRkRyRzeAqfsomeIzrg/master.m3u8
-#EXTINF:-1 tvg-name="Jeonbuk Motors vs Ulsan Hyundai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93356" group-title="AFC Champions League",Jeonbuk Motors vs Ulsan Hyundai
-https://dai.google.com/linear/hls/event/yrsj4RbdSlmfP8-YAUSGfg/master.m3u8
-#EXTINF:-1 tvg-name="Raigad District vs Beed District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96059" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Raigad District vs Beed District
-https://dai.google.com/linear/hls/event/B_7UY2tPSTuSzvHsHwierw/master.m3u8
 #EXTINF:-1 tvg-name="Krattiger/Breer vs Alayo/Diaz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96171" group-title="Volleyball Mens Beach Pro Tour",Krattiger/Breer vs Alayo/Diaz
 https://dai.fancode.com/primary/96171_english_hls_6648adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Schalk/Bourne vs Schachter/Dearing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96173" group-title="Volleyball Mens Beach Pro Tour",Schalk/Bourne vs Schachter/Dearing
+https://dai.fancode.com/primary/96173_english_hls_39adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Evans/Budinger vs Heidrich/Dillier" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96172" group-title="Volleyball Mens Beach Pro Tour",Evans/Budinger vs Heidrich/Dillier
+https://dai.fancode.com/primary/96172_english_hls_3940adfreeta-no/index.m3u8
