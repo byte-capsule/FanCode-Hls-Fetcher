@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Seven Districts Juniors vs Dubai Thunders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95894" group-title="ICC Academy Ramadan T20",Seven Districts Juniors vs Dubai Thunders
 https://dai.google.com/linear/hls/event/KhULYoFTTtWC-P31SyVCEg/master.m3u8
+#EXTINF:-1 tvg-name="Matabeleland Tuskers vs Mountaineers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95887" group-title="Zimbabwe Domestic T20, 2024",Matabeleland Tuskers vs Mountaineers
+https://dai.google.com/linear/hls/event/1zhOvh_uSIqmu61oP3L8nQ/master.m3u8
 #EXTINF:-1 tvg-name="Old Victorians vs Gamblers SC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95001" group-title="European Cricket League, 2024",Old Victorians vs Gamblers SC
 https://dai.google.com/linear/hls/event/t3yXTAWDTnO3iikqH7rWFw/master.m3u8
 #EXTINF:-1 tvg-name="Peshawar Zalmi vs Multan Sultans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93858" group-title="PSL, 2024",Peshawar Zalmi vs Multan Sultans
