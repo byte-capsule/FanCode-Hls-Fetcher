@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Global Stars CC vs Active CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95700" group-title="Grand Rumble T10 Championship Season 2",Global Stars CC vs Active CC
+https://dai.google.com/linear/hls/event/9Az69sK6Q0icphhgf0GcTQ/master.m3u8
 #EXTINF:-1 tvg-name="Kuwait vs Bahrain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95597" group-title="Malaysia Open T20I Championship, 2024",Kuwait vs Bahrain
 https://dai.google.com/linear/hls/event/8nVLTimTRAufUld4hIFimw/master.m3u8
 #EXTINF:-1 tvg-name="Icon Sports Club vs 91 Yards Club Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95563" group-title="Guwahati Women's League 2024",Icon Sports Club vs 91 Yards Club Women
@@ -7,7 +9,13 @@ https://dai.google.com/linear/hls/event/CYEYu8lOQCGjGqFAJBloyw/master.m3u8
 https://dai.google.com/linear/hls/event/LEFmRkRyRzeAqfsomeIzrg/master.m3u8
 #EXTINF:-1 tvg-name="Koshi Province vs Karnali Province" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96031" group-title="National T20 Championship, 2024",Koshi Province vs Karnali Province
 https://dai.google.com/linear/hls/event/Tp4l0OsFSbujx9Xs1rprNA/master.m3u8
+#EXTINF:-1 tvg-name="Gandaki Province vs Sudur Pashchim Province" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96032" group-title="National T20 Championship, 2024",Gandaki Province vs Sudur Pashchim Province
+https://dai.google.com/linear/hls/event/OdSJjZBCQ7WWR3jFm5EDww/master.m3u8
 #EXTINF:-1 tvg-name="Nepal vs Netherlands" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95100" group-title="Nepal T20I Triangular Series",Nepal vs Netherlands
 https://dai.google.com/linear/hls/event/CWICMmsiQUyMq3LgkAfddA/master.m3u8
 #EXTINF:-1 tvg-name="Esmée/Zoé vs Hladun/Lazarenko" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96158" group-title="Volleyball Womens Beach Pro Tour",Esmée/Zoé vs Hladun/Lazarenko
 https://dai.fancode.com/primary/96158_english_hls_3924adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Gruszczynska/Wachowicz vs Vergé-Dépré, A./Mäder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96161" group-title="Volleyball Womens Beach Pro Tour",Gruszczynska/Wachowicz vs Vergé-Dépré, A./Mäder
+https://dai.fancode.com/primary/96161_english_hls_9745adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Álvarez M/Moreno vs Dumbauskaite/Vasiliauskaite" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96160" group-title="Volleyball Womens Beach Pro Tour",Álvarez M/Moreno vs Dumbauskaite/Vasiliauskaite
+https://dai.fancode.com/primary/96160_english_hls_3612adfreeta-no/index.m3u8
