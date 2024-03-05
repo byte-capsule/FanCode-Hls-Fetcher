@@ -1,14 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Seven Districts Juniors vs Dubai Thunders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95894" group-title="ICC Academy Ramadan T20",Seven Districts Juniors vs Dubai Thunders
 https://dai.google.com/linear/hls/event/KhULYoFTTtWC-P31SyVCEg/master.m3u8
-#EXTINF:-1 tvg-name="Durham vs Southern Rocks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95888" group-title="Zimbabwe Domestic T20, 2024",Durham vs Southern Rocks
-https://dai.google.com/linear/hls/event/23sbXdqtTOaI_c8AsUuB1w/master.m3u8
 #EXTINF:-1 tvg-name="Old Victorians vs Gamblers SC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95001" group-title="European Cricket League, 2024",Old Victorians vs Gamblers SC
 https://dai.google.com/linear/hls/event/t3yXTAWDTnO3iikqH7rWFw/master.m3u8
 #EXTINF:-1 tvg-name="Peshawar Zalmi vs Multan Sultans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93858" group-title="PSL, 2024",Peshawar Zalmi vs Multan Sultans
 https://fancodelive-c.akamaized.net/hls/live/2040703/93858_english_hls_6518adfreeta-di/master.m3u8
-#EXTINF:-1 tvg-name="Esmée/Zoé vs Placette/Richard" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96165" group-title="Volleyball Womens Beach Pro Tour",Esmée/Zoé vs Placette/Richard
-https://dai.fancode.com/primary/96165_english_hls_9871adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Paulikiene/Raupelyte vs Agatha/Rebecca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96167" group-title="Volleyball Womens Beach Pro Tour",Paulikiene/Raupelyte vs Agatha/Rebecca
 https://dai.fancode.com/primary/96167_english_hls_9373adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Álvarez M/Moreno vs Vergé-Dépré, A./Mäder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96166" group-title="Volleyball Womens Beach Pro Tour",Álvarez M/Moreno vs Vergé-Dépré, A./Mäder
