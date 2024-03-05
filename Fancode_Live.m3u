@@ -5,9 +5,11 @@ https://dai.google.com/linear/hls/event/jtPMq-t8QRShPTeQR4w6fg/master.m3u8
 https://dai.google.com/linear/hls/event/8nVLTimTRAufUld4hIFimw/master.m3u8
 #EXTINF:-1 tvg-name="Koshi Province vs Karnali Province" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96031" group-title="National T20 Championship, 2024",Koshi Province vs Karnali Province
 https://dai.google.com/linear/hls/event/Tp4l0OsFSbujx9Xs1rprNA/master.m3u8
-#EXTINF:-1 tvg-name="NFRSA Women vs City Cricket Club Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95542" group-title="Guwahati Women's League 2024",NFRSA Women vs City Cricket Club Women
-https://dai.google.com/linear/hls/event/iojL76iWSZKdw6vJMrvU1A/master.m3u8
 #EXTINF:-1 tvg-name="Nepal vs Netherlands" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95100" group-title="Nepal T20I Triangular Series",Nepal vs Netherlands
 https://dai.google.com/linear/hls/event/CWICMmsiQUyMq3LgkAfddA/master.m3u8
-#EXTINF:-1 tvg-name="Ahmednagar District vs Mumbai Shahar Kabaddi Association" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96056" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Ahmednagar District vs Mumbai Shahar Kabaddi Association
-https://dai.google.com/linear/hls/event/4OTkWip0Qn2RnAodMs6Ldg/master.m3u8
+#EXTINF:-1 tvg-name="Canada vs United Arab Emirates" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94699" group-title="ICC CWC League 2, 2023-27",Canada vs United Arab Emirates
+https://dai.google.com/linear/hls/event/LEFmRkRyRzeAqfsomeIzrg/master.m3u8
+#EXTINF:-1 tvg-name="Bansley/Bukovec vs Klinger D./Klinger R." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96157" group-title="Volleyball Womens Beach Pro Tour",Bansley/Bukovec vs Klinger D./Klinger R.
+https://dai.fancode.com/primary/96157_english_hls_4282adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Tina/Anastasija vs DAMLA/REHANNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96156" group-title="Volleyball Womens Beach Pro Tour",Tina/Anastasija vs DAMLA/REHANNA
+https://dai.fancode.com/primary/96156_english_hls_9522adfreeta-di/index.m3u8
