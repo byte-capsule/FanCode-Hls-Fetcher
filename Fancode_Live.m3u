@@ -1,19 +1,21 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="CC Akademik - Sofia vs Old Victorians" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94999" group-title="European Cricket League, 2024",CC Akademik - Sofia vs Old Victorians
+https://dai.google.com/linear/hls/event/4n9-SIa5SIG96-jYZU4bLw/master.m3u8
 #EXTINF:-1 tvg-name="Global Stars CC vs Active CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95700" group-title="Grand Rumble T10 Championship Season 2",Global Stars CC vs Active CC
 https://dai.google.com/linear/hls/event/9Az69sK6Q0icphhgf0GcTQ/master.m3u8
-#EXTINF:-1 tvg-name="Kuwait vs Bahrain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95597" group-title="Malaysia Open T20I Championship, 2024",Kuwait vs Bahrain
-https://dai.google.com/linear/hls/event/8nVLTimTRAufUld4hIFimw/master.m3u8
 #EXTINF:-1 tvg-name="Icon Sports Club vs 91 Yards Club Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95563" group-title="Guwahati Women's League 2024",Icon Sports Club vs 91 Yards Club Women
 https://dai.google.com/linear/hls/event/CYEYu8lOQCGjGqFAJBloyw/master.m3u8
 #EXTINF:-1 tvg-name="Sudur Pashchim Province vs Gandaki Province" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96032" group-title="National T20 Championship, 2024",Sudur Pashchim Province vs Gandaki Province
 https://dai.google.com/linear/hls/event/OdSJjZBCQ7WWR3jFm5EDww/master.m3u8
 #EXTINF:-1 tvg-name="Canada vs United Arab Emirates" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94699" group-title="ICC CWC League 2, 2023-27",Canada vs United Arab Emirates
 https://dai.google.com/linear/hls/event/LEFmRkRyRzeAqfsomeIzrg/master.m3u8
-#EXTINF:-1 tvg-name="Dhule District vs Jalna District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96058" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Dhule District vs Jalna District
-https://dai.google.com/linear/hls/event/K2l0cxNES7ePqsEOf79Icg/master.m3u8
+#EXTINF:-1 tvg-name="Jeonbuk Motors vs Ulsan Hyundai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93356" group-title="AFC Champions League",Jeonbuk Motors vs Ulsan Hyundai
+https://dai.google.com/linear/hls/event/yrsj4RbdSlmfP8-YAUSGfg/master.m3u8
 #EXTINF:-1 tvg-name="Friedl/Trailovic vs Agatha/Rebecca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96163" group-title="Volleyball Womens Beach Pro Tour",Friedl/Trailovic vs Agatha/Rebecca
 https://dai.fancode.com/primary/96163_english_hls_7113adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Paulikiene/Raupelyte vs Akiko/Ishii" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96162" group-title="Volleyball Womens Beach Pro Tour",Paulikiene/Raupelyte vs Akiko/Ishii
 https://dai.fancode.com/primary/96162_english_hls_485adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Esmée/Zoé vs Hladun/Lazarenko" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96158" group-title="Volleyball Womens Beach Pro Tour",Esmée/Zoé vs Hladun/Lazarenko
-https://dai.fancode.com/primary/96158_english_hls_3924adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Stankevicius/Knasas vs van de Velde/Immers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96169" group-title="Volleyball Mens Beach Pro Tour",Stankevicius/Knasas vs van de Velde/Immers
+https://dai.fancode.com/primary/96169_english_hls_3757adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Seidl,R./Pristauz vs T.Pithak/T. Poravid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96168" group-title="Volleyball Mens Beach Pro Tour",Seidl,R./Pristauz vs T.Pithak/T. Poravid
+https://dai.fancode.com/primary/96168_english_hls_8889adfreeta-no/index.m3u8
