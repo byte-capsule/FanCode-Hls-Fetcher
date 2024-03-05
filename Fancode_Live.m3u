@@ -1,7 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="KL Zalmi vs Stylop Golden Eagles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95698" group-title="Grand Rumble T10 Championship Season 2",KL Zalmi vs Stylop Golden Eagles
+https://dai.google.com/linear/hls/event/daWxiJfjQD6dDviU9v9OWg/master.m3u8
 #EXTINF:-1 tvg-name="NFRSA Women vs City Cricket Club Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95542" group-title="Guwahati Women's League 2024",NFRSA Women vs City Cricket Club Women
 https://dai.google.com/linear/hls/event/iojL76iWSZKdw6vJMrvU1A/master.m3u8
 #EXTINF:-1 tvg-name="Vanuatu vs Tanzania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95596" group-title="Malaysia Open T20I Championship, 2024",Vanuatu vs Tanzania
 https://dai.google.com/linear/hls/event/YoIsPtohTYWvOg3Bb_b28Q/master.m3u8
-#EXTINF:-1 tvg-name="KL Zalmi vs Stylop Golden Eagles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95698" group-title="Grand Rumble T10 Championship Season 2",KL Zalmi vs Stylop Golden Eagles
-https://dai.google.com/linear/hls/event/daWxiJfjQD6dDviU9v9OWg/master.m3u8
+#EXTINF:-1 tvg-name="Koshi Province vs Karnali Province" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96031" group-title="National T20 Championship, 2024",Koshi Province vs Karnali Province
+https://dai.google.com/linear/hls/event/Tp4l0OsFSbujx9Xs1rprNA/master.m3u8
