@@ -13,3 +13,7 @@ https://dai.google.com/linear/hls/event/aEiOAzxFRDOWzk6ckz5Szg/master.m3u8
 https://dai.google.com/linear/hls/event/5apfFjmcS5-0co3lP_eKQg/master.m3u8
 #EXTINF:-1 tvg-name="Abdysh-Ata vs Taichung Futuro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94251" group-title="AFC Cup",Abdysh-Ata vs Taichung Futuro
 https://dai.fancode.com/primary/94251_english_hls_9866adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Boermans/de Groot vs Hodges/Schubert" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95288" group-title="Volleyball Mens Beach Pro Tour",Boermans/de Groot vs Hodges/Schubert
+https://dai.fancode.com/primary/95288_english_hls_5911adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Mol, A./Sørum, C. vs Crabb Tr./Brunner" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95287" group-title="Volleyball Mens Beach Pro Tour",Mol, A./Sørum, C. vs Crabb Tr./Brunner
+https://dai.fancode.com/primary/95287_english_hls_9735adfreeta-di/index.m3u8
