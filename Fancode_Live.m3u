@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="KL Stars vs Pak United CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95702" group-title="Grand Rumble T10 Championship Season 2",KL Stars vs Pak United CC
 https://dai.google.com/linear/hls/event/NCm829C4SouYZCt4eSLtQw/master.m3u8
-#EXTINF:-1 tvg-name="91 Yards Club Women vs Icon Sports Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95544" group-title="Guwahati Women's League 2024",91 Yards Club Women vs Icon Sports Club
-https://dai.google.com/linear/hls/event/BhG42SeSQEqfttncfpR2aQ/master.m3u8
-#EXTINF:-1 tvg-name="Tanzania vs Kuwait" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95598" group-title="Malaysia Open T20I Championship, 2024",Tanzania vs Kuwait
-https://dai.google.com/linear/hls/event/l7PVdjTBQBCj-Edci3yr1w/master.m3u8
 #EXTINF:-1 tvg-name="Lumbini Province vs Sudur Pashchim Province" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96033" group-title="National T20 Championship, 2024",Lumbini Province vs Sudur Pashchim Province
 https://dai.google.com/linear/hls/event/HCAdSTZdSpOaZdlrvln7Rg/master.m3u8
+#EXTINF:-1 tvg-name="91 Yards Club Women vs Icon Sports Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95544" group-title="Guwahati Women's League 2024",91 Yards Club Women vs Icon Sports Club
+https://dai.google.com/linear/hls/event/BhG42SeSQEqfttncfpR2aQ/master.m3u8
+#EXTINF:-1 tvg-name="Ratnagiri District vs Dhule District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96060" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Ratnagiri District vs Dhule District
+https://dai.google.com/linear/hls/event/XlvJjS6cSMSxLjOZK1WZLA/master.m3u8
