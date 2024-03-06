@@ -3,15 +3,21 @@
 https://dai.google.com/linear/hls/event/esfDHmNNTUOlqETx-q257w/master.m3u8
 #EXTINF:-1 tvg-name="Madhesh Province vs Karnali Province" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96034" group-title="National T20 Championship, 2024",Madhesh Province vs Karnali Province
 https://dai.google.com/linear/hls/event/MtZGym1NSoeWsuFVQm-b3w/master.m3u8
-#EXTINF:-1 tvg-name="Papua New Guinea vs Oman" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95845" group-title="PNG tour of Oman, 2024",Papua New Guinea vs Oman
-https://dai.google.com/linear/hls/event/wTMIbNeRR2yiDuIv5o5UEw/master.m3u8
 #EXTINF:-1 tvg-name="Quetta Gladiators vs Karachi Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93859" group-title="PSL, 2024",Quetta Gladiators vs Karachi Kings
 https://dai.google.com/linear/hls/event/lDrWmpZYSOG4QDS6MmyKKA/master.m3u8
+#EXTINF:-1 tvg-name="Mpumalanga vs Easterns" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95739" group-title="CSA Provincial T20 Cup, 2024",Mpumalanga vs Easterns
+https://dai.google.com/linear/hls/event/dL9-ReVfTjGhtzeY-5xAig/master.m3u8
+#EXTINF:-1 tvg-name="Limpopo vs Border" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95738" group-title="CSA Provincial T20 Cup, 2024",Limpopo vs Border
+https://dai.google.com/linear/hls/event/ze0oX78hQI24y1OxV9Z6Vg/master.m3u8
+#EXTINF:-1 tvg-name="Northern Cape vs Garden Route Badgers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95737" group-title="CSA Provincial T20 Cup, 2024",Northern Cape vs Garden Route Badgers
+https://dai.google.com/linear/hls/event/aEiOAzxFRDOWzk6ckz5Szg/master.m3u8
 #EXTINF:-1 tvg-name="Shandong Taishan vs Yokohama F. Marinos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93358" group-title="AFC Champions League",Shandong Taishan vs Yokohama F. Marinos
 https://dai.google.com/linear/hls/event/-YJDo_Q2Rpe0GQAe4xenaw/master.m3u8
-#EXTINF:-1 tvg-name="Ludwig/Lippmann vs Tina/Anastasija" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95575" group-title="Volleyball Womens Beach Pro Tour",Ludwig/Lippmann vs Tina/Anastasija
-https://dai.fancode.com/primary/95575_english_hls_3825adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Melissa/Brandie vs Xue/X. Y. Xia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95574" group-title="Volleyball Womens Beach Pro Tour",Melissa/Brandie vs Xue/X. Y. Xia
-https://dai.fancode.com/primary/95574_english_hls_9037adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Brunner/Hüberli vs Vergé-Dépré, A./Mäder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95573" group-title="Volleyball Womens Beach Pro Tour",Brunner/Hüberli vs Vergé-Dépré, A./Mäder
-https://dai.fancode.com/primary/95573_english_hls_3380adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Australia Women vs Uzbekistan Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95660" group-title="AFC U20 Women's Asian Cup Uzbekistan 2024",Australia Women vs Uzbekistan Women
+https://dai.google.com/linear/hls/event/5apfFjmcS5-0co3lP_eKQg/master.m3u8
+#EXTINF:-1 tvg-name="Ahmednagar District vs Raigad District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96063" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Ahmednagar District vs Raigad District
+https://dai.google.com/linear/hls/event/CBGAFbiKTR2gT6JiQIoKfA/master.m3u8
+#EXTINF:-1 tvg-name="Carol/Barbara vs Esmée/Zoé" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95577" group-title="Volleyball Womens Beach Pro Tour",Carol/Barbara vs Esmée/Zoé
+https://dai.fancode.com/primary/95577_english_hls_6380adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Nuss/Kloth vs Gottardi/Menegatti" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95576" group-title="Volleyball Womens Beach Pro Tour",Nuss/Kloth vs Gottardi/Menegatti
+https://dai.fancode.com/primary/95576_english_hls_9925adfreeta-di/index.m3u8
