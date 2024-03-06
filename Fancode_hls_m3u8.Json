@@ -2,8 +2,19 @@
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "channels_amount": 4,
-  "updated_on": "06-03-2024 on 09:24:09 AM \ud83c\udf1e",
+  "updated_on": "06-03-2024 on 09:41:10 AM \ud83c\udf1e",
   "channels": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "Guwahati Women's League 2024",
+      "match_id": 95544,
+      "match_name": "91 Yards Club Women vs Icon Sports Club",
+      "team_1": "91 Yards Club Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YCW@2x.png",
+      "team_2": "Icon Sports Club",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IAW@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/BhG42SeSQEqfttncfpR2aQ/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "Malaysia Open T20I Championship, 2024",
@@ -18,24 +29,13 @@
     {
       "event_catagory": "cricket",
       "event_name": "Grand Rumble T10 Championship Season 2",
-      "match_id": 95701,
-      "match_name": "Kuala Lumpur Cricket Club vs SSF Panthers",
-      "team_1": "Kuala Lumpur Cricket Club",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KLC@2x.png",
-      "team_2": "SSF Panthers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSF@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/mig2Cfm1Tku6U8bEgkb8RA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Guwahati Women's League 2024",
-      "match_id": 95544,
-      "match_name": "91 Yards Club Women vs Icon Sports Club",
-      "team_1": "91 Yards Club Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YCW@2x.png",
-      "team_2": "Icon Sports Club",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IAW@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/BhG42SeSQEqfttncfpR2aQ/master.m3u8"
+      "match_id": 95702,
+      "match_name": "KL Stars vs Pak United CC",
+      "team_1": "KL Stars",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KLR@2x.png",
+      "team_2": "Pak United CC",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PUN@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/NCm829C4SouYZCt4eSLtQw/master.m3u8"
     },
     {
       "event_catagory": "football",
