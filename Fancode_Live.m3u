@@ -1,16 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Byron vs Ljubljana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95004" group-title="European Cricket League, 2024",Byron vs Ljubljana
 https://dai.google.com/linear/hls/event/dSFdNzsiQ-CZk0k-BTG9xw/master.m3u8
-#EXTINF:-1 tvg-name="Quetta Gladiators vs Karachi Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93859" group-title="PSL, 2024",Quetta Gladiators vs Karachi Kings
-https://dai.google.com/linear/hls/event/lDrWmpZYSOG4QDS6MmyKKA/master.m3u8
+#EXTINF:-1 tvg-name="Sri Lanka vs Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93979" group-title="Sri Lanka tour of Bangladesh, 2024",Sri Lanka vs Bangladesh
+https://dai.google.com/linear/hls/event/YGTqMmTpSzeejB-q50yqYA/master.m3u8
 #EXTINF:-1 tvg-name="Mpumalanga vs Easterns" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95739" group-title="CSA Provincial T20 Cup, 2024",Mpumalanga vs Easterns
 https://dai.google.com/linear/hls/event/dL9-ReVfTjGhtzeY-5xAig/master.m3u8
 #EXTINF:-1 tvg-name="Limpopo vs Border" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95738" group-title="CSA Provincial T20 Cup, 2024",Limpopo vs Border
 https://dai.google.com/linear/hls/event/ze0oX78hQI24y1OxV9Z6Vg/master.m3u8
 #EXTINF:-1 tvg-name="Garden Route Badgers vs Northern Cape" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95737" group-title="CSA Provincial T20 Cup, 2024",Garden Route Badgers vs Northern Cape
 https://dai.google.com/linear/hls/event/aEiOAzxFRDOWzk6ckz5Szg/master.m3u8
-#EXTINF:-1 tvg-name="Sri Lanka vs Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93979" group-title="Sri Lanka tour of Bangladesh, 2024",Sri Lanka vs Bangladesh
-https://dai.google.com/linear/hls/event/YGTqMmTpSzeejB-q50yqYA/master.m3u8
 #EXTINF:-1 tvg-name="Australia Women vs Uzbekistan Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95660" group-title="AFC U20 Women's Asian Cup Uzbekistan 2024",Australia Women vs Uzbekistan Women
 https://dai.google.com/linear/hls/event/5apfFjmcS5-0co3lP_eKQg/master.m3u8
 #EXTINF:-1 tvg-name="Abdysh-Ata vs Taichung Futuro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94251" group-title="AFC Cup",Abdysh-Ata vs Taichung Futuro
