@@ -1,17 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="MR KB Putrajaya CC vs Pak United CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95704" group-title="Grand Rumble T10 Championship Season 2",MR KB Putrajaya CC vs Pak United CC
-https://dai.google.com/linear/hls/event/zEEOHzh5TtS6mGJDRPl_hg/master.m3u8
-#EXTINF:-1 tvg-name="Gauhati Town Club Women vs NFRSA Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95545" group-title="Guwahati Women's League 2024",Gauhati Town Club Women vs NFRSA Women
-https://dai.google.com/linear/hls/event/bIx7itP6QXaTFDQaeYe7Iw/master.m3u8
+#EXTINF:-1 tvg-name="Empire CC vs Paris Universite Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95003" group-title="European Cricket League, 2024",Empire CC vs Paris Universite Club
+https://dai.google.com/linear/hls/event/esfDHmNNTUOlqETx-q257w/master.m3u8
 #EXTINF:-1 tvg-name="Madhesh Province vs Karnali Province" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96034" group-title="National T20 Championship, 2024",Madhesh Province vs Karnali Province
 https://dai.google.com/linear/hls/event/MtZGym1NSoeWsuFVQm-b3w/master.m3u8
 #EXTINF:-1 tvg-name="Papua New Guinea vs Oman" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95845" group-title="PNG tour of Oman, 2024",Papua New Guinea vs Oman
 https://dai.google.com/linear/hls/event/wTMIbNeRR2yiDuIv5o5UEw/master.m3u8
 #EXTINF:-1 tvg-name="Quetta Gladiators vs Karachi Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93859" group-title="PSL, 2024",Quetta Gladiators vs Karachi Kings
 https://dai.google.com/linear/hls/event/lDrWmpZYSOG4QDS6MmyKKA/master.m3u8
-#EXTINF:-1 tvg-name="Chinese Taipei Women vs Korea Republic Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95659" group-title="AFC U20 Women's Asian Cup Uzbekistan 2024",Chinese Taipei Women vs Korea Republic Women
-https://dai.google.com/linear/hls/event/VBrZKetdQhikFkS1ZYsMOA/master.m3u8
+#EXTINF:-1 tvg-name="Shandong Taishan vs Yokohama F. Marinos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93358" group-title="AFC Champions League",Shandong Taishan vs Yokohama F. Marinos
+https://dai.google.com/linear/hls/event/-YJDo_Q2Rpe0GQAe4xenaw/master.m3u8
 #EXTINF:-1 tvg-name="Nanded District vs Beed District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96062" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Nanded District vs Beed District
 https://dai.google.com/linear/hls/event/aaZvxn8RQaCwUU8Zd9gnGQ/master.m3u8
 #EXTINF:-1 tvg-name="Brunner/Hüberli vs Vergé-Dépré, A./Mäder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95573" group-title="Volleyball Womens Beach Pro Tour",Brunner/Hüberli vs Vergé-Dépré, A./Mäder
 https://dai.fancode.com/primary/95573_english_hls_3380adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Ludwig/Lippmann vs Tina/Anastasija" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95575" group-title="Volleyball Womens Beach Pro Tour",Ludwig/Lippmann vs Tina/Anastasija
+https://dai.fancode.com/primary/95575_english_hls_3825adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Melissa/Brandie vs Xue/X. Y. Xia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95574" group-title="Volleyball Womens Beach Pro Tour",Melissa/Brandie vs Xue/X. Y. Xia
+https://dai.fancode.com/primary/95574_english_hls_9037adfreeta-di/index.m3u8
