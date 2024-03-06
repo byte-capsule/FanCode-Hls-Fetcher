@@ -3,11 +3,19 @@
 https://dai.google.com/linear/hls/event/kYfhGCnRSqWKoqGFuq-Gxg/master.m3u8
 #EXTINF:-1 tvg-name="Malaysia vs Vanuatu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95599" group-title="Malaysia Open T20I Championship, 2024",Malaysia vs Vanuatu
 https://dai.google.com/linear/hls/event/Ip6gDpHERPCb1DyZNdb2eQ/master.m3u8
+#EXTINF:-1 tvg-name="Gauhati Town Club Women vs NFRSA Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95545" group-title="Guwahati Women's League 2024",Gauhati Town Club Women vs NFRSA Women
+https://dai.google.com/linear/hls/event/bIx7itP6QXaTFDQaeYe7Iw/master.m3u8
 #EXTINF:-1 tvg-name="Lumbini Province vs Sudur Pashchim Province" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96033" group-title="National T20 Championship, 2024",Lumbini Province vs Sudur Pashchim Province
 https://dai.google.com/linear/hls/event/HCAdSTZdSpOaZdlrvln7Rg/master.m3u8
+#EXTINF:-1 tvg-name="Oman vs Papua New Guinea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95845" group-title="PNG tour of Oman, 2024",Oman vs Papua New Guinea
+https://dai.google.com/linear/hls/event/wTMIbNeRR2yiDuIv5o5UEw/master.m3u8
 #EXTINF:-1 tvg-name="Mumbai Shahar Kabaddi Association vs Jalna District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96061" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Mumbai Shahar Kabaddi Association vs Jalna District
 https://dai.google.com/linear/hls/event/kHnZ80SYQyilZ9bEbCitlg/master.m3u8
 #EXTINF:-1 tvg-name="Xue/X. Y. Xia vs Tina/Anastasija" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95571" group-title="Volleyball Womens Beach Pro Tour",Xue/X. Y. Xia vs Tina/Anastasija
 https://dai.fancode.com/primary/95571_english_hls_712adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Melissa/Brandie vs Ludwig/Lippmann" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95570" group-title="Volleyball Womens Beach Pro Tour",Melissa/Brandie vs Ludwig/Lippmann
 https://dai.fancode.com/primary/95570_english_hls_4711adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Ehlers/Wickler vs Rossi/ Lupo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95281" group-title="Volleyball Mens Beach Pro Tour",Ehlers/Wickler vs Rossi/ Lupo
+https://dai.fancode.com/primary/95281_english_hls_7011adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Åhman/Hellvig vs Evandro/Arthur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95280" group-title="Volleyball Mens Beach Pro Tour",Åhman/Hellvig vs Evandro/Arthur
+https://dai.fancode.com/primary/95280_english_hls_539adfreeta-di/index.m3u8
