@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Ljubljana vs Paris Universite Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95006" group-title="European Cricket League, 2024",Ljubljana vs Paris Universite Club
+#EXTINF:-1 tvg-name="Ljubljana vs Paris Université Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95006" group-title="European Cricket League, 2024",Ljubljana vs Paris Université Club
 https://dai.google.com/linear/hls/event/lUqRKYN9Tlyjh_QWgOzm6w/master.m3u8
 #EXTINF:-1 tvg-name="Lahore Qalandars vs Islamabad United" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93860" group-title="PSL, 2024",Lahore Qalandars vs Islamabad United
 https://dai.google.com/linear/hls/event/sMPwTmwdTQyrtpeLvyeO3g/master.m3u8
 #EXTINF:-1 tvg-name="Leeward Islands Women vs Jamaica Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95673" group-title="CG United Women's Super50 Cup, 2024",Leeward Islands Women vs Jamaica Women
 https://dai.google.com/linear/hls/event/GvlGF84aTEWergdDh8MNYQ/master.m3u8
-#EXTINF:-1 tvg-name="Åhman/Hellvig vs Ehlers/Wickler" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95292" group-title="Volleyball Mens Beach Pro Tour",Åhman/Hellvig vs Ehlers/Wickler
-https://dai.fancode.com/primary/95292_english_hls_6327adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Evandro/Arthur vs Rossi/ Lupo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95294" group-title="Volleyball Mens Beach Pro Tour",Evandro/Arthur vs Rossi/ Lupo
-https://dai.fancode.com/primary/95294_english_hls_9976adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Crabb Tr./Brunner vs Hodges/Schubert" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95297" group-title="Volleyball Mens Beach Pro Tour",Crabb Tr./Brunner vs Hodges/Schubert
+https://dai.fancode.com/primary/95297_english_hls_6462adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Mol, A./Sørum, C. vs Boermans/de Groot" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95295" group-title="Volleyball Mens Beach Pro Tour",Mol, A./Sørum, C. vs Boermans/de Groot
+https://dai.fancode.com/primary/95295_english_hls_12adfreeta-di/index.m3u8

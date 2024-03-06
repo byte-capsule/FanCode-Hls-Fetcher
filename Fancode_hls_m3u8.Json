@@ -2,16 +2,16 @@
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "channels_amount": 5,
-  "updated_on": "06-03-2024 on 10:41:01 PM \ud83c\udf19",
+  "updated_on": "06-03-2024 on 11:03:00 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
       "event_name": "European Cricket League, 2024",
       "match_id": 95006,
-      "match_name": "Ljubljana vs Paris Universite Club",
+      "match_name": "Ljubljana vs Paris Universit\u00e9 Club",
       "team_1": "Ljubljana",
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LLUBJ@2x.png",
-      "team_2": "Paris Universite Club",
+      "team_2": "Paris Universit\u00e9 Club",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PUC-CR1@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/lUqRKYN9Tlyjh_QWgOzm6w/master.m3u8"
     },
@@ -40,24 +40,24 @@
     {
       "event_catagory": "volleyball",
       "event_name": "Volleyball Mens Beach Pro Tour",
-      "match_id": 95292,
-      "match_name": "\u00c5hman/Hellvig vs Ehlers/Wickler",
-      "team_1": "\u00c5hman/Hellvig",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-SWD@2x.png",
-      "team_2": "Ehlers/Wickler",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-GRM@2x.png",
-      "stream_link": "https://dai.fancode.com/primary/95292_english_hls_6327adfreeta-di/index.m3u8"
+      "match_id": 95297,
+      "match_name": "Crabb Tr./Brunner vs Hodges/Schubert",
+      "team_1": "Crabb Tr./Brunner",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-US@2x.png",
+      "team_2": "Hodges/Schubert",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-AST@2x.png",
+      "stream_link": "https://dai.fancode.com/primary/95297_english_hls_6462adfreeta-di/index.m3u8"
     },
     {
       "event_catagory": "volleyball",
       "event_name": "Volleyball Mens Beach Pro Tour",
-      "match_id": 95294,
-      "match_name": "Evandro/Arthur vs Rossi/ Lupo",
-      "team_1": "Evandro/Arthur",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-BRZ@2x.png",
-      "team_2": "Rossi/ Lupo",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-ITY@2x.png",
-      "stream_link": "https://dai.fancode.com/primary/95294_english_hls_9976adfreeta-no/index.m3u8"
+      "match_id": 95295,
+      "match_name": "Mol, A./S\u00f8rum, C. vs Boermans/de Groot",
+      "team_1": "Mol, A./S\u00f8rum, C.",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-NWY@2x.png",
+      "team_2": "Boermans/de Groot",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-NTH@2x.png",
+      "stream_link": "https://dai.fancode.com/primary/95295_english_hls_12adfreeta-di/index.m3u8"
     }
   ]
 }
