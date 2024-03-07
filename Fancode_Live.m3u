@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Dreux vs Paris Université Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95008" group-title="European Cricket League, 2024",Dreux vs Paris Université Club
-https://dai.google.com/linear/hls/event/eVLbZIWfQlaMY48TzaKVow/master.m3u8
-#EXTINF:-1 tvg-name="Koshi Province vs Madhesh Province" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96036" group-title="National T20 Championship, 2024",Koshi Province vs Madhesh Province
-https://dai.google.com/linear/hls/event/VT7y8-BATgGteKDeUfyrpg/master.m3u8
+#EXTINF:-1 tvg-name="Byron vs Empire CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95009" group-title="European Cricket League, 2024",Byron vs Empire CC
+https://dai.google.com/linear/hls/event/iv7uaQqZQiWvlhtFpO9t9A/master.m3u8
 #EXTINF:-1 tvg-name="Scotland vs Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94700" group-title="ICC CWC League 2, 2023-27",Scotland vs Canada
 https://dai.google.com/linear/hls/event/k9xjI9tpRAK1lUKf-xDM5g/master.m3u8
 #EXTINF:-1 tvg-name="Tanzania Women vs Nigeria Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95981" group-title="African Games Ghana 2024 Women",Tanzania Women vs Nigeria Women
@@ -15,9 +13,5 @@ https://dai.google.com/linear/hls/event/TC_z-y-ZSpCtVdBkiWqQvQ/master.m3u8
 https://dai.google.com/linear/hls/event/b4qohRY5Q9i9nHisY_xkLg/master.m3u8
 #EXTINF:-1 tvg-name="Practice Session" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96331" group-title="F1 ACADEMY SAUDI ARABIAN GRAND PRIX 2024",Practice Session
 https://fancodelive-c.akamaized.net/hls/live/2040703/96331_english_hls_5747adfreeta-di/master.m3u8
-#EXTINF:-1 tvg-name="Raigad District vs Ratnagiri District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96067" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Raigad District vs Ratnagiri District
-https://dai.google.com/linear/hls/event/vvTiwSMgQ8uU7We_CX71BA/master.m3u8
-#EXTINF:-1 tvg-name="Perusic/Schweiner vs van de Velde/Immers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95305" group-title="Volleyball Mens Beach Pro Tour",Perusic/Schweiner vs van de Velde/Immers
-https://dai.fancode.com/primary/95305_english_hls_6052adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="George/Andre vs Brouwer/Meeuwsen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95303" group-title="Volleyball Mens Beach Pro Tour",George/Andre vs Brouwer/Meeuwsen
 https://dai.fancode.com/primary/95303_english_hls_5736adfreeta-di/index.m3u8
