@@ -1,8 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Dreux vs Paris Université Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95008" group-title="European Cricket League, 2024",Dreux vs Paris Université Club
+https://dai.google.com/linear/hls/event/eVLbZIWfQlaMY48TzaKVow/master.m3u8
 #EXTINF:-1 tvg-name="Royal Strikers CC vs Global Stars CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95708" group-title="Grand Rumble T10 Championship Season 2",Royal Strikers CC vs Global Stars CC
 https://dai.google.com/linear/hls/event/OmfspKUaSEG5EvZcuRIL1Q/master.m3u8
-#EXTINF:-1 tvg-name="Icon Sports Club vs City Cricket Club Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95547" group-title="Guwahati Women's League 2024",Icon Sports Club vs City Cricket Club Women
-https://dai.google.com/linear/hls/event/YbM2tUXPSxms9xYznRmwDA/master.m3u8
 #EXTINF:-1 tvg-name="Koshi Province vs Madhesh Province" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96036" group-title="National T20 Championship, 2024",Koshi Province vs Madhesh Province
 https://dai.google.com/linear/hls/event/VT7y8-BATgGteKDeUfyrpg/master.m3u8
 #EXTINF:-1 tvg-name="Scotland vs Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94700" group-title="ICC CWC League 2, 2023-27",Scotland vs Canada
@@ -11,11 +11,13 @@ https://dai.google.com/linear/hls/event/k9xjI9tpRAK1lUKf-xDM5g/master.m3u8
 https://dai.google.com/linear/hls/event/vWZJ-LdcRNGKyZVnrsmc-g/master.m3u8
 #EXTINF:-1 tvg-name="Tanzania Women vs Nigeria Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95981" group-title="African Games Ghana 2024 Women",Tanzania Women vs Nigeria Women
 https://dai.google.com/linear/hls/event/L4UqiEZbTjSe_mjCNBmWrg/master.m3u8
-#EXTINF:-1 tvg-name="Central Coast Mariners vs Odisha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94252" group-title="AFC Cup",Central Coast Mariners vs Odisha
-https://dai.fancode.com/primary/94252_english_hls_5780adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Vietnam Women vs DPR Korea Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95661" group-title="AFC U20 Women's Asian Cup Uzbekistan 2024",Vietnam Women vs DPR Korea Women
-https://dai.google.com/linear/hls/event/zEwO06WJT-yR0E9rXaD6BQ/master.m3u8
+#EXTINF:-1 tvg-name="Free Practice" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95325" group-title="F2 SAUDI ARABIAN GRAND PRIX 2024",Free Practice
+https://dai.fancode.com/primary/95325_english_hls_5925adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Dhule District vs Mumbai Shahar Kabaddi Association" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96066" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Dhule District vs Mumbai Shahar Kabaddi Association
 https://dai.google.com/linear/hls/event/rLtnSvuYTa-SwIcBodZltw/master.m3u8
 #EXTINF:-1 tvg-name="Tainá/Victoria vs Agatha/Rebecca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95586" group-title="Volleyball Womens Beach Pro Tour",Tainá/Victoria vs Agatha/Rebecca
 https://dai.fancode.com/primary/95586_english_hls_5659adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Melissa/Brandie vs Tina/Anastasija" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95588" group-title="Volleyball Womens Beach Pro Tour",Melissa/Brandie vs Tina/Anastasija
+https://dai.fancode.com/primary/95588_english_hls_4928adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Xue/X. Y. Xia vs Ludwig/Lippmann" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95587" group-title="Volleyball Womens Beach Pro Tour",Xue/X. Y. Xia vs Ludwig/Lippmann
+https://dai.fancode.com/primary/95587_english_hls_8927adfreeta-di/index.m3u8
