@@ -3,7 +3,7 @@
 https://dai.google.com/linear/hls/event/fVNQF7_GT-uIiLeyFEGU6g/master.m3u8
 #EXTINF:-1 tvg-name="Rwanda Women vs Zimbabwe Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95983" group-title="African Games Ghana 2024 Women",Rwanda Women vs Zimbabwe Women
 https://dai.google.com/linear/hls/event/AUbRyu6sSAO50Hgc-NOLSA/master.m3u8
-#EXTINF:-1 tvg-name="Uganda Women vs Kenya Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95982" group-title="African Games Ghana 2024 Women",Uganda Women vs Kenya Women
+#EXTINF:-1 tvg-name="Kenya Women vs Uganda Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95982" group-title="African Games Ghana 2024 Women",Kenya Women vs Uganda Women
 https://dai.google.com/linear/hls/event/DxGDQwmmSqe3XqC3cLOCTA/master.m3u8
 #EXTINF:-1 tvg-name="Seven Districts Juniors vs London Royals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95896" group-title="ICC Academy Ramadan T20",Seven Districts Juniors vs London Royals
 https://dai.google.com/linear/hls/event/xgGZODNpRbSKLJJZNAlfuA/master.m3u8
@@ -11,7 +11,11 @@ https://dai.google.com/linear/hls/event/xgGZODNpRbSKLJJZNAlfuA/master.m3u8
 https://dai.google.com/linear/hls/event/WvdkJMcORlKBqxREZbpDQw/master.m3u8
 #EXTINF:-1 tvg-name="Afghanistan vs Ireland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93917" group-title="Ireland tour of Afghanistan, 2024",Afghanistan vs Ireland
 https://dai.google.com/linear/hls/event/TC_z-y-ZSpCtVdBkiWqQvQ/master.m3u8
+#EXTINF:-1 tvg-name="Qualifying Session" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95326" group-title="F2 SAUDI ARABIAN GRAND PRIX 2024",Qualifying Session
+https://dai.fancode.com/primary/95326_english_hls_6455adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Practice Session" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96331" group-title="F1 ACADEMY SAUDI ARABIAN GRAND PRIX 2024",Practice Session
 https://fancodelive-c.akamaized.net/hls/live/2040703/96331_english_hls_5747adfreeta-di/master.m3u8
-#EXTINF:-1 tvg-name="Hughes/Cheng vs Agatha/Rebecca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95592" group-title="Volleyball Womens Beach Pro Tour",Hughes/Cheng vs Agatha/Rebecca
-https://dai.fancode.com/primary/95592_english_hls_9785adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Nuss/Kloth vs Esmée/Zoé" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95594" group-title="Volleyball Womens Beach Pro Tour",Nuss/Kloth vs Esmée/Zoé
+https://dai.fancode.com/primary/95594_english_hls_58adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Carol/Barbara vs Gottardi/Menegatti" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95593" group-title="Volleyball Womens Beach Pro Tour",Carol/Barbara vs Gottardi/Menegatti
+https://dai.fancode.com/primary/95593_english_hls_5256adfreeta-di/index.m3u8
