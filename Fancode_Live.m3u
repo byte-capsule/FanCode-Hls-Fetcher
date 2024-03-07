@@ -3,6 +3,8 @@
 https://dai.google.com/linear/hls/event/UDhFjkraR-uTvZ3Rufw90w/master.m3u8
 #EXTINF:-1 tvg-name="Vanuatu vs Kuwait" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95601" group-title="Malaysia Open T20I Championship, 2024",Vanuatu vs Kuwait
 https://dai.google.com/linear/hls/event/fdSRgifaSW6-o1OBCh_oWQ/master.m3u8
+#EXTINF:-1 tvg-name="Icon Sports Club vs City Cricket Club Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95547" group-title="Guwahati Women's League 2024",Icon Sports Club vs City Cricket Club Women
+https://dai.google.com/linear/hls/event/YbM2tUXPSxms9xYznRmwDA/master.m3u8
 #EXTINF:-1 tvg-name="Oman vs Papua New Guinea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95846" group-title="PNG tour of Oman, 2024",Oman vs Papua New Guinea
 https://dai.google.com/linear/hls/event/ghpvol5-SMSRp4Or0dkztA/master.m3u8
 #EXTINF:-1 tvg-name="Scotland vs Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94700" group-title="ICC CWC League 2, 2023-27",Scotland vs Canada
@@ -11,7 +13,5 @@ https://dai.google.com/linear/hls/event/k9xjI9tpRAK1lUKf-xDM5g/master.m3u8
 https://dai.google.com/linear/hls/event/bGGqz8ZtR_mxPXpzxBVAow/master.m3u8
 #EXTINF:-1 tvg-name="Beed District vs Ahmednagar District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96065" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Beed District vs Ahmednagar District
 https://dai.google.com/linear/hls/event/XtHde3CfTpqYaBgYdU5fqA/master.m3u8
-#EXTINF:-1 tvg-name="Brouwer/Meeuwsen vs van de Velde/Immers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95302" group-title="Volleyball Mens Beach Pro Tour",Brouwer/Meeuwsen vs van de Velde/Immers
-https://dai.fancode.com/primary/95302_english_hls_3885adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Perusic/Schweiner vs George/Andre" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95301" group-title="Volleyball Mens Beach Pro Tour",Perusic/Schweiner vs George/Andre
-https://dai.fancode.com/primary/95301_english_hls_9069adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Ana Patrícia/Duda vs Brunner/Hüberli" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95580" group-title="Volleyball Womens Beach Pro Tour",Ana Patrícia/Duda vs Brunner/Hüberli
+https://dai.fancode.com/primary/95580_english_hls_3845adfreeta-di/index.m3u8

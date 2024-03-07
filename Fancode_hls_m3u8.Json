@@ -2,7 +2,7 @@
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "channels_amount": 8,
-  "updated_on": "07-03-2024 on 0:41:20 PM \ud83c\udf1e",
+  "updated_on": "07-03-2024 on 1:02:19 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -25,6 +25,17 @@
       "team_2": "Kuwait",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUW@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/fdSRgifaSW6-o1OBCh_oWQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Guwahati Women's League 2024",
+      "match_id": 95547,
+      "match_name": "Icon Sports Club vs City Cricket Club Women",
+      "team_1": "Icon Sports Club",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IAW@2x.png",
+      "team_2": "City Cricket Club Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CCW@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/YbM2tUXPSxms9xYznRmwDA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -72,25 +83,14 @@
     },
     {
       "event_catagory": "volleyball",
-      "event_name": "Volleyball Mens Beach Pro Tour",
-      "match_id": 95302,
-      "match_name": "Brouwer/Meeuwsen vs van de Velde/Immers",
-      "team_1": "Brouwer/Meeuwsen",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-NTH@2x.png",
-      "team_2": "van de Velde/Immers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-NTH@2x.png",
-      "stream_link": "https://dai.fancode.com/primary/95302_english_hls_3885adfreeta-di/index.m3u8"
-    },
-    {
-      "event_catagory": "volleyball",
-      "event_name": "Volleyball Mens Beach Pro Tour",
-      "match_id": 95301,
-      "match_name": "Perusic/Schweiner vs George/Andre",
-      "team_1": "Perusic/Schweiner",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-CZE@2x.png",
-      "team_2": "George/Andre",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-BRZ@2x.png",
-      "stream_link": "https://dai.fancode.com/primary/95301_english_hls_9069adfreeta-di/index.m3u8"
+      "event_name": "Volleyball Womens Beach Pro Tour",
+      "match_id": 95580,
+      "match_name": "Ana Patr\u00edcia/Duda vs Brunner/H\u00fcberli",
+      "team_1": "Ana Patr\u00edcia/Duda",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-BRZ@2x.png",
+      "team_2": "Brunner/H\u00fcberli",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-SWZ@2x.png",
+      "stream_link": "https://dai.fancode.com/primary/95580_english_hls_3845adfreeta-di/index.m3u8"
     }
   ]
 }
