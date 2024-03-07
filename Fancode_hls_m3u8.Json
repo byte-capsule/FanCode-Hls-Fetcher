@@ -1,19 +1,30 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 6,
-  "updated_on": "07-03-2024 on 11:25:28 AM \ud83c\udf1e",
+  "channels_amount": 7,
+  "updated_on": "07-03-2024 on 11:41:15 AM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
       "event_name": "Grand Rumble T10 Championship Season 2",
-      "match_id": 95706,
-      "match_name": "Royal Strikers CC vs KL Zalmi",
-      "team_1": "Royal Strikers CC",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSTK@2x.png",
-      "team_2": "KL Zalmi",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KLZM@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/2iRXV8VoSTSaEMWTnUXFbg/master.m3u8"
+      "match_id": 95707,
+      "match_name": "SSF Panthers vs MR KB Putrajaya CC",
+      "team_1": "SSF Panthers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSF@2x.png",
+      "team_2": "MR KB Putrajaya CC",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PUTR@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/UDhFjkraR-uTvZ3Rufw90w/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Malaysia Open T20I Championship, 2024",
+      "match_id": 95601,
+      "match_name": "Vanuatu vs Kuwait",
+      "team_1": "Vanuatu",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VAU@2x.png",
+      "team_2": "Kuwait",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUW@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/fdSRgifaSW6-o1OBCh_oWQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -39,14 +50,14 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Malaysia Open T20I Championship, 2024",
-      "match_id": 95601,
-      "match_name": "Vanuatu vs Kuwait",
-      "team_1": "Vanuatu",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VAU@2x.png",
-      "team_2": "Kuwait",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUW@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/fdSRgifaSW6-o1OBCh_oWQ/master.m3u8"
+      "event_name": "ICC CWC League 2, 2023-27",
+      "match_id": 94700,
+      "match_name": "Scotland vs Canada",
+      "team_1": "Scotland",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png",
+      "team_2": "Canada",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAN@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/k9xjI9tpRAK1lUKf-xDM5g/master.m3u8"
     },
     {
       "event_catagory": "football",
@@ -60,15 +71,15 @@
       "stream_link": "https://dai.google.com/linear/hls/event/vjpLtvJ-SCOR0SEqaBExBg/master.m3u8"
     },
     {
-      "event_catagory": "kabaddi",
-      "event_name": "KMP Yuva Kabaddi Inter District Youth League, 2024",
-      "match_id": 96064,
-      "match_name": "Jalna District vs Nanded District",
-      "team_1": "Jalna District",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-JDC@2x.png",
-      "team_2": "Nanded District",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-ND@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/womZLVEATLmGs3a8Cmi4CQ/master.m3u8"
+      "event_catagory": "volleyball",
+      "event_name": "Volleyball Mens Beach Pro Tour",
+      "match_id": 95302,
+      "match_name": "Brouwer/Meeuwsen vs van de Velde/Immers",
+      "team_1": "Brouwer/Meeuwsen",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-NTH@2x.png",
+      "team_2": "van de Velde/Immers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-NTH@2x.png",
+      "stream_link": "https://dai.fancode.com/primary/95302_english_hls_3885adfreeta-di/index.m3u8"
     }
   ]
 }
