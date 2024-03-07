@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Dreux vs Ljubljana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95010" group-title="European Cricket League, 2024",Dreux vs Ljubljana
-https://dai.google.com/linear/hls/event/fVNQF7_GT-uIiLeyFEGU6g/master.m3u8
+#EXTINF:-1 tvg-name="Byron vs Paris Université Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95011" group-title="European Cricket League, 2024",Byron vs Paris Université Club
+https://dai.google.com/linear/hls/event/QcRa3P6XQAC9VOpeQxTMbw/master.m3u8
+#EXTINF:-1 tvg-name="Durham vs Mid West Rhinos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95877" group-title="Zimbabwe Domestic T20, 2024",Durham vs Mid West Rhinos
+https://dai.google.com/linear/hls/event/AH1RHoq0SGm3dflCdWgzdw/master.m3u8
 #EXTINF:-1 tvg-name="Rwanda Women vs Zimbabwe Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95983" group-title="African Games Ghana 2024 Women",Rwanda Women vs Zimbabwe Women
 https://dai.google.com/linear/hls/event/AUbRyu6sSAO50Hgc-NOLSA/master.m3u8
 #EXTINF:-1 tvg-name="Kenya Women vs Uganda Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95982" group-title="African Games Ghana 2024 Women",Kenya Women vs Uganda Women
@@ -11,9 +13,9 @@ https://dai.google.com/linear/hls/event/xgGZODNpRbSKLJJZNAlfuA/master.m3u8
 https://dai.google.com/linear/hls/event/WvdkJMcORlKBqxREZbpDQw/master.m3u8
 #EXTINF:-1 tvg-name="Afghanistan vs Ireland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93917" group-title="Ireland tour of Afghanistan, 2024",Afghanistan vs Ireland
 https://dai.google.com/linear/hls/event/TC_z-y-ZSpCtVdBkiWqQvQ/master.m3u8
-#EXTINF:-1 tvg-name="Qualifying Session" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95326" group-title="F2 SAUDI ARABIAN GRAND PRIX 2024",Qualifying Session
-https://dai.fancode.com/primary/95326_english_hls_6455adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Nuss/Kloth vs Esmée/Zoé" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95594" group-title="Volleyball Womens Beach Pro Tour",Nuss/Kloth vs Esmée/Zoé
-https://dai.fancode.com/primary/95594_english_hls_58adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Carol/Barbara vs Gottardi/Menegatti" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95593" group-title="Volleyball Womens Beach Pro Tour",Carol/Barbara vs Gottardi/Menegatti
-https://dai.fancode.com/primary/95593_english_hls_5256adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="PFL Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95315" group-title="Professional Fighters League",PFL Europe
+https://dai.google.com/linear/hls/event/fS706gWGQJ6BgHgmZEpmyA/master.m3u8
+#EXTINF:-1 tvg-name="Mol, A./Sørum, C. vs Hodges/Schubert" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95309" group-title="Volleyball Mens Beach Pro Tour",Mol, A./Sørum, C. vs Hodges/Schubert
+https://dai.fancode.com/primary/95309_english_hls_6154adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Boermans/de Groot vs Crabb Tr./Brunner" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95307" group-title="Volleyball Mens Beach Pro Tour",Boermans/de Groot vs Crabb Tr./Brunner
+https://dai.fancode.com/primary/95307_english_hls_9703adfreeta-no/index.m3u8
