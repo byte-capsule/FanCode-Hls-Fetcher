@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Royal Strikers CC vs Global Stars CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95708" group-title="Grand Rumble T10 Championship Season 2",Royal Strikers CC vs Global Stars CC
 https://dai.google.com/linear/hls/event/OmfspKUaSEG5EvZcuRIL1Q/master.m3u8
-#EXTINF:-1 tvg-name="Vanuatu vs Kuwait" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95601" group-title="Malaysia Open T20I Championship, 2024",Vanuatu vs Kuwait
-https://dai.google.com/linear/hls/event/fdSRgifaSW6-o1OBCh_oWQ/master.m3u8
 #EXTINF:-1 tvg-name="Icon Sports Club vs City Cricket Club Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95547" group-title="Guwahati Women's League 2024",Icon Sports Club vs City Cricket Club Women
 https://dai.google.com/linear/hls/event/YbM2tUXPSxms9xYznRmwDA/master.m3u8
 #EXTINF:-1 tvg-name="Koshi Province vs Madhesh Province" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96036" group-title="National T20 Championship, 2024",Koshi Province vs Madhesh Province
@@ -11,11 +9,13 @@ https://dai.google.com/linear/hls/event/VT7y8-BATgGteKDeUfyrpg/master.m3u8
 https://dai.google.com/linear/hls/event/ghpvol5-SMSRp4Or0dkztA/master.m3u8
 #EXTINF:-1 tvg-name="Scotland vs Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94700" group-title="ICC CWC League 2, 2023-27",Scotland vs Canada
 https://dai.google.com/linear/hls/event/k9xjI9tpRAK1lUKf-xDM5g/master.m3u8
+#EXTINF:-1 tvg-name="Namibia Women vs South Africa Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95980" group-title="African Games Ghana 2024 Women",Namibia Women vs South Africa Women
+https://dai.google.com/linear/hls/event/vWZJ-LdcRNGKyZVnrsmc-g/master.m3u8
 #EXTINF:-1 tvg-name="Central Coast Mariners vs Odisha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94252" group-title="AFC Cup",Central Coast Mariners vs Odisha
 https://dai.fancode.com/primary/94252_english_hls_5780adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Vietnam Women vs DPR Korea Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95661" group-title="AFC U20 Women's Asian Cup Uzbekistan 2024",Vietnam Women vs DPR Korea Women
 https://dai.google.com/linear/hls/event/zEwO06WJT-yR0E9rXaD6BQ/master.m3u8
-#EXTINF:-1 tvg-name="Nuss/Kloth vs Carol/Barbara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95583" group-title="Volleyball Womens Beach Pro Tour",Nuss/Kloth vs Carol/Barbara
-https://dai.fancode.com/primary/95583_english_hls_9194adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Gottardi/Menegatti vs Esmée/Zoé" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95584" group-title="Volleyball Womens Beach Pro Tour",Gottardi/Menegatti vs Esmée/Zoé
-https://dai.fancode.com/primary/95584_english_hls_3371adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Tainá/Victoria vs Agatha/Rebecca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95586" group-title="Volleyball Womens Beach Pro Tour",Tainá/Victoria vs Agatha/Rebecca
+https://dai.fancode.com/primary/95586_english_hls_5659adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Hughes/Cheng vs Stam/Schoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95585" group-title="Volleyball Womens Beach Pro Tour",Hughes/Cheng vs Stam/Schoon
+https://dai.fancode.com/primary/95585_english_hls_9536adfreeta-no/index.m3u8
