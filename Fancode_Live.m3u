@@ -3,12 +3,8 @@
 https://dai.google.com/linear/hls/event/QcRa3P6XQAC9VOpeQxTMbw/master.m3u8
 #EXTINF:-1 tvg-name="Durham vs Mid West Rhinos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95877" group-title="Zimbabwe Domestic T20, 2024",Durham vs Mid West Rhinos
 https://dai.google.com/linear/hls/event/AH1RHoq0SGm3dflCdWgzdw/master.m3u8
-#EXTINF:-1 tvg-name="Rwanda Women vs Zimbabwe Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95983" group-title="African Games Ghana 2024 Women",Rwanda Women vs Zimbabwe Women
-https://dai.google.com/linear/hls/event/AUbRyu6sSAO50Hgc-NOLSA/master.m3u8
 #EXTINF:-1 tvg-name="Kenya Women vs Uganda Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95982" group-title="African Games Ghana 2024 Women",Kenya Women vs Uganda Women
 https://dai.google.com/linear/hls/event/DxGDQwmmSqe3XqC3cLOCTA/master.m3u8
-#EXTINF:-1 tvg-name="Seven Districts Juniors vs London Royals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95896" group-title="ICC Academy Ramadan T20",Seven Districts Juniors vs London Royals
-https://dai.google.com/linear/hls/event/xgGZODNpRbSKLJJZNAlfuA/master.m3u8
 #EXTINF:-1 tvg-name="Karachi Kings vs Islamabad United" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93861" group-title="PSL, 2024",Karachi Kings vs Islamabad United
 https://dai.google.com/linear/hls/event/WvdkJMcORlKBqxREZbpDQw/master.m3u8
 #EXTINF:-1 tvg-name="Afghanistan vs Ireland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93917" group-title="Ireland tour of Afghanistan, 2024",Afghanistan vs Ireland
@@ -17,7 +13,7 @@ https://dai.google.com/linear/hls/event/TC_z-y-ZSpCtVdBkiWqQvQ/master.m3u8
 https://fancodelive-c.akamaized.net/hls/live/2040703/95112_english_hls_5997adfreeta-di/master.m3u8
 #EXTINF:-1 tvg-name="PFL Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95315" group-title="Professional Fighters League",PFL Europe
 https://dai.google.com/linear/hls/event/fS706gWGQJ6BgHgmZEpmyA/master.m3u8
-#EXTINF:-1 tvg-name="Mol, A./Sørum, C. vs Hodges/Schubert" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95309" group-title="Volleyball Mens Beach Pro Tour",Mol, A./Sørum, C. vs Hodges/Schubert
-https://dai.fancode.com/primary/95309_english_hls_6154adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Boermans/de Groot vs Crabb Tr./Brunner" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95307" group-title="Volleyball Mens Beach Pro Tour",Boermans/de Groot vs Crabb Tr./Brunner
-https://dai.fancode.com/primary/95307_english_hls_9703adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Cottafava/Nicolai vs Evans/Budinger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95312" group-title="Volleyball Mens Beach Pro Tour",Cottafava/Nicolai vs Evans/Budinger
+https://dai.fancode.com/primary/95312_english_hls_9557adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Łosiak/Bryl vs Cherif/Ahmed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95311" group-title="Volleyball Mens Beach Pro Tour",Łosiak/Bryl vs Cherif/Ahmed
+https://mls3.fancode.com/810f49f2-1d03-4c8d-9375-3b06e4a8a12a/master.m3u8
