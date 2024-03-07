@@ -5,8 +5,6 @@ https://dai.google.com/linear/hls/event/OmfspKUaSEG5EvZcuRIL1Q/master.m3u8
 https://dai.google.com/linear/hls/event/YbM2tUXPSxms9xYznRmwDA/master.m3u8
 #EXTINF:-1 tvg-name="Koshi Province vs Madhesh Province" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96036" group-title="National T20 Championship, 2024",Koshi Province vs Madhesh Province
 https://dai.google.com/linear/hls/event/VT7y8-BATgGteKDeUfyrpg/master.m3u8
-#EXTINF:-1 tvg-name="Oman vs Papua New Guinea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95846" group-title="PNG tour of Oman, 2024",Oman vs Papua New Guinea
-https://dai.google.com/linear/hls/event/ghpvol5-SMSRp4Or0dkztA/master.m3u8
 #EXTINF:-1 tvg-name="Scotland vs Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94700" group-title="ICC CWC League 2, 2023-27",Scotland vs Canada
 https://dai.google.com/linear/hls/event/k9xjI9tpRAK1lUKf-xDM5g/master.m3u8
 #EXTINF:-1 tvg-name="Namibia Women vs South Africa Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95980" group-title="African Games Ghana 2024 Women",Namibia Women vs South Africa Women
@@ -21,5 +19,3 @@ https://dai.google.com/linear/hls/event/zEwO06WJT-yR0E9rXaD6BQ/master.m3u8
 https://dai.google.com/linear/hls/event/rLtnSvuYTa-SwIcBodZltw/master.m3u8
 #EXTINF:-1 tvg-name="Tainá/Victoria vs Agatha/Rebecca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95586" group-title="Volleyball Womens Beach Pro Tour",Tainá/Victoria vs Agatha/Rebecca
 https://dai.fancode.com/primary/95586_english_hls_5659adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Hughes/Cheng vs Stam/Schoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95585" group-title="Volleyball Womens Beach Pro Tour",Hughes/Cheng vs Stam/Schoon
-https://dai.fancode.com/primary/95585_english_hls_9536adfreeta-no/index.m3u8
