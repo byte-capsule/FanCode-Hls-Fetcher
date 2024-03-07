@@ -11,10 +11,14 @@ https://dai.google.com/linear/hls/event/ghpvol5-SMSRp4Or0dkztA/master.m3u8
 https://dai.google.com/linear/hls/event/k9xjI9tpRAK1lUKf-xDM5g/master.m3u8
 #EXTINF:-1 tvg-name="Namibia Women vs South Africa Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95980" group-title="African Games Ghana 2024 Women",Namibia Women vs South Africa Women
 https://dai.google.com/linear/hls/event/vWZJ-LdcRNGKyZVnrsmc-g/master.m3u8
+#EXTINF:-1 tvg-name="Tanzania Women vs Nigeria Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95981" group-title="African Games Ghana 2024 Women",Tanzania Women vs Nigeria Women
+https://dai.google.com/linear/hls/event/L4UqiEZbTjSe_mjCNBmWrg/master.m3u8
 #EXTINF:-1 tvg-name="Central Coast Mariners vs Odisha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94252" group-title="AFC Cup",Central Coast Mariners vs Odisha
 https://dai.fancode.com/primary/94252_english_hls_5780adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Vietnam Women vs DPR Korea Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95661" group-title="AFC U20 Women's Asian Cup Uzbekistan 2024",Vietnam Women vs DPR Korea Women
 https://dai.google.com/linear/hls/event/zEwO06WJT-yR0E9rXaD6BQ/master.m3u8
+#EXTINF:-1 tvg-name="Dhule District vs Mumbai Shahar Kabaddi Association" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96066" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Dhule District vs Mumbai Shahar Kabaddi Association
+https://dai.google.com/linear/hls/event/rLtnSvuYTa-SwIcBodZltw/master.m3u8
 #EXTINF:-1 tvg-name="Tainá/Victoria vs Agatha/Rebecca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95586" group-title="Volleyball Womens Beach Pro Tour",Tainá/Victoria vs Agatha/Rebecca
 https://dai.fancode.com/primary/95586_english_hls_5659adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Hughes/Cheng vs Stam/Schoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95585" group-title="Volleyball Womens Beach Pro Tour",Hughes/Cheng vs Stam/Schoon
