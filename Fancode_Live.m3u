@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="New England Revolution vs Alajuelense" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95949" group-title="CONCACAF Champions Cup",New England Revolution vs Alajuelense
-https://dai.google.com/linear/hls/event/VbEARuYrTpyqJoCrnFiaHw/master.m3u8
+#EXTINF:-1 tvg-name="Kuala Lumpur Cricket Club vs MR KB Putrajaya CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95705" group-title="Grand Rumble T10 Championship Season 2",Kuala Lumpur Cricket Club vs MR KB Putrajaya CC
+https://dai.google.com/linear/hls/event/pkT1cr73SoKYUV0yniGccA/master.m3u8
+#EXTINF:-1 tvg-name="Bahrain vs Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95600" group-title="Malaysia Open T20I Championship, 2024",Bahrain vs Malaysia
+https://dai.google.com/linear/hls/event/jVK2l8R5RO6J33xLNm9yBA/master.m3u8
+#EXTINF:-1 tvg-name="Houston Dynamo FC vs Columbus Crew" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95950" group-title="CONCACAF Champions Cup",Houston Dynamo FC vs Columbus Crew
+https://dai.google.com/linear/hls/event/UAnwAZ58T3q0oqLqE8h_Yw/master.m3u8
 #EXTINF:-1 tvg-name="Brazil Women vs Mexico Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94058" group-title="CONCACAF Womens Gold Cup",Brazil Women vs Mexico Women
 https://dai.google.com/linear/hls/event/kvO_I9PxSyWZQubiImuObA/master.m3u8
