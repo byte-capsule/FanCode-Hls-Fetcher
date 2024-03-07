@@ -1,9 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Malaysia vs Bahrain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95600" group-title="Malaysia Open T20I Championship, 2024",Malaysia vs Bahrain
 https://dai.google.com/linear/hls/event/jVK2l8R5RO6J33xLNm9yBA/master.m3u8
-#EXTINF:-1 tvg-name="Kuala Lumpur Cricket Club vs MR KB Putrajaya CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95705" group-title="Grand Rumble T10 Championship Season 2",Kuala Lumpur Cricket Club vs MR KB Putrajaya CC
-https://dai.google.com/linear/hls/event/pkT1cr73SoKYUV0yniGccA/master.m3u8
+#EXTINF:-1 tvg-name="KL Zalmi vs Royal Strikers CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95706" group-title="Grand Rumble T10 Championship Season 2",KL Zalmi vs Royal Strikers CC
+https://dai.google.com/linear/hls/event/2iRXV8VoSTSaEMWTnUXFbg/master.m3u8
 #EXTINF:-1 tvg-name="Gauhati Town Club Women vs New Star Club Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95546" group-title="Guwahati Women's League 2024",Gauhati Town Club Women vs New Star Club Women
 https://dai.google.com/linear/hls/event/0bpED3bRT6quOVjvUkS72A/master.m3u8
-#EXTINF:-1 tvg-name="Houston Dynamo FC vs Columbus Crew" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95950" group-title="CONCACAF Champions Cup",Houston Dynamo FC vs Columbus Crew
-https://dai.google.com/linear/hls/event/UAnwAZ58T3q0oqLqE8h_Yw/master.m3u8
+#EXTINF:-1 tvg-name="Guadalajara vs América" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95951" group-title="CONCACAF Champions Cup",Guadalajara vs América
+https://dai.google.com/linear/hls/event/ONjuUa6DSGyPTZ85TgWG_w/master.m3u8
+#EXTINF:-1 tvg-name="Canada Women vs USA Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94059" group-title="CONCACAF Womens Gold Cup",Canada Women vs USA Women
+https://dai.google.com/linear/hls/event/vjpLtvJ-SCOR0SEqaBExBg/master.m3u8

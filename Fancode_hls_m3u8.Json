@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 4,
-  "updated_on": "07-03-2024 on 09:03:14 AM \ud83c\udf1e",
+  "channels_amount": 5,
+  "updated_on": "07-03-2024 on 09:21:17 AM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -18,13 +18,13 @@
     {
       "event_catagory": "cricket",
       "event_name": "Grand Rumble T10 Championship Season 2",
-      "match_id": 95705,
-      "match_name": "Kuala Lumpur Cricket Club vs MR KB Putrajaya CC",
-      "team_1": "Kuala Lumpur Cricket Club",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KLC@2x.png",
-      "team_2": "MR KB Putrajaya CC",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PUTR@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/pkT1cr73SoKYUV0yniGccA/master.m3u8"
+      "match_id": 95706,
+      "match_name": "KL Zalmi vs Royal Strikers CC",
+      "team_1": "KL Zalmi",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KLZM@2x.png",
+      "team_2": "Royal Strikers CC",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSTK@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/2iRXV8VoSTSaEMWTnUXFbg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -40,13 +40,24 @@
     {
       "event_catagory": "football",
       "event_name": "CONCACAF Champions Cup",
-      "match_id": 95950,
-      "match_name": "Houston Dynamo FC vs Columbus Crew",
-      "team_1": "Houston Dynamo FC",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-HD@2x.png",
-      "team_2": "Columbus Crew",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CCR@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/UAnwAZ58T3q0oqLqE8h_Yw/master.m3u8"
+      "match_id": 95951,
+      "match_name": "Guadalajara vs Am\u00e9rica",
+      "team_1": "Guadalajara",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GUD@2x.png",
+      "team_2": "Am\u00e9rica",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AME@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/ONjuUa6DSGyPTZ85TgWG_w/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "CONCACAF Womens Gold Cup",
+      "match_id": 94059,
+      "match_name": "Canada Women vs USA Women",
+      "team_1": "Canada Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CAN@2x.png",
+      "team_2": "USA Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-USA@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/vjpLtvJ-SCOR0SEqaBExBg/master.m3u8"
     }
   ]
 }
