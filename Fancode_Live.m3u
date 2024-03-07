@@ -1,15 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Durham vs Mid West Rhinos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95877" group-title="Zimbabwe Domestic T20, 2024",Durham vs Mid West Rhinos
-https://dai.google.com/linear/hls/event/AH1RHoq0SGm3dflCdWgzdw/master.m3u8
-#EXTINF:-1 tvg-name="Dubai Dare Devils vs Top Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95897" group-title="ICC Academy Ramadan T20",Dubai Dare Devils vs Top Stars
-https://dai.google.com/linear/hls/event/UyHL3xFtQ9eSrrJSmr-02g/master.m3u8
-#EXTINF:-1 tvg-name="Afghanistan vs Ireland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93917" group-title="Ireland tour of Afghanistan, 2024",Afghanistan vs Ireland
-https://dai.google.com/linear/hls/event/TC_z-y-ZSpCtVdBkiWqQvQ/master.m3u8
 #EXTINF:-1 tvg-name="PFL Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95315" group-title="Professional Fighters League",PFL Europe
 https://dai.google.com/linear/hls/event/fS706gWGQJ6BgHgmZEpmyA/master.m3u8
-#EXTINF:-1 tvg-name="Łosiak/Bryl vs Cherif/Ahmed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95311" group-title="Volleyball Mens Beach Pro Tour",Łosiak/Bryl vs Cherif/Ahmed
-https://mls3.fancode.com/810f49f2-1d03-4c8d-9375-3b06e4a8a12a/master.m3u8
-#EXTINF:-1 tvg-name="Åhman/Hellvig vs Rossi/ Lupo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95314" group-title="Volleyball Mens Beach Pro Tour",Åhman/Hellvig vs Rossi/ Lupo
-https://dai.fancode.com/primary/95314_english_hls_6489adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Ehlers/Wickler vs Evandro/Arthur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95313" group-title="Volleyball Mens Beach Pro Tour",Ehlers/Wickler vs Evandro/Arthur
-https://dai.fancode.com/primary/95313_english_hls_9802adfreeta-di/index.m3u8
