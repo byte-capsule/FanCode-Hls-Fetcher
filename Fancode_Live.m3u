@@ -1,16 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Dreux vs Paris Université Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95008" group-title="European Cricket League, 2024",Dreux vs Paris Université Club
 https://dai.google.com/linear/hls/event/eVLbZIWfQlaMY48TzaKVow/master.m3u8
-#EXTINF:-1 tvg-name="Royal Strikers CC vs Global Stars CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95708" group-title="Grand Rumble T10 Championship Season 2",Royal Strikers CC vs Global Stars CC
-https://dai.google.com/linear/hls/event/OmfspKUaSEG5EvZcuRIL1Q/master.m3u8
 #EXTINF:-1 tvg-name="Koshi Province vs Madhesh Province" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96036" group-title="National T20 Championship, 2024",Koshi Province vs Madhesh Province
 https://dai.google.com/linear/hls/event/VT7y8-BATgGteKDeUfyrpg/master.m3u8
 #EXTINF:-1 tvg-name="Scotland vs Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94700" group-title="ICC CWC League 2, 2023-27",Scotland vs Canada
 https://dai.google.com/linear/hls/event/k9xjI9tpRAK1lUKf-xDM5g/master.m3u8
-#EXTINF:-1 tvg-name="Namibia Women vs South Africa Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95980" group-title="African Games Ghana 2024 Women",Namibia Women vs South Africa Women
-https://dai.google.com/linear/hls/event/vWZJ-LdcRNGKyZVnrsmc-g/master.m3u8
 #EXTINF:-1 tvg-name="Tanzania Women vs Nigeria Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95981" group-title="African Games Ghana 2024 Women",Tanzania Women vs Nigeria Women
 https://dai.google.com/linear/hls/event/L4UqiEZbTjSe_mjCNBmWrg/master.m3u8
+#EXTINF:-1 tvg-name="Namibia Women vs South Africa Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95980" group-title="African Games Ghana 2024 Women",Namibia Women vs South Africa Women
+https://dai.google.com/linear/hls/event/vWZJ-LdcRNGKyZVnrsmc-g/master.m3u8
 #EXTINF:-1 tvg-name="Free Practice" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95325" group-title="F2 SAUDI ARABIAN GRAND PRIX 2024",Free Practice
 https://dai.fancode.com/primary/95325_english_hls_5925adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Melissa/Brandie vs Tina/Anastasija" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95588" group-title="Volleyball Womens Beach Pro Tour",Melissa/Brandie vs Tina/Anastasija
