@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Tanzania Women vs South Africa Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95984" group-title="African Games Ghana 2024 Women",Tanzania Women vs South Africa Women
+https://dai.google.com/linear/hls/event/Ld2FTcMGTgaSes7mYN-Fdg/master.m3u8
 #EXTINF:-1 tvg-name="KL Zalmi vs Global Stars CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95712" group-title="Grand Rumble T10 Championship Season 2",KL Zalmi vs Global Stars CC
 https://dai.google.com/linear/hls/event/rchBaihEQ-iy_BP5Lwiwvw/master.m3u8
 #EXTINF:-1 tvg-name="New Star Club Women vs NFRSA Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95549" group-title="Guwahati Women's League 2024",New Star Club Women vs NFRSA Women
