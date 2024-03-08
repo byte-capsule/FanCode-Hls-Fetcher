@@ -11,5 +11,9 @@ https://dai.google.com/linear/hls/event/Ld2FTcMGTgaSes7mYN-Fdg/master.m3u8
 https://dai.google.com/linear/hls/event/lgXu7drNQeaNnnTpAhTBQQ/master.m3u8
 #EXTINF:-1 tvg-name="Tribhuwan Army Club vs Karnali Province" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96038" group-title="National T20 Championship, 2024",Tribhuwan Army Club vs Karnali Province
 https://dai.google.com/linear/hls/event/wo8Wo-_STFOPDbXMre25qA/master.m3u8
-#EXTINF:-1 tvg-name="Western Sydney Wanderers vs Western United" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94067" group-title="A League Men 2023-24",Western Sydney Wanderers vs Western United
-https://dai.fancode.com/primary/94067_english_hls_6100adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Beed District vs Mumbai Shahar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96071" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Beed District vs Mumbai Shahar
+https://dai.google.com/linear/hls/event/6qcYWlzCTyuxxCh6gqGQTQ/master.m3u8
+#EXTINF:-1 tvg-name="Brouwer/Meeuwsen vs Ehlers/Wickler" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96527" group-title="Volleyball Mens Beach Pro Tour",Brouwer/Meeuwsen vs Ehlers/Wickler
+https://dai.fancode.com/primary/96527_english_hls_6452adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Crabb Tr./Brunner vs van de Velde/Immers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96526" group-title="Volleyball Mens Beach Pro Tour",Crabb Tr./Brunner vs van de Velde/Immers
+https://dai.fancode.com/primary/96526_english_hls_28adfreeta-di/index.m3u8
