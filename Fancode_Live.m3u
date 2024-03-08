@@ -13,9 +13,19 @@ https://dai.google.com/linear/hls/event/YqwSfMwUSCiz-6SK1Ih2Mg/master.m3u8
 https://dai.google.com/linear/hls/event/f6Kn0E1LS_e2DiGgUwDFdg/master.m3u8
 #EXTINF:-1 tvg-name="Guyana Women vs Barbados Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95674" group-title="CG United Women's Super50 Cup, 2024",Guyana Women vs Barbados Women
 https://dai.google.com/linear/hls/event/IeQsaHfVTjO_ARkP2MivBg/master.m3u8
+#EXTINF:-1 tvg-name="Titans vs North West Dragons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95764" group-title="CSA T20 Challenge, 2024",Titans vs North West Dragons
+https://dai.google.com/linear/hls/event/sCafQeM-T3efmVmRxHwmzg/master.m3u8
+#EXTINF:-1 tvg-name="DP World Lions vs Rocks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95763" group-title="CSA T20 Challenge, 2024",DP World Lions vs Rocks
+https://dai.google.com/linear/hls/event/xd2AyKwQRhS1g1is01uEdA/master.m3u8
+#EXTINF:-1 tvg-name="Western Province vs Dolphins" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95762" group-title="CSA T20 Challenge, 2024",Western Province vs Dolphins
+https://dai.google.com/linear/hls/event/NwzuWX5LT2qgedSnXAnnVw/master.m3u8
+#EXTINF:-1 tvg-name="Warriors vs AET Tuskers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95761" group-title="CSA T20 Challenge, 2024",Warriors vs AET Tuskers
+https://dai.google.com/linear/hls/event/Dy77alF2TkiekPfXgelM2Q/master.m3u8
 #EXTINF:-1 tvg-name="Sprint Race" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95327" group-title="F2 SAUDI ARABIAN GRAND PRIX 2024",Sprint Race
 https://fancodelive-c.akamaized.net/hls/live/2040703/95327_english_hls_6212adfreeta-no/master.m3u8
+#EXTINF:-1 tvg-name="Ehlers/Wickler vs Cottafava/Nicolai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96531" group-title="Volleyball Mens Beach Pro Tour",Ehlers/Wickler vs Cottafava/Nicolai
+https://dai.fancode.com/primary/96531_english_hls_4316adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Åhman/Hellvig vs van de Velde/Immers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96530" group-title="Volleyball Mens Beach Pro Tour",Åhman/Hellvig vs van de Velde/Immers
+https://dai.fancode.com/primary/96530_english_hls_9450adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Ludwig/Lippmann vs Carol/Barbara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96525" group-title="Volleyball Womens Beach Pro Tour",Ludwig/Lippmann vs Carol/Barbara
 https://dai.fancode.com/primary/96525_english_hls_9919adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Hughes/Cheng vs Brunner/Hüberli" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96524" group-title="Volleyball Womens Beach Pro Tour",Hughes/Cheng vs Brunner/Hüberli
-https://dai.fancode.com/primary/96524_english_hls_3756adfreeta-no/index.m3u8
