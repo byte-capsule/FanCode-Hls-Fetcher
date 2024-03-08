@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Ljubljana vs Empire CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95013" group-title="European Cricket League, 2024",Ljubljana vs Empire CC
 https://dai.google.com/linear/hls/event/aoRZEDdeSjGEf1hHytrMoQ/master.m3u8
+#EXTINF:-1 tvg-name="Matabeleland Tuskers vs Durham" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95880" group-title="Zimbabwe Domestic T20, 2024",Matabeleland Tuskers vs Durham
+https://dai.google.com/linear/hls/event/nE33YIiRRGuqo-ROmLFPtw/master.m3u8
 #EXTINF:-1 tvg-name="Seven Districts Juniors vs Z Games Strikers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95898" group-title="ICC Academy Ramadan T20",Seven Districts Juniors vs Z Games Strikers
 https://dai.google.com/linear/hls/event/rzvHxBk5R4uYJqpTBaPAKA/master.m3u8
 #EXTINF:-1 tvg-name="Nigeria Women vs Namibia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95985" group-title="African Games Ghana 2024 Women",Nigeria Women vs Namibia Women
 https://dai.google.com/linear/hls/event/bLheilpnRIKOR8xytw0WxQ/master.m3u8
-#EXTINF:-1 tvg-name="Tanzania Women vs South Africa Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95984" group-title="African Games Ghana 2024 Women",Tanzania Women vs South Africa Women
-https://dai.google.com/linear/hls/event/Ld2FTcMGTgaSes7mYN-Fdg/master.m3u8
 #EXTINF:-1 tvg-name="Sai SIA Cricket Club vs Munde Sports Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96183" group-title="Maharashtra Champions League T20, 2024",Sai SIA Cricket Club vs Munde Sports Club
 https://dai.google.com/linear/hls/event/lgXu7drNQeaNnnTpAhTBQQ/master.m3u8
 #EXTINF:-1 tvg-name="Tribhuwan Army Club vs Karnali Province" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96038" group-title="National T20 Championship, 2024",Tribhuwan Army Club vs Karnali Province
