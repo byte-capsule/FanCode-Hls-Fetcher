@@ -7,12 +7,6 @@ https://dai.google.com/linear/hls/event/kU_TRmVZSXiOIy-YTLll6w/master.m3u8
 https://dai.google.com/linear/hls/event/H8d0IjxzSQ2sWZUkbtZ4mg/master.m3u8
 #EXTINF:-1 tvg-name="Rwanda Women vs Kenya Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95987" group-title="African Games Ghana 2024 Women",Rwanda Women vs Kenya Women
 https://dai.google.com/linear/hls/event/kCd1WF7WSzSJPtYPKN3VqA/master.m3u8
-#EXTINF:-1 tvg-name="Uganda Women vs Zimbabwe Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95986" group-title="African Games Ghana 2024 Women",Uganda Women vs Zimbabwe Women
-https://dai.google.com/linear/hls/event/ElRrrVDTR_ufN35NQx_ByQ/master.m3u8
-#EXTINF:-1 tvg-name="Peshawar Zalmi vs Quetta Gladiators" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93862" group-title="PSL, 2024",Peshawar Zalmi vs Quetta Gladiators
-https://dai.google.com/linear/hls/event/f6Kn0E1LS_e2DiGgUwDFdg/master.m3u8
-#EXTINF:-1 tvg-name="Guyana Women vs Barbados Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95674" group-title="CG United Women's Super50 Cup, 2024",Guyana Women vs Barbados Women
-https://dai.google.com/linear/hls/event/IeQsaHfVTjO_ARkP2MivBg/master.m3u8
 #EXTINF:-1 tvg-name="Titans vs North West Dragons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95764" group-title="CSA T20 Challenge, 2024",Titans vs North West Dragons
 https://dai.google.com/linear/hls/event/sCafQeM-T3efmVmRxHwmzg/master.m3u8
 #EXTINF:-1 tvg-name="DP World Lions vs Rocks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95763" group-title="CSA T20 Challenge, 2024",DP World Lions vs Rocks
@@ -21,6 +15,12 @@ https://dai.google.com/linear/hls/event/xd2AyKwQRhS1g1is01uEdA/master.m3u8
 https://dai.google.com/linear/hls/event/NwzuWX5LT2qgedSnXAnnVw/master.m3u8
 #EXTINF:-1 tvg-name="Warriors vs AET Tuskers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95761" group-title="CSA T20 Challenge, 2024",Warriors vs AET Tuskers
 https://dai.google.com/linear/hls/event/Dy77alF2TkiekPfXgelM2Q/master.m3u8
+#EXTINF:-1 tvg-name="Peshawar Zalmi vs Quetta Gladiators" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93862" group-title="PSL, 2024",Peshawar Zalmi vs Quetta Gladiators
+https://dai.google.com/linear/hls/event/f6Kn0E1LS_e2DiGgUwDFdg/master.m3u8
+#EXTINF:-1 tvg-name="Guyana Women vs Barbados Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95674" group-title="CG United Women's Super50 Cup, 2024",Guyana Women vs Barbados Women
+https://dai.google.com/linear/hls/event/IeQsaHfVTjO_ARkP2MivBg/master.m3u8
+#EXTINF:-1 tvg-name="Qualifying" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95114" group-title="F1 STC SAUDI ARABIAN GRAND PRIX 2024",Qualifying
+https://fancodelive-c.akamaized.net/hls/live/2040703/95114_english_hls_7362adfreeta-di/master.m3u8
 #EXTINF:-1 tvg-name="Ehlers/Wickler vs Cottafava/Nicolai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96531" group-title="Volleyball Mens Beach Pro Tour",Ehlers/Wickler vs Cottafava/Nicolai
 https://dai.fancode.com/primary/96531_english_hls_4316adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Åhman/Hellvig vs van de Velde/Immers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96530" group-title="Volleyball Mens Beach Pro Tour",Åhman/Hellvig vs van de Velde/Immers
