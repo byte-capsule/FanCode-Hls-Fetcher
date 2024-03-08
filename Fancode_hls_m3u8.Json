@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 15,
-  "updated_on": "08-03-2024 on 10:06:48 PM \ud83c\udf19",
+  "channels_amount": 13,
+  "updated_on": "08-03-2024 on 10:27:04 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -14,6 +14,17 @@
       "team_2": "Empire CC",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ECC-CR1@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/Io-VfgjhSQWyelY5tIOTZg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Zimbabwe Domestic T20, 2024",
+      "match_id": 95882,
+      "match_name": "Mashonaland Eagles vs Southern Rocks",
+      "team_1": "Mashonaland Eagles",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MEE@2x.png",
+      "team_2": "Southern Rocks",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SROC@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/kU_TRmVZSXiOIy-YTLll6w/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -47,17 +58,6 @@
       "team_2": "Zimbabwe Women",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/ElRrrVDTR_ufN35NQx_ByQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "KCC T20 Challengers Cup, 2024",
-      "match_id": 92132,
-      "match_name": "GAT vs Al Mulla Exchange - B",
-      "team_1": "GAT",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GAT@2x.png",
-      "team_2": "Al Mulla Exchange - B",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR4@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/YqwSfMwUSCiz-6SK1Ih2Mg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -126,17 +126,6 @@
       "stream_link": "https://dai.google.com/linear/hls/event/Dy77alF2TkiekPfXgelM2Q/master.m3u8"
     },
     {
-      "event_catagory": "racing",
-      "event_name": "F2 SAUDI ARABIAN GRAND PRIX 2024",
-      "match_id": 95327,
-      "match_name": "Sprint Race",
-      "team_1": "Sprint Race",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR2@2x.png",
-      "team_2": "Saudi Arabia",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-      "stream_link": "https://fancodelive-c.akamaized.net/hls/live/2040703/95327_english_hls_6212adfreeta-no/master.m3u8"
-    },
-    {
       "event_catagory": "volleyball",
       "event_name": "Volleyball Mens Beach Pro Tour",
       "match_id": 96531,
@@ -157,17 +146,6 @@
       "team_2": "van de Velde/Immers",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-NTH@2x.png",
       "stream_link": "https://dai.fancode.com/primary/96530_english_hls_9450adfreeta-no/index.m3u8"
-    },
-    {
-      "event_catagory": "volleyball",
-      "event_name": "Volleyball Womens Beach Pro Tour",
-      "match_id": 96525,
-      "match_name": "Ludwig/Lippmann vs Carol/Barbara",
-      "team_1": "Ludwig/Lippmann",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-GRM@2x.png",
-      "team_2": "Carol/Barbara",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-BRZ@2x.png",
-      "stream_link": "https://dai.fancode.com/primary/96525_english_hls_9919adfreeta-di/index.m3u8"
     }
   ]
 }
