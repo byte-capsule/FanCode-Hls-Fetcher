@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Stylop Golden Eagles vs Global Stars CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95709" group-title="Grand Rumble T10 Championship Season 2",Stylop Golden Eagles vs Global Stars CC
+https://dai.google.com/linear/hls/event/4NLcOxXXRwaHD75noe-fJw/master.m3u8
 #EXTINF:-1 tvg-name="FC Cincinnati vs Monterrey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95952" group-title="CONCACAF Champions Cup",FC Cincinnati vs Monterrey
 https://dai.google.com/linear/hls/event/B2agWxP3Ru64QnEDCl0vag/master.m3u8
 #EXTINF:-1 tvg-name="Łosiak/Bryl vs Cherif/Ahmed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95311" group-title="Volleyball Mens Beach Pro Tour",Łosiak/Bryl vs Cherif/Ahmed
