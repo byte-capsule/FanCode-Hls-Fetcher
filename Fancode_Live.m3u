@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Paris Université Club vs Dreux" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95014" group-title="European Cricket League, 2024",Paris Université Club vs Dreux
+https://dai.google.com/linear/hls/event/z1euzF8dSrKEgsakFDLz6g/master.m3u8
 #EXTINF:-1 tvg-name="Matabeleland Tuskers vs Durham" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95880" group-title="Zimbabwe Domestic T20, 2024",Matabeleland Tuskers vs Durham
 https://dai.google.com/linear/hls/event/nE33YIiRRGuqo-ROmLFPtw/master.m3u8
 #EXTINF:-1 tvg-name="Seven Districts Juniors vs Z Games Strikers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95898" group-title="ICC Academy Ramadan T20",Seven Districts Juniors vs Z Games Strikers
@@ -7,9 +9,9 @@ https://dai.google.com/linear/hls/event/rzvHxBk5R4uYJqpTBaPAKA/master.m3u8
 https://dai.google.com/linear/hls/event/bLheilpnRIKOR8xytw0WxQ/master.m3u8
 #EXTINF:-1 tvg-name="Sai SIA Cricket Club vs Munde Sports Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96183" group-title="Maharashtra Champions League T20, 2024",Sai SIA Cricket Club vs Munde Sports Club
 https://dai.google.com/linear/hls/event/lgXu7drNQeaNnnTpAhTBQQ/master.m3u8
-#EXTINF:-1 tvg-name="Beed District vs Mumbai Shahar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96071" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Beed District vs Mumbai Shahar
-https://dai.google.com/linear/hls/event/6qcYWlzCTyuxxCh6gqGQTQ/master.m3u8
-#EXTINF:-1 tvg-name="Brouwer/Meeuwsen vs Ehlers/Wickler" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96527" group-title="Volleyball Mens Beach Pro Tour",Brouwer/Meeuwsen vs Ehlers/Wickler
-https://dai.fancode.com/primary/96527_english_hls_6452adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Crabb Tr./Brunner vs van de Velde/Immers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96526" group-title="Volleyball Mens Beach Pro Tour",Crabb Tr./Brunner vs van de Velde/Immers
-https://dai.fancode.com/primary/96526_english_hls_28adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="First Race" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96333" group-title="F1 ACADEMY SAUDI ARABIAN GRAND PRIX 2024",First Race
+https://dai.fancode.com/primary/96333_english_hls_5949adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Mol, A./Sørum, C. vs Łosiak/Bryl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96529" group-title="Volleyball Mens Beach Pro Tour",Mol, A./Sørum, C. vs Łosiak/Bryl
+https://dai.fancode.com/primary/96529_english_hls_481adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Cherif/Ahmed vs Evandro/Arthur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96528" group-title="Volleyball Mens Beach Pro Tour",Cherif/Ahmed vs Evandro/Arthur
+https://dai.fancode.com/primary/96528_english_hls_4402adfreeta-no/index.m3u8
