@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="KL Stars vs SSF Panthers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95711" group-title="Grand Rumble T10 Championship Season 2",KL Stars vs SSF Panthers
+https://dai.google.com/linear/hls/event/mOzkNU1yTzywVyulvormbQ/master.m3u8
 #EXTINF:-1 tvg-name="Sudur Pashchim Province vs Nepal Police Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96037" group-title="National T20 Championship, 2024",Sudur Pashchim Province vs Nepal Police Club
 https://dai.google.com/linear/hls/event/p11Bx-ukQGiDLkzEnhxD6g/master.m3u8
 #EXTINF:-1 tvg-name="Maharashtra Mahagenco vs Samarth Ambarnath Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96182" group-title="Maharashtra Champions League T20, 2024",Maharashtra Mahagenco vs Samarth Ambarnath Cricket Club
