@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="KL Stars vs Royal Strikers CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95715" group-title="Grand Rumble T10 Championship Season 2",KL Stars vs Royal Strikers CC
 https://dai.google.com/linear/hls/event/Adv4oxD2TRuE-5RpIzfW6Q/master.m3u8
+#EXTINF:-1 tvg-name="Bahrain vs Tanzania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95603" group-title="Malaysia Open T20I Championship, 2024",Bahrain vs Tanzania
+https://dai.google.com/linear/hls/event/VzGW47OuQ6yT_j5DvDsHUA/master.m3u8
 #EXTINF:-1 tvg-name="Karnali Province vs Nepal A.P.F. Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96039" group-title="National T20 Championship, 2024",Karnali Province vs Nepal A.P.F. Club
 https://dai.google.com/linear/hls/event/Q5JIIGx0Rpqyf2abqbyFKA/master.m3u8
 #EXTINF:-1 tvg-name="Maharashtra Mahagenco vs Munde Sports Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96184" group-title="Maharashtra Champions League T20, 2024",Maharashtra Mahagenco vs Munde Sports Club
@@ -11,5 +13,3 @@ https://dai.google.com/linear/hls/event/wxOBiPRhTdSxT_NSZu6x7w/master.m3u8
 https://dai.google.com/linear/hls/event/wgB673iBTeKoB9kfKRGN5w/master.m3u8
 #EXTINF:-1 tvg-name="LIV Golf Hong Kong" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94665" group-title="LIV Golf Hong Kong",LIV Golf Hong Kong
 https://dai.google.com/linear/hls/event/rUDw5eUaQne755aYMcxi6Q/master.m3u8
-#EXTINF:-1 tvg-name="Dhule District vs Ahmednagar District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96072" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Dhule District vs Ahmednagar District
-https://dai.google.com/linear/hls/event/EZBnTzZxQqq2qPnHih9RKA/master.m3u8
