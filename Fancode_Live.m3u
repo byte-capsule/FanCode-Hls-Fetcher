@@ -5,10 +5,12 @@ https://dai.google.com/linear/hls/event/qcfmYjfjTgCBQf7Gq4bfTQ/master.m3u8
 https://dai.google.com/linear/hls/event/kZVIMYQISCig8bvDtWRcxA/master.m3u8
 #EXTINF:-1 tvg-name="Garden Route Badgers vs Knights" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95740" group-title="CSA Provincial T20 Cup, 2024",Garden Route Badgers vs Knights
 https://dai.google.com/linear/hls/event/95Gza2RWRZCItKJ3ALhkSw/master.m3u8
+#EXTINF:-1 tvg-name="Lahore Qalandars vs Karachi Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93863" group-title="PSL, 2024",Lahore Qalandars vs Karachi Kings
+https://dai.google.com/linear/hls/event/6vN7SXTYRNel0Nfkf2CGYg/master.m3u8
 #EXTINF:-1 tvg-name="Cardiff City vs Ipswich Town" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94683" group-title="EFL Championship 2023-24",Cardiff City vs Ipswich Town
 https://dai.fancode.com/primary/94683_english_hls_5367adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Shandong Taishan vs Beijing Guoan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95103" group-title="Chinese Super League 2024",Shandong Taishan vs Beijing Guoan
-https://dai.google.com/linear/hls/event/lHKbPuHuTVCTMDkC3sUceA/master.m3u8
+#EXTINF:-1 tvg-name="Mohammedan SC vs Namdhari" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93594" group-title="I League 2023-24",Mohammedan SC vs Namdhari
+https://dai.google.com/linear/hls/event/wKMSPv9uSUCDDl2KfcvRXg/master.m3u8
 #EXTINF:-1 tvg-name="Feature Race" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95328" group-title="F2 SAUDI ARABIAN GRAND PRIX 2024",Feature Race
 https://dai.fancode.com/primary/95328_english_hls_5331adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="LIV Golf Hong Kong" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94665" group-title="LIV Golf Hong Kong",LIV Golf Hong Kong
