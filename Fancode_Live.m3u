@@ -1,17 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Mountaineers vs Mid West Rhinos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95890" group-title="Zimbabwe Domestic T20, 2024",Mountaineers vs Mid West Rhinos
-https://dai.google.com/linear/hls/event/qcfmYjfjTgCBQf7Gq4bfTQ/master.m3u8
 #EXTINF:-1 tvg-name="V.O.C. Rotterdam vs Stari Grad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95019" group-title="European Cricket League, 2024",V.O.C. Rotterdam vs Stari Grad
 https://dai.google.com/linear/hls/event/G-CLdJxMTjGVooFZVNj5NQ/master.m3u8
 #EXTINF:-1 tvg-name="Lahore Qalandars vs Karachi Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93863" group-title="PSL, 2024",Lahore Qalandars vs Karachi Kings
 https://dai.google.com/linear/hls/event/6vN7SXTYRNel0Nfkf2CGYg/master.m3u8
-#EXTINF:-1 tvg-name="Easterns vs Border" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95741" group-title="CSA Provincial T20 Cup, 2024",Easterns vs Border
-https://dai.google.com/linear/hls/event/kZVIMYQISCig8bvDtWRcxA/master.m3u8
-#EXTINF:-1 tvg-name="Garden Route Badgers vs Knights" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95740" group-title="CSA Provincial T20 Cup, 2024",Garden Route Badgers vs Knights
-https://dai.google.com/linear/hls/event/95Gza2RWRZCItKJ3ALhkSw/master.m3u8
 #EXTINF:-1 tvg-name="Mohammedan SC vs Namdhari" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93594" group-title="I League 2023-24",Mohammedan SC vs Namdhari
 https://dai.google.com/linear/hls/event/wKMSPv9uSUCDDl2KfcvRXg/master.m3u8
-#EXTINF:-1 tvg-name="Feature Race" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95328" group-title="F2 SAUDI ARABIAN GRAND PRIX 2024",Feature Race
-https://dai.fancode.com/primary/95328_english_hls_5331adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Tina/Anastasija vs Hughes/Cheng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96587" group-title="Volleyball Womens Beach Pro Tour",Tina/Anastasija vs Hughes/Cheng
-https://dai.fancode.com/primary/96587_english_hls_8704adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Race" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95115" group-title="F1 STC SAUDI ARABIAN GRAND PRIX 2024",Race
+https://fancodelive-c.akamaized.net/hls/live/2040703/95115_english_hls_5054adfree/master.m3u8
+#EXTINF:-1 tvg-name="Ehlers/Wickler vs Mol, A./Sørum, C." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96591" group-title="Volleyball Mens Beach Pro Tour",Ehlers/Wickler vs Mol, A./Sørum, C.
+https://dai.fancode.com/primary/96591_english_hls_9088adfreeta-di/index.m3u8
