@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Matabeleland Tuskers vs Southern Rocks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95889" group-title="Zimbabwe Domestic T20, 2024",Matabeleland Tuskers vs Southern Rocks
+https://dai.google.com/linear/hls/event/PABr7WlUSKW7Alv1wdi0oQ/master.m3u8
 #EXTINF:-1 tvg-name="KL Stars vs Royal Strikers CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95715" group-title="Grand Rumble T10 Championship Season 2",KL Stars vs Royal Strikers CC
 https://dai.google.com/linear/hls/event/Adv4oxD2TRuE-5RpIzfW6Q/master.m3u8
 #EXTINF:-1 tvg-name="Bahrain vs Tanzania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95603" group-title="Malaysia Open T20I Championship, 2024",Bahrain vs Tanzania
@@ -9,9 +11,11 @@ https://dai.google.com/linear/hls/event/YgPfb0gMRce-kqVemp9gGA/master.m3u8
 https://dai.google.com/linear/hls/event/Q5JIIGx0Rpqyf2abqbyFKA/master.m3u8
 #EXTINF:-1 tvg-name="Hong Kong, China vs Nepal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96139" group-title="HK Friendship Cup",Hong Kong, China vs Nepal
 https://dai.google.com/linear/hls/event/wgB673iBTeKoB9kfKRGN5w/master.m3u8
+#EXTINF:-1 tvg-name="Kawasaki Frontale vs Kyoto Sanga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93914" group-title="J League 2024",Kawasaki Frontale vs Kyoto Sanga
+https://dai.google.com/linear/hls/event/3KWJZVq5Qae4lUXC0VJwNg/master.m3u8
+#EXTINF:-1 tvg-name="FC Tokyo vs Vissel Kobe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93913" group-title="J League 2024",FC Tokyo vs Vissel Kobe
+https://dai.google.com/linear/hls/event/i5aU0OlHQ6W-oXA3aPEvTA/master.m3u8
 #EXTINF:-1 tvg-name="LIV Golf Hong Kong" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94665" group-title="LIV Golf Hong Kong",LIV Golf Hong Kong
 https://dai.google.com/linear/hls/event/rUDw5eUaQne755aYMcxi6Q/master.m3u8
-#EXTINF:-1 tvg-name="Mumbai Shahar vs Ratnagiri District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96073" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Mumbai Shahar vs Ratnagiri District
-https://dai.google.com/linear/hls/event/_Y9xK4hMSUylKqWJWNwzOQ/master.m3u8
 #EXTINF:-1 tvg-name="Melissa/Brandie vs Tina/Anastasija" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96585" group-title="Volleyball Womens Beach Pro Tour",Melissa/Brandie vs Tina/Anastasija
 https://dai.fancode.com/primary/96585_english_hls_8172adfreeta-no/index.m3u8
