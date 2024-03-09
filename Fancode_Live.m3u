@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Kuwait vs Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95602" group-title="Malaysia Open T20I Championship, 2024",Kuwait vs Malaysia
 https://dai.google.com/linear/hls/event/zQXN22fPRJ-PyeOWEoaQig/master.m3u8
-#EXTINF:-1 tvg-name="Kuala Lumpur Cricket Club vs Active CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95713" group-title="Grand Rumble T10 Championship Season 2",Kuala Lumpur Cricket Club vs Active CC
-https://dai.google.com/linear/hls/event/7vDhzWXUSq-4TMVkUFPvJA/master.m3u8
+#EXTINF:-1 tvg-name="Global Stars CC vs Pak United CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95714" group-title="Grand Rumble T10 Championship Season 2",Global Stars CC vs Pak United CC
+https://dai.google.com/linear/hls/event/1gEBfMatTROWLtDylexwog/master.m3u8
+#EXTINF:-1 tvg-name="Gauhati Town Club Women vs 91 Yards Club Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95550" group-title="Guwahati Women's League 2024",Gauhati Town Club Women vs 91 Yards Club Women
+https://dai.google.com/linear/hls/event/wxOBiPRhTdSxT_NSZu6x7w/master.m3u8
