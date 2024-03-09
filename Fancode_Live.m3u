@@ -3,6 +3,8 @@
 https://dai.google.com/linear/hls/event/G-CLdJxMTjGVooFZVNj5NQ/master.m3u8
 #EXTINF:-1 tvg-name="Lahore Qalandars vs Karachi Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93863" group-title="PSL, 2024",Lahore Qalandars vs Karachi Kings
 https://dai.google.com/linear/hls/event/6vN7SXTYRNel0Nfkf2CGYg/master.m3u8
+#EXTINF:-1 tvg-name="Millwall vs Birmingham City" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94688" group-title="EFL Championship 2023-24",Millwall vs Birmingham City
+https://dai.fancode.com/primary/94688_english_hls_5352adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Mohammedan SC vs Namdhari" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93594" group-title="I League 2023-24",Mohammedan SC vs Namdhari
 https://dai.google.com/linear/hls/event/wKMSPv9uSUCDDl2KfcvRXg/master.m3u8
 #EXTINF:-1 tvg-name="Race" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95115" group-title="F1 STC SAUDI ARABIAN GRAND PRIX 2024",Race
