@@ -1,12 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Top Stars vs Karwan Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95903" group-title="ICC Academy Ramadan T20",Top Stars vs Karwan Cricket Club
-https://dai.google.com/linear/hls/event/ms7CaFfmRKChHGmWySqMMg/master.m3u8
 #EXTINF:-1 tvg-name="Dubai Thunders vs London Royals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95904" group-title="ICC Academy Ramadan T20",Dubai Thunders vs London Royals
 https://dai.google.com/linear/hls/event/upz4Jn05TOu6YEPrlERqNw/master.m3u8
 #EXTINF:-1 tvg-name="IPRC Kigali CC vs Challengers CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93062" group-title="RCA Men's T10 League",IPRC Kigali CC vs Challengers CC
 https://dai.google.com/linear/hls/event/y4KZp4WBR5S4BpSIv-A_Lw/master.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe Women vs Kenya Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95990" group-title="African Games Ghana 2024 Women",Zimbabwe Women vs Kenya Women
 https://dai.google.com/linear/hls/event/1f58iNYSTyaBYyENO6XPFg/master.m3u8
+#EXTINF:-1 tvg-name="Uganda Women vs Rwanda Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95991" group-title="African Games Ghana 2024 Women",Uganda Women vs Rwanda Women
+https://dai.google.com/linear/hls/event/JlvuLGuuRve4kHLOy3v9Dg/master.m3u8
+#EXTINF:-1 tvg-name="Lahore Qalandars vs Quetta Gladiators" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93865" group-title="PSL, 2024",Lahore Qalandars vs Quetta Gladiators
+https://dai.google.com/linear/hls/event/wwFVpgazS4uaiyRvAHqy3g/master.m3u8
 #EXTINF:-1 tvg-name="North West vs Imperial Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95768" group-title="CSA T20 Challenge, 2024",North West vs Imperial Lions
 https://dai.google.com/linear/hls/event/amvrOO2SQIO82MVN6jQyEQ/master.m3u8
 #EXTINF:-1 tvg-name="Dolphins vs Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95767" group-title="CSA T20 Challenge, 2024",Dolphins vs Warriors
@@ -21,5 +23,5 @@ https://dai.google.com/linear/hls/event/2ZmBkygsTqCMJ1-4OUjF-Q/master.m3u8
 https://dai.fancode.com/primary/94687_english_hls_4909adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Shenzhen Peng City vs Tianjin Jinmen Tiger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95104" group-title="Chinese Super League 2024",Shenzhen Peng City vs Tianjin Jinmen Tiger
 https://dai.google.com/linear/hls/event/s9Pp8aYUS6Wo8Zh5dUQuRA/master.m3u8
-#EXTINF:-1 tvg-name="Real Madrid vs Lenevo Tenerife" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94030" group-title="Liga Endesa",Real Madrid vs Lenevo Tenerife
-https://dai.google.com/linear/hls/event/iAjgLdqZQaqEyWmjAdlZCg/master.m3u8
+#EXTINF:-1 tvg-name="Gokulam Kerala FC vs Real Kashmir FC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93595" group-title="I League 2023-24",Gokulam Kerala FC vs Real Kashmir FC
+https://dai.google.com/linear/hls/event/rpRax-ZmS5u5EXGBsjH4dw/master.m3u8
