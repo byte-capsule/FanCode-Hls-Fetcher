@@ -1,12 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Pak United CC vs Royal Strikers CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95720" group-title="Grand Rumble T10 Championship Season 2",Pak United CC vs Royal Strikers CC
+https://dai.google.com/linear/hls/event/kd_V_4SKSQKPRcyGyT2X_Q/master.m3u8
 #EXTINF:-1 tvg-name="Tanzania vs Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95605" group-title="Malaysia Open T20I Championship, 2024",Tanzania vs Malaysia
 https://dai.google.com/linear/hls/event/5Mwpr9Y-SY69sls-ZHnKPg/master.m3u8
 #EXTINF:-1 tvg-name="New Star Club Women vs Gauhati Town Club Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95553" group-title="Guwahati Women's League 2024",New Star Club Women vs Gauhati Town Club Women
 https://dai.google.com/linear/hls/event/gJb83LtrQKmqEFrRyoqJVg/master.m3u8
-#EXTINF:-1 tvg-name="Gandaki Province vs Nepal Police Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96041" group-title="National T20 Championship, 2024",Gandaki Province vs Nepal Police Club
-https://dai.google.com/linear/hls/event/YPstAtAtRM-IpqwgizxUzA/master.m3u8
 #EXTINF:-1 tvg-name="Hong Kong, China vs Nepal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96140" group-title="Hong Kong, China T20I Tri-Series, 2024",Hong Kong, China vs Nepal
 https://dai.google.com/linear/hls/event/i6GBetgVSUKOVbbu_w8u3Q/master.m3u8
+#EXTINF:-1 tvg-name="Challengers CC vs Indorwa CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93060" group-title="RCA Men's T10 League",Challengers CC vs Indorwa CC
+https://dai.google.com/linear/hls/event/Qg9Jk8gvTw2UBvFZNpOB2g/master.m3u8
 #EXTINF:-1 tvg-name="Sydney FC vs Brisbane Roar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94072" group-title="A League Men 2023-24",Sydney FC vs Brisbane Roar
 https://dai.fancode.com/primary/94072_english_hls_4801adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Macarthur vs Central Coast Mariners" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94069" group-title="A League Men 2023-24",Macarthur vs Central Coast Mariners
