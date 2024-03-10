@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Dubai Thunders vs London Royals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95904" group-title="ICC Academy Ramadan T20",Dubai Thunders vs London Royals
 https://dai.google.com/linear/hls/event/upz4Jn05TOu6YEPrlERqNw/master.m3u8
+#EXTINF:-1 tvg-name="Gozo Zalmi vs Stari Grad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95024" group-title="European Cricket League, 2024",Gozo Zalmi vs Stari Grad
+https://dai.google.com/linear/hls/event/6GRM3np6Qh-aHqy2nZ0IoQ/master.m3u8
 #EXTINF:-1 tvg-name="IPRC Kigali CC vs Challengers CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93062" group-title="RCA Men's T10 League",IPRC Kigali CC vs Challengers CC
 https://dai.google.com/linear/hls/event/y4KZp4WBR5S4BpSIv-A_Lw/master.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe Women vs Kenya Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95990" group-title="African Games Ghana 2024 Women",Zimbabwe Women vs Kenya Women
