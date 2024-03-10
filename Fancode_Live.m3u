@@ -3,28 +3,20 @@
 https://dai.google.com/linear/hls/event/ms7CaFfmRKChHGmWySqMMg/master.m3u8
 #EXTINF:-1 tvg-name="Forfarshire vs V.O.C. Rotterdam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95023" group-title="European Cricket League, 2024",Forfarshire vs V.O.C. Rotterdam
 https://dai.google.com/linear/hls/event/p1AyUojgT9KMc4nkbPwB9A/master.m3u8
-#EXTINF:-1 tvg-name="Maharashtra Mahagenco vs Sai SIA Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96187" group-title="Maharashtra Champions League T20, 2024",Maharashtra Mahagenco vs Sai SIA Cricket Club
-https://dai.google.com/linear/hls/event/YZHVTx9xQUuGDO0IMnpg7Q/master.m3u8
-#EXTINF:-1 tvg-name="Right Guards CC vs IPRC Kigali CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93061" group-title="RCA Men's T10 League",Right Guards CC vs IPRC Kigali CC
-https://dai.google.com/linear/hls/event/5SAH_4f6RmeZ8pPxy56R0g/master.m3u8
-#EXTINF:-1 tvg-name="Challengers CC vs TBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93062" group-title="RCA Men's T10 League",Challengers CC vs TBC
+#EXTINF:-1 tvg-name="IPRC Kigali CC vs Challengers CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93062" group-title="RCA Men's T10 League",IPRC Kigali CC vs Challengers CC
 https://dai.google.com/linear/hls/event/y4KZp4WBR5S4BpSIv-A_Lw/master.m3u8
-#EXTINF:-1 tvg-name="Nigeria Women vs South Africa Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95989" group-title="African Games Ghana 2024 Women",Nigeria Women vs South Africa Women
-https://dai.google.com/linear/hls/event/OFn1zPsSRNStxwIHTflalg/master.m3u8
-#EXTINF:-1 tvg-name="Namibia Women vs Tanzania Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95988" group-title="African Games Ghana 2024 Women",Namibia Women vs Tanzania Women
-https://dai.google.com/linear/hls/event/-uaTtbaKSOO3kEy1cXv13A/master.m3u8
+#EXTINF:-1 tvg-name="North West vs Imperial Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95768" group-title="CSA T20 Challenge, 2024",North West vs Imperial Lions
+https://dai.google.com/linear/hls/event/amvrOO2SQIO82MVN6jQyEQ/master.m3u8
+#EXTINF:-1 tvg-name="Dolphins vs Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95767" group-title="CSA T20 Challenge, 2024",Dolphins vs Warriors
+https://dai.google.com/linear/hls/event/FR_pgJw2RLWzTI4RTA2lcQ/master.m3u8
+#EXTINF:-1 tvg-name="KwaZulu Natal Inland vs Western Province" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95766" group-title="CSA T20 Challenge, 2024",KwaZulu Natal Inland vs Western Province
+https://dai.google.com/linear/hls/event/QmpkixXLRBaiRGiPKkKLUg/master.m3u8
+#EXTINF:-1 tvg-name="Rocks vs Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95765" group-title="CSA T20 Challenge, 2024",Rocks vs Titans
+https://dai.google.com/linear/hls/event/wGicTHltQ7G6dPMeaHp6ww/master.m3u8
 #EXTINF:-1 tvg-name="Multan Sultans vs Islamabad United" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93864" group-title="PSL, 2024",Multan Sultans vs Islamabad United
 https://dai.google.com/linear/hls/event/IyhOJ9e3StabHng8uswT2Q/master.m3u8
 #EXTINF:-1 tvg-name="Limpopo vs Northern Cape" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95742" group-title="CSA Provincial T20 Cup, 2024",Limpopo vs Northern Cape
 https://dai.google.com/linear/hls/event/2ZmBkygsTqCMJ1-4OUjF-Q/master.m3u8
-#EXTINF:-1 tvg-name="North West Dragons vs DP World Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95768" group-title="CSA T20 Challenge, 2024",North West Dragons vs DP World Lions
-https://dai.google.com/linear/hls/event/amvrOO2SQIO82MVN6jQyEQ/master.m3u8
-#EXTINF:-1 tvg-name="Dolphins vs Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95767" group-title="CSA T20 Challenge, 2024",Dolphins vs Warriors
-https://dai.google.com/linear/hls/event/FR_pgJw2RLWzTI4RTA2lcQ/master.m3u8
-#EXTINF:-1 tvg-name="Western Province vs AET Tuskers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95766" group-title="CSA T20 Challenge, 2024",Western Province vs AET Tuskers
-https://dai.google.com/linear/hls/event/QmpkixXLRBaiRGiPKkKLUg/master.m3u8
-#EXTINF:-1 tvg-name="Rocks vs Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95765" group-title="CSA T20 Challenge, 2024",Rocks vs Titans
-https://dai.google.com/linear/hls/event/wGicTHltQ7G6dPMeaHp6ww/master.m3u8
 #EXTINF:-1 tvg-name="Shenzhen Peng City vs Tianjin Jinmen Tiger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95104" group-title="Chinese Super League 2024",Shenzhen Peng City vs Tianjin Jinmen Tiger
 https://dai.google.com/linear/hls/event/s9Pp8aYUS6Wo8Zh5dUQuRA/master.m3u8
 #EXTINF:-1 tvg-name="Huddersfield Town vs West Bromwich Albion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94687" group-title="EFL Championship 2023-24",Huddersfield Town vs West Bromwich Albion
