@@ -1,12 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Top Stars vs Karwan Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95903" group-title="ICC Academy Ramadan T20",Top Stars vs Karwan Cricket Club
 https://dai.google.com/linear/hls/event/ms7CaFfmRKChHGmWySqMMg/master.m3u8
-#EXTINF:-1 tvg-name="BSC Rehberge vs Stari Grad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95022" group-title="European Cricket League, 2024",BSC Rehberge vs Stari Grad
-https://dai.google.com/linear/hls/event/ZFe0WGGET7KfEPfsynqYhg/master.m3u8
 #EXTINF:-1 tvg-name="Maharashtra Mahagenco vs Sai SIA Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96187" group-title="Maharashtra Champions League T20, 2024",Maharashtra Mahagenco vs Sai SIA Cricket Club
 https://dai.google.com/linear/hls/event/YZHVTx9xQUuGDO0IMnpg7Q/master.m3u8
-#EXTINF:-1 tvg-name="Madhesh Province vs Tribhuwan Army Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96042" group-title="National T20 Championship, 2024",Madhesh Province vs Tribhuwan Army Club
-https://dai.google.com/linear/hls/event/vTyzQqhuSG24wno_iQKgpQ/master.m3u8
 #EXTINF:-1 tvg-name="Right Guards CC vs IPRC Kigali CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93061" group-title="RCA Men's T10 League",Right Guards CC vs IPRC Kigali CC
 https://dai.google.com/linear/hls/event/5SAH_4f6RmeZ8pPxy56R0g/master.m3u8
 #EXTINF:-1 tvg-name="Nigeria Women vs South Africa Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95989" group-title="African Games Ghana 2024 Women",Nigeria Women vs South Africa Women
@@ -17,7 +13,5 @@ https://dai.google.com/linear/hls/event/-uaTtbaKSOO3kEy1cXv13A/master.m3u8
 https://dai.google.com/linear/hls/event/IyhOJ9e3StabHng8uswT2Q/master.m3u8
 #EXTINF:-1 tvg-name="Limpopo vs Northern Cape" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95742" group-title="CSA Provincial T20 Cup, 2024",Limpopo vs Northern Cape
 https://dai.google.com/linear/hls/event/2ZmBkygsTqCMJ1-4OUjF-Q/master.m3u8
-#EXTINF:-1 tvg-name="Ratnagiri District vs Beed District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96079" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Ratnagiri District vs Beed District
-https://dai.google.com/linear/hls/event/c7DTjJtoQBCTVIQFJDTOPg/master.m3u8
 #EXTINF:-1 tvg-name="Real Madrid vs Lenevo Tenerife" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94030" group-title="Liga Endesa",Real Madrid vs Lenevo Tenerife
 https://dai.google.com/linear/hls/event/iAjgLdqZQaqEyWmjAdlZCg/master.m3u8
