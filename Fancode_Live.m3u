@@ -5,13 +5,15 @@ https://dai.google.com/linear/hls/event/kd_V_4SKSQKPRcyGyT2X_Q/master.m3u8
 https://dai.google.com/linear/hls/event/5Mwpr9Y-SY69sls-ZHnKPg/master.m3u8
 #EXTINF:-1 tvg-name="New Star Club Women vs Gauhati Town Club Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95553" group-title="Guwahati Women's League 2024",New Star Club Women vs Gauhati Town Club Women
 https://dai.google.com/linear/hls/event/gJb83LtrQKmqEFrRyoqJVg/master.m3u8
+#EXTINF:-1 tvg-name="Madhesh Province vs Tribhuwan Army Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96042" group-title="National T20 Championship, 2024",Madhesh Province vs Tribhuwan Army Club
+https://dai.google.com/linear/hls/event/vTyzQqhuSG24wno_iQKgpQ/master.m3u8
 #EXTINF:-1 tvg-name="Hong Kong, China vs Nepal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96140" group-title="Hong Kong, China T20I Tri-Series, 2024",Hong Kong, China vs Nepal
 https://dai.google.com/linear/hls/event/i6GBetgVSUKOVbbu_w8u3Q/master.m3u8
-#EXTINF:-1 tvg-name="Challengers CC vs Indorwa CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93060" group-title="RCA Men's T10 League",Challengers CC vs Indorwa CC
+#EXTINF:-1 tvg-name="Indorwa CC vs Challengers CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93060" group-title="RCA Men's T10 League",Indorwa CC vs Challengers CC
 https://dai.google.com/linear/hls/event/Qg9Jk8gvTw2UBvFZNpOB2g/master.m3u8
-#EXTINF:-1 tvg-name="Sydney FC vs Brisbane Roar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94072" group-title="A League Men 2023-24",Sydney FC vs Brisbane Roar
-https://dai.fancode.com/primary/94072_english_hls_4801adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Macarthur vs Central Coast Mariners" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94069" group-title="A League Men 2023-24",Macarthur vs Central Coast Mariners
-https://dai.fancode.com/primary/94069_english_hls_8697adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="China PR Women vs Vietnam Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95666" group-title="AFC U20 Women's Asian Cup Uzbekistan 2024",China PR Women vs Vietnam Women
+https://dai.google.com/linear/hls/event/16WmimQUSYup8ffLlP74lg/master.m3u8
+#EXTINF:-1 tvg-name="Japan Women vs DPR Korea Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95665" group-title="AFC U20 Women's Asian Cup Uzbekistan 2024",Japan Women vs DPR Korea Women
+https://dai.google.com/linear/hls/event/d1EkqMbhTHKGpI5B9s16NQ/master.m3u8
 #EXTINF:-1 tvg-name="LIV Golf Hong Kong" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94666" group-title="LIV Golf Hong Kong",LIV Golf Hong Kong
 https://dai.google.com/linear/hls/event/ZT0WONJ8TDek8OHBwc7r4g/master.m3u8
