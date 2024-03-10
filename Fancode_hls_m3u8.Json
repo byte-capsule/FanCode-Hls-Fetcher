@@ -1,19 +1,19 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 10,
-  "updated_on": "10-03-2024 on 3:03:42 PM \ud83c\udf1e",
+  "channels_amount": 11,
+  "updated_on": "10-03-2024 on 3:23:47 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
-      "event_name": "Grand Rumble T10 Championship Season 2",
-      "match_id": 95720,
-      "match_name": "Pak United CC vs Royal Strikers CC",
-      "team_1": "Pak United CC",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PUN@2x.png",
-      "team_2": "Royal Strikers CC",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSTK@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/kd_V_4SKSQKPRcyGyT2X_Q/master.m3u8"
+      "event_name": "ICC Academy Ramadan T20",
+      "match_id": 95903,
+      "match_name": "Top Stars vs Karwan Cricket Club",
+      "team_1": "Top Stars",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TS@2x.png",
+      "team_2": "Karwan Cricket Club",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KRWA@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/ms7CaFfmRKChHGmWySqMMg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -50,17 +50,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "RCA Men's T10 League",
-      "match_id": 93060,
-      "match_name": "Indorwa CC vs Challengers CC",
-      "team_1": "Indorwa CC",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IR@2x.png",
-      "team_2": "Challengers CC",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CHLC@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/Qg9Jk8gvTw2UBvFZNpOB2g/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "African Games Ghana 2024 Women",
       "match_id": 95988,
       "match_name": "Namibia Women vs Tanzania Women",
@@ -69,6 +58,17 @@
       "team_2": "Tanzania Women",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TNZN@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/-uaTtbaKSOO3kEy1cXv13A/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "African Games Ghana 2024 Women",
+      "match_id": 95989,
+      "match_name": "Nigeria Women vs South Africa Women",
+      "team_1": "Nigeria Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NIGE@2x.png",
+      "team_2": "South Africa Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/OFn1zPsSRNStxwIHTflalg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -113,6 +113,17 @@
       "team_2": "Hong Kong",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/ZT0WONJ8TDek8OHBwc7r4g/master.m3u8"
+    },
+    {
+      "event_catagory": "kabaddi",
+      "event_name": "KMP Yuva Kabaddi Inter District Youth League, 2024",
+      "match_id": 96078,
+      "match_name": "Ahmednagar District vs Jalna District",
+      "team_1": "Ahmednagar District",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-AH@2x.png",
+      "team_2": "Jalna District",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-JDC@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/JMG5M4d_SM-SAaHzhzXBNA/master.m3u8"
     }
   ]
 }
