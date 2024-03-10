@@ -1,5 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="The Vision Shipping vs Dubai Dare Devils" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95905" group-title="ICC Academy Ramadan T20",The Vision Shipping vs Dubai Dare Devils
+https://dai.google.com/linear/hls/event/4vwJ1VdjTMumL3w_7-O1og/master.m3u8
 #EXTINF:-1 tvg-name="BSC Rehberge vs Forfarshire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95025" group-title="European Cricket League, 2024",BSC Rehberge vs Forfarshire
 https://dai.google.com/linear/hls/event/zG8hq1_xRDKOYAHLaJLIew/master.m3u8
 #EXTINF:-1 tvg-name="Lahore Qalandars vs Quetta Gladiators" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93865" group-title="PSL, 2024",Lahore Qalandars vs Quetta Gladiators
 https://dai.google.com/linear/hls/event/wwFVpgazS4uaiyRvAHqy3g/master.m3u8
+#EXTINF:-1 tvg-name="Vitoria Gasteiz Baskonia vs Barcelona" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94031" group-title="Liga Endesa",Vitoria Gasteiz Baskonia vs Barcelona
+https://dai.google.com/linear/hls/event/4mq6oSQURFu9vtjW8JUZuQ/master.m3u8
