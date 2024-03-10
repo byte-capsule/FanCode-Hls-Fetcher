@@ -1,17 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Active CC vs MR KB Putrajaya CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95719" group-title="Grand Rumble T10 Championship Season 2",Active CC vs MR KB Putrajaya CC
+#EXTINF:-1 tvg-name="MR KB Putrajaya CC vs Active CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95719" group-title="Grand Rumble T10 Championship Season 2",MR KB Putrajaya CC vs Active CC
 https://dai.google.com/linear/hls/event/9ks48ci1RuqoOqe6Xsfvtg/master.m3u8
+#EXTINF:-1 tvg-name="Tanzania vs Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95605" group-title="Malaysia Open T20I Championship, 2024",Tanzania vs Malaysia
+https://dai.google.com/linear/hls/event/5Mwpr9Y-SY69sls-ZHnKPg/master.m3u8
 #EXTINF:-1 tvg-name="Gandaki Province vs Nepal Police Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96041" group-title="National T20 Championship, 2024",Gandaki Province vs Nepal Police Club
 https://dai.google.com/linear/hls/event/YPstAtAtRM-IpqwgizxUzA/master.m3u8
 #EXTINF:-1 tvg-name="Samarth Ambarnath Cricket Club vs Munde Sports Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96186" group-title="Maharashtra Champions League T20, 2024",Samarth Ambarnath Cricket Club vs Munde Sports Club
 https://dai.google.com/linear/hls/event/zW1KL3W1Qy6RtzKXGdkqaw/master.m3u8
-#EXTINF:-1 tvg-name="Icon Sports Club vs City Cricket Club Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95552" group-title="Guwahati Women's League 2024",Icon Sports Club vs City Cricket Club Women
-https://dai.google.com/linear/hls/event/7_TiNkHHTXObV6JAlW2Ydw/master.m3u8
 #EXTINF:-1 tvg-name="Hong Kong, China vs Nepal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96140" group-title="Hong Kong, China T20I Tri-Series, 2024",Hong Kong, China vs Nepal
 https://dai.google.com/linear/hls/event/i6GBetgVSUKOVbbu_w8u3Q/master.m3u8
 #EXTINF:-1 tvg-name="Consadole Sapporo vs Urawa Red Diamonds" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93915" group-title="J League 2024",Consadole Sapporo vs Urawa Red Diamonds
 https://dai.google.com/linear/hls/event/C1JVmOe3SNeyFzRKT4Lgcg/master.m3u8
 #EXTINF:-1 tvg-name="LIV Golf Hong Kong" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94666" group-title="LIV Golf Hong Kong",LIV Golf Hong Kong
 https://dai.google.com/linear/hls/event/ZT0WONJ8TDek8OHBwc7r4g/master.m3u8
-#EXTINF:-1 tvg-name="Dhule District vs Raigad District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96076" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Dhule District vs Raigad District
-https://dai.google.com/linear/hls/event/mCk26MAyR2W9U4bsSTlilQ/master.m3u8
