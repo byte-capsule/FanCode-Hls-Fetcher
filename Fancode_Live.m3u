@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Pak United CC vs Royal Strikers CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95720" group-title="Grand Rumble T10 Championship Season 2",Pak United CC vs Royal Strikers CC
 https://dai.google.com/linear/hls/event/kd_V_4SKSQKPRcyGyT2X_Q/master.m3u8
-#EXTINF:-1 tvg-name="Tanzania vs Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95605" group-title="Malaysia Open T20I Championship, 2024",Tanzania vs Malaysia
-https://dai.google.com/linear/hls/event/5Mwpr9Y-SY69sls-ZHnKPg/master.m3u8
 #EXTINF:-1 tvg-name="New Star Club Women vs Gauhati Town Club Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95553" group-title="Guwahati Women's League 2024",New Star Club Women vs Gauhati Town Club Women
 https://dai.google.com/linear/hls/event/gJb83LtrQKmqEFrRyoqJVg/master.m3u8
 #EXTINF:-1 tvg-name="Maharashtra Mahagenco vs Sai SIA Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96187" group-title="Maharashtra Champions League T20, 2024",Maharashtra Mahagenco vs Sai SIA Cricket Club
@@ -11,6 +9,8 @@ https://dai.google.com/linear/hls/event/YZHVTx9xQUuGDO0IMnpg7Q/master.m3u8
 https://dai.google.com/linear/hls/event/vTyzQqhuSG24wno_iQKgpQ/master.m3u8
 #EXTINF:-1 tvg-name="Indorwa CC vs Challengers CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93060" group-title="RCA Men's T10 League",Indorwa CC vs Challengers CC
 https://dai.google.com/linear/hls/event/Qg9Jk8gvTw2UBvFZNpOB2g/master.m3u8
+#EXTINF:-1 tvg-name="Namibia Women vs Tanzania Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95988" group-title="African Games Ghana 2024 Women",Namibia Women vs Tanzania Women
+https://dai.google.com/linear/hls/event/-uaTtbaKSOO3kEy1cXv13A/master.m3u8
 #EXTINF:-1 tvg-name="Multan Sultans vs Islamabad United" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93864" group-title="PSL, 2024",Multan Sultans vs Islamabad United
 https://dai.google.com/linear/hls/event/IyhOJ9e3StabHng8uswT2Q/master.m3u8
 #EXTINF:-1 tvg-name="China PR Women vs Vietnam Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95666" group-title="AFC U20 Women's Asian Cup Uzbekistan 2024",China PR Women vs Vietnam Women

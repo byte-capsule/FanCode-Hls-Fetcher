@@ -2,7 +2,7 @@
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "channels_amount": 10,
-  "updated_on": "10-03-2024 on 2:40:55 PM \ud83c\udf1e",
+  "updated_on": "10-03-2024 on 3:03:42 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -14,17 +14,6 @@
       "team_2": "Royal Strikers CC",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSTK@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/kd_V_4SKSQKPRcyGyT2X_Q/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Malaysia Open T20I Championship, 2024",
-      "match_id": 95605,
-      "match_name": "Tanzania vs Malaysia",
-      "team_1": "Tanzania",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TNZN@2x.png",
-      "team_2": "Malaysia",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALY@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/5Mwpr9Y-SY69sls-ZHnKPg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -69,6 +58,17 @@
       "team_2": "Challengers CC",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CHLC@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/Qg9Jk8gvTw2UBvFZNpOB2g/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "African Games Ghana 2024 Women",
+      "match_id": 95988,
+      "match_name": "Namibia Women vs Tanzania Women",
+      "team_1": "Namibia Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAM@2x.png",
+      "team_2": "Tanzania Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TNZN@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/-uaTtbaKSOO3kEy1cXv13A/master.m3u8"
     },
     {
       "event_catagory": "cricket",
