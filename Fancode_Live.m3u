@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Phoenix Cricketers vs Cochin Hurricanes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96400" group-title="Kuwait T10 Ramadan Challengers Cup",Phoenix Cricketers vs Cochin Hurricanes
+https://dai.google.com/linear/hls/event/QVExD3MJReSZlqo5oz3CJg/master.m3u8
 #EXTINF:-1 tvg-name="Karwan Cricket Club vs Prim Height Transport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95906" group-title="ICC Academy Ramadan T20",Karwan Cricket Club vs Prim Height Transport
 https://dai.google.com/linear/hls/event/E4dUOdVnTr-LnvNQS8KIcA/master.m3u8
 #EXTINF:-1 tvg-name="Peshawar Zalmi vs Karachi Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93866" group-title="PSL, 2024",Peshawar Zalmi vs Karachi Kings
