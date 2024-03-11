@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="KL Zalmi vs Global Stars CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95723" group-title="Grand Rumble T10 Championship Season 2",KL Zalmi vs Global Stars CC
 https://dai.google.com/linear/hls/event/PsH8FehjSveVtWb98cGTdg/master.m3u8
+#EXTINF:-1 tvg-name="Malaysia vs Bahrain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95607" group-title="Malaysia Open T20I Championship, 2024",Malaysia vs Bahrain
+https://dai.google.com/linear/hls/event/hEMCQz5WS0macWpMUatOLg/master.m3u8
 #EXTINF:-1 tvg-name="Bagmati Province vs Sudur Pashchim Province" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96043" group-title="National T20 Championship, 2024",Bagmati Province vs Sudur Pashchim Province
 https://dai.google.com/linear/hls/event/gFhzXUbDQPGWsDddNLgpjQ/master.m3u8
 #EXTINF:-1 tvg-name="NFRSA Women vs 91 Yards Club Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95554" group-title="Guwahati Women's League 2024",NFRSA Women vs 91 Yards Club Women
 https://dai.google.com/linear/hls/event/AAu3_mGiSJGYWYkvWSUPEQ/master.m3u8
-#EXTINF:-1 tvg-name="Nanded District vs Ahmednagar District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96080" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Nanded District vs Ahmednagar District
-https://dai.google.com/linear/hls/event/JZW07OHlTSSC2IY6kXS4HA/master.m3u8
