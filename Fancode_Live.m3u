@@ -1,7 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Forfarshire vs BSC Rehberge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95029" group-title="European Cricket League, 2024",Forfarshire vs BSC Rehberge
 https://dai.google.com/linear/hls/event/c3I4AYsSTgiIXmBoZOT49Q/master.m3u8
+#EXTINF:-1 tvg-name="Karwan Cricket Club vs Prim Height Transport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95906" group-title="ICC Academy Ramadan T20",Karwan Cricket Club vs Prim Height Transport
+https://dai.google.com/linear/hls/event/E4dUOdVnTr-LnvNQS8KIcA/master.m3u8
 #EXTINF:-1 tvg-name="Nigeria Women vs Zimbabwe Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95993" group-title="African Games Ghana 2024 Women",Nigeria Women vs Zimbabwe Women
 https://dai.google.com/linear/hls/event/57cfo4trSPmsto8c9IlakA/master.m3u8
 #EXTINF:-1 tvg-name="Guyana Women vs Trinidad and Tobago Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95675" group-title="CG United Women's Super50 Cup, 2024",Guyana Women vs Trinidad and Tobago Women
 https://dai.google.com/linear/hls/event/wGJlEMMfSIe27IWZNu2oPg/master.m3u8
+#EXTINF:-1 tvg-name="Scotland vs United Arab Emirates" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95652" group-title="Scotland tour of UAE, 2024",Scotland vs United Arab Emirates
+https://dai.google.com/linear/hls/event/gkC3BCpYT9O-N134ClUD3A/master.m3u8
