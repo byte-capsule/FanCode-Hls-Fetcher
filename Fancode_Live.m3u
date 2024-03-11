@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Karwan Cricket Club vs Prim Height Transport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95906" group-title="ICC Academy Ramadan T20",Karwan Cricket Club vs Prim Height Transport
 https://dai.google.com/linear/hls/event/E4dUOdVnTr-LnvNQS8KIcA/master.m3u8
-#EXTINF:-1 tvg-name="Nigeria Women vs Zimbabwe Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95993" group-title="African Games Ghana 2024 Women",Nigeria Women vs Zimbabwe Women
-https://dai.google.com/linear/hls/event/57cfo4trSPmsto8c9IlakA/master.m3u8
 #EXTINF:-1 tvg-name="Peshawar Zalmi vs Karachi Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93866" group-title="PSL, 2024",Peshawar Zalmi vs Karachi Kings
 https://fancodelive-c.akamaized.net/hls/live/2040703/93866_english_hls_5174adfreeta-di/master.m3u8
 #EXTINF:-1 tvg-name="Scotland vs United Arab Emirates" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95652" group-title="Scotland tour of UAE, 2024",Scotland vs United Arab Emirates
