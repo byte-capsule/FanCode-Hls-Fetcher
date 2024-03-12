@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Pak I Care Badalona vs Crosby" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95032" group-title="European Cricket League, 2024",Pak I Care Badalona vs Crosby
 https://dai.google.com/linear/hls/event/CBRGtEIRRtyvM5iAiAacTQ/master.m3u8
-#EXTINF:-1 tvg-name="Regal Cricket Club vs New Hind Sports Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96189" group-title="Maharashtra Champions League T20, 2024",Regal Cricket Club vs New Hind Sports Club
-https://dai.google.com/linear/hls/event/NORFRmcFTLa_TkxtpxSDcg/master.m3u8
 #EXTINF:-1 tvg-name="Afghanistan vs Ireland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93919" group-title="Ireland tour of Afghanistan, 2024",Afghanistan vs Ireland
 https://dai.google.com/linear/hls/event/P97LvMp0TPC2TTZyXXSccQ/master.m3u8
 #EXTINF:-1 tvg-name="Knights vs Border" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95744" group-title="CSA Provincial T20 Cup, 2024",Knights vs Border
