@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Top Stars vs The Vision Shipping" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95908" group-title="ICC Academy Ramadan T20",Top Stars vs The Vision Shipping
 https://dai.google.com/linear/hls/event/9yZVtN4sReOf5famc351Lw/master.m3u8
+#EXTINF:-1 tvg-name="Multan Sultans vs Quetta Gladiators" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93867" group-title="PSL, 2024",Multan Sultans vs Quetta Gladiators
+https://fancodelive-c.akamaized.net/hls/live/2040703/93867_english_hls_5907adfreeta-no/master.m3u8
 #EXTINF:-1 tvg-name="Donaustadt vs Independents CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95033" group-title="European Cricket League, 2024",Donaustadt vs Independents CC
 https://dai.google.com/linear/hls/event/jLTqUr61RfyKerDOkiIBcA/master.m3u8
 #EXTINF:-1 tvg-name="Afghanistan vs Ireland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93919" group-title="Ireland tour of Afghanistan, 2024",Afghanistan vs Ireland
 https://dai.google.com/linear/hls/event/P97LvMp0TPC2TTZyXXSccQ/master.m3u8
-#EXTINF:-1 tvg-name="Mohammedan SC vs Churchill Brothers FC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93986" group-title="I League 2023-24",Mohammedan SC vs Churchill Brothers FC
-https://dai.google.com/linear/hls/event/aC0AVBvYRxWSTv2-tqYwbw/master.m3u8
