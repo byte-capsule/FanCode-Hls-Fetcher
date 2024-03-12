@@ -5,3 +5,5 @@ https://dai.google.com/linear/hls/event/NORFRmcFTLa_TkxtpxSDcg/master.m3u8
 https://dai.google.com/linear/hls/event/TV5fZEoTRaOwXUanjW1bVg/master.m3u8
 #EXTINF:-1 tvg-name="Melbourne City vs Western Sydney Wanderers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96669" group-title="A League Men 2023-24",Melbourne City vs Western Sydney Wanderers
 https://dai.fancode.com/primary/96669_english_hls_5943adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Satara District vs Palghar District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96213" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Satara District vs Palghar District
+https://dai.google.com/linear/hls/event/sljz6emCQPWERqcsuWkH3w/master.m3u8
