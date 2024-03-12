@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Hong Kong, China vs Papua New Guinea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96142" group-title="Hong Kong, China T20I Tri-Series, 2024",Hong Kong, China vs Papua New Guinea
-https://dai.google.com/linear/hls/event/OkmDu6EGRmu__JDkWpD0rw/master.m3u8
-#EXTINF:-1 tvg-name="New Star Club Women vs 91 Yards Club Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95560" group-title="Guwahati Women's League 2024",New Star Club Women vs 91 Yards Club Women
-https://dai.google.com/linear/hls/event/jkVD8GJ-RjuguwLO5_JmAw/master.m3u8
 #EXTINF:-1 tvg-name="Regal Cricket Club vs New Hind Sports Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96189" group-title="Maharashtra Champions League T20, 2024",Regal Cricket Club vs New Hind Sports Club
 https://dai.google.com/linear/hls/event/NORFRmcFTLa_TkxtpxSDcg/master.m3u8
 #EXTINF:-1 tvg-name="Gandaki Province vs Bagmati Province" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96046" group-title="National T20 Championship, 2024",Gandaki Province vs Bagmati Province
