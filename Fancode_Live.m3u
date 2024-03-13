@@ -1,9 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Donaustadt vs Pak I Care Badalona" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95037" group-title="European Cricket League, 2024",Donaustadt vs Pak I Care Badalona
-https://dai.google.com/linear/hls/event/W7LgwhXES_G27ScNJYQ-2g/master.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe Women vs South Africa Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95995" group-title="African Games Ghana 2024 Women",Zimbabwe Women vs South Africa Women
 https://dai.google.com/linear/hls/event/BfGvf4LLSWu14kTj5TwZVg/master.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka vs Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93981" group-title="Sri Lanka tour of Bangladesh, 2024",Sri Lanka vs Bangladesh
 https://dai.google.com/linear/hls/event/7bcZgngDTpqz0dPQc2eMcA/master.m3u8
+#EXTINF:-1 tvg-name="Guyana Harpy Eagles vs Barbados Pride" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93719" group-title="West Indies Championship",Guyana Harpy Eagles vs Barbados Pride
+https://dai.google.com/linear/hls/event/un84EvT4TXKnBXIdDA1j4w/master.m3u8
+#EXTINF:-1 tvg-name="Windward Islands Women vs Barbados Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95676" group-title="CG United Women's Super50 Cup, 2024",Windward Islands Women vs Barbados Women
+https://dai.google.com/linear/hls/event/3pvGI0JOQnuM1P5FAtsG4w/master.m3u8
 #EXTINF:-1 tvg-name="Shillong Lajong FC vs Real Kashmir FC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94256" group-title="I League 2023-24",Shillong Lajong FC vs Real Kashmir FC
 https://dai.google.com/linear/hls/event/WSR8KcAXQJaxtpmzhCC-Ng/master.m3u8
