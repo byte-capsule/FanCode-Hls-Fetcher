@@ -1,7 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Lumbini Province vs Nepal Police Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96047" group-title="National T20 Championship, 2024",Lumbini Province vs Nepal Police Club
+https://dai.google.com/linear/hls/event/P-3yjlLIRLKWxbh3Qfz4ww/master.m3u8
 #EXTINF:-1 tvg-name="Brilliant Sports Academy vs Regal Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96190" group-title="Maharashtra Champions League T20, 2024",Brilliant Sports Academy vs Regal Cricket Club
 https://dai.google.com/linear/hls/event/hOZbAc7JR0qOx0JKT5bMGQ/master.m3u8
 #EXTINF:-1 tvg-name="Icon Sports Club vs Gauhati Town Club Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95558" group-title="Guwahati Women's League 2024",Icon Sports Club vs Gauhati Town Club Women
 https://dai.google.com/linear/hls/event/I6MoLjVkQTiTTiD6mjUs8A/master.m3u8
-#EXTINF:-1 tvg-name="Lumbini Province vs Nepal Police Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96047" group-title="National T20 Championship, 2024",Lumbini Province vs Nepal Police Club
-https://dai.google.com/linear/hls/event/P-3yjlLIRLKWxbh3Qfz4ww/master.m3u8
+#EXTINF:-1 tvg-name="Nandurbar District vs Satara District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96215" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Nandurbar District vs Satara District
+https://dai.google.com/linear/hls/event/uYyAXDf2Q0O-bh7Ei3uf-w/master.m3u8
