@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Young Lions CC vs Tally D.R.F.S" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96404" group-title="Kuwait T10 Ramadan Challengers Cup",Young Lions CC vs Tally D.R.F.S
+https://dai.google.com/linear/hls/event/jHCUDfBuQ16JPb5vlLDVFw/master.m3u8
 #EXTINF:-1 tvg-name="Pak I Care Badalona vs Tallinn Stallions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95039" group-title="European Cricket League, 2024",Pak I Care Badalona vs Tallinn Stallions
 https://dai.google.com/linear/hls/event/M4pWwCEkT26ZD5AY0Jtb5g/master.m3u8
 #EXTINF:-1 tvg-name="Warriors vs Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95771" group-title="CSA T20 Challenge, 2024",Warriors vs Titans
