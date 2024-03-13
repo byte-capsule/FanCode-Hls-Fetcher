@@ -11,3 +11,7 @@ https://dai.google.com/linear/hls/event/N4uLu-IzSGyWpf1dzlE2uQ/master.m3u8
 https://dai.google.com/linear/hls/event/7bcZgngDTpqz0dPQc2eMcA/master.m3u8
 #EXTINF:-1 tvg-name="Yokohama F. Marinos vs Shandong Taishan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93362" group-title="AFC Champions League",Yokohama F. Marinos vs Shandong Taishan
 https://dai.google.com/linear/hls/event/ABsUvW3VTzqAYX8qo3oIig/master.m3u8
+#EXTINF:-1 tvg-name="Australia Women vs Japan Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95668" group-title="AFC U20 Women's Asian Cup Uzbekistan 2024",Australia Women vs Japan Women
+https://dai.google.com/linear/hls/event/mCXSTX5zTKqxVYnLRzOV-Q/master.m3u8
+#EXTINF:-1 tvg-name="Nashik District vs Dharashiv District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96218" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Nashik District vs Dharashiv District
+https://dai.google.com/linear/hls/event/Pv2LKF3XTSGefN8tWjarrw/master.m3u8
