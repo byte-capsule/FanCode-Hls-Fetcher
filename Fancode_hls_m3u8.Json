@@ -2,7 +2,7 @@
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "channels_amount": 6,
-  "updated_on": "13-03-2024 on 8:26:28 PM \ud83c\udf19",
+  "updated_on": "13-03-2024 on 8:41:09 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -28,17 +28,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Sri Lanka tour of Bangladesh, 2024",
-      "match_id": 93981,
-      "match_name": "Sri Lanka vs Bangladesh",
-      "team_1": "Sri Lanka",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
-      "team_2": "Bangladesh",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/7bcZgngDTpqz0dPQc2eMcA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "West Indies Championship",
       "match_id": 93719,
       "match_name": "Guyana Harpy Eagles vs Barbados Pride",
@@ -47,6 +36,17 @@
       "team_2": "Barbados Pride",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRBP@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/un84EvT4TXKnBXIdDA1j4w/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Sri Lanka tour of Bangladesh, 2024",
+      "match_id": 93981,
+      "match_name": "Sri Lanka vs Bangladesh",
+      "team_1": "Sri Lanka",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+      "team_2": "Bangladesh",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/7bcZgngDTpqz0dPQc2eMcA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
