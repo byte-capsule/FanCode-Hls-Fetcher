@@ -7,7 +7,11 @@ https://dai.google.com/linear/hls/event/IEi1YzMJQiGNXzQUraZsUg/master.m3u8
 https://dai.google.com/linear/hls/event/pCpg5k9tS76aNPOY8OU1XQ/master.m3u8
 #EXTINF:-1 tvg-name="Guyana Harpy Eagles vs Barbados Pride" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93719" group-title="West Indies Championship",Guyana Harpy Eagles vs Barbados Pride
 https://dai.google.com/linear/hls/event/un84EvT4TXKnBXIdDA1j4w/master.m3u8
+#EXTINF:-1 tvg-name="Limpopo vs Mpumalanga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95745" group-title="CSA Provincial T20 Cup, 2024",Limpopo vs Mpumalanga
+https://dai.google.com/linear/hls/event/18KJyNUzTsWH_NZBcaca6w/master.m3u8
 #EXTINF:-1 tvg-name="Odisha vs Central Coast Mariners" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94254" group-title="AFC Cup",Odisha vs Central Coast Mariners
 https://dai.fancode.com/primary/94254_english_hls_5636adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Panjim Footballers vs Sporting Clube de Goa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="91553" group-title="Goa Professional League 2023-24",Panjim Footballers vs Sporting Clube de Goa
 https://dai.google.com/linear/hls/event/rzwp6RWZRWiu2MmPpDo5RA/master.m3u8
+#EXTINF:-1 tvg-name="Dharashiv District vs Nandurbar District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96222" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Dharashiv District vs Nandurbar District
+https://dai.google.com/linear/hls/event/GWgq4txlTUijQELuE6X_sQ/master.m3u8
