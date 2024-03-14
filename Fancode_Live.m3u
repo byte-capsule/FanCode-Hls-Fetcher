@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Tallinn Stallions vs Independents CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95041" group-title="European Cricket League, 2024",Tallinn Stallions vs Independents CC
-https://dai.google.com/linear/hls/event/zbo5Tn9bTdeU6sUlNa-DnA/master.m3u8
 #EXTINF:-1 tvg-name="Regal Cricket Club vs Pradeep Sports Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96193" group-title="Maharashtra Champions League T20, 2024",Regal Cricket Club vs Pradeep Sports Club
 https://dai.google.com/linear/hls/event/IEi1YzMJQiGNXzQUraZsUg/master.m3u8
 #EXTINF:-1 tvg-name="Bagmati Province vs Nepal Police Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96050" group-title="National T20 Championship, 2024",Bagmati Province vs Nepal Police Club
