@@ -2,7 +2,7 @@
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "channels_amount": 5,
-  "updated_on": "14-03-2024 on 9:24:08 PM \ud83c\udf19",
+  "updated_on": "14-03-2024 on 9:41:15 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -49,15 +49,15 @@
       "stream_link": "https://dai.google.com/linear/hls/event/ytNtBaF1RpeMFRVfZL9EZA/master.m3u8"
     },
     {
-      "event_catagory": "football",
-      "event_name": "I League 2023-24",
-      "match_id": 94257,
-      "match_name": "Gokulam Kerala FC vs Aizawl",
-      "team_1": "Gokulam Kerala FC",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GK@2x.png",
-      "team_2": "Aizawl",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AFC@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/RQYhLO26S5Gv2K1kRjNCSQ/master.m3u8"
+      "event_catagory": "cricket",
+      "event_name": "PSL, 2024",
+      "match_id": 93868,
+      "match_name": "Peshawar Zalmi vs Multan Sultans",
+      "team_1": "Peshawar Zalmi",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PEZ@2x.png",
+      "team_2": "Multan Sultans",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MUS@2x.png",
+      "stream_link": "https://fancodelive-c.akamaized.net/hls/live/2040703/93868_english_hls_5223adfreeta-no/master.m3u8"
     }
   ]
 }
