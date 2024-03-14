@@ -1,7 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Scotland vs United Arab Emirates" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95654" group-title="Scotland tour of UAE, 2024",Scotland vs United Arab Emirates
+https://dai.google.com/linear/hls/event/gGInNJB9RE6LA8C1NL0swA/master.m3u8
 #EXTINF:-1 tvg-name="Donaustadt vs Independents CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95043" group-title="European Cricket League, 2024",Donaustadt vs Independents CC
 https://dai.google.com/linear/hls/event/Qstqqa3URuuf9QcSlJ0cZQ/master.m3u8
 #EXTINF:-1 tvg-name="Guyana Harpy Eagles vs Barbados Pride" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93719" group-title="West Indies Championship",Guyana Harpy Eagles vs Barbados Pride
 https://dai.google.com/linear/hls/event/un84EvT4TXKnBXIdDA1j4w/master.m3u8
+#EXTINF:-1 tvg-name="Karwan Cricket Club vs The Vision Shipping" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95910" group-title="ICC Academy Ramadan T20",Karwan Cricket Club vs The Vision Shipping
+https://dai.google.com/linear/hls/event/ytNtBaF1RpeMFRVfZL9EZA/master.m3u8
 #EXTINF:-1 tvg-name="Gokulam Kerala FC vs Aizawl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94257" group-title="I League 2023-24",Gokulam Kerala FC vs Aizawl
 https://dai.google.com/linear/hls/event/RQYhLO26S5Gv2K1kRjNCSQ/master.m3u8
