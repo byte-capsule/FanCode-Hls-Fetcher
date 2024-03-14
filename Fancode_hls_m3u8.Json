@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 3,
-  "updated_on": "14-03-2024 on 7:24:28 PM \ud83c\udf19",
+  "channels_amount": 4,
+  "updated_on": "14-03-2024 on 7:41:17 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -36,6 +36,17 @@
       "team_2": "Sporting Clube de Goa",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SCCF@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/rzwp6RWZRWiu2MmPpDo5RA/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "I League 2023-24",
+      "match_id": 94257,
+      "match_name": "Gokulam Kerala FC vs Aizawl",
+      "team_1": "Gokulam Kerala FC",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GK@2x.png",
+      "team_2": "Aizawl",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AFC@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/RQYhLO26S5Gv2K1kRjNCSQ/master.m3u8"
     }
   ]
 }
