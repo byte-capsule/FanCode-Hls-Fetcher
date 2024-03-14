@@ -1,11 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Mpumalanga vs Easterns" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95739" group-title="CSA Provincial T20 Cup, 2024",Mpumalanga vs Easterns
-https://dai.google.com/linear/hls/event/dL9-ReVfTjGhtzeY-5xAig/master.m3u8
-#EXTINF:-1 tvg-name="Limpopo vs Border" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95738" group-title="CSA Provincial T20 Cup, 2024",Limpopo vs Border
-https://dai.google.com/linear/hls/event/ze0oX78hQI24y1OxV9Z6Vg/master.m3u8
 #EXTINF:-1 tvg-name="NFRSA Women vs 91 Yards Club Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95557" group-title="Guwahati Women's League 2024",NFRSA Women vs 91 Yards Club Women
 https://mls3.fancode.com/60297770-dcd4-4508-908d-2b481fd18ab4/master.m3u8
-#EXTINF:-1 tvg-name="Madhesh Province vs Nepal A.P.F. Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96049" group-title="National T20 Championship, 2024",Madhesh Province vs Nepal A.P.F. Club
-https://dai.google.com/linear/hls/event/W6AbwcKhQ_ikLHyFmYTz7w/master.m3u8
 #EXTINF:-1 tvg-name="Guyana Harpy Eagles vs Barbados Pride" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93719" group-title="West Indies Championship",Guyana Harpy Eagles vs Barbados Pride
 https://dai.google.com/linear/hls/event/un84EvT4TXKnBXIdDA1j4w/master.m3u8
