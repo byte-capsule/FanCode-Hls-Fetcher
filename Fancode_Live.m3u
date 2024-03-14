@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Guyana Harpy Eagles vs Barbados Pride" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93719" group-title="West Indies Championship",Guyana Harpy Eagles vs Barbados Pride
 https://dai.google.com/linear/hls/event/un84EvT4TXKnBXIdDA1j4w/master.m3u8
+#EXTINF:-1 tvg-name="City Cricket Club Women vs Gauhati Town Club Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95556" group-title="Guwahati Women's League 2024",City Cricket Club Women vs Gauhati Town Club Women
+https://dai.google.com/linear/hls/event/DAlFtcSKRdSaFMhfi6D6kg/master.m3u8
 #EXTINF:-1 tvg-name="América vs Guadalajara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95959" group-title="CONCACAF Champions Cup",América vs Guadalajara
 https://dai.google.com/linear/hls/event/WJ_tyKeQTmu1CliVsmkeZw/master.m3u8
