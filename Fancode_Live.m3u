@@ -9,3 +9,5 @@ https://dai.google.com/linear/hls/event/pCpg5k9tS76aNPOY8OU1XQ/master.m3u8
 https://dai.google.com/linear/hls/event/un84EvT4TXKnBXIdDA1j4w/master.m3u8
 #EXTINF:-1 tvg-name="Western United vs Melbourne Victory" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94076" group-title="A League Men 2023-24",Western United vs Melbourne Victory
 https://dai.fancode.com/primary/94076_english_hls_5616adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Satara District vs Kolhapur District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96221" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Satara District vs Kolhapur District
+https://dai.google.com/linear/hls/event/Jtkh6ZzBSOCe23l_NswweQ/master.m3u8
