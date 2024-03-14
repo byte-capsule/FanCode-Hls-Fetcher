@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Scotland vs United Arab Emirates" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95654" group-title="Scotland tour of UAE, 2024",Scotland vs United Arab Emirates
 https://dai.google.com/linear/hls/event/gGInNJB9RE6LA8C1NL0swA/master.m3u8
+#EXTINF:-1 tvg-name="GAT vs NCM Investment-B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96406" group-title="Kuwait T10 Ramadan Challengers Cup",GAT vs NCM Investment-B
+https://dai.google.com/linear/hls/event/pyfmLgx5QJqgoZcy-dcOow/master.m3u8
 #EXTINF:-1 tvg-name="Karwan Cricket Club vs The Vision Shipping" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95910" group-title="ICC Academy Ramadan T20",Karwan Cricket Club vs The Vision Shipping
 https://dai.google.com/linear/hls/event/ytNtBaF1RpeMFRVfZL9EZA/master.m3u8
 #EXTINF:-1 tvg-name="Guyana Harpy Eagles vs Barbados Pride" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93719" group-title="West Indies Championship",Guyana Harpy Eagles vs Barbados Pride
