@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Moufflons vs CIYMS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95046" group-title="European Cricket League, 2024",Moufflons vs CIYMS
-https://dai.google.com/linear/hls/event/CG6XWJF8QO2K7nYygeClkA/master.m3u8
 #EXTINF:-1 tvg-name="North West Dragons vs AET Tuskers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95773" group-title="CSA T20 Challenge, 2024",North West Dragons vs AET Tuskers
 https://dai.google.com/linear/hls/event/vYiJZlQRRnuq3SmSI_S8kg/master.m3u8
 #EXTINF:-1 tvg-name="Guyana Harpy Eagles vs Barbados Pride" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93719" group-title="West Indies Championship",Guyana Harpy Eagles vs Barbados Pride
