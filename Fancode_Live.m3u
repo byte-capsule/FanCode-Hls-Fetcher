@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Guyana Harpy Eagles vs Barbados Pride" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93719" group-title="West Indies Championship",Guyana Harpy Eagles vs Barbados Pride
 https://dai.google.com/linear/hls/event/un84EvT4TXKnBXIdDA1j4w/master.m3u8
+#EXTINF:-1 tvg-name="Gauhati Town Club Women vs NFRSA Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95562" group-title="Guwahati Women's League 2024",Gauhati Town Club Women vs NFRSA Women
+https://dai.google.com/linear/hls/event/bva3bLw-RmqCxodwO2gs_Q/master.m3u8
 #EXTINF:-1 tvg-name="Monterrey vs FC Cincinnati" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95961" group-title="CONCACAF Champions Cup",Monterrey vs FC Cincinnati
 https://dai.google.com/linear/hls/event/ow7tSY8nR7uyunHbioAb-w/master.m3u8
 #EXTINF:-1 tvg-name="Olympiacos Piraeus vs Panathinaikos OPAP Athens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92648" group-title="Euro League",Olympiacos Piraeus vs Panathinaikos OPAP Athens
