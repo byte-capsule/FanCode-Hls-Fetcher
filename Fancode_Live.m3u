@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Z Games Strikers vs The Vision Shipping" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95912" group-title="ICC Academy Ramadan T20",Z Games Strikers vs The Vision Shipping
 https://dai.google.com/linear/hls/event/4JJtynwRQ5-l-c8BOrG6nQ/master.m3u8
+#EXTINF:-1 tvg-name="Islamabad United vs Quetta Gladiators" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93869" group-title="PSL, 2024",Islamabad United vs Quetta Gladiators
+https://livecf.fancode.com/1bb1623a-d867-455e-ba48-d7aafb814475/master.m3u8
 #EXTINF:-1 tvg-name="Calpe Giants vs Cluj" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95047" group-title="European Cricket League, 2024",Calpe Giants vs Cluj
 https://dai.google.com/linear/hls/event/cdgJj-3ZQp2rlT2JNJ-o6w/master.m3u8
 #EXTINF:-1 tvg-name="Team Abu Dhabi vs Warwickshire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96813" group-title="Abu Dhabi T20 Counties Super Cup, 2024",Team Abu Dhabi vs Warwickshire
