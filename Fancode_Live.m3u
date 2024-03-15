@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Oslo CK vs Cluj" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95045" group-title="European Cricket League, 2024",Oslo CK vs Cluj
 https://dai.google.com/linear/hls/event/6-kOCHMUS52xMp20PphCxw/master.m3u8
-#EXTINF:-1 tvg-name="91 Yards Club Women vs New Star Club Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95543" group-title="Guwahati Women's League 2024",91 Yards Club Women vs New Star Club Women
-https://dai.google.com/linear/hls/event/5Ilc0OEwT4K2mn8vPn9-AA/master.m3u8
 #EXTINF:-1 tvg-name="Lumbini Province vs Karnali Province" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96052" group-title="National T20 Championship, 2024",Lumbini Province vs Karnali Province
 https://dai.google.com/linear/hls/event/_O-Kb9E1QSWMT5o77QvnfA/master.m3u8
 #EXTINF:-1 tvg-name="Essex vs Nottinghamshire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96812" group-title="Abu Dhabi T20 Counties Super Cup, 2024",Essex vs Nottinghamshire
@@ -13,5 +11,3 @@ https://dai.google.com/linear/hls/event/un84EvT4TXKnBXIdDA1j4w/master.m3u8
 https://dai.google.com/linear/hls/event/zbF-OGJmTB6NrWhi2TqmAg/master.m3u8
 #EXTINF:-1 tvg-name="Newcastle Jets vs Adelaide United" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94073" group-title="A League Men 2023-24",Newcastle Jets vs Adelaide United
 https://dai.fancode.com/primary/94073_english_hls_5716adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Nashik District vs Nandurbar District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96225" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Nashik District vs Nandurbar District
-https://dai.google.com/linear/hls/event/MZHI0GLiRQ-TYqK2voqZGg/master.m3u8
