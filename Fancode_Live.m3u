@@ -5,7 +5,9 @@ https://dai.google.com/linear/hls/event/5Ilc0OEwT4K2mn8vPn9-AA/master.m3u8
 https://dai.google.com/linear/hls/event/_O-Kb9E1QSWMT5o77QvnfA/master.m3u8
 #EXTINF:-1 tvg-name="Guyana Harpy Eagles vs Barbados Pride" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93719" group-title="West Indies Championship",Guyana Harpy Eagles vs Barbados Pride
 https://dai.google.com/linear/hls/event/un84EvT4TXKnBXIdDA1j4w/master.m3u8
-#EXTINF:-1 tvg-name="Somerset vs Yorkshire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96811" group-title="Abu Dhabi T20 Counties Super Cup, 2024",Somerset vs Yorkshire
-https://dai.google.com/linear/hls/event/d-e1qJecQcG01d_0EcJd-A/master.m3u8
 #EXTINF:-1 tvg-name="Bangladesh vs Sri Lanka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93982" group-title="Sri Lanka tour of Bangladesh, 2024",Bangladesh vs Sri Lanka
 https://dai.google.com/linear/hls/event/zbF-OGJmTB6NrWhi2TqmAg/master.m3u8
+#EXTINF:-1 tvg-name="Somerset vs Yorkshire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96811" group-title="Abu Dhabi T20 Counties Super Cup, 2024",Somerset vs Yorkshire
+https://dai.google.com/linear/hls/event/d-e1qJecQcG01d_0EcJd-A/master.m3u8
+#EXTINF:-1 tvg-name="Newcastle Jets vs Adelaide United" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94073" group-title="A League Men 2023-24",Newcastle Jets vs Adelaide United
+https://dai.fancode.com/primary/94073_english_hls_5716adfreeta-no/index.m3u8
