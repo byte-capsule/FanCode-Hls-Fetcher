@@ -2,7 +2,7 @@
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "channels_amount": 5,
-  "updated_on": "16-03-2024 on 4:27:36 PM \ud83c\udf1e",
+  "updated_on": "16-03-2024 on 4:41:16 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -28,17 +28,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "West Indies Championship",
-      "match_id": 93719,
-      "match_name": "Guyana Harpy Eagles vs Barbados Pride",
-      "team_1": "Guyana Harpy Eagles",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HARP@2x.png",
-      "team_2": "Barbados Pride",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRBP@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/un84EvT4TXKnBXIdDA1j4w/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "Abu Dhabi T20 Counties Super Cup, 2024",
       "match_id": 96815,
       "match_name": "Warwickshire vs Yorkshire",
@@ -47,6 +36,17 @@
       "team_2": "Yorkshire",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YOR@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/5qIs44T7R8e105VYHV89RA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "West Indies Championship",
+      "match_id": 93719,
+      "match_name": "Guyana Harpy Eagles vs Barbados Pride",
+      "team_1": "Guyana Harpy Eagles",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HARP@2x.png",
+      "team_2": "Barbados Pride",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRBP@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/un84EvT4TXKnBXIdDA1j4w/master.m3u8"
     },
     {
       "event_catagory": "football",
