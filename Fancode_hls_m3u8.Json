@@ -1,19 +1,19 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 7,
-  "updated_on": "16-03-2024 on 3:41:15 PM \ud83c\udf1e",
+  "channels_amount": 6,
+  "updated_on": "16-03-2024 on 4:06:17 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
-      "event_name": "Guwahati Women's League 2024",
-      "match_id": 95565,
-      "match_name": "91 Yards Club Women vs Icon Sports Club",
-      "team_1": "91 Yards Club Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YCW@2x.png",
-      "team_2": "Icon Sports Club",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IAW@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/3YpWWV80TZ6ADmjtbCeQrw/master.m3u8"
+      "event_name": "European Cricket League, 2024",
+      "match_id": 95050,
+      "match_name": "Oslo CK vs Calpe Giants",
+      "team_1": "Oslo CK",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/OCK-CR1@2x.png",
+      "team_2": "Calpe Giants",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/CAG-CR1@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/USHctxSER96UVEZ_-rnTsw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -40,13 +40,13 @@
     {
       "event_catagory": "cricket",
       "event_name": "Abu Dhabi T20 Counties Super Cup, 2024",
-      "match_id": 96814,
-      "match_name": "Somerset vs Nottinghamshire",
-      "team_1": "Somerset",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOM@2x.png",
-      "team_2": "Nottinghamshire",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NOT@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/dbqZXWPcRt-lW1_lNWdopg/master.m3u8"
+      "match_id": 96815,
+      "match_name": "Warwickshire vs Yorkshire",
+      "team_1": "Warwickshire",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAS@2x.png",
+      "team_2": "Yorkshire",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YOR@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/5qIs44T7R8e105VYHV89RA/master.m3u8"
     },
     {
       "event_catagory": "football",
@@ -58,17 +58,6 @@
       "team_2": "Western Sydney Wanderers",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYWA@2x.png",
       "stream_link": "https://dai.fancode.com/primary/94077_english_hls_5529adfreeta-no/index.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "AFC U20 Women's Asian Cup Uzbekistan 2024",
-      "match_id": 95669,
-      "match_name": "Australia Women vs Korea Republic Women",
-      "team_1": "Australia Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AUS@2x.png",
-      "team_2": "Korea Republic Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SOK@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/flOYXhg4SN6QJH1Pi2_HmQ/master.m3u8"
     },
     {
       "event_catagory": "kabaddi",
