@@ -3,12 +3,10 @@
 https://dai.google.com/linear/hls/event/un84EvT4TXKnBXIdDA1j4w/master.m3u8
 #EXTINF:-1 tvg-name="Munde Sports Club vs Pradeep Sports Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96194" group-title="Maharashtra Champions League T20, 2024",Munde Sports Club vs Pradeep Sports Club
 https://dai.google.com/linear/hls/event/qgy4_IUdTA-0-Kc17c5x9Q/master.m3u8
-#EXTINF:-1 tvg-name="NFRSA Women vs Gauhati Town Club Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95564" group-title="Guwahati Women's League 2024",NFRSA Women vs Gauhati Town Club Women
-https://dai.google.com/linear/hls/event/vYagqBC4Tvazl1v0w3EC_A/master.m3u8
-#EXTINF:-1 tvg-name="Papua New Guinea vs Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96832" group-title="PNG tour of Malaysia, 2024",Papua New Guinea vs Malaysia
-https://dai.google.com/linear/hls/event/OgrQfPJ2SwykNBXKaq8jag/master.m3u8
-#EXTINF:-1 tvg-name="Nottinghamshire vs Somerset" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96814" group-title="Abu Dhabi T20 Counties Super Cup, 2024",Nottinghamshire vs Somerset
+#EXTINF:-1 tvg-name="Somerset vs Nottinghamshire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96814" group-title="Abu Dhabi T20 Counties Super Cup, 2024",Somerset vs Nottinghamshire
 https://dai.google.com/linear/hls/event/dbqZXWPcRt-lW1_lNWdopg/master.m3u8
+#EXTINF:-1 tvg-name="Karnali Province vs Tribhuwan Army Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96053" group-title="National T20 Championship, 2024",Karnali Province vs Tribhuwan Army Club
+https://dai.google.com/linear/hls/event/4l37g8MWQx2Sdr9HvT91ww/master.m3u8
 #EXTINF:-1 tvg-name="Vissel Kobe vs Sanfrecce Hiroshima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94671" group-title="J League 2024",Vissel Kobe vs Sanfrecce Hiroshima
 https://dai.fancode.com/primary/94671_english_hls_9190adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Consadole Sapporo vs Machida Zelvia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94670" group-title="J League 2024",Consadole Sapporo vs Machida Zelvia
@@ -17,3 +15,5 @@ https://dai.fancode.com/primary/94670_english_hls_3136adfreeta-di/index.m3u8
 https://dai.fancode.com/primary/94075_english_hls_5473adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Wellington Phoenix vs Sydney FC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94074" group-title="A League Men 2023-24",Wellington Phoenix vs Sydney FC
 https://dai.fancode.com/primary/94074_english_hls_5439adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Kolhapur District vs Nandurbar District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96228" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Kolhapur District vs Nandurbar District
+https://dai.google.com/linear/hls/event/-xIxGuNdQVq3pGJQIqxuaw/master.m3u8
