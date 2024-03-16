@@ -1,9 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Karwan Cricket Club vs Dubai Thunders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95914" group-title="ICC Academy Ramadan T20",Karwan Cricket Club vs Dubai Thunders
+https://dai.google.com/linear/hls/event/2X8mvfcuQRasAQmL77uGIg/master.m3u8
 #EXTINF:-1 tvg-name="Moufflons vs Calpe Giants" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95052" group-title="European Cricket League, 2024",Moufflons vs Calpe Giants
 https://dai.google.com/linear/hls/event/1gKwfd2CTNG4XEhO6hzmdA/master.m3u8
 #EXTINF:-1 tvg-name="Team Abu Dhabi vs Essex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96816" group-title="Abu Dhabi T20 Counties Super Cup, 2024",Team Abu Dhabi vs Essex
 https://dai.google.com/linear/hls/event/FTM8Tq8QSCi4HHzNS0pWKw/master.m3u8
 #EXTINF:-1 tvg-name="Guyana Harpy Eagles vs Barbados Pride" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93719" group-title="West Indies Championship",Guyana Harpy Eagles vs Barbados Pride
 https://dai.google.com/linear/hls/event/un84EvT4TXKnBXIdDA1j4w/master.m3u8
-#EXTINF:-1 tvg-name="Japan Women vs DPR Korea Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95670" group-title="AFC U20 Women's Asian Cup Uzbekistan 2024",Japan Women vs DPR Korea Women
-https://dai.fancode.com/primary/95670_english_hls_5587adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="West Bromwich Albion vs Bristol City" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95925" group-title="EFL Championship 2023-24",West Bromwich Albion vs Bristol City
+https://dai.google.com/linear/hls/event/-DvWOr3CR1y2uYlZZRGXRQ/master.m3u8
