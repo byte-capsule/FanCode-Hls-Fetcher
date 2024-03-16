@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="91 Yards Club Women vs Icon Sports Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95565" group-title="Guwahati Women's League 2024",91 Yards Club Women vs Icon Sports Club
 https://dai.google.com/linear/hls/event/3YpWWV80TZ6ADmjtbCeQrw/master.m3u8
+#EXTINF:-1 tvg-name="New Hind Sports Club vs Sai SIA Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96195" group-title="Maharashtra Champions League T20, 2024",New Hind Sports Club vs Sai SIA Cricket Club
+https://dai.google.com/linear/hls/event/52GC3S6_RU2G7hq9UaCTfQ/master.m3u8
 #EXTINF:-1 tvg-name="Karnali Province vs Tribhuwan Army Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96053" group-title="National T20 Championship, 2024",Karnali Province vs Tribhuwan Army Club
 https://dai.google.com/linear/hls/event/4l37g8MWQx2Sdr9HvT91ww/master.m3u8
 #EXTINF:-1 tvg-name="Guyana Harpy Eagles vs Barbados Pride" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93719" group-title="West Indies Championship",Guyana Harpy Eagles vs Barbados Pride
