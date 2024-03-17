@@ -1,10 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Karwan Cricket Club vs Alif Pharma" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95916" group-title="ICC Academy Ramadan T20",Karwan Cricket Club vs Alif Pharma
+https://dai.google.com/linear/hls/event/w3d9ktOLSrWibmNnA_T1cw/master.m3u8
 #EXTINF:-1 tvg-name="Cluj vs Calpe Giants" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95057" group-title="European Cricket League, 2024",Cluj vs Calpe Giants
 https://dai.google.com/linear/hls/event/2_cMLyP0RJeSNhf3VNIe8w/master.m3u8
 #EXTINF:-1 tvg-name="Nottinghamshire vs Warwickshire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96819" group-title="Abu Dhabi T20 Counties Super Cup, 2024",Nottinghamshire vs Warwickshire
 https://dai.google.com/linear/hls/event/Fz8SFD_2T7GtMC3R274m6w/master.m3u8
-#EXTINF:-1 tvg-name="Challengers CC vs Indorwa CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96673" group-title="RCA Men's T20, 2024",Challengers CC vs Indorwa CC
-https://dai.google.com/linear/hls/event/SzykM4g1QkqJLnbURy6O5w/master.m3u8
 #EXTINF:-1 tvg-name="Uganda vs Kenya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96503" group-title="African Games Ghana 2024 Men",Uganda vs Kenya
 https://dai.google.com/linear/hls/event/FG1zwdk5SbC-7SYx0EuEIQ/master.m3u8
 #EXTINF:-1 tvg-name="South Africa vs Ghana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96502" group-title="African Games Ghana 2024 Men",South Africa vs Ghana
