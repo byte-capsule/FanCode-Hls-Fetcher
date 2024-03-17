@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Pakistan Association Cricket Club vs Hong Kong Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95169" group-title="CHK Men's Premier League T20",Pakistan Association Cricket Club vs Hong Kong Cricket Club
-https://dai.google.com/linear/hls/event/lPsjZ_STQUa_Z6avCEXzug/master.m3u8
 #EXTINF:-1 tvg-name="Kowloon Cricket Club vs United Services Recreation Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95170" group-title="CHK Men's Premier League T20",Kowloon Cricket Club vs United Services Recreation Club
 https://dai.google.com/linear/hls/event/xn7hv_f8Q5anCb7hOQPwUA/master.m3u8
+#EXTINF:-1 tvg-name="Pakistan Association Cricket Club vs Hong Kong Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95169" group-title="CHK Men's Premier League T20",Pakistan Association Cricket Club vs Hong Kong Cricket Club
+https://dai.google.com/linear/hls/event/lPsjZ_STQUa_Z6avCEXzug/master.m3u8
 #EXTINF:-1 tvg-name="Icon Sports Club vs Gauhati Town Club Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95566" group-title="Guwahati Women's League 2024",Icon Sports Club vs Gauhati Town Club Women
 https://dai.google.com/linear/hls/event/NPfxBEtVRjOlZrVP1eU0tA/master.m3u8
 #EXTINF:-1 tvg-name="Bangalore Representative XI vs Thunder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96770" group-title="Lancashire vs Karnataka Pre-Season Tour",Bangalore Representative XI vs Thunder
