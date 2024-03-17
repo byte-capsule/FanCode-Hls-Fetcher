@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Kowloon Cricket Club Women vs Lantau Cricket Club Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95186" group-title="CHK Women's Premier League T20",Kowloon Cricket Club Women vs Lantau Cricket Club Women
-https://dai.google.com/linear/hls/event/V7mzd4BXS7OtbvBS-nNXtQ/master.m3u8
 #EXTINF:-1 tvg-name="Bangalore Representative XI vs Thunder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96770" group-title="Lancashire vs Karnataka Pre-Season Tour",Bangalore Representative XI vs Thunder
 https://dai.google.com/linear/hls/event/Yyb_hhGeTiSRC_fjj1jbMQ/master.m3u8
 #EXTINF:-1 tvg-name="Malaysia vs Papua New Guinea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96833" group-title="PNG tour of Malaysia, 2024",Malaysia vs Papua New Guinea
 https://dai.google.com/linear/hls/event/U1rp0-uJSwy-GWKONc3-IA/master.m3u8
+#EXTINF:-1 tvg-name="Icon Sports Club vs Gauhati Town Club Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95566" group-title="Guwahati Women's League 2024",Icon Sports Club vs Gauhati Town Club Women
+https://dai.google.com/linear/hls/event/NPfxBEtVRjOlZrVP1eU0tA/master.m3u8
+#EXTINF:-1 tvg-name="Satara District vs Dharashiv District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96231" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Satara District vs Dharashiv District
+https://dai.google.com/linear/hls/event/Xw72ykr2QkegHlGZm4oWMg/master.m3u8
