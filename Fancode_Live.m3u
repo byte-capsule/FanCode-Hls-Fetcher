@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Cluj vs Calpe Giants" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95057" group-title="European Cricket League, 2024",Cluj vs Calpe Giants
+https://dai.google.com/linear/hls/event/2_cMLyP0RJeSNhf3VNIe8w/master.m3u8
 #EXTINF:-1 tvg-name="Nottinghamshire vs Warwickshire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96819" group-title="Abu Dhabi T20 Counties Super Cup, 2024",Nottinghamshire vs Warwickshire
 https://dai.google.com/linear/hls/event/Fz8SFD_2T7GtMC3R274m6w/master.m3u8
 #EXTINF:-1 tvg-name="Challengers CC vs Indorwa CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96673" group-title="RCA Men's T20, 2024",Challengers CC vs Indorwa CC
@@ -15,3 +17,5 @@ https://dai.google.com/linear/hls/event/rUh-hSXHSV--fSWYipXWyQ/master.m3u8
 https://dai.google.com/linear/hls/event/H3WnEkgiT_uOhhqo8KXnwQ/master.m3u8
 #EXTINF:-1 tvg-name="Gokulam Kerala FC vs Sreenidi Deccan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94260" group-title="I League 2023-24",Gokulam Kerala FC vs Sreenidi Deccan
 https://dai.google.com/linear/hls/event/XXk4oAgOQhOVc9h7TLeWHA/master.m3u8
+#EXTINF:-1 tvg-name="Leeds United vs Millwall" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94690" group-title="EFL Championship 2023-24",Leeds United vs Millwall
+https://dai.google.com/linear/hls/event/itwQsA0eQIGLNA-gGdzA9Q/master.m3u8
