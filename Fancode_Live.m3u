@@ -13,3 +13,5 @@ https://dai.google.com/linear/hls/event/1Vq4FvX2Q7OYpvExNedPcg/master.m3u8
 https://dai.fancode.com/primary/94672_english_hls_5444adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Shonan Bellmare vs Urawa Red Diamonds" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96838" group-title="J League 2024",Shonan Bellmare vs Urawa Red Diamonds
 https://dai.fancode.com/primary/96838_english_hls_3980adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Sangli District vs Kolhapur District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96232" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Sangli District vs Kolhapur District
+https://dai.google.com/linear/hls/event/OCV0E4ITS5O0IFH0GvY60A/master.m3u8
