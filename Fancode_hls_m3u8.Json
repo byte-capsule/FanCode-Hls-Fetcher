@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 10,
-  "updated_on": "17-03-2024 on 5:02:22 PM \ud83c\udf1e",
+  "channels_amount": 11,
+  "updated_on": "17-03-2024 on 5:21:08 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -80,6 +80,17 @@
       "team_2": "Kutchi Sports Club",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KH@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/MHY0cXJmS6KuQD34Qa9Dbw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "RCA Men's T20, 2024",
+      "match_id": 96673,
+      "match_name": "Challengers CC vs Indorwa CC",
+      "team_1": "Challengers CC",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CHLC@2x.png",
+      "team_2": "Indorwa CC",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IR@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/SzykM4g1QkqJLnbURy6O5w/master.m3u8"
     },
     {
       "event_catagory": "cricket",
