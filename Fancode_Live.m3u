@@ -5,19 +5,17 @@ https://dai.google.com/linear/hls/event/R8y5laG1Th6X4FCXobxW-w/master.m3u8
 https://dai.google.com/linear/hls/event/igNhrZRoSSeNKpiR8UEy9Q/master.m3u8
 #EXTINF:-1 tvg-name="Challengers CC vs Indorwa CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96673" group-title="RCA Men's T20, 2024",Challengers CC vs Indorwa CC
 https://dai.google.com/linear/hls/event/SzykM4g1QkqJLnbURy6O5w/master.m3u8
-#EXTINF:-1 tvg-name="New Hind Sports Club vs Pradeep Sports Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96196" group-title="Maharashtra Champions League T20, 2024",New Hind Sports Club vs Pradeep Sports Club
-https://dai.google.com/linear/hls/event/UvgSU_l-Rtapmqa5ysuWtg/master.m3u8
-#EXTINF:-1 tvg-name="Zimbabwe vs Namibia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96501" group-title="African Games Ghana 2024 Men",Zimbabwe vs Namibia
-https://dai.google.com/linear/hls/event/jzmJ5k4PRmu9OmYrDue2SQ/master.m3u8
-#EXTINF:-1 tvg-name="Tanzania vs Nigeria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96500" group-title="African Games Ghana 2024 Men",Tanzania vs Nigeria
-https://dai.google.com/linear/hls/event/h4vnlTAiTgOf0SeGZCtcIw/master.m3u8
-#EXTINF:-1 tvg-name="Limpopo vs Knights" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95748" group-title="CSA Provincial T20 Cup, 2024",Limpopo vs Knights
-https://dai.google.com/linear/hls/event/1tGsQkvWQA2MpAqtfOFisA/master.m3u8
-#EXTINF:-1 tvg-name="Imperial Lions vs Western Province" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95777" group-title="CSA T20 Challenge, 2024",Imperial Lions vs Western Province
+#EXTINF:-1 tvg-name="Western Province vs Imperial Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95777" group-title="CSA T20 Challenge, 2024",Western Province vs Imperial Lions
 https://dai.google.com/linear/hls/event/8HznpqjjRbacskiu4EXDiw/master.m3u8
 #EXTINF:-1 tvg-name="Dolphins vs North West Dragons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95776" group-title="CSA T20 Challenge, 2024",Dolphins vs North West Dragons
 https://dai.google.com/linear/hls/event/Rqjfsr_USPSNT_ETZoFygw/master.m3u8
 #EXTINF:-1 tvg-name="Warriors vs Boland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95775" group-title="CSA T20 Challenge, 2024",Warriors vs Boland
 https://dai.google.com/linear/hls/event/rUh-hSXHSV--fSWYipXWyQ/master.m3u8
+#EXTINF:-1 tvg-name="Tanzania vs Nigeria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96500" group-title="African Games Ghana 2024 Men",Tanzania vs Nigeria
+https://dai.google.com/linear/hls/event/h4vnlTAiTgOf0SeGZCtcIw/master.m3u8
+#EXTINF:-1 tvg-name="Limpopo vs Knights" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95748" group-title="CSA Provincial T20 Cup, 2024",Limpopo vs Knights
+https://dai.google.com/linear/hls/event/1tGsQkvWQA2MpAqtfOFisA/master.m3u8
 #EXTINF:-1 tvg-name="NEROCA FC vs Mohammedan SC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94259" group-title="I League 2023-24",NEROCA FC vs Mohammedan SC
 https://dai.google.com/linear/hls/event/qr-P5p4dTa2JIVdS7lN6AQ/master.m3u8
+#EXTINF:-1 tvg-name="Brighton and Hove Albion Women vs Manchester City Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94344" group-title="Barclays FA Women's Super League 2023-24",Brighton and Hove Albion Women vs Manchester City Women
+https://dai.fancode.com/primary/94344_english_hls_5430adfreeta-di/index.m3u8
