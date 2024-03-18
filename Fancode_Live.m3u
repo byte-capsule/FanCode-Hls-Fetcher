@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Afghanistan vs Ireland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93922" group-title="Ireland tour of Afghanistan, 2024",Afghanistan vs Ireland
+https://dai.google.com/linear/hls/event/VQ3k9mOtQReicfjGzajuLA/master.m3u8
 #EXTINF:-1 tvg-name="Jinnah Brescia vs Forfarshire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95061" group-title="European Cricket League, 2024",Jinnah Brescia vs Forfarshire
 https://dai.google.com/linear/hls/event/1wKRIDXsTu660eyV3lIfBA/master.m3u8
 #EXTINF:-1 tvg-name="Kenya vs South Africa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96507" group-title="African Games Ghana 2024 Men",Kenya vs South Africa
