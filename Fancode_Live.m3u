@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Adilabad Tigers vs Rangareddy Royals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96627" group-title="VCAT MASTERS PREMIER LEAGUE",Adilabad Tigers vs Rangareddy Royals
+#EXTINF:-1 tvg-name="Rangareddy Royals vs Adilabad Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96627" group-title="VCAT MASTERS PREMIER LEAGUE",Rangareddy Royals vs Adilabad Tigers
 https://dai.google.com/linear/hls/event/62JaRzqbRwiDAc4F6Hlzrg/master.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka vs Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93983" group-title="Sri Lanka tour of Bangladesh, 2024",Sri Lanka vs Bangladesh
 https://dai.google.com/linear/hls/event/FiNVlpEWQY2f2jZ4U1B3-w/master.m3u8
 #EXTINF:-1 tvg-name="Bangalore Representative XI vs Thunder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96773" group-title="Lancashire vs Karnataka Pre-Season Tour",Bangalore Representative XI vs Thunder
 https://dai.google.com/linear/hls/event/aqYB95CURxSynQGCCJCb_A/master.m3u8
-#EXTINF:-1 tvg-name="Sangli District vs Nashik District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96235" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Sangli District vs Nashik District
-https://dai.google.com/linear/hls/event/OJLTM11hQx-u_mRJ9by79Q/master.m3u8
