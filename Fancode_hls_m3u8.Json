@@ -2,7 +2,7 @@
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "channels_amount": 4,
-  "updated_on": "19-03-2024 on 11:27:08 AM \ud83c\udf1e",
+  "updated_on": "19-03-2024 on 11:41:05 AM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -28,6 +28,17 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "VCAT MASTERS PREMIER LEAGUE",
+      "match_id": 96638,
+      "match_name": "Nalgonda Lions vs Adilabad Tigers",
+      "team_1": "Nalgonda Lions",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NLL@2x.png",
+      "team_2": "Adilabad Tigers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ADT@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/RSDZZUVQRsSaatm5XAt73Q/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "Lancashire vs Karnataka Pre-Season Tour",
       "match_id": 96774,
       "match_name": "Karnataka vs Lancashire",
@@ -36,17 +47,6 @@
       "team_2": "Lancashire",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LAN@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/PyY45vNpT0ekBdMvPLjDnw/master.m3u8"
-    },
-    {
-      "event_catagory": "kabaddi",
-      "event_name": "KMP Yuva Kabaddi Inter District Youth League, 2024",
-      "match_id": 96239,
-      "match_name": "Ahmednagar District vs Nandurbar District",
-      "team_1": "Ahmednagar District",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-AH@2x.png",
-      "team_2": "Nandurbar District",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-NDR@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/sT2b_RooT7iTcXVTGRjoow/master.m3u8"
     }
   ]
 }
