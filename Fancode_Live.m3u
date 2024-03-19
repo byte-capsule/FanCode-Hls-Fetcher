@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Adilabad Tigers vs Nalgonda Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96638" group-title="VCAT MASTERS PREMIER LEAGUE",Adilabad Tigers vs Nalgonda Lions
-https://dai.google.com/linear/hls/event/RSDZZUVQRsSaatm5XAt73Q/master.m3u8
 #EXTINF:-1 tvg-name="Hyderabad Heroes vs Mahbubnagar Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96639" group-title="VCAT MASTERS PREMIER LEAGUE",Hyderabad Heroes vs Mahbubnagar Warriors
 https://dai.google.com/linear/hls/event/oGMj6nm-ShyJ7cZek7QPFw/master.m3u8
+#EXTINF:-1 tvg-name="Adilabad Tigers vs Nalgonda Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96638" group-title="VCAT MASTERS PREMIER LEAGUE",Adilabad Tigers vs Nalgonda Lions
+https://dai.google.com/linear/hls/event/RSDZZUVQRsSaatm5XAt73Q/master.m3u8
 #EXTINF:-1 tvg-name="Karnataka vs Lancashire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96774" group-title="Lancashire vs Karnataka Pre-Season Tour",Karnataka vs Lancashire
 https://dai.google.com/linear/hls/event/PyY45vNpT0ekBdMvPLjDnw/master.m3u8
