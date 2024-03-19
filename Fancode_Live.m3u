@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Cochin Hurricanes vs Young Lions CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96415" group-title="Kuwait T10 Ramadan Challengers Cup",Cochin Hurricanes vs Young Lions CC
-https://dai.google.com/linear/hls/event/CExKgqdNTJSPxqc0G6FPaw/master.m3u8
-#EXTINF:-1 tvg-name="Seven Districts Juniors vs Wavilog Tech CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96707" group-title="ICC Academy Ramadan T10",Seven Districts Juniors vs Wavilog Tech CC
-https://dai.google.com/linear/hls/event/KPHtcdf2RTe8vliuATqU8g/master.m3u8
 #EXTINF:-1 tvg-name="Anadolu Efes Istanbul vs Olympiacos Piraeus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="92650" group-title="Euro League",Anadolu Efes Istanbul vs Olympiacos Piraeus
 https://dai.google.com/linear/hls/event/Tm4HODUNQau2c2RpsMps3Q/master.m3u8
