@@ -1,7 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Gauhati Town Club vs Bud Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96994" group-title="Guwahati Premier League, 2024",Gauhati Town Club vs Bud Cricket Club
+https://dai.google.com/linear/hls/event/D0YKwGxgQfa8GuDFBdkvmA/master.m3u8
 #EXTINF:-1 tvg-name="Rangareddy Royals vs Karimnagar Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96640" group-title="VCAT MASTERS PREMIER LEAGUE",Rangareddy Royals vs Karimnagar Kings
 https://dai.google.com/linear/hls/event/WjD5gHwdRku5xUmncprDRg/master.m3u8
 #EXTINF:-1 tvg-name="Karnataka vs Lancashire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96774" group-title="Lancashire vs Karnataka Pre-Season Tour",Karnataka vs Lancashire
 https://dai.google.com/linear/hls/event/PyY45vNpT0ekBdMvPLjDnw/master.m3u8
-#EXTINF:-1 tvg-name="Gauhati Town Club vs Bud Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96994" group-title="Guwahati Premier League, 2024",Gauhati Town Club vs Bud Cricket Club
-https://dai.google.com/linear/hls/event/D0YKwGxgQfa8GuDFBdkvmA/master.m3u8
+#EXTINF:-1 tvg-name="Ahmednagar District vs Nandurbar District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96239" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Ahmednagar District vs Nandurbar District
+https://dai.google.com/linear/hls/event/sT2b_RooT7iTcXVTGRjoow/master.m3u8
