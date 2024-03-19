@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Old Victorians vs Jinnah Brescia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95064" group-title="European Cricket League, 2024",Old Victorians vs Jinnah Brescia
+https://dai.google.com/linear/hls/event/qyXdq-DMQFugw5ECAor9Yg/master.m3u8
 #EXTINF:-1 tvg-name="Mahbubnagar Warriors vs Hyderabad Heroes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96639" group-title="VCAT MASTERS PREMIER LEAGUE",Mahbubnagar Warriors vs Hyderabad Heroes
 https://dai.google.com/linear/hls/event/oGMj6nm-ShyJ7cZek7QPFw/master.m3u8
 #EXTINF:-1 tvg-name="Karnataka vs Lancashire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96774" group-title="Lancashire vs Karnataka Pre-Season Tour",Karnataka vs Lancashire
