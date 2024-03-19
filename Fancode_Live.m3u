@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Dreux vs Forfarshire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95066" group-title="European Cricket League, 2024",Dreux vs Forfarshire
 https://dai.google.com/linear/hls/event/Qf3br0MgQM-wqlrqaN7E5g/master.m3u8
-#EXTINF:-1 tvg-name="City Cricket Club vs Stallion Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96995" group-title="Guwahati Premier League, 2024",City Cricket Club vs Stallion Cricket Club
-https://dai.google.com/linear/hls/event/URa0MnXhTM25l11kv3VAOQ/master.m3u8
 #EXTINF:-1 tvg-name="Barbados Women vs Windward Islands Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95965" group-title="CWI Women's T20 Blaze, 2024",Barbados Women vs Windward Islands Women
 https://dai.google.com/linear/hls/event/RGzAVGBQTgGXcncudAh3Fw/master.m3u8
+#EXTINF:-1 tvg-name="Prim Height Transport vs DCC Starlets" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96706" group-title="ICC Academy Ramadan T10",Prim Height Transport vs DCC Starlets
+https://dai.google.com/linear/hls/event/KpwnFsbZRom0gUog3VymiA/master.m3u8
 #EXTINF:-1 tvg-name="Sangli District vs Mumbai Shahar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96242" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Sangli District vs Mumbai Shahar
 https://dai.google.com/linear/hls/event/3eX99tqCR4COwGCR4axqSA/master.m3u8
