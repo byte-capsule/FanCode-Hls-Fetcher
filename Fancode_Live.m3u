@@ -1,15 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Pak I Care Badalona vs Jinnah Brescia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95072" group-title="European Cricket League, 2024",Pak I Care Badalona vs Jinnah Brescia
-https://dai.google.com/linear/hls/event/vgNmIYPWQXmjnquVIMnwYQ/master.m3u8
+#EXTINF:-1 tvg-name="Old Victorians vs CIYMS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95073" group-title="European Cricket League, 2024",Old Victorians vs CIYMS
+https://dai.google.com/linear/hls/event/ktcMze23Q66hZnEAGPGBIw/master.m3u8
 #EXTINF:-1 tvg-name="Tanzania vs Namibia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96511" group-title="African Games Ghana 2024 Men",Tanzania vs Namibia
 https://dai.google.com/linear/hls/event/ebwhoh0YSWeS1C8P0POuiA/master.m3u8
-#EXTINF:-1 tvg-name="Nigeria vs Zimbabwe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96510" group-title="African Games Ghana 2024 Men",Nigeria vs Zimbabwe
-https://dai.google.com/linear/hls/event/e46Vw2E4SASDfq9ZNahHNQ/master.m3u8
+#EXTINF:-1 tvg-name="Dolphins vs Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95778" group-title="CSA T20 Challenge, 2024",Dolphins vs Titans
+https://dai.google.com/linear/hls/event/m3BfDk7KQruV0iY4kM1xBA/master.m3u8
 #EXTINF:-1 tvg-name="Arqam Cricket Club vs AZ Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96867" group-title="Sharjah Ramadan T20 League, 2024",Arqam Cricket Club vs AZ Sports
 https://dai.google.com/linear/hls/event/2wuLxS9ETfO78uRB3GdLSA/master.m3u8
 #EXTINF:-1 tvg-name="West Indies Academy vs Combined Campuses and Colleges" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93725" group-title="West Indies Championship",West Indies Academy vs Combined Campuses and Colleges
 https://dai.google.com/linear/hls/event/Qbq1yGeMQK6w6RHlyvdnNA/master.m3u8
 #EXTINF:-1 tvg-name="Karnataka vs Lancashire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96774" group-title="Lancashire vs Karnataka Pre-Season Tour",Karnataka vs Lancashire
 https://dai.google.com/linear/hls/event/sizOYK0wQna7DEj4RzyPDQ/master.m3u8
-#EXTINF:-1 tvg-name="Dolphins vs Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95778" group-title="CSA T20 Challenge, 2024",Dolphins vs Titans
-https://dai.google.com/linear/hls/event/m3BfDk7KQruV0iY4kM1xBA/master.m3u8
