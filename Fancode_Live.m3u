@@ -1,11 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Nabajyoti Club vs 91 Yards Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96996" group-title="Guwahati Premier League, 2024",Nabajyoti Club vs 91 Yards Club
 https://dai.google.com/linear/hls/event/rYuebD7YSFWFwZQiRAOJww/master.m3u8
-#EXTINF:-1 tvg-name="Hyderabad Heroes vs Rangareddy Royals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96629" group-title="VCAT MASTERS PREMIER LEAGUE",Hyderabad Heroes vs Rangareddy Royals
-https://dai.google.com/linear/hls/event/TopARGf1SGOz-7TzlFfLvQ/master.m3u8
-#EXTINF:-1 tvg-name="Nalgonda Lions vs Mahbubnagar Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96630" group-title="VCAT MASTERS PREMIER LEAGUE",Nalgonda Lions vs Mahbubnagar Warriors
+#EXTINF:-1 tvg-name="Mahbubnagar Warriors vs Nalgonda Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96630" group-title="VCAT MASTERS PREMIER LEAGUE",Mahbubnagar Warriors vs Nalgonda Lions
 https://dai.google.com/linear/hls/event/GnuUK7VdQJCY7eKERHh2jw/master.m3u8
 #EXTINF:-1 tvg-name="Karnataka vs Lancashire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96774" group-title="Lancashire vs Karnataka Pre-Season Tour",Karnataka vs Lancashire
 https://dai.google.com/linear/hls/event/sizOYK0wQna7DEj4RzyPDQ/master.m3u8
-#EXTINF:-1 tvg-name="Beed District vs Ahmednagar District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96243" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Beed District vs Ahmednagar District
-https://dai.google.com/linear/hls/event/78RcLzp4Rf2Gls4165qONA/master.m3u8
