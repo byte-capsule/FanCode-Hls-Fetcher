@@ -1,14 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Old Victorians vs Pak I Care Badalona" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95070" group-title="European Cricket League, 2024",Old Victorians vs Pak I Care Badalona
 https://dai.google.com/linear/hls/event/8RW8sP1TSgifPfGLvAUkCQ/master.m3u8
-#EXTINF:-1 tvg-name="Adilabad Tigers vs Karimnagar Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96631" group-title="VCAT MASTERS PREMIER LEAGUE",Adilabad Tigers vs Karimnagar Kings
-https://dai.google.com/linear/hls/event/Ihz05Y7JTlWbQu_dSFZhXQ/master.m3u8
+#EXTINF:-1 tvg-name="New Star Club vs SG Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96997" group-title="Guwahati Premier League, 2024",New Star Club vs SG Club
+https://dai.google.com/linear/hls/event/4cpXalC8SCunSPgfE3wzmQ/master.m3u8
 #EXTINF:-1 tvg-name="South Africa vs Uganda" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96509" group-title="African Games Ghana 2024 Men",South Africa vs Uganda
 https://dai.google.com/linear/hls/event/3AiDcme7Tmqv4ChpI9f0MQ/master.m3u8
 #EXTINF:-1 tvg-name="Ghana vs Kenya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96508" group-title="African Games Ghana 2024 Men",Ghana vs Kenya
 https://dai.google.com/linear/hls/event/vl9x5STqQzmsNrAn1glFHg/master.m3u8
 #EXTINF:-1 tvg-name="Karnataka vs Lancashire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96774" group-title="Lancashire vs Karnataka Pre-Season Tour",Karnataka vs Lancashire
 https://dai.google.com/linear/hls/event/sizOYK0wQna7DEj4RzyPDQ/master.m3u8
+#EXTINF:-1 tvg-name="Easterns vs Knights" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95750" group-title="CSA Provincial T20 Cup, 2024",Easterns vs Knights
+https://dai.google.com/linear/hls/event/9c_mOYpJT4e7QClojaWqzA/master.m3u8
 #EXTINF:-1 tvg-name="Sporting Clube de Goa vs Cortalim Villagers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97155" group-title="Goa Professional League 2023-24",Sporting Clube de Goa vs Cortalim Villagers
 https://dai.google.com/linear/hls/event/ZuueCQpsSoeqjTREhsrG6A/master.m3u8
 #EXTINF:-1 tvg-name="Geno SC vs Sesa FA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97153" group-title="Goa Professional League 2023-24",Geno SC vs Sesa FA
