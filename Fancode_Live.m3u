@@ -1,3 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Karnataka vs Lancashire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96774" group-title="Lancashire vs Karnataka Pre-Season Tour",Karnataka vs Lancashire
+https://dai.google.com/linear/hls/event/sizOYK0wQna7DEj4RzyPDQ/master.m3u8
 #EXTINF:-1 tvg-name="Hyderabad Heroes vs Rangareddy Royals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96629" group-title="VCAT MASTERS PREMIER LEAGUE",Hyderabad Heroes vs Rangareddy Royals
 https://dai.google.com/linear/hls/event/TopARGf1SGOz-7TzlFfLvQ/master.m3u8
