@@ -1,52 +1,7 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 4,
-  "updated_on": "22-03-2024 on 00:40:59 AM \ud83c\udf19",
-  "channels": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Sharjah Ramadan T20 League, 2024",
-      "match_id": 96869,
-      "match_name": "Z Games Strikers vs Royal Phoenix Clinic",
-      "team_1": "Z Games Strikers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZGMES@2x.png",
-      "team_2": "Royal Phoenix Clinic",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RPC-CR2@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/4hSIyFYSS22RK4GSU-6NWg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC Academy Ramadan T10",
-      "match_id": 96710,
-      "match_name": "London Royals vs Dubai Thunders",
-      "team_1": "London Royals",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LR@2x.png",
-      "team_2": "Dubai Thunders",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DTT@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/m03XyHVhQRijVIIHBO6MbA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "West Indies Championship",
-      "match_id": 93725,
-      "match_name": "West Indies Academy vs Combined Campuses and Colleges",
-      "team_1": "West Indies Academy",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIC@2x.png",
-      "team_2": "Combined Campuses and Colleges",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CCCM@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/Qbq1yGeMQK6w6RHlyvdnNA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Kuwait Ramadan T10 Elite Cup",
-      "match_id": 96779,
-      "match_name": "Al Hajery Team XI vs Al Rasheed",
-      "team_1": "Al Hajery Team XI",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ALJH@2x.png",
-      "team_2": "Al Rasheed",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ARS@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/TfymhwBhRA--X2bNR3ZVwQ/master.m3u8"
-    }
-  ]
+  "channels_amount": 0,
+  "updated_on": "22-03-2024 on 01:04:18 AM \ud83c\udf19",
+  "channels": []
 }
