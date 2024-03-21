@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="West Indies Academy vs Combined Campuses and Colleges" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93725" group-title="West Indies Championship",West Indies Academy vs Combined Campuses and Colleges
+https://dai.google.com/linear/hls/event/Qbq1yGeMQK6w6RHlyvdnNA/master.m3u8
+#EXTINF:-1 tvg-name="Karnataka vs Lancashire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96774" group-title="Lancashire vs Karnataka Pre-Season Tour",Karnataka vs Lancashire
+https://dai.google.com/linear/hls/event/sizOYK0wQna7DEj4RzyPDQ/master.m3u8
