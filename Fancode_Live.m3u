@@ -1,12 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Adilabad Tigers vs Hyderabad Heroes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96633" group-title="VCAT MASTERS PREMIER LEAGUE",Adilabad Tigers vs Hyderabad Heroes
+https://dai.google.com/linear/hls/event/QXnoT7BoTLar8YG1wGuCQA/master.m3u8
 #EXTINF:-1 tvg-name="Stallion Cricket Club vs Nabajyoti Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96998" group-title="Guwahati Premier League, 2024",Stallion Cricket Club vs Nabajyoti Club
 https://dai.google.com/linear/hls/event/wJJJdFouQ2OFrdvgDpohHQ/master.m3u8
 #EXTINF:-1 tvg-name="Australia Women vs Bangladesh Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97052" group-title="Australia Women's tour of Bangladesh",Australia Women vs Bangladesh Women
 https://dai.google.com/linear/hls/event/pIUJvkYCSw2SYHnSyqqbEA/master.m3u8
 #EXTINF:-1 tvg-name="West Indies Academy vs Combined Campuses and Colleges" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93725" group-title="West Indies Championship",West Indies Academy vs Combined Campuses and Colleges
 https://dai.google.com/linear/hls/event/Qbq1yGeMQK6w6RHlyvdnNA/master.m3u8
-#EXTINF:-1 tvg-name="Adilabad Tigers vs Hyderabad Heroes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96633" group-title="VCAT MASTERS PREMIER LEAGUE",Adilabad Tigers vs Hyderabad Heroes
-https://dai.google.com/linear/hls/event/QXnoT7BoTLar8YG1wGuCQA/master.m3u8
 #EXTINF:-1 tvg-name="Karnataka vs Lancashire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96774" group-title="Lancashire vs Karnataka Pre-Season Tour",Karnataka vs Lancashire
 https://dai.google.com/linear/hls/event/85jvEN1TSS65_RSf2Q_Efg/master.m3u8
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97318" group-title="Porsche Singapore Classic",Day 1
