@@ -11,3 +11,5 @@ https://dai.google.com/linear/hls/event/85jvEN1TSS65_RSf2Q_Efg/master.m3u8
 https://dai.google.com/linear/hls/event/wJJJdFouQ2OFrdvgDpohHQ/master.m3u8
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97318" group-title="Porsche Singapore Classic",Day 1
 https://dai.fancode.com/primary/97318_english_hls_5941adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Kolhapur District vs Palghar District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96247" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Kolhapur District vs Palghar District
+https://dai.google.com/linear/hls/event/rKpxlU_BSMmy4p4htimLnA/master.m3u8
