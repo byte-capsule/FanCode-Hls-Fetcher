@@ -9,5 +9,7 @@ https://dai.google.com/linear/hls/event/Qbq1yGeMQK6w6RHlyvdnNA/master.m3u8
 https://dai.google.com/linear/hls/event/2cU4I0UVTJWvHGiEOTItIg/master.m3u8
 #EXTINF:-1 tvg-name="Karnataka vs Lancashire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96774" group-title="Lancashire vs Karnataka Pre-Season Tour",Karnataka vs Lancashire
 https://dai.google.com/linear/hls/event/85jvEN1TSS65_RSf2Q_Efg/master.m3u8
+#EXTINF:-1 tvg-name="Namibia vs Uganda" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96512" group-title="African Games Ghana 2024 Men",Namibia vs Uganda
+https://dai.google.com/linear/hls/event/9uQsVq8yTzKGoxv6_gMHzw/master.m3u8
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97318" group-title="Porsche Singapore Classic",Day 1
 https://dai.fancode.com/primary/97318_english_hls_5941adfreeta-no/index.m3u8
