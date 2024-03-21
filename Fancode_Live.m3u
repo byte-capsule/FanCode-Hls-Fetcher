@@ -9,13 +9,11 @@ https://dai.google.com/linear/hls/event/mBPTqFPuQaq6vOTyupCHTA/master.m3u8
 https://dai.google.com/linear/hls/event/mkM75618Q5qWuCjq7wAyBg/master.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe vs Kenya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96513" group-title="African Games Ghana 2024 Men",Zimbabwe vs Kenya
 https://dai.google.com/linear/hls/event/0B0lvsvJTe2Pl3mS7K0e8w/master.m3u8
-#EXTINF:-1 tvg-name="West Indies Academy vs Combined Campuses and Colleges" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93725" group-title="West Indies Championship",West Indies Academy vs Combined Campuses and Colleges
-https://dai.google.com/linear/hls/event/Qbq1yGeMQK6w6RHlyvdnNA/master.m3u8
 #EXTINF:-1 tvg-name="Windward Islands Women vs Trinidad and Tobago Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95968" group-title="CWI Women's T20 Blaze, 2024",Windward Islands Women vs Trinidad and Tobago Women
 https://dai.google.com/linear/hls/event/QNSfn2FjTUKiER49HTrGiA/master.m3u8
+#EXTINF:-1 tvg-name="West Indies Academy vs Combined Campuses and Colleges" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93725" group-title="West Indies Championship",West Indies Academy vs Combined Campuses and Colleges
+https://dai.google.com/linear/hls/event/Qbq1yGeMQK6w6RHlyvdnNA/master.m3u8
 #EXTINF:-1 tvg-name="Nandurbar District vs Ratnagiri District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96250" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Nandurbar District vs Ratnagiri District
 https://dai.google.com/linear/hls/event/_I_DLt51RMynF2686MYTDA/master.m3u8
-#EXTINF:-1 tvg-name="Chandigarh vs Telangana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97491" group-title="70th Senior Nationals Kabaddi Championship",Chandigarh vs Telangana
-https://dai.fancode.com/primary/97491_english_hls_5565adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Uttar Pradesh vs Jammu & Kashmir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97492" group-title="70th Senior Nationals Kabaddi Championship",Uttar Pradesh vs Jammu & Kashmir
+#EXTINF:-1 tvg-name="Himachal Pradesh vs Tripura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97492" group-title="70th Senior Nationals Kabaddi Championship",Himachal Pradesh vs Tripura
 https://dai.fancode.com/primary/97492_english_hls_6106adfreeta-di/index.m3u8
