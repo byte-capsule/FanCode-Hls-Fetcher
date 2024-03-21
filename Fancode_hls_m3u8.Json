@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 8,
-  "updated_on": "21-03-2024 on 10:07:52 PM \ud83c\udf19",
+  "channels_amount": 9,
+  "updated_on": "21-03-2024 on 10:31:12 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -18,13 +18,13 @@
     {
       "event_catagory": "cricket",
       "event_name": "European Cricket League, 2024",
-      "match_id": 95077,
-      "match_name": "Old Victorians vs Forfarshire",
-      "team_1": "Old Victorians",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/OV-CR1@2x.png",
-      "team_2": "Forfarshire",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FCC@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/mBPTqFPuQaq6vOTyupCHTA/master.m3u8"
+      "match_id": 95078,
+      "match_name": "CIYMS vs Jinnah Brescia",
+      "team_1": "CIYMS",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CYI@2x.png",
+      "team_2": "Jinnah Brescia",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/JIB-CR1@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/BlMhkGQ5SsudLZ3MVU4Uhg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -61,17 +61,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "ICC Academy Ramadan T10",
-      "match_id": 96709,
-      "match_name": "DCC Starlets vs Wavilog Tech CC",
-      "team_1": "DCC Starlets",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DCC@2x.png",
-      "team_2": "Wavilog Tech CC",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAV@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/42uF7ul-SEiZ5XLAUhLIlA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "Dream11 Bago T10 Blast, 2nd Edition, 2024",
       "match_id": 97121,
       "match_name": "Pirates Bay Raiders vs Mt Irvine Surfers",
@@ -80,6 +69,17 @@
       "team_2": "Mt Irvine Surfers",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MIS@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/DiYg9b8hR7mtraPNAOB-_w/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC Academy Ramadan T10",
+      "match_id": 96709,
+      "match_name": "DCC Starlets vs Wavilog Tech CC",
+      "team_1": "DCC Starlets",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DCC@2x.png",
+      "team_2": "Wavilog Tech CC",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAV@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/42uF7ul-SEiZ5XLAUhLIlA/master.m3u8"
     },
     {
       "event_catagory": "kabaddi",
@@ -91,6 +91,17 @@
       "team_2": "Jharkhand",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/DEF-KB7@2x.png",
       "stream_link": "https://dai.fancode.com/primary/97493_english_hls_8905adfreeta-di/index.m3u8"
+    },
+    {
+      "event_catagory": "kabaddi",
+      "event_name": "70th Senior Nationals Kabaddi Championship",
+      "match_id": 97494,
+      "match_name": "Himachal Pradesh vs Uttarakhand",
+      "team_1": "Himachal Pradesh",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/DEF-KB1@2x.png",
+      "team_2": "Uttarakhand",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/DEF-KB3@2x.png",
+      "stream_link": "https://dai.fancode.com/primary/97494_english_hls_9421adfreeta-no/index.m3u8"
     }
   ]
 }

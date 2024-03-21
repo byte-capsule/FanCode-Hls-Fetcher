@@ -1,17 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Z Games Strikers vs Royal Phoenix Clinic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96869" group-title="Sharjah Ramadan T20 League, 2024",Z Games Strikers vs Royal Phoenix Clinic
 https://dai.google.com/linear/hls/event/4hSIyFYSS22RK4GSU-6NWg/master.m3u8
-#EXTINF:-1 tvg-name="Old Victorians vs Forfarshire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95077" group-title="European Cricket League, 2024",Old Victorians vs Forfarshire
-https://dai.google.com/linear/hls/event/mBPTqFPuQaq6vOTyupCHTA/master.m3u8
+#EXTINF:-1 tvg-name="CIYMS vs Jinnah Brescia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95078" group-title="European Cricket League, 2024",CIYMS vs Jinnah Brescia
+https://dai.google.com/linear/hls/event/BlMhkGQ5SsudLZ3MVU4Uhg/master.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe vs Kenya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96513" group-title="African Games Ghana 2024 Men",Zimbabwe vs Kenya
 https://dai.google.com/linear/hls/event/0B0lvsvJTe2Pl3mS7K0e8w/master.m3u8
 #EXTINF:-1 tvg-name="Windward Islands Women vs Trinidad and Tobago Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95968" group-title="CWI Women's T20 Blaze, 2024",Windward Islands Women vs Trinidad and Tobago Women
 https://dai.google.com/linear/hls/event/QNSfn2FjTUKiER49HTrGiA/master.m3u8
 #EXTINF:-1 tvg-name="West Indies Academy vs Combined Campuses and Colleges" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93725" group-title="West Indies Championship",West Indies Academy vs Combined Campuses and Colleges
 https://dai.google.com/linear/hls/event/Qbq1yGeMQK6w6RHlyvdnNA/master.m3u8
-#EXTINF:-1 tvg-name="DCC Starlets vs Wavilog Tech CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96709" group-title="ICC Academy Ramadan T10",DCC Starlets vs Wavilog Tech CC
-https://dai.google.com/linear/hls/event/42uF7ul-SEiZ5XLAUhLIlA/master.m3u8
 #EXTINF:-1 tvg-name="Pirates Bay Raiders vs Mt Irvine Surfers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97121" group-title="Dream11 Bago T10 Blast, 2nd Edition, 2024",Pirates Bay Raiders vs Mt Irvine Surfers
 https://dai.google.com/linear/hls/event/DiYg9b8hR7mtraPNAOB-_w/master.m3u8
+#EXTINF:-1 tvg-name="DCC Starlets vs Wavilog Tech CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96709" group-title="ICC Academy Ramadan T10",DCC Starlets vs Wavilog Tech CC
+https://dai.google.com/linear/hls/event/42uF7ul-SEiZ5XLAUhLIlA/master.m3u8
 #EXTINF:-1 tvg-name="Tamil Nadu vs Jharkhand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97493" group-title="70th Senior Nationals Kabaddi Championship",Tamil Nadu vs Jharkhand
 https://dai.fancode.com/primary/97493_english_hls_8905adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Himachal Pradesh vs Uttarakhand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97494" group-title="70th Senior Nationals Kabaddi Championship",Himachal Pradesh vs Uttarakhand
+https://dai.fancode.com/primary/97494_english_hls_9421adfreeta-no/index.m3u8
