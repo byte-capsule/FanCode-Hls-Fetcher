@@ -2,7 +2,7 @@
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "channels_amount": 7,
-  "updated_on": "21-03-2024 on 10:43:05 PM \ud83c\udf19",
+  "updated_on": "21-03-2024 on 11:03:52 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -25,17 +25,6 @@
       "team_2": "Jinnah Brescia",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/JIB-CR1@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/BlMhkGQ5SsudLZ3MVU4Uhg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "CWI Women's T20 Blaze, 2024",
-      "match_id": 95968,
-      "match_name": "Windward Islands Women vs Trinidad and Tobago Women",
-      "team_1": "Windward Islands Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WNII@2x.png",
-      "team_2": "Trinidad and Tobago Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TNRF@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/QNSfn2FjTUKiER49HTrGiA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -71,14 +60,25 @@
       "stream_link": "https://dai.google.com/linear/hls/event/42uF7ul-SEiZ5XLAUhLIlA/master.m3u8"
     },
     {
+      "event_catagory": "cricket",
+      "event_name": "ICC Academy Ramadan T10",
+      "match_id": 96710,
+      "match_name": "London Royals vs Dubai Thunders",
+      "team_1": "London Royals",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LR@2x.png",
+      "team_2": "Dubai Thunders",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DTT@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/m03XyHVhQRijVIIHBO6MbA/master.m3u8"
+    },
+    {
       "event_catagory": "kabaddi",
       "event_name": "70th Senior Nationals Kabaddi Championship",
       "match_id": 97494,
-      "match_name": "Himachal Pradesh vs Uttarakhand",
-      "team_1": "Himachal Pradesh",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/DEF-KB1@2x.png",
-      "team_2": "Uttarakhand",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/DEF-KB3@2x.png",
+      "match_name": "Bihar vs West Bengal",
+      "team_1": "Bihar",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/DEF-KB8@2x.png",
+      "team_2": "West Bengal",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/DEF-KB10@2x.png",
       "stream_link": "https://dai.fancode.com/primary/97494_english_hls_9421adfreeta-no/index.m3u8"
     }
   ]
