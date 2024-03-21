@@ -1,14 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Forfarshire vs Pak I Care Badalona" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95075" group-title="European Cricket League, 2024",Forfarshire vs Pak I Care Badalona
 https://dai.google.com/linear/hls/event/bdmhoCNuQkuU0lG-XWIMAA/master.m3u8
+#EXTINF:-1 tvg-name="City Cricket Club vs 91 Yards Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96999" group-title="Guwahati Premier League, 2024",City Cricket Club vs 91 Yards Club
+https://dai.google.com/linear/hls/event/mkM75618Q5qWuCjq7wAyBg/master.m3u8
 #EXTINF:-1 tvg-name="West Indies Academy vs Combined Campuses and Colleges" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93725" group-title="West Indies Championship",West Indies Academy vs Combined Campuses and Colleges
 https://dai.google.com/linear/hls/event/Qbq1yGeMQK6w6RHlyvdnNA/master.m3u8
-#EXTINF:-1 tvg-name="Bharatpur Mayor XI vs Bagmati Province" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97082" group-title="Indo-Nepal T20 Championship, 2024",Bharatpur Mayor XI vs Bagmati Province
-https://dai.google.com/linear/hls/event/2cU4I0UVTJWvHGiEOTItIg/master.m3u8
 #EXTINF:-1 tvg-name="Namibia vs Uganda" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96512" group-title="African Games Ghana 2024 Men",Namibia vs Uganda
 https://dai.google.com/linear/hls/event/9uQsVq8yTzKGoxv6_gMHzw/master.m3u8
 #EXTINF:-1 tvg-name="Karnataka vs Lancashire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96774" group-title="Lancashire vs Karnataka Pre-Season Tour",Karnataka vs Lancashire
 https://dai.google.com/linear/hls/event/85jvEN1TSS65_RSf2Q_Efg/master.m3u8
+#EXTINF:-1 tvg-name="Mpumalanga vs Garden Route Badgers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95751" group-title="CSA Provincial T20 Cup, 2024",Mpumalanga vs Garden Route Badgers
+https://dai.google.com/linear/hls/event/ak7hKoWhQ3-ZGu0YJ_U0wA/master.m3u8
 #EXTINF:-1 tvg-name="Dempo SC vs Guardian Angel SC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97157" group-title="Goa Professional League 2023-24",Dempo SC vs Guardian Angel SC
 https://dai.google.com/linear/hls/event/EQ5OpzhjSfq82ZXuN2z6DQ/master.m3u8
 #EXTINF:-1 tvg-name="Churchill Brothers FC vs Vasco SC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97156" group-title="Goa Professional League 2023-24",Churchill Brothers FC vs Vasco SC
