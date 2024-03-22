@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Madhesh Province vs Sudurpaschim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97084" group-title="Indo-Nepal T20 Championship, 2024",Madhesh Province vs Sudurpaschim
+#EXTINF:-1 tvg-name="Rangareddy Royals vs Nalgonda Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96636" group-title="VCAT MASTERS PREMIER LEAGUE",Rangareddy Royals vs Nalgonda Lions
+https://mls3.fancode.com/548eba35-f142-42ef-bda8-31f1301a0a71/master.m3u8
+#EXTINF:-1 tvg-name="Sudurpaschim vs Madhesh Province" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97084" group-title="Indo-Nepal T20 Championship, 2024",Sudurpaschim vs Madhesh Province
 https://mls3.fancode.com/c4c492fd-906a-40da-98dd-001caff606fb/master.m3u8
 #EXTINF:-1 tvg-name="West Indies Academy vs Combined Campuses and Colleges" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93725" group-title="West Indies Championship",West Indies Academy vs Combined Campuses and Colleges
 https://dai.google.com/linear/hls/event/Qbq1yGeMQK6w6RHlyvdnNA/master.m3u8
