@@ -9,3 +9,5 @@ https://dai.google.com/linear/hls/event/Qbq1yGeMQK6w6RHlyvdnNA/master.m3u8
 https://dai.google.com/linear/hls/event/JlJtx32SRGiyUM9VINAL8w/master.m3u8
 #EXTINF:-1 tvg-name="Karnataka vs Telangana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97496" group-title="70th Senior Nationals Kabaddi Championship",Karnataka vs Telangana
 https://dai.fancode.com/primary/97496_english_hls_9595adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Haryana vs Himachal Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97497" group-title="70th Senior Nationals Kabaddi Championship",Haryana vs Himachal Pradesh
+https://dai.fancode.com/primary/97497_english_hls_5752adfreeta-di/index.m3u8
