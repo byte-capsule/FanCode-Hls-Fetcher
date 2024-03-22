@@ -1,11 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Wavilog Tech CC vs Dubai Thunders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96712" group-title="ICC Academy Ramadan T10",Wavilog Tech CC vs Dubai Thunders
 https://dai.google.com/linear/hls/event/7CxXYa6qRRSnhWN0ad5mZg/master.m3u8
+#EXTINF:-1 tvg-name="AZ Sports vs Pacific Star Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96871" group-title="Sharjah Ramadan T20 League, 2024",AZ Sports vs Pacific Star Sports
+https://dai.google.com/linear/hls/event/iKRKGHSQS9CoK4J_WpB5_g/master.m3u8
 #EXTINF:-1 tvg-name="Old Victorians vs Jinnah Brescia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95082" group-title="European Cricket League, 2024",Old Victorians vs Jinnah Brescia
 https://dai.google.com/linear/hls/event/_ZgDUcc6SRqSg_4j_nZs9A/master.m3u8
 #EXTINF:-1 tvg-name="West Indies Academy vs Combined Campuses and Colleges" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93725" group-title="West Indies Championship",West Indies Academy vs Combined Campuses and Colleges
 https://dai.google.com/linear/hls/event/Qbq1yGeMQK6w6RHlyvdnNA/master.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka vs Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93984" group-title="Sri Lanka tour of Bangladesh, 2024",Sri Lanka vs Bangladesh
 https://dai.google.com/linear/hls/event/JlJtx32SRGiyUM9VINAL8w/master.m3u8
-#EXTINF:-1 tvg-name="Maharashtra vs Delhi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97498" group-title="70th Senior Nationals Kabaddi Championship",Maharashtra vs Delhi
-https://dai.fancode.com/primary/97498_english_hls_9586adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Chhattisgarh vs Telangana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97499" group-title="70th Senior Nationals Kabaddi Championship",Chhattisgarh vs Telangana
+https://dai.fancode.com/primary/97499_english_hls_109adfreeta-di/index.m3u8
