@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Gauhati Town Club vs SG Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97001" group-title="Guwahati Premier League, 2024",Gauhati Town Club vs SG Club
-https://dai.google.com/linear/hls/event/4S5a95OYQVKUtP3Ohw3MVg/master.m3u8
 #EXTINF:-1 tvg-name="West Indies Academy vs Combined Campuses and Colleges" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93725" group-title="West Indies Championship",West Indies Academy vs Combined Campuses and Colleges
 https://dai.google.com/linear/hls/event/Qbq1yGeMQK6w6RHlyvdnNA/master.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka vs Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93984" group-title="Sri Lanka tour of Bangladesh, 2024",Sri Lanka vs Bangladesh
 https://dai.google.com/linear/hls/event/JlJtx32SRGiyUM9VINAL8w/master.m3u8
-#EXTINF:-1 tvg-name="Haryana vs Himachal Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97497" group-title="70th Senior Nationals Kabaddi Championship",Haryana vs Himachal Pradesh
-https://dai.fancode.com/primary/97497_english_hls_5752adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Maharashtra vs Delhi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97498" group-title="70th Senior Nationals Kabaddi Championship",Maharashtra vs Delhi
+https://dai.fancode.com/primary/97498_english_hls_9586adfreeta-di/index.m3u8
