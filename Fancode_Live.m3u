@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Jinnah Brescia vs Pak I Care Badalona" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95080" group-title="European Cricket League, 2024",Jinnah Brescia vs Pak I Care Badalona
+https://mls3.fancode.com/f4b51666-7340-4c46-a3a0-3ed95093ddcb/master.m3u8
 #EXTINF:-1 tvg-name="Rangareddy Royals vs Nalgonda Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96636" group-title="VCAT MASTERS PREMIER LEAGUE",Rangareddy Royals vs Nalgonda Lions
 https://mls3.fancode.com/548eba35-f142-42ef-bda8-31f1301a0a71/master.m3u8
 #EXTINF:-1 tvg-name="Sudurpaschim vs Madhesh Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97084" group-title="Indo-Nepal T20 Championship, 2024",Sudurpaschim vs Madhesh Pradesh
