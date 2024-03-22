@@ -9,3 +9,5 @@ https://dai.google.com/linear/hls/event/Qbq1yGeMQK6w6RHlyvdnNA/master.m3u8
 https://dai.google.com/linear/hls/event/JlJtx32SRGiyUM9VINAL8w/master.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97319" group-title="Porsche Singapore Classic",Day 2
 https://dai.google.com/linear/hls/event/MRNjQGQSTRe9BGFlqemzpQ/master.m3u8
+#EXTINF:-1 tvg-name="Beed District vs Ratnagiri District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96253" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Beed District vs Ratnagiri District
+https://mls3.fancode.com/37c6ebb0-c365-4ae3-a93e-6bb699634b00/master.m3u8
