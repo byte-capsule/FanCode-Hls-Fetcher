@@ -11,3 +11,5 @@ https://dai.google.com/linear/hls/event/Qbq1yGeMQK6w6RHlyvdnNA/master.m3u8
 https://dai.google.com/linear/hls/event/JlJtx32SRGiyUM9VINAL8w/master.m3u8
 #EXTINF:-1 tvg-name="Sangli District vs Ahmednagar District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96254" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Sangli District vs Ahmednagar District
 https://dai.google.com/linear/hls/event/boVFlsbuQoqp1nsvnt5aZA/master.m3u8
+#EXTINF:-1 tvg-name="Rajasthan vs Pondicherry" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97495" group-title="70th Senior Nationals Kabaddi Championship",Rajasthan vs Pondicherry
+https://dai.fancode.com/primary/97495_english_hls_2151adfreeta-no/index.m3u8
