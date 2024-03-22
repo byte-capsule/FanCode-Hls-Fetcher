@@ -1,13 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Seven Districts Juniors vs Prim Height Transport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96713" group-title="ICC Academy Ramadan T10",Seven Districts Juniors vs Prim Height Transport
-https://dai.google.com/linear/hls/event/NC3ZoBY7RuCvFe-cIFlZ2g/master.m3u8
-#EXTINF:-1 tvg-name="AZ Sports vs Pacific Star Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96871" group-title="Sharjah Ramadan T20 League, 2024",AZ Sports vs Pacific Star Sports
-https://dai.google.com/linear/hls/event/iKRKGHSQS9CoK4J_WpB5_g/master.m3u8
-#EXTINF:-1 tvg-name="West Indies Academy vs Combined Campuses and Colleges" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93725" group-title="West Indies Championship",West Indies Academy vs Combined Campuses and Colleges
-https://dai.google.com/linear/hls/event/Qbq1yGeMQK6w6RHlyvdnNA/master.m3u8
-#EXTINF:-1 tvg-name="Sri Lanka vs Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93984" group-title="Sri Lanka tour of Bangladesh, 2024",Sri Lanka vs Bangladesh
-https://dai.google.com/linear/hls/event/JlJtx32SRGiyUM9VINAL8w/master.m3u8
-#EXTINF:-1 tvg-name="Centurions United vs NCM Investment-B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96418" group-title="Kuwait T10 Ramadan Challengers Cup",Centurions United vs NCM Investment-B
-https://dai.google.com/linear/hls/event/fWMqM3pbTbCbR9EpXd38bA/master.m3u8
 #EXTINF:-1 tvg-name="Match #3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95316" group-title="Professional Fighters League",Match #3
 https://dai.google.com/linear/hls/event/jv4ntwmMSlGEKdJXqZnsEQ/master.m3u8
