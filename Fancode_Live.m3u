@@ -3,5 +3,7 @@
 https://dai.google.com/linear/hls/event/Qbq1yGeMQK6w6RHlyvdnNA/master.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka vs Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93984" group-title="Sri Lanka tour of Bangladesh, 2024",Sri Lanka vs Bangladesh
 https://dai.google.com/linear/hls/event/JlJtx32SRGiyUM9VINAL8w/master.m3u8
-#EXTINF:-1 tvg-name="Sprint Race" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95380" group-title="F3 AUSTRALIAN GRAND PRIX 2024",Sprint Race
-https://dai.fancode.com/primary/95380_english_hls_5957adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Malaysia XI vs Singapore XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97598" group-title="Singapore XI tour of Malaysia, 2024",Malaysia XI vs Singapore XI
+https://dai.google.com/linear/hls/event/ziUZiodUSOmSe6VezPQi2w/master.m3u8
+#EXTINF:-1 tvg-name="Practice 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95118" group-title="F1 ROLEX AUSTRALIAN GRAND PRIX 2024",Practice 3
+https://dai.fancode.com/primary/95118_english_hls_6031adfreeta-di/index.m3u8
