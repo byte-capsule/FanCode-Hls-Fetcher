@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 6,
-  "updated_on": "23-03-2024 on 2:40:56 PM \ud83c\udf1e",
+  "channels_amount": 7,
+  "updated_on": "23-03-2024 on 3:03:09 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -58,6 +58,17 @@
       "team_2": "Bangladesh",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/JlJtx32SRGiyUM9VINAL8w/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "African Games Ghana 2024 Men",
+      "match_id": 96514,
+      "match_name": "Uganda vs Kenya",
+      "team_1": "Uganda",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UGN@2x.png",
+      "team_2": "Kenya",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KNA@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/yIDasoe9TUqKN2aFpagufA/master.m3u8"
     },
     {
       "event_catagory": "football",
