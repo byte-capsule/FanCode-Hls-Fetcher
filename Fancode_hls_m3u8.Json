@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 10,
-  "updated_on": "23-03-2024 on 8:02:43 PM \ud83c\udf19",
+  "channels_amount": 11,
+  "updated_on": "23-03-2024 on 8:24:08 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -63,11 +63,11 @@
       "event_catagory": "cricket",
       "event_name": "CWI Women's T20 Blaze, 2024",
       "match_id": 95971,
-      "match_name": "Jamaica Women vs Trinidad and Tobago Women",
-      "team_1": "Jamaica Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JAM@2x.png",
-      "team_2": "Trinidad and Tobago Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TNRF@2x.png",
+      "match_name": "Trinidad and Tobago Women vs Jamaica Women",
+      "team_1": "Trinidad and Tobago Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TNRF@2x.png",
+      "team_2": "Jamaica Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JAM@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/GtLH-TjFQtqCi1canOKuIA/master.m3u8"
     },
     {
@@ -113,6 +113,17 @@
       "team_2": "Haryana",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/DEF-KB11@2x.png",
       "stream_link": "https://dai.fancode.com/primary/97643_english_hls_2543adfreeta-di/index.m3u8"
+    },
+    {
+      "event_catagory": "kabaddi",
+      "event_name": "70th Senior Nationals Kabaddi Championship",
+      "match_id": 97644,
+      "match_name": "TBC vs TBC",
+      "team_1": "TBC",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/TBC-KB1@2x.png",
+      "team_2": "TBC",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/TBC-KB1@2x.png",
+      "stream_link": "https://dai.fancode.com/primary/97644_english_hls_4932adfreeta-di/index.m3u8"
     }
   ]
 }
