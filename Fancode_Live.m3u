@@ -7,9 +7,9 @@ https://dai.google.com/linear/hls/event/PBRogNOWTTibrK5mlpFHqg/master.m3u8
 https://dai.google.com/linear/hls/event/JlJtx32SRGiyUM9VINAL8w/master.m3u8
 #EXTINF:-1 tvg-name="Malaysia XI vs Singapore XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97598" group-title="Singapore XI tour of Malaysia, 2024",Malaysia XI vs Singapore XI
 https://dai.google.com/linear/hls/event/ziUZiodUSOmSe6VezPQi2w/master.m3u8
-#EXTINF:-1 tvg-name="Bagmati Province vs PSR Lucknow" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97085" group-title="Indo-Nepal T20 Championship, 2024",Bagmati Province vs PSR Lucknow
+#EXTINF:-1 tvg-name="PSR Lucknow vs Bagmati Province" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97085" group-title="Indo-Nepal T20 Championship, 2024",PSR Lucknow vs Bagmati Province
 https://dai.google.com/linear/hls/event/sxWP9XA2T_KRbCwRRO1ZqA/master.m3u8
-#EXTINF:-1 tvg-name="Sprint Race" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95331" group-title="F2 AUSTRALIAN GRAND PRIX 2024",Sprint Race
-https://dai.fancode.com/primary/95331_english_hls_5594adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Nabajyoti Club vs City Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97002" group-title="Guwahati Premier League, 2024",Nabajyoti Club vs City Cricket Club
+https://dai.google.com/linear/hls/event/K7BpAFKLTZKpirNVa3OUnQ/master.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97320" group-title="Porsche Singapore Classic",Day 3
 https://mls3.fancode.com/e2d4fa6e-7b92-4a8a-86f8-3979691b8024/master.m3u8
