@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="SG Club vs New Star Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97611" group-title="Guwahati Premier League, 2024",SG Club vs New Star Club
-https://dai.google.com/linear/hls/event/HfRSqbatSKCx5TTqFItchg/master.m3u8
 #EXTINF:-1 tvg-name="Sorwathe Girls CC Women vs Charity CC Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96691" group-title="RCA Women's T20, 2024",Sorwathe Girls CC Women vs Charity CC Women
 https://dai.google.com/linear/hls/event/saVyAvzRR-2f9LwVJNsVaA/master.m3u8
 #EXTINF:-1 tvg-name="Namibia vs Zimbabwe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96515" group-title="African Games Ghana 2024 Men",Namibia vs Zimbabwe
@@ -11,6 +9,8 @@ https://dai.google.com/linear/hls/event/1AFM7qv6R0S9MuGCIiqhCA/master.m3u8
 https://dai.google.com/linear/hls/event/Qbq1yGeMQK6w6RHlyvdnNA/master.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka vs Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93984" group-title="Sri Lanka tour of Bangladesh, 2024",Sri Lanka vs Bangladesh
 https://dai.google.com/linear/hls/event/JlJtx32SRGiyUM9VINAL8w/master.m3u8
+#EXTINF:-1 tvg-name="Jamaica Women vs Trinidad and Tobago Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95971" group-title="CWI Women's T20 Blaze, 2024",Jamaica Women vs Trinidad and Tobago Women
+https://dai.google.com/linear/hls/event/GtLH-TjFQtqCi1canOKuIA/master.m3u8
 #EXTINF:-1 tvg-name="Gokulam Kerala FC vs Delhi FC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94262" group-title="I League 2023-24",Gokulam Kerala FC vs Delhi FC
 https://dai.google.com/linear/hls/event/AskJEaBGQoiJX9Taht2iJQ/master.m3u8
 #EXTINF:-1 tvg-name="Mansfield Town vs Colchester United" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96768" group-title="League Two 2023-24",Mansfield Town vs Colchester United
