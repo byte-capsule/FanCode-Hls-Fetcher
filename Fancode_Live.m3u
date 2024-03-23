@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Sorwathe Girls CC Women vs Charity CC Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96691" group-title="RCA Women's T20, 2024",Sorwathe Girls CC Women vs Charity CC Women
-https://dai.google.com/linear/hls/event/saVyAvzRR-2f9LwVJNsVaA/master.m3u8
+#EXTINF:-1 tvg-name="Seven Districts Juniors vs DCC Starlets" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96715" group-title="ICC Academy Ramadan T10",Seven Districts Juniors vs DCC Starlets
+https://dai.google.com/linear/hls/event/6FdNmTIIR4KI1zd5h9_9lw/master.m3u8
 #EXTINF:-1 tvg-name="Namibia vs Zimbabwe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96515" group-title="African Games Ghana 2024 Men",Namibia vs Zimbabwe
 https://dai.google.com/linear/hls/event/CfdVVa_cSeq7K2vE5C0tIA/master.m3u8
 #EXTINF:-1 tvg-name="Titans vs Western Province" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95781" group-title="CSA T20 Challenge, 2024",Titans vs Western Province
@@ -13,5 +13,5 @@ https://dai.google.com/linear/hls/event/Qbq1yGeMQK6w6RHlyvdnNA/master.m3u8
 https://dai.google.com/linear/hls/event/JlJtx32SRGiyUM9VINAL8w/master.m3u8
 #EXTINF:-1 tvg-name="Gokulam Kerala FC vs Delhi FC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94262" group-title="I League 2023-24",Gokulam Kerala FC vs Delhi FC
 https://dai.google.com/linear/hls/event/AskJEaBGQoiJX9Taht2iJQ/master.m3u8
-#EXTINF:-1 tvg-name="Indian Railways vs Rajasthan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97644" group-title="70th Senior Nationals Kabaddi Championship",Indian Railways vs Rajasthan
+#EXTINF:-1 tvg-name="Indian Railway vs Rajasthan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97644" group-title="70th Senior Nationals Kabaddi Championship",Indian Railway vs Rajasthan
 https://dai.fancode.com/primary/97644_english_hls_4932adfreeta-di/index.m3u8
