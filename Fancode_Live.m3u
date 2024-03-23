@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Seven Districts vs Arqam Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96873" group-title="Sharjah Ramadan T20 League, 2024",Seven Districts vs Arqam Cricket Club
+https://dai.google.com/linear/hls/event/QZ-e9tFJQFK1I2mHNTy5HA/master.m3u8
 #EXTINF:-1 tvg-name="Seven Districts Juniors vs DCC Starlets" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96715" group-title="ICC Academy Ramadan T10",Seven Districts Juniors vs DCC Starlets
 https://dai.google.com/linear/hls/event/6FdNmTIIR4KI1zd5h9_9lw/master.m3u8
 #EXTINF:-1 tvg-name="Namibia vs Zimbabwe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96515" group-title="African Games Ghana 2024 Men",Namibia vs Zimbabwe
