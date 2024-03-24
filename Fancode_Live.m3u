@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Seven Districts Juniors vs Prim Height Transport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96875" group-title="Sharjah Ramadan T20 League, 2024",Seven Districts Juniors vs Prim Height Transport
+https://dai.google.com/linear/hls/event/u4j9gEZWSk6QS2DPfn9Skw/master.m3u8
 #EXTINF:-1 tvg-name="London Royals vs Karwan Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96718" group-title="ICC Academy Ramadan T10",London Royals vs Karwan Cricket Club
 https://dai.google.com/linear/hls/event/34rxGbzcSRiHM4Yh7OLung/master.m3u8
 #EXTINF:-1 tvg-name="Warriors vs North West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95784" group-title="CSA T20 Challenge, 2024",Warriors vs North West
