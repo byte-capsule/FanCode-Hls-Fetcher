@@ -1,14 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Kowloon Cricket Club Women vs Craigengower Cricket Club Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95188" group-title="CHK Women's Premier League T20",Kowloon Cricket Club Women vs Craigengower Cricket Club Women
 https://dai.google.com/linear/hls/event/_wl9PAHlToula4jBFvevrQ/master.m3u8
-#EXTINF:-1 tvg-name="Lantau Cricket Club Women vs Diasqua Little Sai Wan Cricket Club Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95187" group-title="CHK Women's Premier League T20",Lantau Cricket Club Women vs Diasqua Little Sai Wan Cricket Club Women
-https://dai.google.com/linear/hls/event/oixFg8ndS1mCj6MWdI_qgg/master.m3u8
 #EXTINF:-1 tvg-name="Wyverns Cricket Club vs Tigers Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97594" group-title="JCL T10, 2024",Wyverns Cricket Club vs Tigers Cricket Club
 https://dai.google.com/linear/hls/event/o6YrQd9ySE2VGSg9pm-Y4Q/master.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka vs Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93984" group-title="Sri Lanka tour of Bangladesh, 2024",Sri Lanka vs Bangladesh
 https://dai.google.com/linear/hls/event/JlJtx32SRGiyUM9VINAL8w/master.m3u8
 #EXTINF:-1 tvg-name="Malaysia XI vs Singapore XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97600" group-title="Singapore XI tour of Malaysia, 2024",Malaysia XI vs Singapore XI
 https://dai.google.com/linear/hls/event/8T7Py40vQV6boSPLpfXNhg/master.m3u8
+#EXTINF:-1 tvg-name="Bangladesh Women vs Australia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97053" group-title="Australia Women's tour of Bangladesh",Bangladesh Women vs Australia Women
+https://dai.google.com/linear/hls/event/zVbi-jQWQDSX_UicQApksA/master.m3u8
+#EXTINF:-1 tvg-name="Hyderabad Heroes vs Rangareddy Royals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96643" group-title="VCAT MASTERS PREMIER LEAGUE",Hyderabad Heroes vs Rangareddy Royals
+https://dai.google.com/linear/hls/event/0aEoJDhvRu2uTqfsTDpi6g/master.m3u8
 #EXTINF:-1 tvg-name="Race" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95120" group-title="F1 ROLEX AUSTRALIAN GRAND PRIX 2024",Race
 https://dai.fancode.com/primary/95120_english_hls_606adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97321" group-title="Porsche Singapore Classic",Day 4
