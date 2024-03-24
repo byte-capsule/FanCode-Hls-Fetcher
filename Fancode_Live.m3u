@@ -1,15 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Tigers Cricket Club vs Wyverns Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97595" group-title="JCL T10, 2024",Tigers Cricket Club vs Wyverns Cricket Club
-https://dai.google.com/linear/hls/event/n1MJKCjZQgKLLEnWpFHgEw/master.m3u8
+#EXTINF:-1 tvg-name="Dolphins vs Boland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95783" group-title="CSA T20 Challenge, 2024",Dolphins vs Boland
+https://dai.google.com/linear/hls/event/18KCz140TKu3qvqwyF6oYQ/master.m3u8
+#EXTINF:-1 tvg-name="Bharatpur Mayor XI vs Talatala Kolkata" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97088" group-title="Indo-Nepal T20 Championship, 2024",Bharatpur Mayor XI vs Talatala Kolkata
+https://dai.google.com/linear/hls/event/Es3SOqzoTuqXl47iFl5nvw/master.m3u8
 #EXTINF:-1 tvg-name="Bangladesh Women vs Australia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97053" group-title="Australia Women's tour of Bangladesh",Bangladesh Women vs Australia Women
 https://dai.google.com/linear/hls/event/zVbi-jQWQDSX_UicQApksA/master.m3u8
 #EXTINF:-1 tvg-name="Kowloon Cricket Club vs Pakistan Association Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95172" group-title="CHK Men's Premier League T20",Kowloon Cricket Club vs Pakistan Association Cricket Club
 https://dai.google.com/linear/hls/event/LtFamZBdT8GQZmePMd8F8w/master.m3u8
 #EXTINF:-1 tvg-name="United Services Recreation Club vs Diasqua Little Sai Wan Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95171" group-title="CHK Men's Premier League T20",United Services Recreation Club vs Diasqua Little Sai Wan Cricket Club
 https://dai.google.com/linear/hls/event/9f1knDY7TSC9NZhp4TZX7Q/master.m3u8
-#EXTINF:-1 tvg-name="Sri Lanka vs Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93984" group-title="Sri Lanka tour of Bangladesh, 2024",Sri Lanka vs Bangladesh
-https://dai.google.com/linear/hls/event/JlJtx32SRGiyUM9VINAL8w/master.m3u8
 #EXTINF:-1 tvg-name="IPRC Kigali CC vs Indorwa CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96674" group-title="RCA Men's T20, 2024",IPRC Kigali CC vs Indorwa CC
 https://dai.google.com/linear/hls/event/d40vFOCATbeLjJwxpKp5kQ/master.m3u8
+#EXTINF:-1 tvg-name="Sri Lanka vs Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93984" group-title="Sri Lanka tour of Bangladesh, 2024",Sri Lanka vs Bangladesh
+https://dai.google.com/linear/hls/event/JlJtx32SRGiyUM9VINAL8w/master.m3u8
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97321" group-title="Porsche Singapore Classic",Day 4
 https://dai.google.com/linear/hls/event/ieW4jxBoQMO3dRbSMiZ96w/master.m3u8
