@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Seven Districts Juniors vs Prim Height Transport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96875" group-title="Sharjah Ramadan T20 League, 2024",Seven Districts Juniors vs Prim Height Transport
 https://dai.google.com/linear/hls/event/u4j9gEZWSk6QS2DPfn9Skw/master.m3u8
+#EXTINF:-1 tvg-name="Khulna Royal Bengals vs AP XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96423" group-title="Kuwait T10 Ramadan Challengers Cup",Khulna Royal Bengals vs AP XI
+https://dai.google.com/linear/hls/event/K3DcVqCxTaS5cHjBMQVPDw/master.m3u8
 #EXTINF:-1 tvg-name="DCC Starlets vs Dubai Thunders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96719" group-title="ICC Academy Ramadan T10",DCC Starlets vs Dubai Thunders
 https://dai.google.com/linear/hls/event/rsr42KXWTN-bmrUprhLRuA/master.m3u8
 #EXTINF:-1 tvg-name="Mt Irvine Surfers vs Kings Bay Royals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97127" group-title="Dream11 Bago T10 Blast, 2nd Edition, 2024",Mt Irvine Surfers vs Kings Bay Royals

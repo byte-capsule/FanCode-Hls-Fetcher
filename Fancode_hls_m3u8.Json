@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 7,
-  "updated_on": "24-03-2024 on 11:41:03 PM \ud83c\udf19",
+  "channels_amount": 8,
+  "updated_on": "25-03-2024 on 00:08:32 AM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -14,6 +14,17 @@
       "team_2": "Prim Height Transport",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PHTS@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/u4j9gEZWSk6QS2DPfn9Skw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Kuwait T10 Ramadan Challengers Cup",
+      "match_id": 96423,
+      "match_name": "Khulna Royal Bengals vs AP XI",
+      "team_1": "Khulna Royal Bengals",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KRB@2x.png",
+      "team_2": "AP XI",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AP@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/K3DcVqCxTaS5cHjBMQVPDw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
