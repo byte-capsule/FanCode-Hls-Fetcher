@@ -11,3 +11,5 @@ https://dai.google.com/linear/hls/event/8ElJMRpDTSqL0AW4boQh4g/master.m3u8
 https://dai.google.com/linear/hls/event/JlJtx32SRGiyUM9VINAL8w/master.m3u8
 #EXTINF:-1 tvg-name="West Ham United Women vs Chelsea Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95123" group-title="Barclays FA Women's Super League 2023-24",West Ham United Women vs Chelsea Women
 https://dai.fancode.com/primary/95123_english_hls_4657adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Club Joventut Badalona vs Barcelona" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94035" group-title="Liga Endesa",Club Joventut Badalona vs Barcelona
+https://dai.google.com/linear/hls/event/cB9-fWEWRzmO6d-TqetYSw/master.m3u8
