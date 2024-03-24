@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 8,
-  "updated_on": "25-03-2024 on 00:08:32 AM \ud83c\udf19",
+  "channels_amount": 5,
+  "updated_on": "25-03-2024 on 00:28:37 AM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -39,28 +39,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Dream11 Bago T10 Blast, 2nd Edition, 2024",
-      "match_id": 97127,
-      "match_name": "Mt Irvine Surfers vs Kings Bay Royals",
-      "team_1": "Mt Irvine Surfers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MIS@2x.png",
-      "team_2": "Kings Bay Royals",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBRO@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/SyNfE6QLRPO_cn4VNyNYkA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECS Portugal, 2024",
-      "match_id": 97224,
-      "match_name": "Punjab CC Amadora vs Gorkha XI",
-      "team_1": "Punjab CC Amadora",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PNJ@2x.png",
-      "team_2": "Gorkha XI",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GOR@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/8ElJMRpDTSqL0AW4boQh4g/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "Sri Lanka tour of Bangladesh, 2024",
       "match_id": 93984,
       "match_name": "Sri Lanka vs Bangladesh",
@@ -69,17 +47,6 @@
       "team_2": "Bangladesh",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/JlJtx32SRGiyUM9VINAL8w/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "Barclays FA Women's Super League 2023-24",
-      "match_id": 95123,
-      "match_name": "West Ham United Women vs Chelsea Women",
-      "team_1": "West Ham United Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WHUW@2x.png",
-      "team_2": "Chelsea Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CHW@2x.png",
-      "stream_link": "https://dai.fancode.com/primary/95123_english_hls_4657adfreeta-di/index.m3u8"
     },
     {
       "event_catagory": "basketball",
