@@ -1,63 +1,7 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 5,
-  "updated_on": "25-03-2024 on 00:28:37 AM \ud83c\udf19",
-  "channels": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Sharjah Ramadan T20 League, 2024",
-      "match_id": 96875,
-      "match_name": "Seven Districts Juniors vs Prim Height Transport",
-      "team_1": "Seven Districts Juniors",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SEVN@2x.png",
-      "team_2": "Prim Height Transport",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PHTS@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/u4j9gEZWSk6QS2DPfn9Skw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Kuwait T10 Ramadan Challengers Cup",
-      "match_id": 96423,
-      "match_name": "Khulna Royal Bengals vs AP XI",
-      "team_1": "Khulna Royal Bengals",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KRB@2x.png",
-      "team_2": "AP XI",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AP@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/K3DcVqCxTaS5cHjBMQVPDw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC Academy Ramadan T10",
-      "match_id": 96719,
-      "match_name": "DCC Starlets vs Dubai Thunders",
-      "team_1": "DCC Starlets",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DCC@2x.png",
-      "team_2": "Dubai Thunders",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DTT@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/rsr42KXWTN-bmrUprhLRuA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Sri Lanka tour of Bangladesh, 2024",
-      "match_id": 93984,
-      "match_name": "Sri Lanka vs Bangladesh",
-      "team_1": "Sri Lanka",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
-      "team_2": "Bangladesh",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/JlJtx32SRGiyUM9VINAL8w/master.m3u8"
-    },
-    {
-      "event_catagory": "basketball",
-      "event_name": "Liga Endesa",
-      "match_id": 94035,
-      "match_name": "Club Joventut Badalona vs Barcelona",
-      "team_1": "Club Joventut Badalona",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-CJB@2x.png",
-      "team_2": "Barcelona",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-FCBR@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/cB9-fWEWRzmO6d-TqetYSw/master.m3u8"
-    }
-  ]
+  "channels_amount": 0,
+  "updated_on": "25-03-2024 on 00:41:13 AM \ud83c\udf19",
+  "channels": []
 }
