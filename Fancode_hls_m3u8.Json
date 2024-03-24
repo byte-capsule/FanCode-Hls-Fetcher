@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 6,
-  "updated_on": "24-03-2024 on 9:40:55 PM \ud83c\udf19",
+  "channels_amount": 5,
+  "updated_on": "24-03-2024 on 10:06:31 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -28,14 +28,14 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "CSA T20 Challenge, 2024",
-      "match_id": 95784,
-      "match_name": "Warriors vs North West",
-      "team_1": "Warriors",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WRRS@2x.png",
-      "team_2": "North West",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NDRS@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/NpePE7dMQwuRZDoXYTRjHg/master.m3u8"
+      "event_name": "Dream11 Bago T10 Blast, 2nd Edition, 2024",
+      "match_id": 97127,
+      "match_name": "Mt Irvine Surfers vs Kings Bay Royals",
+      "team_1": "Mt Irvine Surfers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MIS@2x.png",
+      "team_2": "Kings Bay Royals",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBRO@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/SyNfE6QLRPO_cn4VNyNYkA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -58,17 +58,6 @@
       "team_2": "Bangladesh",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/JlJtx32SRGiyUM9VINAL8w/master.m3u8"
-    },
-    {
-      "event_catagory": "kabaddi",
-      "event_name": "70th Senior Nationals Kabaddi Championship",
-      "match_id": 97710,
-      "match_name": "Indian Railway vs Haryana",
-      "team_1": "Indian Railway",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/DEF-KB1@2x.png",
-      "team_2": "Haryana",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/DEF-KB11@2x.png",
-      "stream_link": "https://dai.fancode.com/primary/97710_english_hls_5014adfreeta-di/index.m3u8"
     }
   ]
 }
