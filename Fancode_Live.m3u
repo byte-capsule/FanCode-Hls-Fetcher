@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Warriors vs North West Dragons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95784" group-title="CSA T20 Challenge, 2024",Warriors vs North West Dragons
+#EXTINF:-1 tvg-name="Warriors vs North West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95784" group-title="CSA T20 Challenge, 2024",Warriors vs North West
 https://dai.google.com/linear/hls/event/NpePE7dMQwuRZDoXYTRjHg/master.m3u8
 #EXTINF:-1 tvg-name="91 Yards Club vs Nabajyoti Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97612" group-title="Guwahati Premier League, 2024",91 Yards Club vs Nabajyoti Club
 https://dai.google.com/linear/hls/event/iPU2eMXMSVilesA6Lljkaw/master.m3u8
@@ -15,5 +15,7 @@ https://dai.google.com/linear/hls/event/isl-yuVTQIefrGWdL-uQ_Q/master.m3u8
 https://dai.google.com/linear/hls/event/PzeSpe-6RJmohNxNxZzAJw/master.m3u8
 #EXTINF:-1 tvg-name="Northern Cape vs Border" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95752" group-title="CSA Provincial T20 Cup, 2024",Northern Cape vs Border
 https://dai.google.com/linear/hls/event/UDIi-vgkTmyl1D7GoTgOmQ/master.m3u8
+#EXTINF:-1 tvg-name="TRAU vs NEROCA FC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94263" group-title="I League 2023-24",TRAU vs NEROCA FC
+https://dai.google.com/linear/hls/event/IbVr9XnvSCaD1UXZ43v6HA/master.m3u8
 #EXTINF:-1 tvg-name="Indian Railway vs Chandigarh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97709" group-title="70th Senior Nationals Kabaddi Championship",Indian Railway vs Chandigarh
 https://dai.fancode.com/primary/97709_english_hls_4801adfreeta-no/index.m3u8
