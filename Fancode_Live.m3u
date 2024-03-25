@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Stallion Cricket Club vs Nabajyoti Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97613" group-title="Guwahati Premier League, 2024",Stallion Cricket Club vs Nabajyoti Club
+https://dai.google.com/linear/hls/event/5KLqbGrMQP6k9NWdQ4KJFA/master.m3u8
 #EXTINF:-1 tvg-name="Coimbra Knights vs Gamblers SC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97226" group-title="ECS Portugal, 2024",Coimbra Knights vs Gamblers SC
 https://dai.google.com/linear/hls/event/qhvnu9aYQ46RZtdgnO299Q/master.m3u8
 #EXTINF:-1 tvg-name="Cortalim Villagers vs FC Goa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97591" group-title="Goa Professional League 2023-24",Cortalim Villagers vs FC Goa
