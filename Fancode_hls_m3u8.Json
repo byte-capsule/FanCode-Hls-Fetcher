@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 4,
-  "updated_on": "25-03-2024 on 11:41:11 PM \ud83c\udf19",
+  "channels_amount": 6,
+  "updated_on": "26-03-2024 on 00:08:28 AM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -39,6 +39,17 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "Kuwait Ramadan T10 Elite Cup",
+      "match_id": 96783,
+      "match_name": "Al Mulla Exchange vs Al Hajery Team XI",
+      "team_1": "Al Mulla Exchange",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AECX@2x.png",
+      "team_2": "Al Hajery Team XI",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ALJH@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/qaadW8IBT_-B91UaRo_dAw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "ECS Portugal, 2024",
       "match_id": 97229,
       "match_name": "Lisbon Super Giants vs Gamblers SC",
@@ -47,6 +58,17 @@
       "team_2": "Gamblers SC",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GAML@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/EqdPffBiTJGHcrxyLg0HtQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "CWI Women's T20 Blaze, 2024",
+      "match_id": 95975,
+      "match_name": "Leeward Islands Women vs Jamaica Women",
+      "team_1": "Leeward Islands Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LWI@2x.png",
+      "team_2": "Jamaica Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JAM@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/B1NReobzRPCAxdHATcLiWw/master.m3u8"
     }
   ]
 }
