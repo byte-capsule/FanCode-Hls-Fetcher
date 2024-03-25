@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Bharatpur Mayor XI vs Madhesh Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97090" group-title="Indo-Nepal T20 Championship, 2024",Bharatpur Mayor XI vs Madhesh Pradesh
 https://dai.google.com/linear/hls/event/xvEBDsSvR3anSf0goMvR4g/master.m3u8
-#EXTINF:-1 tvg-name="Ireland Wolves vs Nepal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97194" group-title="Ireland Wolves tour of Nepal, 2024",Ireland Wolves vs Nepal
-https://dai.google.com/linear/hls/event/iA6-uPDnRQyKZhLRv2UvQw/master.m3u8
 #EXTINF:-1 tvg-name="Lisbon Super Giants vs Team Tigers Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97225" group-title="ECS Portugal, 2024",Lisbon Super Giants vs Team Tigers Portugal
 https://dai.google.com/linear/hls/event/ZUtjlRNwQfWriYejSqJeqg/master.m3u8
+#EXTINF:-1 tvg-name="Cortalim Villagers vs FC Goa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97591" group-title="Goa Professional League 2023-24",Cortalim Villagers vs FC Goa
+https://dai.google.com/linear/hls/event/vk64OmVhTLSHeotJRt62JQ/master.m3u8
+#EXTINF:-1 tvg-name="Geno SC vs Guardian Angel SC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97588" group-title="Goa Professional League 2023-24",Geno SC vs Guardian Angel SC
+https://dai.google.com/linear/hls/event/gpd8VikzQxOwqcSy4QZM2Q/master.m3u8
