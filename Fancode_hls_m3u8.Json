@@ -1,30 +1,19 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 4,
-  "updated_on": "25-03-2024 on 4:41:03 PM \ud83c\udf1e",
+  "channels_amount": 3,
+  "updated_on": "25-03-2024 on 5:03:57 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
-      "event_name": "Indo-Nepal T20 Championship, 2024",
-      "match_id": 97090,
-      "match_name": "Bharatpur Mayor XI vs Madhesh Pradesh",
-      "team_1": "Bharatpur Mayor XI",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BMX@2x.png",
-      "team_2": "Madhesh Pradesh",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MADP@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/xvEBDsSvR3anSf0goMvR4g/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "ECS Portugal, 2024",
-      "match_id": 97225,
-      "match_name": "Lisbon Super Giants vs Team Tigers Portugal",
-      "team_1": "Lisbon Super Giants",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LSGE@2x.png",
-      "team_2": "Team Tigers Portugal",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TTP@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/ZUtjlRNwQfWriYejSqJeqg/master.m3u8"
+      "match_id": 97226,
+      "match_name": "Coimbra Knights vs Gamblers SC",
+      "team_1": "Coimbra Knights",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CKCC@2x.png",
+      "team_2": "Gamblers SC",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GAML@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/qhvnu9aYQ46RZtdgnO299Q/master.m3u8"
     },
     {
       "event_catagory": "football",
