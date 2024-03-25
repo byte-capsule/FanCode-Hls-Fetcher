@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Gauhati Town Club vs New Star Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97004" group-title="Guwahati Premier League, 2024",Gauhati Town Club vs New Star Club
-https://dai.google.com/linear/hls/event/5b3TVRDUR6GqPh66UnE0kw/master.m3u8
-#EXTINF:-1 tvg-name="Sri Lanka vs Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93984" group-title="Sri Lanka tour of Bangladesh, 2024",Sri Lanka vs Bangladesh
-https://dai.google.com/linear/hls/event/JlJtx32SRGiyUM9VINAL8w/master.m3u8
+#EXTINF:-1 tvg-name="Bharatpur Mayor XI vs Madhesh Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97090" group-title="Indo-Nepal T20 Championship, 2024",Bharatpur Mayor XI vs Madhesh Pradesh
+https://dai.google.com/linear/hls/event/xvEBDsSvR3anSf0goMvR4g/master.m3u8
 #EXTINF:-1 tvg-name="Ireland Wolves vs Nepal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97194" group-title="Ireland Wolves tour of Nepal, 2024",Ireland Wolves vs Nepal
 https://dai.google.com/linear/hls/event/iA6-uPDnRQyKZhLRv2UvQw/master.m3u8
