@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Gorkha XI vs Lisbon Capitals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97232" group-title="ECS Portugal, 2024",Gorkha XI vs Lisbon Capitals
+https://dai.google.com/linear/hls/event/-CKQiFkTSuKEDYZNzjt8SA/master.m3u8
 #EXTINF:-1 tvg-name="Fly Emirates vs Alif Pharma" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96880" group-title="Sharjah Ramadan T20 League, 2024",Fly Emirates vs Alif Pharma
 https://dai.google.com/linear/hls/event/FNK1azL9SW2lGKuvYgtBrg/master.m3u8
 #EXTINF:-1 tvg-name="DCC Starlets vs London Royals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96725" group-title="ICC Academy Ramadan T10",DCC Starlets vs London Royals
