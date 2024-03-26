@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Lisbon Capitals vs Gorkha XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97230" group-title="ECS Portugal, 2024",Lisbon Capitals vs Gorkha XI
-https://dai.google.com/linear/hls/event/V5o6JsLbT6GkCKxLAcVZEg/master.m3u8
+#EXTINF:-1 tvg-name="Team Tigers Portugal vs Punjab CC Amadora" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97231" group-title="ECS Portugal, 2024",Team Tigers Portugal vs Punjab CC Amadora
+https://dai.google.com/linear/hls/event/9VGKSsNzTBmdnP9LDpx6fQ/master.m3u8
 #EXTINF:-1 tvg-name="PSR Lucknow vs Madhesh Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97092" group-title="Indo-Nepal T20 Championship, 2024",PSR Lucknow vs Madhesh Pradesh
 https://dai.google.com/linear/hls/event/TksSxju_SkClGxGhebP1sA/master.m3u8
-#EXTINF:-1 tvg-name="Nepal vs Ireland Wolves" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97195" group-title="Ireland Wolves tour of Nepal, 2024",Nepal vs Ireland Wolves
-https://dai.google.com/linear/hls/event/kjiM4yA8SZycI9gu8hAsUQ/master.m3u8
 #EXTINF:-1 tvg-name="Papua New Guinea Women vs Zimbabwe Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97871" group-title="PNG Women's tour of Zimbabwe",Papua New Guinea Women vs Zimbabwe Women
 https://dai.google.com/linear/hls/event/oXZQRW1HQXGmSiR7vILu7A/master.m3u8
 #EXTINF:-1 tvg-name="Vasco SC vs Young Boys" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97590" group-title="Goa Professional League 2023-24",Vasco SC vs Young Boys
 https://dai.google.com/linear/hls/event/XvCAj7cSTmSKpJ--jIF98Q/master.m3u8
 #EXTINF:-1 tvg-name="Calangute Association vs Pax of Nagoa SC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97589" group-title="Goa Professional League 2023-24",Calangute Association vs Pax of Nagoa SC
 https://dai.google.com/linear/hls/event/wOX-P2JrSA24nHIsXlbi5g/master.m3u8
+#EXTINF:-1 tvg-name="Ahmednagar District vs Kolhapur District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96266" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Ahmednagar District vs Kolhapur District
+https://dai.google.com/linear/hls/event/QJxqGHDkS2i2trW4yW1-Nw/master.m3u8
