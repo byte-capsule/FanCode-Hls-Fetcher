@@ -1,20 +1,9 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 5,
-  "updated_on": "26-03-2024 on 6:11:21 PM \ud83c\udf19",
+  "channels_amount": 2,
+  "updated_on": "26-03-2024 on 6:39:57 PM \ud83c\udf19",
   "channels": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECS Portugal, 2024",
-      "match_id": 97231,
-      "match_name": "Team Tigers Portugal vs Punjab CC Amadora",
-      "team_1": "Team Tigers Portugal",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TTP@2x.png",
-      "team_2": "Punjab CC Amadora",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PNJ@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/9VGKSsNzTBmdnP9LDpx6fQ/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Guwahati Premier League, 2024",
@@ -36,28 +25,6 @@
       "team_2": "Zimbabwe Women",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/oXZQRW1HQXGmSiR7vILu7A/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "Goa Professional League 2023-24",
-      "match_id": 97590,
-      "match_name": "Vasco SC vs Young Boys",
-      "team_1": "Vasco SC",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VASC@2x.png",
-      "team_2": "Young Boys",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-TONC@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/XvCAj7cSTmSKpJ--jIF98Q/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "Goa Professional League 2023-24",
-      "match_id": 97589,
-      "match_name": "Calangute Association vs Pax of Nagoa SC",
-      "team_1": "Calangute Association",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CLG@2x.png",
-      "team_2": "Pax of Nagoa SC",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PAO@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/wOX-P2JrSA24nHIsXlbi5g/master.m3u8"
     }
   ]
 }
