@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Lisbon Capitals vs Gorkha XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97230" group-title="ECS Portugal, 2024",Lisbon Capitals vs Gorkha XI
+https://dai.google.com/linear/hls/event/V5o6JsLbT6GkCKxLAcVZEg/master.m3u8
 #EXTINF:-1 tvg-name="PSR Lucknow vs Madhesh Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97092" group-title="Indo-Nepal T20 Championship, 2024",PSR Lucknow vs Madhesh Pradesh
 https://dai.google.com/linear/hls/event/TksSxju_SkClGxGhebP1sA/master.m3u8
 #EXTINF:-1 tvg-name="Nepal vs Ireland Wolves" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97195" group-title="Ireland Wolves tour of Nepal, 2024",Nepal vs Ireland Wolves
