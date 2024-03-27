@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Limpopo vs Garden Route Badgers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95757" group-title="CSA Provincial T20 Cup, 2024",Limpopo vs Garden Route Badgers
-https://dai.google.com/linear/hls/event/N46vgPKAQxyXSiLJvt3Adw/master.m3u8
-#EXTINF:-1 tvg-name="Mpumalanga vs Border" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95755" group-title="CSA Provincial T20 Cup, 2024",Mpumalanga vs Border
-https://dai.google.com/linear/hls/event/ZbkI7hTPRp6DiNBJUUpTwg/master.m3u8
 #EXTINF:-1 tvg-name="Western Province vs AET Tuskers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95785" group-title="CSA T20 Challenge, 2024",Western Province vs AET Tuskers
 https://dai.google.com/linear/hls/event/x0J79yKqSPekWHCvx_u8Pg/master.m3u8
