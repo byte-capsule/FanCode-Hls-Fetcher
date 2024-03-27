@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="91 Yards Club vs Stallion Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97008" group-title="Guwahati Premier League, 2024",91 Yards Club vs Stallion Cricket Club
+https://dai.google.com/linear/hls/event/ax0F6PZ5QbWHOg84L0wy-g/master.m3u8
 #EXTINF:-1 tvg-name="PSR Lucknow vs Talatala Kolkata" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97094" group-title="Indo-Nepal T20 Championship, 2024",PSR Lucknow vs Talatala Kolkata
 https://dai.google.com/linear/hls/event/6y0-80O-SZOOxUdQSV59sQ/master.m3u8
 #EXTINF:-1 tvg-name="Limpopo vs Garden Route Badgers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95757" group-title="CSA Provincial T20 Cup, 2024",Limpopo vs Garden Route Badgers
@@ -7,6 +9,8 @@ https://dai.google.com/linear/hls/event/N46vgPKAQxyXSiLJvt3Adw/master.m3u8
 https://dai.google.com/linear/hls/event/FQkWk3szQoGfsBRHclTjlA/master.m3u8
 #EXTINF:-1 tvg-name="Border vs Mpumalanga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95755" group-title="CSA Provincial T20 Cup, 2024",Border vs Mpumalanga
 https://dai.google.com/linear/hls/event/ZbkI7hTPRp6DiNBJUUpTwg/master.m3u8
+#EXTINF:-1 tvg-name="AET Tuskers vs Western Province" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95785" group-title="CSA T20 Challenge, 2024",AET Tuskers vs Western Province
+https://dai.google.com/linear/hls/event/x0J79yKqSPekWHCvx_u8Pg/master.m3u8
 #EXTINF:-1 tvg-name="Churchill Brothers FC vs Panjim Footballers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97593" group-title="Goa Professional League 2023-24",Churchill Brothers FC vs Panjim Footballers
 https://dai.google.com/linear/hls/event/kxsOW8YJTWi6emhWarsoSg/master.m3u8
 #EXTINF:-1 tvg-name="Sporting Clube de Goa vs Dempo SC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97592" group-title="Goa Professional League 2023-24",Sporting Clube de Goa vs Dempo SC
