@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="City Cricket Club vs Gauhati Town Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97007" group-title="Guwahati Premier League, 2024",City Cricket Club vs Gauhati Town Club
-https://dai.google.com/linear/hls/event/qQx6-cVLSuONT7K4UMs3NQ/master.m3u8
-#EXTINF:-1 tvg-name="Sudurpaschim vs Bharatpur Mayor XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97093" group-title="Indo-Nepal T20 Championship, 2024",Sudurpaschim vs Bharatpur Mayor XI
-https://dai.google.com/linear/hls/event/jyUlxYt_TeeXixUiZebBew/master.m3u8
 #EXTINF:-1 tvg-name="LN Club vs Royaludayn's Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97572" group-title="East UP T20 Club Championships, 2024",LN Club vs Royaludayn's Club
 https://dai.google.com/linear/hls/event/2nQwHQgPTwu3BXxNcoEizw/master.m3u8
+#EXTINF:-1 tvg-name="Sudurpaschim vs Bharatpur Mayor XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97093" group-title="Indo-Nepal T20 Championship, 2024",Sudurpaschim vs Bharatpur Mayor XI
+https://dai.google.com/linear/hls/event/jyUlxYt_TeeXixUiZebBew/master.m3u8
+#EXTINF:-1 tvg-name="PSR Lucknow vs Talatala Kolkata" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97094" group-title="Indo-Nepal T20 Championship, 2024",PSR Lucknow vs Talatala Kolkata
+https://dai.google.com/linear/hls/event/6y0-80O-SZOOxUdQSV59sQ/master.m3u8
