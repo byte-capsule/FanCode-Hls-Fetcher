@@ -1,3 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Pirates Bay Raiders vs Pigeon Point Skiers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97133" group-title="Dream11 Bago T10 Blast, 2nd Edition, 2024",Pirates Bay Raiders vs Pigeon Point Skiers
+https://dai.google.com/linear/hls/event/JEPOfQlISYma3K2_B3OfCw/master.m3u8
 #EXTINF:-1 tvg-name="Seven Districts Juniors vs Karwan Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96881" group-title="Sharjah Ramadan T20 League, 2024",Seven Districts Juniors vs Karwan Cricket Club
 https://dai.google.com/linear/hls/event/fR6U8CjgRxeLv1wpjflpnw/master.m3u8
+#EXTINF:-1 tvg-name="Warriors vs Imperial Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95786" group-title="CSA T20 Challenge, 2024",Warriors vs Imperial Lions
+https://dai.google.com/linear/hls/event/0rm5W7g9RtiXWNM2cCenQg/master.m3u8
+#EXTINF:-1 tvg-name="South Africa Women vs Sri Lanka Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97202" group-title="Sri Lanka Women tour of South Africa, 2024",South Africa Women vs Sri Lanka Women
+https://dai.google.com/linear/hls/event/b_5FA5I9T8a-XGOW4hjxUg/master.m3u8
