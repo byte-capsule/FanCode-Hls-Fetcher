@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="City Cricket Club vs Gauhati Town Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97007" group-title="Guwahati Premier League, 2024",City Cricket Club vs Gauhati Town Club
 https://dai.google.com/linear/hls/event/qQx6-cVLSuONT7K4UMs3NQ/master.m3u8
-#EXTINF:-1 tvg-name="Bangladesh Women vs Australia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97054" group-title="Australia Women's tour of Bangladesh",Bangladesh Women vs Australia Women
-https://dai.google.com/linear/hls/event/45TC_CTGRiW09p1arNEkiw/master.m3u8
 #EXTINF:-1 tvg-name="Sudurpaschim vs Bharatpur Mayor XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97093" group-title="Indo-Nepal T20 Championship, 2024",Sudurpaschim vs Bharatpur Mayor XI
 https://dai.google.com/linear/hls/event/jyUlxYt_TeeXixUiZebBew/master.m3u8
 #EXTINF:-1 tvg-name="LN Club vs Royaludayn's Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97572" group-title="East UP T20 Club Championships, 2024",LN Club vs Royaludayn's Club
