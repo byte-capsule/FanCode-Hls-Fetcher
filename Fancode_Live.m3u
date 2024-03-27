@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Lakshya Club vs Hawk Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97571" group-title="East UP T20 Club Championships, 2024",Lakshya Club vs Hawk Club
-https://dai.google.com/linear/hls/event/qN2dg5WbRG-sA4WncT4NmA/master.m3u8
 #EXTINF:-1 tvg-name="Bangladesh Women vs Australia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97054" group-title="Australia Women's tour of Bangladesh",Bangladesh Women vs Australia Women
 https://dai.google.com/linear/hls/event/45TC_CTGRiW09p1arNEkiw/master.m3u8
+#EXTINF:-1 tvg-name="Lakshya Club vs Hawk Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97571" group-title="East UP T20 Club Championships, 2024",Lakshya Club vs Hawk Club
+https://dai.google.com/linear/hls/event/qN2dg5WbRG-sA4WncT4NmA/master.m3u8
+#EXTINF:-1 tvg-name="Sudurpaschim vs Bharatpur Mayor XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97093" group-title="Indo-Nepal T20 Championship, 2024",Sudurpaschim vs Bharatpur Mayor XI
+https://dai.google.com/linear/hls/event/jyUlxYt_TeeXixUiZebBew/master.m3u8
