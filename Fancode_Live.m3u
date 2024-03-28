@@ -1,9 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Alif Pharma vs Khandan XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96883" group-title="Sharjah Ramadan T20 League, 2024",Alif Pharma vs Khandan XI
-https://dai.google.com/linear/hls/event/i5ARWS4yQkScSjKv07dn9g/master.m3u8
-#EXTINF:-1 tvg-name="Cochin Hurricanes vs Tally CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96427" group-title="Kuwait T10 Ramadan Challengers Cup",Cochin Hurricanes vs Tally CC
-https://dai.google.com/linear/hls/event/ULnND3BGQSWGgCnpWMr7fw/master.m3u8
-#EXTINF:-1 tvg-name="Seven Districts Juniors vs Karwan Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96728" group-title="ICC Academy Ramadan T10",Seven Districts Juniors vs Karwan Cricket Club
-https://dai.google.com/linear/hls/event/__SvxI3qRBauGxGjuWI-nQ/master.m3u8
 #EXTINF:-1 tvg-name="Zalgiris Kaunas vs EA7 EMPORIO ARMANI MILAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97487" group-title="Euro League",Zalgiris Kaunas vs EA7 EMPORIO ARMANI MILAN
 https://dai.google.com/linear/hls/event/oYZU_O4XSJeVg-qKmTaUvA/master.m3u8
