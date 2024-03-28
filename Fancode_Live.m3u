@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Stallion Cricket Club vs Gauhati Town Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97009" group-title="Guwahati Premier League, 2024",Stallion Cricket Club vs Gauhati Town Club
-https://dai.google.com/linear/hls/event/CnJzZGLVSk2BR5hk-SsTKA/master.m3u8
-#EXTINF:-1 tvg-name="Bagmati Province vs Madhesh Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97095" group-title="Indo-Nepal T20 Championship, 2024",Bagmati Province vs Madhesh Pradesh
-https://dai.google.com/linear/hls/event/zBtesB8TRquU51Nkd0tHpw/master.m3u8
 #EXTINF:-1 tvg-name="Kushinagar Club vs LN Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97574" group-title="East UP T20 Club Championships, 2024",Kushinagar Club vs LN Club
 https://dai.google.com/linear/hls/event/zcX3tsJhTqCfsdreaFBJlA/master.m3u8
+#EXTINF:-1 tvg-name="Bagmati Province vs Madhesh Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97095" group-title="Indo-Nepal T20 Championship, 2024",Bagmati Province vs Madhesh Pradesh
+https://dai.google.com/linear/hls/event/zBtesB8TRquU51Nkd0tHpw/master.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe Women vs Papua New Guinea Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97872" group-title="PNG Women's tour of Zimbabwe",Zimbabwe Women vs Papua New Guinea Women
 https://dai.google.com/linear/hls/event/dY5VTs_lRyORJ3Atk_5B8A/master.m3u8
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97646" group-title="Hero Indian Open",Day 1
