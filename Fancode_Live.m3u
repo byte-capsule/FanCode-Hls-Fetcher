@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Kushinagar Club vs LN Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97574" group-title="East UP T20 Club Championships, 2024",Kushinagar Club vs LN Club
 https://dai.google.com/linear/hls/event/zcX3tsJhTqCfsdreaFBJlA/master.m3u8
-#EXTINF:-1 tvg-name="Talatala Kolkata vs Sudurpaschim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97096" group-title="Indo-Nepal T20 Championship, 2024",Talatala Kolkata vs Sudurpaschim
+#EXTINF:-1 tvg-name="Sudurpaschim vs Talatala Kolkata" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97096" group-title="Indo-Nepal T20 Championship, 2024",Sudurpaschim vs Talatala Kolkata
 https://dai.google.com/linear/hls/event/Ue9Vh5sNSiaZk_X-17atOA/master.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe Women vs Papua New Guinea Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97872" group-title="PNG Women's tour of Zimbabwe",Zimbabwe Women vs Papua New Guinea Women
 https://dai.google.com/linear/hls/event/dY5VTs_lRyORJ3Atk_5B8A/master.m3u8
