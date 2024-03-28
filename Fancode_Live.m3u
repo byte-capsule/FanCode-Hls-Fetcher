@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="DA Club vs Sanskriti Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97573" group-title="East UP T20 Club Championships, 2024",DA Club vs Sanskriti Club
-https://dai.google.com/linear/hls/event/7LHoVFSNSs6wqKBS8Jb8fw/master.m3u8
-#EXTINF:-1 tvg-name="Bagmati Province vs Madhesh Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97095" group-title="Indo-Nepal T20 Championship, 2024",Bagmati Province vs Madhesh Pradesh
-https://dai.google.com/linear/hls/event/zBtesB8TRquU51Nkd0tHpw/master.m3u8
 #EXTINF:-1 tvg-name="Stallion Cricket Club vs Gauhati Town Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97009" group-title="Guwahati Premier League, 2024",Stallion Cricket Club vs Gauhati Town Club
 https://dai.google.com/linear/hls/event/CnJzZGLVSk2BR5hk-SsTKA/master.m3u8
+#EXTINF:-1 tvg-name="Bagmati Province vs Madhesh Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97095" group-title="Indo-Nepal T20 Championship, 2024",Bagmati Province vs Madhesh Pradesh
+https://dai.google.com/linear/hls/event/zBtesB8TRquU51Nkd0tHpw/master.m3u8
+#EXTINF:-1 tvg-name="DA Club vs Sanskriti Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97573" group-title="East UP T20 Club Championships, 2024",DA Club vs Sanskriti Club
+https://dai.google.com/linear/hls/event/7LHoVFSNSs6wqKBS8Jb8fw/master.m3u8
+#EXTINF:-1 tvg-name="Nanded District vs Raigad District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96271" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Nanded District vs Raigad District
+https://dai.google.com/linear/hls/event/FA4FXRsPRDiIsA-mv93a1w/master.m3u8
