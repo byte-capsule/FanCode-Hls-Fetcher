@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="City Cricket Club vs Bud Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97010" group-title="Guwahati Premier League, 2024",City Cricket Club vs Bud Cricket Club
 https://dai.google.com/linear/hls/event/wEiJm9ImSBeZ58jeIDEGUg/master.m3u8
-#EXTINF:-1 tvg-name="Sudurpaschim vs Talatala Kolkata" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97096" group-title="Indo-Nepal T20 Championship, 2024",Sudurpaschim vs Talatala Kolkata
-https://dai.google.com/linear/hls/event/Ue9Vh5sNSiaZk_X-17atOA/master.m3u8
 #EXTINF:-1 tvg-name="Lisbon Super Giants vs Lisbon Capitals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97241" group-title="ECS Portugal, 2024",Lisbon Super Giants vs Lisbon Capitals
 https://dai.google.com/linear/hls/event/tVt4n-zLQkK4LjdOVs_rXg/master.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe Women vs Papua New Guinea Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97872" group-title="PNG Women's tour of Zimbabwe",Zimbabwe Women vs Papua New Guinea Women
