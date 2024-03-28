@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Alif Pharma vs Khandan XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96883" group-title="Sharjah Ramadan T20 League, 2024",Alif Pharma vs Khandan XI
+https://dai.google.com/linear/hls/event/i5ARWS4yQkScSjKv07dn9g/master.m3u8
 #EXTINF:-1 tvg-name="Wavilog Tech CC vs London Royals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96727" group-title="ICC Academy Ramadan T10",Wavilog Tech CC vs London Royals
 https://dai.google.com/linear/hls/event/3Ex0nwrgQ4GkoqLp9lV9Ww/master.m3u8
 #EXTINF:-1 tvg-name="Aizawl vs Churchill Brothers FC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94265" group-title="I League 2023-24",Aizawl vs Churchill Brothers FC
