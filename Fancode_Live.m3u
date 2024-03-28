@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Partizan NIS Belgrade vs Olympiacos Piraeus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97489" group-title="Euro League",Partizan NIS Belgrade vs Olympiacos Piraeus
 https://dai.google.com/linear/hls/event/n4nas79zRHOMoDhN_GMY0w/master.m3u8
-#EXTINF:-1 tvg-name="Zalgiris Kaunas vs EA7 EMPORIO ARMANI MILAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97487" group-title="Euro League",Zalgiris Kaunas vs EA7 EMPORIO ARMANI MILAN
-https://dai.google.com/linear/hls/event/oYZU_O4XSJeVg-qKmTaUvA/master.m3u8
 #EXTINF:-1 tvg-name="LDLC ASVEL Villeurbanne vs Monaco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97488" group-title="Euro League",LDLC ASVEL Villeurbanne vs Monaco
 https://dai.google.com/linear/hls/event/hck6VSrkTnWSlGMze4R3Kw/master.m3u8
