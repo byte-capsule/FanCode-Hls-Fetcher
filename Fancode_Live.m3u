@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Nabajyoti Club vs SG Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97012" group-title="Guwahati Premier League, 2024",Nabajyoti Club vs SG Club
 https://dai.google.com/linear/hls/event/k9H3WD1lRaKuERixX0vSJw/master.m3u8
-#EXTINF:-1 tvg-name="Punjab CC Amadora vs Lisbon Super Giants" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97247" group-title="ECS Portugal, 2024",Punjab CC Amadora vs Lisbon Super Giants
-https://dai.google.com/linear/hls/event/junq69MoS82XksnfHRYm8w/master.m3u8
 #EXTINF:-1 tvg-name="Indatwa Hampshire CC Women vs Muhanga Zebras CC Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96693" group-title="RCA Women's T20, 2024",Indatwa Hampshire CC Women vs Muhanga Zebras CC Women
 https://dai.google.com/linear/hls/event/hJe3SP6TRuOgaApeMVuEyQ/master.m3u8
