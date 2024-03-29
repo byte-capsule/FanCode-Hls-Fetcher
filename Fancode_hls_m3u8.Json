@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 6,
-  "updated_on": "29-03-2024 on 10:41:07 PM \ud83c\udf19",
+  "channels_amount": 4,
+  "updated_on": "29-03-2024 on 11:02:50 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -18,13 +18,13 @@
     {
       "event_catagory": "cricket",
       "event_name": "ICC Academy Ramadan T10",
-      "match_id": 96730,
-      "match_name": "DCC Starlets vs Seven Districts",
-      "team_1": "DCC Starlets",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DCC@2x.png",
-      "team_2": "Seven Districts",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SVDE@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/sQsRO6b5TyKDgK5Y0EPnPg/master.m3u8"
+      "match_id": 96731,
+      "match_name": "AZ Sports vs London Royals",
+      "team_1": "AZ Sports",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/AZS-CR2@2x.png",
+      "team_2": "London Royals",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LR@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/QiMprKLFS6GHw-hHcytkGQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -40,35 +40,13 @@
     {
       "event_catagory": "cricket",
       "event_name": "ECS Portugal, 2024",
-      "match_id": 97248,
-      "match_name": "Coimbra Knights vs Team Tigers Portugal",
+      "match_id": 97249,
+      "match_name": "Coimbra Knights vs Punjab CC Amadora",
       "team_1": "Coimbra Knights",
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CKCC@2x.png",
-      "team_2": "Team Tigers Portugal",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TTP@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/xqwWRNuYR6GhBLweCWmsAw/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "EFL Championship 2023-24",
-      "match_id": 96199,
-      "match_name": "Norwich City vs Plymouth Argyle",
-      "team_1": "Norwich City",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NORC@2x.png",
-      "team_2": "Plymouth Argyle",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PLYM@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/JRIbArklSouGHCjmTLa6pw/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "League Two 2023-24",
-      "match_id": 96771,
-      "match_name": "Wrexham vs Mansfield Town",
-      "team_1": "Wrexham",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WRX@2x.png",
-      "team_2": "Mansfield Town",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MANSF@2x.png",
-      "stream_link": "https://dai.fancode.com/primary/96771_english_hls_993adfreeta-no/index.m3u8"
+      "team_2": "Punjab CC Amadora",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PNJ@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/k89OnCogQyG3XN8qttotfQ/master.m3u8"
     }
   ]
 }
