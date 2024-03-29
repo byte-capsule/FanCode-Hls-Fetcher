@@ -1,10 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Time Watch Club vs LN Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97576" group-title="East UP T20 Club Championships, 2024",Time Watch Club vs LN Club
+https://dai.google.com/linear/hls/event/sOHd8GKkTOecbxBmibCLeQ/master.m3u8
 #EXTINF:-1 tvg-name="91 Yards Club vs New Star Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97011" group-title="Guwahati Premier League, 2024",91 Yards Club vs New Star Club
 https://dai.google.com/linear/hls/event/dKKZCgq0RHG5RSOzfVqwzQ/master.m3u8
 #EXTINF:-1 tvg-name="PSR Lucknow vs Madhesh Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97097" group-title="Indo-Nepal T20 Championship, 2024",PSR Lucknow vs Madhesh Pradesh
 https://dai.google.com/linear/hls/event/ze52PJpmSbOWwLO09nvlbA/master.m3u8
-#EXTINF:-1 tvg-name="Time Watch Club vs LN Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97576" group-title="East UP T20 Club Championships, 2024",Time Watch Club vs LN Club
-https://dai.google.com/linear/hls/event/sOHd8GKkTOecbxBmibCLeQ/master.m3u8
 #EXTINF:-1 tvg-name="Ireland Wolves vs Nepal A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97197" group-title="Ireland Wolves tour of Nepal, 2024",Ireland Wolves vs Nepal A
 https://dai.google.com/linear/hls/event/SfzGO3qcSH-c2eualTfymQ/master.m3u8
 #EXTINF:-1 tvg-name="Gahanga Queens CC Women vs Sorwathe Girls CC Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96692" group-title="RCA Women's T20, 2024",Gahanga Queens CC Women vs Sorwathe Girls CC Women
