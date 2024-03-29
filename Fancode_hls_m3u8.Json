@@ -1,19 +1,30 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 2,
-  "updated_on": "29-03-2024 on 8:40:55 PM \ud83c\udf19",
+  "channels_amount": 4,
+  "updated_on": "29-03-2024 on 9:03:27 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
-      "event_name": "Guwahati Premier League, 2024",
-      "match_id": 97012,
-      "match_name": "Nabajyoti Club vs SG Club",
-      "team_1": "Nabajyoti Club",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NBC@2x.png",
-      "team_2": "SG Club",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SGC@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/k9H3WD1lRaKuERixX0vSJw/master.m3u8"
+      "event_name": "ICC Academy Ramadan T10",
+      "match_id": 96730,
+      "match_name": "DCC Starlets vs Seven Districts",
+      "team_1": "DCC Starlets",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DCC@2x.png",
+      "team_2": "Seven Districts",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SVDE@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/sQsRO6b5TyKDgK5Y0EPnPg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ECS Portugal, 2024",
+      "match_id": 97248,
+      "match_name": "Coimbra Knights vs Team Tigers Portugal",
+      "team_1": "Coimbra Knights",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CKCC@2x.png",
+      "team_2": "Team Tigers Portugal",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TTP@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/xqwWRNuYR6GhBLweCWmsAw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -25,6 +36,17 @@
       "team_2": "Muhanga Zebras CC Women",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MUZ@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/hJe3SP6TRuOgaApeMVuEyQ/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "League Two 2023-24",
+      "match_id": 96771,
+      "match_name": "Wrexham vs Mansfield Town",
+      "team_1": "Wrexham",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WRX@2x.png",
+      "team_2": "Mansfield Town",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MANSF@2x.png",
+      "stream_link": "https://dai.fancode.com/primary/96771_english_hls_993adfreeta-no/index.m3u8"
     }
   ]
 }
