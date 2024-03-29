@@ -1,9 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Royal Phoenix Clinic vs UAE Kings XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96885" group-title="Sharjah Ramadan T20 League, 2024",Royal Phoenix Clinic vs UAE Kings XI
+https://dai.google.com/linear/hls/event/rbgILEjCQ1O9LmhtFbluWQ/master.m3u8
 #EXTINF:-1 tvg-name="DCC Starlets vs Seven Districts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96730" group-title="ICC Academy Ramadan T10",DCC Starlets vs Seven Districts
 https://dai.google.com/linear/hls/event/sQsRO6b5TyKDgK5Y0EPnPg/master.m3u8
 #EXTINF:-1 tvg-name="Coimbra Knights vs Team Tigers Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97248" group-title="ECS Portugal, 2024",Coimbra Knights vs Team Tigers Portugal
 https://dai.google.com/linear/hls/event/xqwWRNuYR6GhBLweCWmsAw/master.m3u8
-#EXTINF:-1 tvg-name="Indatwa Hampshire CC Women vs Muhanga Zebras CC Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96693" group-title="RCA Women's T20, 2024",Indatwa Hampshire CC Women vs Muhanga Zebras CC Women
-https://dai.google.com/linear/hls/event/hJe3SP6TRuOgaApeMVuEyQ/master.m3u8
+#EXTINF:-1 tvg-name="Norwich City vs Plymouth Argyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96199" group-title="EFL Championship 2023-24",Norwich City vs Plymouth Argyle
+https://dai.google.com/linear/hls/event/JRIbArklSouGHCjmTLa6pw/master.m3u8
 #EXTINF:-1 tvg-name="Wrexham vs Mansfield Town" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96771" group-title="League Two 2023-24",Wrexham vs Mansfield Town
 https://dai.fancode.com/primary/96771_english_hls_993adfreeta-no/index.m3u8
