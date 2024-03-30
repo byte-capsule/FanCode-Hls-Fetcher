@@ -1,19 +1,19 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Royaludayn's Club vs Kushinagar Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97578" group-title="East UP T20 Club Championships, 2024",Royaludayn's Club vs Kushinagar Club
+https://dai.google.com/linear/hls/event/3_Blh4UcTmuJEmq69lIKQA/master.m3u8
 #EXTINF:-1 tvg-name="New Star Club vs Stallion Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97013" group-title="Guwahati Premier League, 2024",New Star Club vs Stallion Cricket Club
 https://dai.google.com/linear/hls/event/pjP7KcoGShWCmussxjpVaQ/master.m3u8
 #EXTINF:-1 tvg-name="Talatala Kolkata vs Madhesh Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97099" group-title="Indo-Nepal T20 Championship, 2024",Talatala Kolkata vs Madhesh Pradesh
 https://dai.google.com/linear/hls/event/uDDuyWd0Qc6r1tUGSAIPQQ/master.m3u8
-#EXTINF:-1 tvg-name="Royaludayn's Club vs Kushinagar Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97578" group-title="East UP T20 Club Championships, 2024",Royaludayn's Club vs Kushinagar Club
-https://dai.google.com/linear/hls/event/3_Blh4UcTmuJEmq69lIKQA/master.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka vs Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93985" group-title="Sri Lanka tour of Bangladesh, 2024",Sri Lanka vs Bangladesh
 https://dai.google.com/linear/hls/event/_TNTgGT1TVaZXzIdVNLzRA/master.m3u8
 #EXTINF:-1 tvg-name="Ireland Wolves vs Nepal A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97198" group-title="Ireland Wolves tour of Nepal, 2024",Ireland Wolves vs Nepal A
 https://dai.google.com/linear/hls/event/6L_EL5kzQ_GIdBvg2xmAmw/master.m3u8
-#EXTINF:-1 tvg-name="Melbourne City vs Newcastle Jets" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94081" group-title="A League Men 2023-24",Melbourne City vs Newcastle Jets
-https://dai.fancode.com/primary/94081_english_hls_6039adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Nagoya Grampus vs Yokohama F. Marinos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96596" group-title="J League 2024",Nagoya Grampus vs Yokohama F. Marinos
+https://dai.fancode.com/primary/96596_english_hls_5951adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Kawasaki Frontale vs FC Tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96595" group-title="J League 2024",Kawasaki Frontale vs FC Tokyo
 https://dai.fancode.com/primary/96595_english_hls_5771adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Urawa Red Diamonds vs Avispa Fukuoka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96594" group-title="J League 2024",Urawa Red Diamonds vs Avispa Fukuoka
 https://dai.fancode.com/primary/96594_english_hls_9838adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Nagoya Grampus vs Yokohama F. Marinos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96596" group-title="J League 2024",Nagoya Grampus vs Yokohama F. Marinos
-https://dai.fancode.com/primary/96596_english_hls_5951adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Melbourne City vs Newcastle Jets" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94081" group-title="A League Men 2023-24",Melbourne City vs Newcastle Jets
+https://dai.fancode.com/primary/94081_english_hls_6039adfreeta-di/index.m3u8
