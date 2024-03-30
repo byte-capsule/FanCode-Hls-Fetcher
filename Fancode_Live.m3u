@@ -19,3 +19,5 @@ https://dai.fancode.com/primary/96595_english_hls_5771adfreeta-no/index.m3u8
 https://dai.fancode.com/primary/96594_english_hls_9838adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Match #1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97926" group-title="LET New South Wales Women's Open",Match #1
 https://dai.google.com/linear/hls/event/VZ6EQ6bXSKyXMGRacskDUQ/master.m3u8
+#EXTINF:-1 tvg-name="Latur District vs Nashik District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96280" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Latur District vs Nashik District
+https://dai.google.com/linear/hls/event/m8usybr5TTWo3NGSE-0GkA/master.m3u8
