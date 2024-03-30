@@ -1,15 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Bud Cricket Club vs Nabajyoti Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97014" group-title="Guwahati Premier League, 2024",Bud Cricket Club vs Nabajyoti Club
 https://dai.google.com/linear/hls/event/Lc04FKsAQ_iXQwIWeCTb8w/master.m3u8
-#EXTINF:-1 tvg-name="Coimbra Knights vs Lisbon Capitals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97251" group-title="ECS Portugal, 2024",Coimbra Knights vs Lisbon Capitals
-https://dai.google.com/linear/hls/event/C6pqyK-rTnKkTfIZu6XHsA/master.m3u8
+#EXTINF:-1 tvg-name="South Africa Women vs Sri Lanka Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97203" group-title="Sri Lanka Women tour of South Africa, 2024",South Africa Women vs Sri Lanka Women
+https://dai.google.com/linear/hls/event/wOxbezmaQjCnk4k8JGGCGw/master.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka vs Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93985" group-title="Sri Lanka tour of Bangladesh, 2024",Sri Lanka vs Bangladesh
 https://dai.google.com/linear/hls/event/_TNTgGT1TVaZXzIdVNLzRA/master.m3u8
 #EXTINF:-1 tvg-name="Papua New Guinea Women vs Zimbabwe Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97868" group-title="PNG Women's tour of Zimbabwe",Papua New Guinea Women vs Zimbabwe Women
 https://dai.google.com/linear/hls/event/DjOvD63ATmO1db0B9tn17A/master.m3u8
-#EXTINF:-1 tvg-name="South Africa Women vs Sri Lanka Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97203" group-title="Sri Lanka Women tour of South Africa, 2024",South Africa Women vs Sri Lanka Women
-https://dai.google.com/linear/hls/event/wOxbezmaQjCnk4k8JGGCGw/master.m3u8
 #EXTINF:-1 tvg-name="Shanghai Port vs Henan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95105" group-title="Chinese Super League 2024",Shanghai Port vs Henan
 https://dai.fancode.com/primary/95105_english_hls_5313adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97648" group-title="Hero Indian Open",Day 3
-https://dai.google.com/linear/hls/event/iG0zxODXSRilf8VO_yhu1Q/master.m3u8
+#EXTINF:-1 tvg-name="Liverpool Women vs Manchester City Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96154" group-title="Barclays FA Women's Super League 2023-24",Liverpool Women vs Manchester City Women
+https://dai.fancode.com/primary/96154_english_hls_5746adfreeta-di/index.m3u8
