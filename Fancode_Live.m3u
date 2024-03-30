@@ -1,14 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Royaludayn's Club vs Kushinagar Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97578" group-title="East UP T20 Club Championships, 2024",Royaludayn's Club vs Kushinagar Club
 https://dai.google.com/linear/hls/event/3_Blh4UcTmuJEmq69lIKQA/master.m3u8
-#EXTINF:-1 tvg-name="Talatala Kolkata vs Madhesh Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97099" group-title="Indo-Nepal T20 Championship, 2024",Talatala Kolkata vs Madhesh Pradesh
-https://dai.google.com/linear/hls/event/uDDuyWd0Qc6r1tUGSAIPQQ/master.m3u8
 #EXTINF:-1 tvg-name="Ireland Wolves vs Nepal A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97198" group-title="Ireland Wolves tour of Nepal, 2024",Ireland Wolves vs Nepal A
 https://dai.google.com/linear/hls/event/6L_EL5kzQ_GIdBvg2xmAmw/master.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka vs Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93985" group-title="Sri Lanka tour of Bangladesh, 2024",Sri Lanka vs Bangladesh
 https://dai.google.com/linear/hls/event/_TNTgGT1TVaZXzIdVNLzRA/master.m3u8
+#EXTINF:-1 tvg-name="Gamblers SC vs Team Tigers Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97250" group-title="ECS Portugal, 2024",Gamblers SC vs Team Tigers Portugal
+https://dai.google.com/linear/hls/event/1lAr53lvSEqXNlfANTRm3A/master.m3u8
 #EXTINF:-1 tvg-name="Nagoya Grampus vs Yokohama F. Marinos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96596" group-title="J League 2024",Nagoya Grampus vs Yokohama F. Marinos
 https://dai.fancode.com/primary/96596_english_hls_5951adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Sydney FC vs Central Coast Mariners" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94082" group-title="A League Men 2023-24",Sydney FC vs Central Coast Mariners
+https://dai.fancode.com/primary/94082_english_hls_7245adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Real Kashmir FC vs NEROCA FC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98108" group-title="I League 2023-24",Real Kashmir FC vs NEROCA FC
 https://dai.google.com/linear/hls/event/crm6clrWQoG54lAkqZzIng/master.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97648" group-title="Hero Indian Open",Day 3
