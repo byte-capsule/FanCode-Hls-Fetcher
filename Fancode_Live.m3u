@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Pacific Star Sports vs Seven Districts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96887" group-title="Sharjah Ramadan T20 League, 2024",Pacific Star Sports vs Seven Districts
+https://dai.google.com/linear/hls/event/5Ifcu6LYQWSTxHtoDtQpcw/master.m3u8
 #EXTINF:-1 tvg-name="AZ Sports vs DCC Starlets" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96733" group-title="ICC Academy Ramadan T10",AZ Sports vs DCC Starlets
 https://dai.google.com/linear/hls/event/M4QDPbt7SXe9kUxmyHkrlw/master.m3u8
 #EXTINF:-1 tvg-name="Coimbra Knights vs Lisbon Capitals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97253" group-title="ECS Portugal, 2024",Coimbra Knights vs Lisbon Capitals
