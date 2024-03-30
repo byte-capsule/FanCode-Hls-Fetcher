@@ -1,3 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Men In Blue Tokyo vs Tokyo Star Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97596" group-title="JCL T10, 2024",Men In Blue Tokyo vs Tokyo Star Kings
+https://dai.google.com/linear/hls/event/c-ZIFT_bQUuWsZOiqI1oNw/master.m3u8
 #EXTINF:-1 tvg-name="Mudmen vs Mariners Men" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97176" group-title="Isuzu Men's T20 Smash, 2024",Mudmen vs Mariners Men
 https://dai.google.com/linear/hls/event/BoOVMdqXScG27T1YpKvL1g/master.m3u8
+#EXTINF:-1 tvg-name="Match #1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97926" group-title="LET New South Wales Women's Open",Match #1
+https://dai.google.com/linear/hls/event/VZ6EQ6bXSKyXMGRacskDUQ/master.m3u8
