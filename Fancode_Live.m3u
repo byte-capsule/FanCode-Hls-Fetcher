@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Stallion Cricket Club vs Nabajyoti Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97613" group-title="Guwahati Premier League, 2024",Stallion Cricket Club vs Nabajyoti Club
-https://dai.google.com/linear/hls/event/5KLqbGrMQP6k9NWdQ4KJFA/master.m3u8
 #EXTINF:-1 tvg-name="Right Guards CC vs Challengers CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96677" group-title="RCA Men's T20, 2024",Right Guards CC vs Challengers CC
 https://dai.google.com/linear/hls/event/jqQqHwdwSFWvgz_MokcUFQ/master.m3u8
 #EXTINF:-1 tvg-name="Punjab CC Amadora vs Coimbra Knights" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97257" group-title="ECS Portugal, 2024",Punjab CC Amadora vs Coimbra Knights
@@ -13,5 +11,3 @@ https://dai.google.com/linear/hls/event/_TNTgGT1TVaZXzIdVNLzRA/master.m3u8
 https://dai.google.com/linear/hls/event/AXrdc-vnSWqFWHCzgqMR5Q/master.m3u8
 #EXTINF:-1 tvg-name="Shandong Taishan vs Shanghai Shenhua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95106" group-title="Chinese Super League 2024",Shandong Taishan vs Shanghai Shenhua
 https://dai.fancode.com/primary/95106_english_hls_5470adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Real Madrid vs Manresa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94036" group-title="Liga Endesa",Real Madrid vs Manresa
-https://dai.google.com/linear/hls/event/ctIxFcrqSUaEPwbrGFRJoA/master.m3u8
