@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 6,
-  "updated_on": "31-03-2024 on 0:07:22 PM \ud83c\udf1e",
+  "channels_amount": 8,
+  "updated_on": "31-03-2024 on 0:27:37 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -69,6 +69,28 @@
       "team_2": "Magenta Shores Golf and Country Club",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/JCMDvtlfQn-RuKDcWFoaSQ/master.m3u8"
+    },
+    {
+      "event_catagory": "golf",
+      "event_name": "Hero Indian Open",
+      "match_id": 97649,
+      "match_name": "Day 4",
+      "team_1": "Day 4",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-HIOG@2x.png",
+      "team_2": "DLF Golf & Country Club, Delhi, India",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/RPrTDBvbQ_uaQyKJaGa4eQ/master.m3u8"
+    },
+    {
+      "event_catagory": "kabaddi",
+      "event_name": "KMP Yuva Kabaddi Inter District Youth League, 2024",
+      "match_id": 96284,
+      "match_name": "Raigad District vs Dhule District",
+      "team_1": "Raigad District",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-RD@2x.png",
+      "team_2": "Dhule District",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-DHD@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/I42xax2lQ0Oybl2mYYiR4g/master.m3u8"
     }
   ]
 }

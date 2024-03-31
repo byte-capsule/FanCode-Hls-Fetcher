@@ -11,3 +11,7 @@ https://dai.google.com/linear/hls/event/_TNTgGT1TVaZXzIdVNLzRA/master.m3u8
 https://dai.google.com/linear/hls/event/9BlVSV36Rd6rLvJ_yH5woQ/master.m3u8
 #EXTINF:-1 tvg-name="Match #2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97927" group-title="LET New South Wales Women's Open",Match #2
 https://dai.google.com/linear/hls/event/JCMDvtlfQn-RuKDcWFoaSQ/master.m3u8
+#EXTINF:-1 tvg-name="Day 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97649" group-title="Hero Indian Open",Day 4
+https://dai.google.com/linear/hls/event/RPrTDBvbQ_uaQyKJaGa4eQ/master.m3u8
+#EXTINF:-1 tvg-name="Raigad District vs Dhule District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96284" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Raigad District vs Dhule District
+https://dai.google.com/linear/hls/event/I42xax2lQ0Oybl2mYYiR4g/master.m3u8
