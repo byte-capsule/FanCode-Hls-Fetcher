@@ -1,30 +1,19 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 7,
-  "updated_on": "31-03-2024 on 10:28:49 AM \ud83c\udf1e",
+  "channels_amount": 6,
+  "updated_on": "31-03-2024 on 10:40:56 AM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
-      "event_name": "JCL T10, 2024",
-      "match_id": 97110,
-      "match_name": "Tokyo Titans vs Rising Stars",
-      "team_1": "Tokyo Titans",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TOKT@2x.png",
-      "team_2": "Rising Stars",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSTA@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/q8a4FJ8rRrGR57kLiqn4bg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Sri Lanka tour of Bangladesh, 2024",
-      "match_id": 93985,
-      "match_name": "Sri Lanka vs Bangladesh",
-      "team_1": "Sri Lanka",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
-      "team_2": "Bangladesh",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/_TNTgGT1TVaZXzIdVNLzRA/master.m3u8"
+      "event_name": "Isuzu Men's T20 Smash, 2024",
+      "match_id": 97178,
+      "match_name": "Mariners vs Black Bass",
+      "team_1": "Mariners",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MARM@2x.png",
+      "team_2": "Black Bass",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBM@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/z523l1vcRdygdMKRbb29tw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -39,14 +28,14 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Isuzu Men's T20 Smash, 2024",
-      "match_id": 97178,
-      "match_name": "Mariners vs Black Bass",
-      "team_1": "Mariners",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MARM@2x.png",
-      "team_2": "Black Bass",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBM@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/z523l1vcRdygdMKRbb29tw/master.m3u8"
+      "event_name": "Sri Lanka tour of Bangladesh, 2024",
+      "match_id": 93985,
+      "match_name": "Sri Lanka vs Bangladesh",
+      "team_1": "Sri Lanka",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+      "team_2": "Bangladesh",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/_TNTgGT1TVaZXzIdVNLzRA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
