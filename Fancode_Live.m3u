@@ -5,5 +5,9 @@ https://dai.google.com/linear/hls/event/q8a4FJ8rRrGR57kLiqn4bg/master.m3u8
 https://dai.google.com/linear/hls/event/_TNTgGT1TVaZXzIdVNLzRA/master.m3u8
 #EXTINF:-1 tvg-name="Lakshya Club vs Sanskriti Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97579" group-title="East UP T20 Club Championships, 2024",Lakshya Club vs Sanskriti Club
 https://dai.google.com/linear/hls/event/V8XXmn8qSKC4q51tpGTiBg/master.m3u8
+#EXTINF:-1 tvg-name="Mariners vs Black Bass" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97178" group-title="Isuzu Men's T20 Smash, 2024",Mariners vs Black Bass
+https://dai.google.com/linear/hls/event/z523l1vcRdygdMKRbb29tw/master.m3u8
+#EXTINF:-1 tvg-name="Melbourne Victory vs Perth Glory" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94084" group-title="A League Men 2023-24",Melbourne Victory vs Perth Glory
+https://dai.fancode.com/primary/94084_english_hls_5781adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Match #2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97927" group-title="LET New South Wales Women's Open",Match #2
 https://dai.google.com/linear/hls/event/JCMDvtlfQn-RuKDcWFoaSQ/master.m3u8
