@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Seven Districts Juniors vs Seven Districts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96737" group-title="ICC Academy Ramadan T10",Seven Districts Juniors vs Seven Districts
+https://dai.google.com/linear/hls/event/DGr8F0LAS82qh5yXeHAZZQ/master.m3u8
 #EXTINF:-1 tvg-name="No Mans Land Explorers vs Pirates Bay Raiders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97140" group-title="Dream11 Bago T10 Blast, 2nd Edition, 2024",No Mans Land Explorers vs Pirates Bay Raiders
 https://dai.google.com/linear/hls/event/HQH_MAiBRS2F8wfuAwPXkQ/master.m3u8
 #EXTINF:-1 tvg-name="Right Guards CC vs Challengers CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96677" group-title="RCA Men's T20, 2024",Right Guards CC vs Challengers CC
