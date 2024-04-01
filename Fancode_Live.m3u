@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Mudmen vs Black Bass" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97179" group-title="Isuzu Men's T20 Smash, 2024",Mudmen vs Black Bass
+https://mls3.fancode.com/179321c5-fe55-4a56-beda-5e4cd7049560/master.m3u8
+#EXTINF:-1 tvg-name="Sri Lanka vs Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93985" group-title="Sri Lanka tour of Bangladesh, 2024",Sri Lanka vs Bangladesh
+https://dai.google.com/linear/hls/event/_TNTgGT1TVaZXzIdVNLzRA/master.m3u8
