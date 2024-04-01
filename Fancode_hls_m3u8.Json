@@ -2,7 +2,7 @@
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "channels_amount": 6,
-  "updated_on": "01-04-2024 on 5:41:03 PM \ud83c\udf1e",
+  "updated_on": "01-04-2024 on 6:11:48 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -25,6 +25,17 @@
       "team_2": "City Cricket Club",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CCLB@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/YHwPQEmKRj635KvJGIY8pQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "CSA T20 Challenge, 2024",
+      "match_id": 95790,
+      "match_name": "Titans vs North West",
+      "team_1": "Titans",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TTNN@2x.png",
+      "team_2": "North West",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NDRS@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/_LcqwT7-RW2yLAMGdZwX2w/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -58,17 +69,6 @@
       "team_2": "Norwich City",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NORC@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/fqil7nA-SBaINX9wmoL6gA/master.m3u8"
-    },
-    {
-      "event_catagory": "kabaddi",
-      "event_name": "KMP Yuva Kabaddi Inter District Youth League, 2024",
-      "match_id": 96290,
-      "match_name": "Dhule District vs Satara District",
-      "team_1": "Dhule District",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-DHD@2x.png",
-      "team_2": "Satara District",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-SAT@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/OndQpxoqQfWkY_ilnGd79w/master.m3u8"
     }
   ]
 }
