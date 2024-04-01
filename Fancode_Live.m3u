@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Crickingdom Thunderbolts vs ATC Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98007" group-title="Bali Blast Championship T10",Crickingdom Thunderbolts vs ATC Cricket Club
 https://dai.google.com/linear/hls/event/eO3Go8pjQSa15I22lm23fQ/master.m3u8
-#EXTINF:-1 tvg-name="Badung Cricket Club vs Bali Cricket Team" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98006" group-title="Bali Blast Championship T10",Badung Cricket Club vs Bali Cricket Team
-https://dai.google.com/linear/hls/event/oxiMA_R7TiOi_g5T2uSDCA/master.m3u8
 #EXTINF:-1 tvg-name="Time Watch Club vs Kushinagar Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97582" group-title="East UP T20 Club Championships, 2024",Time Watch Club vs Kushinagar Club
 https://dai.google.com/linear/hls/event/rx8l92b3SXCwturZxYvdMQ/master.m3u8
 #EXTINF:-1 tvg-name="91 Yards Club vs Gauhati Town Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97016" group-title="Guwahati Premier League, 2024",91 Yards Club vs Gauhati Town Club
 https://dai.google.com/linear/hls/event/gwd3G0bgRWSMmSXMPpw6SA/master.m3u8
-#EXTINF:-1 tvg-name="Sri Lanka vs Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93985" group-title="Sri Lanka tour of Bangladesh, 2024",Sri Lanka vs Bangladesh
-https://dai.google.com/linear/hls/event/_TNTgGT1TVaZXzIdVNLzRA/master.m3u8
 #EXTINF:-1 tvg-name="Nepal A vs Ireland Wolves" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97196" group-title="Ireland Wolves tour of Nepal, 2024",Nepal A vs Ireland Wolves
 https://dai.google.com/linear/hls/event/ZaSYBlNPS-GGPremjnItjg/master.m3u8
+#EXTINF:-1 tvg-name="Sri Lanka vs Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93985" group-title="Sri Lanka tour of Bangladesh, 2024",Sri Lanka vs Bangladesh
+https://dai.google.com/linear/hls/event/_TNTgGT1TVaZXzIdVNLzRA/master.m3u8
+#EXTINF:-1 tvg-name="Dolphins vs AET Tuskers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95789" group-title="CSA T20 Challenge, 2024",Dolphins vs AET Tuskers
+https://dai.google.com/linear/hls/event/V0E4HFjPTRGKFZi42dlxWg/master.m3u8
