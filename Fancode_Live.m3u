@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Punjab CC Amadora vs Gorkha XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97260" group-title="ECS Portugal, 2024",Punjab CC Amadora vs Gorkha XI
 https://mls3.fancode.com/1ee5bf4e-cd1d-49f7-b32d-2c73d7991eb3/master.m3u8
-#EXTINF:-1 tvg-name="Crickingdom Thunderbolts vs ATC Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98007" group-title="Bali Blast Championship T10",Crickingdom Thunderbolts vs ATC Cricket Club
-https://dai.google.com/linear/hls/event/eO3Go8pjQSa15I22lm23fQ/master.m3u8
 #EXTINF:-1 tvg-name="Time Watch Club vs Kushinagar Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97582" group-title="East UP T20 Club Championships, 2024",Time Watch Club vs Kushinagar Club
 https://dai.google.com/linear/hls/event/rx8l92b3SXCwturZxYvdMQ/master.m3u8
 #EXTINF:-1 tvg-name="Dolphins vs AET Tuskers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95789" group-title="CSA T20 Challenge, 2024",Dolphins vs AET Tuskers
