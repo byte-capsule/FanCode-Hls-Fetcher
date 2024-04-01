@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Northern Cape vs Knights" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95756" group-title="CSA Provincial T20 Cup, 2024",Northern Cape vs Knights
-https://dai.google.com/linear/hls/event/FQkWk3szQoGfsBRHclTjlA/master.m3u8
 #EXTINF:-1 tvg-name="Prim Height Transport vs AZ Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96740" group-title="ICC Academy Ramadan T10",Prim Height Transport vs AZ Sports
 https://dai.google.com/linear/hls/event/1uatuuzIQ7e2FWnOrRMIUw/master.m3u8
 #EXTINF:-1 tvg-name="Kuwait Swedish vs CECC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96790" group-title="Kuwait Ramadan T10 Elite Cup",Kuwait Swedish vs CECC
