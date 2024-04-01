@@ -1,19 +1,19 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 4,
-  "updated_on": "01-04-2024 on 09:41:02 AM \ud83c\udf1e",
+  "channels_amount": 6,
+  "updated_on": "01-04-2024 on 10:07:56 AM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
-      "event_name": "Bali Blast Championship T10",
-      "match_id": 98004,
-      "match_name": "Crickingdom Thunderbolts vs Bali Cricket Team",
-      "team_1": "Crickingdom Thunderbolts",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CRTB@2x.png",
-      "team_2": "Bali Cricket Team",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BCT@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/5Kfym258Sz6JZ5maibnqyQ/master.m3u8"
+      "event_name": "Isuzu Men's T20 Smash, 2024",
+      "match_id": 97180,
+      "match_name": "Mariners vs Cassowaries",
+      "team_1": "Mariners",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MARM@2x.png",
+      "team_2": "Cassowaries",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CASM@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/0B90sYMsQ3inWxV7HbspVw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -28,14 +28,14 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Sri Lanka tour of Bangladesh, 2024",
-      "match_id": 93985,
-      "match_name": "Sri Lanka vs Bangladesh",
-      "team_1": "Sri Lanka",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
-      "team_2": "Bangladesh",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/_TNTgGT1TVaZXzIdVNLzRA/master.m3u8"
+      "event_name": "Bali Blast Championship T10",
+      "match_id": 98004,
+      "match_name": "Crickingdom Thunderbolts vs Bali Cricket Team",
+      "team_1": "Crickingdom Thunderbolts",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CRTB@2x.png",
+      "team_2": "Bali Cricket Team",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BCT@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/5Kfym258Sz6JZ5maibnqyQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -47,6 +47,28 @@
       "team_2": "DA Club",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DAC@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/q9YKpvcHT5O26Uc10G5YKQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Sri Lanka tour of Bangladesh, 2024",
+      "match_id": 93985,
+      "match_name": "Sri Lanka vs Bangladesh",
+      "team_1": "Sri Lanka",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+      "team_2": "Bangladesh",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/_TNTgGT1TVaZXzIdVNLzRA/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "A League Men 2023-24",
+      "match_id": 94083,
+      "match_name": "Macarthur vs Western Sydney Wanderers",
+      "team_1": "Macarthur",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MACA@2x.png",
+      "team_2": "Western Sydney Wanderers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYWA@2x.png",
+      "stream_link": "https://dai.fancode.com/primary/94083_english_hls_5429adfreeta-di/index.m3u8"
     }
   ]
 }
