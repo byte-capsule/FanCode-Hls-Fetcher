@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 6,
-  "updated_on": "01-04-2024 on 10:41:07 AM \ud83c\udf1e",
+  "channels_amount": 8,
+  "updated_on": "01-04-2024 on 11:06:49 AM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -28,6 +28,28 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "Bali Blast Championship T10",
+      "match_id": 98006,
+      "match_name": "Bali Cricket Team vs Badung Cricket Club",
+      "team_1": "Bali Cricket Team",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BCT@2x.png",
+      "team_2": "Badung Cricket Club",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BDC@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/oxiMA_R7TiOi_g5T2uSDCA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Guwahati Premier League, 2024",
+      "match_id": 97016,
+      "match_name": "91 Yards Club vs Gauhati Town Club",
+      "team_1": "91 Yards Club",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NYC@2x.png",
+      "team_2": "Gauhati Town Club",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GATC@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/gwd3G0bgRWSMmSXMPpw6SA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "East UP T20 Club Championships, 2024",
       "match_id": 97581,
       "match_name": "Hawk Club vs DA Club",
@@ -49,17 +71,6 @@
       "stream_link": "https://dai.google.com/linear/hls/event/_TNTgGT1TVaZXzIdVNLzRA/master.m3u8"
     },
     {
-      "event_catagory": "cricket",
-      "event_name": "Guwahati Premier League, 2024",
-      "match_id": 97016,
-      "match_name": "91 Yards Club vs Gauhati Town Club",
-      "team_1": "91 Yards Club",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NYC@2x.png",
-      "team_2": "Gauhati Town Club",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GATC@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/gwd3G0bgRWSMmSXMPpw6SA/master.m3u8"
-    },
-    {
       "event_catagory": "football",
       "event_name": "A League Men 2023-24",
       "match_id": 94083,
@@ -69,6 +80,17 @@
       "team_2": "Western Sydney Wanderers",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYWA@2x.png",
       "stream_link": "https://dai.fancode.com/primary/94083_english_hls_5429adfreeta-di/index.m3u8"
+    },
+    {
+      "event_catagory": "kabaddi",
+      "event_name": "KMP Yuva Kabaddi Inter District Youth League, 2024",
+      "match_id": 96287,
+      "match_name": "Jalna District vs Nashik District",
+      "team_1": "Jalna District",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-JDC@2x.png",
+      "team_2": "Nashik District",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-NSK@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/ia36MhRFRHuWE6J69KxJgw/master.m3u8"
     }
   ]
 }
