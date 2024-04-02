@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Nabajyoti Club vs Gauhati Town Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97019" group-title="Guwahati Premier League, 2024",Nabajyoti Club vs Gauhati Town Club
+https://dai.google.com/linear/hls/event/H0RTSoz2QReqMXkHh2yTng/master.m3u8
 #EXTINF:-1 tvg-name="Fighters CC vs Friendship CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97265" group-title="ECS Portugal, 2024",Fighters CC vs Friendship CC
 https://dai.google.com/linear/hls/event/7jLXYEBuS6OZxQTu22AWKw/master.m3u8
 #EXTINF:-1 tvg-name="Oman vs Namibia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97502" group-title="Namibia tour of Oman, 2024",Oman vs Namibia
