@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ATC Cricket Club vs Badung Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98011" group-title="Bali Blast Championship T10",ATC Cricket Club vs Badung Cricket Club
-https://dai.google.com/linear/hls/event/5he2D6ASQOWzdaQR9LEuCA/master.m3u8
 #EXTINF:-1 tvg-name="Kushinagar Club vs Lakshya Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97584" group-title="East UP T20 Club Championships, 2024",Kushinagar Club vs Lakshya Club
 https://dai.google.com/linear/hls/event/DAk_OmPBQGeNpIMB90O6tw/master.m3u8
 #EXTINF:-1 tvg-name="Australia Women vs Bangladesh Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97056" group-title="Australia Women's tour of Bangladesh",Australia Women vs Bangladesh Women
 https://dai.google.com/linear/hls/event/Mlb2lFFjSu2leS9w2En9yA/master.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka vs Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93985" group-title="Sri Lanka tour of Bangladesh, 2024",Sri Lanka vs Bangladesh
 https://dai.google.com/linear/hls/event/_TNTgGT1TVaZXzIdVNLzRA/master.m3u8
+#EXTINF:-1 tvg-name="Malo vs Oeiras" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97264" group-title="ECS Portugal, 2024",Malo vs Oeiras
+https://dai.google.com/linear/hls/event/svJpdHC5TX6Zd0-2spCD2w/master.m3u8
 #EXTINF:-1 tvg-name="Central Coast Mariners vs Melbourne City" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="94078" group-title="A League Men 2023-24",Central Coast Mariners vs Melbourne City
 https://dai.fancode.com/primary/94078_english_hls_5609adfreeta-no/index.m3u8
