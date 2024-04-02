@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="DCC Starlets vs Karwan Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96742" group-title="ICC Academy Ramadan T10",DCC Starlets vs Karwan Cricket Club
 https://dai.google.com/linear/hls/event/IipT-jg3RKuAEU0sVpa_qA/master.m3u8
+#EXTINF:-1 tvg-name="AZ Sports vs Wavilog Tech CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96743" group-title="ICC Academy Ramadan T10",AZ Sports vs Wavilog Tech CC
+https://dai.google.com/linear/hls/event/8g-FYc-iTsacVHpVNj77uw/master.m3u8
 #EXTINF:-1 tvg-name="No Mans Land Explorers vs Store Bay Snorkelers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97144" group-title="Dream11 Bago T10 Blast, 2nd Edition, 2024",No Mans Land Explorers vs Store Bay Snorkelers
 https://dai.google.com/linear/hls/event/x_WOt4sgRye_sS8DDLHGMQ/master.m3u8
 #EXTINF:-1 tvg-name="Z Games Strikers vs CSS Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96891" group-title="Sharjah Ramadan T20 League, 2024",Z Games Strikers vs CSS Group
