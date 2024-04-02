@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Sri Lanka vs Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93985" group-title="Sri Lanka tour of Bangladesh, 2024",Sri Lanka vs Bangladesh
-https://dai.google.com/linear/hls/event/_TNTgGT1TVaZXzIdVNLzRA/master.m3u8
+#EXTINF:-1 tvg-name="Fighters CC vs Friendship CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97265" group-title="ECS Portugal, 2024",Fighters CC vs Friendship CC
+https://dai.google.com/linear/hls/event/7jLXYEBuS6OZxQTu22AWKw/master.m3u8
 #EXTINF:-1 tvg-name="Oman vs Namibia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97502" group-title="Namibia tour of Oman, 2024",Oman vs Namibia
 https://dai.google.com/linear/hls/event/vNZCe0lmSsCWHyTeCjk0wA/master.m3u8
+#EXTINF:-1 tvg-name="Sri Lanka vs Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93985" group-title="Sri Lanka tour of Bangladesh, 2024",Sri Lanka vs Bangladesh
+https://dai.google.com/linear/hls/event/_TNTgGT1TVaZXzIdVNLzRA/master.m3u8
 #EXTINF:-1 tvg-name="Dempo SC vs Geno SC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98021" group-title="Goa Professional League 2023-24",Dempo SC vs Geno SC
 https://dai.google.com/linear/hls/event/_vJqxfDlS8GroJS6YOYnEQ/master.m3u8
 #EXTINF:-1 tvg-name="Pax of Nagoa SC vs Young Boys" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98019" group-title="Goa Professional League 2023-24",Pax of Nagoa SC vs Young Boys
 https://dai.google.com/linear/hls/event/QHiimx-3QPOaQ0HB1NRk_Q/master.m3u8
+#EXTINF:-1 tvg-name="Nanded District vs Nashik District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96294" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Nanded District vs Nashik District
+https://dai.google.com/linear/hls/event/c_qyIeIgQr-r0erUuM5faw/master.m3u8
