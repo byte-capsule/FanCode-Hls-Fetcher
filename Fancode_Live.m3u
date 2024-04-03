@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Crickingdom Thunderbolts vs ATC Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98014" group-title="Bali Blast Championship T10",Crickingdom Thunderbolts vs ATC Cricket Club
-https://dai.google.com/linear/hls/event/zIhgyPamR2GBEzCQtqNhZA/master.m3u8
+#EXTINF:-1 tvg-name="Bali Cricket Team vs Crickingdom Thunderbolts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98322" group-title="Bali Blast Championship T10",Bali Cricket Team vs Crickingdom Thunderbolts
+https://dai.google.com/linear/hls/event/X2B8uAkGTbaPHCwgDiNrMA/master.m3u8
 #EXTINF:-1 tvg-name="Bud Cricket Club vs 91 Yards Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97020" group-title="Guwahati Premier League, 2024",Bud Cricket Club vs 91 Yards Club
 https://dai.google.com/linear/hls/event/m8gMR133Ra21bHbF9vOfhQ/master.m3u8
 #EXTINF:-1 tvg-name="Ireland Wolves vs Nepal A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97199" group-title="Ireland Wolves tour of Nepal, 2024",Ireland Wolves vs Nepal A
