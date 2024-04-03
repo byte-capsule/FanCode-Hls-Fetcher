@@ -1,7 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="New Star Club vs Nabajyoti Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97021" group-title="Guwahati Premier League, 2024",New Star Club vs Nabajyoti Club
 https://dai.google.com/linear/hls/event/0xfX_fptSOyvL8_LgNLZRg/master.m3u8
-#EXTINF:-1 tvg-name="Ronin CC vs Precious CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97271" group-title="ECS Portugal, 2024",Ronin CC vs Precious CC
-https://dai.google.com/linear/hls/event/OQEVAo7ESo21z6_yKd2k-w/master.m3u8
-#EXTINF:-1 tvg-name="Limpopo vs Border" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95758" group-title="CSA Provincial T20 Cup, 2024",Limpopo vs Border
-https://dai.google.com/linear/hls/event/YBvlM3FmSZKxMQPm5CJFNg/master.m3u8
