@@ -7,5 +7,7 @@ https://dai.google.com/linear/hls/event/N6mybLDwQ-OKxc2NKgRlDg/master.m3u8
 https://dai.fancode.com/primary/96597_english_hls_5298adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Gamba Osaka vs Kyoto Sanga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96598" group-title="J League 2024",Gamba Osaka vs Kyoto Sanga
 https://dai.fancode.com/primary/96598_english_hls_8789adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Mumbai Shahar vs Raigad District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96297" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Mumbai Shahar vs Raigad District
-https://dai.google.com/linear/hls/event/LtjabqY6Rz6bHnGnj4lRwg/master.m3u8
+#EXTINF:-1 tvg-name="Sesa FA vs Panjim Footballers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98023" group-title="Goa Professional League 2023-24",Sesa FA vs Panjim Footballers
+https://dai.google.com/linear/hls/event/7ke75EU-QX6OWnO7_Z6ARQ/master.m3u8
+#EXTINF:-1 tvg-name="Churchill Brothers FC vs Cortalim Villagers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98022" group-title="Goa Professional League 2023-24",Churchill Brothers FC vs Cortalim Villagers
+https://dai.google.com/linear/hls/event/iEYLaK_HStSKFzp_alJHXQ/master.m3u8
