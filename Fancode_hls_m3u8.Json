@@ -1,63 +1,7 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 5,
-  "updated_on": "04-04-2024 on 00:28:33 AM \ud83c\udf19",
-  "channels": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Sharjah Ramadan T20 League, 2024",
-      "match_id": 96893,
-      "match_name": "Seven Districts vs Alif Pharma",
-      "team_1": "Seven Districts",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SVDE@2x.png",
-      "team_2": "Alif Pharma",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ALF@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/lO42_c5NT8ylsDYdCb715g/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Dream11 Bago T10 Blast, 2nd Edition, 2024",
-      "match_id": 97146,
-      "match_name": "Store Bay Snorkelers vs Kings Bay Royals",
-      "team_1": "Store Bay Snorkelers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SBSN@2x.png",
-      "team_2": "Kings Bay Royals",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBRO@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/NOo13zcHQJqkBIKUYyTF_Q/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "CSA T20 Challenge, 2024",
-      "match_id": 95792,
-      "match_name": "Imperial Lions vs Western Province",
-      "team_1": "Imperial Lions",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DWLS@2x.png",
-      "team_2": "Western Province",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WPS@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/DSQntN0rQZiXjOE7WH5T5Q/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Sri Lanka Women tour of South Africa, 2024",
-      "match_id": 97204,
-      "match_name": "South Africa Women vs Sri Lanka Women",
-      "team_1": "South Africa Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
-      "team_2": "Sri Lanka Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/wxE9OINuS1ugegOMjqE-Og/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Kuwait Ramadan T10 Elite Cup",
-      "match_id": 96792,
-      "match_name": "NCM Investment vs Kuwait Swedish",
-      "team_1": "NCM Investment",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NIN@2x.png",
-      "team_2": "Kuwait Swedish",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUSW@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/dSTSxBQSRMqOa4b0nH2rgg/master.m3u8"
-    }
-  ]
+  "channels_amount": 0,
+  "updated_on": "04-04-2024 on 00:41:04 AM \ud83c\udf19",
+  "channels": []
 }
