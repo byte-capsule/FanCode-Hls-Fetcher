@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Badung Cricket Club vs ATC Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98323" group-title="Bali Blast Championship T10",Badung Cricket Club vs ATC Cricket Club
-https://dai.google.com/linear/hls/event/EGzsMjIpR96STz9DX3ruCw/master.m3u8
 #EXTINF:-1 tvg-name="Kushinagar Club vs DA Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97586" group-title="East UP T20 Club Championships, 2024",Kushinagar Club vs DA Club
 https://dai.google.com/linear/hls/event/E1T9g-EqSGqbo80iNX5DZQ/master.m3u8
 #EXTINF:-1 tvg-name="Precious CC vs Ronin CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97269" group-title="ECS Portugal, 2024",Precious CC vs Ronin CC
