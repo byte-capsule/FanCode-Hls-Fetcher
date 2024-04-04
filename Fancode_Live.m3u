@@ -1,7 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Fighters CC vs Malo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97274" group-title="ECS Portugal, 2024",Fighters CC vs Malo
-https://dai.google.com/linear/hls/event/1yDCLhkjQTSkF1Fvb9WoNw/master.m3u8
+#EXTINF:-1 tvg-name="Friendship CC vs Ronin CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97275" group-title="ECS Portugal, 2024",Friendship CC vs Ronin CC
+https://dai.google.com/linear/hls/event/x_3mCYb6SyufXtOae2DD0w/master.m3u8
 #EXTINF:-1 tvg-name="Namibia vs Oman" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97503" group-title="Namibia tour of Oman, 2024",Namibia vs Oman
 https://dai.google.com/linear/hls/event/W1PaDl-JRmKCLb4lTpIAHA/master.m3u8
+#EXTINF:-1 tvg-name="Northern Cape vs Knights" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95759" group-title="CSA Provincial T20 Cup, 2024",Northern Cape vs Knights
+https://dai.google.com/linear/hls/event/nPklHhq1Rz-Se5kjOAPaNw/master.m3u8
 #EXTINF:-1 tvg-name="FC Goa vs Vasco SC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98024" group-title="Goa Professional League 2023-24",FC Goa vs Vasco SC
 https://dai.google.com/linear/hls/event/p81dhf_RQ6K0jhp89Ie97A/master.m3u8
+#EXTINF:-1 tvg-name="NEROCA FC vs Sreenidi Deccan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98113" group-title="I League 2023-24",NEROCA FC vs Sreenidi Deccan
+https://dai.google.com/linear/hls/event/kmiE0FNSSKSeFhXYI6VZ-Q/master.m3u8
+#EXTINF:-1 tvg-name="Ratnagiri District vs Nashik District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96302" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Ratnagiri District vs Nashik District
+https://dai.google.com/linear/hls/event/a103AHlPTO-TnYcttXHGHw/master.m3u8
