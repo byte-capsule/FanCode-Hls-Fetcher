@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Bud Cricket Club vs Gauhati Town Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97023" group-title="Guwahati Premier League, 2024",Bud Cricket Club vs Gauhati Town Club
-https://dai.google.com/linear/hls/event/HDoMwq_7SVeT_UxCnAlSeg/master.m3u8
+#EXTINF:-1 tvg-name="Friendship CC vs Ronin CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97277" group-title="ECS Portugal, 2024",Friendship CC vs Ronin CC
+https://dai.google.com/linear/hls/event/M3_Wyw36QpWi2wdGfm1Vow/master.m3u8
+#EXTINF:-1 tvg-name="London Royals vs Top Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96745" group-title="ICC Academy Ramadan T10",London Royals vs Top Stars
+https://dai.google.com/linear/hls/event/I6aItjg4Q1e8pOxPYO1T6g/master.m3u8
 #EXTINF:-1 tvg-name="NEROCA FC vs Sreenidi Deccan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98113" group-title="I League 2023-24",NEROCA FC vs Sreenidi Deccan
 https://dai.google.com/linear/hls/event/kmiE0FNSSKSeFhXYI6VZ-Q/master.m3u8
