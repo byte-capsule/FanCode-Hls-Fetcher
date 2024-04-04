@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ATC Cricket Club vs DKI Jakarta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98017" group-title="Bali Blast Championship T10",ATC Cricket Club vs DKI Jakarta
-https://dai.google.com/linear/hls/event/utbNyzYQQ3mPzgQnKUIVzA/master.m3u8
 #EXTINF:-1 tvg-name="New Star Club vs Stallion Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97022" group-title="Guwahati Premier League, 2024",New Star Club vs Stallion Cricket Club
 https://dai.google.com/linear/hls/event/a94XZwXYQ12_hQ171hlDug/master.m3u8
+#EXTINF:-1 tvg-name="Ahmednagar District vs Nandurbar District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96299" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Ahmednagar District vs Nandurbar District
+https://dai.google.com/linear/hls/event/xVuCmCAQT9CleXD-DImtIA/master.m3u8
