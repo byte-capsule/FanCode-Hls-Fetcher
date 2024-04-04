@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Arqam Cricket Club vs Fly Emirates" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96895" group-title="Sharjah Ramadan T20 League, 2024",Arqam Cricket Club vs Fly Emirates
-https://dai.google.com/linear/hls/event/EaY0fClMRLihT3_w2hb_ew/master.m3u8
-#EXTINF:-1 tvg-name="Ronin CC vs Fighters CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97278" group-title="ECS Portugal, 2024",Ronin CC vs Fighters CC
-https://dai.google.com/linear/hls/event/HIIlC0opSAybjCjnKml6LQ/master.m3u8
 #EXTINF:-1 tvg-name="Prim Height Transport vs Seven Districts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96746" group-title="ICC Academy Ramadan T10",Prim Height Transport vs Seven Districts
 https://dai.google.com/linear/hls/event/HhiZxb5xSS27i_eEM2FNxg/master.m3u8
 #EXTINF:-1 tvg-name="Crvena Zvezda mts Belgrade vs Olympiacos Piraeus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98038" group-title="Euro League",Crvena Zvezda mts Belgrade vs Olympiacos Piraeus
