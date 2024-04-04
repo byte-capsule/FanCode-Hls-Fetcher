@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Prim Height Transport vs Seven Districts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96746" group-title="ICC Academy Ramadan T10",Prim Height Transport vs Seven Districts
-https://dai.google.com/linear/hls/event/HhiZxb5xSS27i_eEM2FNxg/master.m3u8
 #EXTINF:-1 tvg-name="Crvena Zvezda mts Belgrade vs Olympiacos Piraeus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98038" group-title="Euro League",Crvena Zvezda mts Belgrade vs Olympiacos Piraeus
 https://dai.google.com/linear/hls/event/HCllV0DjTNCET3qF753fHw/master.m3u8
+#EXTINF:-1 tvg-name="Valencia Basket vs LDLC ASVEL Villeurbanne" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98039" group-title="Euro League",Valencia Basket vs LDLC ASVEL Villeurbanne
+https://dai.google.com/linear/hls/event/vwUCoJV_SI6RJCHi0pcjtA/master.m3u8
