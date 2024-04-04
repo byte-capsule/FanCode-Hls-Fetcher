@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Arqam Cricket Club vs Fly Emirates" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96895" group-title="Sharjah Ramadan T20 League, 2024",Arqam Cricket Club vs Fly Emirates
+https://dai.google.com/linear/hls/event/EaY0fClMRLihT3_w2hb_ew/master.m3u8
 #EXTINF:-1 tvg-name="Friendship CC vs Ronin CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97277" group-title="ECS Portugal, 2024",Friendship CC vs Ronin CC
 https://dai.google.com/linear/hls/event/M3_Wyw36QpWi2wdGfm1Vow/master.m3u8
 #EXTINF:-1 tvg-name="London Royals vs Top Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96745" group-title="ICC Academy Ramadan T10",London Royals vs Top Stars
