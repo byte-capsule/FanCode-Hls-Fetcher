@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="ATC Cricket Club vs Bali Cricket Team" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98016" group-title="Bali Blast Championship T10",ATC Cricket Club vs Bali Cricket Team
 https://dai.google.com/linear/hls/event/wDntuvYIRn69Bc1a4KpFaQ/master.m3u8
+#EXTINF:-1 tvg-name="DKI Jakarta vs TBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98017" group-title="Bali Blast Championship T10",DKI Jakarta vs TBC
+https://dai.google.com/linear/hls/event/utbNyzYQQ3mPzgQnKUIVzA/master.m3u8
 #EXTINF:-1 tvg-name="Herediano vs Pachuca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97047" group-title="CONCACAF Champions Cup",Herediano vs Pachuca
 https://dai.google.com/linear/hls/event/TVydFzumTzqtrNHoypLVGA/master.m3u8
