@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Bud Cricket Club vs Gauhati Town Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97023" group-title="Guwahati Premier League, 2024",Bud Cricket Club vs Gauhati Town Club
 https://dai.google.com/linear/hls/event/HDoMwq_7SVeT_UxCnAlSeg/master.m3u8
-#EXTINF:-1 tvg-name="Friendship CC vs Ronin CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97275" group-title="ECS Portugal, 2024",Friendship CC vs Ronin CC
-https://dai.google.com/linear/hls/event/x_3mCYb6SyufXtOae2DD0w/master.m3u8
+#EXTINF:-1 tvg-name="Malo vs Fighters CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97276" group-title="ECS Portugal, 2024",Malo vs Fighters CC
+https://dai.google.com/linear/hls/event/xcJ5lb3ESz6327U43uKQcQ/master.m3u8
 #EXTINF:-1 tvg-name="Namibia vs Oman" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97503" group-title="Namibia tour of Oman, 2024",Namibia vs Oman
 https://dai.google.com/linear/hls/event/W1PaDl-JRmKCLb4lTpIAHA/master.m3u8
 #EXTINF:-1 tvg-name="Northern Cape vs Knights" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95759" group-title="CSA Provincial T20 Cup, 2024",Northern Cape vs Knights
