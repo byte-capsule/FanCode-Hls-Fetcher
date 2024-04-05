@@ -1,8 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Prim Height Transport vs London Royals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96748" group-title="ICC Academy Ramadan T10",Prim Height Transport vs London Royals
 https://dai.google.com/linear/hls/event/9npoAxddQcmJn2nUiIGwCw/master.m3u8
+#EXTINF:-1 tvg-name="Top Stars vs Karwan Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96749" group-title="ICC Academy Ramadan T10",Top Stars vs Karwan Cricket Club
+https://dai.google.com/linear/hls/event/mOkPzh2HQ7u4HJgMBMCKIA/master.m3u8
 #EXTINF:-1 tvg-name="Seven Districts Juniors vs Muhamand Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96897" group-title="Sharjah Ramadan T20 League, 2024",Seven Districts Juniors vs Muhamand Warriors
 https://dai.google.com/linear/hls/event/jbHXAGtCSQ-VF3kYIs9gBA/master.m3u8
+#EXTINF:-1 tvg-name="Malo vs Lisbon Werewolves" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97283" group-title="ECS Portugal, 2024",Malo vs Lisbon Werewolves
+https://dai.google.com/linear/hls/event/KBBK4_d-Rtu43_j2bYC1Bw/master.m3u8
 #EXTINF:-1 tvg-name="Imperial Lions vs Dolphins" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95795" group-title="CSA T20 Challenge, 2024",Imperial Lions vs Dolphins
 https://dai.google.com/linear/hls/event/fXckBBwFQfKacl06u4ymrA/master.m3u8
 #EXTINF:-1 tvg-name="Titans vs Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95794" group-title="CSA T20 Challenge, 2024",Titans vs Warriors

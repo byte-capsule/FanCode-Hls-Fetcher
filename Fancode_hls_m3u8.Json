@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 6,
-  "updated_on": "05-04-2024 on 10:41:02 PM \ud83c\udf19",
+  "channels_amount": 8,
+  "updated_on": "05-04-2024 on 11:03:35 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -17,6 +17,17 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "ICC Academy Ramadan T10",
+      "match_id": 96749,
+      "match_name": "Top Stars vs Karwan Cricket Club",
+      "team_1": "Top Stars",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TS@2x.png",
+      "team_2": "Karwan Cricket Club",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KRWA@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/mOkPzh2HQ7u4HJgMBMCKIA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "Sharjah Ramadan T20 League, 2024",
       "match_id": 96897,
       "match_name": "Seven Districts Juniors vs Muhamand Warriors",
@@ -25,6 +36,17 @@
       "team_2": "Muhamand Warriors",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/MUH-CR1@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/jbHXAGtCSQ-VF3kYIs9gBA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ECS Portugal, 2024",
+      "match_id": 97283,
+      "match_name": "Malo vs Lisbon Werewolves",
+      "team_1": "Malo",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALO@2x.png",
+      "team_2": "Lisbon Werewolves",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LWW@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/KBBK4_d-Rtu43_j2bYC1Bw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
