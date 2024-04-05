@@ -1,9 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Pirates Bay Raiders vs Mt Irvine Surfers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97150" group-title="Dream11 Bago T10 Blast, 2nd Edition, 2024",Pirates Bay Raiders vs Mt Irvine Surfers
+https://dai.google.com/linear/hls/event/VR6Jnap6S8u5C1AxNhk6pg/master.m3u8
 #EXTINF:-1 tvg-name="Bud Cricket Club vs Stallion Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97025" group-title="Guwahati Premier League, 2024",Bud Cricket Club vs Stallion Cricket Club
 https://dai.google.com/linear/hls/event/f8icE3P0S-ms5gWDHZY2aw/master.m3u8
 #EXTINF:-1 tvg-name="Lisbon Werewolves vs Precious CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97281" group-title="ECS Portugal, 2024",Lisbon Werewolves vs Precious CC
 https://dai.google.com/linear/hls/event/cyH5xstuQRSie4KND6dLzA/master.m3u8
-#EXTINF:-1 tvg-name="Namibia vs Oman" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97504" group-title="Namibia tour of Oman, 2024",Namibia vs Oman
-https://dai.google.com/linear/hls/event/knPPddudT8ijF7Qg20ZTxw/master.m3u8
-#EXTINF:-1 tvg-name="Ahmednagar District vs Sangli District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96305" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Ahmednagar District vs Sangli District
-https://dai.google.com/linear/hls/event/GkHml0FWQWGuJYI_emqWOw/master.m3u8
+#EXTINF:-1 tvg-name="Kolhapur District vs Palghar District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96306" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Kolhapur District vs Palghar District
+https://dai.google.com/linear/hls/event/48rZ_IJgSuGEQHHsk3hhSA/master.m3u8
