@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Top Stars vs Karwan Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96749" group-title="ICC Academy Ramadan T10",Top Stars vs Karwan Cricket Club
 https://dai.google.com/linear/hls/event/mOkPzh2HQ7u4HJgMBMCKIA/master.m3u8
+#EXTINF:-1 tvg-name="Khulna Royal Bengals vs Friendi Mobile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96435" group-title="Kuwait T10 Ramadan Challengers Cup",Khulna Royal Bengals vs Friendi Mobile
+https://dai.google.com/linear/hls/event/KsgatK1nRJWbDgpTP-TGgQ/master.m3u8
 #EXTINF:-1 tvg-name="Seven Districts Juniors vs Muhamand Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96897" group-title="Sharjah Ramadan T20 League, 2024",Seven Districts Juniors vs Muhamand Warriors
 https://dai.google.com/linear/hls/event/jbHXAGtCSQ-VF3kYIs9gBA/master.m3u8
 #EXTINF:-1 tvg-name="Malo vs Lisbon Werewolves" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97283" group-title="ECS Portugal, 2024",Malo vs Lisbon Werewolves
@@ -9,7 +11,7 @@ https://dai.google.com/linear/hls/event/KBBK4_d-Rtu43_j2bYC1Bw/master.m3u8
 https://dai.google.com/linear/hls/event/fXckBBwFQfKacl06u4ymrA/master.m3u8
 #EXTINF:-1 tvg-name="Titans vs Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95794" group-title="CSA T20 Challenge, 2024",Titans vs Warriors
 https://dai.google.com/linear/hls/event/BjXv6BEdRvSipnXpv-JYhA/master.m3u8
-#EXTINF:-1 tvg-name="AET Tuskers vs Boland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95793" group-title="CSA T20 Challenge, 2024",AET Tuskers vs Boland
+#EXTINF:-1 tvg-name="AET Tuskers vs Rocks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95793" group-title="CSA T20 Challenge, 2024",AET Tuskers vs Rocks
 https://dai.google.com/linear/hls/event/QykZq7etT6ewQdgBgMZiaw/master.m3u8
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97930" group-title="LIV Golf Miami",Day 1
 https://dai.google.com/linear/hls/event/T3E4e2o4SouTvgwMG4cuDQ/master.m3u8
