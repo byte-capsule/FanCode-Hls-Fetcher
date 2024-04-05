@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Punit Balan Group vs Metro CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98210" group-title="Pune Olympia T20 Trophy, 2024",Punit Balan Group vs Metro CC
 https://dai.google.com/linear/hls/event/Pm178_9CQrmE_s3idLTFCw/master.m3u8
-#EXTINF:-1 tvg-name="Ireland Wolves vs Nepal A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97200" group-title="Ireland Wolves tour of Nepal, 2024",Ireland Wolves vs Nepal A
-https://dai.google.com/linear/hls/event/6qAPn53RQ9ygksALrfJPpg/master.m3u8
+#EXTINF:-1 tvg-name="Precious CC vs Lisbon Werewolves" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97279" group-title="ECS Portugal, 2024",Precious CC vs Lisbon Werewolves
+https://dai.google.com/linear/hls/event/NvdCDlNCQyywBLjxuH21Nw/master.m3u8
+#EXTINF:-1 tvg-name="Western Sydney Wanderers vs Brisbane Roar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97516" group-title="A League Men 2023-24",Western Sydney Wanderers vs Brisbane Roar
+https://dai.fancode.com/primary/97516_english_hls_5434adfreeta-di/index.m3u8
