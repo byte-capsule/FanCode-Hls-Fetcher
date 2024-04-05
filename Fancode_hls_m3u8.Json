@@ -1,86 +1,9 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 9,
-  "updated_on": "06-04-2024 on 00:27:53 AM \ud83c\udf19",
+  "channels_amount": 1,
+  "updated_on": "06-04-2024 on 00:41:15 AM \ud83c\udf19",
   "channels": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC Academy Ramadan T10",
-      "match_id": 96749,
-      "match_name": "Top Stars vs Karwan Cricket Club",
-      "team_1": "Top Stars",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TS@2x.png",
-      "team_2": "Karwan Cricket Club",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KRWA@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/mOkPzh2HQ7u4HJgMBMCKIA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Kuwait T10 Ramadan Challengers Cup",
-      "match_id": 96435,
-      "match_name": "Khulna Royal Bengals vs Friendi Mobile",
-      "team_1": "Khulna Royal Bengals",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KRB@2x.png",
-      "team_2": "Friendi Mobile",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR9@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/KsgatK1nRJWbDgpTP-TGgQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Sharjah Ramadan T20 League, 2024",
-      "match_id": 96897,
-      "match_name": "Seven Districts Juniors vs Muhamand Warriors",
-      "team_1": "Seven Districts Juniors",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SEVN@2x.png",
-      "team_2": "Muhamand Warriors",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/MUH-CR1@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/jbHXAGtCSQ-VF3kYIs9gBA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECS Portugal, 2024",
-      "match_id": 97283,
-      "match_name": "Malo vs Lisbon Werewolves",
-      "team_1": "Malo",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALO@2x.png",
-      "team_2": "Lisbon Werewolves",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LWW@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/KBBK4_d-Rtu43_j2bYC1Bw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "CSA T20 Challenge, 2024",
-      "match_id": 95795,
-      "match_name": "Dolphins vs Imperial Lions",
-      "team_1": "Dolphins",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DLS@2x.png",
-      "team_2": "Imperial Lions",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DWLS@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/fXckBBwFQfKacl06u4ymrA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "CSA T20 Challenge, 2024",
-      "match_id": 95794,
-      "match_name": "Titans vs Warriors",
-      "team_1": "Titans",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TTNN@2x.png",
-      "team_2": "Warriors",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WRRS@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/BjXv6BEdRvSipnXpv-JYhA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "CSA T20 Challenge, 2024",
-      "match_id": 95793,
-      "match_name": "AET Tuskers vs Rocks",
-      "team_1": "AET Tuskers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AETS@2x.png",
-      "team_2": "Rocks",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RCS@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/QykZq7etT6ewQdgBgMZiaw/master.m3u8"
-    },
     {
       "event_catagory": "golf",
       "event_name": "LIV Golf Miami",
@@ -91,17 +14,6 @@
       "team_2": "Miami",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/T3E4e2o4SouTvgwMG4cuDQ/master.m3u8"
-    },
-    {
-      "event_catagory": "basketball",
-      "event_name": "Euro League",
-      "match_id": 98040,
-      "match_name": "Fenerbahce Beko Istanbul vs Anadolu Efes Istanbul",
-      "team_1": "Fenerbahce Beko Istanbul",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-FERN@2x.png",
-      "team_2": "Anadolu Efes Istanbul",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-ANAD@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/SSJ7isl8Rgm7_whSaJj6eg/master.m3u8"
     }
   ]
 }
