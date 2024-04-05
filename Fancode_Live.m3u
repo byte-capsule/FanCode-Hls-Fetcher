@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Punit Balan Group vs Metro CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98210" group-title="Pune Olympia T20 Trophy, 2024",Punit Balan Group vs Metro CC
-https://dai.google.com/linear/hls/event/Pm178_9CQrmE_s3idLTFCw/master.m3u8
 #EXTINF:-1 tvg-name="Bud Cricket Club vs Stallion Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97025" group-title="Guwahati Premier League, 2024",Bud Cricket Club vs Stallion Cricket Club
 https://dai.google.com/linear/hls/event/f8icE3P0S-ms5gWDHZY2aw/master.m3u8
 #EXTINF:-1 tvg-name="Malo vs Ronin CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97280" group-title="ECS Portugal, 2024",Malo vs Ronin CC
 https://dai.google.com/linear/hls/event/KMoywsVLTAulSJ1nhQ6nLg/master.m3u8
 #EXTINF:-1 tvg-name="Namibia vs Oman" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97504" group-title="Namibia tour of Oman, 2024",Namibia vs Oman
 https://dai.google.com/linear/hls/event/knPPddudT8ijF7Qg20ZTxw/master.m3u8
+#EXTINF:-1 tvg-name="Beijing Guoan vs Shanghai Port" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95107" group-title="Chinese Super League 2024",Beijing Guoan vs Shanghai Port
+https://dai.fancode.com/primary/95107_english_hls_5489adfreeta-no/index.m3u8
