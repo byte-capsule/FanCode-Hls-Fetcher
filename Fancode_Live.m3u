@@ -7,3 +7,9 @@ https://dai.google.com/linear/hls/event/VR6Jnap6S8u5C1AxNhk6pg/master.m3u8
 https://dai.google.com/linear/hls/event/jbHXAGtCSQ-VF3kYIs9gBA/master.m3u8
 #EXTINF:-1 tvg-name="Ronin CC vs Malo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97282" group-title="ECS Portugal, 2024",Ronin CC vs Malo
 https://dai.google.com/linear/hls/event/M5OQmTnNQMie0Aq1LQFAjA/master.m3u8
+#EXTINF:-1 tvg-name="Imperial Lions vs Dolphins" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95795" group-title="CSA T20 Challenge, 2024",Imperial Lions vs Dolphins
+https://dai.google.com/linear/hls/event/fXckBBwFQfKacl06u4ymrA/master.m3u8
+#EXTINF:-1 tvg-name="Titans vs Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95794" group-title="CSA T20 Challenge, 2024",Titans vs Warriors
+https://dai.google.com/linear/hls/event/BjXv6BEdRvSipnXpv-JYhA/master.m3u8
+#EXTINF:-1 tvg-name="AET Tuskers vs Boland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95793" group-title="CSA T20 Challenge, 2024",AET Tuskers vs Boland
+https://dai.google.com/linear/hls/event/QykZq7etT6ewQdgBgMZiaw/master.m3u8
