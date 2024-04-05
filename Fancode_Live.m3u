@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Recreation Club vs Punit Balan Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98203" group-title="Pune Olympia T20 Trophy, 2024",Recreation Club vs Punit Balan Group
+#EXTINF:-1 tvg-name="Recreation Cricket Club vs Punit Balan Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98203" group-title="Pune Olympia T20 Trophy, 2024",Recreation Cricket Club vs Punit Balan Group
 https://dai.google.com/linear/hls/event/lL9P3KaeT3GPTKYQzTrMKA/master.m3u8
 #EXTINF:-1 tvg-name="Ireland Wolves vs Nepal A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97200" group-title="Ireland Wolves tour of Nepal, 2024",Ireland Wolves vs Nepal A
 https://dai.google.com/linear/hls/event/6qAPn53RQ9ygksALrfJPpg/master.m3u8
-#EXTINF:-1 tvg-name="Heavyweights & Women's Flyweight" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95317" group-title="Professional Fighters League",Heavyweights & Women's Flyweight
-https://dai.google.com/linear/hls/event/4k4SeLlYQ3Gfe6iV5CB41A/master.m3u8
