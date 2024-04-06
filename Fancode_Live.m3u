@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Sano CC vs Chiba Sharks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97114" group-title="JCL T10, 2024",Sano CC vs Chiba Sharks
+https://dai.google.com/linear/hls/event/QcU_Dc2EQ3u-E24yvkbEIA/master.m3u8
 #EXTINF:-1 tvg-name="Mudmen vs Mariners" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97181" group-title="Isuzu Men's T20 Smash, 2024",Mudmen vs Mariners
 https://dai.google.com/linear/hls/event/TLr89mn9QHCfEySO6sAofA/master.m3u8
 #EXTINF:-1 tvg-name="Nok 99 vs Jain Irrigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98205" group-title="Pune Olympia T20 Trophy, 2024",Nok 99 vs Jain Irrigation
