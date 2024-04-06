@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="AZ Sports vs Khandan XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96899" group-title="Sharjah Ramadan T20 League, 2024",AZ Sports vs Khandan XI
+https://dai.google.com/linear/hls/event/AGz59lHtQCKGrG4pEZ-dSA/master.m3u8
 #EXTINF:-1 tvg-name="Seven Districts vs Seven Districts Juniors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96751" group-title="ICC Academy Ramadan T10",Seven Districts vs Seven Districts Juniors
 https://dai.google.com/linear/hls/event/O9X82LL4S-mTL6JedWh6nA/master.m3u8
 #EXTINF:-1 tvg-name="British and Irish Knights vs Team Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98316" group-title="Weston Shield, 2024",British and Irish Knights vs Team Europe
