@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Bud Cricket Club vs New Star Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97027" group-title="Guwahati Premier League, 2024",Bud Cricket Club vs New Star Club
 https://dai.google.com/linear/hls/event/0mWy61d1Q82U2uHT9MM-kQ/master.m3u8
-#EXTINF:-1 tvg-name="British and Irish Knights vs Team Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98314" group-title="Weston Shield, 2024",British and Irish Knights vs Team Europe
-https://dai.google.com/linear/hls/event/eEDj3csHQL2ZBAYEz7NZNA/master.m3u8
 #EXTINF:-1 tvg-name="Muhanga Zebras CC Women vs Sorwathe Girls CC Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96695" group-title="RCA Women's T20, 2024",Muhanga Zebras CC Women vs Sorwathe Girls CC Women
 https://dai.google.com/linear/hls/event/fupPLPmHS7auYXHJkMBy8A/master.m3u8
 #EXTINF:-1 tvg-name="Norwich City vs Ipswich Town" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96763" group-title="EFL Championship 2023-24",Norwich City vs Ipswich Town
@@ -13,7 +11,7 @@ https://dai.google.com/linear/hls/event/-eyn6uBYSleabMMlsR7HZQ/master.m3u8
 https://dai.google.com/linear/hls/event/5ZN0euQCQvmhbL81ZiWz9Q/master.m3u8
 #EXTINF:-1 tvg-name="Cortalim Villagers vs Guardian Angel SC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98029" group-title="Goa Professional League 2023-24",Cortalim Villagers vs Guardian Angel SC
 https://dai.google.com/linear/hls/event/vHJhQ4j-ROizLNhCFor3Kw/master.m3u8
-#EXTINF:-1 tvg-name="Young Boys vs Churchill Brothers FC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98028" group-title="Goa Professional League 2023-24",Young Boys vs Churchill Brothers FC
-https://dai.google.com/linear/hls/event/mlZ-dx6_SxuT85ETh5L-6Q/master.m3u8
 #EXTINF:-1 tvg-name="Zhejiang vs Qingdao West Coast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97932" group-title="Chinese Super League 2024",Zhejiang vs Qingdao West Coast
 https://dai.fancode.com/primary/97932_english_hls_5205adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Ahmednagar District vs Palghar District" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96309" group-title="KMP Yuva Kabaddi Inter District Youth League, 2024",Ahmednagar District vs Palghar District
+https://dai.google.com/linear/hls/event/ztzM6Tt5QPSjlFy0frPZUw/master.m3u8
