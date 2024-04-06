@@ -11,5 +11,7 @@ https://dai.google.com/linear/hls/event/ld34nJsoTPqFqn4admzYoQ/master.m3u8
 https://dai.fancode.com/primary/97950_english_hls_9203adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Western United vs Macarthur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97517" group-title="A League Men 2023-24",Western United vs Macarthur
 https://dai.fancode.com/primary/97517_english_hls_8884adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Qualifying" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95130" group-title="F1 MSC CRUISES JAPANESE GRAND PRIX 2024",Qualifying
+https://livecf.fancode.com/95130_english_hls_5345adfreeta-no/index.m3u8?deviceId=undefined&advertiserId=undefined&city=Washington
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97928" group-title="LET Australian Women's Classic",Day 1
 https://dai.google.com/linear/hls/event/zSfueqi2Sve7T3971UbukA/master.m3u8
