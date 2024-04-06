@@ -1,20 +1,9 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 8,
-  "updated_on": "06-04-2024 on 5:20:59 PM \ud83c\udf1e",
+  "channels_amount": 9,
+  "updated_on": "06-04-2024 on 5:41:13 PM \ud83c\udf1e",
   "channels": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Pune Olympia T20 Trophy, 2024",
-      "match_id": 98206,
-      "match_name": "Metro CC vs Recreation Cricket Club",
-      "team_1": "Metro CC",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MCC@2x.png",
-      "team_2": "Recreation Cricket Club",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RCU@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/bj7tWRLWR3aYf_K6wZszQw/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Guwahati Premier League, 2024",
@@ -47,6 +36,28 @@
       "team_2": "Sorwathe Girls CC Women",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRW@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/fupPLPmHS7auYXHJkMBy8A/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "EFL Championship 2023-24",
+      "match_id": 96763,
+      "match_name": "Norwich City vs Ipswich Town",
+      "team_1": "Norwich City",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NORC@2x.png",
+      "team_2": "Ipswich Town",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-IPSW@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/3C35or3ETOy8DalVWvrXCQ/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "I League 2023-24",
+      "match_id": 98114,
+      "match_name": "TRAU vs Real Kashmir FC",
+      "team_1": "TRAU",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/TRAU-FT1@2x.png",
+      "team_2": "Real Kashmir FC",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/KSH-FT1@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/-eyn6uBYSleabMMlsR7HZQ/master.m3u8"
     },
     {
       "event_catagory": "football",
@@ -83,14 +94,14 @@
     },
     {
       "event_catagory": "football",
-      "event_name": "I League 2023-24",
-      "match_id": 98114,
-      "match_name": "TRAU vs Real Kashmir FC",
-      "team_1": "TRAU",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/TRAU-FT1@2x.png",
-      "team_2": "Real Kashmir FC",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/KSH-FT1@2x.png",
-      "stream_link": " Free Trial attempt unsuccessful......it requires Premium Account"
+      "event_name": "Chinese Super League 2024",
+      "match_id": 97932,
+      "match_name": "Zhejiang vs Qingdao West Coast",
+      "team_1": "Zhejiang",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ZHEJ@2x.png",
+      "team_2": "Qingdao West Coast",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-QWC@2x.png",
+      "stream_link": "https://dai.fancode.com/primary/97932_english_hls_5205adfreeta-di/index.m3u8"
     }
   ]
 }
