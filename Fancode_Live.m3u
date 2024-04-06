@@ -1,14 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Sano CC vs Chiba Sharks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97114" group-title="JCL T10, 2024",Sano CC vs Chiba Sharks
-https://dai.google.com/linear/hls/event/QcU_Dc2EQ3u-E24yvkbEIA/master.m3u8
 #EXTINF:-1 tvg-name="Mudmen vs Mariners" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97181" group-title="Isuzu Men's T20 Smash, 2024",Mudmen vs Mariners
 https://dai.google.com/linear/hls/event/TLr89mn9QHCfEySO6sAofA/master.m3u8
 #EXTINF:-1 tvg-name="Stallion Cricket Club vs Gauhati Town Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97026" group-title="Guwahati Premier League, 2024",Stallion Cricket Club vs Gauhati Town Club
 https://dai.google.com/linear/hls/event/ZgXKOsGMRlmFe83AtoN6SA/master.m3u8
-#EXTINF:-1 tvg-name="Nok 99 vs Jain Irrigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98205" group-title="Pune Olympia T20 Trophy, 2024",Nok 99 vs Jain Irrigation
-https://dai.google.com/linear/hls/event/ld34nJsoTPqFqn4admzYoQ/master.m3u8
-#EXTINF:-1 tvg-name="Consadole Sapporo vs Gamba Osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97950" group-title="J League 2024",Consadole Sapporo vs Gamba Osaka
-https://dai.fancode.com/primary/97950_english_hls_9203adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Central Coast Mariners vs Wellington Phoenix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97518" group-title="A League Men 2023-24",Central Coast Mariners vs Wellington Phoenix
 https://dai.fancode.com/primary/97518_english_hls_6094adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Qualifying" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95130" group-title="F1 MSC CRUISES JAPANESE GRAND PRIX 2024",Qualifying
