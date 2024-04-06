@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Chiba Sharks vs Tokyo Falcons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97113" group-title="JCL T10, 2024",Chiba Sharks vs Tokyo Falcons
 https://dai.google.com/linear/hls/event/PfK_53MuRqezOiZK0ZRX7A/master.m3u8
+#EXTINF:-1 tvg-name="Mudmen vs Mariners" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97181" group-title="Isuzu Men's T20 Smash, 2024",Mudmen vs Mariners
+https://dai.google.com/linear/hls/event/TLr89mn9QHCfEySO6sAofA/master.m3u8
 #EXTINF:-1 tvg-name="Nok 99 vs Jain Irrigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98205" group-title="Pune Olympia T20 Trophy, 2024",Nok 99 vs Jain Irrigation
 https://dai.google.com/linear/hls/event/ld34nJsoTPqFqn4admzYoQ/master.m3u8
-#EXTINF:-1 tvg-name="Practice 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95129" group-title="F1 MSC CRUISES JAPANESE GRAND PRIX 2024",Practice 3
-https://livecf.fancode.com/95129_english_hls_5766adfreeta-di/index.m3u8?deviceId=undefined&advertiserId=undefined&city=San%20Jose
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97928" group-title="LET Australian Women's Classic",Day 1
 https://dai.google.com/linear/hls/event/zSfueqi2Sve7T3971UbukA/master.m3u8
