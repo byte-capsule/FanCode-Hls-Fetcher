@@ -2,7 +2,7 @@
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "channels_amount": 7,
-  "updated_on": "06-04-2024 on 11:25:51 AM \ud83c\udf1e",
+  "updated_on": "06-04-2024 on 11:41:02 AM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -28,17 +28,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Pune Olympia T20 Trophy, 2024",
-      "match_id": 98205,
-      "match_name": "Nok 99 vs Jain Irrigation",
-      "team_1": "Nok 99",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NOK@2x.png",
-      "team_2": "Jain Irrigation",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JAI@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/ld34nJsoTPqFqn4admzYoQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "Guwahati Premier League, 2024",
       "match_id": 97026,
       "match_name": "Stallion Cricket Club vs Gauhati Town Club",
@@ -49,15 +38,15 @@
       "stream_link": "https://dai.google.com/linear/hls/event/ZgXKOsGMRlmFe83AtoN6SA/master.m3u8"
     },
     {
-      "event_catagory": "football",
-      "event_name": "A League Men 2023-24",
-      "match_id": 97517,
-      "match_name": "Western United vs Macarthur",
-      "team_1": "Western United",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WSTA@2x.png",
-      "team_2": "Macarthur",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MACA@2x.png",
-      "stream_link": "https://dai.fancode.com/primary/97517_english_hls_8884adfreeta-no/index.m3u8"
+      "event_catagory": "cricket",
+      "event_name": "Pune Olympia T20 Trophy, 2024",
+      "match_id": 98205,
+      "match_name": "Nok 99 vs Jain Irrigation",
+      "team_1": "Nok 99",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NOK@2x.png",
+      "team_2": "Jain Irrigation",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JAI@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/ld34nJsoTPqFqn4admzYoQ/master.m3u8"
     },
     {
       "event_catagory": "football",
@@ -69,6 +58,17 @@
       "team_2": "Gamba Osaka",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GOS@2x.png",
       "stream_link": "https://dai.fancode.com/primary/97950_english_hls_9203adfreeta-no/index.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "A League Men 2023-24",
+      "match_id": 97517,
+      "match_name": "Western United vs Macarthur",
+      "team_1": "Western United",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WSTA@2x.png",
+      "team_2": "Macarthur",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MACA@2x.png",
+      "stream_link": "https://dai.fancode.com/primary/97517_english_hls_8884adfreeta-no/index.m3u8"
     },
     {
       "event_catagory": "golf",
