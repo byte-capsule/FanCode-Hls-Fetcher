@@ -9,5 +9,7 @@ https://dai.google.com/linear/hls/event/ld34nJsoTPqFqn4admzYoQ/master.m3u8
 https://dai.google.com/linear/hls/event/ZgXKOsGMRlmFe83AtoN6SA/master.m3u8
 #EXTINF:-1 tvg-name="Western United vs Macarthur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97517" group-title="A League Men 2023-24",Western United vs Macarthur
 https://dai.fancode.com/primary/97517_english_hls_8884adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Consadole Sapporo vs Gamba Osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97950" group-title="J League 2024",Consadole Sapporo vs Gamba Osaka
+https://dai.fancode.com/primary/97950_english_hls_9203adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97928" group-title="LET Australian Women's Classic",Day 1
 https://dai.google.com/linear/hls/event/zSfueqi2Sve7T3971UbukA/master.m3u8
