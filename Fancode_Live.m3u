@@ -1,5 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Sano CC vs Tokyo Falcons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97112" group-title="JCL T10, 2024",Sano CC vs Tokyo Falcons
+https://dai.google.com/linear/hls/event/I4zzZSzmRpm2iVaBBUkyKQ/master.m3u8
 #EXTINF:-1 tvg-name="Cassowaries vs Black Bass" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98463" group-title="Isuzu Men's T20 Smash, 2024",Cassowaries vs Black Bass
 https://dai.google.com/linear/hls/event/KATgZ38HTCO-ibNZK92IYA/master.m3u8
+#EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97928" group-title="LET Australian Women's Classic",Day 1
+https://dai.google.com/linear/hls/event/zSfueqi2Sve7T3971UbukA/master.m3u8
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97930" group-title="LIV Golf Miami",Day 1
 https://dai.google.com/linear/hls/event/T3E4e2o4SouTvgwMG4cuDQ/master.m3u8
