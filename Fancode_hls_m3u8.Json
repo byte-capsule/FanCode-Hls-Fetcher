@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 4,
-  "updated_on": "06-04-2024 on 4:03:28 PM \ud83c\udf1e",
+  "channels_amount": 7,
+  "updated_on": "06-04-2024 on 4:27:12 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -18,13 +18,13 @@
     {
       "event_catagory": "cricket",
       "event_name": "Weston Shield, 2024",
-      "match_id": 98313,
-      "match_name": "Team Europe vs British and Irish Knights",
-      "team_1": "Team Europe",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TEP@2x.png",
-      "team_2": "British and Irish Knights",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BIK@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/P-DIkUo6SMGfxDVV17X5NA/master.m3u8"
+      "match_id": 98314,
+      "match_name": "British and Irish Knights vs Team Europe",
+      "team_1": "British and Irish Knights",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BIK@2x.png",
+      "team_2": "Team Europe",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TEP@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/eEDj3csHQL2ZBAYEz7NZNA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -47,6 +47,39 @@
       "team_2": "Melbourne City",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLCA@2x.png",
       "stream_link": "https://dai.fancode.com/primary/97519_english_hls_5333adfreeta-di/index.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "Goa Professional League 2023-24",
+      "match_id": 98030,
+      "match_name": "Sesa FA vs Dempo SC",
+      "team_1": "Sesa FA",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SESC@2x.png",
+      "team_2": "Dempo SC",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-DSC@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/5ZN0euQCQvmhbL81ZiWz9Q/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "Goa Professional League 2023-24",
+      "match_id": 98029,
+      "match_name": "Cortalim Villagers vs Guardian Angel SC",
+      "team_1": "Cortalim Villagers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CV@2x.png",
+      "team_2": "Guardian Angel SC",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GASC@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/vHJhQ4j-ROizLNhCFor3Kw/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "Goa Professional League 2023-24",
+      "match_id": 98028,
+      "match_name": "Young Boys vs Churchill Brothers FC",
+      "team_1": "Young Boys",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-TONC@2x.png",
+      "team_2": "Churchill Brothers FC",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CBFC@2x.png",
+      "stream_link": " Free Trial attempt unsuccessful......it requires Premium Account"
     }
   ]
 }
