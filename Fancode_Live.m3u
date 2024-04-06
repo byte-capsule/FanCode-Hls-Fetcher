@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Metro CC vs Recreation Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98206" group-title="Pune Olympia T20 Trophy, 2024",Metro CC vs Recreation Cricket Club
+https://dai.google.com/linear/hls/event/bj7tWRLWR3aYf_K6wZszQw/master.m3u8
 #EXTINF:-1 tvg-name="Stallion Cricket Club vs Gauhati Town Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97026" group-title="Guwahati Premier League, 2024",Stallion Cricket Club vs Gauhati Town Club
 https://dai.google.com/linear/hls/event/ZgXKOsGMRlmFe83AtoN6SA/master.m3u8
 #EXTINF:-1 tvg-name="Indatwa Hampshire CC Women vs Charity CC Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96694" group-title="RCA Women's T20, 2024",Indatwa Hampshire CC Women vs Charity CC Women
