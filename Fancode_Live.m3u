@@ -1,7 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Team Europe vs British and Irish Knights" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98318" group-title="Weston Shield, 2024",Team Europe vs British and Irish Knights
-https://dai.google.com/linear/hls/event/dS4hPDaETa-06l4d5WaktQ/master.m3u8
 #EXTINF:-1 tvg-name="Ashtapailu Sports vs Metro CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98204" group-title="Pune Olympia T20 Trophy, 2024",Ashtapailu Sports vs Metro CC
 https://dai.google.com/linear/hls/event/y2wN1IO0Q2u1j2lSv_Smfw/master.m3u8
 #EXTINF:-1 tvg-name="Ireland Wolves vs Nepal A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97201" group-title="Ireland Wolves tour of Nepal, 2024",Ireland Wolves vs Nepal A
 https://dai.google.com/linear/hls/event/UT5Oxde1TYOG4mV7JbjsBg/master.m3u8
+#EXTINF:-1 tvg-name="Namibia vs Oman" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97505" group-title="Namibia tour of Oman, 2024",Namibia vs Oman
+https://dai.google.com/linear/hls/event/lslBGE7OSZinGTu1jnTKfA/master.m3u8
+#EXTINF:-1 tvg-name="Calangute Association vs Geno SC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98027" group-title="Goa Professional League 2023-24",Calangute Association vs Geno SC
+https://dai.google.com/linear/hls/event/_WQP50FbREWjllj9rXm_9w/master.m3u8
+#EXTINF:-1 tvg-name="FC Goa vs Panjim Footballers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98026" group-title="Goa Professional League 2023-24",FC Goa vs Panjim Footballers
+https://dai.google.com/linear/hls/event/pP2NtqfjSAGBwBYS1poezg/master.m3u8
