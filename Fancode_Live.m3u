@@ -1,3 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Kawasaki Knight Riders CC vs Men In Blue Tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97116" group-title="JCL T10, 2024",Kawasaki Knight Riders CC vs Men In Blue Tokyo
+https://dai.google.com/linear/hls/event/X4cUn300TK2ptHGeeG6cTQ/master.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97929" group-title="LET Australian Women's Classic",Day 2
 https://dai.google.com/linear/hls/event/kNVdSpV-TpS3cgrMJGuY8w/master.m3u8
