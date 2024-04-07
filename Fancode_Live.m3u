@@ -1,14 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="British and Irish Knights vs Team Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98319" group-title="Weston Shield, 2024",British and Irish Knights vs Team Europe
 https://dai.google.com/linear/hls/event/ZTezGEQeQ-2pqrrJbkxTCg/master.m3u8
-#EXTINF:-1 tvg-name="Ashtapailu Sports vs Metro CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98204" group-title="Pune Olympia T20 Trophy, 2024",Ashtapailu Sports vs Metro CC
-https://dai.google.com/linear/hls/event/y2wN1IO0Q2u1j2lSv_Smfw/master.m3u8
+#EXTINF:-1 tvg-name="Stallion Cricket Club vs Bud Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97028" group-title="Guwahati Premier League, 2024",Stallion Cricket Club vs Bud Cricket Club
+https://dai.google.com/linear/hls/event/Su0Uyea8TIyMctq-3oUp9g/master.m3u8
 #EXTINF:-1 tvg-name="Namibia vs Oman" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97505" group-title="Namibia tour of Oman, 2024",Namibia vs Oman
 https://dai.google.com/linear/hls/event/lslBGE7OSZinGTu1jnTKfA/master.m3u8
 #EXTINF:-1 tvg-name="Northern Cape vs Limpopo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95760" group-title="CSA Provincial T20 Cup, 2024",Northern Cape vs Limpopo
 https://dai.google.com/linear/hls/event/bLBVpwmNSvSohT0TrDs8JQ/master.m3u8
-#EXTINF:-1 tvg-name="Stallion Cricket Club vs Bud Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97028" group-title="Guwahati Premier League, 2024",Stallion Cricket Club vs Bud Cricket Club
-https://dai.google.com/linear/hls/event/Su0Uyea8TIyMctq-3oUp9g/master.m3u8
+#EXTINF:-1 tvg-name="North West Dragons vs Dolphins" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95798" group-title="CSA T20 Challenge, 2024",North West Dragons vs Dolphins
+https://dai.google.com/linear/hls/event/G2_3_Zf0SFKWs0wQURt4HA/master.m3u8
+#EXTINF:-1 tvg-name="Western Province vs Rocks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95797" group-title="CSA T20 Challenge, 2024",Western Province vs Rocks
+https://dai.google.com/linear/hls/event/aBjjj6ATQ6Wc2vQ9GehQEw/master.m3u8
+#EXTINF:-1 tvg-name="Titans vs AET Tuskers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95796" group-title="CSA T20 Challenge, 2024",Titans vs AET Tuskers
+https://dai.google.com/linear/hls/event/0wA78LoyTtWe9360edmWMA/master.m3u8
 #EXTINF:-1 tvg-name="Calangute Association vs Geno SC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98027" group-title="Goa Professional League 2023-24",Calangute Association vs Geno SC
 https://dai.google.com/linear/hls/event/_WQP50FbREWjllj9rXm_9w/master.m3u8
 #EXTINF:-1 tvg-name="FC Goa vs Panjim Footballers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98026" group-title="Goa Professional League 2023-24",FC Goa vs Panjim Footballers
