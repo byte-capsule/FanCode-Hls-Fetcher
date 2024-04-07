@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 9,
-  "updated_on": "07-04-2024 on 6:09:40 PM \ud83c\udf19",
+  "channels_amount": 7,
+  "updated_on": "07-04-2024 on 6:36:36 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -14,6 +14,39 @@
       "team_2": "Team Europe",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TEP@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/ZTezGEQeQ-2pqrrJbkxTCg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "CSA T20 Challenge, 2024",
+      "match_id": 95798,
+      "match_name": "Dolphins vs North West Dragons",
+      "team_1": "Dolphins",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DLS@2x.png",
+      "team_2": "North West Dragons",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NDRS@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/G2_3_Zf0SFKWs0wQURt4HA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "CSA T20 Challenge, 2024",
+      "match_id": 95797,
+      "match_name": "Western Province vs Rocks",
+      "team_1": "Western Province",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WPS@2x.png",
+      "team_2": "Rocks",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RCS@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/aBjjj6ATQ6Wc2vQ9GehQEw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "CSA T20 Challenge, 2024",
+      "match_id": 95796,
+      "match_name": "Titans vs AET Tuskers",
+      "team_1": "Titans",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TTNN@2x.png",
+      "team_2": "AET Tuskers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AETS@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/0wA78LoyTtWe9360edmWMA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -47,61 +80,6 @@
       "team_2": "Limpopo",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LIMS@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/bLBVpwmNSvSohT0TrDs8JQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "CSA T20 Challenge, 2024",
-      "match_id": 95798,
-      "match_name": "North West Dragons vs Dolphins",
-      "team_1": "North West Dragons",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NDRS@2x.png",
-      "team_2": "Dolphins",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DLS@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/G2_3_Zf0SFKWs0wQURt4HA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "CSA T20 Challenge, 2024",
-      "match_id": 95797,
-      "match_name": "Western Province vs Rocks",
-      "team_1": "Western Province",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WPS@2x.png",
-      "team_2": "Rocks",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RCS@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/aBjjj6ATQ6Wc2vQ9GehQEw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "CSA T20 Challenge, 2024",
-      "match_id": 95796,
-      "match_name": "Titans vs AET Tuskers",
-      "team_1": "Titans",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TTNN@2x.png",
-      "team_2": "AET Tuskers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AETS@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/0wA78LoyTtWe9360edmWMA/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "Goa Professional League 2023-24",
-      "match_id": 98027,
-      "match_name": "Calangute Association vs Geno SC",
-      "team_1": "Calangute Association",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CLG@2x.png",
-      "team_2": "Geno SC",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GSC@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/_WQP50FbREWjllj9rXm_9w/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "Goa Professional League 2023-24",
-      "match_id": 98026,
-      "match_name": "FC Goa vs Panjim Footballers",
-      "team_1": "FC Goa",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-FCG@2x.png",
-      "team_2": "Panjim Footballers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PANF@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/pP2NtqfjSAGBwBYS1poezg/master.m3u8"
     }
   ]
 }
