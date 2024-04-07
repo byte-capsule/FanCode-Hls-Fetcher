@@ -1,11 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="British and Irish Knights vs Team Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98320" group-title="Weston Shield, 2024",British and Irish Knights vs Team Europe
 https://dai.google.com/linear/hls/event/FDbh3jr1SaCXEM_ZrijOqA/master.m3u8
+#EXTINF:-1 tvg-name="British and Irish Knights vs Team Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98321" group-title="Weston Shield, 2024",British and Irish Knights vs Team Europe
+https://dai.google.com/linear/hls/event/1bojkOfMSa-HklZBt4g11A/master.m3u8
 #EXTINF:-1 tvg-name="Dolphins vs North West Dragons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95798" group-title="CSA T20 Challenge, 2024",Dolphins vs North West Dragons
 https://dai.google.com/linear/hls/event/G2_3_Zf0SFKWs0wQURt4HA/master.m3u8
-#EXTINF:-1 tvg-name="Titans vs AET Tuskers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95796" group-title="CSA T20 Challenge, 2024",Titans vs AET Tuskers
-https://dai.google.com/linear/hls/event/0wA78LoyTtWe9360edmWMA/master.m3u8
-#EXTINF:-1 tvg-name="Stallion Cricket Club vs Bud Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97028" group-title="Guwahati Premier League, 2024",Stallion Cricket Club vs Bud Cricket Club
-https://dai.google.com/linear/hls/event/Su0Uyea8TIyMctq-3oUp9g/master.m3u8
 #EXTINF:-1 tvg-name="NEROCA FC vs Gokulam Kerala FC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98241" group-title="I League 2023-24",NEROCA FC vs Gokulam Kerala FC
 https://dai.google.com/linear/hls/event/-m23bV5ARrmWDn7AVFt5Rw/master.m3u8
