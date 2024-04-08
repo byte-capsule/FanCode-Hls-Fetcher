@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="AZ Sports vs Fly Emirates" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96903" group-title="Sharjah Ramadan T20 League, 2024",AZ Sports vs Fly Emirates
 https://dai.google.com/linear/hls/event/L0U10_MFStiAyUudmxaTsA/master.m3u8
+#EXTINF:-1 tvg-name="Khulna Royal Bengals vs Chennai Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96471" group-title="Kuwait T10 Ramadan Challengers Cup",Khulna Royal Bengals vs Chennai Warriors
+https://dai.google.com/linear/hls/event/aUmexYBATs6eVdX9j2SH7w/master.m3u8
 #EXTINF:-1 tvg-name="Fighters CC vs Oeiras" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97288" group-title="ECS Portugal, 2024",Fighters CC vs Oeiras
 https://dai.google.com/linear/hls/event/_z3mLSwiRRehyZ2f8pH8cg/master.m3u8
