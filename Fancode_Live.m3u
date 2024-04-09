@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Lisbon Werewolves vs Ronin CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97290" group-title="ECS Portugal, 2024",Lisbon Werewolves vs Ronin CC
+https://dai.google.com/linear/hls/event/W3r37oeMQY-T1ZKKdOHQMg/master.m3u8
 #EXTINF:-1 tvg-name="Ashtapailu Sports vs Jain Irrigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98207" group-title="Pune Olympia T20 Trophy, 2024",Ashtapailu Sports vs Jain Irrigation
 https://dai.google.com/linear/hls/event/N77B6d_6TRa2jIh6KcpQcQ/master.m3u8
 #EXTINF:-1 tvg-name="Young Boys vs Dempo SC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98437" group-title="Goa Professional League 2023-24",Young Boys vs Dempo SC
