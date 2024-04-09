@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Lisbon Werewolves vs Ronin CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97292" group-title="ECS Portugal, 2024",Lisbon Werewolves vs Ronin CC
-https://dai.google.com/linear/hls/event/SOxS253qTO-tPf3spbUexA/master.m3u8
 #EXTINF:-1 tvg-name="Micoud Eagles vs Soufriere Sulphur City Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98046" group-title="St. Lucia T10 Blast, 2024",Micoud Eagles vs Soufriere Sulphur City Stars
 https://dai.google.com/linear/hls/event/SVxRmUzhS6C3jFgvPlCmEg/master.m3u8
 #EXTINF:-1 tvg-name="South Africa Women vs Sri Lanka Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97205" group-title="Sri Lanka Women tour of South Africa, 2024",South Africa Women vs Sri Lanka Women
