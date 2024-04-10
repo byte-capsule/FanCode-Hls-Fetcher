@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Oeiras vs Ronin CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97294" group-title="ECS Portugal, 2024",Oeiras vs Ronin CC
+https://dai.google.com/linear/hls/event/8erJ-dkxR2WZrrMlnenKsQ/master.m3u8
 #EXTINF:-1 tvg-name="Karnali Province vs Koshi Province" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98418" group-title="Nepal T20 Inter Province Men's Tournament, 2024",Karnali Province vs Koshi Province
 https://dai.google.com/linear/hls/event/ayOdZ-LxSYaWYTP_UXf0rg/master.m3u8
 #EXTINF:-1 tvg-name="Punit Balan Group vs Ashtapailu Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98214" group-title="Pune Olympia T20 Trophy, 2024",Punit Balan Group vs Ashtapailu Sports
