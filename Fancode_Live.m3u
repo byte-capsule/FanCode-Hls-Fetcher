@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Oeiras vs Ronin CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97296" group-title="ECS Portugal, 2024",Oeiras vs Ronin CC
-https://dai.google.com/linear/hls/event/wm4DO6I6QQCYslOOz8WeZw/master.m3u8
 #EXTINF:-1 tvg-name="Lisbon Werewolves vs Fighters CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97297" group-title="ECS Portugal, 2024",Lisbon Werewolves vs Fighters CC
 https://dai.google.com/linear/hls/event/8S5YD4_ASF-MjYFrflCP_Q/master.m3u8
 #EXTINF:-1 tvg-name="Barbados Pride vs Leeward Islands Hurricanes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93726" group-title="West Indies Championship",Barbados Pride vs Leeward Islands Hurricanes
