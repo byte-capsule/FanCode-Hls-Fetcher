@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Bagmati Province vs Gandaki Province" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98417" group-title="Nepal T20 Inter Province Men's Tournament, 2024",Bagmati Province vs Gandaki Province
 https://dai.google.com/linear/hls/event/-ffknwF5TC-HW0smmheLjA/master.m3u8
+#EXTINF:-1 tvg-name="Metro CC vs Jain Irrigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98213" group-title="Pune Olympia T20 Trophy, 2024",Metro CC vs Jain Irrigation
+https://dai.google.com/linear/hls/event/qPPDyzN7TyKUh4H-j1xehw/master.m3u8
 #EXTINF:-1 tvg-name="América vs New England Revolution" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97049" group-title="CONCACAF Champions Cup",América vs New England Revolution
 https://dai.google.com/linear/hls/event/9YwQq9IBQtq9_hIM0-Qejw/master.m3u8
 #EXTINF:-1 tvg-name="Tigres vs Columbus Crew" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97048" group-title="CONCACAF Champions Cup",Tigres vs Columbus Crew
