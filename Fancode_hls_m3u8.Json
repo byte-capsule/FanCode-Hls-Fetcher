@@ -2,30 +2,8 @@
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "channels_amount": 5,
-  "updated_on": "11-04-2024 on 09:41:02 AM \ud83c\udf1e",
+  "updated_on": "11-04-2024 on 10:07:23 AM \ud83c\udf1e",
   "channels": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "West Indies Championship",
-      "match_id": 93726,
-      "match_name": "Barbados Pride vs Leeward Islands Hurricanes",
-      "team_1": "Barbados Pride",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRBP@2x.png",
-      "team_2": "Leeward Islands Hurricanes",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HURR@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/2suwdlcpTUuLud6JA9jX0A/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Isuzu Men's T20 Smash, 2024",
-      "match_id": 97183,
-      "match_name": "Black Bass vs Mariners",
-      "team_1": "Black Bass",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBM@2x.png",
-      "team_2": "Mariners",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MARM@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/9lgQecBZSka1E28d8FpuyQ/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Nepal T20 Inter Province Men's Tournament, 2024",
@@ -39,6 +17,17 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "West Indies Championship",
+      "match_id": 93726,
+      "match_name": "Barbados Pride vs Leeward Islands Hurricanes",
+      "team_1": "Barbados Pride",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRBP@2x.png",
+      "team_2": "Leeward Islands Hurricanes",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HURR@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/2suwdlcpTUuLud6JA9jX0A/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "Pune Olympia T20 Trophy, 2024",
       "match_id": 98215,
       "match_name": "Ashtapailu Sports vs Nok 99",
@@ -47,6 +36,17 @@
       "team_2": "Nok 99",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NOK@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/dAWJ6InpQqihycCd5a0hzw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Isuzu Men's T20 Smash, 2024",
+      "match_id": 97184,
+      "match_name": "Cassowaries vs Mudmen",
+      "team_1": "Cassowaries",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CASM@2x.png",
+      "team_2": "Mudmen",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MUDM@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/OoSI4lYQRpqrwWKwK1K8ig/master.m3u8"
     },
     {
       "event_catagory": "football",
