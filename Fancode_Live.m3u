@@ -1,3 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Lisbon Werewolves vs Friendship CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97301" group-title="ECS Portugal, 2024",Lisbon Werewolves vs Friendship CC
+https://dai.google.com/linear/hls/event/GUbbp_uuTAulHXaz3BSNtA/master.m3u8
 #EXTINF:-1 tvg-name="Barbados Pride vs Leeward Islands Hurricanes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93726" group-title="West Indies Championship",Barbados Pride vs Leeward Islands Hurricanes
 https://dai.google.com/linear/hls/event/2suwdlcpTUuLud6JA9jX0A/master.m3u8
