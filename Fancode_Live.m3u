@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Malo vs Lisbon Werewolves" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97299" group-title="ECS Portugal, 2024",Malo vs Lisbon Werewolves
-https://dai.google.com/linear/hls/event/NESDT5NnSWu7KrdcsySu7g/master.m3u8
-#EXTINF:-1 tvg-name="Gandaki Province vs Karnali Province" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98420" group-title="Nepal T20 Inter Province Men's Tournament, 2024",Gandaki Province vs Karnali Province
-https://dai.fancode.com/primary/98420_english_hls_5040adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Malo vs Precious CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97300" group-title="ECS Portugal, 2024",Malo vs Precious CC
+https://dai.google.com/linear/hls/event/aM_BR6pdR56bHV5Gy-OGZw/master.m3u8
 #EXTINF:-1 tvg-name="Jain Irrigation vs Punit Balan Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98216" group-title="Pune Olympia T20 Trophy, 2024",Jain Irrigation vs Punit Balan Group
 https://dai.google.com/linear/hls/event/1m9TjH2ASG2czqKdXvvmpA/master.m3u8
 #EXTINF:-1 tvg-name="Barbados Pride vs Leeward Islands Hurricanes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93726" group-title="West Indies Championship",Barbados Pride vs Leeward Islands Hurricanes
