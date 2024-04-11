@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Cassowaries vs Mudmen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97184" group-title="Isuzu Men's T20 Smash, 2024",Cassowaries vs Mudmen
-https://dai.google.com/linear/hls/event/OoSI4lYQRpqrwWKwK1K8ig/master.m3u8
-#EXTINF:-1 tvg-name="Madhesh Pradesh vs Lumbini Province" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98419" group-title="Nepal T20 Inter Province Men's Tournament, 2024",Madhesh Pradesh vs Lumbini Province
-https://dai.fancode.com/primary/98419_english_hls_5183adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Gandaki Province vs Karnali Province" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98420" group-title="Nepal T20 Inter Province Men's Tournament, 2024",Gandaki Province vs Karnali Province
+https://dai.fancode.com/primary/98420_english_hls_5040adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Barbados Pride vs Leeward Islands Hurricanes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93726" group-title="West Indies Championship",Barbados Pride vs Leeward Islands Hurricanes
 https://dai.google.com/linear/hls/event/2suwdlcpTUuLud6JA9jX0A/master.m3u8
-#EXTINF:-1 tvg-name="Ashtapailu Sports vs Nok 99" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98215" group-title="Pune Olympia T20 Trophy, 2024",Ashtapailu Sports vs Nok 99
-https://dai.google.com/linear/hls/event/dAWJ6InpQqihycCd5a0hzw/master.m3u8
