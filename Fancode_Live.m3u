@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Malo vs Precious CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97302" group-title="ECS Portugal, 2024",Malo vs Precious CC
-https://dai.google.com/linear/hls/event/P5JTRie9QT2yVvmym1-i4Q/master.m3u8
+#EXTINF:-1 tvg-name="Oeiras vs Precious CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97303" group-title="ECS Portugal, 2024",Oeiras vs Precious CC
+https://dai.google.com/linear/hls/event/siv8zT5oSQWNT2_Qxsvm5A/master.m3u8
 #EXTINF:-1 tvg-name="Gros Islet Cannon Blasters vs Central Castries Mindoo Heritage" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98050" group-title="St. Lucia T10 Blast, 2024",Gros Islet Cannon Blasters vs Central Castries Mindoo Heritage
 https://dai.google.com/linear/hls/event/jrm0FZBBShi4mFQy3sP8zA/master.m3u8
 #EXTINF:-1 tvg-name="Barbados Pride vs Leeward Islands Hurricanes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93726" group-title="West Indies Championship",Barbados Pride vs Leeward Islands Hurricanes
 https://dai.google.com/linear/hls/event/2suwdlcpTUuLud6JA9jX0A/master.m3u8
+#EXTINF:-1 tvg-name="Monaco vs Bayern Munich" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98041" group-title="Euro League",Monaco vs Bayern Munich
+https://dai.google.com/linear/hls/event/AHzstEihSIaTqP4cs5uP_A/master.m3u8
