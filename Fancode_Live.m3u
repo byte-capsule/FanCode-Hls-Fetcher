@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Gamblers SC vs Oeiras" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97306" group-title="ECS Portugal, 2024",Gamblers SC vs Oeiras
 https://dai.google.com/linear/hls/event/ZEseW_XaSACE1Gwr8APjbQ/master.m3u8
+#EXTINF:-1 tvg-name="KRM Panthers vs JK Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96452" group-title="Kuwait T10 Ramadan Challengers Cup",KRM Panthers vs JK Warriors
+https://dai.google.com/linear/hls/event/sDvaAArnSIuMcVSt04_lsA/master.m3u8
 #EXTINF:-1 tvg-name="Warriors vs AET Tuskers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95800" group-title="CSA T20 Challenge, 2024",Warriors vs AET Tuskers
 https://dai.google.com/linear/hls/event/KEAYUiKrTqaihOAg4oRVeA/master.m3u8
 #EXTINF:-1 tvg-name="Barbados Pride vs Leeward Islands Hurricanes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93726" group-title="West Indies Championship",Barbados Pride vs Leeward Islands Hurricanes
