@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Malo vs Fighters CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97307" group-title="ECS Portugal, 2024",Malo vs Fighters CC
 https://dai.google.com/linear/hls/event/GhNHsUQxSwiFQ-FBlbg5cg/master.m3u8
-#EXTINF:-1 tvg-name="KRM Panthers vs JK Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96452" group-title="Kuwait T10 Ramadan Challengers Cup",KRM Panthers vs JK Warriors
-https://dai.google.com/linear/hls/event/sDvaAArnSIuMcVSt04_lsA/master.m3u8
 #EXTINF:-1 tvg-name="NCM Investment-B vs Toyota TGS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96453" group-title="Kuwait T10 Ramadan Challengers Cup",NCM Investment-B vs Toyota TGS
 https://dai.google.com/linear/hls/event/goisG5SPQkStK2h4oZ7Z9Q/master.m3u8
 #EXTINF:-1 tvg-name="Micoud Eagles vs Mon Repos Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98052" group-title="St. Lucia T10 Blast, 2024",Micoud Eagles vs Mon Repos Stars
@@ -13,3 +11,5 @@ https://dai.google.com/linear/hls/event/h0FHD3PcT2u_hTbeQB6iuQ/master.m3u8
 https://dai.google.com/linear/hls/event/4-ceRu7xRji0tjlFXgr3nQ/master.m3u8
 #EXTINF:-1 tvg-name="Barbados Pride vs Leeward Islands Hurricanes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93726" group-title="West Indies Championship",Barbados Pride vs Leeward Islands Hurricanes
 https://dai.google.com/linear/hls/event/2suwdlcpTUuLud6JA9jX0A/master.m3u8
+#EXTINF:-1 tvg-name="Seven Districts vs Colatta Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98361" group-title="Bukhatir T20 League, 2024",Seven Districts vs Colatta Warriors
+https://dai.google.com/linear/hls/event/LtJ-V-XGRgGu8GAZ7hRT6Q/master.m3u8
