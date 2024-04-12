@@ -1,12 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Travancore Tridents vs Khulna Royal Bengals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96449" group-title="Kuwait T10 Ramadan Challengers Cup",Travancore Tridents vs Khulna Royal Bengals
 https://dai.google.com/linear/hls/event/nbPwWwQrQFmO8UOCr0UrgA/master.m3u8
-#EXTINF:-1 tvg-name="Mudmen vs Black Bass" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97185" group-title="Isuzu Men's T20 Smash, 2024",Mudmen vs Black Bass
-https://dai.google.com/linear/hls/event/v2-YOeA1Ql2n2EXB2WtG1w/master.m3u8
 #EXTINF:-1 tvg-name="Barbados Pride vs Leeward Islands Hurricanes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93726" group-title="West Indies Championship",Barbados Pride vs Leeward Islands Hurricanes
 https://dai.google.com/linear/hls/event/2suwdlcpTUuLud6JA9jX0A/master.m3u8
-#EXTINF:-1 tvg-name="Nok 99 vs Recreation Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98217" group-title="Pune Olympia T20 Trophy, 2024",Nok 99 vs Recreation Cricket Club
-https://dai.google.com/linear/hls/event/eGY-hDubTZynLcaHqbb1rw/master.m3u8
 #EXTINF:-1 tvg-name="Kuwait vs United Arab Emirates" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98394" group-title="ACC Men's T20I Premier Cup, 2024",Kuwait vs United Arab Emirates
 https://dai.google.com/linear/hls/event/uhItvrOkSbqSBliovLVGtw/master.m3u8
 #EXTINF:-1 tvg-name="Oman vs Bahrain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98393" group-title="ACC Men's T20I Premier Cup, 2024",Oman vs Bahrain
