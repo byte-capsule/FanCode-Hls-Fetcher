@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Gamblers SC vs Oeiras" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97306" group-title="ECS Portugal, 2024",Gamblers SC vs Oeiras
+https://dai.google.com/linear/hls/event/ZEseW_XaSACE1Gwr8APjbQ/master.m3u8
 #EXTINF:-1 tvg-name="CECC-B vs Keraniganj Challengers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96451" group-title="Kuwait T10 Ramadan Challengers Cup",CECC-B vs Keraniganj Challengers
 https://dai.google.com/linear/hls/event/IxxnJfFTTouNMfcnn0BsdA/master.m3u8
 #EXTINF:-1 tvg-name="Hong Kong, China vs Qatar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98396" group-title="ACC Men's T20I Premier Cup, 2024",Hong Kong, China vs Qatar
