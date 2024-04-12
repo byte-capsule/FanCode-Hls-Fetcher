@@ -1,20 +1,9 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 9,
-  "updated_on": "12-04-2024 on 6:10:41 PM \ud83c\udf19",
+  "channels_amount": 6,
+  "updated_on": "12-04-2024 on 6:39:19 PM \ud83c\udf19",
   "channels": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECS Portugal, 2024",
-      "match_id": 97305,
-      "match_name": "Fighters CC vs Punjab CC Amadora",
-      "team_1": "Fighters CC",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FIG@2x.png",
-      "team_2": "Punjab CC Amadora",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PNJ@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/9eij_pf9T82Jbq5tGSRtbw/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Kuwait T10 Ramadan Challengers Cup",
@@ -80,28 +69,6 @@
       "team_2": "Tiddim Road Athletic Union FC",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEF-FT7@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/mZCJpAoBR7KdWwzjxoDvbQ/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "Goa Professional League 2023-24",
-      "match_id": 98442,
-      "match_name": "Cortalim Villagers vs Pax of Nagoa SC",
-      "team_1": "Cortalim Villagers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CV@2x.png",
-      "team_2": "Pax of Nagoa SC",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PAO@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/tT9U-qC1Rs2AtAIC71KfZA/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "Goa Professional League 2023-24",
-      "match_id": 98441,
-      "match_name": "Sesa FA vs Vasco SC",
-      "team_1": "Sesa FA",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SESC@2x.png",
-      "team_2": "Vasco SC",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VASC@2x.png",
-      "stream_link": " Free Trial attempt unsuccessful......it requires Premium Account"
     }
   ]
 }
