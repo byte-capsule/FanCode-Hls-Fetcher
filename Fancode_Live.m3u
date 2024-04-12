@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Malo vs Gamblers SC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97304" group-title="ECS Portugal, 2024",Malo vs Gamblers SC
 https://dai.google.com/linear/hls/event/AHO67SzAR0igF5bMpAERrQ/master.m3u8
+#EXTINF:-1 tvg-name="Ishaq Strikers vs MEC Study Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96450" group-title="Kuwait T10 Ramadan Challengers Cup",Ishaq Strikers vs MEC Study Group
+https://dai.google.com/linear/hls/event/PJU8dLy6T6WXkVf-BuKgxg/master.m3u8
 #EXTINF:-1 tvg-name="Barbados Pride vs Leeward Islands Hurricanes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93726" group-title="West Indies Championship",Barbados Pride vs Leeward Islands Hurricanes
 https://dai.google.com/linear/hls/event/2suwdlcpTUuLud6JA9jX0A/master.m3u8
 #EXTINF:-1 tvg-name="Kuwait vs United Arab Emirates" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98394" group-title="ACC Men's T20I Premier Cup, 2024",Kuwait vs United Arab Emirates
