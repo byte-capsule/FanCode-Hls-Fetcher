@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Fighters CC vs Punjab CC Amadora" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97305" group-title="ECS Portugal, 2024",Fighters CC vs Punjab CC Amadora
 https://dai.google.com/linear/hls/event/9eij_pf9T82Jbq5tGSRtbw/master.m3u8
-#EXTINF:-1 tvg-name="Ishaq Strikers vs MEC Study Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96450" group-title="Kuwait T10 Ramadan Challengers Cup",Ishaq Strikers vs MEC Study Group
-https://dai.google.com/linear/hls/event/PJU8dLy6T6WXkVf-BuKgxg/master.m3u8
 #EXTINF:-1 tvg-name="Hong Kong, China vs Qatar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98396" group-title="ACC Men's T20I Premier Cup, 2024",Hong Kong, China vs Qatar
 https://dai.google.com/linear/hls/event/uL_wpIJnRfCB1O0ehbR3og/master.m3u8
 #EXTINF:-1 tvg-name="Malaysia vs Nepal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98395" group-title="ACC Men's T20I Premier Cup, 2024",Malaysia vs Nepal
 https://dai.google.com/linear/hls/event/RZYx0O_WR36C7l4wKQ3oMQ/master.m3u8
 #EXTINF:-1 tvg-name="Barbados Pride vs Leeward Islands Hurricanes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93726" group-title="West Indies Championship",Barbados Pride vs Leeward Islands Hurricanes
 https://dai.google.com/linear/hls/event/2suwdlcpTUuLud6JA9jX0A/master.m3u8
+#EXTINF:-1 tvg-name="AET Tuskers vs Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95800" group-title="CSA T20 Challenge, 2024",AET Tuskers vs Warriors
+https://dai.google.com/linear/hls/event/KEAYUiKrTqaihOAg4oRVeA/master.m3u8
 #EXTINF:-1 tvg-name="Adelaide United vs Macarthur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97523" group-title="A League Men 2023-24",Adelaide United vs Macarthur
 https://dai.fancode.com/primary/97523_english_hls_8900adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Kashiwa Reysol vs Urawa Red Diamonds" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97983" group-title="J League 2024",Kashiwa Reysol vs Urawa Red Diamonds
