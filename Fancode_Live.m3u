@@ -1,13 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Oeiras vs Fighters CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97309" group-title="ECS Portugal, 2024",Oeiras vs Fighters CC
+https://dai.google.com/linear/hls/event/sPU0M0PERweMkvDE4QdljA/master.m3u8
 #EXTINF:-1 tvg-name="Nok 99 vs Jain Irrigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98220" group-title="Pune Olympia T20 Trophy, 2024",Nok 99 vs Jain Irrigation
 https://dai.google.com/linear/hls/event/OXwHiQWjQ6Ga-UcRxCNUJg/master.m3u8
 #EXTINF:-1 tvg-name="Barbados Pride vs Leeward Islands Hurricanes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93726" group-title="West Indies Championship",Barbados Pride vs Leeward Islands Hurricanes
 https://dai.google.com/linear/hls/event/2suwdlcpTUuLud6JA9jX0A/master.m3u8
 #EXTINF:-1 tvg-name="United Arab Emirates vs Bahrain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98398" group-title="ACC Men's T20I Premier Cup, 2024",United Arab Emirates vs Bahrain
 https://dai.google.com/linear/hls/event/s9Blcud7SSK88bJrSiLx-A/master.m3u8
-#EXTINF:-1 tvg-name="Cambodia vs Kuwait" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98397" group-title="ACC Men's T20I Premier Cup, 2024",Cambodia vs Kuwait
-https://dai.google.com/linear/hls/event/Znkgc4yDS_CTmbBQrNW1Yg/master.m3u8
-#EXTINF:-1 tvg-name="Tokyo Verdy vs FC Tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97986" group-title="J League 2024",Tokyo Verdy vs FC Tokyo
-https://dai.fancode.com/primary/97986_english_hls_4839adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Brisbane Roar vs Newcastle Jets" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97524" group-title="A League Men 2023-24",Brisbane Roar vs Newcastle Jets
 https://dai.fancode.com/primary/97524_english_hls_5142adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Real Kashmir FC vs Namdhari" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98246" group-title="I League 2023-24",Real Kashmir FC vs Namdhari
+https://dai.google.com/linear/hls/event/M6KjhRHzSpGFBj1SfVDdJA/master.m3u8
