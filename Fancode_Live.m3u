@@ -3,15 +3,13 @@
 https://dai.google.com/linear/hls/event/xmhzG_g2TJ6E1KhPanTXig/master.m3u8
 #EXTINF:-1 tvg-name="Barbados Pride vs Leeward Islands Hurricanes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93726" group-title="West Indies Championship",Barbados Pride vs Leeward Islands Hurricanes
 https://dai.google.com/linear/hls/event/2suwdlcpTUuLud6JA9jX0A/master.m3u8
-#EXTINF:-1 tvg-name="Gandaki Province vs Madhesh Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98422" group-title="Nepal T20 Inter Province Men's Tournament, 2024",Gandaki Province vs Madhesh Pradesh
-https://dai.google.com/linear/hls/event/UnsjMxRjQ_6ZnG5S-_xA3w/master.m3u8
 #EXTINF:-1 tvg-name="United Arab Emirates vs Bahrain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98398" group-title="ACC Men's T20I Premier Cup, 2024",United Arab Emirates vs Bahrain
 https://dai.google.com/linear/hls/event/s9Blcud7SSK88bJrSiLx-A/master.m3u8
 #EXTINF:-1 tvg-name="Cambodia vs Kuwait" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98397" group-title="ACC Men's T20I Premier Cup, 2024",Cambodia vs Kuwait
 https://dai.google.com/linear/hls/event/Znkgc4yDS_CTmbBQrNW1Yg/master.m3u8
-#EXTINF:-1 tvg-name="Western United vs Central Coast Mariners" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97525" group-title="A League Men 2023-24",Western United vs Central Coast Mariners
-https://dai.fancode.com/primary/97525_english_hls_5034adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Albirex Niigata vs Consadole Sapporo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97984" group-title="J League 2024",Albirex Niigata vs Consadole Sapporo
-https://dai.fancode.com/primary/97984_english_hls_4925adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Machida Zelvia vs Vissel Kobe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97985" group-title="J League 2024",Machida Zelvia vs Vissel Kobe
 https://dai.fancode.com/primary/97985_english_hls_4931adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Tokyo Verdy vs FC Tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97986" group-title="J League 2024",Tokyo Verdy vs FC Tokyo
+https://dai.fancode.com/primary/97986_english_hls_4839adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Western United vs Central Coast Mariners" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97525" group-title="A League Men 2023-24",Western United vs Central Coast Mariners
+https://dai.fancode.com/primary/97525_english_hls_5034adfreeta-di/index.m3u8
