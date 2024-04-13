@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Oeiras vs Fighters CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97309" group-title="ECS Portugal, 2024",Oeiras vs Fighters CC
-https://dai.google.com/linear/hls/event/sPU0M0PERweMkvDE4QdljA/master.m3u8
+#EXTINF:-1 tvg-name="Malo vs Punjab CC Amadora" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97310" group-title="ECS Portugal, 2024",Malo vs Punjab CC Amadora
+https://dai.google.com/linear/hls/event/HHgSE0YEQr6Vp-JTZvsJuA/master.m3u8
 #EXTINF:-1 tvg-name="Nok 99 vs Jain Irrigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98220" group-title="Pune Olympia T20 Trophy, 2024",Nok 99 vs Jain Irrigation
 https://dai.google.com/linear/hls/event/OXwHiQWjQ6Ga-UcRxCNUJg/master.m3u8
 #EXTINF:-1 tvg-name="Malaysia vs Saudi Arabia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98400" group-title="ACC Men's T20I Premier Cup, 2024",Malaysia vs Saudi Arabia
@@ -11,5 +11,3 @@ https://dai.google.com/linear/hls/event/KvyJsucmTdeGRwI0HDHEkA/master.m3u8
 https://dai.google.com/linear/hls/event/2suwdlcpTUuLud6JA9jX0A/master.m3u8
 #EXTINF:-1 tvg-name="Sydney FC vs Western Sydney Wanderers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97526" group-title="A League Men 2023-24",Sydney FC vs Western Sydney Wanderers
 https://dai.fancode.com/primary/97526_english_hls_5229adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Real Kashmir FC vs Namdhari" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98246" group-title="I League 2023-24",Real Kashmir FC vs Namdhari
-https://dai.google.com/linear/hls/event/M6KjhRHzSpGFBj1SfVDdJA/master.m3u8
