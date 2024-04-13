@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Vieux Fort North Raiders vs Babonneau Leatherbacks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98054" group-title="St. Lucia T10 Blast, 2024",Vieux Fort North Raiders vs Babonneau Leatherbacks
+https://dai.google.com/linear/hls/event/OHiVHzlrSAuajbkA-AQvmA/master.m3u8
 #EXTINF:-1 tvg-name="Oeiras vs Punjab CC Amadora" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97312" group-title="ECS Portugal, 2024",Oeiras vs Punjab CC Amadora
 https://dai.google.com/linear/hls/event/1aggA4xbRxKWR41jIgV-Gg/master.m3u8
 #EXTINF:-1 tvg-name="Karwan Cricket Club vs Brickwork Development" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98362" group-title="Bukhatir T20 League, 2024",Karwan Cricket Club vs Brickwork Development
@@ -7,5 +9,3 @@ https://dai.google.com/linear/hls/event/c3guUTtNTgiSMoO5_A5veg/master.m3u8
 https://dai.google.com/linear/hls/event/2suwdlcpTUuLud6JA9jX0A/master.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka Women vs South Africa Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97206" group-title="Sri Lanka Women tour of South Africa, 2024",Sri Lanka Women vs South Africa Women
 https://dai.google.com/linear/hls/event/1FQTBiS9SNCc3mH6CW3-fw/master.m3u8
-#EXTINF:-1 tvg-name="West Bromwich Albion vs Sunderland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97193" group-title="EFL Championship 2023-24",West Bromwich Albion vs Sunderland
-https://dai.google.com/linear/hls/event/sDagW0jXTFCGaMG99R5NUg/master.m3u8
