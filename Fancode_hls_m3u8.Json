@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 7,
-  "updated_on": "13-04-2024 on 8:02:13 PM \ud83c\udf19",
+  "channels_amount": 6,
+  "updated_on": "13-04-2024 on 8:23:21 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -28,28 +28,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "ACC Men's T20I Premier Cup, 2024",
-      "match_id": 98400,
-      "match_name": "Malaysia vs Saudi Arabia",
-      "team_1": "Malaysia",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALY@2x.png",
-      "team_2": "Saudi Arabia",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KSA@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/sPC7U0_FTl6IiBvbONk8xg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ACC Men's T20I Premier Cup, 2024",
-      "match_id": 98399,
-      "match_name": "Nepal vs Qatar",
-      "team_1": "Nepal",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
-      "team_2": "Qatar",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-QTR@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/KvyJsucmTdeGRwI0HDHEkA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "West Indies Championship",
       "match_id": 93726,
       "match_name": "Barbados Pride vs Leeward Islands Hurricanes",
@@ -69,6 +47,17 @@
       "team_2": "South Africa Women",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/1FQTBiS9SNCc3mH6CW3-fw/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "EFL Championship 2023-24",
+      "match_id": 97193,
+      "match_name": "West Bromwich Albion vs Sunderland",
+      "team_1": "West Bromwich Albion",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WESTB@2x.png",
+      "team_2": "Sunderland",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SUNDL@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/sDagW0jXTFCGaMG99R5NUg/master.m3u8"
     },
     {
       "event_catagory": "football",
