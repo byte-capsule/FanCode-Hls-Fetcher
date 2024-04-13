@@ -9,7 +9,11 @@ https://dai.google.com/linear/hls/event/sPC7U0_FTl6IiBvbONk8xg/master.m3u8
 https://dai.google.com/linear/hls/event/KvyJsucmTdeGRwI0HDHEkA/master.m3u8
 #EXTINF:-1 tvg-name="Barbados Pride vs Leeward Islands Hurricanes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93726" group-title="West Indies Championship",Barbados Pride vs Leeward Islands Hurricanes
 https://dai.google.com/linear/hls/event/2suwdlcpTUuLud6JA9jX0A/master.m3u8
+#EXTINF:-1 tvg-name="Leeds United vs Blackburn Rovers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97191" group-title="EFL Championship 2023-24",Leeds United vs Blackburn Rovers
+https://dai.google.com/linear/hls/event/VRJULEq7RViSic32MbW38A/master.m3u8
 #EXTINF:-1 tvg-name="Sydney FC vs Western Sydney Wanderers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97526" group-title="A League Men 2023-24",Sydney FC vs Western Sydney Wanderers
 https://dai.fancode.com/primary/97526_english_hls_5229adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Sreenidi Deccan vs Shillong Lajong FC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98247" group-title="I League 2023-24",Sreenidi Deccan vs Shillong Lajong FC
 https://dai.google.com/linear/hls/event/wJdRpDvcQfqlnNkPnlqMjQ/master.m3u8
+#EXTINF:-1 tvg-name="Shanghai Shenhua vs Beijing Guoan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97936" group-title="Chinese Super League 2024",Shanghai Shenhua vs Beijing Guoan
+https://dai.fancode.com/primary/97936_english_hls_4519adfreeta-no/index.m3u8
