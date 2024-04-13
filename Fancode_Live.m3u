@@ -1,3 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Barbados Pride vs Leeward Islands Hurricanes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93726" group-title="West Indies Championship",Barbados Pride vs Leeward Islands Hurricanes
+https://dai.google.com/linear/hls/event/2suwdlcpTUuLud6JA9jX0A/master.m3u8
+#EXTINF:-1 tvg-name="Mudmen vs Black Bass" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97187" group-title="Isuzu Men's T20 Smash, 2024",Mudmen vs Black Bass
+https://dai.google.com/linear/hls/event/6pSrYpbdTayOCrthwC53Kw/master.m3u8
 #EXTINF:-1 tvg-name="Light Heavyweights & Lightweights" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95318" group-title="Professional Fighters League",Light Heavyweights & Lightweights
 https://dai.google.com/linear/hls/event/3-O6zrS2Q7ivm2T3vu-5HA/master.m3u8
