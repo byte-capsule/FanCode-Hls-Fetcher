@@ -1,18 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Malo vs Punjab CC Amadora" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97310" group-title="ECS Portugal, 2024",Malo vs Punjab CC Amadora
 https://dai.google.com/linear/hls/event/HHgSE0YEQr6Vp-JTZvsJuA/master.m3u8
-#EXTINF:-1 tvg-name="Nok 99 vs Jain Irrigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98220" group-title="Pune Olympia T20 Trophy, 2024",Nok 99 vs Jain Irrigation
-https://dai.google.com/linear/hls/event/OXwHiQWjQ6Ga-UcRxCNUJg/master.m3u8
 #EXTINF:-1 tvg-name="Malaysia vs Saudi Arabia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98400" group-title="ACC Men's T20I Premier Cup, 2024",Malaysia vs Saudi Arabia
 https://dai.google.com/linear/hls/event/sPC7U0_FTl6IiBvbONk8xg/master.m3u8
 #EXTINF:-1 tvg-name="Nepal vs Qatar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98399" group-title="ACC Men's T20I Premier Cup, 2024",Nepal vs Qatar
 https://dai.google.com/linear/hls/event/KvyJsucmTdeGRwI0HDHEkA/master.m3u8
 #EXTINF:-1 tvg-name="Barbados Pride vs Leeward Islands Hurricanes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93726" group-title="West Indies Championship",Barbados Pride vs Leeward Islands Hurricanes
 https://dai.google.com/linear/hls/event/2suwdlcpTUuLud6JA9jX0A/master.m3u8
+#EXTINF:-1 tvg-name="Sri Lanka Women vs South Africa Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97206" group-title="Sri Lanka Women tour of South Africa, 2024",Sri Lanka Women vs South Africa Women
+https://dai.google.com/linear/hls/event/1FQTBiS9SNCc3mH6CW3-fw/master.m3u8
 #EXTINF:-1 tvg-name="Leeds United vs Blackburn Rovers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97191" group-title="EFL Championship 2023-24",Leeds United vs Blackburn Rovers
 https://dai.google.com/linear/hls/event/VRJULEq7RViSic32MbW38A/master.m3u8
-#EXTINF:-1 tvg-name="Sydney FC vs Western Sydney Wanderers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97526" group-title="A League Men 2023-24",Sydney FC vs Western Sydney Wanderers
-https://dai.fancode.com/primary/97526_english_hls_5229adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Sreenidi Deccan vs Shillong Lajong FC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98247" group-title="I League 2023-24",Sreenidi Deccan vs Shillong Lajong FC
 https://dai.google.com/linear/hls/event/wJdRpDvcQfqlnNkPnlqMjQ/master.m3u8
 #EXTINF:-1 tvg-name="Shanghai Shenhua vs Beijing Guoan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97936" group-title="Chinese Super League 2024",Shanghai Shenhua vs Beijing Guoan
