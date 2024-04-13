@@ -1,9 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Ashtapailu Sports vs Metro CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98218" group-title="Pune Olympia T20 Trophy, 2024",Ashtapailu Sports vs Metro CC
+https://dai.google.com/linear/hls/event/CPo3xqhYTFG_clKi0IvCuA/master.m3u8
+#EXTINF:-1 tvg-name="Recreation Cricket Club vs Punit Balan Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98219" group-title="Pune Olympia T20 Trophy, 2024",Recreation Cricket Club vs Punit Balan Group
+https://dai.google.com/linear/hls/event/GR2_Geb0TvaFydoqUoA5Uw/master.m3u8
 #EXTINF:-1 tvg-name="Mariners vs Cassowaries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97188" group-title="Isuzu Men's T20 Smash, 2024",Mariners vs Cassowaries
 https://dai.google.com/linear/hls/event/xmhzG_g2TJ6E1KhPanTXig/master.m3u8
 #EXTINF:-1 tvg-name="Barbados Pride vs Leeward Islands Hurricanes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93726" group-title="West Indies Championship",Barbados Pride vs Leeward Islands Hurricanes
 https://dai.google.com/linear/hls/event/2suwdlcpTUuLud6JA9jX0A/master.m3u8
-#EXTINF:-1 tvg-name="Recreation Cricket Club vs Punit Balan Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98219" group-title="Pune Olympia T20 Trophy, 2024",Recreation Cricket Club vs Punit Balan Group
-https://dai.google.com/linear/hls/event/GR2_Geb0TvaFydoqUoA5Uw/master.m3u8
 #EXTINF:-1 tvg-name="Gandaki Province vs Madhesh Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98422" group-title="Nepal T20 Inter Province Men's Tournament, 2024",Gandaki Province vs Madhesh Pradesh
 https://dai.google.com/linear/hls/event/UnsjMxRjQ_6ZnG5S-_xA3w/master.m3u8
+#EXTINF:-1 tvg-name="Albirex Niigata vs Consadole Sapporo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97984" group-title="J League 2024",Albirex Niigata vs Consadole Sapporo
+https://dai.fancode.com/primary/97984_english_hls_4925adfreeta-di/index.m3u8
