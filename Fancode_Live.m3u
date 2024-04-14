@@ -1,7 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Oeiras vs Malo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97316" group-title="ECS Portugal, 2024",Oeiras vs Malo
-https://dai.google.com/linear/hls/event/lGa7WdluS1yjN0zxah0F-g/master.m3u8
-#EXTINF:-1 tvg-name="Central Castries Mindoo Heritage vs Mon Repos Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98056" group-title="St. Lucia T10 Blast, 2024",Central Castries Mindoo Heritage vs Mon Repos Stars
-https://dai.google.com/linear/hls/event/T6G_65GMQY2bDYNau5pKZQ/master.m3u8
-#EXTINF:-1 tvg-name="Muhamand Warriors vs Seven Districts Juniors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98364" group-title="Bukhatir T20 League, 2024",Muhamand Warriors vs Seven Districts Juniors
-https://dai.google.com/linear/hls/event/jFQpDaeOTPmOrdnUjP9MbQ/master.m3u8
