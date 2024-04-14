@@ -1,13 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Oeiras vs Malo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97316" group-title="ECS Portugal, 2024",Oeiras vs Malo
 https://dai.google.com/linear/hls/event/lGa7WdluS1yjN0zxah0F-g/master.m3u8
+#EXTINF:-1 tvg-name="Central Castries Mindoo Heritage vs Mon Repos Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98056" group-title="St. Lucia T10 Blast, 2024",Central Castries Mindoo Heritage vs Mon Repos Stars
+https://dai.google.com/linear/hls/event/T6G_65GMQY2bDYNau5pKZQ/master.m3u8
 #EXTINF:-1 tvg-name="Muhamand Warriors vs Seven Districts Juniors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98364" group-title="Bukhatir T20 League, 2024",Muhamand Warriors vs Seven Districts Juniors
 https://dai.google.com/linear/hls/event/jFQpDaeOTPmOrdnUjP9MbQ/master.m3u8
-#EXTINF:-1 tvg-name="Warriors vs Rocks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95806" group-title="CSA T20 Challenge, 2024",Warriors vs Rocks
-https://dai.google.com/linear/hls/event/QZ0WdwVqTTimJabKoiJRuQ/master.m3u8
-#EXTINF:-1 tvg-name="AET Tuskers vs Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95805" group-title="CSA T20 Challenge, 2024",AET Tuskers vs Titans
-https://dai.google.com/linear/hls/event/LLyTr05RQx-ZrvFOG1t5Kw/master.m3u8
-#EXTINF:-1 tvg-name="North West Dragons vs DP World Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95804" group-title="CSA T20 Challenge, 2024",North West Dragons vs DP World Lions
-https://dai.google.com/linear/hls/event/LXxdslR_QBKIstS41-hENw/master.m3u8
-#EXTINF:-1 tvg-name="Western Province vs Dolphins" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95803" group-title="CSA T20 Challenge, 2024",Western Province vs Dolphins
-https://dai.google.com/linear/hls/event/cQw08JC2SO--L7mN566TJQ/master.m3u8
