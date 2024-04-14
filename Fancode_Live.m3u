@@ -1,5 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Malo vs Punjab CC Amadora" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97314" group-title="ECS Portugal, 2024",Malo vs Punjab CC Amadora
+https://dai.google.com/linear/hls/event/EmayFRSuQN6iIaRpG1rWgg/master.m3u8
 #EXTINF:-1 tvg-name="Ashtapailu Sports vs Jain Irrigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98222" group-title="Pune Olympia T20 Trophy, 2024",Ashtapailu Sports vs Jain Irrigation
 https://dai.google.com/linear/hls/event/6ZEXxnHMQw290q2R2OiUqA/master.m3u8
-#EXTINF:-1 tvg-name="Oman vs Cambodia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98401" group-title="ACC Men's T20I Premier Cup, 2024",Oman vs Cambodia
-https://dai.google.com/linear/hls/event/RQz-45bIRHCr62YzKbrG7A/master.m3u8
+#EXTINF:-1 tvg-name="Saudi Arabia vs Hong Kong, China" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98402" group-title="ACC Men's T20I Premier Cup, 2024",Saudi Arabia vs Hong Kong, China
+https://dai.google.com/linear/hls/event/SLC1X_n4RhacyjCjK6UMlQ/master.m3u8
+#EXTINF:-1 tvg-name="Geno SC vs Churchill Brothers FC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98443" group-title="Goa Professional League 2023-24",Geno SC vs Churchill Brothers FC
+https://dai.google.com/linear/hls/event/XPoYqQ8wTzaLtQWJauEZFw/master.m3u8
