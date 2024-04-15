@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Grigny Vipers vs Balbyniens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98633" group-title="ECS France, 2024",Grigny Vipers vs Balbyniens
 https://dai.google.com/linear/hls/event/Favtx-_yTGSbRPSYE2CvNg/master.m3u8
+#EXTINF:-1 tvg-name="Qatar U23 vs Indonesia U23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98981" group-title="AFC U23 Asia Cup Qatar 2024",Qatar U23 vs Indonesia U23
+https://dai.google.com/linear/hls/event/Fh07h3ZLRRSmeh7J0QjqvA/master.m3u8
