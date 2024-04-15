@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Villeneuve Super Kings vs Balbyniens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98630" group-title="ECS France, 2024",Villeneuve Super Kings vs Balbyniens
-https://dai.google.com/linear/hls/event/RwaJ4UXnQ3CRhXNMq-B2rg/master.m3u8
+#EXTINF:-1 tvg-name="Grigny Vipers vs Royal 94" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98631" group-title="ECS France, 2024",Grigny Vipers vs Royal 94
+https://dai.google.com/linear/hls/event/tfpGbAgzSBSIKvEwoX_-pA/master.m3u8
 #EXTINF:-1 tvg-name="Kuwait vs Bahrain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98406" group-title="ACC Men's T20I Premier Cup, 2024",Kuwait vs Bahrain
 https://dai.google.com/linear/hls/event/TDQBkprcQNKz5R7hvRwvAg/master.m3u8
 #EXTINF:-1 tvg-name="United Arab Emirates vs Oman" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98405" group-title="ACC Men's T20I Premier Cup, 2024",United Arab Emirates vs Oman
