@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Recreation Cricket Club vs Jain Irrigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98224" group-title="Pune Olympia T20 Trophy, 2024",Recreation Cricket Club vs Jain Irrigation
-https://dai.google.com/linear/hls/event/RXNib06LRTme0yS5ODopEw/master.m3u8
 #EXTINF:-1 tvg-name="Villeneuve Super Kings vs Balbyniens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98630" group-title="ECS France, 2024",Villeneuve Super Kings vs Balbyniens
 https://dai.google.com/linear/hls/event/RwaJ4UXnQ3CRhXNMq-B2rg/master.m3u8
 #EXTINF:-1 tvg-name="Kuwait vs Bahrain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98406" group-title="ACC Men's T20I Premier Cup, 2024",Kuwait vs Bahrain
