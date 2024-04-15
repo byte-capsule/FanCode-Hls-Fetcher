@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Chennai Fire Boys vs Tally CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96460" group-title="Kuwait T10 Ramadan Challengers Cup",Chennai Fire Boys vs Tally CC
+https://dai.google.com/linear/hls/event/bsoqNnRmRBWfiTLttwPp1A/master.m3u8
 #EXTINF:-1 tvg-name="Brickwork Development vs Globelink Weststar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98366" group-title="Bukhatir T20 League, 2024",Brickwork Development vs Globelink Weststar
 https://dai.google.com/linear/hls/event/Yxz855TBRTmTPTHoPtUQ2A/master.m3u8
 #EXTINF:-1 tvg-name="Soufriere Sulphur City Stars vs South Castries Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98058" group-title="St. Lucia T10 Blast, 2024",Soufriere Sulphur City Stars vs South Castries Lions
