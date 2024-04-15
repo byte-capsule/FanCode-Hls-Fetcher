@@ -1,11 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Recreation Cricket Club vs Jain Irrigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98224" group-title="Pune Olympia T20 Trophy, 2024",Recreation Cricket Club vs Jain Irrigation
 https://dai.google.com/linear/hls/event/RXNib06LRTme0yS5ODopEw/master.m3u8
-#EXTINF:-1 tvg-name="Grigny Vipers vs Villeneuve Super Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98629" group-title="ECS France, 2024",Grigny Vipers vs Villeneuve Super Kings
-https://dai.google.com/linear/hls/event/lvHKn2F3SU-GU9QrJF2jgw/master.m3u8
 #EXTINF:-1 tvg-name="Villeneuve Super Kings vs Balbyniens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98630" group-title="ECS France, 2024",Villeneuve Super Kings vs Balbyniens
 https://dai.google.com/linear/hls/event/RwaJ4UXnQ3CRhXNMq-B2rg/master.m3u8
 #EXTINF:-1 tvg-name="Malaysia vs Qatar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98404" group-title="ACC Men's T20I Premier Cup, 2024",Malaysia vs Qatar
 https://dai.google.com/linear/hls/event/0eRx5ayfRvu5lzX2HN3BBQ/master.m3u8
-#EXTINF:-1 tvg-name="Hong Kong, China vs Nepal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98403" group-title="ACC Men's T20I Premier Cup, 2024",Hong Kong, China vs Nepal
-https://dai.google.com/linear/hls/event/7q81uZdmTpe-Hv5qHbiUlw/master.m3u8
