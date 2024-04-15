@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Nok 99 vs Punit Balan Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98223" group-title="Pune Olympia T20 Trophy, 2024",Nok 99 vs Punit Balan Group
-https://dai.google.com/linear/hls/event/gl_ybYV0RNCRSnzdL3VfEA/master.m3u8
 #EXTINF:-1 tvg-name="Malaysia vs Qatar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98404" group-title="ACC Men's T20I Premier Cup, 2024",Malaysia vs Qatar
 https://dai.google.com/linear/hls/event/0eRx5ayfRvu5lzX2HN3BBQ/master.m3u8
 #EXTINF:-1 tvg-name="Nepal vs Hong Kong, China" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98403" group-title="ACC Men's T20I Premier Cup, 2024",Nepal vs Hong Kong, China
 https://dai.google.com/linear/hls/event/7q81uZdmTpe-Hv5qHbiUlw/master.m3u8
+#EXTINF:-1 tvg-name="Nok 99 vs Punit Balan Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98223" group-title="Pune Olympia T20 Trophy, 2024",Nok 99 vs Punit Balan Group
+https://dai.google.com/linear/hls/event/gl_ybYV0RNCRSnzdL3VfEA/master.m3u8
