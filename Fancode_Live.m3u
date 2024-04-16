@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="President XI vs Paris Zalmi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98635" group-title="ECS France, 2024",President XI vs Paris Zalmi
-https://dai.google.com/linear/hls/event/HQYEaCYcQKONafhQGvndBg/master.m3u8
-#EXTINF:-1 tvg-name="Dreux vs Paris Université Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98636" group-title="ECS France, 2024",Dreux vs Paris Université Club
+#EXTINF:-1 tvg-name="Paris Université Club vs Dreux" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98636" group-title="ECS France, 2024",Paris Université Club vs Dreux
 https://dai.google.com/linear/hls/event/7g2LfmCoRMCS6Ep92Acq-A/master.m3u8
 #EXTINF:-1 tvg-name="Cambodia vs Bahrain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98408" group-title="ACC Men's T20I Premier Cup, 2024",Cambodia vs Bahrain
 https://dai.google.com/linear/hls/event/q8X-qa90Q5W32Zh7GvDyYQ/master.m3u8
