@@ -3,5 +3,7 @@
 https://dai.google.com/linear/hls/event/pEeA-zqrTe-Z2OKzyHg30A/master.m3u8
 #EXTINF:-1 tvg-name="President XI vs Paris Zalmi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98635" group-title="ECS France, 2024",President XI vs Paris Zalmi
 https://dai.google.com/linear/hls/event/HQYEaCYcQKONafhQGvndBg/master.m3u8
+#EXTINF:-1 tvg-name="Cambodia vs Bahrain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98408" group-title="ACC Men's T20I Premier Cup, 2024",Cambodia vs Bahrain
+https://dai.google.com/linear/hls/event/q8X-qa90Q5W32Zh7GvDyYQ/master.m3u8
 #EXTINF:-1 tvg-name="Western United vs Adelaide United" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="90934" group-title="A League Men 2023-24",Western United vs Adelaide United
 https://dai.fancode.com/primary/90934_english_hls_4926adfreeta-di/index.m3u8
