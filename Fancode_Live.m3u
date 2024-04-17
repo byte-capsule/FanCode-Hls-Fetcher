@@ -1,9 +1,15 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Micoud Eagles vs Gros Islet Cannon Blasters" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98062" group-title="St. Lucia T10 Blast, 2024",Micoud Eagles vs Gros Islet Cannon Blasters
+https://dai.google.com/linear/hls/event/eel4VHhqToql_S51t4nTGw/master.m3u8
 #EXTINF:-1 tvg-name="CSPT Sarcelles vs Paris Knight Riders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98643" group-title="ECS France, 2024",CSPT Sarcelles vs Paris Knight Riders
 https://dai.google.com/linear/hls/event/nr1HCRzrQQSJGX6hEuxGug/master.m3u8
+#EXTINF:-1 tvg-name="Warriors vs DP World Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95808" group-title="CSA T20 Challenge, 2024",Warriors vs DP World Lions
+https://dai.google.com/linear/hls/event/TpJ8TrztRpiHrnKkTXgOvg/master.m3u8
 #EXTINF:-1 tvg-name="South Africa Women vs Sri Lanka Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97207" group-title="Sri Lanka Women tour of South Africa, 2024",South Africa Women vs Sri Lanka Women
 https://dai.google.com/linear/hls/event/Zj2twGW6S4eaVXGJIoi3mQ/master.m3u8
 #EXTINF:-1 tvg-name="Jamaica Scorpions vs Trinidad &Tobago Red Force" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93733" group-title="West Indies Championship",Jamaica Scorpions vs Trinidad &Tobago Red Force
 https://dai.google.com/linear/hls/event/NCYxuzN9QBu_OKn1Pq4L6A/master.m3u8
 #EXTINF:-1 tvg-name="Vietnam U23 vs Kuwait U23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99060" group-title="AFC U23 Asia Cup Qatar 2024",Vietnam U23 vs Kuwait U23
 https://dai.google.com/linear/hls/event/WmfHO1qaSaGxL65h2fPU8w/master.m3u8
+#EXTINF:-1 tvg-name="Al Ain vs Al-Hilal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93363" group-title="AFC Champions League",Al Ain vs Al-Hilal
+https://dai.google.com/linear/hls/event/D5ha9Aa1QVyPrZ1e2sxfWw/master.m3u8
