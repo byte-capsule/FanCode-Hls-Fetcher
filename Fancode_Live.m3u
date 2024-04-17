@@ -1,15 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Young Lions CC vs Phoenix Strikers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96464" group-title="Kuwait T10 Ramadan Challengers Cup",Young Lions CC vs Phoenix Strikers
-https://dai.google.com/linear/hls/event/YZoD9JcJS4i58R34hOE3jg/master.m3u8
-#EXTINF:-1 tvg-name="Warriors vs DP World Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95808" group-title="CSA T20 Challenge, 2024",Warriors vs DP World Lions
-https://dai.google.com/linear/hls/event/TpJ8TrztRpiHrnKkTXgOvg/master.m3u8
-#EXTINF:-1 tvg-name="South Africa Women vs Sri Lanka Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97207" group-title="Sri Lanka Women tour of South Africa, 2024",South Africa Women vs Sri Lanka Women
-https://dai.google.com/linear/hls/event/Zj2twGW6S4eaVXGJIoi3mQ/master.m3u8
-#EXTINF:-1 tvg-name="Trinidad &Tobago Red Force vs Jamaica Scorpions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93733" group-title="West Indies Championship",Trinidad &Tobago Red Force vs Jamaica Scorpions
-https://dai.google.com/linear/hls/event/NCYxuzN9QBu_OKn1Pq4L6A/master.m3u8
-#EXTINF:-1 tvg-name="Chelsea Women vs Aston Villa Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97995" group-title="Barclays FA Women's Super League 2023-24",Chelsea Women vs Aston Villa Women
-https://dai.fancode.com/primary/97995_english_hls_6157adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Ahtiainen/Lahti vs Vieira/Chamereau" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99156" group-title="Volleyball Womens Beach Pro Tour",Ahtiainen/Lahti vs Vieira/Chamereau
-https://dai.fancode.com/primary/99156_english_hls_9715adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="J. Dong/Wang vs Álvarez M/Moreno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99155" group-title="Volleyball Womens Beach Pro Tour",J. Dong/Wang vs Álvarez M/Moreno
-https://dai.fancode.com/primary/99155_english_hls_3582adfreeta-di/index.m3u8
