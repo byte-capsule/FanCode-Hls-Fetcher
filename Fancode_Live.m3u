@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Young Lions CC vs Phoenix Strikers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96464" group-title="Kuwait T10 Ramadan Challengers Cup",Young Lions CC vs Phoenix Strikers
+https://dai.google.com/linear/hls/event/YZoD9JcJS4i58R34hOE3jg/master.m3u8
 #EXTINF:-1 tvg-name="Micoud Eagles vs Gros Islet Cannon Blasters" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98062" group-title="St. Lucia T10 Blast, 2024",Micoud Eagles vs Gros Islet Cannon Blasters
 https://dai.google.com/linear/hls/event/eel4VHhqToql_S51t4nTGw/master.m3u8
 #EXTINF:-1 tvg-name="CSPT Sarcelles vs Paris Knight Riders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98643" group-title="ECS France, 2024",CSPT Sarcelles vs Paris Knight Riders
@@ -13,3 +15,5 @@ https://dai.google.com/linear/hls/event/NCYxuzN9QBu_OKn1Pq4L6A/master.m3u8
 https://dai.google.com/linear/hls/event/WmfHO1qaSaGxL65h2fPU8w/master.m3u8
 #EXTINF:-1 tvg-name="Al Ain vs Al-Hilal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93363" group-title="AFC Champions League",Al Ain vs Al-Hilal
 https://dai.google.com/linear/hls/event/D5ha9Aa1QVyPrZ1e2sxfWw/master.m3u8
+#EXTINF:-1 tvg-name="Placette/Richard vs Klinger D./Klinger R." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99154" group-title="Volleyball Womens Beach Pro Tour",Placette/Richard vs Klinger D./Klinger R.
+https://dai.fancode.com/primary/99154_english_hls_110adfreeta-no/index.m3u8
