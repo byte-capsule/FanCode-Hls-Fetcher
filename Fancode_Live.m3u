@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Nepal vs Saudi Arabia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98410" group-title="ACC Men's T20I Premier Cup, 2024",Nepal vs Saudi Arabia
+https://dai.google.com/linear/hls/event/JlOQheQISF2B0tjFBTy2zg/master.m3u8
+#EXTINF:-1 tvg-name="Malaysia vs Hong Kong, China" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98409" group-title="ACC Men's T20I Premier Cup, 2024",Malaysia vs Hong Kong, China
+https://dai.google.com/linear/hls/event/w-22GTKfSqiBat9vTD7fXQ/master.m3u8
