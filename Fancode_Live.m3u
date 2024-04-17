@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Metro CC vs Jain Irrigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98228" group-title="Pune Olympia T20 Trophy, 2024",Metro CC vs Jain Irrigation
-https://dai.google.com/linear/hls/event/ojD5QTspQVOQL-dG8l8AxA/master.m3u8
 #EXTINF:-1 tvg-name="Oman vs Kuwait" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98412" group-title="ACC Men's T20I Premier Cup, 2024",Oman vs Kuwait
 https://dai.google.com/linear/hls/event/P_VF41aGQbWS2nuCVZJ4ow/master.m3u8
 #EXTINF:-1 tvg-name="Cambodia vs United Arab Emirates" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98411" group-title="ACC Men's T20I Premier Cup, 2024",Cambodia vs United Arab Emirates
@@ -9,7 +7,9 @@ https://dai.google.com/linear/hls/event/W8o5mDLHTp2Qi6lsYCHhpw/master.m3u8
 https://dai.google.com/linear/hls/event/pA1X_IILQKmjkEGOdgCBhA/master.m3u8
 #EXTINF:-1 tvg-name="AET Tuskers vs Rocks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95807" group-title="CSA T20 Challenge, 2024",AET Tuskers vs Rocks
 https://dai.google.com/linear/hls/event/hC-5ADS_THeDPTR80uvEEQ/master.m3u8
-#EXTINF:-1 tvg-name="Ulsan Hyundai vs Yokohama F. Marinos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93364" group-title="AFC Champions League",Ulsan Hyundai vs Yokohama F. Marinos
-https://dai.google.com/linear/hls/event/WIV-upyWTcWbaLxqk5MkgQ/master.m3u8
+#EXTINF:-1 tvg-name="South Africa Women vs Sri Lanka Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97207" group-title="Sri Lanka Women tour of South Africa, 2024",South Africa Women vs Sri Lanka Women
+https://dai.google.com/linear/hls/event/Zj2twGW6S4eaVXGJIoi3mQ/master.m3u8
 #EXTINF:-1 tvg-name="Churchill Brothers FC vs Sporting Clube de Goa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98439" group-title="Goa Professional League 2023-24",Churchill Brothers FC vs Sporting Clube de Goa
 https://dai.fancode.com/primary/98439_english_hls_3958adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Abdysh-Ata vs Central Coast Mariners" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97042" group-title="AFC Cup",Abdysh-Ata vs Central Coast Mariners
+https://dai.google.com/linear/hls/event/FynrHPRaSH6vCVuT6iSM-Q/master.m3u8
