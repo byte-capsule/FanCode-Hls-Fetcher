@@ -1,14 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Oman vs Kuwait" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98412" group-title="ACC Men's T20I Premier Cup, 2024",Oman vs Kuwait
-https://dai.google.com/linear/hls/event/P_VF41aGQbWS2nuCVZJ4ow/master.m3u8
-#EXTINF:-1 tvg-name="Cambodia vs United Arab Emirates" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98411" group-title="ACC Men's T20I Premier Cup, 2024",Cambodia vs United Arab Emirates
-https://dai.google.com/linear/hls/event/W8o5mDLHTp2Qi6lsYCHhpw/master.m3u8
 #EXTINF:-1 tvg-name="Grigny Vipers vs CSPT Sarcelles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98641" group-title="ECS France, 2024",Grigny Vipers vs CSPT Sarcelles
 https://dai.google.com/linear/hls/event/pA1X_IILQKmjkEGOdgCBhA/master.m3u8
 #EXTINF:-1 tvg-name="AET Tuskers vs Rocks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95807" group-title="CSA T20 Challenge, 2024",AET Tuskers vs Rocks
 https://dai.google.com/linear/hls/event/hC-5ADS_THeDPTR80uvEEQ/master.m3u8
 #EXTINF:-1 tvg-name="South Africa Women vs Sri Lanka Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97207" group-title="Sri Lanka Women tour of South Africa, 2024",South Africa Women vs Sri Lanka Women
 https://dai.google.com/linear/hls/event/Zj2twGW6S4eaVXGJIoi3mQ/master.m3u8
+#EXTINF:-1 tvg-name="Uzbekistan U23 vs Malaysia U23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98984" group-title="AFC U23 Asia Cup Qatar 2024",Uzbekistan U23 vs Malaysia U23
+https://dai.google.com/linear/hls/event/VJrgAmD8SYqoXtBVVqKg0Q/master.m3u8
 #EXTINF:-1 tvg-name="Abdysh-Ata vs Central Coast Mariners" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97042" group-title="AFC Cup",Abdysh-Ata vs Central Coast Mariners
 https://dai.google.com/linear/hls/event/FynrHPRaSH6vCVuT6iSM-Q/master.m3u8
 #EXTINF:-1 tvg-name="Churchill Brothers FC vs Sporting Clube de Goa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98439" group-title="Goa Professional League 2023-24",Churchill Brothers FC vs Sporting Clube de Goa
