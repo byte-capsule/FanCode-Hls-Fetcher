@@ -1,1 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Trinidad &Tobago Red Force vs Jamaica Scorpions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93733" group-title="West Indies Championship",Trinidad &Tobago Red Force vs Jamaica Scorpions
+https://dai.google.com/linear/hls/event/NCYxuzN9QBu_OKn1Pq4L6A/master.m3u8
+#EXTINF:-1 tvg-name="Ahtiainen/Lahti vs Ittlinger/Borger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99162" group-title="Volleyball Womens Beach Pro Tour",Ahtiainen/Lahti vs Ittlinger/Borger
+https://dai.fancode.com/primary/99162_english_hls_5745adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Paulikiene/Raupelyte vs Tainá/Victoria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99161" group-title="Volleyball Womens Beach Pro Tour",Paulikiene/Raupelyte vs Tainá/Victoria
+https://mls3.fancode.com/7d755ff5-8242-4ffc-a8b7-12dbaf6bceba/master.m3u8
