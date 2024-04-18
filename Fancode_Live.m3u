@@ -1,10 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Soufriere Sulphur City Stars vs Mon Repos Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98064" group-title="St. Lucia T10 Blast, 2024",Soufriere Sulphur City Stars vs Mon Repos Stars
-https://dai.google.com/linear/hls/event/T_wnrCHyThCMSR7cuslgGw/master.m3u8
+#EXTINF:-1 tvg-name="Rising Star CC vs Centurions United" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96466" group-title="Kuwait T10 Ramadan Challengers Cup",Rising Star CC vs Centurions United
+https://dai.google.com/linear/hls/event/oX7iJmF-QYKZJ_vggHk95Q/master.m3u8
 #EXTINF:-1 tvg-name="Trinidad &Tobago Red Force vs Jamaica Scorpions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93733" group-title="West Indies Championship",Trinidad &Tobago Red Force vs Jamaica Scorpions
 https://dai.google.com/linear/hls/event/NCYxuzN9QBu_OKn1Pq4L6A/master.m3u8
-#EXTINF:-1 tvg-name="Åhman/Hellvig vs van de Velde/Immers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98726" group-title="Volleyball Mens Beach Pro Tour",Åhman/Hellvig vs van de Velde/Immers
-https://dai.fancode.com/primary/98726_english_hls_9867adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Melissa/Brandie vs Tainá/Victoria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98751" group-title="Volleyball Womens Beach Pro Tour",Melissa/Brandie vs Tainá/Victoria
+https://dai.fancode.com/primary/98751_english_hls_7267adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Carol/Barbara vs Gutierrez/Flores" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98750" group-title="Volleyball Womens Beach Pro Tour",Carol/Barbara vs Gutierrez/Flores
+https://dai.fancode.com/primary/98750_english_hls_512adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Łosiak/Bryl vs George/Andre" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98729" group-title="Volleyball Mens Beach Pro Tour",Łosiak/Bryl vs George/Andre
 https://dai.google.com/linear/hls/event/D_8BPlvxRS-sdATS8iAE7A/master.m3u8
 #EXTINF:-1 tvg-name="Perusic/Schweiner vs Ranghieri/Carambula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98728" group-title="Volleyball Mens Beach Pro Tour",Perusic/Schweiner vs Ranghieri/Carambula
