@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Soufriere Sulphur City Stars vs Mon Repos Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98064" group-title="St. Lucia T10 Blast, 2024",Soufriere Sulphur City Stars vs Mon Repos Stars
 https://dai.google.com/linear/hls/event/T_wnrCHyThCMSR7cuslgGw/master.m3u8
-#EXTINF:-1 tvg-name="Villeneuve Super Kings vs Royal 94" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98648" group-title="ECS France, 2024",Villeneuve Super Kings vs Royal 94
-https://dai.google.com/linear/hls/event/tBfXS0ihR3-6hESdCfZB7A/master.m3u8
 #EXTINF:-1 tvg-name="Trinidad &Tobago Red Force vs Jamaica Scorpions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93733" group-title="West Indies Championship",Trinidad &Tobago Red Force vs Jamaica Scorpions
 https://dai.google.com/linear/hls/event/NCYxuzN9QBu_OKn1Pq4L6A/master.m3u8
 #EXTINF:-1 tvg-name="New Zealand vs Pakistan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98552" group-title="New Zealand tour of Pakistan, 2024",New Zealand vs Pakistan
@@ -14,4 +12,4 @@ https://dai.fancode.com/primary/98748_english_hls_358adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Brouwer/Meeuwsen vs Grimalt M./Grimalt E." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98727" group-title="Volleyball Mens Beach Pro Tour",Brouwer/Meeuwsen vs Grimalt M./Grimalt E.
 https://dai.fancode.com/primary/98727_english_hls_6947adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Åhman/Hellvig vs van de Velde/Immers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98726" group-title="Volleyball Mens Beach Pro Tour",Åhman/Hellvig vs van de Velde/Immers
- Free Trial attempt unsuccessful......it requires Premium Account
+https://dai.fancode.com/primary/98726_english_hls_9867adfreeta-no/index.m3u8

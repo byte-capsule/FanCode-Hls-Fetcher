@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 8,
-  "updated_on": "18-04-2024 on 10:41:08 PM \ud83c\udf19",
+  "channels_amount": 7,
+  "updated_on": "18-04-2024 on 11:03:32 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -14,17 +14,6 @@
       "team_2": "Mon Repos Stars",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MONR@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/T_wnrCHyThCMSR7cuslgGw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECS France, 2024",
-      "match_id": 98648,
-      "match_name": "Villeneuve Super Kings vs Royal 94",
-      "team_1": "Villeneuve Super Kings",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/VSK-CR1@2x.png",
-      "team_2": "Royal 94",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/R94-CR1@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/tBfXS0ihR3-6hESdCfZB7A/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -90,7 +79,7 @@
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-SWD@2x.png",
       "team_2": "van de Velde/Immers",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-NTH@2x.png",
-      "stream_link": " Free Trial attempt unsuccessful......it requires Premium Account"
+      "stream_link": "https://dai.fancode.com/primary/98726_english_hls_9867adfreeta-no/index.m3u8"
     }
   ]
 }
