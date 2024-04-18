@@ -7,3 +7,7 @@ https://dai.google.com/linear/hls/event/NCYxuzN9QBu_OKn1Pq4L6A/master.m3u8
 https://dai.google.com/linear/hls/event/X6mphc46T9awkRND-bHE1w/master.m3u8
 #EXTINF:-1 tvg-name="Indonesia U23 vs Australia U23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98985" group-title="AFC U23 Asia Cup Qatar 2024",Indonesia U23 vs Australia U23
 https://dai.google.com/linear/hls/event/sxE1jwK9SMKFhZso8ynLBw/master.m3u8
+#EXTINF:-1 tvg-name="Stam/Schoon vs Klinger D./Klinger R." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98747" group-title="Volleyball Womens Beach Pro Tour",Stam/Schoon vs Klinger D./Klinger R.
+https://dai.fancode.com/primary/98747_english_hls_6150adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Nuss/Kloth vs Ludwig/Lippmann" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98746" group-title="Volleyball Womens Beach Pro Tour",Nuss/Kloth vs Ludwig/Lippmann
+https://dai.fancode.com/primary/98746_english_hls_9674adfreeta-no/index.m3u8
