@@ -1,9 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Young Lions CC vs Kuwait Nationals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96472" group-title="Kuwait T10 Ramadan Challengers Cup",Young Lions CC vs Kuwait Nationals
+https://dai.google.com/linear/hls/event/D8g-EVqCT5qoC_xhlOSZCg/master.m3u8
 #EXTINF:-1 tvg-name="Paris Zalmi vs CSPT Sarcelles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98651" group-title="ECS France, 2024",Paris Zalmi vs CSPT Sarcelles
 https://dai.google.com/linear/hls/event/oRfE52a_T-SVyBZcj4QiJQ/master.m3u8
 #EXTINF:-1 tvg-name="Hong Kong, China vs Oman" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98414" group-title="ACC Men's T20I Premier Cup, 2024",Hong Kong, China vs Oman
 https://dai.google.com/linear/hls/event/wx3eAMAvRBaP8L901SYL7w/master.m3u8
 #EXTINF:-1 tvg-name="Trinidad &Tobago Red Force vs Jamaica Scorpions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93733" group-title="West Indies Championship",Trinidad &Tobago Red Force vs Jamaica Scorpions
 https://dai.google.com/linear/hls/event/NCYxuzN9QBu_OKn1Pq4L6A/master.m3u8
-#EXTINF:-1 tvg-name="Newcastle Jets vs Wellington Phoenix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97528" group-title="A League Men 2023-24",Newcastle Jets vs Wellington Phoenix
-https://dai.fancode.com/primary/97528_english_hls_5562adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="AET Tuskers vs Dolphins" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95810" group-title="CSA T20 Challenge, 2024",AET Tuskers vs Dolphins
+https://dai.google.com/linear/hls/event/a2Qoo5WeRdmxbf_9pt9jkA/master.m3u8
