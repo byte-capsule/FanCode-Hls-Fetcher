@@ -1,8 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Trinidad &Tobago Red Force vs Jamaica Scorpions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93733" group-title="West Indies Championship",Trinidad &Tobago Red Force vs Jamaica Scorpions
 https://dai.google.com/linear/hls/event/NCYxuzN9QBu_OKn1Pq4L6A/master.m3u8
-#EXTINF:-1 tvg-name="Ranghieri/Carambula vs George/Andre" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98737" group-title="Volleyball Mens Beach Pro Tour",Ranghieri/Carambula vs George/Andre
-https://dai.fancode.com/primary/98737_english_hls_6558adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Sarabia/Cruz vs Alayo/Diaz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98739" group-title="Volleyball Mens Beach Pro Tour",Sarabia/Cruz vs Alayo/Diaz
+https://dai.fancode.com/primary/98739_english_hls_6066adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Partain/Benesh vs Ehlers/Wickler" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98738" group-title="Volleyball Mens Beach Pro Tour",Partain/Benesh vs Ehlers/Wickler
+https://dai.fancode.com/primary/98738_english_hls_9187adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Gottardi/Menegatti vs Pavan/McBain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98759" group-title="Volleyball Womens Beach Pro Tour",Gottardi/Menegatti vs Pavan/McBain
 https://dai.fancode.com/primary/98759_english_hls_6252adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Hughes/Cheng vs Liliana/Paula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98758" group-title="Volleyball Womens Beach Pro Tour",Hughes/Cheng vs Liliana/Paula
