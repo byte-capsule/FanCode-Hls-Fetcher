@@ -1,9 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Nok 99 vs Ashtapailu Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98232" group-title="Pune Olympia T20 Trophy, 2024",Nok 99 vs Ashtapailu Sports
 https://dai.google.com/linear/hls/event/6oBufJbMT2O9RjAIqUKX5A/master.m3u8
-#EXTINF:-1 tvg-name="Balbyniens vs Paris Zalmi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98649" group-title="ECS France, 2024",Balbyniens vs Paris Zalmi
-https://dai.google.com/linear/hls/event/47G14ZUoSt2CG7R3b9Kydg/master.m3u8
+#EXTINF:-1 tvg-name="Dreux vs Balbyniens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98650" group-title="ECS France, 2024",Dreux vs Balbyniens
+https://dai.google.com/linear/hls/event/WLeMWIzCSgqSGrPK6lDRzg/master.m3u8
 #EXTINF:-1 tvg-name="Trinidad &Tobago Red Force vs Jamaica Scorpions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93733" group-title="West Indies Championship",Trinidad &Tobago Red Force vs Jamaica Scorpions
 https://dai.google.com/linear/hls/event/NCYxuzN9QBu_OKn1Pq4L6A/master.m3u8
-#EXTINF:-1 tvg-name="Nepal vs United Arab Emirates" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98413" group-title="ACC Men's T20I Premier Cup, 2024",Nepal vs United Arab Emirates
-https://dai.google.com/linear/hls/event/dMx5_apyQc20jEs0VfufYQ/master.m3u8
