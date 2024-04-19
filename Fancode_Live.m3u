@@ -1,11 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Trinidad &Tobago Red Force vs Jamaica Scorpions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93733" group-title="West Indies Championship",Trinidad &Tobago Red Force vs Jamaica Scorpions
 https://dai.google.com/linear/hls/event/NCYxuzN9QBu_OKn1Pq4L6A/master.m3u8
+#EXTINF:-1 tvg-name="Ranghieri/Carambula vs George/Andre" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98737" group-title="Volleyball Mens Beach Pro Tour",Ranghieri/Carambula vs George/Andre
+https://dai.fancode.com/primary/98737_english_hls_6558adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Perusic/Schweiner vs Łosiak/Bryl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98736" group-title="Volleyball Mens Beach Pro Tour",Perusic/Schweiner vs Łosiak/Bryl
+https://dai.fancode.com/primary/98736_english_hls_9932adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="van de Velde/Immers vs Grimalt M./Grimalt E." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98735" group-title="Volleyball Mens Beach Pro Tour",van de Velde/Immers vs Grimalt M./Grimalt E.
 https://dai.fancode.com/primary/98735_english_hls_6053adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Åhman/Hellvig vs Brouwer/Meeuwsen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98734" group-title="Volleyball Mens Beach Pro Tour",Åhman/Hellvig vs Brouwer/Meeuwsen
-https://dai.fancode.com/primary/98734_english_hls_9550adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Brunner/Hüberli vs J. Dong/Wang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98757" group-title="Volleyball Womens Beach Pro Tour",Brunner/Hüberli vs J. Dong/Wang
-https://dai.fancode.com/primary/98757_english_hls_6285adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Ittlinger/Borger vs Müller/Tillmann" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98756" group-title="Volleyball Womens Beach Pro Tour",Ittlinger/Borger vs Müller/Tillmann
- Free Trial attempt unsuccessful......it requires Premium Account
