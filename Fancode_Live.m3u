@@ -5,3 +5,5 @@ https://dai.google.com/linear/hls/event/6oBufJbMT2O9RjAIqUKX5A/master.m3u8
 https://dai.google.com/linear/hls/event/WLeMWIzCSgqSGrPK6lDRzg/master.m3u8
 #EXTINF:-1 tvg-name="Trinidad &Tobago Red Force vs Jamaica Scorpions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93733" group-title="West Indies Championship",Trinidad &Tobago Red Force vs Jamaica Scorpions
 https://dai.google.com/linear/hls/event/NCYxuzN9QBu_OKn1Pq4L6A/master.m3u8
+#EXTINF:-1 tvg-name="Newcastle Jets vs Wellington Phoenix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97528" group-title="A League Men 2023-24",Newcastle Jets vs Wellington Phoenix
+https://dai.fancode.com/primary/97528_english_hls_5562adfreeta-di/index.m3u8
