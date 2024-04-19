@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Kuwait Nationals vs Young Lions CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96472" group-title="Kuwait T10 Ramadan Challengers Cup",Kuwait Nationals vs Young Lions CC
 https://dai.google.com/linear/hls/event/D8g-EVqCT5qoC_xhlOSZCg/master.m3u8
-#EXTINF:-1 tvg-name="Paris Zalmi vs CSPT Sarcelles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98651" group-title="ECS France, 2024",Paris Zalmi vs CSPT Sarcelles
-https://dai.google.com/linear/hls/event/oRfE52a_T-SVyBZcj4QiJQ/master.m3u8
+#EXTINF:-1 tvg-name="Dreux vs CSPT Sarcelles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98652" group-title="ECS France, 2024",Dreux vs CSPT Sarcelles
+https://dai.google.com/linear/hls/event/3grL3EK0Rsa7KQ2V20q4pg/master.m3u8
 #EXTINF:-1 tvg-name="Hong Kong, China vs Oman" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98414" group-title="ACC Men's T20I Premier Cup, 2024",Hong Kong, China vs Oman
 https://dai.google.com/linear/hls/event/wx3eAMAvRBaP8L901SYL7w/master.m3u8
 #EXTINF:-1 tvg-name="AET Tuskers vs Dolphins" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95810" group-title="CSA T20 Challenge, 2024",AET Tuskers vs Dolphins
