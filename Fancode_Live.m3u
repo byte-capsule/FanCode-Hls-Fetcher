@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Rockstar Champions vs NCM Investment-B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96470" group-title="Kuwait T10 Ramadan Challengers Cup",Rockstar Champions vs NCM Investment-B
+https://dai.google.com/linear/hls/event/Uo284ZM2TjCurPGxJEbh5A/master.m3u8
 #EXTINF:-1 tvg-name="Trinidad &Tobago Red Force vs Jamaica Scorpions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93733" group-title="West Indies Championship",Trinidad &Tobago Red Force vs Jamaica Scorpions
 https://dai.google.com/linear/hls/event/NCYxuzN9QBu_OKn1Pq4L6A/master.m3u8
 #EXTINF:-1 tvg-name="Jain Irrigation vs Punit Balan Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98231" group-title="Pune Olympia T20 Trophy, 2024",Jain Irrigation vs Punit Balan Group
