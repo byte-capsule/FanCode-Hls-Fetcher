@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="City Cricket Club vs 4 Season Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98886" group-title="Assam Premier Club Championship, 2024",City Cricket Club vs 4 Season Club
-https://dai.google.com/linear/hls/event/5dDfardKR4aQ1Zjpws-PSg/master.m3u8
+#EXTINF:-1 tvg-name="Rangia Cricket Association vs Napcc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98887" group-title="Assam Premier Club Championship, 2024",Rangia Cricket Association vs Napcc
+https://dai.google.com/linear/hls/event/AXGVWlplRVGYrrlrDfcfhA/master.m3u8
 #EXTINF:-1 tvg-name="Western Sydney Wanderers vs Melbourne City" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97530" group-title="A League Men 2023-24",Western Sydney Wanderers vs Melbourne City
 https://dai.fancode.com/primary/97530_english_hls_5748adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Consadole Sapporo vs Sanfrecce Hiroshima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97987" group-title="J League 2024",Consadole Sapporo vs Sanfrecce Hiroshima
-https://dai.fancode.com/primary/97987_english_hls_5148adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Qualifying" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95133" group-title="F1 LENOVO CHINESE GRAND PRIX 2024",Qualifying
+https://livecf.fancode.com/95133_english_hls_5417adfreeta-no/index.m3u8
