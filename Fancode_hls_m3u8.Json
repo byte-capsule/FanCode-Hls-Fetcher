@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 6,
-  "updated_on": "20-04-2024 on 7:40:59 PM \ud83c\udf19",
+  "channels_amount": 4,
+  "updated_on": "20-04-2024 on 8:02:49 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -14,17 +14,6 @@
       "team_2": "Paris Universit\u00e9 Club",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PUC-CR1@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/34zqbuADR0Kd7Hl_QBYJPw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ACC Men's T20I Premier Cup, 2024",
-      "match_id": 98415,
-      "match_name": "Nepal vs Hong Kong, China",
-      "team_1": "Nepal",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
-      "team_2": "Hong Kong, China",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HK@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/VGH2OlsERFK6FTQ68sIyCA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -47,17 +36,6 @@
       "team_2": "Vietnam U23",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VIET@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/QBwHUwbkTd6tBTmSevJ86w/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "Chinese Super League 2024",
-      "match_id": 97938,
-      "match_name": "Nantong Zhiyun vs Shanghai Shenhua",
-      "team_1": "Nantong Zhiyun",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NANT@2x.png",
-      "team_2": "Shanghai Shenhua",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHENUA@2x.png",
-      "stream_link": "https://dai.fancode.com/primary/97938_english_hls_5564adfreeta-di/index.m3u8"
     },
     {
       "event_catagory": "golf",
