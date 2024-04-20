@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Young Lions CC vs Super XI Strikers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96477" group-title="Kuwait T10 Ramadan Challengers Cup",Young Lions CC vs Super XI Strikers
+https://dai.google.com/linear/hls/event/R8h9LQIvT9uLLoh6tUQw3w/master.m3u8
 #EXTINF:-1 tvg-name="Mon Repos Stars vs Gros Islet Cannon Blasters" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98068" group-title="St. Lucia T10 Blast, 2024",Mon Repos Stars vs Gros Islet Cannon Blasters
 https://dai.google.com/linear/hls/event/KIgT6yETSSiUuz8QJFn-TQ/master.m3u8
 #EXTINF:-1 tvg-name="Paris Knight Riders vs Balbyniens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98658" group-title="ECS France, 2024",Paris Knight Riders vs Balbyniens
