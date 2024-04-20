@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 5,
-  "updated_on": "20-04-2024 on 5:21:14 PM \ud83c\udf1e",
+  "channels_amount": 6,
+  "updated_on": "20-04-2024 on 5:41:13 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -47,6 +47,17 @@
       "team_2": "Sydney FC",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYDA@2x.png",
       "stream_link": "https://dai.fancode.com/primary/97532_english_hls_5663adfreeta-di/index.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "EFL Championship 2023-24",
+      "match_id": 97965,
+      "match_name": "Leicester City vs West Bromwich Albion",
+      "team_1": "Leicester City",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LEICS@2x.png",
+      "team_2": "West Bromwich Albion",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WESTB@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/iAEcFkcIS9ikmNp1xa_wgA/master.m3u8"
     },
     {
       "event_catagory": "golf",

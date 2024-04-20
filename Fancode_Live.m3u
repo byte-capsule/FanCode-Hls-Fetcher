@@ -7,5 +7,7 @@ https://dai.google.com/linear/hls/event/VGH2OlsERFK6FTQ68sIyCA/master.m3u8
 https://dai.google.com/linear/hls/event/31kD2XE5TYyTvNazCTfhTw/master.m3u8
 #EXTINF:-1 tvg-name="Macarthur vs Sydney FC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97532" group-title="A League Men 2023-24",Macarthur vs Sydney FC
 https://dai.fancode.com/primary/97532_english_hls_5663adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Leicester City vs West Bromwich Albion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97965" group-title="EFL Championship 2023-24",Leicester City vs West Bromwich Albion
+https://dai.google.com/linear/hls/event/iAEcFkcIS9ikmNp1xa_wgA/master.m3u8
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98083" group-title="LET Joburg Ladies Open",Day 1
 https://dai.google.com/linear/hls/event/WEAryMVSTX2QsPkH0xmFEg/master.m3u8
