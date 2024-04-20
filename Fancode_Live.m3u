@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Balbyniens vs Paris Université Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98657" group-title="ECS France, 2024",Balbyniens vs Paris Université Club
+https://dai.google.com/linear/hls/event/34zqbuADR0Kd7Hl_QBYJPw/master.m3u8
 #EXTINF:-1 tvg-name="Nepal vs Hong Kong, China" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98415" group-title="ACC Men's T20I Premier Cup, 2024",Nepal vs Hong Kong, China
 https://dai.google.com/linear/hls/event/VGH2OlsERFK6FTQ68sIyCA/master.m3u8
 #EXTINF:-1 tvg-name="IPRC Kigali CC vs Zonic Tigers CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96679" group-title="RCA Men's T20, 2024",IPRC Kigali CC vs Zonic Tigers CC
