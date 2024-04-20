@@ -3,13 +3,9 @@
 https://dai.google.com/linear/hls/event/5dDfardKR4aQ1Zjpws-PSg/master.m3u8
 #EXTINF:-1 tvg-name="Punit Balan Group vs Nok 99" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98233" group-title="Pune Olympia T20 Trophy, 2024",Punit Balan Group vs Nok 99
 https://dai.google.com/linear/hls/event/BJtfpdFpT_WwsGuBBxaH0g/master.m3u8
-#EXTINF:-1 tvg-name="Sprint" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95135" group-title="F1 LENOVO CHINESE GRAND PRIX 2024",Sprint
-https://livecf.fancode.com/95135_english_hls_5889adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Welterweight & Featherweights" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95319" group-title="Professional Fighters League",Welterweight & Featherweights
 https://dai.google.com/linear/hls/event/dSuR-_WJS0W7XtwVrjEzNQ/master.m3u8
-#EXTINF:-1 tvg-name="Perusic/Schweiner vs Alayo/Diaz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99352" group-title="Volleyball Mens Beach Pro Tour",Perusic/Schweiner vs Alayo/Diaz
-https://dai.fancode.com/primary/99352_english_hls_5935adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Łosiak/Bryl vs Partain/Benesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99351" group-title="Volleyball Mens Beach Pro Tour",Łosiak/Bryl vs Partain/Benesh
-https://dai.fancode.com/primary/99351_english_hls_9469adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Boermans/de Groot vs Brouwer/Meeuwsen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99354" group-title="Volleyball Mens Beach Pro Tour",Boermans/de Groot vs Brouwer/Meeuwsen
+https://dai.fancode.com/primary/99354_english_hls_5835adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Crabb Tr./Brunner vs van de Velde/Immers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99353" group-title="Volleyball Mens Beach Pro Tour",Crabb Tr./Brunner vs van de Velde/Immers
- Free Trial attempt unsuccessful......it requires Premium Account
+https://dai.fancode.com/primary/99353_english_hls_9200adfreeta-di/index.m3u8
