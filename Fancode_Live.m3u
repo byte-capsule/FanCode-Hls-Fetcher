@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Jain Irrigation vs Ashtapailu Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98234" group-title="Pune Olympia T20 Trophy, 2024",Jain Irrigation vs Ashtapailu Sports
-https://dai.google.com/linear/hls/event/h7bTBoUZSnOWOeeA0zzsLA/master.m3u8
-#EXTINF:-1 tvg-name="Balbyniens vs President XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98655" group-title="ECS France, 2024",Balbyniens vs President XI
-https://dai.google.com/linear/hls/event/b1lHQ627TFyFVsqHpAqnYg/master.m3u8
 #EXTINF:-1 tvg-name="Nepal vs Hong Kong, China" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98415" group-title="ACC Men's T20I Premier Cup, 2024",Nepal vs Hong Kong, China
 https://dai.google.com/linear/hls/event/VGH2OlsERFK6FTQ68sIyCA/master.m3u8
 #EXTINF:-1 tvg-name="Macarthur vs Sydney FC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97532" group-title="A League Men 2023-24",Macarthur vs Sydney FC
 https://dai.fancode.com/primary/97532_english_hls_5663adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98083" group-title="LET Joburg Ladies Open",Day 1
+https://dai.google.com/linear/hls/event/WEAryMVSTX2QsPkH0xmFEg/master.m3u8
