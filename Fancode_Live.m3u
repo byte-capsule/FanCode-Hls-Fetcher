@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Welterweight & Featherweights" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95319" group-title="Professional Fighters League",Welterweight & Featherweights
 https://dai.google.com/linear/hls/event/dSuR-_WJS0W7XtwVrjEzNQ/master.m3u8
-#EXTINF:-1 tvg-name="Müller/Tillmann vs Nuss/Kloth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99348" group-title="Volleyball Womens Beach Pro Tour",Müller/Tillmann vs Nuss/Kloth
-https://dai.fancode.com/primary/99348_english_hls_5452adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Ittlinger/Borger vs Ludwig/Lippmann" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99347" group-title="Volleyball Womens Beach Pro Tour",Ittlinger/Borger vs Ludwig/Lippmann
-https://dai.fancode.com/primary/99347_english_hls_5645adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Hughes/Cheng vs Tainá/Victoria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99350" group-title="Volleyball Womens Beach Pro Tour",Hughes/Cheng vs Tainá/Victoria
+https://dai.fancode.com/primary/99350_english_hls_8808adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Pavan/McBain vs Melissa/Brandie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99349" group-title="Volleyball Womens Beach Pro Tour",Pavan/McBain vs Melissa/Brandie
+https://dai.fancode.com/primary/99349_english_hls_2615adfreeta-di/index.m3u8
