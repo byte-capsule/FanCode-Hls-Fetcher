@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Paris Knight Riders vs Balbyniens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98658" group-title="ECS France, 2024",Paris Knight Riders vs Balbyniens
+https://dai.google.com/linear/hls/event/tvscg9TQS3OOcCy_gNIGUA/master.m3u8
 #EXTINF:-1 tvg-name="New Zealand vs Pakistan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98553" group-title="New Zealand tour of Pakistan, 2024",New Zealand vs Pakistan
 https://dai.fancode.com/primary/98553_english_hls_6153adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Watford vs Hull City" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98032" group-title="EFL Championship 2023-24",Watford vs Hull City
