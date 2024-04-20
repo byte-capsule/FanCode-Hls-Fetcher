@@ -1,9 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="City Cricket Club vs 4 Season Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98886" group-title="Assam Premier Club Championship, 2024",City Cricket Club vs 4 Season Club
+https://dai.google.com/linear/hls/event/5dDfardKR4aQ1Zjpws-PSg/master.m3u8
 #EXTINF:-1 tvg-name="Sprint" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95135" group-title="F1 LENOVO CHINESE GRAND PRIX 2024",Sprint
 https://livecf.fancode.com/95135_english_hls_5889adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Welterweight & Featherweights" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95319" group-title="Professional Fighters League",Welterweight & Featherweights
 https://dai.google.com/linear/hls/event/dSuR-_WJS0W7XtwVrjEzNQ/master.m3u8
-#EXTINF:-1 tvg-name="Hughes/Cheng vs Tainá/Victoria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99350" group-title="Volleyball Womens Beach Pro Tour",Hughes/Cheng vs Tainá/Victoria
-https://dai.fancode.com/primary/99350_english_hls_8808adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Pavan/McBain vs Melissa/Brandie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99349" group-title="Volleyball Womens Beach Pro Tour",Pavan/McBain vs Melissa/Brandie
-https://dai.fancode.com/primary/99349_english_hls_2615adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Perusic/Schweiner vs Alayo/Diaz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99352" group-title="Volleyball Mens Beach Pro Tour",Perusic/Schweiner vs Alayo/Diaz
+https://dai.fancode.com/primary/99352_english_hls_5935adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Łosiak/Bryl vs Partain/Benesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99351" group-title="Volleyball Mens Beach Pro Tour",Łosiak/Bryl vs Partain/Benesh
+https://dai.fancode.com/primary/99351_english_hls_9469adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Crabb Tr./Brunner vs van de Velde/Immers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99353" group-title="Volleyball Mens Beach Pro Tour",Crabb Tr./Brunner vs van de Velde/Immers
+ Free Trial attempt unsuccessful......it requires Premium Account
