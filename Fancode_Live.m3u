@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Paris Knight Riders vs Paris Université Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98656" group-title="ECS France, 2024",Paris Knight Riders vs Paris Université Club
-https://dai.google.com/linear/hls/event/ZGbgIeqNS26PfJL3YI2BRw/master.m3u8
 #EXTINF:-1 tvg-name="Nepal vs Hong Kong, China" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98415" group-title="ACC Men's T20I Premier Cup, 2024",Nepal vs Hong Kong, China
 https://dai.google.com/linear/hls/event/VGH2OlsERFK6FTQ68sIyCA/master.m3u8
 #EXTINF:-1 tvg-name="IPRC Kigali CC vs Zonic Tigers CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96679" group-title="RCA Men's T20, 2024",IPRC Kigali CC vs Zonic Tigers CC
 https://dai.google.com/linear/hls/event/31kD2XE5TYyTvNazCTfhTw/master.m3u8
+#EXTINF:-1 tvg-name="Malaysia U23 vs Vietnam U23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99065" group-title="AFC U23 Asia Cup Qatar 2024",Malaysia U23 vs Vietnam U23
+https://dai.google.com/linear/hls/event/QBwHUwbkTd6tBTmSevJ86w/master.m3u8
 #EXTINF:-1 tvg-name="Leicester City vs West Bromwich Albion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97965" group-title="EFL Championship 2023-24",Leicester City vs West Bromwich Albion
 https://dai.google.com/linear/hls/event/iAEcFkcIS9ikmNp1xa_wgA/master.m3u8
 #EXTINF:-1 tvg-name="Nantong Zhiyun vs Shanghai Shenhua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97938" group-title="Chinese Super League 2024",Nantong Zhiyun vs Shanghai Shenhua
