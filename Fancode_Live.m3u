@@ -1,11 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Balbyniens vs Paris Université Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98657" group-title="ECS France, 2024",Balbyniens vs Paris Université Club
-https://dai.google.com/linear/hls/event/34zqbuADR0Kd7Hl_QBYJPw/master.m3u8
-#EXTINF:-1 tvg-name="IPRC Kigali CC vs Zonic Tigers CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96679" group-title="RCA Men's T20, 2024",IPRC Kigali CC vs Zonic Tigers CC
-https://dai.google.com/linear/hls/event/31kD2XE5TYyTvNazCTfhTw/master.m3u8
 #EXTINF:-1 tvg-name="New Zealand vs Pakistan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98553" group-title="New Zealand tour of Pakistan, 2024",New Zealand vs Pakistan
 https://dai.fancode.com/primary/98553_english_hls_6153adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Malaysia U23 vs Vietnam U23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99065" group-title="AFC U23 Asia Cup Qatar 2024",Malaysia U23 vs Vietnam U23
-https://dai.google.com/linear/hls/event/QBwHUwbkTd6tBTmSevJ86w/master.m3u8
 #EXTINF:-1 tvg-name="Watford vs Hull City" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98032" group-title="EFL Championship 2023-24",Watford vs Hull City
 https://dai.google.com/linear/hls/event/4AtOLc5BQmCJIwPIOImAcw/master.m3u8
