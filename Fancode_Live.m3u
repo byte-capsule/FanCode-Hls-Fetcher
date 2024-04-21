@@ -3,13 +3,15 @@
 https://dai.google.com/linear/hls/event/EmKCIIw1QvuiEoLj2AFpXQ/master.m3u8
 #EXTINF:-1 tvg-name="Indorwa CC vs Right Guards CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96678" group-title="RCA Men's T20, 2024",Indorwa CC vs Right Guards CC
 https://dai.google.com/linear/hls/event/-KflLZx3QxyVz-ya4Grf5g/master.m3u8
+#EXTINF:-1 tvg-name="AET Tuskers vs DP World Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95813" group-title="CSA T20 Challenge, 2024",AET Tuskers vs DP World Lions
+https://dai.google.com/linear/hls/event/nKnedzr-SvSjmffNmGBn9A/master.m3u8
 #EXTINF:-1 tvg-name="United Arab Emirates vs Oman" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98416" group-title="ACC Men's T20I Premier Cup, 2024",United Arab Emirates vs Oman
 https://dai.google.com/linear/hls/event/Vhw49jEiTXWc9OBGnk2_7g/master.m3u8
 #EXTINF:-1 tvg-name="Pakistan Women vs West Indies Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98559" group-title="West Indies Women tour of Pakistan, 2024",Pakistan Women vs West Indies Women
 https://dai.fancode.com/primary/98559_english_hls_6144adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="AET Tuskers vs DP World Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95813" group-title="CSA T20 Challenge, 2024",AET Tuskers vs DP World Lions
-https://dai.google.com/linear/hls/event/nKnedzr-SvSjmffNmGBn9A/master.m3u8
 #EXTINF:-1 tvg-name="Pax of Nagoa SC vs Vasco SC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98447" group-title="Goa Professional League 2023-24",Pax of Nagoa SC vs Vasco SC
 https://dai.fancode.com/primary/98447_english_hls_8468adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Blackburn Rovers vs Sheffield Wednesday" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97963" group-title="EFL Championship 2023-24",Blackburn Rovers vs Sheffield Wednesday
+https://dai.google.com/linear/hls/event/Vx5AbHyVSO60MAz9lt3t8A/master.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98084" group-title="LET Joburg Ladies Open",Day 2
 https://dai.google.com/linear/hls/event/NxaJLH8bT1S8Pu9J8iK0Lg/master.m3u8
