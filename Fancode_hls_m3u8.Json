@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 4,
-  "updated_on": "21-04-2024 on 4:41:01 PM \ud83c\udf1e",
+  "channels_amount": 6,
+  "updated_on": "21-04-2024 on 5:02:26 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -17,6 +17,17 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "ACC Men's T20I Premier Cup, 2024",
+      "match_id": 98416,
+      "match_name": "United Arab Emirates vs Oman",
+      "team_1": "United Arab Emirates",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UAE@2x.png",
+      "team_2": "Oman",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OMA@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/Vhw49jEiTXWc9OBGnk2_7g/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "West Indies Women tour of Pakistan, 2024",
       "match_id": 98559,
       "match_name": "Pakistan Women vs West Indies Women",
@@ -28,14 +39,14 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "ACC Men's T20I Premier Cup, 2024",
-      "match_id": 98416,
-      "match_name": "United Arab Emirates vs Oman",
-      "team_1": "United Arab Emirates",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UAE@2x.png",
-      "team_2": "Oman",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OMA@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/Vhw49jEiTXWc9OBGnk2_7g/master.m3u8"
+      "event_name": "CSA T20 Challenge, 2024",
+      "match_id": 95813,
+      "match_name": "AET Tuskers vs DP World Lions",
+      "team_1": "AET Tuskers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AETS@2x.png",
+      "team_2": "DP World Lions",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DWLS@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/nKnedzr-SvSjmffNmGBn9A/master.m3u8"
     },
     {
       "event_catagory": "football",
@@ -47,6 +58,17 @@
       "team_2": "Vasco SC",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VASC@2x.png",
       "stream_link": "https://dai.fancode.com/primary/98447_english_hls_8468adfreeta-no/index.m3u8"
+    },
+    {
+      "event_catagory": "golf",
+      "event_name": "LET Joburg Ladies Open",
+      "match_id": 98084,
+      "match_name": "Day 2",
+      "team_1": "Day 2",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-JLO@2x.png",
+      "team_2": "Modderfontein Golf Club",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/NxaJLH8bT1S8Pu9J8iK0Lg/master.m3u8"
     }
   ]
 }
