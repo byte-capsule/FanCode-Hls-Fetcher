@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Indonesia Women vs Mongolia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99290" group-title="Mongolia Women tour of Indonesia, 2024",Indonesia Women vs Mongolia Women
 https://dai.google.com/linear/hls/event/BWXVIRXiTu-aH5PLqitHGA/master.m3u8
-#EXTINF:-1 tvg-name="Pakistan Women vs West Indies Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98559" group-title="West Indies Women tour of Pakistan, 2024",Pakistan Women vs West Indies Women
-https://dai.fancode.com/primary/98559_english_hls_6144adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Nok 99 vs Ashtapailu Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98235" group-title="Pune Olympia T20 Trophy, 2024",Nok 99 vs Ashtapailu Sports
 https://dai.google.com/linear/hls/event/wQ9SermRQSal57_QP-RvtQ/master.m3u8
+#EXTINF:-1 tvg-name="Pakistan Women vs West Indies Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98559" group-title="West Indies Women tour of Pakistan, 2024",Pakistan Women vs West Indies Women
+https://dai.fancode.com/primary/98559_english_hls_6144adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="FC Tokyo vs Machida Zelvia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97990" group-title="J League 2024",FC Tokyo vs Machida Zelvia
 https://dai.fancode.com/primary/97990_english_hls_5397adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Race" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95136" group-title="F1 LENOVO CHINESE GRAND PRIX 2024",Race
