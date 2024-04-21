@@ -11,10 +11,8 @@ https://dai.google.com/linear/hls/event/Ub80iUsMScKF1nyiiIsI1w/master.m3u8
  Free Trial attempt unsuccessful......it requires Premium Account
 #EXTINF:-1 tvg-name="AET Tuskers vs DP World Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95813" group-title="CSA T20 Challenge, 2024",AET Tuskers vs DP World Lions
 https://dai.google.com/linear/hls/event/nKnedzr-SvSjmffNmGBn9A/master.m3u8
-#EXTINF:-1 tvg-name="United Arab Emirates vs Oman" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98416" group-title="ACC Men's T20I Premier Cup, 2024",United Arab Emirates vs Oman
-https://dai.google.com/linear/hls/event/Vhw49jEiTXWc9OBGnk2_7g/master.m3u8
-#EXTINF:-1 tvg-name="Beijing Guoan vs Qingdao West Coast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97939" group-title="Chinese Super League 2024",Beijing Guoan vs Qingdao West Coast
-https://dai.fancode.com/primary/97939_english_hls_5263adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Pakistan vs New Zealand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98554" group-title="New Zealand tour of Pakistan, 2024",Pakistan vs New Zealand
+https://dai.google.com/linear/hls/event/pDP1Bb68TN6AGDsifMgk2Q/master.m3u8
 #EXTINF:-1 tvg-name="Manchester City Women vs West Ham United Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97996" group-title="Barclays FA Women's Super League 2023-24",Manchester City Women vs West Ham United Women
 https://dai.fancode.com/primary/97996_english_hls_5339adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98084" group-title="LET Joburg Ladies Open",Day 2
