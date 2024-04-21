@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Keraniganj Challengers vs Tally Rangers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96479" group-title="Kuwait T10 Ramadan Challengers Cup",Keraniganj Challengers vs Tally Rangers
 https://dai.google.com/linear/hls/event/W0yR5kxBRM-sIqY7ohAXxw/master.m3u8
-#EXTINF:-1 tvg-name="South Castries Lions vs Babonneau Leatherbacks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98070" group-title="St. Lucia T10 Blast, 2024",South Castries Lions vs Babonneau Leatherbacks
-https://dai.google.com/linear/hls/event/yp_HBMWzQviJehWTvWMD7w/master.m3u8
 #EXTINF:-1 tvg-name="Unicaja vs Vitoria Gasteiz Baskonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97216" group-title="Liga Endesa",Unicaja vs Vitoria Gasteiz Baskonia
 https://dai.google.com/linear/hls/event/3p764_0nSSSNId7_bSQJMw/master.m3u8
