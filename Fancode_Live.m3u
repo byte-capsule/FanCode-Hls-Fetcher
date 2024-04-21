@@ -7,6 +7,10 @@ https://dai.google.com/linear/hls/event/LbHt7s_LQe6blD5teJXlLQ/master.m3u8
 https://dai.google.com/linear/hls/event/wQ9SermRQSal57_QP-RvtQ/master.m3u8
 #EXTINF:-1 tvg-name="Pakistan Women vs West Indies Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98559" group-title="West Indies Women tour of Pakistan, 2024",Pakistan Women vs West Indies Women
 https://dai.fancode.com/primary/98559_english_hls_6144adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Grigny Vipers vs Paris Université Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98659" group-title="ECS France, 2024",Grigny Vipers vs Paris Université Club
+https://dai.google.com/linear/hls/event/HKqiofSPStWSrTSSaBcx6Q/master.m3u8
+#EXTINF:-1 tvg-name="Kutchi Sports Club vs Challengers CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96680" group-title="RCA Men's T20, 2024",Kutchi Sports Club vs Challengers CC
+https://dai.google.com/linear/hls/event/B5mPL5GZSAC8x8ioO83rXg/master.m3u8
 #EXTINF:-1 tvg-name="FC Tokyo vs Machida Zelvia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97990" group-title="J League 2024",FC Tokyo vs Machida Zelvia
 https://dai.fancode.com/primary/97990_english_hls_5397adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Perth Glory vs Western United" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97533" group-title="A League Men 2023-24",Perth Glory vs Western United
