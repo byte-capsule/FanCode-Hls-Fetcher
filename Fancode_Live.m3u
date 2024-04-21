@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Indonesia Women vs Mongolia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99290" group-title="Mongolia Women tour of Indonesia, 2024",Indonesia Women vs Mongolia Women
 https://dai.google.com/linear/hls/event/BWXVIRXiTu-aH5PLqitHGA/master.m3u8
-#EXTINF:-1 tvg-name="4 Season Club, Karbi Anglong vs Super Touch Club, Tezpur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98888" group-title="Assam Premier Club Championship, 2024",4 Season Club, Karbi Anglong vs Super Touch Club, Tezpur
-https://dai.google.com/linear/hls/event/e6g2R4v7R1O9Up9weNrMxQ/master.m3u8
 #EXTINF:-1 tvg-name="Pakistan Women vs West Indies Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98559" group-title="West Indies Women tour of Pakistan, 2024",Pakistan Women vs West Indies Women
 https://dai.fancode.com/primary/98559_english_hls_6144adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Nok 99 vs Ashtapailu Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98235" group-title="Pune Olympia T20 Trophy, 2024",Nok 99 vs Ashtapailu Sports
