@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Napcc, Morigaon vs Star Sporting Club, Nagaon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98889" group-title="Assam Premier Club Championship, 2024",Napcc, Morigaon vs Star Sporting Club, Nagaon
-https://dai.google.com/linear/hls/event/LbHt7s_LQe6blD5teJXlLQ/master.m3u8
 #EXTINF:-1 tvg-name="Grigny Vipers vs Mitry" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98660" group-title="ECS France, 2024",Grigny Vipers vs Mitry
 https://dai.google.com/linear/hls/event/eTuHvXVXS3Sr_5sf5FRAiQ/master.m3u8
-#EXTINF:-1 tvg-name="Kutchi Sports Club vs Challengers CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96680" group-title="RCA Men's T20, 2024",Kutchi Sports Club vs Challengers CC
-https://dai.google.com/linear/hls/event/B5mPL5GZSAC8x8ioO83rXg/master.m3u8
 #EXTINF:-1 tvg-name="Pakistan Women vs West Indies Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98559" group-title="West Indies Women tour of Pakistan, 2024",Pakistan Women vs West Indies Women
 https://dai.fancode.com/primary/98559_english_hls_6144adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="United Arab Emirates vs Oman" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98416" group-title="ACC Men's T20I Premier Cup, 2024",United Arab Emirates vs Oman
+https://dai.google.com/linear/hls/event/Vhw49jEiTXWc9OBGnk2_7g/master.m3u8
+#EXTINF:-1 tvg-name="Pax of Nagoa SC vs Vasco SC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98447" group-title="Goa Professional League 2023-24",Pax of Nagoa SC vs Vasco SC
+https://dai.fancode.com/primary/98447_english_hls_8468adfreeta-no/index.m3u8
