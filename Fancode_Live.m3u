@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Grigny Vipers vs Mitry" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98660" group-title="ECS France, 2024",Grigny Vipers vs Mitry
-https://dai.google.com/linear/hls/event/eTuHvXVXS3Sr_5sf5FRAiQ/master.m3u8
+#EXTINF:-1 tvg-name="Paris Université Club vs CSPT Sarcelles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98661" group-title="ECS France, 2024",Paris Université Club vs CSPT Sarcelles
+https://dai.google.com/linear/hls/event/EmKCIIw1QvuiEoLj2AFpXQ/master.m3u8
+#EXTINF:-1 tvg-name="Indorwa CC vs Right Guards CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96678" group-title="RCA Men's T20, 2024",Indorwa CC vs Right Guards CC
+https://dai.google.com/linear/hls/event/-KflLZx3QxyVz-ya4Grf5g/master.m3u8
 #EXTINF:-1 tvg-name="United Arab Emirates vs Oman" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98416" group-title="ACC Men's T20I Premier Cup, 2024",United Arab Emirates vs Oman
 https://dai.google.com/linear/hls/event/Vhw49jEiTXWc9OBGnk2_7g/master.m3u8
 #EXTINF:-1 tvg-name="Pakistan Women vs West Indies Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98559" group-title="West Indies Women tour of Pakistan, 2024",Pakistan Women vs West Indies Women
