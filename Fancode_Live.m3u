@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Mongolia Women vs Indonesia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99291" group-title="Mongolia Women tour of Indonesia, 2024",Mongolia Women vs Indonesia Women
 https://dai.google.com/linear/hls/event/37J9wgeuSwG3tJ5Vhij4ag/master.m3u8
+#EXTINF:-1 tvg-name="India Club, Silchar vs Saptarshi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98890" group-title="Assam Premier Club Championship, 2024",India Club, Silchar vs Saptarshi
+https://dai.google.com/linear/hls/event/DGZxSkcoSeGjTkIq4Lg1eg/master.m3u8
