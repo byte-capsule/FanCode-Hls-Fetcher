@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Indonesia Women vs Mongolia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99292" group-title="Mongolia Women tour of Indonesia, 2024",Indonesia Women vs Mongolia Women
 https://dai.google.com/linear/hls/event/FrzfkwEBTq-icw6Qf0KViw/master.m3u8
+#EXTINF:-1 tvg-name="Cricket Club of Dibrugarh vs Star Sporting Club, Nagaon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98891" group-title="Assam Premier Club Championship, 2024",Cricket Club of Dibrugarh vs Star Sporting Club, Nagaon
+https://dai.google.com/linear/hls/event/FGEXGjWXTTiBiEAzs_n2Sg/master.m3u8
