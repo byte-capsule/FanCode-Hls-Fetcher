@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Travancore Tridents vs Phoenix Cricketers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96482" group-title="Kuwait T10 Ramadan Challengers Cup",Travancore Tridents vs Phoenix Cricketers
+https://dai.google.com/linear/hls/event/QKL86p58QEauCsjgsRINLg/master.m3u8
 #EXTINF:-1 tvg-name="Soufriere Sulphur City Stars vs Gros Islet Cannon Blasters" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98072" group-title="St. Lucia T10 Blast, 2024",Soufriere Sulphur City Stars vs Gros Islet Cannon Blasters
 https://dai.google.com/linear/hls/event/nbaly-pITjO3raEq2TWhFQ/master.m3u8
 #EXTINF:-1 tvg-name="Paris Zalmi vs Villeneuve Super Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98668" group-title="ECS France, 2024",Paris Zalmi vs Villeneuve Super Kings
