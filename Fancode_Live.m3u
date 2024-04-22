@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Paris Knight Riders vs Paris Zalmi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98667" group-title="ECS France, 2024",Paris Knight Riders vs Paris Zalmi
 https://dai.google.com/linear/hls/event/FYUI86NrQCqdnlcg84Chlw/master.m3u8
-#EXTINF:-1 tvg-name="Botswana Women vs Mozambique Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99274" group-title="BCA Kalahari Women's T20",Botswana Women vs Mozambique Women
+#EXTINF:-1 tvg-name="Mozambique Women vs Botswana Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99274" group-title="BCA Kalahari Women's T20",Mozambique Women vs Botswana Women
 https://dai.google.com/linear/hls/event/BcHAypopSXWPXCSOmHmAhw/master.m3u8
 #EXTINF:-1 tvg-name="Japan U23 vs Korea Republic U23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98987" group-title="AFC U23 Asia Cup Qatar 2024",Japan U23 vs Korea Republic U23
 https://dai.google.com/linear/hls/event/pP617sQSRpGf-575A89ItQ/master.m3u8
