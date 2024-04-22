@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Villeneuve Super Kings vs Paris Knight Riders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98666" group-title="ECS France, 2024",Villeneuve Super Kings vs Paris Knight Riders
-https://dai.google.com/linear/hls/event/H8DPfY4YSzO_ufkoRXNfzw/master.m3u8
-#EXTINF:-1 tvg-name="Rwanda Women vs Lesotho Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99273" group-title="BCA Kalahari Women's T20",Rwanda Women vs Lesotho Women
-https://dai.google.com/linear/hls/event/S7xBL_1iTMKVy8Bt9gzydg/master.m3u8
 #EXTINF:-1 tvg-name="Botswana Women vs Mozambique Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99274" group-title="BCA Kalahari Women's T20",Botswana Women vs Mozambique Women
 https://dai.google.com/linear/hls/event/BcHAypopSXWPXCSOmHmAhw/master.m3u8
+#EXTINF:-1 tvg-name="Rwanda Women vs Lesotho Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99273" group-title="BCA Kalahari Women's T20",Rwanda Women vs Lesotho Women
+https://dai.google.com/linear/hls/event/S7xBL_1iTMKVy8Bt9gzydg/master.m3u8
+#EXTINF:-1 tvg-name="Japan U23 vs Korea Republic U23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98987" group-title="AFC U23 Asia Cup Qatar 2024",Japan U23 vs Korea Republic U23
+https://dai.google.com/linear/hls/event/pP617sQSRpGf-575A89ItQ/master.m3u8
+#EXTINF:-1 tvg-name="United Arab Emirates U23 vs China PR U23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99070" group-title="AFC U23 Asia Cup Qatar 2024",United Arab Emirates U23 vs China PR U23
+https://dai.google.com/linear/hls/event/8GLPe3EaTiyPnd0zn9tLbQ/master.m3u8
