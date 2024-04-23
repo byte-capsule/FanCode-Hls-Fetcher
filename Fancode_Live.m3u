@@ -5,7 +5,7 @@ https://dai.google.com/linear/hls/event/wMnGNr7fR_S_efxI-IS92w/master.m3u8
 https://dai.google.com/linear/hls/event/FK9hUVCQT-aTmqRjt_0oRA/master.m3u8
 #EXTINF:-1 tvg-name="Dreux vs Grigny Vipers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98669" group-title="ECS France, 2024",Dreux vs Grigny Vipers
 https://dai.google.com/linear/hls/event/BClHh1ZeTBOxbqfW4KvPRg/master.m3u8
-#EXTINF:-1 tvg-name="Botswana Women vs Rwanda Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99275" group-title="BCA Kalahari Women's T20",Botswana Women vs Rwanda Women
-https://dai.google.com/linear/hls/event/k1bStQTvR3C89pDhbiT89w/master.m3u8
 #EXTINF:-1 tvg-name="Mozambique Women vs Lesotho Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99276" group-title="BCA Kalahari Women's T20",Mozambique Women vs Lesotho Women
 https://dai.google.com/linear/hls/event/_znkt8FUTWG_i4VutfhbnA/master.m3u8
+#EXTINF:-1 tvg-name="Botswana Women vs Rwanda Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99275" group-title="BCA Kalahari Women's T20",Botswana Women vs Rwanda Women
+https://dai.google.com/linear/hls/event/k1bStQTvR3C89pDhbiT89w/master.m3u8
