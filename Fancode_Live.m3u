@@ -7,3 +7,7 @@ https://dai.google.com/linear/hls/event/BuYy9E2oQ3qLM7NybLxBlQ/master.m3u8
 https://dai.google.com/linear/hls/event/_znkt8FUTWG_i4VutfhbnA/master.m3u8
 #EXTINF:-1 tvg-name="Botswana Women vs Rwanda Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99275" group-title="BCA Kalahari Women's T20",Botswana Women vs Rwanda Women
 https://dai.google.com/linear/hls/event/k1bStQTvR3C89pDhbiT89w/master.m3u8
+#EXTINF:-1 tvg-name="West Indies Women vs Pakistan Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98560" group-title="West Indies Women tour of Pakistan, 2024",West Indies Women vs Pakistan Women
+https://dai.google.com/linear/hls/event/TB6neHKcSb2xr4ITa5vW_w/master.m3u8
+#EXTINF:-1 tvg-name="Sporting Clube de Goa vs Calangute Association" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98020" group-title="Goa Professional League 2023-24",Sporting Clube de Goa vs Calangute Association
+https://dai.fancode.com/primary/98020_english_hls_5302adfreeta-di/index.m3u8
