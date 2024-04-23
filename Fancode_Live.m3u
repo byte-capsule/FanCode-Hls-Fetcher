@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Sulawesi Selatan vs Nusa Tenggara Timur Putri" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99335" group-title="Kartini T10 Cup",Sulawesi Selatan vs Nusa Tenggara Timur Putri
-https://dai.google.com/linear/hls/event/wMnGNr7fR_S_efxI-IS92w/master.m3u8
 #EXTINF:-1 tvg-name="Cricket Club of Dibrugarh vs Napcc, Morigaon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98893" group-title="Assam Premier Club Championship, 2024",Cricket Club of Dibrugarh vs Napcc, Morigaon
 https://dai.google.com/linear/hls/event/FK9hUVCQT-aTmqRjt_0oRA/master.m3u8
-#EXTINF:-1 tvg-name="Dreux vs Grigny Vipers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98669" group-title="ECS France, 2024",Dreux vs Grigny Vipers
-https://dai.google.com/linear/hls/event/BClHh1ZeTBOxbqfW4KvPRg/master.m3u8
+#EXTINF:-1 tvg-name="President XI vs Mitry" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98670" group-title="ECS France, 2024",President XI vs Mitry
+https://dai.google.com/linear/hls/event/BuYy9E2oQ3qLM7NybLxBlQ/master.m3u8
 #EXTINF:-1 tvg-name="Mozambique Women vs Lesotho Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99276" group-title="BCA Kalahari Women's T20",Mozambique Women vs Lesotho Women
 https://dai.google.com/linear/hls/event/_znkt8FUTWG_i4VutfhbnA/master.m3u8
 #EXTINF:-1 tvg-name="Botswana Women vs Rwanda Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99275" group-title="BCA Kalahari Women's T20",Botswana Women vs Rwanda Women
