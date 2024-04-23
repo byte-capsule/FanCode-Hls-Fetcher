@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="NCM Investment-B vs KRM Panthers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96484" group-title="Kuwait T10 Ramadan Challengers Cup",NCM Investment-B vs KRM Panthers
+https://dai.google.com/linear/hls/event/bmp4J69MSQuJsH9y5gANdg/master.m3u8
 #EXTINF:-1 tvg-name="Colatta Warriors vs Dubai Thunders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98376" group-title="Bukhatir T20 League, 2024",Colatta Warriors vs Dubai Thunders
 https://dai.google.com/linear/hls/event/SDcPlIXoTJ6E9Hs-q0-0vw/master.m3u8
 #EXTINF:-1 tvg-name="Paris Université Club vs Mitry" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98673" group-title="ECS France, 2024",Paris Université Club vs Mitry
