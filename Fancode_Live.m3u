@@ -3,7 +3,11 @@
 https://dai.google.com/linear/hls/event/aBmZP4eEQA65rg2eH8LtVA/master.m3u8
 #EXTINF:-1 tvg-name="West Indies Women vs Pakistan Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98560" group-title="West Indies Women tour of Pakistan, 2024",West Indies Women vs Pakistan Women
 https://dai.google.com/linear/hls/event/TB6neHKcSb2xr4ITa5vW_w/master.m3u8
+#EXTINF:-1 tvg-name="Essequibo Jaguars vs Demerara Hawks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99237" group-title="Guyana T10 Blast",Essequibo Jaguars vs Demerara Hawks
+https://dai.google.com/linear/hls/event/2xAdqR8USXuJTsgUpdcAgA/master.m3u8
 #EXTINF:-1 tvg-name="Kuwait U23 vs Malaysia U23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99073" group-title="AFC U23 Asia Cup Qatar 2024",Kuwait U23 vs Malaysia U23
 https://dai.google.com/linear/hls/event/tRs0_1ecR2upyAIf59kjWg/master.m3u8
 #EXTINF:-1 tvg-name="Uzbekistan U23 vs Vietnam U23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99072" group-title="AFC U23 Asia Cup Qatar 2024",Uzbekistan U23 vs Vietnam U23
 https://dai.google.com/linear/hls/event/HwgZSYRbRtCm0TSoiUlD3w/master.m3u8
+#EXTINF:-1 tvg-name="Al-Nahda Muscat Club vs Al Ahed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97041" group-title="AFC Cup",Al-Nahda Muscat Club vs Al Ahed
+https://dai.google.com/linear/hls/event/QPF_dwN3RHiAxN1xPcCi5Q/master.m3u8
