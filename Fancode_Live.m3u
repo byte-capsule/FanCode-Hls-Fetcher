@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Dreux vs Mitry" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98671" group-title="ECS France, 2024",Dreux vs Mitry
-https://dai.google.com/linear/hls/event/8xJ8SrFVTJmDIPGcVNas-A/master.m3u8
+#EXTINF:-1 tvg-name="President XI vs Grigny Vipers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98672" group-title="ECS France, 2024",President XI vs Grigny Vipers
+https://dai.google.com/linear/hls/event/PQroGTCjR3K5MK6p_ANyyw/master.m3u8
 #EXTINF:-1 tvg-name="Rwanda Women vs Lesotho Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99278" group-title="BCA Kalahari Women's T20",Rwanda Women vs Lesotho Women
 https://dai.google.com/linear/hls/event/VoccsSyYT6inLoCkxFP_OA/master.m3u8
 #EXTINF:-1 tvg-name="Botswana Women vs Mozambique Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99277" group-title="BCA Kalahari Women's T20",Botswana Women vs Mozambique Women
