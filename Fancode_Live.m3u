@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Bali Cricket Putri vs Jawa Barat Cricket Putri" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99334" group-title="Kartini T10 Cup",Bali Cricket Putri vs Jawa Barat Cricket Putri
-https://dai.google.com/linear/hls/event/qEp33d-FSHa7UYKNDE_1Xg/master.m3u8
+#EXTINF:-1 tvg-name="Sulawesi Selatan vs Nusa Tenggara Timur Putri" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99335" group-title="Kartini T10 Cup",Sulawesi Selatan vs Nusa Tenggara Timur Putri
+https://dai.google.com/linear/hls/event/wMnGNr7fR_S_efxI-IS92w/master.m3u8
 #EXTINF:-1 tvg-name="Cricket Club of Dibrugarh vs Napcc, Morigaon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98893" group-title="Assam Premier Club Championship, 2024",Cricket Club of Dibrugarh vs Napcc, Morigaon
 https://dai.google.com/linear/hls/event/FK9hUVCQT-aTmqRjt_0oRA/master.m3u8
+#EXTINF:-1 tvg-name="Dreux vs Grigny Vipers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98669" group-title="ECS France, 2024",Dreux vs Grigny Vipers
+https://dai.google.com/linear/hls/event/BClHh1ZeTBOxbqfW4KvPRg/master.m3u8
