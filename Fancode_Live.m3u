@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Berbice Pirahnas vs Essequibo Anacondas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99239" group-title="Guyana T10 Blast",Berbice Pirahnas vs Essequibo Anacondas
 https://dai.google.com/linear/hls/event/QSrNdOM5RNC25uUmhthvVw/master.m3u8
+#EXTINF:-1 tvg-name="NCM Investment-B vs Chennai Fire Boys" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96486" group-title="Kuwait T10 Ramadan Challengers Cup",NCM Investment-B vs Chennai Fire Boys
+https://dai.google.com/linear/hls/event/mIUVtV8zQniNd0KXOAeDhQ/master.m3u8
 #EXTINF:-1 tvg-name="Globelink Weststar vs Karwan Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98377" group-title="Bukhatir T20 League, 2024",Globelink Weststar vs Karwan Cricket Club
 https://dai.google.com/linear/hls/event/boChCpCXSjm9Lkc6hDZ8kw/master.m3u8
 #EXTINF:-1 tvg-name="President XI vs CSPT Sarcelles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98678" group-title="ECS France, 2024",President XI vs CSPT Sarcelles
