@@ -1,20 +1,9 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 3,
-  "updated_on": "24-04-2024 on 4:41:55 PM \ud83c\udf1e",
+  "channels_amount": 1,
+  "updated_on": "24-04-2024 on 5:04:23 PM \ud83c\udf1e",
   "channels": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECS France, 2024",
-      "match_id": 98675,
-      "match_name": "Villeneuve Super Kings vs Dreux",
-      "team_1": "Villeneuve Super Kings",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/VSK-CR1@2x.png",
-      "team_2": "Dreux",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DRX@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/eG8pHanoTxGx7tBsDtgSbQ/master.m3u8"
-    },
     {
       "event_catagory": "football",
       "event_name": "AFC Champions League",
@@ -25,17 +14,6 @@
       "team_2": "Ulsan Hyundai",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ULS@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/VJR5jZYyQ_2DKGpOzj6gkg/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "AFC Cup",
-      "match_id": 97043,
-      "match_name": "Central Coast Mariners vs Abdysh-Ata",
-      "team_1": "Central Coast Mariners",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CENTA@2x.png",
-      "team_2": "Abdysh-Ata",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ABDY@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/PAiEpzM3SA6DQ937kV4hzw/master.m3u8"
     }
   ]
 }
