@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Balbyniens vs Mitry" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98677" group-title="ECS France, 2024",Balbyniens vs Mitry
-https://dai.google.com/linear/hls/event/-27YnmVdTI2Pq8YOLQz50A/master.m3u8
+#EXTINF:-1 tvg-name="President XI vs CSPT Sarcelles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98678" group-title="ECS France, 2024",President XI vs CSPT Sarcelles
+https://dai.google.com/linear/hls/event/NLQovAItQKCxhk0lf3i7DQ/master.m3u8
 #EXTINF:-1 tvg-name="Ajman vs Abu Dhabi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99314" group-title="Emirates D50 Tournament, 2024",Ajman vs Abu Dhabi
 https://dai.google.com/linear/hls/event/kotEtei6Sn-RUcjvy02SXw/master.m3u8
 #EXTINF:-1 tvg-name="Fujairah vs Dubai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99313" group-title="Emirates D50 Tournament, 2024",Fujairah vs Dubai
