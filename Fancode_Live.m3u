@@ -3,5 +3,7 @@
 https://dai.google.com/linear/hls/event/I2xsWCFvT5uVbqe10PQPNA/master.m3u8
 #EXTINF:-1 tvg-name="Fujairah vs Dubai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99313" group-title="Emirates D50 Tournament, 2024",Fujairah vs Dubai
 https://dai.google.com/linear/hls/event/1uv8De8bQvCNatxJqodEYQ/master.m3u8
+#EXTINF:-1 tvg-name="Ajman vs Abu Dhabi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99314" group-title="Emirates D50 Tournament, 2024",Ajman vs Abu Dhabi
+https://dai.google.com/linear/hls/event/kotEtei6Sn-RUcjvy02SXw/master.m3u8
 #EXTINF:-1 tvg-name="Yokohama F. Marinos vs Ulsan Hyundai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93366" group-title="AFC Champions League",Yokohama F. Marinos vs Ulsan Hyundai
 https://dai.google.com/linear/hls/event/VJR5jZYyQ_2DKGpOzj6gkg/master.m3u8
