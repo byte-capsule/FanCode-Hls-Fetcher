@@ -5,5 +5,7 @@ https://dai.google.com/linear/hls/event/YCG-vM4aSB6oy00LhOPs-g/master.m3u8
 https://dai.google.com/linear/hls/event/omYuRDXDRuekJTIMVBO_sQ/master.m3u8
 #EXTINF:-1 tvg-name="Villeneuve Super Kings vs Dreux" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98675" group-title="ECS France, 2024",Villeneuve Super Kings vs Dreux
 https://dai.google.com/linear/hls/event/eG8pHanoTxGx7tBsDtgSbQ/master.m3u8
+#EXTINF:-1 tvg-name="Yokohama F. Marinos vs Ulsan Hyundai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93366" group-title="AFC Champions League",Yokohama F. Marinos vs Ulsan Hyundai
+https://dai.google.com/linear/hls/event/VJR5jZYyQ_2DKGpOzj6gkg/master.m3u8
 #EXTINF:-1 tvg-name="Central Coast Mariners vs Abdysh-Ata" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97043" group-title="AFC Cup",Central Coast Mariners vs Abdysh-Ata
 https://dai.google.com/linear/hls/event/PAiEpzM3SA6DQ937kV4hzw/master.m3u8
