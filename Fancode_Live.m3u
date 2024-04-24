@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Mongolia Women vs Indonesia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99294" group-title="Mongolia Women tour of Indonesia, 2024",Mongolia Women vs Indonesia Women
 https://dai.google.com/linear/hls/event/6YSLKJ2jT7WbdRy9IASRkA/master.m3u8
+#EXTINF:-1 tvg-name="Rangia Cricket Association vs Cricket Club of Dibrugarh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98895" group-title="Assam Premier Club Championship, 2024",Rangia Cricket Association vs Cricket Club of Dibrugarh
+https://dai.google.com/linear/hls/event/omYuRDXDRuekJTIMVBO_sQ/master.m3u8
