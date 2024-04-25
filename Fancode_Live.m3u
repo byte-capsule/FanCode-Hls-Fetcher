@@ -9,9 +9,9 @@ https://dai.google.com/linear/hls/event/qyKVXz59TGOn65gYMHgpGA/master.m3u8
 https://dai.google.com/linear/hls/event/i0Raf0OST5ycikna5UGXzA/master.m3u8
 #EXTINF:-1 tvg-name="Botswana Women vs Rwanda Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99281" group-title="BCA Kalahari Women's T20",Botswana Women vs Rwanda Women
 https://dai.fancode.com/primary/99281_english_hls_6001adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="United Arab Emirates Women vs Ireland Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98831" group-title="ICC Women's T20 World Cup Qualifier, 2024",United Arab Emirates Women vs Ireland Women
-https://dai.google.com/linear/hls/event/nxWLzUF1QFWa3YhieLaP4w/master.m3u8
-#EXTINF:-1 tvg-name="Sri Lanka Women vs Thailand Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98830" group-title="ICC Women's T20 World Cup Qualifier, 2024",Sri Lanka Women vs Thailand Women
-https://dai.google.com/linear/hls/event/6BUMQVmKTGqq1xET6TLzSQ/master.m3u8
+#EXTINF:-1 tvg-name="Pakistan vs New Zealand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98555" group-title="New Zealand tour of Pakistan, 2024",Pakistan vs New Zealand
+https://dai.google.com/linear/hls/event/v0kY5u1ARVKQRRxOdAzpuw/master.m3u8
+#EXTINF:-1 tvg-name="Qatar U23 vs Japan U23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99133" group-title="AFC U23 Asia Cup Qatar 2024",Qatar U23 vs Japan U23
+https://dai.google.com/linear/hls/event/GdeOz1yRTna8CZeLPUsITw/master.m3u8
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98089" group-title="LET Investec South African Women's Open",Day 1
 https://dai.google.com/linear/hls/event/0ZaKn6WSQ4-R6IAm0BLLcg/master.m3u8
