@@ -1,7 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Tengapara C.C, Kokrajhar vs Club Triranga, Barpeta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98897" group-title="Assam Premier Club Championship, 2024",Tengapara C.C, Kokrajhar vs Club Triranga, Barpeta
-https://dai.google.com/linear/hls/event/Ws9_9RxuSB6Y7wTWt4YTcw/master.m3u8
 #EXTINF:-1 tvg-name="Grigny Vipers vs Paris Zalmi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98680" group-title="ECS France, 2024",Grigny Vipers vs Paris Zalmi
 https://dai.google.com/linear/hls/event/BWdGSmlZQ0OpYsprU6TIOA/master.m3u8
 #EXTINF:-1 tvg-name="Botswana Women vs Lesotho Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99280" group-title="BCA Kalahari Women's T20",Botswana Women vs Lesotho Women
 https://dai.google.com/linear/hls/event/ZZrqoQ_JS6-WLEwPK0HnqA/master.m3u8
+#EXTINF:-1 tvg-name="United Arab Emirates Women vs Ireland Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98831" group-title="ICC Women's T20 World Cup Qualifier, 2024",United Arab Emirates Women vs Ireland Women
+https://dai.google.com/linear/hls/event/nxWLzUF1QFWa3YhieLaP4w/master.m3u8
+#EXTINF:-1 tvg-name="Sri Lanka Women vs Thailand Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98830" group-title="ICC Women's T20 World Cup Qualifier, 2024",Sri Lanka Women vs Thailand Women
+https://dai.google.com/linear/hls/event/6BUMQVmKTGqq1xET6TLzSQ/master.m3u8
+#EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98089" group-title="LET Investec South African Women's Open",Day 1
+https://dai.google.com/linear/hls/event/0ZaKn6WSQ4-R6IAm0BLLcg/master.m3u8
