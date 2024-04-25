@@ -1,12 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Essequibo Anacondas vs Demerara Pitbulls" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99241" group-title="Guyana T10 Blast",Essequibo Anacondas vs Demerara Pitbulls
+https://dai.google.com/linear/hls/event/xGwVe5I8Svulu5mbSvbfgA/master.m3u8
 #EXTINF:-1 tvg-name="Fujairah vs Abu Dhabi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99316" group-title="Emirates D50 Tournament, 2024",Fujairah vs Abu Dhabi
 https://dai.google.com/linear/hls/event/5gaaXcoBSw6VPFG44XM5TA/master.m3u8
 #EXTINF:-1 tvg-name="Sharjah vs Emirates Blues" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99315" group-title="Emirates D50 Tournament, 2024",Sharjah vs Emirates Blues
 https://dai.google.com/linear/hls/event/tAHGotjySw2N95WM-ewoUw/master.m3u8
+#EXTINF:-1 tvg-name="Warriors vs Dolphins" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95818" group-title="CSA T20 Challenge, 2024",Warriors vs Dolphins
+https://dai.google.com/linear/hls/event/4D72-1g8SQKMfCx_kBw-pA/master.m3u8
 #EXTINF:-1 tvg-name="Royal 94 vs Dreux" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98683" group-title="ECS France, 2024",Royal 94 vs Dreux
 https://dai.google.com/linear/hls/event/i863iYGDRNyUxw9lgImo5A/master.m3u8
-#EXTINF:-1 tvg-name="Mozambique Women vs Lesotho Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99282" group-title="BCA Kalahari Women's T20",Mozambique Women vs Lesotho Women
-https://dai.google.com/linear/hls/event/i0Raf0OST5ycikna5UGXzA/master.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe Women vs Vanuatu Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98833" group-title="ICC Women's T20 World Cup Qualifier, 2024",Zimbabwe Women vs Vanuatu Women
 https://dai.google.com/linear/hls/event/H65x8t0vRtq0mBZCMqTBhQ/master.m3u8
 #EXTINF:-1 tvg-name="Scotland Women vs Uganda Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98832" group-title="ICC Women's T20 World Cup Qualifier, 2024",Scotland Women vs Uganda Women
