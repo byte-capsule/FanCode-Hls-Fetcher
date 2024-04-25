@@ -1,8 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Sharjah vs Emirates Blues" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99315" group-title="Emirates D50 Tournament, 2024",Sharjah vs Emirates Blues
 https://dai.google.com/linear/hls/event/tAHGotjySw2N95WM-ewoUw/master.m3u8
+#EXTINF:-1 tvg-name="Fujairah vs Abu Dhabi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99316" group-title="Emirates D50 Tournament, 2024",Fujairah vs Abu Dhabi
+https://dai.google.com/linear/hls/event/5gaaXcoBSw6VPFG44XM5TA/master.m3u8
 #EXTINF:-1 tvg-name="Paris Knight Riders vs Royal 94" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98681" group-title="ECS France, 2024",Paris Knight Riders vs Royal 94
 https://dai.google.com/linear/hls/event/XyqNIRVURzKgN0Z-R1JIDQ/master.m3u8
+#EXTINF:-1 tvg-name="Botswana Women vs Rwanda Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99281" group-title="BCA Kalahari Women's T20",Botswana Women vs Rwanda Women
+https://dai.fancode.com/primary/99281_english_hls_6001adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Mozambique Women vs Lesotho Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99282" group-title="BCA Kalahari Women's T20",Mozambique Women vs Lesotho Women
+https://dai.google.com/linear/hls/event/i0Raf0OST5ycikna5UGXzA/master.m3u8
 #EXTINF:-1 tvg-name="United Arab Emirates Women vs Ireland Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98831" group-title="ICC Women's T20 World Cup Qualifier, 2024",United Arab Emirates Women vs Ireland Women
 https://dai.google.com/linear/hls/event/nxWLzUF1QFWa3YhieLaP4w/master.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka Women vs Thailand Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98830" group-title="ICC Women's T20 World Cup Qualifier, 2024",Sri Lanka Women vs Thailand Women
