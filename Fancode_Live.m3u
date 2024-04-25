@@ -3,13 +3,15 @@
 https://dai.google.com/linear/hls/event/5gaaXcoBSw6VPFG44XM5TA/master.m3u8
 #EXTINF:-1 tvg-name="Sharjah vs Emirates Blues" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99315" group-title="Emirates D50 Tournament, 2024",Sharjah vs Emirates Blues
 https://dai.google.com/linear/hls/event/tAHGotjySw2N95WM-ewoUw/master.m3u8
-#EXTINF:-1 tvg-name="Dreux vs Paris Knight Riders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98682" group-title="ECS France, 2024",Dreux vs Paris Knight Riders
-https://dai.google.com/linear/hls/event/qyKVXz59TGOn65gYMHgpGA/master.m3u8
+#EXTINF:-1 tvg-name="Royal 94 vs Dreux" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98683" group-title="ECS France, 2024",Royal 94 vs Dreux
+https://dai.google.com/linear/hls/event/i863iYGDRNyUxw9lgImo5A/master.m3u8
 #EXTINF:-1 tvg-name="Mozambique Women vs Lesotho Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99282" group-title="BCA Kalahari Women's T20",Mozambique Women vs Lesotho Women
 https://dai.google.com/linear/hls/event/i0Raf0OST5ycikna5UGXzA/master.m3u8
+#EXTINF:-1 tvg-name="Zimbabwe Women vs Vanuatu Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98833" group-title="ICC Women's T20 World Cup Qualifier, 2024",Zimbabwe Women vs Vanuatu Women
+https://dai.google.com/linear/hls/event/H65x8t0vRtq0mBZCMqTBhQ/master.m3u8
+#EXTINF:-1 tvg-name="Scotland Women vs Uganda Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98832" group-title="ICC Women's T20 World Cup Qualifier, 2024",Scotland Women vs Uganda Women
+https://dai.google.com/linear/hls/event/GAqCwBVMS2W5vMNSXdB_OA/master.m3u8
 #EXTINF:-1 tvg-name="New Zealand vs Pakistan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98555" group-title="New Zealand tour of Pakistan, 2024",New Zealand vs Pakistan
 https://dai.google.com/linear/hls/event/v0kY5u1ARVKQRRxOdAzpuw/master.m3u8
 #EXTINF:-1 tvg-name="Qatar U23 vs Japan U23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99133" group-title="AFC U23 Asia Cup Qatar 2024",Qatar U23 vs Japan U23
 https://dai.google.com/linear/hls/event/GdeOz1yRTna8CZeLPUsITw/master.m3u8
-#EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98089" group-title="LET Investec South African Women's Open",Day 1
-https://dai.google.com/linear/hls/event/0ZaKn6WSQ4-R6IAm0BLLcg/master.m3u8
