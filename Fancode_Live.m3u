@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Dubai vs Emirates Blues" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99317" group-title="Emirates D50 Tournament, 2024",Dubai vs Emirates Blues
 https://dai.google.com/linear/hls/event/oLWC97lAQUWLrl0gEgjntg/master.m3u8
-#EXTINF:-1 tvg-name="Mozambique Women vs Lesotho Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99283" group-title="BCA Kalahari Women's T20",Mozambique Women vs Lesotho Women
-https://dai.google.com/linear/hls/event/tanW8LF1SU6ku0BQumjdHA/master.m3u8
+#EXTINF:-1 tvg-name="Sharjah vs Ajman" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99318" group-title="Emirates D50 Tournament, 2024",Sharjah vs Ajman
+https://dai.google.com/linear/hls/event/gq5p4Ub0TLOumBXJ2BNYnQ/master.m3u8
+#EXTINF:-1 tvg-name="Rwanda Women vs Botswana Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99284" group-title="BCA Kalahari Women's T20",Rwanda Women vs Botswana Women
+https://dai.google.com/linear/hls/event/ddgvF_hqQo6kH1A8rAeT7Q/master.m3u8
 #EXTINF:-1 tvg-name="NCM Investment-B vs Tally Rangers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96488" group-title="Kuwait T10 Ramadan Challengers Cup",NCM Investment-B vs Tally Rangers
 https://dai.google.com/linear/hls/event/NCe52RMKS6G-hirVt74acQ/master.m3u8
-#EXTINF:-1 tvg-name="Brisbane Roar vs Adelaide United" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97534" group-title="A League Men 2023-24",Brisbane Roar vs Adelaide United
-https://d3vl1n97q5z5dn.cloudfront.net/out/v1/a3e59e82c70e4534b3cab3cee48de1e5/index.mpd
 #EXTINF:-1 tvg-name="Wuhan Three Towns vs Tianjin Jinmen Tiger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97940" group-title="Chinese Super League 2024",Wuhan Three Towns vs Tianjin Jinmen Tiger
 https://d39eqmdq7wsbwe.cloudfront.net/out/v1/9339a0f7fd574d1facc9f0c3e448dbb8/index.mpd
 #EXTINF:-1 tvg-name="DTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99295" group-title="DTM 2024",DTM
