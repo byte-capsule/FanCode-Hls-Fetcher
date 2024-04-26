@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Garuda Girls vs Bali Cricket Putri" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99340" group-title="Kartini T20 Cup",Garuda Girls vs Bali Cricket Putri
-https://dai.google.com/linear/hls/event/2vqJDzhFSn-l73SJ1m8Q9g/master.m3u8
+#EXTINF:-1 tvg-name="Biswanath Blue Warriors vs City Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98898" group-title="Assam Premier Club Championship, 2024",Biswanath Blue Warriors vs City Cricket Club
+https://dai.google.com/linear/hls/event/WB28RixHSI2YKZc84GuF0Q/master.m3u8
+#EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99891" group-title="ISPS Handa - Championship",Day 2
+https://dai.google.com/linear/hls/event/jSH-cNkvS6Wk5mqwIXF1XQ/master.m3u8
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99050" group-title="LIV Golf Adelaide",Day 1
 https://dai.google.com/linear/hls/event/GTfy6VjYRTWW_qY7gdZiNg/master.m3u8
