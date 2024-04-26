@@ -5,5 +5,9 @@ https://dai.google.com/linear/hls/event/yDQCX2I9TReqzLSH579fPQ/master.m3u8
 https://dai.google.com/linear/hls/event/XS0yy3ArSSaMAEPPzjkfAQ/master.m3u8
 #EXTINF:-1 tvg-name="Mozambique Women vs Lesotho Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99283" group-title="BCA Kalahari Women's T20",Mozambique Women vs Lesotho Women
 https://dai.google.com/linear/hls/event/tanW8LF1SU6ku0BQumjdHA/master.m3u8
+#EXTINF:-1 tvg-name="Brisbane Roar vs Adelaide United" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97534" group-title="A League Men 2023-24",Brisbane Roar vs Adelaide United
+https://d3vl1n97q5z5dn.cloudfront.net/out/v1/a3e59e82c70e4534b3cab3cee48de1e5/index.mpd
+#EXTINF:-1 tvg-name="DTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99295" group-title="DTM 2024",DTM
+https://dai.google.com/linear/hls/event/ROxTan3pTp6VFtzrTjN90A/master.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99891" group-title="ISPS Handa - Championship",Day 2
 https://dai.google.com/linear/hls/event/jSH-cNkvS6Wk5mqwIXF1XQ/master.m3u8
