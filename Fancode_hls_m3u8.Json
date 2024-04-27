@@ -1,7 +1,41 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 0,
-  "updated_on": "27-04-2024 on 05:40:52 AM \ud83c\udf1e",
-  "channels": []
+  "channels_amount": 3,
+  "updated_on": "27-04-2024 on 06:29:08 AM \ud83c\udf1e",
+  "channels": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "Trinidad T20 Festival, 2024",
+      "match_id": 99177,
+      "match_name": "Central Sports vs Marchin Patriots Sports Club",
+      "team_1": "Central Sports",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSP@2x.png",
+      "team_2": "Marchin Patriots Sports Club",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR12@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/OWh-6gcLQTamfYRMWWkBVQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Cool and Smooth T20, 2024",
+      "match_id": 98779,
+      "match_name": "Government Road Stingrays vs Haynes Smith Sharks",
+      "team_1": "Government Road Stingrays",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GRS@2x.png",
+      "team_2": "Haynes Smith Sharks",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HSS@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/OcBg__hpRi6v3ekKR6ncuw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Kartini T20 Cup",
+      "match_id": 99342,
+      "match_name": "Bali Cricket Putri vs Jawa Barat Cricket Putri",
+      "team_1": "Bali Cricket Putri",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BCP@2x.png",
+      "team_2": "Jawa Barat Cricket Putri",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JAW@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/Mso0gssGQ3eF8hd-n10PMg/master.m3u8"
+    }
+  ]
 }

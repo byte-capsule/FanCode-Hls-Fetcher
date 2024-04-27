@@ -1,1 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Central Sports vs Marchin Patriots Sports Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99177" group-title="Trinidad T20 Festival, 2024",Central Sports vs Marchin Patriots Sports Club
+https://dai.google.com/linear/hls/event/OWh-6gcLQTamfYRMWWkBVQ/master.m3u8
+#EXTINF:-1 tvg-name="Government Road Stingrays vs Haynes Smith Sharks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98779" group-title="Cool and Smooth T20, 2024",Government Road Stingrays vs Haynes Smith Sharks
+https://dai.google.com/linear/hls/event/OcBg__hpRi6v3ekKR6ncuw/master.m3u8
+#EXTINF:-1 tvg-name="Bali Cricket Putri vs Jawa Barat Cricket Putri" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99342" group-title="Kartini T20 Cup",Bali Cricket Putri vs Jawa Barat Cricket Putri
+https://dai.google.com/linear/hls/event/Mso0gssGQ3eF8hd-n10PMg/master.m3u8
