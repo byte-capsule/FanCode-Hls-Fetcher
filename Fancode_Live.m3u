@@ -9,13 +9,15 @@ https://dai.google.com/linear/hls/event/-CMOQMr5Tm2zOsbHb6IS0A/master.m3u8
 https://dai.google.com/linear/hls/event/MdMzzrmMSX2onXRHt-BCfA/master.m3u8
 #EXTINF:-1 tvg-name="France vs Hungary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99506" group-title="ECI France, 2024",France vs Hungary
 https://dai.google.com/linear/hls/event/ujz58vUoQfGloJmrvozjzQ/master.m3u8
-#EXTINF:-1 tvg-name="Right Guards CC vs IPRC Kigali CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96681" group-title="RCA Men's T20, 2024",Right Guards CC vs IPRC Kigali CC
-https://dai.google.com/linear/hls/event/m4BhYv-3RMGom6wuHnKo-g/master.m3u8
+#EXTINF:-1 tvg-name="Romania vs France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99507" group-title="ECI France, 2024",Romania vs France
+https://dai.google.com/linear/hls/event/LDXkVgjdTmSw6uh5hDy9ZA/master.m3u8
+#EXTINF:-1 tvg-name="Scotland Women vs Sri Lanka Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98837" group-title="ICC Women's T20 World Cup Qualifier, 2024",Scotland Women vs Sri Lanka Women
+https://dai.google.com/linear/hls/event/Yiq_J85pQ7OORymxXw6GSg/master.m3u8
+#EXTINF:-1 tvg-name="United Arab Emirates Women vs Zimbabwe Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98836" group-title="ICC Women's T20 World Cup Qualifier, 2024",United Arab Emirates Women vs Zimbabwe Women
+https://dai.google.com/linear/hls/event/94aYQNyzRiOHcUI9Am-qAQ/master.m3u8
 #EXTINF:-1 tvg-name="Pakistan vs New Zealand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98556" group-title="New Zealand tour of Pakistan, 2024",Pakistan vs New Zealand
 https://dai.google.com/linear/hls/event/br-jxC_JRcCi6dHjQwvqxw/master.m3u8
 #EXTINF:-1 tvg-name="Blackburn Rovers vs Coventry City" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98767" group-title="EFL Championship 2023-24",Blackburn Rovers vs Coventry City
 https://dai.google.com/linear/hls/event/zyKRNF10QWCJMOAuPULJOw/master.m3u8
 #EXTINF:-1 tvg-name="Colchester United vs Crewe Alexandra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99931" group-title="League Two 2023-24",Colchester United vs Crewe Alexandra
 https://dai.fancode.com/primary/99931_english_hls_9508adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98091" group-title="LET Investec South African Women's Open",Day 3
-https://dai.google.com/linear/hls/event/WuhKSxCBRYOUFKxvxPFJrw/master.m3u8
