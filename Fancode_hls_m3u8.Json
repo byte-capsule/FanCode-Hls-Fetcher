@@ -1,20 +1,9 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 8,
-  "updated_on": "27-04-2024 on 1:03:34 PM \ud83c\udf1e",
+  "channels_amount": 9,
+  "updated_on": "27-04-2024 on 1:21:03 PM \ud83c\udf1e",
   "channels": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Grand Rumble T10 Championship Round 2, 2024",
-      "match_id": 99528,
-      "match_name": "Pak United CC vs KL Zalmi",
-      "team_1": "Pak United CC",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PUN@2x.png",
-      "team_2": "KL Zalmi",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KLZM@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/ONngoFoxSRKXajybjaZ1kw/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Futures League, 2024",
@@ -60,6 +49,17 @@
       "stream_link": "https://dai.google.com/linear/hls/event/J7HQ_F-wSIeuWovr5jnrIA/master.m3u8"
     },
     {
+      "event_catagory": "cricket",
+      "event_name": "ECI France, 2024",
+      "match_id": 99503,
+      "match_name": "France vs Hungary",
+      "team_1": "France",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FRC@2x.png",
+      "team_2": "Hungary",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HUNG@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/A3AGh_n2SciQcvo2Ekbpug/master.m3u8"
+    },
+    {
       "event_catagory": "football",
       "event_name": "J League 2024",
       "match_id": 97992,
@@ -71,6 +71,28 @@
       "stream_link": "https://dai.fancode.com/primary/97992_english_hls_7641adfreeta-no/index.m3u8"
     },
     {
+      "event_catagory": "football",
+      "event_name": "A League Men 2023-24",
+      "match_id": 97536,
+      "match_name": "Newcastle Jets vs Central Coast Mariners",
+      "team_1": "Newcastle Jets",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NJA@2x.png",
+      "team_2": "Central Coast Mariners",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CENTA@2x.png",
+      "stream_link": "https://dai.fancode.com/primary/97536_english_hls_6259adfreeta-no/index.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "A League Men 2023-24",
+      "match_id": 97535,
+      "match_name": "Wellington Phoenix vs Macarthur",
+      "team_1": "Wellington Phoenix",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WELA@2x.png",
+      "team_2": "Macarthur",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MACA@2x.png",
+      "stream_link": "https://dai.fancode.com/primary/97535_english_hls_9419adfreeta-no/index.m3u8"
+    },
+    {
       "event_catagory": "golf",
       "event_name": "ISPS Handa - Championship",
       "match_id": 99892,
@@ -80,17 +102,6 @@
       "team_2": "Japan",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/cXXS78MdQp6djE0s9cGL3Q/master.m3u8"
-    },
-    {
-      "event_catagory": "golf",
-      "event_name": "LIV Golf Adelaide",
-      "match_id": 99052,
-      "match_name": "Day 2",
-      "team_1": "Day 2",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LM@2x.png",
-      "team_2": "Adelaide",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/gWXobgAUSsmXLc-AQdVP3Q/master.m3u8"
     }
   ]
 }
