@@ -3,7 +3,7 @@
 https://dai.google.com/linear/hls/event/RoaOpZN_QDSOK55NfKbHVA/master.m3u8
 #EXTINF:-1 tvg-name="Romania vs France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99504" group-title="ECI France, 2024",Romania vs France
 https://dai.google.com/linear/hls/event/QVb2snrhSHmnr8T5WuqDfg/master.m3u8
-#EXTINF:-1 tvg-name="West Indies A vs Nepal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99116" group-title="West Indies A tour of Nepal, 2024",West Indies A vs Nepal
-https://dai.google.com/linear/hls/event/J7HQ_F-wSIeuWovr5jnrIA/master.m3u8
 #EXTINF:-1 tvg-name="Melbourne Victory vs Western Sydney Wanderers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97537" group-title="A League Men 2023-24",Melbourne Victory vs Western Sydney Wanderers
 https://dai.fancode.com/primary/97537_english_hls_6475adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Dempo SC vs Panjim Footballers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98444" group-title="Goa Professional League 2023-24",Dempo SC vs Panjim Footballers
+https://dai.fancode.com/primary/98444_english_hls_6695adfreeta-no/index.m3u8
