@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Abu Dhabi vs Dubai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99319" group-title="Emirates D50 Tournament, 2024",Abu Dhabi vs Dubai
 https://dai.google.com/linear/hls/event/nt7z9EgbTIO8EG7wIy0QGg/master.m3u8
+#EXTINF:-1 tvg-name="V Eleven Cricket Club vs Fly Emirates" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98380" group-title="Bukhatir T20 League, 2024",V Eleven Cricket Club vs Fly Emirates
+https://dai.google.com/linear/hls/event/cw5XyzgYSYCbRk9T_-fobQ/master.m3u8
 #EXTINF:-1 tvg-name="Bahraini Nationals vs Kuwaiti Nationals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99492" group-title="Yalla Shabab T20 Series, 2024",Bahraini Nationals vs Kuwaiti Nationals
 https://dai.google.com/linear/hls/event/MdMzzrmMSX2onXRHt-BCfA/master.m3u8
 #EXTINF:-1 tvg-name="Romania vs Hungary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99505" group-title="ECI France, 2024",Romania vs Hungary
@@ -13,8 +15,6 @@ https://dai.google.com/linear/hls/event/QmknjR3ORKu0X7HOXhB4kQ/master.m3u8
 https://dai.google.com/linear/hls/event/m4BhYv-3RMGom6wuHnKo-g/master.m3u8
 #EXTINF:-1 tvg-name="Derby County vs Carlisle United" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99502" group-title="League One 2023-24",Derby County vs Carlisle United
 https://dai.google.com/linear/hls/event/WE6pDLJgRZi7gdlyr039-g/master.m3u8
-#EXTINF:-1 tvg-name="Dempo SC vs Panjim Footballers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98444" group-title="Goa Professional League 2023-24",Dempo SC vs Panjim Footballers
-https://dai.fancode.com/primary/98444_english_hls_6695adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Shanghai Port vs Shanghai Shenhua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97941" group-title="Chinese Super League 2024",Shanghai Port vs Shanghai Shenhua
 https://dai.fancode.com/primary/97941_english_hls_9153adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="DTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99298" group-title="DTM 2024",DTM
