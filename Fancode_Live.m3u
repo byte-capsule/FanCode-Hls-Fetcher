@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Stylop Golden Eagles vs KL Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99529" group-title="Grand Rumble T10 Championship Round 2, 2024",Stylop Golden Eagles vs KL Stars
 https://dai.google.com/linear/hls/event/_HADVU1vTJ26ShPi-Fwa4Q/master.m3u8
-#EXTINF:-1 tvg-name="Turtles vs Gorillas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99792" group-title="Futures League, 2024",Turtles vs Gorillas
-https://dai.google.com/linear/hls/event/KOhKVdNtR3mARj9lfoMOjA/master.m3u8
 #EXTINF:-1 tvg-name="Easterns Lioness vs Southern Jaguars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99513" group-title="Malaysian Super Women T20 League, 2024",Easterns Lioness vs Southern Jaguars
 https://dai.google.com/linear/hls/event/Tjkitt1STXuRHa-VEBmPfg/master.m3u8
 #EXTINF:-1 tvg-name="Tengapara C.C, Kokrajhar vs Rangia Cricket Association" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98901" group-title="Assam Premier Club Championship, 2024",Tengapara C.C, Kokrajhar vs Rangia Cricket Association
 https://dai.google.com/linear/hls/event/RoaOpZN_QDSOK55NfKbHVA/master.m3u8
 #EXTINF:-1 tvg-name="West Indies A vs Nepal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99116" group-title="West Indies A tour of Nepal, 2024",West Indies A vs Nepal
 https://dai.google.com/linear/hls/event/J7HQ_F-wSIeuWovr5jnrIA/master.m3u8
+#EXTINF:-1 tvg-name="France vs Hungary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99503" group-title="ECI France, 2024",France vs Hungary
+https://dai.google.com/linear/hls/event/A3AGh_n2SciQcvo2Ekbpug/master.m3u8
 #EXTINF:-1 tvg-name="Newcastle Jets vs Central Coast Mariners" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97536" group-title="A League Men 2023-24",Newcastle Jets vs Central Coast Mariners
 https://dai.fancode.com/primary/97536_english_hls_6259adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Wellington Phoenix vs Macarthur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97535" group-title="A League Men 2023-24",Wellington Phoenix vs Macarthur
