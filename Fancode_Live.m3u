@@ -1,11 +1,21 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Abu Dhabi vs Dubai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99319" group-title="Emirates D50 Tournament, 2024",Abu Dhabi vs Dubai
+https://dai.google.com/linear/hls/event/nt7z9EgbTIO8EG7wIy0QGg/master.m3u8
+#EXTINF:-1 tvg-name="Romania vs Hungary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99505" group-title="ECI France, 2024",Romania vs Hungary
+https://dai.google.com/linear/hls/event/NX6YRIoeQeCQpCF0YnagyQ/master.m3u8
 #EXTINF:-1 tvg-name="USA Women vs Uganda Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98835" group-title="ICC Women's T20 World Cup Qualifier, 2024",USA Women vs Uganda Women
 https://dai.google.com/linear/hls/event/9LtkK35DSwemLzxMeerYTQ/master.m3u8
 #EXTINF:-1 tvg-name="Netherlands Women vs Vanuatu Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98834" group-title="ICC Women's T20 World Cup Qualifier, 2024",Netherlands Women vs Vanuatu Women
 https://dai.google.com/linear/hls/event/QmknjR3ORKu0X7HOXhB4kQ/master.m3u8
+#EXTINF:-1 tvg-name="Right Guards CC vs IPRC Kigali CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96681" group-title="RCA Men's T20, 2024",Right Guards CC vs IPRC Kigali CC
+https://dai.google.com/linear/hls/event/m4BhYv-3RMGom6wuHnKo-g/master.m3u8
 #EXTINF:-1 tvg-name="Melbourne Victory vs Western Sydney Wanderers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97537" group-title="A League Men 2023-24",Melbourne Victory vs Western Sydney Wanderers
 https://dai.fancode.com/primary/97537_english_hls_6475adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Dempo SC vs Panjim Footballers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98444" group-title="Goa Professional League 2023-24",Dempo SC vs Panjim Footballers
 https://dai.fancode.com/primary/98444_english_hls_6695adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Derby County vs Carlisle United" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99502" group-title="League One 2023-24",Derby County vs Carlisle United
+https://dai.google.com/linear/hls/event/WE6pDLJgRZi7gdlyr039-g/master.m3u8
+#EXTINF:-1 tvg-name="DTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99298" group-title="DTM 2024",DTM
+https://dai.google.com/linear/hls/event/6t-515kORnqukAdH0Y-dKA/master.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98091" group-title="LET Investec South African Women's Open",Day 3
 https://dai.google.com/linear/hls/event/WuhKSxCBRYOUFKxvxPFJrw/master.m3u8
