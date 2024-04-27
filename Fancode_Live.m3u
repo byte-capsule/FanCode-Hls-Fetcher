@@ -15,6 +15,8 @@ https://dai.fancode.com/primary/97537_english_hls_6475adfreeta-di/index.m3u8
 https://dai.fancode.com/primary/98444_english_hls_6695adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Derby County vs Carlisle United" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99502" group-title="League One 2023-24",Derby County vs Carlisle United
 https://dai.google.com/linear/hls/event/WE6pDLJgRZi7gdlyr039-g/master.m3u8
+#EXTINF:-1 tvg-name="Shanghai Port vs Shanghai Shenhua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97941" group-title="Chinese Super League 2024",Shanghai Port vs Shanghai Shenhua
+https://dai.fancode.com/primary/97941_english_hls_9153adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="DTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99298" group-title="DTM 2024",DTM
 https://dai.google.com/linear/hls/event/6t-515kORnqukAdH0Y-dKA/master.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98091" group-title="LET Investec South African Women's Open",Day 3
