@@ -1,17 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Government Road Stingrays vs Haynes Smith Sharks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98779" group-title="Cool and Smooth T20, 2024",Government Road Stingrays vs Haynes Smith Sharks
 https://dai.google.com/linear/hls/event/OcBg__hpRi6v3ekKR6ncuw/master.m3u8
-#EXTINF:-1 tvg-name="Turtles vs Dragons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99791" group-title="Futures League, 2024",Turtles vs Dragons
-https://dai.google.com/linear/hls/event/x1hW-bQ-QheVsRUWZ3tINw/master.m3u8
-#EXTINF:-1 tvg-name="Bali Cricket Putri vs Jawa Barat Cricket Putri" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99342" group-title="Kartini T20 Cup",Bali Cricket Putri vs Jawa Barat Cricket Putri
-https://dai.google.com/linear/hls/event/Mso0gssGQ3eF8hd-n10PMg/master.m3u8
-#EXTINF:-1 tvg-name="Western Wonder vs Central Super Girls" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99512" group-title="Malaysian Super Women T20 League, 2024",Western Wonder vs Central Super Girls
-https://dai.google.com/linear/hls/event/JE51dyCmQQOkZK0_yQBfHA/master.m3u8
 #EXTINF:-1 tvg-name="MR KB Putrajaya CC vs KL Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99527" group-title="Grand Rumble T10 Championship Round 2, 2024",MR KB Putrajaya CC vs KL Stars
 https://dai.google.com/linear/hls/event/BZ-J6DHEQVCMfVJeFilYVQ/master.m3u8
+#EXTINF:-1 tvg-name="Garuda Girls vs Nusa Tenggara Timur Putri" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99343" group-title="Kartini T20 Cup",Garuda Girls vs Nusa Tenggara Timur Putri
+https://dai.google.com/linear/hls/event/0r_NTuJhQ5GO4s5EW18iSA/master.m3u8
+#EXTINF:-1 tvg-name="Turtles vs Dragons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99791" group-title="Futures League, 2024",Turtles vs Dragons
+https://dai.google.com/linear/hls/event/x1hW-bQ-QheVsRUWZ3tINw/master.m3u8
 #EXTINF:-1 tvg-name="Saptarshi, Tinsukia vs Super Touch Club, Tezpur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98900" group-title="Assam Premier Club Championship, 2024",Saptarshi, Tinsukia vs Super Touch Club, Tezpur
 https://dai.google.com/linear/hls/event/IdYGu7PWRIyUg2gks4Xy8g/master.m3u8
-#EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99052" group-title="LIV Golf Adelaide",Day 2
-https://dai.google.com/linear/hls/event/gWXobgAUSsmXLc-AQdVP3Q/master.m3u8
+#EXTINF:-1 tvg-name="Western Wonder vs Central Super Girls" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99512" group-title="Malaysian Super Women T20 League, 2024",Western Wonder vs Central Super Girls
+https://dai.google.com/linear/hls/event/JE51dyCmQQOkZK0_yQBfHA/master.m3u8
+#EXTINF:-1 tvg-name="Consadole Sapporo vs Shonan Bellmare" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97991" group-title="J League 2024",Consadole Sapporo vs Shonan Bellmare
+https://dai.fancode.com/primary/97991_english_hls_7010adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99892" group-title="ISPS Handa - Championship",Day 3
 https://dai.google.com/linear/hls/event/cXXS78MdQp6djE0s9cGL3Q/master.m3u8
+#EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99052" group-title="LIV Golf Adelaide",Day 2
+https://dai.google.com/linear/hls/event/gWXobgAUSsmXLc-AQdVP3Q/master.m3u8
