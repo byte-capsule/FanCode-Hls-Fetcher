@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Pak United CC vs KL Zalmi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99528" group-title="Grand Rumble T10 Championship Round 2, 2024",Pak United CC vs KL Zalmi
 https://dai.google.com/linear/hls/event/ONngoFoxSRKXajybjaZ1kw/master.m3u8
-#EXTINF:-1 tvg-name="Garuda Girls vs Nusa Tenggara Timur Putri" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99343" group-title="Kartini T20 Cup",Garuda Girls vs Nusa Tenggara Timur Putri
-https://dai.google.com/linear/hls/event/0r_NTuJhQ5GO4s5EW18iSA/master.m3u8
 #EXTINF:-1 tvg-name="Turtles vs Gorillas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99792" group-title="Futures League, 2024",Turtles vs Gorillas
 https://dai.google.com/linear/hls/event/KOhKVdNtR3mARj9lfoMOjA/master.m3u8
 #EXTINF:-1 tvg-name="Easterns Lioness vs Southern Jaguars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99513" group-title="Malaysian Super Women T20 League, 2024",Easterns Lioness vs Southern Jaguars
 https://dai.google.com/linear/hls/event/Tjkitt1STXuRHa-VEBmPfg/master.m3u8
+#EXTINF:-1 tvg-name="Tengapara C.C, Kokrajhar vs Rangia Cricket Association" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98901" group-title="Assam Premier Club Championship, 2024",Tengapara C.C, Kokrajhar vs Rangia Cricket Association
+https://dai.google.com/linear/hls/event/RoaOpZN_QDSOK55NfKbHVA/master.m3u8
 #EXTINF:-1 tvg-name="West Indies A vs Nepal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99116" group-title="West Indies A tour of Nepal, 2024",West Indies A vs Nepal
 https://dai.google.com/linear/hls/event/J7HQ_F-wSIeuWovr5jnrIA/master.m3u8
 #EXTINF:-1 tvg-name="Cerezo Osaka vs Yokohama F. Marinos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97992" group-title="J League 2024",Cerezo Osaka vs Yokohama F. Marinos
