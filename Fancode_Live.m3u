@@ -1,10 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Abu Dhabi vs Dubai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99319" group-title="Emirates D50 Tournament, 2024",Abu Dhabi vs Dubai
 https://dai.google.com/linear/hls/event/nt7z9EgbTIO8EG7wIy0QGg/master.m3u8
-#EXTINF:-1 tvg-name="V Eleven Cricket Club vs Fly Emirates" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98380" group-title="Bukhatir T20 League, 2024",V Eleven Cricket Club vs Fly Emirates
-https://dai.google.com/linear/hls/event/cw5XyzgYSYCbRk9T_-fobQ/master.m3u8
-#EXTINF:-1 tvg-name="Bahraini Nationals vs Kuwaiti Nationals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99492" group-title="Yalla Shabab T20 Series, 2024",Bahraini Nationals vs Kuwaiti Nationals
-https://dai.google.com/linear/hls/event/MdMzzrmMSX2onXRHt-BCfA/master.m3u8
+#EXTINF:-1 tvg-name="Berbice Pirahnas vs Essequibo Jaguars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99246" group-title="Guyana T10 Blast",Berbice Pirahnas vs Essequibo Jaguars
+https://dai.google.com/linear/hls/event/t8OELVzsRUmkHXPofQtCEQ/master.m3u8
 #EXTINF:-1 tvg-name="Romania vs France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99507" group-title="ECI France, 2024",Romania vs France
 https://dai.google.com/linear/hls/event/LDXkVgjdTmSw6uh5hDy9ZA/master.m3u8
 #EXTINF:-1 tvg-name="Scotland Women vs Sri Lanka Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98837" group-title="ICC Women's T20 World Cup Qualifier, 2024",Scotland Women vs Sri Lanka Women
@@ -13,7 +11,5 @@ https://dai.google.com/linear/hls/event/Yiq_J85pQ7OORymxXw6GSg/master.m3u8
 https://dai.google.com/linear/hls/event/94aYQNyzRiOHcUI9Am-qAQ/master.m3u8
 #EXTINF:-1 tvg-name="Pakistan vs New Zealand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98556" group-title="New Zealand tour of Pakistan, 2024",Pakistan vs New Zealand
 https://dai.google.com/linear/hls/event/br-jxC_JRcCi6dHjQwvqxw/master.m3u8
-#EXTINF:-1 tvg-name="Blackburn Rovers vs Coventry City" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98767" group-title="EFL Championship 2023-24",Blackburn Rovers vs Coventry City
-https://dai.google.com/linear/hls/event/zyKRNF10QWCJMOAuPULJOw/master.m3u8
 #EXTINF:-1 tvg-name="Colchester United vs Crewe Alexandra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99931" group-title="League Two 2023-24",Colchester United vs Crewe Alexandra
 https://dai.fancode.com/primary/99931_english_hls_9508adfreeta-no/index.m3u8
