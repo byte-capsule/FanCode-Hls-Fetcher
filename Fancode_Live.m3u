@@ -7,7 +7,11 @@ https://dai.google.com/linear/hls/event/x1hW-bQ-QheVsRUWZ3tINw/master.m3u8
 https://dai.google.com/linear/hls/event/Mso0gssGQ3eF8hd-n10PMg/master.m3u8
 #EXTINF:-1 tvg-name="Western Wonder vs Central Super Girls" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99512" group-title="Malaysian Super Women T20 League, 2024",Western Wonder vs Central Super Girls
 https://dai.google.com/linear/hls/event/JE51dyCmQQOkZK0_yQBfHA/master.m3u8
-#EXTINF:-1 tvg-name="Pak United CC vs Stylop Golden Eagles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99526" group-title="Grand Rumble T10 Championship Round 2, 2024",Pak United CC vs Stylop Golden Eagles
-https://dai.google.com/linear/hls/event/B5gXWnzjRqS4VxPqtYmJ8A/master.m3u8
+#EXTINF:-1 tvg-name="MR KB Putrajaya CC vs KL Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99527" group-title="Grand Rumble T10 Championship Round 2, 2024",MR KB Putrajaya CC vs KL Stars
+https://dai.google.com/linear/hls/event/BZ-J6DHEQVCMfVJeFilYVQ/master.m3u8
+#EXTINF:-1 tvg-name="Saptarshi, Tinsukia vs Super Touch Club, Tezpur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98900" group-title="Assam Premier Club Championship, 2024",Saptarshi, Tinsukia vs Super Touch Club, Tezpur
+https://dai.google.com/linear/hls/event/IdYGu7PWRIyUg2gks4Xy8g/master.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99052" group-title="LIV Golf Adelaide",Day 2
 https://dai.google.com/linear/hls/event/gWXobgAUSsmXLc-AQdVP3Q/master.m3u8
+#EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99892" group-title="ISPS Handa - Championship",Day 3
+https://dai.google.com/linear/hls/event/cXXS78MdQp6djE0s9cGL3Q/master.m3u8
