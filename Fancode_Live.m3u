@@ -5,8 +5,6 @@ https://dai.google.com/linear/hls/event/nt7z9EgbTIO8EG7wIy0QGg/master.m3u8
 https://dai.google.com/linear/hls/event/cw5XyzgYSYCbRk9T_-fobQ/master.m3u8
 #EXTINF:-1 tvg-name="Bahraini Nationals vs Kuwaiti Nationals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99492" group-title="Yalla Shabab T20 Series, 2024",Bahraini Nationals vs Kuwaiti Nationals
 https://dai.google.com/linear/hls/event/MdMzzrmMSX2onXRHt-BCfA/master.m3u8
-#EXTINF:-1 tvg-name="Romania vs Hungary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99505" group-title="ECI France, 2024",Romania vs Hungary
-https://dai.google.com/linear/hls/event/NX6YRIoeQeCQpCF0YnagyQ/master.m3u8
 #EXTINF:-1 tvg-name="USA Women vs Uganda Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98835" group-title="ICC Women's T20 World Cup Qualifier, 2024",USA Women vs Uganda Women
 https://dai.google.com/linear/hls/event/9LtkK35DSwemLzxMeerYTQ/master.m3u8
 #EXTINF:-1 tvg-name="Netherlands Women vs Vanuatu Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98834" group-title="ICC Women's T20 World Cup Qualifier, 2024",Netherlands Women vs Vanuatu Women
@@ -17,7 +15,5 @@ https://dai.google.com/linear/hls/event/m4BhYv-3RMGom6wuHnKo-g/master.m3u8
 https://dai.google.com/linear/hls/event/WE6pDLJgRZi7gdlyr039-g/master.m3u8
 #EXTINF:-1 tvg-name="Shanghai Port vs Shanghai Shenhua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97941" group-title="Chinese Super League 2024",Shanghai Port vs Shanghai Shenhua
 https://dai.fancode.com/primary/97941_english_hls_9153adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="DTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99298" group-title="DTM 2024",DTM
-https://dai.google.com/linear/hls/event/6t-515kORnqukAdH0Y-dKA/master.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98091" group-title="LET Investec South African Women's Open",Day 3
 https://dai.google.com/linear/hls/event/WuhKSxCBRYOUFKxvxPFJrw/master.m3u8
