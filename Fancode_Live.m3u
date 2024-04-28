@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Hungary vs France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99509" group-title="ECI France, 2024",Hungary vs France
-https://dai.google.com/linear/hls/event/_pGDd3rBR3KnKC2akZTR2Q/master.m3u8
 #EXTINF:-1 tvg-name="France vs Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99510" group-title="ECI France, 2024",France vs Romania
 https://dai.google.com/linear/hls/event/QzIA2zd-RiWOQ3KjZMtYgw/master.m3u8
 #EXTINF:-1 tvg-name="Indorwa CC vs Kutchi Sports Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96682" group-title="RCA Men's T20, 2024",Indorwa CC vs Kutchi Sports Club
@@ -9,8 +7,10 @@ https://dai.google.com/linear/hls/event/ry7nAxAtQ2GzITFUFECOsg/master.m3u8
 https://dai.google.com/linear/hls/event/4kdebbBkRr6zdPZ3lbquTQ/master.m3u8
 #EXTINF:-1 tvg-name="India Women vs Bangladesh Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99442" group-title="India Women tour of Bangladesh, 2024",India Women vs Bangladesh Women
 https://dai.google.com/linear/hls/event/Y71tveZXSoGBo0ZNsapoPw/master.m3u8
-#EXTINF:-1 tvg-name="Sharjah vs Fujairah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99320" group-title="Emirates D50 Tournament, 2024",Sharjah vs Fujairah
+#EXTINF:-1 tvg-name="Fujairah vs Sharjah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99320" group-title="Emirates D50 Tournament, 2024",Fujairah vs Sharjah
 https://dai.google.com/linear/hls/event/O_RajBbUTTmwc7JiAJpojg/master.m3u8
+#EXTINF:-1 tvg-name="Everton Women vs Arsenal Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98250" group-title="Barclays FA Women's Super League 2023-24",Everton Women vs Arsenal Women
+https://dai.fancode.com/primary/98250_english_hls_8227adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="DTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99300" group-title="DTM 2024",DTM
 https://dai.google.com/linear/hls/event/-GW3gUcgTcGHUUg7cvc76Q/master.m3u8
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98092" group-title="LET Investec South African Women's Open",Day 4
