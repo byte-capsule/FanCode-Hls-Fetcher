@@ -3,20 +3,18 @@
 https://dai.google.com/linear/hls/event/iJKWA11RQPe59Jxo3xycqw/master.m3u8
 #EXTINF:-1 tvg-name="Vipers vs Gorillas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99794" group-title="Futures League, 2024",Vipers vs Gorillas
 https://dai.google.com/linear/hls/event/DduVDtDvQZugCqy-AnG0xQ/master.m3u8
-#EXTINF:-1 tvg-name="Bali Cricket Putri vs Jawa Barat Cricket Putri" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99345" group-title="Kartini T20 Cup",Bali Cricket Putri vs Jawa Barat Cricket Putri
-https://dai.google.com/linear/hls/event/ong2p7NnRaCrqZxyzFD7Vw/master.m3u8
 #EXTINF:-1 tvg-name="Northern Queens vs Western Wonder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99515" group-title="Malaysian Super Women T20 League, 2024",Northern Queens vs Western Wonder
 https://dai.google.com/linear/hls/event/UYi2bxuHTDeaMS1lqPM0-w/master.m3u8
 #EXTINF:-1 tvg-name="Biswanath Blue Warriors vs Super Touch Club, Tezpur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98902" group-title="Assam Premier Club Championship, 2024",Biswanath Blue Warriors vs Super Touch Club, Tezpur
 https://dai.google.com/linear/hls/event/-gvplY6zRIqIhRMRN0PRTw/master.m3u8
 #EXTINF:-1 tvg-name="West Indies A vs Nepal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99117" group-title="West Indies A tour of Nepal, 2024",West Indies A vs Nepal
 https://dai.google.com/linear/hls/event/TuOeRvrmR4yXf7121s1uaA/master.m3u8
-#EXTINF:-1 tvg-name="Sydney FC vs Perth Glory" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97538" group-title="A League Men 2023-24",Sydney FC vs Perth Glory
-https://dai.fancode.com/primary/97538_english_hls_5532adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Gamba Osaka vs Kashima Antlers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97994" group-title="J League 2024",Gamba Osaka vs Kashima Antlers
 https://dai.fancode.com/primary/97994_english_hls_8772adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Urawa Red Diamonds vs Nagoya Grampus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97993" group-title="J League 2024",Urawa Red Diamonds vs Nagoya Grampus
 https://dai.fancode.com/primary/97993_english_hls_2648adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Sydney FC vs Perth Glory" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97538" group-title="A League Men 2023-24",Sydney FC vs Perth Glory
+https://dai.fancode.com/primary/97538_english_hls_5532adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99893" group-title="ISPS Handa - Championship",Day 4
 https://dai.google.com/linear/hls/event/loAO6N7HQYWY1KKLMMUS8g/master.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99053" group-title="LIV Golf Adelaide",Day 3
