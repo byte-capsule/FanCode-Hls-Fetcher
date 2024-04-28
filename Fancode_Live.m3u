@@ -1,13 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Muhamand Warriors vs UAE Kings XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98383" group-title="Bukhatir T20 League, 2024",Muhamand Warriors vs UAE Kings XI
-https://dai.google.com/linear/hls/event/q9yLBkQASaCGo6ZyyrrHXw/master.m3u8
-#EXTINF:-1 tvg-name="CECC-B vs AP XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99728" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",CECC-B vs AP XI
-https://dai.google.com/linear/hls/event/LFpZ9PBARc-IX5MYgKgGtw/master.m3u8
-#EXTINF:-1 tvg-name="Ajman vs Emirates Blues" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99321" group-title="Emirates D50 Tournament, 2024",Ajman vs Emirates Blues
-https://dai.google.com/linear/hls/event/0DDX1u7cQh-sUGrCb4pVfA/master.m3u8
-#EXTINF:-1 tvg-name="Fujairah vs Sharjah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99320" group-title="Emirates D50 Tournament, 2024",Fujairah vs Sharjah
-https://dai.google.com/linear/hls/event/O_RajBbUTTmwc7JiAJpojg/master.m3u8
 #EXTINF:-1 tvg-name="Bristol City Women vs Manchester City Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98793" group-title="Barclays FA Women's Super League 2023-24",Bristol City Women vs Manchester City Women
 https://dai.fancode.com/primary/98793_english_hls_8599adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Andorra Euro vs Barcelona" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97218" group-title="Liga Endesa",Andorra Euro vs Barcelona
-https://dai.google.com/linear/hls/event/KKTi3jMzQvCirW4baOZjig/master.m3u8
