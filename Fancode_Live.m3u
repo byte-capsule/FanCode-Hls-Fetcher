@@ -15,7 +15,5 @@ https://dai.google.com/linear/hls/event/O_RajBbUTTmwc7JiAJpojg/master.m3u8
 https://dai.google.com/linear/hls/event/Y71tveZXSoGBo0ZNsapoPw/master.m3u8
 #EXTINF:-1 tvg-name="Everton Women vs Arsenal Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98250" group-title="Barclays FA Women's Super League 2023-24",Everton Women vs Arsenal Women
 https://dai.fancode.com/primary/98250_english_hls_8227adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="DTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99300" group-title="DTM 2024",DTM
-https://dai.google.com/linear/hls/event/-GW3gUcgTcGHUUg7cvc76Q/master.m3u8
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98092" group-title="LET Investec South African Women's Open",Day 4
 https://dai.google.com/linear/hls/event/EgjDkZfHSG2org43p12XZQ/master.m3u8
