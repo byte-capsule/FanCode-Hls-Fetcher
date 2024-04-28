@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Sandy Point Snappers vs Haynes Smith Sharks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98782" group-title="Cool and Smooth T20, 2024",Sandy Point Snappers vs Haynes Smith Sharks
 https://dai.google.com/linear/hls/event/MVIdsrTaQLO4pVLrkUJoaw/master.m3u8
-#EXTINF:-1 tvg-name="Clarke Road United vs Powergen Penal SC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99179" group-title="Trinidad T20 Festival, 2024",Clarke Road United vs Powergen Penal SC
-https://dai.google.com/linear/hls/event/tQXqZG5CQO6YHbT84BXxMw/master.m3u8
 #EXTINF:-1 tvg-name="Kowloon Cricket Club Women vs Hong Kong Cricket Club Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95190" group-title="CHK Women's Premier League T20",Kowloon Cricket Club Women vs Hong Kong Cricket Club Women
 https://dai.google.com/linear/hls/event/spmNsJKKR_WabClbTEjyzA/master.m3u8
 #EXTINF:-1 tvg-name="Turtles vs Vipers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99793" group-title="Futures League, 2024",Turtles vs Vipers
@@ -11,8 +9,6 @@ https://dai.google.com/linear/hls/event/Rtf-TOyTR66amYEkFDNPaw/master.m3u8
 https://dai.google.com/linear/hls/event/lrhCD2c_Q_q7Uiw3pu-Zhg/master.m3u8
 #EXTINF:-1 tvg-name="Central Super Girls vs Easterns Lioness" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99514" group-title="Malaysian Super Women T20 League, 2024",Central Super Girls vs Easterns Lioness
 https://dai.google.com/linear/hls/event/fLglBawdSF25Ll9q5qV2gw/master.m3u8
-#EXTINF:-1 tvg-name="SSF Panthers vs Stylop Golden Eagles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99530" group-title="Grand Rumble T10 Championship Round 2, 2024",SSF Panthers vs Stylop Golden Eagles
-https://dai.google.com/linear/hls/event/e0aatKz5Tbih6XsC7jMUHA/master.m3u8
 #EXTINF:-1 tvg-name="Biswanath Blue Warriors vs Super Touch Club, Tezpur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98902" group-title="Assam Premier Club Championship, 2024",Biswanath Blue Warriors vs Super Touch Club, Tezpur
 https://dai.google.com/linear/hls/event/-gvplY6zRIqIhRMRN0PRTw/master.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99053" group-title="LIV Golf Adelaide",Day 3
