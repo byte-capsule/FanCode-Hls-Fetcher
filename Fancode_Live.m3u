@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="SSF Panthers vs Pak United CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99531" group-title="Grand Rumble T10 Championship Round 2, 2024",SSF Panthers vs Pak United CC
+https://dai.google.com/linear/hls/event/iJKWA11RQPe59Jxo3xycqw/master.m3u8
+#EXTINF:-1 tvg-name="Vipers vs Gorillas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99794" group-title="Futures League, 2024",Vipers vs Gorillas
+https://dai.google.com/linear/hls/event/DduVDtDvQZugCqy-AnG0xQ/master.m3u8
 #EXTINF:-1 tvg-name="Bali Cricket Putri vs Jawa Barat Cricket Putri" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99345" group-title="Kartini T20 Cup",Bali Cricket Putri vs Jawa Barat Cricket Putri
 https://dai.google.com/linear/hls/event/ong2p7NnRaCrqZxyzFD7Vw/master.m3u8
 #EXTINF:-1 tvg-name="Biswanath Blue Warriors vs Super Touch Club, Tezpur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98902" group-title="Assam Premier Club Championship, 2024",Biswanath Blue Warriors vs Super Touch Club, Tezpur
