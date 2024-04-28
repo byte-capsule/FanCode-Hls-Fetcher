@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Hungary vs Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99511" group-title="ECI France, 2024",Hungary vs Romania
-https://dai.google.com/linear/hls/event/fEdSnDb4Rr2lX9T0c4Qrfg/master.m3u8
-#EXTINF:-1 tvg-name="Dolphins vs DP World Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95819" group-title="CSA T20 Challenge, 2024",Dolphins vs DP World Lions
-https://dai.google.com/linear/hls/event/8P4-s8dNQLi_k1jFtYkDnQ/master.m3u8
 #EXTINF:-1 tvg-name="Ajman vs Emirates Blues" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99321" group-title="Emirates D50 Tournament, 2024",Ajman vs Emirates Blues
 https://dai.google.com/linear/hls/event/0DDX1u7cQh-sUGrCb4pVfA/master.m3u8
 #EXTINF:-1 tvg-name="Fujairah vs Sharjah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99320" group-title="Emirates D50 Tournament, 2024",Fujairah vs Sharjah
