@@ -1,8 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="GAT vs Al Mulla Exchange - B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99729" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",GAT vs Al Mulla Exchange - B
+https://dai.google.com/linear/hls/event/LEQlkjRDQhC7c9HmJQ5mAw/master.m3u8
 #EXTINF:-1 tvg-name="V Eleven Cricket Club vs Mawa Chemicals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98384" group-title="Bukhatir T20 League, 2024",V Eleven Cricket Club vs Mawa Chemicals
 https://dai.google.com/linear/hls/event/66rp-2w5QtCIm791KurdLg/master.m3u8
-#EXTINF:-1 tvg-name="Brescia CC vs Albano" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99577" group-title="ECS Italy, Brescia, 2024",Brescia CC vs Albano
-https://dai.google.com/linear/hls/event/LCzh0oUHQoKYKGm8pBcWig/master.m3u8
 #EXTINF:-1 tvg-name="Netherlands Women vs United Arab Emirates Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98841" group-title="ICC Women's T20 World Cup Qualifier, 2024",Netherlands Women vs United Arab Emirates Women
 https://dai.google.com/linear/hls/event/k7PEK-vVTCeznbYbUKCpCw/master.m3u8
 #EXTINF:-1 tvg-name="Uganda Women vs Thailand Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98840" group-title="ICC Women's T20 World Cup Qualifier, 2024",Uganda Women vs Thailand Women
