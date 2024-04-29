@@ -1,5 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Brescia CC vs Albano" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99577" group-title="ECS Italy, Brescia, 2024",Brescia CC vs Albano
 https://dai.google.com/linear/hls/event/LCzh0oUHQoKYKGm8pBcWig/master.m3u8
+#EXTINF:-1 tvg-name="Netherlands Women vs United Arab Emirates Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98841" group-title="ICC Women's T20 World Cup Qualifier, 2024",Netherlands Women vs United Arab Emirates Women
+https://dai.google.com/linear/hls/event/k7PEK-vVTCeznbYbUKCpCw/master.m3u8
+#EXTINF:-1 tvg-name="Uganda Women vs Thailand Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98840" group-title="ICC Women's T20 World Cup Qualifier, 2024",Uganda Women vs Thailand Women
+https://dai.google.com/linear/hls/event/Lnw5huISTX2g-KgbEq-mBQ/master.m3u8
 #EXTINF:-1 tvg-name="Indonesia U23 vs Uzbekistan U23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99143" group-title="AFC U23 Asia Cup Qatar 2024",Indonesia U23 vs Uzbekistan U23
 https://dai.google.com/linear/hls/event/c0B4S56aTGGZuMP9XQi8AA/master.m3u8
