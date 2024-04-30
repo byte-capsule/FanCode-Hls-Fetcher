@@ -1,9 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Fornaci vs Cividate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99580" group-title="ECS Italy, Brescia, 2024",Fornaci vs Cividate
 https://dai.google.com/linear/hls/event/veNKrUXoSoW6io4P3shhsw/master.m3u8
-#EXTINF:-1 tvg-name="Bangladesh Women vs India Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99443" group-title="India Women tour of Bangladesh, 2024",Bangladesh Women vs India Women
- Free Trial attempt unsuccessful......it requires Premium Account
 #EXTINF:-1 tvg-name="Dubai vs Ajman" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99322" group-title="Emirates D50 Tournament, 2024",Dubai vs Ajman
 https://dai.google.com/linear/hls/event/KjRxnzwLSGiMmkaToi-JkQ/master.m3u8
+#EXTINF:-1 tvg-name="Abu Dhabi vs Emirates Blues" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99323" group-title="Emirates D50 Tournament, 2024",Abu Dhabi vs Emirates Blues
+https://dai.google.com/linear/hls/event/SVO7Wc3PRgmRRt8baGixcw/master.m3u8
+#EXTINF:-1 tvg-name="Bangladesh Women vs India Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99443" group-title="India Women tour of Bangladesh, 2024",Bangladesh Women vs India Women
+ Free Trial attempt unsuccessful......it requires Premium Account
 #EXTINF:-1 tvg-name="Panjim Footballers vs Calangute Association" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99887" group-title="Goa Professional League 2023-24",Panjim Footballers vs Calangute Association
 https://dai.fancode.com/primary/99887_english_hls_805adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Zhejiang vs Henan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="97942" group-title="Chinese Super League 2024",Zhejiang vs Henan
+https://dai.fancode.com/primary/97942_english_hls_6565adfreeta-di/index.m3u8
