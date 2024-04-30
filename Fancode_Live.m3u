@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Western Wonder vs Easterns Lioness" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99517" group-title="Malaysian Super Women T20 League, 2024",Western Wonder vs Easterns Lioness
 https://dai.google.com/linear/hls/event/IDOUeuE9S4-q94mrw0AFsA/master.m3u8
+#EXTINF:-1 tvg-name="Tengapara C.C, Kokrajhar vs Napcc, Morigaon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98907" group-title="Assam Premier Club Championship, 2024",Tengapara C.C, Kokrajhar vs Napcc, Morigaon
+https://dai.google.com/linear/hls/event/g94VxPeUSVu6OKbW4uVyXw/master.m3u8
+#EXTINF:-1 tvg-name="Cricket Stars vs Cividate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99578" group-title="ECS Italy, Brescia, 2024",Cricket Stars vs Cividate
+https://dai.google.com/linear/hls/event/zIvX0q5fSymucugT6_4Ibg/master.m3u8
