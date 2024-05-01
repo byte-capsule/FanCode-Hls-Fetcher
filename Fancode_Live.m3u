@@ -3,12 +3,12 @@
 https://dai.google.com/linear/hls/event/v5QX5ORkSnKkxDvY_DEwZQ/master.m3u8
 #EXTINF:-1 tvg-name="Abu Dhabi vs Sharjah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99324" group-title="Emirates D50 Tournament, 2024",Abu Dhabi vs Sharjah
 https://dai.fancode.com/primary/99324_english_hls_848adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="SBS CC vs MEC Study Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99731" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",SBS CC vs MEC Study Group
+https://dai.fancode.com/primary/99731_english_hls_8458adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Gems Education CC vs Dubai Thunders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98368" group-title="Bukhatir T20 League, 2024",Gems Education CC vs Dubai Thunders
 https://dai.fancode.com/primary/98368_english_hls_7839adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Essequibo Jaguars vs Essequibo Anacondas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99260" group-title="Guyana T10 Blast",Essequibo Jaguars vs Essequibo Anacondas
 https://dai.fancode.com/primary/99260_english_hls_7922adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Brescia CC vs Fresh Tropical" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99587" group-title="ECS Italy, Brescia, 2024",Brescia CC vs Fresh Tropical
-https://dai.fancode.com/primary/99587_english_hls_6790adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="North West Warriors vs Northern Knights" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99913" group-title="Ireland Inter-Provincial T20 Trophy, 2024",North West Warriors vs Northern Knights
 https://dai.fancode.com/primary/99913_english_hls_7624adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="USA Women vs Thailand Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98845" group-title="ICC Women's T20 World Cup Qualifier, 2024",USA Women vs Thailand Women
@@ -17,7 +17,9 @@ https://dai.google.com/linear/hls/event/EIRO5nzeTPGz5x4F6Ho1kQ/master.m3u8
 https://dai.google.com/linear/hls/event/OOcTC1qUSqiWUNI-W2TTMQ/master.m3u8
 #EXTINF:-1 tvg-name="South East Stars vs Western Storm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99005" group-title="Rachael Heyhoe Flint Trophy, 2024",South East Stars vs Western Storm
 https://dai.fancode.com/primary/99005_english_hls_7185adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Seidl,R./Pristauz vs Guto/Pedro Solberg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100420" group-title="Volleyball Mens Beach Pro Tour",Seidl,R./Pristauz vs Guto/Pedro Solberg
-https://dai.fancode.com/primary/100420_english_hls_7207adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Luini/Varenhorst vs Aravena/Droguett" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100419" group-title="Volleyball Mens Beach Pro Tour",Luini/Varenhorst vs Aravena/Droguett
 https://dai.fancode.com/primary/100419_english_hls_596adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Vinicius/Heitor vs Grimalt M./Grimalt E." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100422" group-title="Volleyball Mens Beach Pro Tour",Vinicius/Heitor vs Grimalt M./Grimalt E.
+https://dai.fancode.com/primary/100422_english_hls_2098adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Capogrosso T./Capogrosso N. vs Canet/Rotar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100421" group-title="Volleyball Mens Beach Pro Tour",Capogrosso T./Capogrosso N. vs Canet/Rotar
+https://dai.fancode.com/primary/100421_english_hls_5746adfreeta-no/index.m3u8
