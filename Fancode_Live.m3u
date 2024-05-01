@@ -3,6 +3,8 @@
 https://dai.google.com/linear/hls/event/v5QX5ORkSnKkxDvY_DEwZQ/master.m3u8
 #EXTINF:-1 tvg-name="Abu Dhabi vs Sharjah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99324" group-title="Emirates D50 Tournament, 2024",Abu Dhabi vs Sharjah
 https://dai.fancode.com/primary/99324_english_hls_848adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Gems Education CC vs Dubai Thunders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98368" group-title="Bukhatir T20 League, 2024",Gems Education CC vs Dubai Thunders
+https://dai.fancode.com/primary/98368_english_hls_7839adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Essequibo Jaguars vs Essequibo Anacondas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99260" group-title="Guyana T10 Blast",Essequibo Jaguars vs Essequibo Anacondas
 https://dai.fancode.com/primary/99260_english_hls_7922adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Brescia CC vs Fresh Tropical" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99587" group-title="ECS Italy, Brescia, 2024",Brescia CC vs Fresh Tropical
@@ -17,9 +19,7 @@ https://dai.google.com/linear/hls/event/OOcTC1qUSqiWUNI-W2TTMQ/master.m3u8
 https://dai.fancode.com/primary/99005_english_hls_7185adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Adelmo/Malteus vs Lyneel/Bassereau" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100418" group-title="Volleyball Mens Beach Pro Tour",Adelmo/Malteus vs Lyneel/Bassereau
 https://dai.fancode.com/primary/100418_english_hls_7931adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Mol, H./Berntsen vs Grossig/Seiser" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100417" group-title="Volleyball Mens Beach Pro Tour",Mol, H./Berntsen vs Grossig/Seiser
-https://dai.fancode.com/primary/100417_english_hls_1936adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Seidl,R./Pristauz vs Guto/Pedro Solberg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100420" group-title="Volleyball Mens Beach Pro Tour",Seidl,R./Pristauz vs Guto/Pedro Solberg
- Free Trial attempt unsuccessful......it requires Premium Account
+https://dai.fancode.com/primary/100420_english_hls_7207adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Luini/Varenhorst vs Aravena/Droguett" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100419" group-title="Volleyball Mens Beach Pro Tour",Luini/Varenhorst vs Aravena/Droguett
  Free Trial attempt unsuccessful......it requires Premium Account
