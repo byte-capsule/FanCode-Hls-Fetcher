@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Abu Dhabi vs Sharjah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99324" group-title="Emirates D50 Tournament, 2024",Abu Dhabi vs Sharjah
 https://dai.fancode.com/primary/99324_english_hls_848adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Emirates Blues vs Fujairah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99325" group-title="Emirates D50 Tournament, 2024",Emirates Blues vs Fujairah
+https://dai.google.com/linear/hls/event/v5QX5ORkSnKkxDvY_DEwZQ/master.m3u8
 #EXTINF:-1 tvg-name="Markhor Milano vs Brescia CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99585" group-title="ECS Italy, Brescia, 2024",Markhor Milano vs Brescia CC
 https://dai.google.com/linear/hls/event/yhxV495GRqKoqAef1mMxXg/master.m3u8
 #EXTINF:-1 tvg-name="Speen Ghar Region vs Mis Ainak Region" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99549" group-title="Qosh Tepa National T20 Cup, 2024",Speen Ghar Region vs Mis Ainak Region
@@ -22,4 +24,10 @@ https://dai.fancode.com/primary/99886_english_hls_458adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Young Boys vs Sesa FA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99885" group-title="Goa Professional League 2023-24",Young Boys vs Sesa FA
  Free Trial attempt unsuccessful......it requires Premium Account
 #EXTINF:-1 tvg-name="Churchill Brothers FC vs FC Goa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99884" group-title="Goa Professional League 2023-24",Churchill Brothers FC vs FC Goa
+ Free Trial attempt unsuccessful......it requires Premium Account
+#EXTINF:-1 tvg-name="Shanghai Shenhua vs Cangzhou Mighty Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99894" group-title="Chinese Super League 2024",Shanghai Shenhua vs Cangzhou Mighty Lions
+https://dai.fancode.com/primary/99894_english_hls_837adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Vieira/Chamereau vs Bansley/Bukovec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100406" group-title="Volleyball Womens Beach Pro Tour",Vieira/Chamereau vs Bansley/Bukovec
+ Free Trial attempt unsuccessful......it requires Premium Account
+#EXTINF:-1 tvg-name="Paulikiene/Raupelyte vs Placette/Richard" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100405" group-title="Volleyball Womens Beach Pro Tour",Paulikiene/Raupelyte vs Placette/Richard
  Free Trial attempt unsuccessful......it requires Premium Account
