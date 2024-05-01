@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Emirates Blues vs Fujairah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99325" group-title="Emirates D50 Tournament, 2024",Emirates Blues vs Fujairah
-https://dai.google.com/linear/hls/event/v5QX5ORkSnKkxDvY_DEwZQ/master.m3u8
 #EXTINF:-1 tvg-name="SBS CC vs MEC Study Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99731" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",SBS CC vs MEC Study Group
 https://dai.fancode.com/primary/99731_english_hls_8458adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Gems Education CC vs Dubai Thunders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98368" group-title="Bukhatir T20 League, 2024",Gems Education CC vs Dubai Thunders
