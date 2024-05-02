@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Powergen Penal SC vs Preysal SC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99187" group-title="Trinidad T20 Festival, 2024",Powergen Penal SC vs Preysal SC
+https://dai.fancode.com/primary/99187_english_hls_8031adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Crabb Tr./Brunner vs Arthur/Adrielson" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100427" group-title="Volleyball Mens Beach Pro Tour",Crabb Tr./Brunner vs Arthur/Adrielson
+https://dai.fancode.com/primary/100427_english_hls_1345adfreeta-no/index.m3u8
