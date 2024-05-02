@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Phoenix Cricketers vs AP XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99732" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",Phoenix Cricketers vs AP XI
 https://dai.fancode.com/primary/99732_english_hls_8512adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Iraq U23 vs Indonesia U23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99148" group-title="AFC U23 Asia Cup Qatar 2024",Iraq U23 vs Indonesia U23
-https://dai.google.com/linear/hls/event/vj1hrWzTQj6iYj_a6HaYIg/master.m3u8
 #EXTINF:-1 tvg-name="Brouwer/Meeuwsen vs Grimalt M./Grimalt E." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99832" group-title="Volleyball Mens Beach Pro Tour",Brouwer/Meeuwsen vs Grimalt M./Grimalt E.
 https://dai.fancode.com/primary/99832_english_hls_9593adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Ehlers/Wickler vs Hörl/Horst" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99831" group-title="Volleyball Mens Beach Pro Tour",Ehlers/Wickler vs Hörl/Horst
