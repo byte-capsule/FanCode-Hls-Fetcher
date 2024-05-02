@@ -1,11 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Mis-e-Ainak Region vs Boost Region" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99551" group-title="Qosh Tepa National T20 Cup, 2024",Mis-e-Ainak Region vs Boost Region
 https://dai.google.com/linear/hls/event/zrt53PosR2iVbKbqUHih_A/master.m3u8
-#EXTINF:-1 tvg-name="Cricket Stars vs Albano" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99590" group-title="ECS Italy, Brescia, 2024",Cricket Stars vs Albano
-https://dai.google.com/linear/hls/event/088mRrN5TwK3YDJEwVvigA/master.m3u8
 #EXTINF:-1 tvg-name="Northern Knights vs Munster Reds" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99914" group-title="Ireland Inter-Provincial T20 Trophy, 2024",Northern Knights vs Munster Reds
 https://dai.google.com/linear/hls/event/L9ZeFZ9aSuugfpCPK-J3kA/master.m3u8
 #EXTINF:-1 tvg-name="Sharjah vs Dubai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99327" group-title="Emirates D50 Tournament, 2024",Sharjah vs Dubai
  Free Trial attempt unsuccessful......it requires Premium Account
 #EXTINF:-1 tvg-name="Bangladesh Women vs India Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99444" group-title="India Women tour of Bangladesh, 2024",Bangladesh Women vs India Women
 https://dai.google.com/linear/hls/event/yKef5KvoT3yyh9NOopJRIg/master.m3u8
+#EXTINF:-1 tvg-name="Müller/Tillmann vs Vieira/Chamereau" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99804" group-title="Volleyball Womens Beach Pro Tour",Müller/Tillmann vs Vieira/Chamereau
+https://dai.fancode.com/primary/99804_english_hls_1025adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Ana Patrícia/Duda vs Tina/Anastasija" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99803" group-title="Volleyball Womens Beach Pro Tour",Ana Patrícia/Duda vs Tina/Anastasija
+https://dai.fancode.com/primary/99803_english_hls_5130adfreeta-di/index.m3u8
