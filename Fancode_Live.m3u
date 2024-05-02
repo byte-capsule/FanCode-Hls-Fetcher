@@ -1,15 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Phoenix Cricketers vs AP XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99732" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",Phoenix Cricketers vs AP XI
 https://dai.fancode.com/primary/99732_english_hls_8512adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Demerara Hawks vs Essequibo Jaguars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99251" group-title="Guyana T10 Blast",Demerara Hawks vs Essequibo Jaguars
-https://dai.google.com/linear/hls/event/lmRIvPywRJKBvant5efvuA/master.m3u8
-#EXTINF:-1 tvg-name="North West Warriors vs Leinster Lightning" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99915" group-title="Ireland Inter-Provincial T20 Trophy, 2024",North West Warriors vs Leinster Lightning
-https://dai.fancode.com/primary/99915_english_hls_7563adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="West Indies Women vs Pakistan Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98564" group-title="West Indies Women tour of Pakistan, 2024",West Indies Women vs Pakistan Women
-https://dai.fancode.com/primary/98564_english_hls_8633adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Iraq U23 vs Indonesia U23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99148" group-title="AFC U23 Asia Cup Qatar 2024",Iraq U23 vs Indonesia U23
 https://dai.google.com/linear/hls/event/vj1hrWzTQj6iYj_a6HaYIg/master.m3u8
-#EXTINF:-1 tvg-name="Melissa/Brandie vs Tainá/Victoria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99809" group-title="Volleyball Womens Beach Pro Tour",Melissa/Brandie vs Tainá/Victoria
-https://dai.fancode.com/primary/99809_english_hls_1509adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Stam/Schoon vs Ittlinger/Borger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100179" group-title="Volleyball Womens Beach Pro Tour",Stam/Schoon vs Ittlinger/Borger
-https://dai.fancode.com/primary/100179_english_hls_5313adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Brouwer/Meeuwsen vs Grimalt M./Grimalt E." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99832" group-title="Volleyball Mens Beach Pro Tour",Brouwer/Meeuwsen vs Grimalt M./Grimalt E.
+https://dai.fancode.com/primary/99832_english_hls_9593adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Ehlers/Wickler vs Hörl/Horst" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99831" group-title="Volleyball Mens Beach Pro Tour",Ehlers/Wickler vs Hörl/Horst
+https://dai.fancode.com/primary/99831_english_hls_2174adfreeta-no/index.m3u8
