@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Powergen Penal SC vs Preysal SC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99187" group-title="Trinidad T20 Festival, 2024",Powergen Penal SC vs Preysal SC
 https://dai.fancode.com/primary/99187_english_hls_8031adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Monterrey vs Columbus Crew" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98804" group-title="CONCACAF Champions Cup",Monterrey vs Columbus Crew
+https://mls3.fancode.com/c79609d9-cb0a-4c89-b9fe-ff24fc24b92f/master.m3u8
