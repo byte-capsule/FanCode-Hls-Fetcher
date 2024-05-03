@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 9,
-  "updated_on": "03-05-2024 on 0:40:57 PM \ud83c\udf1e",
+  "channels_amount": 10,
+  "updated_on": "03-05-2024 on 1:06:48 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -50,6 +50,17 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "Assam Premier Club Championship, 2024",
+      "match_id": 98913,
+      "match_name": "Tengapara C.C, Kokrajhar vs Star Sporting Club, Nagaon",
+      "team_1": "Tengapara C.C, Kokrajhar",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TENGA@2x.png",
+      "team_2": "Star Sporting Club, Nagaon",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSR@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/7jGOdyobQE-ek71VPAJ5_A/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "Qosh Tepa National T20 Cup, 2024",
       "match_id": 99552,
       "match_name": "Speen Ghar Region vs Amo Region",
@@ -58,6 +69,17 @@
       "team_2": "Amo Region",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AM@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/qS3Sa47yS26jYrTfecjqWg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ECS Italy, Brescia, 2024",
+      "match_id": 99593,
+      "match_name": "Brescia CC vs Cricket Stars",
+      "team_1": "Brescia CC",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/BRCC-CR1@2x.png",
+      "team_2": "Cricket Stars",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/CRS-CR1@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/7I49ax0cR3eQgt37OcJvYw/master.m3u8"
     },
     {
       "event_catagory": "football",
@@ -73,13 +95,13 @@
     {
       "event_catagory": "football",
       "event_name": "J League 2024",
-      "match_id": 99569,
-      "match_name": "Yokohama F. Marinos vs J\u00fabilo Iwata",
-      "team_1": "Yokohama F. Marinos",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-YKM@2x.png",
-      "team_2": "J\u00fabilo Iwata",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-JIW@2x.png",
-      "stream_link": "https://dai.fancode.com/primary/99569_english_hls_7308adfreeta-di/index.m3u8"
+      "match_id": 99571,
+      "match_name": "Kawasaki Frontale vs Urawa Red Diamonds",
+      "team_1": "Kawasaki Frontale",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KAFRON@2x.png",
+      "team_2": "Urawa Red Diamonds",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-URW@2x.png",
+      "stream_link": "https://dai.fancode.com/primary/99571_english_hls_1101adfreeta-di/index.m3u8"
     },
     {
       "event_catagory": "golf",
@@ -91,17 +113,6 @@
       "team_2": "China",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/te5rPHJYRROZjGqM4HdPjQ/master.m3u8"
-    },
-    {
-      "event_catagory": "golf",
-      "event_name": "LIV Golf Singapore",
-      "match_id": 99721,
-      "match_name": "Day 1",
-      "team_1": "Day 1",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LM@2x.png",
-      "team_2": "Singapore",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "stream_link": "https://dai.fancode.com/primary/99721_english_hls_1209adfreeta-no/index.m3u8"
     }
   ]
 }
