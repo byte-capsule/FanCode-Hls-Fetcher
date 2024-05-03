@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 6,
-  "updated_on": "03-05-2024 on 08:42:45 AM \ud83c\udf1e",
+  "channels_amount": 5,
+  "updated_on": "03-05-2024 on 09:08:03 AM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -14,17 +14,6 @@
       "team_2": "Brownhill Dolphins",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRD@2x.png",
       "stream_link": "https://dai.fancode.com/primary/98788_english_hls_7258adfreeta-di/index.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Grand Rumble T10 Championship Round 2, 2024",
-      "match_id": 99537,
-      "match_name": "KL Zalmi vs SSF Panthers",
-      "team_1": "KL Zalmi",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KLZM@2x.png",
-      "team_2": "SSF Panthers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSF@2x.png",
-      "stream_link": "https://dai.fancode.com/primary/99537_english_hls_7101adfreeta-di/index.m3u8"
     },
     {
       "event_catagory": "cricket",
