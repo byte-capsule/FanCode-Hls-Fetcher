@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Sandy Point Snappers vs Brownhill Dolphins" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98788" group-title="Cool and Smooth T20, 2024",Sandy Point Snappers vs Brownhill Dolphins
 https://dai.fancode.com/primary/98788_english_hls_7258adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="South Kanto Super Kings vs East Kanto Sunrisers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99950" group-title="Japan Premier League T20, 2024",South Kanto Super Kings vs East Kanto Sunrisers
+#EXTINF:-1 tvg-name="Pak United CC vs MR KB Putrajaya CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99538" group-title="Grand Rumble T10 Championship Round 2, 2024",Pak United CC vs MR KB Putrajaya CC
+https://dai.fancode.com/primary/99538_english_hls_7874adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="East Kanto Sunrisers vs South Kanto Super Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99950" group-title="Japan Premier League T20, 2024",East Kanto Sunrisers vs South Kanto Super Kings
 https://dai.fancode.com/primary/99950_english_hls_7172adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Easterns Lioness vs Northern Queens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99520" group-title="Malaysian Super Women T20 League, 2024",Easterns Lioness vs Northern Queens
 https://dai.fancode.com/primary/99520_english_hls_7514adfreeta-no/index.m3u8
