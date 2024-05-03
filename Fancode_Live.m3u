@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Markhor Milano vs Cricket Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99595" group-title="ECS Italy, Brescia, 2024",Markhor Milano vs Cricket Stars
-https://dai.google.com/linear/hls/event/aIeXQAGeSfe6ZbprVoz9Tw/master.m3u8
+#EXTINF:-1 tvg-name="Cividate vs Markhor Milano" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99596" group-title="ECS Italy, Brescia, 2024",Cividate vs Markhor Milano
+https://dai.google.com/linear/hls/event/IXa98ibVRsOpbS9S-qB8pg/master.m3u8
 #EXTINF:-1 tvg-name="United Arab Emirates Women vs Vanuatu Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98847" group-title="ICC Women's T20 World Cup Qualifier, 2024",United Arab Emirates Women vs Vanuatu Women
 https://dai.google.com/linear/hls/event/HpaMwjY8SZ-U_3EplMNx9A/master.m3u8
 #EXTINF:-1 tvg-name="Thailand Women vs Scotland Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98846" group-title="ICC Women's T20 World Cup Qualifier, 2024",Thailand Women vs Scotland Women
@@ -13,9 +13,7 @@ https://dai.google.com/linear/hls/event/C9uH9aZiStefeBAGm0VqPA/master.m3u8
 https://dai.google.com/linear/hls/event/PqLn5CgbTt2BqS0JcnB5fg/master.m3u8
 #EXTINF:-1 tvg-name="Fujairah vs Ajman" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99326" group-title="Emirates D50 Tournament, 2024",Fujairah vs Ajman
 https://dai.google.com/linear/hls/event/w2he9GXoTf6J78SVCiYBJA/master.m3u8
-#EXTINF:-1 tvg-name="Brunner/Hüberli vs Agatha/Rebecca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99816" group-title="Volleyball Womens Beach Pro Tour",Brunner/Hüberli vs Agatha/Rebecca
-https://dai.fancode.com/primary/99816_english_hls_683adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Tainá/Victoria vs Ittlinger/Borger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99818" group-title="Volleyball Womens Beach Pro Tour",Tainá/Victoria vs Ittlinger/Borger
 https://dai.fancode.com/primary/99818_english_hls_536adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Melissa/Brandie vs Stam/Schoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99817" group-title="Volleyball Womens Beach Pro Tour",Melissa/Brandie vs Stam/Schoon
- Free Trial attempt unsuccessful......it requires Premium Account
+https://dai.fancode.com/primary/99817_english_hls_4430adfreeta-di/index.m3u8
