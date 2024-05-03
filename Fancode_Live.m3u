@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Royal Lions CC vs MEC Study Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99735" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",Royal Lions CC vs MEC Study Group
 https://dai.google.com/linear/hls/event/4AAO4xhLQxq20Q_A6-mVxA/master.m3u8
-#EXTINF:-1 tvg-name="Tengapara C.C, Kokrajhar vs Star Sporting Club, Nagaon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98913" group-title="Assam Premier Club Championship, 2024",Tengapara C.C, Kokrajhar vs Star Sporting Club, Nagaon
-https://dai.google.com/linear/hls/event/7jGOdyobQE-ek71VPAJ5_A/master.m3u8
 #EXTINF:-1 tvg-name="Band-e-Amir Region vs Mis-e-Ainak Region" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99553" group-title="Qosh Tepa National T20 Cup, 2024",Band-e-Amir Region vs Mis-e-Ainak Region
 https://dai.google.com/linear/hls/event/cxY0VohrRl2ZCCCmrnFy6g/master.m3u8
 #EXTINF:-1 tvg-name="Cividate vs Brescia CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99594" group-title="ECS Italy, Brescia, 2024",Cividate vs Brescia CC
