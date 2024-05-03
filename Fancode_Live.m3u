@@ -1,12 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="NCM Investment-B vs CECC-B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99737" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",NCM Investment-B vs CECC-B
 https://dai.google.com/linear/hls/event/NRWBEYEGSaanCZdPp_Q_BQ/master.m3u8
-#EXTINF:-1 tvg-name="SSF Panthers vs KL Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99539" group-title="Grand Rumble T10 Championship Round 2, 2024",SSF Panthers vs KL Stars
-https://dai.google.com/linear/hls/event/FSHXvq3TSLufgWFspPhqCg/master.m3u8
 #EXTINF:-1 tvg-name="KL Zalmi vs MR KB Putrajaya CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99540" group-title="Grand Rumble T10 Championship Round 2, 2024",KL Zalmi vs MR KB Putrajaya CC
 https://dai.google.com/linear/hls/event/5Ge-d9XySK6xvoNziL1vLQ/master.m3u8
-#EXTINF:-1 tvg-name="Central Super Girls vs Southern Jaguars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99521" group-title="Malaysian Super Women T20 League, 2024",Central Super Girls vs Southern Jaguars
-https://dai.google.com/linear/hls/event/3mldh6t_TbKLEqOxBDjCwQ/master.m3u8
 #EXTINF:-1 tvg-name="Kansai Chargers vs North Kanto Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99952" group-title="Japan Premier League T20, 2024",Kansai Chargers vs North Kanto Lions
 https://dai.fancode.com/primary/99952_english_hls_8459adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Tengapara C.C, Kokrajhar vs Star Sporting Club, Nagaon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98913" group-title="Assam Premier Club Championship, 2024",Tengapara C.C, Kokrajhar vs Star Sporting Club, Nagaon
