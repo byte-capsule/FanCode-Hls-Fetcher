@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Bader & Nie Cricket Club vs SBS CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99736" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",Bader & Nie Cricket Club vs SBS CC
+https://dai.google.com/linear/hls/event/B2df_CwNRgOZCp02ISw8aw/master.m3u8
 #EXTINF:-1 tvg-name="Cividate vs Markhor Milano" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99596" group-title="ECS Italy, Brescia, 2024",Cividate vs Markhor Milano
 https://dai.google.com/linear/hls/event/IXa98ibVRsOpbS9S-qB8pg/master.m3u8
 #EXTINF:-1 tvg-name="United Arab Emirates Women vs Vanuatu Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98847" group-title="ICC Women's T20 World Cup Qualifier, 2024",United Arab Emirates Women vs Vanuatu Women
