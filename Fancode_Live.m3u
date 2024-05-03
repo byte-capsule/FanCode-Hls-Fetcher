@@ -7,5 +7,7 @@ https://dai.google.com/linear/hls/event/7jGOdyobQE-ek71VPAJ5_A/master.m3u8
 https://dai.google.com/linear/hls/event/cxY0VohrRl2ZCCCmrnFy6g/master.m3u8
 #EXTINF:-1 tvg-name="Cividate vs Brescia CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99594" group-title="ECS Italy, Brescia, 2024",Cividate vs Brescia CC
 https://dai.google.com/linear/hls/event/nl-0DRVDTU6LHDXkvmbAFg/master.m3u8
+#EXTINF:-1 tvg-name="North West Warriors vs Munster Reds" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99916" group-title="Ireland Inter-Provincial T20 Trophy, 2024",North West Warriors vs Munster Reds
+https://dai.google.com/linear/hls/event/fh3-EOlqSWScdsTzRMr9Kg/master.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100027" group-title="Volvo China Open",Day 2
 https://dai.google.com/linear/hls/event/te5rPHJYRROZjGqM4HdPjQ/master.m3u8
