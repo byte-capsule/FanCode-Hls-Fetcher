@@ -1,17 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="NCM Investment-B vs CECC-B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99737" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",NCM Investment-B vs CECC-B
 https://dai.google.com/linear/hls/event/NRWBEYEGSaanCZdPp_Q_BQ/master.m3u8
+#EXTINF:-1 tvg-name="SSF Panthers vs KL Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99539" group-title="Grand Rumble T10 Championship Round 2, 2024",SSF Panthers vs KL Stars
+https://dai.google.com/linear/hls/event/FSHXvq3TSLufgWFspPhqCg/master.m3u8
 #EXTINF:-1 tvg-name="Central Super Girls vs Southern Jaguars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99521" group-title="Malaysian Super Women T20 League, 2024",Central Super Girls vs Southern Jaguars
 https://dai.google.com/linear/hls/event/3mldh6t_TbKLEqOxBDjCwQ/master.m3u8
-#EXTINF:-1 tvg-name="Biswanath Blue Warriors vs India Club, Silchar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98912" group-title="Assam Premier Club Championship, 2024",Biswanath Blue Warriors vs India Club, Silchar
-https://dai.fancode.com/primary/98912_english_hls_7913adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Kansai Chargers vs North Kanto Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99952" group-title="Japan Premier League T20, 2024",Kansai Chargers vs North Kanto Lions
 https://dai.fancode.com/primary/99952_english_hls_8459adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Biswanath Blue Warriors vs India Club, Silchar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98912" group-title="Assam Premier Club Championship, 2024",Biswanath Blue Warriors vs India Club, Silchar
+https://dai.fancode.com/primary/98912_english_hls_7913adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Speen Ghar Region vs Amo Region" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99552" group-title="Qosh Tepa National T20 Cup, 2024",Speen Ghar Region vs Amo Region
 https://dai.google.com/linear/hls/event/qS3Sa47yS26jYrTfecjqWg/master.m3u8
 #EXTINF:-1 tvg-name="Yokohama F. Marinos vs Júbilo Iwata" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99569" group-title="J League 2024",Yokohama F. Marinos vs Júbilo Iwata
 https://dai.fancode.com/primary/99569_english_hls_7308adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99721" group-title="LIV Golf Singapore",Day 1
-https://dai.fancode.com/primary/99721_english_hls_1209adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100027" group-title="Volvo China Open",Day 2
 https://dai.google.com/linear/hls/event/te5rPHJYRROZjGqM4HdPjQ/master.m3u8
+#EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99721" group-title="LIV Golf Singapore",Day 1
+https://dai.fancode.com/primary/99721_english_hls_1209adfreeta-no/index.m3u8
