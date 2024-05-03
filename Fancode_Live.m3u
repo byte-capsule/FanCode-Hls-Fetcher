@@ -5,17 +5,15 @@ https://dai.google.com/linear/hls/event/B2df_CwNRgOZCp02ISw8aw/master.m3u8
 https://dai.google.com/linear/hls/event/IXa98ibVRsOpbS9S-qB8pg/master.m3u8
 #EXTINF:-1 tvg-name="United Arab Emirates Women vs Vanuatu Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98847" group-title="ICC Women's T20 World Cup Qualifier, 2024",United Arab Emirates Women vs Vanuatu Women
 https://dai.google.com/linear/hls/event/HpaMwjY8SZ-U_3EplMNx9A/master.m3u8
-#EXTINF:-1 tvg-name="Thailand Women vs Scotland Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98846" group-title="ICC Women's T20 World Cup Qualifier, 2024",Thailand Women vs Scotland Women
-https://dai.google.com/linear/hls/event/guGsHUSQQsawLZ54iDb6ww/master.m3u8
-#EXTINF:-1 tvg-name="Munster Reds vs North West Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99916" group-title="Ireland Inter-Provincial T20 Trophy, 2024",Munster Reds vs North West Warriors
-https://dai.google.com/linear/hls/event/fh3-EOlqSWScdsTzRMr9Kg/master.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe vs Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99127" group-title="Zimbabwe tour of Bangladesh, 2024",Zimbabwe vs Bangladesh
 https://dai.google.com/linear/hls/event/C9uH9aZiStefeBAGm0VqPA/master.m3u8
 #EXTINF:-1 tvg-name="Sharjah vs Dubai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99327" group-title="Emirates D50 Tournament, 2024",Sharjah vs Dubai
 https://dai.google.com/linear/hls/event/PqLn5CgbTt2BqS0JcnB5fg/master.m3u8
 #EXTINF:-1 tvg-name="Fujairah vs Ajman" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99326" group-title="Emirates D50 Tournament, 2024",Fujairah vs Ajman
 https://dai.google.com/linear/hls/event/w2he9GXoTf6J78SVCiYBJA/master.m3u8
-#EXTINF:-1 tvg-name="Tainá/Victoria vs Ittlinger/Borger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99818" group-title="Volleyball Womens Beach Pro Tour",Tainá/Victoria vs Ittlinger/Borger
-https://dai.fancode.com/primary/99818_english_hls_536adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Melissa/Brandie vs Stam/Schoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99817" group-title="Volleyball Womens Beach Pro Tour",Melissa/Brandie vs Stam/Schoon
-https://dai.fancode.com/primary/99817_english_hls_4430adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="First Practice" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96834" group-title="F1 ACADEMY MIAMI GRAND PRIX 2024",First Practice
+https://djm0ze45cfoii.cloudfront.net/out/v1/8a0275bb6f174c75a196c6e8c417daf8/index.mpd
+#EXTINF:-1 tvg-name="Hörl/Horst vs Grimalt M./Grimalt E." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99840" group-title="Volleyball Mens Beach Pro Tour",Hörl/Horst vs Grimalt M./Grimalt E.
+https://dai.fancode.com/primary/99840_english_hls_905adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Ehlers/Wickler vs Brouwer/Meeuwsen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99839" group-title="Volleyball Mens Beach Pro Tour",Ehlers/Wickler vs Brouwer/Meeuwsen
+https://dai.fancode.com/primary/99839_english_hls_4735adfreeta-no/index.m3u8
