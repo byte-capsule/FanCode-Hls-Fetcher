@@ -2,7 +2,7 @@
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "channels_amount": 9,
-  "updated_on": "03-05-2024 on 11:41:22 AM \ud83c\udf1e",
+  "updated_on": "03-05-2024 on 0:08:37 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -50,17 +50,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Assam Premier Club Championship, 2024",
-      "match_id": 98912,
-      "match_name": "Biswanath Blue Warriors vs India Club, Silchar",
-      "team_1": "Biswanath Blue Warriors",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBW@2x.png",
-      "team_2": "India Club, Silchar",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ICL-CR1@2x.png",
-      "stream_link": "https://dai.fancode.com/primary/98912_english_hls_7913adfreeta-no/index.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "Qosh Tepa National T20 Cup, 2024",
       "match_id": 99552,
       "match_name": "Speen Ghar Region vs Amo Region",
@@ -80,6 +69,17 @@
       "team_2": "J\u00fabilo Iwata",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-JIW@2x.png",
       "stream_link": "https://dai.fancode.com/primary/99569_english_hls_7308adfreeta-di/index.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "J League 2024",
+      "match_id": 99570,
+      "match_name": "Cerezo Osaka vs Consadole Sapporo",
+      "team_1": "Cerezo Osaka",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COS@2x.png",
+      "team_2": "Consadole Sapporo",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CSA@2x.png",
+      "stream_link": "https://dai.fancode.com/primary/99570_english_hls_6874adfreeta-di/index.m3u8"
     },
     {
       "event_catagory": "golf",
