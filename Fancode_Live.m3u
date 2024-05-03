@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="NCM Investment-B vs CECC-B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99737" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",NCM Investment-B vs CECC-B
-https://dai.google.com/linear/hls/event/NRWBEYEGSaanCZdPp_Q_BQ/master.m3u8
 #EXTINF:-1 tvg-name="KL Zalmi vs MR KB Putrajaya CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99540" group-title="Grand Rumble T10 Championship Round 2, 2024",KL Zalmi vs MR KB Putrajaya CC
 https://dai.google.com/linear/hls/event/5Ge-d9XySK6xvoNziL1vLQ/master.m3u8
 #EXTINF:-1 tvg-name="Kansai Chargers vs North Kanto Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99952" group-title="Japan Premier League T20, 2024",Kansai Chargers vs North Kanto Lions
