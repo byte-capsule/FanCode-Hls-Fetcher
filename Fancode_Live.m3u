@@ -15,5 +15,7 @@ https://dai.google.com/linear/hls/event/PqLn5CgbTt2BqS0JcnB5fg/master.m3u8
 https://dai.google.com/linear/hls/event/w2he9GXoTf6J78SVCiYBJA/master.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe vs Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99127" group-title="Zimbabwe tour of Bangladesh, 2024",Zimbabwe vs Bangladesh
 https://dai.google.com/linear/hls/event/C9uH9aZiStefeBAGm0VqPA/master.m3u8
-#EXTINF:-1 tvg-name="Nagoya Grampus vs Vissel Kobe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99572" group-title="J League 2024",Nagoya Grampus vs Vissel Kobe
-https://dai.fancode.com/primary/99572_english_hls_7167adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Brunner/Hüberli vs Agatha/Rebecca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99816" group-title="Volleyball Womens Beach Pro Tour",Brunner/Hüberli vs Agatha/Rebecca
+https://dai.fancode.com/primary/99816_english_hls_683adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Hughes/Cheng vs Xue/X. Y. Xia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99815" group-title="Volleyball Womens Beach Pro Tour",Hughes/Cheng vs Xue/X. Y. Xia
+https://dai.fancode.com/primary/99815_english_hls_4640adfreeta-no/index.m3u8
