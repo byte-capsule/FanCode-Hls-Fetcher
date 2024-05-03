@@ -2,7 +2,11 @@
 #EXTINF:-1 tvg-name="Bader & Nie Cricket Club vs SBS CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99736" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",Bader & Nie Cricket Club vs SBS CC
 https://dai.google.com/linear/hls/event/B2df_CwNRgOZCp02ISw8aw/master.m3u8
 #EXTINF:-1 tvg-name="Fornaci vs Albano" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99597" group-title="ECS Italy, Brescia, 2024",Fornaci vs Albano
-https://dai.fancode.com/primary/99597_english_hls_6466adfreeta-no/index.m3u8
+https://dai.google.com/linear/hls/event/sjhKkuwaR3Svnwe29Fmc5A/master.m3u8
+#EXTINF:-1 tvg-name="Ireland Women vs Netherlands Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98849" group-title="ICC Women's T20 World Cup Qualifier, 2024",Ireland Women vs Netherlands Women
+https://dai.google.com/linear/hls/event/9kxrQ_DbSo-yqQRiI02B4A/master.m3u8
+#EXTINF:-1 tvg-name="Sri Lanka Women vs USA Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98848" group-title="ICC Women's T20 World Cup Qualifier, 2024",Sri Lanka Women vs USA Women
+https://dai.google.com/linear/hls/event/NKpJlkvRRaGWocPRX_s-7Q/master.m3u8
 #EXTINF:-1 tvg-name="Leinster Lightning vs Northern Knights" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99917" group-title="Ireland Inter-Provincial T20 Trophy, 2024",Leinster Lightning vs Northern Knights
 https://dai.google.com/linear/hls/event/el8Kov1HTrqIwVl6VpsYyQ/master.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe vs Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99127" group-title="Zimbabwe tour of Bangladesh, 2024",Zimbabwe vs Bangladesh
@@ -13,9 +17,7 @@ https://dai.google.com/linear/hls/event/PqLn5CgbTt2BqS0JcnB5fg/master.m3u8
 https://dai.google.com/linear/hls/event/w2he9GXoTf6J78SVCiYBJA/master.m3u8
 #EXTINF:-1 tvg-name="Pakistan Women vs West Indies Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98565" group-title="West Indies Women tour of Pakistan, 2024",Pakistan Women vs West Indies Women
 https://dai.google.com/linear/hls/event/IiiqNm8uRcucVKNoZZbyOQ/master.m3u8
-#EXTINF:-1 tvg-name="Ehlers/Wickler vs Brouwer/Meeuwsen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99839" group-title="Volleyball Mens Beach Pro Tour",Ehlers/Wickler vs Brouwer/Meeuwsen
-https://dai.fancode.com/primary/99839_english_hls_4735adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Boermans/de Groot vs Cherif/Ahmed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99841" group-title="Volleyball Mens Beach Pro Tour",Boermans/de Groot vs Cherif/Ahmed
 https://dai.fancode.com/primary/99841_english_hls_7628adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Evans/Budinger vs Aravena/Droguett" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99843" group-title="Volleyball Mens Beach Pro Tour",Evans/Budinger vs Aravena/Droguett
- Free Trial attempt unsuccessful......it requires Premium Account
+https://dai.fancode.com/primary/99843_english_hls_1127adfreeta-no/index.m3u8
