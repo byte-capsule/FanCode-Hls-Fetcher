@@ -1,7 +1,63 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 0,
-  "updated_on": "03-05-2024 on 05:41:00 AM \ud83c\udf1e",
-  "channels": []
+  "channels_amount": 5,
+  "updated_on": "03-05-2024 on 06:31:56 AM \ud83c\udf1e",
+  "channels": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "Trinidad T20 Festival Premiership II, 2024",
+      "match_id": 100368,
+      "match_name": "Woodland Sports Club vs Alescon Comets SC",
+      "team_1": "Woodland Sports Club",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR12@2x.png",
+      "team_2": "Alescon Comets SC",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACSC@2x.png",
+      "stream_link": "https://dai.fancode.com/primary/100368_english_hls_4701adfreeta-no/index.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Cool and Smooth T20, 2024",
+      "match_id": 98788,
+      "match_name": "Sandy Point Snappers vs Brownhill Dolphins",
+      "team_1": "Sandy Point Snappers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SPSC@2x.png",
+      "team_2": "Brownhill Dolphins",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRD@2x.png",
+      "stream_link": "https://dai.fancode.com/primary/98788_english_hls_7258adfreeta-di/index.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Grand Rumble T10 Championship Round 2, 2024",
+      "match_id": 100465,
+      "match_name": "KL Stars vs KL Zalmi",
+      "team_1": "KL Stars",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KLR@2x.png",
+      "team_2": "KL Zalmi",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KLZM@2x.png",
+      "stream_link": "https://dai.fancode.com/primary/100465_english_hls_7566adfreeta-no/index.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Malaysian Super Women T20 League, 2024",
+      "match_id": 99520,
+      "match_name": "Easterns Lioness vs Northern Queens",
+      "team_1": "Easterns Lioness",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EL@2x.png",
+      "team_2": "Northern Queens",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NQ@2x.png",
+      "stream_link": "https://dai.fancode.com/primary/99520_english_hls_7514adfreeta-no/index.m3u8"
+    },
+    {
+      "event_catagory": "golf",
+      "event_name": "LIV Golf Singapore",
+      "match_id": 99721,
+      "match_name": "Day 1",
+      "team_1": "Day 1",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LM@2x.png",
+      "team_2": "Singapore",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "stream_link": "https://dai.fancode.com/primary/99721_english_hls_1209adfreeta-no/index.m3u8"
+    }
+  ]
 }
