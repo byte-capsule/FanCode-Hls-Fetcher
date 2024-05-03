@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="KL Zalmi vs MR KB Putrajaya CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99540" group-title="Grand Rumble T10 Championship Round 2, 2024",KL Zalmi vs MR KB Putrajaya CC
-https://dai.google.com/linear/hls/event/5Ge-d9XySK6xvoNziL1vLQ/master.m3u8
+#EXTINF:-1 tvg-name="Royal Lions CC vs MEC Study Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99735" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",Royal Lions CC vs MEC Study Group
+https://dai.google.com/linear/hls/event/4AAO4xhLQxq20Q_A6-mVxA/master.m3u8
 #EXTINF:-1 tvg-name="Tengapara C.C, Kokrajhar vs Star Sporting Club, Nagaon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98913" group-title="Assam Premier Club Championship, 2024",Tengapara C.C, Kokrajhar vs Star Sporting Club, Nagaon
 https://dai.google.com/linear/hls/event/7jGOdyobQE-ek71VPAJ5_A/master.m3u8
 #EXTINF:-1 tvg-name="Band-e-Amir Region vs Mis-e-Ainak Region" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99553" group-title="Qosh Tepa National T20 Cup, 2024",Band-e-Amir Region vs Mis-e-Ainak Region
@@ -9,5 +9,9 @@ https://dai.google.com/linear/hls/event/cxY0VohrRl2ZCCCmrnFy6g/master.m3u8
 https://dai.google.com/linear/hls/event/nl-0DRVDTU6LHDXkvmbAFg/master.m3u8
 #EXTINF:-1 tvg-name="North West Warriors vs Munster Reds" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99916" group-title="Ireland Inter-Provincial T20 Trophy, 2024",North West Warriors vs Munster Reds
 https://dai.google.com/linear/hls/event/fh3-EOlqSWScdsTzRMr9Kg/master.m3u8
-#EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100027" group-title="Volvo China Open",Day 2
-https://dai.google.com/linear/hls/event/te5rPHJYRROZjGqM4HdPjQ/master.m3u8
+#EXTINF:-1 tvg-name="Sharjah vs Dubai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99327" group-title="Emirates D50 Tournament, 2024",Sharjah vs Dubai
+https://dai.google.com/linear/hls/event/PqLn5CgbTt2BqS0JcnB5fg/master.m3u8
+#EXTINF:-1 tvg-name="Ajman vs Fujairah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99326" group-title="Emirates D50 Tournament, 2024",Ajman vs Fujairah
+https://dai.google.com/linear/hls/event/w2he9GXoTf6J78SVCiYBJA/master.m3u8
+#EXTINF:-1 tvg-name="Nagoya Grampus vs Vissel Kobe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99572" group-title="J League 2024",Nagoya Grampus vs Vissel Kobe
+https://dai.fancode.com/primary/99572_english_hls_7167adfreeta-di/index.m3u8
