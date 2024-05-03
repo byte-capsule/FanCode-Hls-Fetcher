@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Royal Lions CC vs MEC Study Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99735" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",Royal Lions CC vs MEC Study Group
 https://dai.google.com/linear/hls/event/4AAO4xhLQxq20Q_A6-mVxA/master.m3u8
-#EXTINF:-1 tvg-name="Cividate vs Brescia CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99594" group-title="ECS Italy, Brescia, 2024",Cividate vs Brescia CC
-https://dai.google.com/linear/hls/event/nl-0DRVDTU6LHDXkvmbAFg/master.m3u8
 #EXTINF:-1 tvg-name="Markhor Milano vs Cricket Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99595" group-title="ECS Italy, Brescia, 2024",Markhor Milano vs Cricket Stars
 https://dai.google.com/linear/hls/event/aIeXQAGeSfe6ZbprVoz9Tw/master.m3u8
 #EXTINF:-1 tvg-name="North West Warriors vs Munster Reds" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99916" group-title="Ireland Inter-Provincial T20 Trophy, 2024",North West Warriors vs Munster Reds
