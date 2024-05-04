@@ -13,5 +13,7 @@ https://dai.google.com/linear/hls/event/nCWaZ2ELRbq2AIoqzgz5-w/master.m3u8
 https://dai.google.com/linear/hls/event/pkihEG9VRjGmq31McjQ4sQ/master.m3u8
 #EXTINF:-1 tvg-name="Bergamo CC vs Fresh Tropical" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99598" group-title="ECS Italy, Brescia, 2024",Bergamo CC vs Fresh Tropical
 https://dai.google.com/linear/hls/event/lm8jm5fGSRyis64GfURLjA/master.m3u8
+#EXTINF:-1 tvg-name="Indatwa Hampshire CC Women vs Gahanga Queens CC Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96698" group-title="RCA Women's T20, 2024",Indatwa Hampshire CC Women vs Gahanga Queens CC Women
+https://dai.google.com/linear/hls/event/XU8it__VRx2HsKzkjXxZwA/master.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99722" group-title="LIV Golf Singapore",Day 2
 https://dai.fancode.com/primary/99722_english_hls_6084adfreeta-no/index.m3u8
