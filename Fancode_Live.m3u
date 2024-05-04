@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Pak United CC vs Stylop Golden Eagles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99543" group-title="Grand Rumble T10 Championship Round 2, 2024",Pak United CC vs Stylop Golden Eagles
-https://dai.google.com/linear/hls/event/paCB5m_FQK-JypNzQJhhlA/master.m3u8
 #EXTINF:-1 tvg-name="Kansai Chargers vs West Kanto Hurricanes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99956" group-title="Japan Premier League T20, 2024",Kansai Chargers vs West Kanto Hurricanes
 https://dai.fancode.com/primary/99956_english_hls_5736adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Central Super Girls vs Northern Queens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99523" group-title="Malaysian Super Women T20 League, 2024",Central Super Girls vs Northern Queens
@@ -9,8 +7,6 @@ https://dai.fancode.com/primary/99523_english_hls_5948adfreeta-di/index.m3u8
 https://dai.google.com/linear/hls/event/20L3QfAFQwuD3dTar-bSAw/master.m3u8
 #EXTINF:-1 tvg-name="West Indies A vs Nepal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99120" group-title="West Indies A tour of Nepal, 2024",West Indies A vs Nepal
 https://dai.google.com/linear/hls/event/nCWaZ2ELRbq2AIoqzgz5-w/master.m3u8
-#EXTINF:-1 tvg-name="Indonesia vs Thailand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100161" group-title="Bali Bash International - Indonesia vs Thailand",Indonesia vs Thailand
-https://dai.google.com/linear/hls/event/pkihEG9VRjGmq31McjQ4sQ/master.m3u8
 #EXTINF:-1 tvg-name="Bergamo CC vs Fresh Tropical" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99598" group-title="ECS Italy, Brescia, 2024",Bergamo CC vs Fresh Tropical
 https://dai.google.com/linear/hls/event/lm8jm5fGSRyis64GfURLjA/master.m3u8
 #EXTINF:-1 tvg-name="Indatwa Hampshire CC Women vs Gahanga Queens CC Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96698" group-title="RCA Women's T20, 2024",Indatwa Hampshire CC Women vs Gahanga Queens CC Women
