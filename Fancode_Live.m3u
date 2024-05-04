@@ -11,11 +11,9 @@ https://dai.google.com/linear/hls/event/NEVaFxaeRni76joKzbV5xw/master.m3u8
 https://dai.google.com/linear/hls/event/RUzTIAxbRSyV5wZQ3cVViQ/master.m3u8
 #EXTINF:-1 tvg-name="Ajman vs Sharjah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99328" group-title="Emirates D50 Tournament, 2024",Ajman vs Sharjah
 https://dai.google.com/linear/hls/event/olrPla5mTKqCe6Lfn7APVQ/master.m3u8
-#EXTINF:-1 tvg-name="Henan vs Tianjin Jinmen Tiger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99895" group-title="Chinese Super League 2024",Henan vs Tianjin Jinmen Tiger
-https://dai.fancode.com/primary/99895_english_hls_6409adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Qualifying Session" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96835" group-title="F1 ACADEMY MIAMI GRAND PRIX 2024",Qualifying Session
+https://d2hew9ymg7xkmx.cloudfront.net/out/v1/b669c2c1762041bda915ec02b5e441c7/index.mpd
 #EXTINF:-1 tvg-name="Brouwer/Meeuwsen vs Bello, Ja./Bello, Jo." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100512" group-title="Volleyball Mens Beach Pro Tour",Brouwer/Meeuwsen vs Bello, Ja./Bello, Jo.
 https://dai.fancode.com/primary/100512_english_hls_5588adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Łosiak/Bryl vs Evans/Budinger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100511" group-title="Volleyball Mens Beach Pro Tour",Łosiak/Bryl vs Evans/Budinger
 https://dai.fancode.com/primary/100511_english_hls_9325adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Melissa/Brandie vs Esmée/Zoé" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100524" group-title="Volleyball Womens Beach Pro Tour",Melissa/Brandie vs Esmée/Zoé
-https://dai.fancode.com/primary/100524_english_hls_6295adfreeta-no/index.m3u8
