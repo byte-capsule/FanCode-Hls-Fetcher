@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="KL Stars vs KL Zalmi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99542" group-title="Grand Rumble T10 Championship Round 2, 2024",KL Stars vs KL Zalmi
 https://dai.google.com/linear/hls/event/By1HNuPvTcq_I3osoxkqYw/master.m3u8
+#EXTINF:-1 tvg-name="Kansai Chargers vs West Kanto Hurricanes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99956" group-title="Japan Premier League T20, 2024",Kansai Chargers vs West Kanto Hurricanes
+https://dai.fancode.com/primary/99956_english_hls_5736adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Super Touch Club, Tezpur vs India Club, Silchar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98914" group-title="Assam Premier Club Championship, 2024",Super Touch Club, Tezpur vs India Club, Silchar
 https://dai.fancode.com/primary/98914_english_hls_5683adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Indonesia vs Thailand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100161" group-title="Bali Bash International - Indonesia vs Thailand",Indonesia vs Thailand
 https://dai.google.com/linear/hls/event/pkihEG9VRjGmq31McjQ4sQ/master.m3u8
 #EXTINF:-1 tvg-name="Central Super Girls vs Northern Queens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99523" group-title="Malaysian Super Women T20 League, 2024",Central Super Girls vs Northern Queens
 https://dai.fancode.com/primary/99523_english_hls_5948adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Speen Ghar Region vs Boost Region" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99554" group-title="Qosh Tepa National T20 Cup, 2024",Speen Ghar Region vs Boost Region
-https://dai.google.com/linear/hls/event/LFjuuhFsQh6bXReqLXuYPA/master.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99722" group-title="LIV Golf Singapore",Day 2
 https://dai.fancode.com/primary/99722_english_hls_6084adfreeta-no/index.m3u8
