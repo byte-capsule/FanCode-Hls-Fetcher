@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Clarke Road United vs Central Sports Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99189" group-title="Trinidad T20 Festival, 2024",Clarke Road United vs Central Sports Club
-https://dai.fancode.com/primary/99189_english_hls_6130adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="North Kanto Lions vs East Kanto Sunrisers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99954" group-title="Japan Premier League T20, 2024",North Kanto Lions vs East Kanto Sunrisers
 https://dai.fancode.com/primary/99954_english_hls_9723adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Easterns Lioness vs Southern Jaguars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99522" group-title="Malaysian Super Women T20 League, 2024",Easterns Lioness vs Southern Jaguars
 https://dai.fancode.com/primary/99522_english_hls_6282adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="KL Stars vs KL Zalmi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99542" group-title="Grand Rumble T10 Championship Round 2, 2024",KL Stars vs KL Zalmi
+https://dai.google.com/linear/hls/event/By1HNuPvTcq_I3osoxkqYw/master.m3u8
 #EXTINF:-1 tvg-name="Super Touch Club, Tezpur vs India Club, Silchar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98914" group-title="Assam Premier Club Championship, 2024",Super Touch Club, Tezpur vs India Club, Silchar
 https://dai.fancode.com/primary/98914_english_hls_5683adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99722" group-title="LIV Golf Singapore",Day 2
