@@ -1,1 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Clarke Road United vs Central Sports Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99189" group-title="Trinidad T20 Festival, 2024",Clarke Road United vs Central Sports Club
+https://dai.fancode.com/primary/99189_english_hls_6130adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99722" group-title="LIV Golf Singapore",Day 2
+https://dai.fancode.com/primary/99722_english_hls_6084adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Evandro/Arthur vs Crabb Tr./Brunner" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99851" group-title="Volleyball Mens Beach Pro Tour",Evandro/Arthur vs Crabb Tr./Brunner
+https://dai.fancode.com/primary/99851_english_hls_9516adfreeta-no/index.m3u8
