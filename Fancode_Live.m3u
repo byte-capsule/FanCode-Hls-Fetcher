@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Mis-e-Ainak Region vs Amo Region" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99555" group-title="Qosh Tepa National T20 Cup, 2024",Mis-e-Ainak Region vs Amo Region
+https://dai.google.com/linear/hls/event/PpPZC-5SSgKa9r--_KrMRw/master.m3u8
 #EXTINF:-1 tvg-name="Star Sporting Club, Nagaon vs Rangia Cricket Association" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98915" group-title="Assam Premier Club Championship, 2024",Star Sporting Club, Nagaon vs Rangia Cricket Association
 https://dai.google.com/linear/hls/event/20L3QfAFQwuD3dTar-bSAw/master.m3u8
 #EXTINF:-1 tvg-name="West Indies A vs Nepal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99120" group-title="West Indies A tour of Nepal, 2024",West Indies A vs Nepal
@@ -7,5 +9,7 @@ https://dai.google.com/linear/hls/event/nCWaZ2ELRbq2AIoqzgz5-w/master.m3u8
 https://dai.google.com/linear/hls/event/XU8it__VRx2HsKzkjXxZwA/master.m3u8
 #EXTINF:-1 tvg-name="Fresh Tropical vs Albano" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99599" group-title="ECS Italy, Brescia, 2024",Fresh Tropical vs Albano
 https://dai.google.com/linear/hls/event/TpXqRvcvScySrAJLIfgViw/master.m3u8
+#EXTINF:-1 tvg-name="Southern Vipers vs Western Storm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99008" group-title="Rachael Heyhoe Flint Trophy, 2024",Southern Vipers vs Western Storm
+https://dai.google.com/linear/hls/event/RUzTIAxbRSyV5wZQ3cVViQ/master.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99722" group-title="LIV Golf Singapore",Day 2
 https://dai.fancode.com/primary/99722_english_hls_6084adfreeta-no/index.m3u8
