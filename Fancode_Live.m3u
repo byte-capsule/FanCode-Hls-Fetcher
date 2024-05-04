@@ -3,15 +3,17 @@
 https://dai.google.com/linear/hls/event/nPuF6BUBR_Glk3TkkywQAg/master.m3u8
 #EXTINF:-1 tvg-name="Southern Vipers vs Western Storm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99008" group-title="Rachael Heyhoe Flint Trophy, 2024",Southern Vipers vs Western Storm
 https://dai.google.com/linear/hls/event/RUzTIAxbRSyV5wZQ3cVViQ/master.m3u8
-#EXTINF:-1 tvg-name="Gahanga Queens CC Women vs Indatwa Hampshire CC Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96698" group-title="RCA Women's T20, 2024",Gahanga Queens CC Women vs Indatwa Hampshire CC Women
-https://dai.google.com/linear/hls/event/XU8it__VRx2HsKzkjXxZwA/master.m3u8
-#EXTINF:-1 tvg-name="Charity CC Women vs Muhanga Zebras CC Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96699" group-title="RCA Women's T20, 2024",Charity CC Women vs Muhanga Zebras CC Women
+#EXTINF:-1 tvg-name="Muhanga Zebras CC Women vs Charity CC Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96699" group-title="RCA Women's T20, 2024",Muhanga Zebras CC Women vs Charity CC Women
 https://dai.google.com/linear/hls/event/NEVaFxaeRni76joKzbV5xw/master.m3u8
 #EXTINF:-1 tvg-name="Ajman vs Sharjah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99328" group-title="Emirates D50 Tournament, 2024",Ajman vs Sharjah
 https://dai.google.com/linear/hls/event/olrPla5mTKqCe6Lfn7APVQ/master.m3u8
-#EXTINF:-1 tvg-name="Sydney FC vs Macarthur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100075" group-title="A League Men 2023-24",Sydney FC vs Macarthur
-https://dai.fancode.com/primary/100075_english_hls_5924adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Everton Women vs Tottenham Hotspur Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98795" group-title="Barclays FA Women's Super League 2023-24",Everton Women vs Tottenham Hotspur Women
 https://dai.fancode.com/primary/98795_english_hls_5655adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99722" group-title="LIV Golf Singapore",Day 2
-https://dai.fancode.com/primary/99722_english_hls_6084adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Sydney FC vs Macarthur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100075" group-title="A League Men 2023-24",Sydney FC vs Macarthur
+https://dai.fancode.com/primary/100075_english_hls_5924adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Leeds United vs Southampton" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100171" group-title="EFL Championship 2023-24",Leeds United vs Southampton
+https://dai.google.com/linear/hls/event/a7giwda9R-KcOOGK76qKfA/master.m3u8
+#EXTINF:-1 tvg-name="Ipswich Town vs Huddersfield Town" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100170" group-title="EFL Championship 2023-24",Ipswich Town vs Huddersfield Town
+https://dai.google.com/linear/hls/event/7h3JWJbxTo2p4KgV0UUk9g/master.m3u8
+#EXTINF:-1 tvg-name="Birmingham City vs Norwich City" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100169" group-title="EFL Championship 2023-24",Birmingham City vs Norwich City
+https://dai.google.com/linear/hls/event/GGvMyB_LQE-r4p6-aqsZCQ/master.m3u8
