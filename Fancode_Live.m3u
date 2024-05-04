@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Seven Districts Juniors vs UAE Kings XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98371" group-title="Bukhatir T20 League, 2024",Seven Districts Juniors vs UAE Kings XI
+https://dai.google.com/linear/hls/event/_jcTH-E_QBeWyLYS5mw_3Q/master.m3u8
 #EXTINF:-1 tvg-name="Bergamo CC vs Fornaci" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99600" group-title="ECS Italy, Brescia, 2024",Bergamo CC vs Fornaci
 https://dai.google.com/linear/hls/event/nPuF6BUBR_Glk3TkkywQAg/master.m3u8
 #EXTINF:-1 tvg-name="Muhanga Zebras CC Women vs Charity CC Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96699" group-title="RCA Women's T20, 2024",Muhanga Zebras CC Women vs Charity CC Women
@@ -7,6 +9,8 @@ https://dai.google.com/linear/hls/event/NEVaFxaeRni76joKzbV5xw/master.m3u8
 https://dai.google.com/linear/hls/event/RUzTIAxbRSyV5wZQ3cVViQ/master.m3u8
 #EXTINF:-1 tvg-name="Ajman vs Sharjah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99328" group-title="Emirates D50 Tournament, 2024",Ajman vs Sharjah
 https://dai.google.com/linear/hls/event/olrPla5mTKqCe6Lfn7APVQ/master.m3u8
+#EXTINF:-1 tvg-name="Henan vs Tianjin Jinmen Tiger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99895" group-title="Chinese Super League 2024",Henan vs Tianjin Jinmen Tiger
+https://dai.fancode.com/primary/99895_english_hls_6409adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Leeds United vs Southampton" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100171" group-title="EFL Championship 2023-24",Leeds United vs Southampton
 https://dai.google.com/linear/hls/event/a7giwda9R-KcOOGK76qKfA/master.m3u8
 #EXTINF:-1 tvg-name="Ipswich Town vs Huddersfield Town" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100170" group-title="EFL Championship 2023-24",Ipswich Town vs Huddersfield Town
@@ -15,8 +19,6 @@ https://dai.google.com/linear/hls/event/7h3JWJbxTo2p4KgV0UUk9g/master.m3u8
 https://dai.google.com/linear/hls/event/GGvMyB_LQE-r4p6-aqsZCQ/master.m3u8
 #EXTINF:-1 tvg-name="Everton Women vs Tottenham Hotspur Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98795" group-title="Barclays FA Women's Super League 2023-24",Everton Women vs Tottenham Hotspur Women
 https://dai.fancode.com/primary/98795_english_hls_5655adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Henan vs Tianjin Jinmen Tiger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99895" group-title="Chinese Super League 2024",Henan vs Tianjin Jinmen Tiger
-https://dai.fancode.com/primary/99895_english_hls_6409adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Müller/Tillmann vs Carol/Barbara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100522" group-title="Volleyball Womens Beach Pro Tour",Müller/Tillmann vs Carol/Barbara
 https://dai.fancode.com/primary/100522_english_hls_9797adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Tainá/Victoria vs Hughes/Cheng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100521" group-title="Volleyball Womens Beach Pro Tour",Tainá/Victoria vs Hughes/Cheng
