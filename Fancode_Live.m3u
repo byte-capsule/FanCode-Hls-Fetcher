@@ -3,12 +3,10 @@
 https://dai.google.com/linear/hls/event/By1HNuPvTcq_I3osoxkqYw/master.m3u8
 #EXTINF:-1 tvg-name="Super Touch Club, Tezpur vs India Club, Silchar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98914" group-title="Assam Premier Club Championship, 2024",Super Touch Club, Tezpur vs India Club, Silchar
 https://dai.fancode.com/primary/98914_english_hls_5683adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="North Kanto Lions vs East Kanto Sunrisers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99954" group-title="Japan Premier League T20, 2024",North Kanto Lions vs East Kanto Sunrisers
-https://dai.fancode.com/primary/99954_english_hls_9723adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Easterns Lioness vs Southern Jaguars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99522" group-title="Malaysian Super Women T20 League, 2024",Easterns Lioness vs Southern Jaguars
-https://dai.fancode.com/primary/99522_english_hls_6282adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Indonesia vs Thailand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100161" group-title="Bali Bash International - Indonesia vs Thailand",Indonesia vs Thailand
 https://dai.google.com/linear/hls/event/pkihEG9VRjGmq31McjQ4sQ/master.m3u8
+#EXTINF:-1 tvg-name="Central Super Girls vs Northern Queens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99523" group-title="Malaysian Super Women T20 League, 2024",Central Super Girls vs Northern Queens
+https://dai.fancode.com/primary/99523_english_hls_5948adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Speen Ghar Region vs Boost Region" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99554" group-title="Qosh Tepa National T20 Cup, 2024",Speen Ghar Region vs Boost Region
 https://dai.google.com/linear/hls/event/LFjuuhFsQh6bXReqLXuYPA/master.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99722" group-title="LIV Golf Singapore",Day 2
