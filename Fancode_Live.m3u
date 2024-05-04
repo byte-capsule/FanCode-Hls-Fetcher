@@ -9,5 +9,7 @@ https://dai.fancode.com/primary/99954_english_hls_9723adfreeta-no/index.m3u8
 https://dai.fancode.com/primary/99522_english_hls_6282adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Indonesia vs Thailand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100161" group-title="Bali Bash International - Indonesia vs Thailand",Indonesia vs Thailand
 https://dai.google.com/linear/hls/event/pkihEG9VRjGmq31McjQ4sQ/master.m3u8
+#EXTINF:-1 tvg-name="Speen Ghar Region vs Boost Region" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99554" group-title="Qosh Tepa National T20 Cup, 2024",Speen Ghar Region vs Boost Region
+https://dai.google.com/linear/hls/event/LFjuuhFsQh6bXReqLXuYPA/master.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99722" group-title="LIV Golf Singapore",Day 2
 https://dai.fancode.com/primary/99722_english_hls_6084adfreeta-no/index.m3u8
