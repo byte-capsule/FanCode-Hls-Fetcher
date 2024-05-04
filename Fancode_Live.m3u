@@ -1,15 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Kansai Chargers vs West Kanto Hurricanes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99956" group-title="Japan Premier League T20, 2024",Kansai Chargers vs West Kanto Hurricanes
-https://dai.fancode.com/primary/99956_english_hls_5736adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Central Super Girls vs Northern Queens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99523" group-title="Malaysian Super Women T20 League, 2024",Central Super Girls vs Northern Queens
-https://dai.fancode.com/primary/99523_english_hls_5948adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Star Sporting Club, Nagaon vs Rangia Cricket Association" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98915" group-title="Assam Premier Club Championship, 2024",Star Sporting Club, Nagaon vs Rangia Cricket Association
 https://dai.google.com/linear/hls/event/20L3QfAFQwuD3dTar-bSAw/master.m3u8
 #EXTINF:-1 tvg-name="West Indies A vs Nepal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99120" group-title="West Indies A tour of Nepal, 2024",West Indies A vs Nepal
 https://dai.google.com/linear/hls/event/nCWaZ2ELRbq2AIoqzgz5-w/master.m3u8
-#EXTINF:-1 tvg-name="Bergamo CC vs Fresh Tropical" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99598" group-title="ECS Italy, Brescia, 2024",Bergamo CC vs Fresh Tropical
-https://dai.google.com/linear/hls/event/lm8jm5fGSRyis64GfURLjA/master.m3u8
 #EXTINF:-1 tvg-name="Indatwa Hampshire CC Women vs Gahanga Queens CC Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96698" group-title="RCA Women's T20, 2024",Indatwa Hampshire CC Women vs Gahanga Queens CC Women
 https://dai.google.com/linear/hls/event/XU8it__VRx2HsKzkjXxZwA/master.m3u8
+#EXTINF:-1 tvg-name="Bergamo CC vs Fresh Tropical" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99598" group-title="ECS Italy, Brescia, 2024",Bergamo CC vs Fresh Tropical
+https://dai.google.com/linear/hls/event/lm8jm5fGSRyis64GfURLjA/master.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99722" group-title="LIV Golf Singapore",Day 2
 https://dai.fancode.com/primary/99722_english_hls_6084adfreeta-no/index.m3u8
