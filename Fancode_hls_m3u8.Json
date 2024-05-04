@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 6,
-  "updated_on": "04-05-2024 on 11:05:16 AM \ud83c\udf1e",
+  "channels_amount": 7,
+  "updated_on": "04-05-2024 on 11:27:18 AM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -69,6 +69,17 @@
       "team_2": "Singapore",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
       "stream_link": "https://dai.fancode.com/primary/99722_english_hls_6084adfreeta-no/index.m3u8"
+    },
+    {
+      "event_catagory": "golf",
+      "event_name": "Volvo China Open",
+      "match_id": 100028,
+      "match_name": "Day 3",
+      "team_1": "Day 3",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-VCO@2x.png",
+      "team_2": "China",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "stream_link": "https://dai.fancode.com/primary/100028_english_hls_5927adfreeta-di/index.m3u8"
     }
   ]
 }

@@ -11,3 +11,5 @@ https://dai.google.com/linear/hls/event/pkihEG9VRjGmq31McjQ4sQ/master.m3u8
 https://dai.fancode.com/primary/99523_english_hls_5948adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99722" group-title="LIV Golf Singapore",Day 2
 https://dai.fancode.com/primary/99722_english_hls_6084adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100028" group-title="Volvo China Open",Day 3
+https://dai.fancode.com/primary/100028_english_hls_5927adfreeta-di/index.m3u8
