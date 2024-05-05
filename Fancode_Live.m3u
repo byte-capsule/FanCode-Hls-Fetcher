@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Northern Queens vs Western Wonder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99515" group-title="Malaysian Super Women T20 League, 2024",Northern Queens vs Western Wonder
 https://dai.google.com/linear/hls/event/UYi2bxuHTDeaMS1lqPM0-w/master.m3u8
-#EXTINF:-1 tvg-name="SSF Panthers vs MR KB Putrajaya CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99546" group-title="Grand Rumble T10 Championship Round 2, 2024",SSF Panthers vs MR KB Putrajaya CC
-https://dai.google.com/linear/hls/event/-0nhuTe_QGqgZ2vlDVyTSA/master.m3u8
 #EXTINF:-1 tvg-name="Tengapara C.C, Kokrajhar vs India Club, Silchar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100603" group-title="Assam Premier Club Championship, 2024",Tengapara C.C, Kokrajhar vs India Club, Silchar
 https://dai.google.com/linear/hls/event/n5vUNPzLQ2qkikbWvReSJA/master.m3u8
 #EXTINF:-1 tvg-name="Boost Region vs Amo Region" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99557" group-title="Qosh Tepa National T20 Cup, 2024",Boost Region vs Amo Region
@@ -11,5 +9,3 @@ https://dai.google.com/linear/hls/event/3_UXs6_ESLOYcZuVRmH4HA/master.m3u8
 https://dai.google.com/linear/hls/event/SV7vr_ARTKGdEweUIJIzQw/master.m3u8
 #EXTINF:-1 tvg-name="IPRC Kigali CC vs Challengers CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96684" group-title="RCA Men's T20, 2024",IPRC Kigali CC vs Challengers CC
 https://dai.google.com/linear/hls/event/KIva0CBfSdi4Xs3IdKa3mw/master.m3u8
-#EXTINF:-1 tvg-name="Melbourne Victory vs Melbourne City" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100076" group-title="A League Men 2023-24",Melbourne Victory vs Melbourne City
-https://dai.fancode.com/primary/100076_english_hls_5430adfreeta-no/index.m3u8
