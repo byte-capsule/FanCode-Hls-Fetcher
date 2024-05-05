@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Northern Queens vs Western Wonder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99515" group-title="Malaysian Super Women T20 League, 2024",Northern Queens vs Western Wonder
 https://dai.google.com/linear/hls/event/UYi2bxuHTDeaMS1lqPM0-w/master.m3u8
-#EXTINF:-1 tvg-name="Golden Sapero Technical Service vs Karwan Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99493" group-title="Bukhatir T20 League, 2024",Golden Sapero Technical Service vs Karwan Cricket Club
-https://dai.google.com/linear/hls/event/yGwzjAA7TEWBaUPPLAvY-Q/master.m3u8
 #EXTINF:-1 tvg-name="Trentino Aquila vs Jinnah Brescia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99606" group-title="ECS Italy, Brescia, 2024",Trentino Aquila vs Jinnah Brescia
 https://dai.google.com/linear/hls/event/01ew1W8yRD--tZ7apqDE9Q/master.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka Women vs United Arab Emirates Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98851" group-title="ICC Women's T20 World Cup Qualifier, 2024",Sri Lanka Women vs United Arab Emirates Women
