@@ -3,11 +3,13 @@
 https://dai.google.com/linear/hls/event/UYi2bxuHTDeaMS1lqPM0-w/master.m3u8
 #EXTINF:-1 tvg-name="Golden Sapero Technical Service vs Karwan Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99493" group-title="Bukhatir T20 League, 2024",Golden Sapero Technical Service vs Karwan Cricket Club
 https://dai.google.com/linear/hls/event/yGwzjAA7TEWBaUPPLAvY-Q/master.m3u8
-#EXTINF:-1 tvg-name="Trentino Aquila vs Milan United" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99605" group-title="ECS Italy, Brescia, 2024",Trentino Aquila vs Milan United
-https://dai.google.com/linear/hls/event/o46vMRWSQPyS1-lSurLLcg/master.m3u8
+#EXTINF:-1 tvg-name="Trentino Aquila vs Jinnah Brescia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99606" group-title="ECS Italy, Brescia, 2024",Trentino Aquila vs Jinnah Brescia
+https://dai.google.com/linear/hls/event/01ew1W8yRD--tZ7apqDE9Q/master.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe vs Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99128" group-title="Zimbabwe tour of Bangladesh, 2024",Zimbabwe vs Bangladesh
 https://dai.google.com/linear/hls/event/Db_1tt2NTRGsk-_leb5UjA/master.m3u8
 #EXTINF:-1 tvg-name="Manchester City Women vs Arsenal Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98796" group-title="Barclays FA Women's Super League 2023-24",Manchester City Women vs Arsenal Women
 https://dai.fancode.com/primary/98796_english_hls_4981adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Ehlers/Wickler vs van de Velde/Immers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100606" group-title="Volleyball Mens Beach Pro Tour",Ehlers/Wickler vs van de Velde/Immers
 https://dai.fancode.com/primary/100606_english_hls_5411adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="George/Andre vs Evandro/Arthur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100607" group-title="Volleyball Mens Beach Pro Tour",George/Andre vs Evandro/Arthur
+https://dai.fancode.com/primary/100607_english_hls_8667adfreeta-di/index.m3u8
