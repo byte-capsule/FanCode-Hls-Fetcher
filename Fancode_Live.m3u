@@ -1,1 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Northern Queens vs Western Wonder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99515" group-title="Malaysian Super Women T20 League, 2024",Northern Queens vs Western Wonder
+https://dai.google.com/linear/hls/event/UYi2bxuHTDeaMS1lqPM0-w/master.m3u8
+#EXTINF:-1 tvg-name="Easterns Lioness vs Central Super Girls" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99524" group-title="Malaysian Super Women T20 League, 2024",Easterns Lioness vs Central Super Girls
+https://dai.google.com/linear/hls/event/7wt6oEdlSfOD2C_-uY_aFQ/master.m3u8
+#EXTINF:-1 tvg-name="Sandy Point Snappers vs Molineaux Blue Runners" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98790" group-title="Cool and Smooth T20, 2024",Sandy Point Snappers vs Molineaux Blue Runners
+https://dai.google.com/linear/hls/event/TPO7PtKrToq_E_E3NjHpFw/master.m3u8
+#EXTINF:-1 tvg-name="Powergen Penal SC vs Central Sports Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99190" group-title="Trinidad T20 Festival, 2024",Powergen Penal SC vs Central Sports Club
+https://dai.google.com/linear/hls/event/EyMStHDGRqSaqG4JGy0VAQ/master.m3u8
+#EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99723" group-title="LIV Golf Singapore",Day 3
+https://dai.google.com/linear/hls/event/TkCoFlJPTNmUgchrqwEjoA/master.m3u8
