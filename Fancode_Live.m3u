@@ -3,17 +3,13 @@
 https://dai.google.com/linear/hls/event/UYi2bxuHTDeaMS1lqPM0-w/master.m3u8
 #EXTINF:-1 tvg-name="SSF Panthers vs MR KB Putrajaya CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99546" group-title="Grand Rumble T10 Championship Round 2, 2024",SSF Panthers vs MR KB Putrajaya CC
 https://dai.google.com/linear/hls/event/-0nhuTe_QGqgZ2vlDVyTSA/master.m3u8
-#EXTINF:-1 tvg-name="East Kanto Sunrisers vs South Kanto Super Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99960" group-title="Japan Premier League T20, 2024",East Kanto Sunrisers vs South Kanto Super Kings
-https://dai.google.com/linear/hls/event/5Qy2uGuUR_eA31vPtK4QjA/master.m3u8
 #EXTINF:-1 tvg-name="Tengapara C.C, Kokrajhar vs India Club, Silchar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100603" group-title="Assam Premier Club Championship, 2024",Tengapara C.C, Kokrajhar vs India Club, Silchar
 https://dai.google.com/linear/hls/event/n5vUNPzLQ2qkikbWvReSJA/master.m3u8
 #EXTINF:-1 tvg-name="Kowloon Cricket Club vs United Services Recreation Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95175" group-title="CHK Men's Premier League T20",Kowloon Cricket Club vs United Services Recreation Club
 https://dai.google.com/linear/hls/event/siN14XV6S-2n4EpJVeK-lA/master.m3u8
-#EXTINF:-1 tvg-name="Band-e-Amir Region vs Speen Ghar Region" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99556" group-title="Qosh Tepa National T20 Cup, 2024",Band-e-Amir Region vs Speen Ghar Region
-https://dai.google.com/linear/hls/event/arv2_eErS0ypzGfsh89HLg/master.m3u8
 #EXTINF:-1 tvg-name="IPRC Kigali CC vs Challengers CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96684" group-title="RCA Men's T20, 2024",IPRC Kigali CC vs Challengers CC
 https://dai.google.com/linear/hls/event/KIva0CBfSdi4Xs3IdKa3mw/master.m3u8
-#EXTINF:-1 tvg-name="Jinnah Brescia vs Milan United" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99602" group-title="ECS Italy, Brescia, 2024",Jinnah Brescia vs Milan United
-https://dai.google.com/linear/hls/event/b8j6GFRBTfKLjWAqyF1bYw/master.m3u8
+#EXTINF:-1 tvg-name="Milan United vs Panjab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99603" group-title="ECS Italy, Brescia, 2024",Milan United vs Panjab
+https://dai.google.com/linear/hls/event/SV7vr_ARTKGdEweUIJIzQw/master.m3u8
 #EXTINF:-1 tvg-name="Melbourne Victory vs Melbourne City" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100076" group-title="A League Men 2023-24",Melbourne Victory vs Melbourne City
 https://dai.fancode.com/primary/100076_english_hls_5430adfreeta-no/index.m3u8

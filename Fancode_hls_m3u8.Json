@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 9,
-  "updated_on": "05-05-2024 on 2:40:53 PM \ud83c\udf1e",
+  "channels_amount": 7,
+  "updated_on": "05-05-2024 on 3:07:41 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -28,17 +28,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Japan Premier League T20, 2024",
-      "match_id": 99960,
-      "match_name": "East Kanto Sunrisers vs South Kanto Super Kings",
-      "team_1": "East Kanto Sunrisers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/EKS-CR1@2x.png",
-      "team_2": "South Kanto Super Kings",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SKS-CR1@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/5Qy2uGuUR_eA31vPtK4QjA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "Assam Premier Club Championship, 2024",
       "match_id": 100603,
       "match_name": "Tengapara C.C, Kokrajhar vs India Club, Silchar",
@@ -61,17 +50,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Qosh Tepa National T20 Cup, 2024",
-      "match_id": 99556,
-      "match_name": "Band-e-Amir Region vs Speen Ghar Region",
-      "team_1": "Band-e-Amir Region",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BEA@2x.png",
-      "team_2": "Speen Ghar Region",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SPG@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/arv2_eErS0ypzGfsh89HLg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "RCA Men's T20, 2024",
       "match_id": 96684,
       "match_name": "IPRC Kigali CC vs Challengers CC",
@@ -84,13 +62,13 @@
     {
       "event_catagory": "cricket",
       "event_name": "ECS Italy, Brescia, 2024",
-      "match_id": 99602,
-      "match_name": "Jinnah Brescia vs Milan United",
-      "team_1": "Jinnah Brescia",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/JIB-CR1@2x.png",
-      "team_2": "Milan United",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/MUD-CR2@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/b8j6GFRBTfKLjWAqyF1bYw/master.m3u8"
+      "match_id": 99603,
+      "match_name": "Milan United vs Panjab",
+      "team_1": "Milan United",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/MUD-CR2@2x.png",
+      "team_2": "Panjab",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PAN-CR4@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/SV7vr_ARTKGdEweUIJIzQw/master.m3u8"
     },
     {
       "event_catagory": "football",
