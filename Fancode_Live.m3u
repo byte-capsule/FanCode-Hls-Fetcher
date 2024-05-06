@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Northern Queens vs Western Wonder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99515" group-title="Malaysian Super Women T20 League, 2024",Northern Queens vs Western Wonder
 https://dai.google.com/linear/hls/event/UYi2bxuHTDeaMS1lqPM0-w/master.m3u8
+#EXTINF:-1 tvg-name="Mis-e-Ainak Region vs Amo Region" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99555" group-title="Qosh Tepa National T20 Cup, 2024",Mis-e-Ainak Region vs Amo Region
+https://dai.google.com/linear/hls/event/PpPZC-5SSgKa9r--_KrMRw/master.m3u8
 #EXTINF:-1 tvg-name="Trentino Aquila vs Janjua Brescia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99608" group-title="ECS Italy, Brescia, 2024",Trentino Aquila vs Janjua Brescia
 https://dai.google.com/linear/hls/event/lBCg3Q-JSpyaazoBdlX6nA/master.m3u8
 #EXTINF:-1 tvg-name="Urawa Red Diamonds vs Yokohama F. Marinos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99633" group-title="J League 2024",Urawa Red Diamonds vs Yokohama F. Marinos
