@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Northern Queens vs Western Wonder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99515" group-title="Malaysian Super Women T20 League, 2024",Northern Queens vs Western Wonder
 https://dai.google.com/linear/hls/event/UYi2bxuHTDeaMS1lqPM0-w/master.m3u8
-#EXTINF:-1 tvg-name="Janjua Brescia vs Panjab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99610" group-title="ECS Italy, Brescia, 2024",Janjua Brescia vs Panjab
-https://dai.google.com/linear/hls/event/XK9fwsYmQLikdm7OfJK03Q/master.m3u8
+#EXTINF:-1 tvg-name="Panjab vs Vicenza" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99611" group-title="ECS Italy, Brescia, 2024",Panjab vs Vicenza
+https://dai.google.com/linear/hls/event/D3qTXmclSzeMiPyMTLWsOw/master.m3u8
 #EXTINF:-1 tvg-name="Ajman vs Fujairah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99329" group-title="Emirates D50 Tournament, 2024",Ajman vs Fujairah
 https://dai.google.com/linear/hls/event/yaqqwWhvTEuHfwJmjeFmRA/master.m3u8
