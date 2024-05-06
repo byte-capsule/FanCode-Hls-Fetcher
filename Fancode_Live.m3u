@@ -1,17 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Northern Queens vs Western Wonder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99515" group-title="Malaysian Super Women T20 League, 2024",Northern Queens vs Western Wonder
 https://dai.google.com/linear/hls/event/UYi2bxuHTDeaMS1lqPM0-w/master.m3u8
-#EXTINF:-1 tvg-name="Tengapara C.C, Kokrajhar vs India Club, Silchar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100603" group-title="Assam Premier Club Championship, 2024",Tengapara C.C, Kokrajhar vs India Club, Silchar
-https://dai.google.com/linear/hls/event/n5vUNPzLQ2qkikbWvReSJA/master.m3u8
 #EXTINF:-1 tvg-name="Cricket Club of Dibrugarh vs Tengapara C.C, Kokrajhar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98918" group-title="Assam Premier Club Championship, 2024",Cricket Club of Dibrugarh vs Tengapara C.C, Kokrajhar
 https://dai.google.com/linear/hls/event/Y0Gp-C2cSfmV5CVRJuOQCA/master.m3u8
 #EXTINF:-1 tvg-name="Indonesia vs Thailand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100163" group-title="Bali Bash International - Indonesia vs Thailand",Indonesia vs Thailand
 https://dai.google.com/linear/hls/event/PWVP82s7QqOzNzGuwyTjIQ/master.m3u8
 #EXTINF:-1 tvg-name="Boost Region vs Speen Ghar Region" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99554" group-title="Qosh Tepa National T20 Cup, 2024",Boost Region vs Speen Ghar Region
 https://dai.google.com/linear/hls/event/LFjuuhFsQh6bXReqLXuYPA/master.m3u8
+#EXTINF:-1 tvg-name="Vicenza vs Janjua Brescia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99607" group-title="ECS Italy, Brescia, 2024",Vicenza vs Janjua Brescia
+https://dai.google.com/linear/hls/event/wVm78I6EQmicnwxGJnnKag/master.m3u8
 #EXTINF:-1 tvg-name="Sanfrecce Hiroshima vs Nagoya Grampus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99632" group-title="J League 2024",Sanfrecce Hiroshima vs Nagoya Grampus
 https://dai.fancode.com/primary/99632_english_hls_4813adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Consadole Sapporo vs FC Tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99631" group-title="J League 2024",Consadole Sapporo vs FC Tokyo
-https://dai.fancode.com/primary/99631_english_hls_5315adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Kattakudi Sports vs Karpagam University" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100243" group-title="Yuva Kabaddi Series - Tamil Nadu Clubs, 2024",Kattakudi Sports vs Karpagam University
 https://dai.google.com/linear/hls/event/RN2NsD7hSVGMSbsZtra4cA/master.m3u8
