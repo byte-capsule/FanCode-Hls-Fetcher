@@ -1,10 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Northern Queens vs Western Wonder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99515" group-title="Malaysian Super Women T20 League, 2024",Northern Queens vs Western Wonder
 https://dai.google.com/linear/hls/event/UYi2bxuHTDeaMS1lqPM0-w/master.m3u8
-#EXTINF:-1 tvg-name="Tengapara C.C, Kokrajhar vs Cricket Club of Dibrugarh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98918" group-title="Assam Premier Club Championship, 2024",Tengapara C.C, Kokrajhar vs Cricket Club of Dibrugarh
-https://dai.google.com/linear/hls/event/Y0Gp-C2cSfmV5CVRJuOQCA/master.m3u8
-#EXTINF:-1 tvg-name="Vicenza vs Janjua Brescia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99607" group-title="ECS Italy, Brescia, 2024",Vicenza vs Janjua Brescia
-https://dai.google.com/linear/hls/event/wVm78I6EQmicnwxGJnnKag/master.m3u8
+#EXTINF:-1 tvg-name="Trentino Aquila vs Janjua Brescia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99608" group-title="ECS Italy, Brescia, 2024",Trentino Aquila vs Janjua Brescia
+https://dai.google.com/linear/hls/event/lBCg3Q-JSpyaazoBdlX6nA/master.m3u8
 #EXTINF:-1 tvg-name="Urawa Red Diamonds vs Yokohama F. Marinos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99633" group-title="J League 2024",Urawa Red Diamonds vs Yokohama F. Marinos
 https://dai.fancode.com/primary/99633_english_hls_5136adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="DPR Korea Women vs Korea Republic Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100139" group-title="AFC U17 Women's Asian Cup, Indonesia 2024",DPR Korea Women vs Korea Republic Women
