@@ -5,3 +5,5 @@ https://dai.google.com/linear/hls/event/UYi2bxuHTDeaMS1lqPM0-w/master.m3u8
 https://dai.google.com/linear/hls/event/D3qTXmclSzeMiPyMTLWsOw/master.m3u8
 #EXTINF:-1 tvg-name="Ajman vs Fujairah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99329" group-title="Emirates D50 Tournament, 2024",Ajman vs Fujairah
 https://dai.google.com/linear/hls/event/yaqqwWhvTEuHfwJmjeFmRA/master.m3u8
+#EXTINF:-1 tvg-name="Demerara Pitbulls vs Berbice Pirahnas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99261" group-title="Guyana T10 Blast",Demerara Pitbulls vs Berbice Pirahnas
+https://dai.google.com/linear/hls/event/DKOxsEOTQpqyUsWoDoq3sA/master.m3u8
