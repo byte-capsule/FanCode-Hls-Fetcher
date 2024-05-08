@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Northern Queens vs Western Wonder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99515" group-title="Malaysian Super Women T20 League, 2024",Northern Queens vs Western Wonder
 https://dai.google.com/linear/hls/event/UYi2bxuHTDeaMS1lqPM0-w/master.m3u8
-#EXTINF:-1 tvg-name="DCA Alappuzha vs DCA Kozhikode" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100370" group-title="Kerala T20 Trophy",DCA Alappuzha vs DCA Kozhikode
-https://dai.google.com/linear/hls/event/Nx-ZDsYoQUmhOSo6rydr7w/master.m3u8
 #EXTINF:-1 tvg-name="Band-e-Amir Region vs Mis-e-Ainak Region" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99560" group-title="Qosh Tepa National T20 Cup, 2024",Band-e-Amir Region vs Mis-e-Ainak Region
 https://dai.google.com/linear/hls/event/ilil3vh9R82-AZT6uceZCQ/master.m3u8
+#EXTINF:-1 tvg-name="Panjab vs Trentino Aquila" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99617" group-title="ECS Italy, Brescia, 2024",Panjab vs Trentino Aquila
+https://dai.google.com/linear/hls/event/gakrSfwhQuy4dEaOsrhwvg/master.m3u8
 #EXTINF:-1 tvg-name="N.A. Academy vs Vels University" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100251" group-title="Velammal Yuva Kabaddi Series - Tamil Nadu Clubs, 2",N.A. Academy vs Vels University
 https://dai.google.com/linear/hls/event/L5czghf_TMGR2GLEMWsZng/master.m3u8
