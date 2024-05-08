@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Northern Queens vs Western Wonder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99515" group-title="Malaysian Super Women T20 League, 2024",Northern Queens vs Western Wonder
 https://dai.google.com/linear/hls/event/UYi2bxuHTDeaMS1lqPM0-w/master.m3u8
+#EXTINF:-1 tvg-name="DCA Alappuzha vs DCA Kozhikode" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100370" group-title="Kerala T20 Trophy",DCA Alappuzha vs DCA Kozhikode
+https://dai.google.com/linear/hls/event/Nx-ZDsYoQUmhOSo6rydr7w/master.m3u8
