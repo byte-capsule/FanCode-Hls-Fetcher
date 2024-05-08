@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Northern Queens vs Western Wonder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99515" group-title="Malaysian Super Women T20 League, 2024",Northern Queens vs Western Wonder
 https://dai.google.com/linear/hls/event/UYi2bxuHTDeaMS1lqPM0-w/master.m3u8
-#EXTINF:-1 tvg-name="DCA Idukki vs DCA Kazaragode" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100371" group-title="Kerala T20 Trophy",DCA Idukki vs DCA Kazaragode
+#EXTINF:-1 tvg-name="Kazaragode vs Idukki" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100371" group-title="Kerala T20 Trophy",Kazaragode vs Idukki
 https://dai.google.com/linear/hls/event/NVmez6-kT9CypSFVOFTJ7w/master.m3u8
 #EXTINF:-1 tvg-name="Band-e-Amir Region vs Mis-e-Ainak Region" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99560" group-title="Qosh Tepa National T20 Cup, 2024",Band-e-Amir Region vs Mis-e-Ainak Region
 https://dai.google.com/linear/hls/event/ilil3vh9R82-AZT6uceZCQ/master.m3u8
