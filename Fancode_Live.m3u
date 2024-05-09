@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Northern Queens vs Western Wonder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99515" group-title="Malaysian Super Women T20 League, 2024",Northern Queens vs Western Wonder
 https://dai.google.com/linear/hls/event/UYi2bxuHTDeaMS1lqPM0-w/master.m3u8
+#EXTINF:-1 tvg-name="Seven Districts vs Karwan Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98387" group-title="Bukhatir T20 League, 2024",Seven Districts vs Karwan Cricket Club
+https://dai.google.com/linear/hls/event/A8prSDy8QuCrqskMBQUsHA/master.m3u8
 #EXTINF:-1 tvg-name="Berbice Pirahnas vs Berbice Caimans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100167" group-title="Guyana T10 Blast",Berbice Pirahnas vs Berbice Caimans
 https://dai.google.com/linear/hls/event/KWIuYDxEQViqmUBWazdFZg/master.m3u8
 #EXTINF:-1 tvg-name="Northern Knights vs North West Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100466" group-title="Ireland Inter-Provincial Limited Over Cup, 2024",Northern Knights vs North West Warriors
