@@ -1,12 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Northern Queens vs Western Wonder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99515" group-title="Malaysian Super Women T20 League, 2024",Northern Queens vs Western Wonder
 https://dai.google.com/linear/hls/event/UYi2bxuHTDeaMS1lqPM0-w/master.m3u8
-#EXTINF:-1 tvg-name="Idukki vs Kozhikode" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100373" group-title="Kerala NSK T20 Trophy",Idukki vs Kozhikode
-https://dai.google.com/linear/hls/event/G_Tyco_KQTStTIP-bGPqgg/master.m3u8
 #EXTINF:-1 tvg-name="Boost Region vs Band-e-Amir Region" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99563" group-title="Qosh Tepa National T20 Cup, 2024",Boost Region vs Band-e-Amir Region
 https://dai.google.com/linear/hls/event/ysoNBWzDRZCMTGtA9rLz9Q/master.m3u8
-#EXTINF:-1 tvg-name="Cividate vs Panjab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99623" group-title="ECS Italy, Brescia, 2024",Cividate vs Panjab
-https://dai.google.com/linear/hls/event/oLiMVZpMQOy7gLRazsMRsQ/master.m3u8
 #EXTINF:-1 tvg-name="Fresh Tropical vs Vicenza" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99624" group-title="ECS Italy, Brescia, 2024",Fresh Tropical vs Vicenza
 https://dai.google.com/linear/hls/event/dSKqnlZFQfGKYXCpmOe4Gw/master.m3u8
 #EXTINF:-1 tvg-name="Northern Knights vs North West Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100466" group-title="Ireland Inter-Provincial Limited Over Cup, 2024",Northern Knights vs North West Warriors
@@ -16,6 +12,6 @@ https://dai.google.com/linear/hls/event/Py2QQcEGT92Q1i0mrMNdjQ/master.m3u8
 #EXTINF:-1 tvg-name="India Women vs Bangladesh Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99446" group-title="India Women tour of Bangladesh, 2024",India Women vs Bangladesh Women
 https://dai.google.com/linear/hls/event/_3tRsU3SSPuDf8T6PalxJQ/master.m3u8
 #EXTINF:-1 tvg-name="Korea Republic Women vs Indonesia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100144" group-title="AFC U17 Women's Asian Cup, Indonesia 2024",Korea Republic Women vs Indonesia Women
- Free Trial attempt unsuccessful......it requires Premium Account
+https://dai.google.com/linear/hls/event/IWsu1ZP-Sqye-34goh638A/master.m3u8
 #EXTINF:-1 tvg-name="Vels University vs Kattakudi Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100256" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",Vels University vs Kattakudi Sports
  Free Trial attempt unsuccessful......it requires Premium Account
