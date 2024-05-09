@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Northern Queens vs Western Wonder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99515" group-title="Malaysian Super Women T20 League, 2024",Northern Queens vs Western Wonder
 https://dai.google.com/linear/hls/event/UYi2bxuHTDeaMS1lqPM0-w/master.m3u8
+#EXTINF:-1 tvg-name="Idukki vs Kozhikode" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100373" group-title="Kerala NSK T20 Trophy",Idukki vs Kozhikode
+https://dai.google.com/linear/hls/event/G_Tyco_KQTStTIP-bGPqgg/master.m3u8
 #EXTINF:-1 tvg-name="Speen Ghar Region vs Mis-e-Ainak Region" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99562" group-title="Qosh Tepa National T20 Cup, 2024",Speen Ghar Region vs Mis-e-Ainak Region
 https://dai.google.com/linear/hls/event/2OEGRN2ZQkGXDFFC3zNHhg/master.m3u8
 #EXTINF:-1 tvg-name="Friends XI vs Brescia CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99622" group-title="ECS Italy, Brescia, 2024",Friends XI vs Brescia CC
