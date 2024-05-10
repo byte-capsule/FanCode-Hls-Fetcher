@@ -1,9 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Northern Queens vs Western Wonder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99515" group-title="Malaysian Super Women T20 League, 2024",Northern Queens vs Western Wonder
-https://dai.google.com/linear/hls/event/UYi2bxuHTDeaMS1lqPM0-w/master.m3u8
-#EXTINF:-1 tvg-name="Kuwait Under-19 vs NCM Investment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100192" group-title="KCC T20 Elite Cup 3rd Edition, 2024",Kuwait Under-19 vs NCM Investment
-https://dai.google.com/linear/hls/event/OWV42ZW3Rn2mysbarDWiEQ/master.m3u8
-#EXTINF:-1 tvg-name="CSS Group vs Mawa Chemicals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98388" group-title="Bukhatir T20 League, 2024",CSS Group vs Mawa Chemicals
-https://dai.google.com/linear/hls/event/S0vTfdcGQ_OWlT9P6UVcMw/master.m3u8
 #EXTINF:-1 tvg-name="PFL Mena" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99789" group-title="Professional Fighters League",PFL Mena
 https://dai.google.com/linear/hls/event/NelZvwX2SCiTG1G3W7LCGA/master.m3u8
