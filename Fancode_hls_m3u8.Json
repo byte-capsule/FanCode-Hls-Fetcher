@@ -2,7 +2,7 @@
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "channels_amount": 6,
-  "updated_on": "10-05-2024 on 0:41:05 PM \ud83c\udf1e",
+  "updated_on": "10-05-2024 on 1:07:11 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -28,17 +28,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Kerala NSK T20 Trophy",
-      "match_id": 100374,
-      "match_name": "Alappuzha vs Ernakulam",
-      "team_1": "Alappuzha",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-APH@2x.png",
-      "team_2": "Ernakulam",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ERL@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/EYQV8lwjSNyIGUDBSCag-A/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "Qosh Tepa National T20 Cup, 2024",
       "match_id": 99564,
       "match_name": "Amo Region vs Band-e-Amir Region",
@@ -47,6 +36,17 @@
       "team_2": "Band-e-Amir Region",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BEA@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/b8qYW3AnSOqegyrXUtv-qQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ECS Italy, Brescia, 2024",
+      "match_id": 99626,
+      "match_name": "Fresh Tropical vs Panjab",
+      "team_1": "Fresh Tropical",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FHT-CR1@2x.png",
+      "team_2": "Panjab",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PAN-CR4@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/BijIUFGHQvmY610bmgLgsg/master.m3u8"
     },
     {
       "event_catagory": "golf",
