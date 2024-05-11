@@ -2,7 +2,7 @@
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "channels_amount": 8,
-  "updated_on": "11-05-2024 on 3:23:59 PM \ud83c\udf1e",
+  "updated_on": "11-05-2024 on 3:41:02 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -39,6 +39,17 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "ECN Mdina Cup T20Is, 2024",
+      "match_id": 100558,
+      "match_name": "Malta vs Belgium",
+      "team_1": "Malta",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAL@2x.png",
+      "team_2": "Belgium",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BEL@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/0Jt5RCeTR9C9qVBhkUQ9Bg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "RCA Women's T20, 2024",
       "match_id": 96700,
       "match_name": "Indatwa Hampshire CC Women vs Muhanga Zebras CC Women",
@@ -58,17 +69,6 @@
       "team_2": "Lalitpur Mayor's XI Women",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LMW@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/3lcoiCjTRuql0i7y0hhnQw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECN Mdina Cup T20Is, 2024",
-      "match_id": 100558,
-      "match_name": "Malta vs Belgium",
-      "team_1": "Malta",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAL@2x.png",
-      "team_2": "Belgium",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BEL@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/0Jt5RCeTR9C9qVBhkUQ9Bg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
