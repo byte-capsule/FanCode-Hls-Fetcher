@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 4,
-  "updated_on": "11-05-2024 on 11:41:09 AM \ud83c\udf1e",
+  "channels_amount": 6,
+  "updated_on": "11-05-2024 on 0:07:41 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -47,6 +47,28 @@
       "team_2": "Urawa Red Diamonds",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-URW@2x.png",
       "stream_link": "https://dai.fancode.com/primary/99775_english_hls_5108adfreeta-di/index.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "J League 2024",
+      "match_id": 99776,
+      "match_name": "Kawasaki Frontale vs Consadole Sapporo",
+      "team_1": "Kawasaki Frontale",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KAFRON@2x.png",
+      "team_2": "Consadole Sapporo",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CSA@2x.png",
+      "stream_link": "https://dai.fancode.com/primary/99776_english_hls_4808adfreeta-no/index.m3u8"
+    },
+    {
+      "event_catagory": "golf",
+      "event_name": "LET Aramco Team Series Presented by PIF - Seoul",
+      "match_id": 100744,
+      "match_name": "Day 2",
+      "team_1": "Day 2",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-ATP@2x.png",
+      "team_2": "South Korea",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/KrBSW6z4SGSZB3L8PAJJew/master.m3u8"
     }
   ]
 }
