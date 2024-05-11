@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Northern Queens vs Western Wonder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99515" group-title="Malaysian Super Women T20 League, 2024",Northern Queens vs Western Wonder
 https://dai.google.com/linear/hls/event/UYi2bxuHTDeaMS1lqPM0-w/master.m3u8
-#EXTINF:-1 tvg-name="Kozhikode vs Ernakulam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100376" group-title="Kerala NSK T20 Trophy",Kozhikode vs Ernakulam
-https://dai.google.com/linear/hls/event/CRJSZTfXQciXT3zpycPVYA/master.m3u8
 #EXTINF:-1 tvg-name="Speen Ghar Region vs Band-e-Amir Region" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99566" group-title="Qosh Tepa National T20 Cup, 2024",Speen Ghar Region vs Band-e-Amir Region
 https://dai.google.com/linear/hls/event/ndsT67jxRQi6U0x4quFR5w/master.m3u8
 #EXTINF:-1 tvg-name="Albirex Niigata vs Urawa Red Diamonds" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99775" group-title="J League 2024",Albirex Niigata vs Urawa Red Diamonds
@@ -11,3 +9,5 @@ https://dai.fancode.com/primary/99775_english_hls_5108adfreeta-di/index.m3u8
 https://dai.fancode.com/primary/99776_english_hls_4808adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100744" group-title="LET Aramco Team Series Presented by PIF - Seoul",Day 2
 https://dai.google.com/linear/hls/event/KrBSW6z4SGSZB3L8PAJJew/master.m3u8
+#EXTINF:-1 tvg-name="Karpagam University vs Alathankarai Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100263" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",Karpagam University vs Alathankarai Club
+https://dai.google.com/linear/hls/event/QywtQc4zRCSCUjP4rD_qjQ/master.m3u8
