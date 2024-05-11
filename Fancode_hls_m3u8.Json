@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 8,
-  "updated_on": "11-05-2024 on 1:41:15 PM \ud83c\udf1e",
+  "channels_amount": 6,
+  "updated_on": "11-05-2024 on 2:07:33 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -25,17 +25,6 @@
       "team_2": "Alappuzha",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-APH@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/cpjuq2HVSliTUfKLr0NKFA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Qosh Tepa National T20 Cup, 2024",
-      "match_id": 99566,
-      "match_name": "Speen Ghar Region vs Band-e-Amir Region",
-      "team_1": "Speen Ghar Region",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SPG@2x.png",
-      "team_2": "Band-e-Amir Region",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BEA@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/ndsT67jxRQi6U0x4quFR5w/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -69,17 +58,6 @@
       "team_2": "Lalitpur Mayor's XI Women",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LMW@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/3lcoiCjTRuql0i7y0hhnQw/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "J League 2024",
-      "match_id": 99776,
-      "match_name": "Kawasaki Frontale vs Consadole Sapporo",
-      "team_1": "Kawasaki Frontale",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KAFRON@2x.png",
-      "team_2": "Consadole Sapporo",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CSA@2x.png",
-      "stream_link": "https://dai.fancode.com/primary/99776_english_hls_4808adfreeta-no/index.m3u8"
     },
     {
       "event_catagory": "golf",
