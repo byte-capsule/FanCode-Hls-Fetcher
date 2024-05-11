@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Northern Queens vs Western Wonder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99515" group-title="Malaysian Super Women T20 League, 2024",Northern Queens vs Western Wonder
 https://dai.google.com/linear/hls/event/UYi2bxuHTDeaMS1lqPM0-w/master.m3u8
+#EXTINF:-1 tvg-name="Gems Education CC vs CSS Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98390" group-title="Bukhatir T20 League, 2024",Gems Education CC vs CSS Group
+https://dai.google.com/linear/hls/event/s2x9xzHrTL2SyAHv3Uaq6g/master.m3u8
 #EXTINF:-1 tvg-name="Italy Women vs Spain Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101059" group-title="ECI-W Italy, Brescia, 2024",Italy Women vs Spain Women
 https://dai.google.com/linear/hls/event/8w_YWoL7StqtpJbXBVFNEw/master.m3u8
 #EXTINF:-1 tvg-name="England Women vs Pakistan Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99908" group-title="Pakistan Women tour of England, 2024",England Women vs Pakistan Women
