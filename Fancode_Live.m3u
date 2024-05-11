@@ -3,11 +3,15 @@
 https://dai.google.com/linear/hls/event/UYi2bxuHTDeaMS1lqPM0-w/master.m3u8
 #EXTINF:-1 tvg-name="Mis-e-Ainak Region vs Amo Region" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99567" group-title="Qosh Tepa National T20 Cup, 2024",Mis-e-Ainak Region vs Amo Region
 https://dai.google.com/linear/hls/event/Wz6NgFcGSr6mVgQ7xgWTMw/master.m3u8
-#EXTINF:-1 tvg-name="Italy vs Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100978" group-title="ECI Italy, Brescia, 2024",Italy vs Spain
-https://dai.google.com/linear/hls/event/bmSnRP9pTgarSzD9bUcsmg/master.m3u8
+#EXTINF:-1 tvg-name="Italy Women vs Spain Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101058" group-title="ECI-W Italy, Brescia, 2024",Italy Women vs Spain Women
+https://dai.google.com/linear/hls/event/AiukVSgLTl6hRA32Ma-EiQ/master.m3u8
 #EXTINF:-1 tvg-name="Malta vs Belgium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100558" group-title="ECN Mdina Cup T20Is, 2024",Malta vs Belgium
 https://dai.google.com/linear/hls/event/0Jt5RCeTR9C9qVBhkUQ9Bg/master.m3u8
 #EXTINF:-1 tvg-name="Yokohama F. Marinos vs Al Ain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93367" group-title="AFC Champions League",Yokohama F. Marinos vs Al Ain
 https://dai.google.com/linear/hls/event/IcyrNpsiQaq5IfPdwpd9Wg/master.m3u8
+#EXTINF:-1 tvg-name="Tianjin Jinmen Tiger vs Shanghai Shenhua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100182" group-title="Chinese Super League 2024",Tianjin Jinmen Tiger vs Shanghai Shenhua
+https://dai.fancode.com/primary/100182_english_hls_8598adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100744" group-title="LET Aramco Team Series Presented by PIF - Seoul",Day 2
 https://dai.google.com/linear/hls/event/KrBSW6z4SGSZB3L8PAJJew/master.m3u8
+#EXTINF:-1 tvg-name="Vels University vs KR Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100264" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",Vels University vs KR Sports
+https://dai.google.com/linear/hls/event/Gj3rexb6QxOQQH1vtJ_Dhg/master.m3u8
