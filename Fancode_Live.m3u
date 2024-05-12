@@ -11,3 +11,5 @@ https://dai.google.com/linear/hls/event/Xv55Ln-CRXaxR3pUOMpDnw/master.m3u8
 https://dai.fancode.com/primary/100728_english_hls_4794adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100745" group-title="LET Aramco Team Series Presented by PIF - Seoul",Day 3
 https://dai.google.com/linear/hls/event/0kOWcSpqSzOzPydtI9N1YQ/master.m3u8
+#EXTINF:-1 tvg-name="KR Sports vs Kattakudi Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100267" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",KR Sports vs Kattakudi Sports
+https://dai.google.com/linear/hls/event/ZJ2GEO-HTGW1XygKZdEc0w/master.m3u8
