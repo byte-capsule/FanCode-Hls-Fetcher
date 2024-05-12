@@ -9,3 +9,7 @@ https://dai.google.com/linear/hls/event/qG_gyK41RQezdVNqFFz3Eg/master.m3u8
 https://dai.google.com/linear/hls/event/Xv55Ln-CRXaxR3pUOMpDnw/master.m3u8
 #EXTINF:-1 tvg-name="Kashima Antlers vs Tokyo Verdy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99777" group-title="J League 2024",Kashima Antlers vs Tokyo Verdy
 https://dai.fancode.com/primary/99777_english_hls_5812adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100745" group-title="LET Aramco Team Series Presented by PIF - Seoul",Day 3
+https://dai.google.com/linear/hls/event/0kOWcSpqSzOzPydtI9N1YQ/master.m3u8
+#EXTINF:-1 tvg-name="Karpagam University vs Vels University" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100266" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",Karpagam University vs Vels University
+https://dai.google.com/linear/hls/event/1U1-M34dTXKAowwlyQV2BA/master.m3u8
