@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Tallinn Hippos vs Mustamae Bulls" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100993" group-title="ECS Estonia, 2024",Tallinn Hippos vs Mustamae Bulls
 https://d277gxcfmrs4ci.cloudfront.net/out/v1/5690983422fe4b2c815050d2cc7e45bd/index.mpd
-#EXTINF:-1 tvg-name="Sivagangai Warriors vs Chennai Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100273" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",Sivagangai Warriors vs Chennai Sports
-https://dai.google.com/linear/hls/event/y2wkd5-dQu2edItV3R7B-A/master.m3u8
+#EXTINF:-1 tvg-name="Essequibo Anacondas vs Essequibo Jaguars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99267" group-title="Guyana T10 Blast",Essequibo Anacondas vs Essequibo Jaguars
+https://dai.google.com/linear/hls/event/L6SwUBdcQqSIJF1ntcUsfg/master.m3u8
