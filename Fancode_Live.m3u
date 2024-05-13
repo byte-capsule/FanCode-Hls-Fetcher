@@ -1,11 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Northern Queens vs Western Wonder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99515" group-title="Malaysian Super Women T20 League, 2024",Northern Queens vs Western Wonder
 https://dai.google.com/linear/hls/event/UYi2bxuHTDeaMS1lqPM0-w/master.m3u8
-#EXTINF:-1 tvg-name="Kottayam vs Wayanad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100380" group-title="Kerala NSK T20 Trophy",Kottayam vs Wayanad
-https://dai.google.com/linear/hls/event/ITuOaYC0QGCROxy90Pya6g/master.m3u8
+#EXTINF:-1 tvg-name="Kannur vs Trivandrum" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100381" group-title="Kerala NSK T20 Trophy",Kannur vs Trivandrum
+https://dai.google.com/linear/hls/event/v-Qnpy1mSXeWn1xJ3jfUDw/master.m3u8
 #EXTINF:-1 tvg-name="Tallinn Super Riders vs Tallinn Strikers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100990" group-title="ECS Estonia, 2024",Tallinn Super Riders vs Tallinn Strikers
 https://dai.google.com/linear/hls/event/kmHtoHA0TPesyuanXLHblQ/master.m3u8
 #EXTINF:-1 tvg-name="Band-e-Amir Region vs Mis-e-Ainak Region" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99568" group-title="Qosh Tepa National T20 Cup, 2024",Band-e-Amir Region vs Mis-e-Ainak Region
 https://dai.google.com/linear/hls/event/SmpOu9RJQJCZGYfhiOtijw/master.m3u8
-#EXTINF:-1 tvg-name="Samy Academy vs Durai Singam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100271" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",Samy Academy vs Durai Singam
-https://dai.google.com/linear/hls/event/0wnCwBTSQ9W7WiPVwvVGzA/master.m3u8
