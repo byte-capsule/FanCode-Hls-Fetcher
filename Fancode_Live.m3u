@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Wayanad vs Combined Districts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100382" group-title="Kerala NSK T20 Trophy",Wayanad vs Combined Districts
 https://dai.google.com/linear/hls/event/7rObgF-xR723seSsOXpdBQ/master.m3u8
-#EXTINF:-1 tvg-name="Western Eagles vs Eastern Waves" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101049" group-title="Japan Women's T10 Premier League, 2024",Western Eagles vs Eastern Waves
+#EXTINF:-1 tvg-name="Eastern Waves vs Western Eagles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101049" group-title="Japan Women's T10 Premier League, 2024",Eastern Waves vs Western Eagles
 https://dai.google.com/linear/hls/event/OTy39ZUpT0m7Xy-RU-8Kgg/master.m3u8
 #EXTINF:-1 tvg-name="Samy Academy vs AMKC Gobi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100274" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",Samy Academy vs AMKC Gobi
 https://dai.google.com/linear/hls/event/AVv_k1dXRgKdmk-nAD77GQ/master.m3u8
