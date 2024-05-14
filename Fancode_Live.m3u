@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Tallinn Stallions vs Tallinn United" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100999" group-title="ECS Estonia, 2024",Tallinn Stallions vs Tallinn United
+https://dai.google.com/linear/hls/event/0qehJH01QwedsOnOR_p4Yg/master.m3u8
 #EXTINF:-1 tvg-name="Ireland vs Pakistan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99726" group-title="Pakistan tour of Ireland, 2024",Ireland vs Pakistan
 https://dai.google.com/linear/hls/event/pdcEPZd0TYyZmPlwXZh-qQ/master.m3u8
 #EXTINF:-1 tvg-name="Bulgaria vs Netherlands" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100691" group-title="Volleyball Nations League Women's",Bulgaria vs Netherlands
