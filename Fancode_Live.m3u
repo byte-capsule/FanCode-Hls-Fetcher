@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Kannur vs Kottayam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100383" group-title="Kerala NSK T20 Trophy",Kannur vs Kottayam
 https://dai.google.com/linear/hls/event/A3jK8J6dTN-VTu1tEeXYbg/master.m3u8
-#EXTINF:-1 tvg-name="Tallinn Rising Stars vs Viking Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100995" group-title="ECS Estonia, 2024",Tallinn Rising Stars vs Viking Stars
-https://dai.google.com/linear/hls/event/8ahBiiJ6SXqFKcolEQeJ1A/master.m3u8
 #EXTINF:-1 tvg-name="Tallinn United vs Viking Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100996" group-title="ECS Estonia, 2024",Tallinn United vs Viking Stars
 https://dai.google.com/linear/hls/event/Gy0VBz9aTMe5FzZGyBw7iw/master.m3u8
