@@ -2,8 +2,19 @@
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "channels_amount": 2,
-  "updated_on": "15-05-2024 on 1:06:45 PM \ud83c\udf1e",
+  "updated_on": "15-05-2024 on 1:23:03 PM \ud83c\udf1e",
   "channels": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "Kerala NSK T20 Trophy",
+      "match_id": 100385,
+      "match_name": "Kannur vs Wayanad",
+      "team_1": "Kannur",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KANN@2x.png",
+      "team_2": "Wayanad",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAN@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/4kOI0OOfT-WWDI-OcJu9yw/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "ECS Estonia, 2024",
@@ -14,17 +25,6 @@
       "team_2": "Mustamae Bulls",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MMB@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/XJ0zhiPtTS6H86gzQMx4Vg/master.m3u8"
-    },
-    {
-      "event_catagory": "kabaddi",
-      "event_name": "Velammal Yuva Kabaddi- Tamil Nadu Clubs",
-      "match_id": 100279,
-      "match_name": "Chennai Sports vs PRIST University",
-      "team_1": "Chennai Sports",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-CS@2x.png",
-      "team_2": "PRIST University",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-PR@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/KGvGydjYQ7aYwVKq_Zkmqw/master.m3u8"
     }
   ]
 }
