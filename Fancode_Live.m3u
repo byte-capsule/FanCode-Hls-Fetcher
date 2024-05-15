@@ -7,11 +7,13 @@ https://dai.google.com/linear/hls/event/OcSVPjlUQL6gMVZUOpQ8XQ/master.m3u8
 https://d3uquw610ugcat.cloudfront.net/out/v1/e6b36aa56b1c4cc4ab8443c106e0efa7/index.mpd
 #EXTINF:-1 tvg-name="Leinster Lightning vs Munster Reds" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100467" group-title="Ireland Inter-Provincial Limited Over Cup, 2024",Leinster Lightning vs Munster Reds
 https://dai.google.com/linear/hls/event/oRiVHb88RKqtux9Twmgavw/master.m3u8
+#EXTINF:-1 tvg-name="Urawa Red Diamonds vs Kyoto Sanga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99781" group-title="J League 2024",Urawa Red Diamonds vs Kyoto Sanga
+https://dai.fancode.com/primary/99781_english_hls_5425adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Albirex Niigata vs Yokohama F. Marinos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99780" group-title="J League 2024",Albirex Niigata vs Yokohama F. Marinos
 https://dai.fancode.com/primary/99780_english_hls_5318adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Machida Zelvia vs Cerezo Osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99779" group-title="J League 2024",Machida Zelvia vs Cerezo Osaka
 https://dai.fancode.com/primary/99779_english_hls_8810adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Consadole Sapporo vs Júbilo Iwata" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99778" group-title="J League 2024",Consadole Sapporo vs Júbilo Iwata
 https://dai.fancode.com/primary/99778_english_hls_2754adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Urawa Red Diamonds vs Kyoto Sanga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99781" group-title="J League 2024",Urawa Red Diamonds vs Kyoto Sanga
-https://dai.fancode.com/primary/99781_english_hls_5425adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="AMKC Gobi vs SRM University" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100280" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",AMKC Gobi vs SRM University
+https://dai.google.com/linear/hls/event/g9VFkkqSQPmSxkl98-rzjQ/master.m3u8
