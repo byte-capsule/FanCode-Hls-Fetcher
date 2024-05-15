@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Werewolves CC vs Lisbon Super Giants" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101081" group-title="ECSN Portugal, 2024",Werewolves CC vs Lisbon Super Giants
-https://dai.google.com/linear/hls/event/bgDx0UGVTe2swZWhzKo9nA/master.m3u8
 #EXTINF:-1 tvg-name="Stack CC XI vs NCM Investment-B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99747" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",Stack CC XI vs NCM Investment-B
 https://dai.google.com/linear/hls/event/z2YnPQs9ROi0g69KJ1b8gw/master.m3u8
 #EXTINF:-1 tvg-name="Japan vs Turkey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100696" group-title="Volleyball Nations League Women's",Japan vs Turkey
