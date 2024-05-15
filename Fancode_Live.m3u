@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Western Eagles vs Eastern Waves" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101051" group-title="Japan Women's T10 Premier League, 2024",Western Eagles vs Eastern Waves
-https://dai.google.com/linear/hls/event/3K_5ly2OR226JlYN83PCZQ/master.m3u8
-#EXTINF:-1 tvg-name="Combined Districts vs Trivandrum" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100384" group-title="Kerala NSK T20 Trophy",Combined Districts vs Trivandrum
-https://dai.google.com/linear/hls/event/qGBqss57TMK_B_dl38at_A/master.m3u8
 #EXTINF:-1 tvg-name="Tallinn Super Riders vs Mustamae Bulls" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101000" group-title="ECS Estonia, 2024",Tallinn Super Riders vs Mustamae Bulls
 https://dai.google.com/linear/hls/event/XJ0zhiPtTS6H86gzQMx4Vg/master.m3u8
 #EXTINF:-1 tvg-name="Chennai Sports vs PRIST University" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100279" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",Chennai Sports vs PRIST University
