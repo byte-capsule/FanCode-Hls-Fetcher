@@ -5,3 +5,5 @@ https://dai.google.com/linear/hls/event/4kOI0OOfT-WWDI-OcJu9yw/master.m3u8
 https://dai.google.com/linear/hls/event/OcSVPjlUQL6gMVZUOpQ8XQ/master.m3u8
 #EXTINF:-1 tvg-name="Tallinn Super Riders vs Tallinn Strikers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101001" group-title="ECS Estonia, 2024",Tallinn Super Riders vs Tallinn Strikers
 https://dai.google.com/linear/hls/event/gmqaq6LFRZ6KqKQmaCVfuw/master.m3u8
+#EXTINF:-1 tvg-name="Leinster Lightning vs Munster Reds" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100467" group-title="Ireland Inter-Provincial Limited Over Cup, 2024",Leinster Lightning vs Munster Reds
+https://dai.google.com/linear/hls/event/oRiVHb88RKqtux9Twmgavw/master.m3u8
