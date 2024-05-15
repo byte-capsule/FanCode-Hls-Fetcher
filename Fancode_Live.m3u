@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Stack CC XI vs NCM Investment-B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99747" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",Stack CC XI vs NCM Investment-B
 https://dai.google.com/linear/hls/event/z2YnPQs9ROi0g69KJ1b8gw/master.m3u8
+#EXTINF:-1 tvg-name="Tottenham Hotspur Women vs Chelsea Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96155" group-title="Barclays FA Women's Super League 2023-24",Tottenham Hotspur Women vs Chelsea Women
+https://dai.fancode.com/primary/96155_english_hls_9204adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Japan vs Turkey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100696" group-title="Volleyball Nations League Women's",Japan vs Turkey
 https://dai.google.com/linear/hls/event/4SrGGR2JQKGviR7aV7HD6Q/master.m3u8
