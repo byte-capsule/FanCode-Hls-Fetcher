@@ -1,5 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Western Eagles vs Eastern Waves" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101052" group-title="Japan Women's T10 Premier League, 2024",Western Eagles vs Eastern Waves
 https://dai.google.com/linear/hls/event/O6pkRd9nSXypy6kqYPMdCA/master.m3u8
-#EXTINF:-1 tvg-name="Serbia vs Dominican Republic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100840" group-title="Volleyball Nations League Women's",Serbia vs Dominican Republic
-https://dai.google.com/linear/hls/event/DEVjZJXMQjSYiIZuZA3oDg/master.m3u8
