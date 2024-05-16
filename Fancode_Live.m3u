@@ -1,5 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Punjab CC Amadora vs Miranda Dragons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101083" group-title="ECSN Portugal, 2024",Punjab CC Amadora vs Miranda Dragons
+https://dai.google.com/linear/hls/event/tGjfDm-5SXC-_4usTsJP9g/master.m3u8
 #EXTINF:-1 tvg-name="Seven Districts Juniors vs Colatta Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100879" group-title="Bukhatir T10 League, 2024",Seven Districts Juniors vs Colatta Warriors
 https://dai.google.com/linear/hls/event/EmdNQULKS4O9_9YvyTId9Q/master.m3u8
-#EXTINF:-1 tvg-name="Tallinn United vs Tallinn Stallions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101009" group-title="ECS Estonia, 2024",Tallinn United vs Tallinn Stallions
-https://dai.google.com/linear/hls/event/6LBIFH5_RTWOua-Zj-nGLg/master.m3u8
+#EXTINF:-1 tvg-name="Kuwait Under-19 vs Tally DRFS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100194" group-title="KCC T20 Elite Cup 3rd Edition, 2024",Kuwait Under-19 vs Tally DRFS
+https://dai.google.com/linear/hls/event/O8SwvwZmQoWfZCVbet16dg/master.m3u8
