@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Fly Emirates vs Dubai Thunders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100881" group-title="Bukhatir T10 League, 2024",Fly Emirates vs Dubai Thunders
+https://dai.google.com/linear/hls/event/WOFRA2TxRk2eaB3H6-VG9g/master.m3u8
 #EXTINF:-1 tvg-name="Kuwait Nationals vs AP XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99750" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",Kuwait Nationals vs AP XI
 https://dai.google.com/linear/hls/event/1j7XLrFbTpG9X9S8q_dx7g/master.m3u8
 #EXTINF:-1 tvg-name="Tartu Wolves vs Tallinn Hippos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101014" group-title="ECS Estonia, 2024",Tartu Wolves vs Tallinn Hippos
@@ -7,5 +9,3 @@ https://dai.google.com/linear/hls/event/-UiOK2wcSEOC4ecWcVEM0A/master.m3u8
 https://dai.google.com/linear/hls/event/F4rdk8r0S1GE1TcpW9P4Dg/master.m3u8
 #EXTINF:-1 tvg-name="Qualifying Session" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95334" group-title="F2 ITALY-EMILIA ROMAGNA 2024",Qualifying Session
 https://d2c7xfg3wi46x.cloudfront.net/out/v1/e22c2d5510c1401694bb6ca2027180ed/index.mpd
-#EXTINF:-1 tvg-name="France vs Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100848" group-title="Volleyball Nations League Women's",France vs Poland
-https://dai.google.com/linear/hls/event/A-k3DClmQdmAZQ8ELMcwWA/master.m3u8
