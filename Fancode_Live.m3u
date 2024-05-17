@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Trivandrum vs Wayanad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100389" group-title="Kerala NSK T20 Trophy",Trivandrum vs Wayanad
 https://dai.google.com/linear/hls/event/Xrk4wVceTJSygWZjgEulxg/master.m3u8
-#EXTINF:-1 tvg-name="MEC Study Group vs Al Sayer" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99748" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",MEC Study Group vs Al Sayer
-https://dai.google.com/linear/hls/event/5hVSZO6NS_-8wXyjwykzgw/master.m3u8
 #EXTINF:-1 tvg-name="Mustamae Bulls vs Tallinn Super Riders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101010" group-title="ECS Estonia, 2024",Mustamae Bulls vs Tallinn Super Riders
 https://dai.google.com/linear/hls/event/OrMeAUtrQ7K1VqNh9cMoeA/master.m3u8
+#EXTINF:-1 tvg-name="Practice" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95382" group-title="F3 ITALY-EMILIA ROMAGNA 2024",Practice
+https://d12nywzcaujkdr.cloudfront.net/out/v1/06df61c20fcd4ddb8282ab3c90f8e8a8/index.m3u8
