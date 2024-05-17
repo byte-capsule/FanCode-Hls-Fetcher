@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Trivandrum vs Wayanad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100389" group-title="Kerala NSK T20 Trophy",Trivandrum vs Wayanad
 https://dai.google.com/linear/hls/event/Xrk4wVceTJSygWZjgEulxg/master.m3u8
+#EXTINF:-1 tvg-name="Phoenix Cricketers vs Friendi Mobile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99749" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",Phoenix Cricketers vs Friendi Mobile
+https://dai.google.com/linear/hls/event/lGApJ8ceT4iRlc-AOHPJ-g/master.m3u8
 #EXTINF:-1 tvg-name="Mustamae Bulls vs Tartu Wolves" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101011" group-title="ECS Estonia, 2024",Mustamae Bulls vs Tartu Wolves
 https://dai.google.com/linear/hls/event/ww2pHOP1SkmaVqAYTkP6dA/master.m3u8
 #EXTINF:-1 tvg-name="Free Practice" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95333" group-title="F2 ITALY-EMILIA ROMAGNA 2024",Free Practice
