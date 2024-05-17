@@ -3,9 +3,7 @@
 https://dai.google.com/linear/hls/event/Xrk4wVceTJSygWZjgEulxg/master.m3u8
 #EXTINF:-1 tvg-name="Phoenix Cricketers vs Friendi Mobile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99749" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",Phoenix Cricketers vs Friendi Mobile
 https://dai.google.com/linear/hls/event/lGApJ8ceT4iRlc-AOHPJ-g/master.m3u8
-#EXTINF:-1 tvg-name="Mustamae Bulls vs Tartu Wolves" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101011" group-title="ECS Estonia, 2024",Mustamae Bulls vs Tartu Wolves
-https://dai.google.com/linear/hls/event/ww2pHOP1SkmaVqAYTkP6dA/master.m3u8
-#EXTINF:-1 tvg-name="Free Practice" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95333" group-title="F2 ITALY-EMILIA ROMAGNA 2024",Free Practice
-https://d1hcify2cdaisi.cloudfront.net/out/v1/25ca88a5e30a470bb49821b5b992228a/index.mpd
+#EXTINF:-1 tvg-name="Tallinn Super Riders vs Tallinn Hippos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101012" group-title="ECS Estonia, 2024",Tallinn Super Riders vs Tallinn Hippos
+https://dai.google.com/linear/hls/event/E5n5MKnKQVupCBWWtW3Yyw/master.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100747" group-title="LET Amundi German Masters",Day 2
 https://dai.google.com/linear/hls/event/AyxsKR-ZTlirJzClXgpSkw/master.m3u8
