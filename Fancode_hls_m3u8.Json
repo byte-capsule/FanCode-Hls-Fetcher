@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 5,
-  "updated_on": "17-05-2024 on 10:30:47 PM \ud83c\udf19",
+  "channels_amount": 4,
+  "updated_on": "17-05-2024 on 10:42:01 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -25,17 +25,6 @@
       "team_2": "Dubai Thunders",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DTT@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/WOFRA2TxRk2eaB3H6-VG9g/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "KCC T20 Challengers Cup, 2nd Edition, 2024",
-      "match_id": 99750,
-      "match_name": "Kuwait Nationals vs AP XI",
-      "team_1": "Kuwait Nationals",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUWN@2x.png",
-      "team_2": "AP XI",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AP@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/1j7XLrFbTpG9X9S8q_dx7g/master.m3u8"
     },
     {
       "event_catagory": "racing",
