@@ -3,5 +3,7 @@
 https://dai.google.com/linear/hls/event/1j7XLrFbTpG9X9S8q_dx7g/master.m3u8
 #EXTINF:-1 tvg-name="Tartu Wolves vs Tallinn Super Riders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101013" group-title="ECS Estonia, 2024",Tartu Wolves vs Tallinn Super Riders
 https://dai.google.com/linear/hls/event/UE9qtxe2Q16Xy6kwWRDB8w/master.m3u8
-#EXTINF:-1 tvg-name="Qualifying" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95383" group-title="F3 ITALY-EMILIA ROMAGNA 2024",Qualifying
-https://d2a2p4vntox14a.cloudfront.net/out/v1/16cba030a83441d98bc5fc057836da8b/index.mpd
+#EXTINF:-1 tvg-name="Qualifying Session" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95334" group-title="F2 ITALY-EMILIA ROMAGNA 2024",Qualifying Session
+https://d2c7xfg3wi46x.cloudfront.net/out/v1/e22c2d5510c1401694bb6ca2027180ed/index.mpd
+#EXTINF:-1 tvg-name="France vs Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100848" group-title="Volleyball Nations League Women's",France vs Poland
+https://dai.google.com/linear/hls/event/A-k3DClmQdmAZQ8ELMcwWA/master.m3u8
