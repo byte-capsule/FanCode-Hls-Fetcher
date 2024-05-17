@@ -3,9 +3,9 @@
 https://dai.google.com/linear/hls/event/WOFRA2TxRk2eaB3H6-VG9g/master.m3u8
 #EXTINF:-1 tvg-name="Kuwait Nationals vs AP XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99750" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",Kuwait Nationals vs AP XI
 https://dai.google.com/linear/hls/event/1j7XLrFbTpG9X9S8q_dx7g/master.m3u8
-#EXTINF:-1 tvg-name="Tartu Wolves vs Tallinn Hippos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101014" group-title="ECS Estonia, 2024",Tartu Wolves vs Tallinn Hippos
-https://dai.google.com/linear/hls/event/-UiOK2wcSEOC4ecWcVEM0A/master.m3u8
 #EXTINF:-1 tvg-name="Practice 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95146" group-title="F1 MSC CRUISES GRAN PREMIO DELL'EMILIA-ROMAGNA",Practice 2
 https://dai.google.com/linear/hls/event/F4rdk8r0S1GE1TcpW9P4Dg/master.m3u8
 #EXTINF:-1 tvg-name="Qualifying Session" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95334" group-title="F2 ITALY-EMILIA ROMAGNA 2024",Qualifying Session
 https://d2c7xfg3wi46x.cloudfront.net/out/v1/e22c2d5510c1401694bb6ca2027180ed/index.mpd
+#EXTINF:-1 tvg-name="Bellator Champion Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99790" group-title="Professional Fighters League",Bellator Champion Series
+https://dai.google.com/linear/hls/event/EkR4vAYwR1KCw-ygo5Z7nw/master.m3u8
