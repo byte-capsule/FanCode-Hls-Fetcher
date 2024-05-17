@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101131" group-title="U.S. PGA Championship",Day 1
+https://dai.google.com/linear/hls/event/9HNcSDVzQyuV9NSNYR5yXw/master.m3u8
+#EXTINF:-1 tvg-name="Dominican Republic vs Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100846" group-title="Volleyball Nations League Women's",Dominican Republic vs Canada
+https://dai.google.com/linear/hls/event/GsOEFjtQRh2szgrNc-AkWA/master.m3u8
