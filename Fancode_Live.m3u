@@ -1,11 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Phoenix Cricketers vs Friendi Mobile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99749" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",Phoenix Cricketers vs Friendi Mobile
-https://dai.google.com/linear/hls/event/lGApJ8ceT4iRlc-AOHPJ-g/master.m3u8
 #EXTINF:-1 tvg-name="Tartu Wolves vs Tallinn Super Riders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101013" group-title="ECS Estonia, 2024",Tartu Wolves vs Tallinn Super Riders
 https://dai.google.com/linear/hls/event/UE9qtxe2Q16Xy6kwWRDB8w/master.m3u8
 #EXTINF:-1 tvg-name="Cangzhou Mighty Lions vs Tianjin Jinmen Tiger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100183" group-title="Chinese Super League 2024",Cangzhou Mighty Lions vs Tianjin Jinmen Tiger
 https://dai.fancode.com/primary/100183_english_hls_6329adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Practice 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95145" group-title="F1 MSC CRUISES GRAN PREMIO DELL'EMILIA-ROMAGNA",Practice 1
-https://d15spv9c50lwsg.cloudfront.net/out/v1/97a46c61ddcf4543b157a134926f9f2c/index.mpd
+#EXTINF:-1 tvg-name="Qualifying" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95383" group-title="F3 ITALY-EMILIA ROMAGNA 2024",Qualifying
+https://d2a2p4vntox14a.cloudfront.net/out/v1/16cba030a83441d98bc5fc057836da8b/index.mpd
 #EXTINF:-1 tvg-name="Chennai Sports vs PK Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100289" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",Chennai Sports vs PK Sports
 https://dai.google.com/linear/hls/event/q6OV-UZ_SpGUPLXNJhaKLQ/master.m3u8
