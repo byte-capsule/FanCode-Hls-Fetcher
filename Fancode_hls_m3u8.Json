@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 4,
-  "updated_on": "17-05-2024 on 10:42:01 PM \ud83c\udf19",
+  "channels_amount": 7,
+  "updated_on": "17-05-2024 on 11:04:15 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -27,6 +27,17 @@
       "stream_link": "https://dai.google.com/linear/hls/event/WOFRA2TxRk2eaB3H6-VG9g/master.m3u8"
     },
     {
+      "event_catagory": "cricket",
+      "event_name": "KCC T20 Challengers Cup, 2nd Edition, 2024",
+      "match_id": 99751,
+      "match_name": "Stack CC XI vs CECC-B",
+      "team_1": "Stack CC XI",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-STAX@2x.png",
+      "team_2": "CECC-B",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CECT@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/fx2pNxOFRr6s9wek9gcHGQ/master.m3u8"
+    },
+    {
       "event_catagory": "racing",
       "event_name": "Porsche Mobil 1 Supercup",
       "match_id": 101482,
@@ -47,6 +58,28 @@
       "team_2": "Paris, France",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/mma-flags/FC-LOC@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/EkR4vAYwR1KCw-ygo5Z7nw/master.m3u8"
+    },
+    {
+      "event_catagory": "volleyball",
+      "event_name": "Volleyball Nations League Women's",
+      "match_id": 100850,
+      "match_name": "Serbia vs Thailand",
+      "team_1": "Serbia",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-SRB@2x.png",
+      "team_2": "Thailand",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-THA@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/O3TyMdLiQPuIblSyjS6Ceg/master.m3u8"
+    },
+    {
+      "event_catagory": "volleyball",
+      "event_name": "Volleyball Nations League Women's",
+      "match_id": 100849,
+      "match_name": "Italy vs Bulgaria",
+      "team_1": "Italy",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-ITY@2x.png",
+      "team_2": "Bulgaria",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-BLG@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/WeOmohaMR4yNoqxpwqz3kg/master.m3u8"
     }
   ]
 }
