@@ -1,9 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Prim Height Transport vs V Eleven Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100883" group-title="Bukhatir T10 League, 2024",Prim Height Transport vs V Eleven Cricket Club
 https://dai.google.com/linear/hls/event/ZxSxP0iCRIKHUsvdacKllA/master.m3u8
-#EXTINF:-1 tvg-name="Tartu Wolves vs Tallinn Super Riders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101018" group-title="ECS Estonia, 2024",Tartu Wolves vs Tallinn Super Riders
-https://dai.google.com/linear/hls/event/RQ9_92TiS92FU4f_U8_QNw/master.m3u8
 #EXTINF:-1 tvg-name="Indatwa Hampshire CC Women vs Charity CC Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96702" group-title="RCA Women's T20, 2024",Indatwa Hampshire CC Women vs Charity CC Women
 https://dai.google.com/linear/hls/event/eF9LT-nFTAOr6PUkpIf43A/master.m3u8
-#EXTINF:-1 tvg-name="Qingdao West Coast vs Shanghai Port" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100184" group-title="Chinese Super League 2024",Qingdao West Coast vs Shanghai Port
-https://dai.fancode.com/primary/100184_english_hls_6028adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Manchester United Women vs Chelsea Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100977" group-title="Barclays FA Women's Super League 2023-24",Manchester United Women vs Chelsea Women
+https://dai.fancode.com/primary/100977_english_hls_3425adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Aston Villa Women vs Manchester City Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100976" group-title="Barclays FA Women's Super League 2023-24",Aston Villa Women vs Manchester City Women
+https://dai.fancode.com/primary/100976_english_hls_8650adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Qualifying" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95148" group-title="F1 MSC CRUISES GRAN PREMIO DELL'EMILIA-ROMAGNA",Qualifying
+https://livecf.fancode.com/out/v1/ea09de12e98c4c99a003648622a2f89b/index.mpd
+#EXTINF:-1 tvg-name="France vs Bulgaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100854" group-title="Volleyball Nations League Women's",France vs Bulgaria
+https://dai.google.com/linear/hls/event/Vu9_z1lySpCYoohkBvICgg/master.m3u8
