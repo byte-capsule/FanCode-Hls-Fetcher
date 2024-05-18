@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Ranji Cricket Club vs Friends XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101586" group-title="Champion of Champions T20, 2024",Ranji Cricket Club vs Friends XI
 https://dai.google.com/linear/hls/event/Mam8k4VbQEedeAGSMdsymg/master.m3u8
-#EXTINF:-1 tvg-name="Vijays Recreation Club vs Sical Recreation Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101585" group-title="Champion of Champions T20, 2024",Vijays Recreation Club vs Sical Recreation Club
-https://dai.google.com/linear/hls/event/apewCgaHSPCN6iUUQQ8NaA/master.m3u8
 #EXTINF:-1 tvg-name="Pathanamthitta vs Kollam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100391" group-title="Kerala NSK T20 Trophy",Pathanamthitta vs Kollam
 https://dai.google.com/linear/hls/event/HOg1ehXnQPSjWWBbMHvNEQ/master.m3u8
 #EXTINF:-1 tvg-name="Tallinn United vs Tartu CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101017" group-title="ECS Estonia, 2024",Tallinn United vs Tartu CC
@@ -13,5 +11,3 @@ https://dai.fancode.com/primary/100731_english_hls_6155adfreeta-no/index.m3u8
 https://d232tvyymjvex8.cloudfront.net/out/v1/27a292051ce441a2aac6a504b838c4f7/index.mpd
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100748" group-title="LET Amundi German Masters",Day 3
 https://dai.google.com/linear/hls/event/KnajBj9nRAiqhDUiAgAY0g/master.m3u8
-#EXTINF:-1 tvg-name="AMKC Gobi vs Sivagangai Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101732" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",AMKC Gobi vs Sivagangai Warriors
-https://dai.google.com/linear/hls/event/gNBd85ePSBSjOfnznp0wfA/master.m3u8
