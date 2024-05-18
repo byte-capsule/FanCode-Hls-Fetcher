@@ -11,3 +11,7 @@ https://dai.fancode.com/primary/100731_english_hls_6155adfreeta-no/index.m3u8
 https://d232tvyymjvex8.cloudfront.net/out/v1/27a292051ce441a2aac6a504b838c4f7/index.mpd
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100748" group-title="LET Amundi German Masters",Day 3
 https://dai.google.com/linear/hls/event/KnajBj9nRAiqhDUiAgAY0g/master.m3u8
+#EXTINF:-1 tvg-name="PRIST University vs PK Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100292" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",PRIST University vs PK Sports
+https://dai.google.com/linear/hls/event/9VuufTctRQqMEqAeTmTn2w/master.m3u8
+#EXTINF:-1 tvg-name="Poland vs Netherlands" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100853" group-title="Volleyball Nations League Women's",Poland vs Netherlands
+https://dai.google.com/linear/hls/event/n7DO9EkKRUy1SjuE22yhWA/master.m3u8
