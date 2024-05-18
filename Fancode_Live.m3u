@@ -7,5 +7,5 @@ https://dai.google.com/linear/hls/event/apewCgaHSPCN6iUUQQ8NaA/master.m3u8
 https://dai.google.com/linear/hls/event/HOg1ehXnQPSjWWBbMHvNEQ/master.m3u8
 #EXTINF:-1 tvg-name="Tartu Wolves vs Tallinn Strikers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101016" group-title="ECS Estonia, 2024",Tartu Wolves vs Tallinn Strikers
 https://dai.google.com/linear/hls/event/oshd7MdRRZSNQ28FnEV0gw/master.m3u8
-#EXTINF:-1 tvg-name="Wellington Phoenix vs Melbourne Victory" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100729" group-title="A League Men 2023-24",Wellington Phoenix vs Melbourne Victory
-https://dai.fancode.com/primary/100729_english_hls_6023adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Porsche Mobil 1 Supercup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101484" group-title="Porsche Mobil 1 Supercup",Porsche Mobil 1 Supercup
+https://d3sdxukgdezexd.cloudfront.net/out/v1/406da82c2e84439aa4b223eb074714ef/index.mpd
