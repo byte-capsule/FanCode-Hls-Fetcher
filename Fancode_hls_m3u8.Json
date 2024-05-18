@@ -1,20 +1,9 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 8,
-  "updated_on": "18-05-2024 on 5:41:00 PM \ud83c\udf1e",
+  "channels_amount": 6,
+  "updated_on": "18-05-2024 on 6:10:42 PM \ud83c\udf19",
   "channels": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Kerala NSK T20 Trophy",
-      "match_id": 100391,
-      "match_name": "Pathanamthitta vs Kollam",
-      "team_1": "Pathanamthitta",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PDCA@2x.png",
-      "team_2": "Kollam",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KOLL@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/HOg1ehXnQPSjWWBbMHvNEQ/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "ECS Estonia, 2024",
@@ -39,17 +28,6 @@
     },
     {
       "event_catagory": "football",
-      "event_name": "A League Men 2023-24",
-      "match_id": 100731,
-      "match_name": "Central Coast Mariners vs Sydney FC",
-      "team_1": "Central Coast Mariners",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CENTA@2x.png",
-      "team_2": "Sydney FC",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYDA@2x.png",
-      "stream_link": "https://dai.fancode.com/primary/100731_english_hls_6155adfreeta-no/index.m3u8"
-    },
-    {
-      "event_catagory": "football",
       "event_name": "Chinese Super League 2024",
       "match_id": 100184,
       "match_name": "Qingdao West Coast vs Shanghai Port",
@@ -58,6 +36,17 @@
       "team_2": "Shanghai Port",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHANGP@2x.png",
       "stream_link": "https://dai.fancode.com/primary/100184_english_hls_6028adfreeta-no/index.m3u8"
+    },
+    {
+      "event_catagory": "racing",
+      "event_name": "F2 ITALY-EMILIA ROMAGNA 2024",
+      "match_id": 95335,
+      "match_name": "Sprint Race",
+      "team_1": "Sprint Race",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR2@2x.png",
+      "team_2": "Imola",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+      "stream_link": "https://d2i7zyus9yrdkr.cloudfront.net/out/v1/1c676f2c42fe4e3393aeb5091e37a44f/index.mpd"
     },
     {
       "event_catagory": "golf",
@@ -69,17 +58,6 @@
       "team_2": "Germany",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/KnajBj9nRAiqhDUiAgAY0g/master.m3u8"
-    },
-    {
-      "event_catagory": "kabaddi",
-      "event_name": "Velammal Yuva Kabaddi- Tamil Nadu Clubs",
-      "match_id": 100292,
-      "match_name": "PRIST University vs PK Sports",
-      "team_1": "PRIST University",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-PR@2x.png",
-      "team_2": "PK Sports",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-PK@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/9VuufTctRQqMEqAeTmTn2w/master.m3u8"
     },
     {
       "event_catagory": "volleyball",
