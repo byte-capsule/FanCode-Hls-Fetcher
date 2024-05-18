@@ -7,7 +7,11 @@ https://dai.google.com/linear/hls/event/apewCgaHSPCN6iUUQQ8NaA/master.m3u8
 https://dai.google.com/linear/hls/event/HOg1ehXnQPSjWWBbMHvNEQ/master.m3u8
 #EXTINF:-1 tvg-name="Tartu Wolves vs Tallinn Strikers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101016" group-title="ECS Estonia, 2024",Tartu Wolves vs Tallinn Strikers
 https://dai.google.com/linear/hls/event/oshd7MdRRZSNQ28FnEV0gw/master.m3u8
+#EXTINF:-1 tvg-name="Central Coast Mariners vs Sydney FC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100731" group-title="A League Men 2023-24",Central Coast Mariners vs Sydney FC
+https://dai.fancode.com/primary/100731_english_hls_6155adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Porsche Mobil 1 Supercup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101484" group-title="Porsche Mobil 1 Supercup",Porsche Mobil 1 Supercup
 https://d3sdxukgdezexd.cloudfront.net/out/v1/406da82c2e84439aa4b223eb074714ef/index.mpd
+#EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100748" group-title="LET Amundi German Masters",Day 3
+https://dai.google.com/linear/hls/event/KnajBj9nRAiqhDUiAgAY0g/master.m3u8
 #EXTINF:-1 tvg-name="AMKC Gobi vs Sivagangai Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101732" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",AMKC Gobi vs Sivagangai Warriors
 https://dai.google.com/linear/hls/event/gNBd85ePSBSjOfnznp0wfA/master.m3u8
