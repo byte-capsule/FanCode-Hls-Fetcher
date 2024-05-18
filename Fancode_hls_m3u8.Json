@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 7,
-  "updated_on": "18-05-2024 on 8:41:17 PM \ud83c\udf19",
+  "channels_amount": 8,
+  "updated_on": "18-05-2024 on 9:06:20 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -28,14 +28,14 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "RCA Women's T20, 2024",
-      "match_id": 96702,
-      "match_name": "Indatwa Hampshire CC Women vs Charity CC Women",
-      "team_1": "Indatwa Hampshire CC Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IH@2x.png",
-      "team_2": "Charity CC Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CRT@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/eF9LT-nFTAOr6PUkpIf43A/master.m3u8"
+      "event_name": "ECN Netherlands T20I Tri-Series, 2024",
+      "match_id": 101518,
+      "match_name": "Netherlands vs Scotland",
+      "team_1": "Netherlands",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
+      "team_2": "Scotland",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/QYUAiTzaSjubHPoMReanSA/master.m3u8"
     },
     {
       "event_catagory": "football",
@@ -58,6 +58,17 @@
       "team_2": "Manchester City Women",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MCW@2x.png",
       "stream_link": "https://dai.fancode.com/primary/100976_english_hls_8650adfreeta-di/index.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "League One 2023-24",
+      "match_id": 101162,
+      "match_name": "Bolton Wanderers vs Oxford United",
+      "team_1": "Bolton Wanderers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BOL@2x.png",
+      "team_2": "Oxford United",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-OXF@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/9EnEFA1PSd66J79kaB3ITQ/master.m3u8"
     },
     {
       "event_catagory": "formula1",
