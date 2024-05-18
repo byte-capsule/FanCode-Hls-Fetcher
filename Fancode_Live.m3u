@@ -1,11 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Vijays Recreation Club vs Sical Recreation Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101585" group-title="Champion of Champions T20, 2024",Vijays Recreation Club vs Sical Recreation Club
 https://dai.google.com/linear/hls/event/apewCgaHSPCN6iUUQQ8NaA/master.m3u8
-#EXTINF:-1 tvg-name="Tartu Wolves vs Mustamae Bulls" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101015" group-title="ECS Estonia, 2024",Tartu Wolves vs Mustamae Bulls
-https://dai.google.com/linear/hls/event/owL1d48BRCy5C6Po5HWRRA/master.m3u8
+#EXTINF:-1 tvg-name="Ranji Cricket Club vs Friends XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101586" group-title="Champion of Champions T20, 2024",Ranji Cricket Club vs Friends XI
+https://dai.google.com/linear/hls/event/Mam8k4VbQEedeAGSMdsymg/master.m3u8
 #EXTINF:-1 tvg-name="Pathanamthitta vs Kollam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100391" group-title="Kerala NSK T20 Trophy",Pathanamthitta vs Kollam
 https://dai.google.com/linear/hls/event/HOg1ehXnQPSjWWBbMHvNEQ/master.m3u8
+#EXTINF:-1 tvg-name="Tartu Wolves vs Mustamae Bulls" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101015" group-title="ECS Estonia, 2024",Tartu Wolves vs Mustamae Bulls
+https://dai.google.com/linear/hls/event/owL1d48BRCy5C6Po5HWRRA/master.m3u8
 #EXTINF:-1 tvg-name="Nepal A.P.F. Club Women vs Sudur Paschim Province Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100838" group-title="Lalitpur Mayor Cup, 2024",Nepal A.P.F. Club Women vs Sudur Paschim Province Women
 https://dai.google.com/linear/hls/event/H2rrbAsYQgSTEGCs9SKcng/master.m3u8
 #EXTINF:-1 tvg-name="Wellington Phoenix vs Melbourne Victory" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100729" group-title="A League Men 2023-24",Wellington Phoenix vs Melbourne Victory
 https://dai.fancode.com/primary/100729_english_hls_6023adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Sprint Race" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95384" group-title="F3 ITALY-EMILIA ROMAGNA 2024",Sprint Race
+https://d1cn63z97059dg.cloudfront.net/out/v1/6679622304f24a8f83bac7a198273b72/index.mpd
