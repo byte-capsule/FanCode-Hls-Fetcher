@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Prim Height Transport vs V Eleven Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100883" group-title="Bukhatir T10 League, 2024",Prim Height Transport vs V Eleven Cricket Club
 https://dai.google.com/linear/hls/event/ZxSxP0iCRIKHUsvdacKllA/master.m3u8
+#EXTINF:-1 tvg-name="Tallinn Rising Stars vs Tartu CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101019" group-title="ECS Estonia, 2024",Tallinn Rising Stars vs Tartu CC
+https://dai.google.com/linear/hls/event/nJzMeANfThCTsUx7JE--kQ/master.m3u8
 #EXTINF:-1 tvg-name="Indatwa Hampshire CC Women vs Charity CC Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96702" group-title="RCA Women's T20, 2024",Indatwa Hampshire CC Women vs Charity CC Women
 https://dai.google.com/linear/hls/event/eF9LT-nFTAOr6PUkpIf43A/master.m3u8
 #EXTINF:-1 tvg-name="Manchester United Women vs Chelsea Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100977" group-title="Barclays FA Women's Super League 2023-24",Manchester United Women vs Chelsea Women
