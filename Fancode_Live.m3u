@@ -11,7 +11,5 @@ https://dai.fancode.com/primary/100977_english_hls_3425adfreeta-di/index.m3u8
 https://dai.fancode.com/primary/100976_english_hls_8650adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Bolton Wanderers vs Oxford United" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101162" group-title="League One 2023-24",Bolton Wanderers vs Oxford United
 https://dai.google.com/linear/hls/event/9EnEFA1PSd66J79kaB3ITQ/master.m3u8
-#EXTINF:-1 tvg-name="Qualifying" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95148" group-title="F1 MSC CRUISES GRAN PREMIO DELL'EMILIA-ROMAGNA",Qualifying
-https://livecf.fancode.com/out/v1/ea09de12e98c4c99a003648622a2f89b/index.mpd
 #EXTINF:-1 tvg-name="France vs Bulgaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100854" group-title="Volleyball Nations League Women's",France vs Bulgaria
 https://dai.google.com/linear/hls/event/Vu9_z1lySpCYoohkBvICgg/master.m3u8
