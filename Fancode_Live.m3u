@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Ranji Cricket Club vs Friends XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101586" group-title="Champion of Champions T20, 2024",Ranji Cricket Club vs Friends XI
-https://dai.google.com/linear/hls/event/Mam8k4VbQEedeAGSMdsymg/master.m3u8
 #EXTINF:-1 tvg-name="Pathanamthitta vs Kollam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100391" group-title="Kerala NSK T20 Trophy",Pathanamthitta vs Kollam
 https://dai.google.com/linear/hls/event/HOg1ehXnQPSjWWBbMHvNEQ/master.m3u8
 #EXTINF:-1 tvg-name="Tallinn United vs Tartu CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101017" group-title="ECS Estonia, 2024",Tallinn United vs Tartu CC
 https://dai.google.com/linear/hls/event/4PlmP1KwSSSDu_VeR6ehAw/master.m3u8
+#EXTINF:-1 tvg-name="Indatwa Hampshire CC Women vs Charity CC Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96702" group-title="RCA Women's T20, 2024",Indatwa Hampshire CC Women vs Charity CC Women
+https://dai.google.com/linear/hls/event/eF9LT-nFTAOr6PUkpIf43A/master.m3u8
 #EXTINF:-1 tvg-name="Central Coast Mariners vs Sydney FC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100731" group-title="A League Men 2023-24",Central Coast Mariners vs Sydney FC
 https://dai.fancode.com/primary/100731_english_hls_6155adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Practice 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95147" group-title="F1 MSC CRUISES GRAN PREMIO DELL'EMILIA-ROMAGNA",Practice 3
