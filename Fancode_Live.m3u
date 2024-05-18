@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101132" group-title="U.S. PGA Championship",Day 2
-https://dai.google.com/linear/hls/event/50OoUWlQQJ6qiAdcuk73lA/master.m3u8
+#EXTINF:-1 tvg-name="Western Eagles vs Eastern Waves" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101055" group-title="Japan Women's Premier League, 2024",Western Eagles vs Eastern Waves
+https://dai.google.com/linear/hls/event/1dvIi1_4QfyNhKXk5WJH2Q/master.m3u8
 #EXTINF:-1 tvg-name="Brazil vs USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100852" group-title="Volleyball Nations League Women's",Brazil vs USA
 https://dai.google.com/linear/hls/event/wwlu1LEIQ4-g4YortmwBww/master.m3u8
