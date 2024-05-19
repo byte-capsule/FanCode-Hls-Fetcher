@@ -17,3 +17,5 @@ https://dai.google.com/linear/hls/event/a__7tfEZTcebFlZlgSTdAQ/master.m3u8
  Free Trial attempt unsuccessful......it requires Premium Account
 #EXTINF:-1 tvg-name="Germany vs Netherlands" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100929" group-title="Volleyball Nations League Women's",Germany vs Netherlands
 https://dai.google.com/linear/hls/event/SL3OPZ0zQ4O4OJXnxVF24A/master.m3u8
+#EXTINF:-1 tvg-name="Brazil vs Serbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100930" group-title="Volleyball Nations League Women's",Brazil vs Serbia
+https://dai.google.com/linear/hls/event/VsZUpv8rRP-uWGDqbnx8zw/master.m3u8
