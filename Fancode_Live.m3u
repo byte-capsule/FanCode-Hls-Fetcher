@@ -3,9 +3,15 @@
 https://dai.google.com/linear/hls/event/d35e_qvEQYW7AFc0IKwTmg/master.m3u8
 #EXTINF:-1 tvg-name="Vijays Recreation Club vs Singam Puli" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101587" group-title="Champion of Champions T20, 2024",Vijays Recreation Club vs Singam Puli
 https://dai.google.com/linear/hls/event/o5NmUpHaQCewLPQtXcY_gg/master.m3u8
+#EXTINF:-1 tvg-name="Tartu Wolves vs Tallinn Strikers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101020" group-title="ECS Estonia, 2024",Tartu Wolves vs Tallinn Strikers
+https://dai.google.com/linear/hls/event/uBsU-VM0Rt2Hkkse1ooQkw/master.m3u8
 #EXTINF:-1 tvg-name="Júbilo Iwata vs Urawa Red Diamonds" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99782" group-title="J League 2024",Júbilo Iwata vs Urawa Red Diamonds
 https://dai.fancode.com/primary/99782_english_hls_5131adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="FC Tokyo vs Yokohama F. Marinos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99784" group-title="J League 2024",FC Tokyo vs Yokohama F. Marinos
 https://dai.fancode.com/primary/99784_english_hls_5509adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Kashima Antlers vs Vissel Kobe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99783" group-title="J League 2024",Kashima Antlers vs Vissel Kobe
 https://dai.fancode.com/primary/99783_english_hls_8810adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Feature Race" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95385" group-title="F3 ITALY-EMILIA ROMAGNA 2024",Feature Race
+https://djd5pprp09cc5.cloudfront.net/out/v1/c1fc09430730434590e182c0b1b61344/index.mpd
+#EXTINF:-1 tvg-name="PK Sports vs Samy Academy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100295" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",PK Sports vs Samy Academy
+https://dai.google.com/linear/hls/event/8gvDfUDYS0ux7ThhyR6fHQ/master.m3u8
