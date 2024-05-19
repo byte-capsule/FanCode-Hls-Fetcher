@@ -1,8 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Seven Districts Hybrid vs Golden Sapero Technical Service" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100887" group-title="Bukhatir T10 League, 2024",Seven Districts Hybrid vs Golden Sapero Technical Service
+https://dai.google.com/linear/hls/event/-E7UyxUPSC-FOz7D7gPwkA/master.m3u8
 #EXTINF:-1 tvg-name="Tallinn United vs Tartu CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101024" group-title="ECS Estonia, 2024",Tallinn United vs Tartu CC
 https://dai.google.com/linear/hls/event/wrH0t29qRQy4KW1KW7rwAg/master.m3u8
-#EXTINF:-1 tvg-name="Right Guards CC vs IPRC Kigali CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96688" group-title="RCA Men's T20, 2024",Right Guards CC vs IPRC Kigali CC
-https://dai.google.com/linear/hls/event/NY4o671zTb-PIT_m4ZxvIA/master.m3u8
 #EXTINF:-1 tvg-name="South East Stars vs Western Storm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99796" group-title="Charlotte Edwards Cup, 2024",South East Stars vs Western Storm
 https://dai.google.com/linear/hls/event/euC_IxoRRBC9GNJ3lpsOHg/master.m3u8
 #EXTINF:-1 tvg-name="Ireland vs Netherlands" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101519" group-title="ECN Netherlands T20I Tri-Series, 2024",Ireland vs Netherlands
