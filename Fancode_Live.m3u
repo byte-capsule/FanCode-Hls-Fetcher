@@ -3,10 +3,8 @@
 https://dai.google.com/linear/hls/event/rGUPH_G7S0i1l7wM76nUtg/master.m3u8
 #EXTINF:-1 tvg-name="Palakkad vs Pathanamthitta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100393" group-title="Kerala NSK T20 Trophy",Palakkad vs Pathanamthitta
 https://dai.google.com/linear/hls/event/sfXhkLkiSAuS3Lst0XUMgg/master.m3u8
-#EXTINF:-1 tvg-name="Tartu Wolves vs Tallinn Hippos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101021" group-title="ECS Estonia, 2024",Tartu Wolves vs Tallinn Hippos
-https://dai.google.com/linear/hls/event/lUJovrYPRLasEke_7LkPQA/master.m3u8
-#EXTINF:-1 tvg-name="Indorwa CC vs Challengers CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96687" group-title="RCA Men's T20, 2024",Indorwa CC vs Challengers CC
-https://dai.google.com/linear/hls/event/cM9yLeIMRjW47n3i2I8QrQ/master.m3u8
+#EXTINF:-1 tvg-name="Tartu CC vs Tallinn Stallions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101022" group-title="ECS Estonia, 2024",Tartu CC vs Tallinn Stallions
+https://dai.google.com/linear/hls/event/j3SXJLI6QCu8w6LZ4iu2kw/master.m3u8
 #EXTINF:-1 tvg-name="Porsche Mobil 1 Supercup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101486" group-title="Porsche Mobil 1 Supercup",Porsche Mobil 1 Supercup
 https://d2f00imm1712iz.cloudfront.net/out/v1/b375666beabf4e618687a37c911ccdcf/index.mpd
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100749" group-title="LET Amundi German Masters",Day 4
