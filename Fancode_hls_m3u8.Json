@@ -1,19 +1,19 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 7,
-  "updated_on": "19-05-2024 on 1:03:33 PM \ud83c\udf1e",
+  "channels_amount": 9,
+  "updated_on": "19-05-2024 on 1:20:52 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
       "event_name": "Champion of Champions T20, 2024",
-      "match_id": 101587,
-      "match_name": "Vijays Recreation Club vs Singam Puli",
-      "team_1": "Vijays Recreation Club",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR6@2x.png",
-      "team_2": "Singam Puli",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR2@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/o5NmUpHaQCewLPQtXcY_gg/master.m3u8"
+      "match_id": 101596,
+      "match_name": "Komaleeswarar Cricket Club vs Rising Stars Cricket Club",
+      "team_1": "Komaleeswarar Cricket Club",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR16@2x.png",
+      "team_2": "Rising Stars Cricket Club",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR8@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/i3TRgxChSdesn8UEm6xqug/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -25,6 +25,28 @@
       "team_2": "Tallinn Strikers",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR3@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/uBsU-VM0Rt2Hkkse1ooQkw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Kerala NSK T20 Trophy",
+      "match_id": 100393,
+      "match_name": "Pathanamthitta vs Palakkad",
+      "team_1": "Pathanamthitta",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PDCA@2x.png",
+      "team_2": "Palakkad",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PALA@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/sfXhkLkiSAuS3Lst0XUMgg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "RCA Men's T20, 2024",
+      "match_id": 96687,
+      "match_name": "Indorwa CC vs Challengers CC",
+      "team_1": "Indorwa CC",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IR@2x.png",
+      "team_2": "Challengers CC",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CHLC@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/cM9yLeIMRjW47n3i2I8QrQ/master.m3u8"
     },
     {
       "event_catagory": "football",
@@ -50,6 +72,17 @@
     },
     {
       "event_catagory": "football",
+      "event_name": "J League 2024",
+      "match_id": 99785,
+      "match_name": "Kashiwa Reysol vs Consadole Sapporo",
+      "team_1": "Kashiwa Reysol",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KRE@2x.png",
+      "team_2": "Consadole Sapporo",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CSA@2x.png",
+      "stream_link": "https://dai.fancode.com/primary/99785_english_hls_5666adfreeta-no/index.m3u8"
+    },
+    {
+      "event_catagory": "football",
       "event_name": "AFC U17 Women's Asian Cup, Indonesia 2024",
       "match_id": 100153,
       "match_name": "Korea Republic Women vs China PR Women",
@@ -69,17 +102,6 @@
       "team_2": "Imola",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
       "stream_link": "https://djd5pprp09cc5.cloudfront.net/out/v1/c1fc09430730434590e182c0b1b61344/index.mpd"
-    },
-    {
-      "event_catagory": "kabaddi",
-      "event_name": "Velammal Yuva Kabaddi- Tamil Nadu Clubs",
-      "match_id": 100295,
-      "match_name": "PK Sports vs Samy Academy",
-      "team_1": "PK Sports",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-PK@2x.png",
-      "team_2": "Samy Academy",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-SA@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/8gvDfUDYS0ux7ThhyR6fHQ/master.m3u8"
     }
   ]
 }
