@@ -5,5 +5,13 @@ https://dai.google.com/linear/hls/event/rGUPH_G7S0i1l7wM76nUtg/master.m3u8
 https://dai.google.com/linear/hls/event/sfXhkLkiSAuS3Lst0XUMgg/master.m3u8
 #EXTINF:-1 tvg-name="Tartu CC vs Tallinn Stallions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101022" group-title="ECS Estonia, 2024",Tartu CC vs Tallinn Stallions
 https://dai.google.com/linear/hls/event/j3SXJLI6QCu8w6LZ4iu2kw/master.m3u8
+#EXTINF:-1 tvg-name="Japan Women vs DPR Korea Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100154" group-title="AFC U17 Women's Asian Cup, Indonesia 2024",Japan Women vs DPR Korea Women
+https://dai.google.com/linear/hls/event/kGZWnzIgSPqDQkxhgbY2Vg/master.m3u8
+#EXTINF:-1 tvg-name="Race" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95149" group-title="F1 MSC CRUISES GRAN PREMIO DELL'EMILIA-ROMAGNA",Race
+https://dai.google.com/linear/hls/event/evhbnfqtQbO3-EI1CK7zbQ/master.m3u8
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100749" group-title="LET Amundi German Masters",Day 4
 https://dai.google.com/linear/hls/event/a__7tfEZTcebFlZlgSTdAQ/master.m3u8
+#EXTINF:-1 tvg-name="SRM University vs Sivagangai Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100296" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",SRM University vs Sivagangai Warriors
+https://dai.google.com/linear/hls/event/BTcd6SOwT-uiGu-hNNu84A/master.m3u8
+#EXTINF:-1 tvg-name="Germany vs Netherlands" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100929" group-title="Volleyball Nations League Women's",Germany vs Netherlands
+https://dai.google.com/linear/hls/event/SL3OPZ0zQ4O4OJXnxVF24A/master.m3u8
