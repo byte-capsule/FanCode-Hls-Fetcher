@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Palakkad vs Pathanamthitta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100393" group-title="Kerala NSK T20 Trophy",Palakkad vs Pathanamthitta
-https://dai.google.com/linear/hls/event/sfXhkLkiSAuS3Lst0XUMgg/master.m3u8
 #EXTINF:-1 tvg-name="Tartu CC vs Tallinn Stallions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101022" group-title="ECS Estonia, 2024",Tartu CC vs Tallinn Stallions
 https://dai.google.com/linear/hls/event/j3SXJLI6QCu8w6LZ4iu2kw/master.m3u8
 #EXTINF:-1 tvg-name="Right Guards CC vs IPRC Kigali CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96688" group-title="RCA Men's T20, 2024",Right Guards CC vs IPRC Kigali CC
