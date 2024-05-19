@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Western Eagles vs Eastern Waves" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101056" group-title="Japan Women's Premier League, 2024",Western Eagles vs Eastern Waves
 https://dai.google.com/linear/hls/event/4B8PMCo3TVyr0uppnYxJ4A/master.m3u8
+#EXTINF:-1 tvg-name="Malappuram vs Trichur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100392" group-title="Kerala NSK T20 Trophy",Malappuram vs Trichur
+https://dai.google.com/linear/hls/event/d35e_qvEQYW7AFc0IKwTmg/master.m3u8
+#EXTINF:-1 tvg-name="Jupiter Sports Club vs Egmore Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101595" group-title="Champion of Champions T20, 2024",Jupiter Sports Club vs Egmore Club
+https://dai.google.com/linear/hls/event/TcR_cdMRRiKUUBS-jJdsXA/master.m3u8
