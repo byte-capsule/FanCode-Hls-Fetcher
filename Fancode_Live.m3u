@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Tartu CC vs Viking Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101023" group-title="ECS Estonia, 2024",Tartu CC vs Viking Stars
+https://dai.google.com/linear/hls/event/dSjXvsGSQF-EWIriTwOSXw/master.m3u8
 #EXTINF:-1 tvg-name="Right Guards CC vs IPRC Kigali CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96688" group-title="RCA Men's T20, 2024",Right Guards CC vs IPRC Kigali CC
 https://dai.google.com/linear/hls/event/NY4o671zTb-PIT_m4ZxvIA/master.m3u8
 #EXTINF:-1 tvg-name="England Women vs Pakistan Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99910" group-title="Pakistan Women tour of England, 2024",England Women vs Pakistan Women
@@ -11,5 +13,7 @@ https://dai.fancode.com/primary/101413_english_hls_4773adfreeta-no/index.m3u8
 https://dai.google.com/linear/hls/event/evhbnfqtQbO3-EI1CK7zbQ/master.m3u8
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100749" group-title="LET Amundi German Masters",Day 4
 https://dai.google.com/linear/hls/event/a__7tfEZTcebFlZlgSTdAQ/master.m3u8
+#EXTINF:-1 tvg-name="Chennai Sports vs AMKC Gobi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100297" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",Chennai Sports vs AMKC Gobi
+ Free Trial attempt unsuccessful......it requires Premium Account
 #EXTINF:-1 tvg-name="Germany vs Netherlands" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100929" group-title="Volleyball Nations League Women's",Germany vs Netherlands
 https://dai.google.com/linear/hls/event/SL3OPZ0zQ4O4OJXnxVF24A/master.m3u8
