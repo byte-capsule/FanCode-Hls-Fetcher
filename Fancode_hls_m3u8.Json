@@ -1,9 +1,20 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 10,
-  "updated_on": "19-05-2024 on 7:04:45 PM \ud83c\udf19",
+  "channels_amount": 9,
+  "updated_on": "19-05-2024 on 7:23:22 PM \ud83c\udf19",
   "channels": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "Bukhatir T10 League, 2024",
+      "match_id": 100886,
+      "match_name": "UAE Kings XI vs CSS Group",
+      "team_1": "UAE Kings XI",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/UKX-CR1@2x.png",
+      "team_2": "CSS Group",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSS@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/6GC4qZ17SimEfltsRbWvHQ/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "ECS Estonia, 2024",
@@ -38,15 +49,15 @@
       "stream_link": "https://pubads.g.doubleclick.net/ssai/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8"
     },
     {
-      "event_catagory": "football",
-      "event_name": "AFC U17 Women's Asian Cup, Indonesia 2024",
-      "match_id": 100154,
-      "match_name": "Japan Women vs DPR Korea Women",
-      "team_1": "Japan Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-JPN@2x.png",
-      "team_2": "DPR Korea Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NK@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/kGZWnzIgSPqDQkxhgbY2Vg/master.m3u8"
+      "event_catagory": "cricket",
+      "event_name": "Charlotte Edwards Cup, 2024",
+      "match_id": 99796,
+      "match_name": "South East Stars vs Western Storm",
+      "team_1": "South East Stars",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SES-CR1@2x.png",
+      "team_2": "Western Storm",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/WS-CR1@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/euC_IxoRRBC9GNJ3lpsOHg/master.m3u8"
     },
     {
       "event_catagory": "football",
@@ -80,28 +91,6 @@
       "team_2": "Germany",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/a__7tfEZTcebFlZlgSTdAQ/master.m3u8"
-    },
-    {
-      "event_catagory": "kabaddi",
-      "event_name": "Velammal Yuva Kabaddi- Tamil Nadu Clubs",
-      "match_id": 100297,
-      "match_name": "Chennai Sports vs AMKC Gobi",
-      "team_1": "Chennai Sports",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-CS@2x.png",
-      "team_2": "AMKC Gobi",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-GB@2x.png",
-      "stream_link": " Free Trial attempt unsuccessful......it requires Premium Account"
-    },
-    {
-      "event_catagory": "volleyball",
-      "event_name": "Volleyball Nations League Women's",
-      "match_id": 100929,
-      "match_name": "Germany vs Netherlands",
-      "team_1": "Germany",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-GRM@2x.png",
-      "team_2": "Netherlands",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-NTH@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/SL3OPZ0zQ4O4OJXnxVF24A/master.m3u8"
     },
     {
       "event_catagory": "volleyball",
