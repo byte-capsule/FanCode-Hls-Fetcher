@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Tartu CC vs Tallinn Rising Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101029" group-title="ECS Estonia, 2024",Tartu CC vs Tallinn Rising Stars
 https://dai.google.com/linear/hls/event/IzjpNpM4Qji4T9ZCOBvtow/master.m3u8
+#EXTINF:-1 tvg-name="Ireland vs Scotland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101520" group-title="ECN Netherlands T20I Tri-Series, 2024",Ireland vs Scotland
+https://dai.google.com/linear/hls/event/xtp7bYfjSoCFG2ivkk7W0A/master.m3u8
 #EXTINF:-1 tvg-name="Sharjah vs Emirates Blues" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101436" group-title="Emirates D10 Tournament, 2024",Sharjah vs Emirates Blues
 https://dai.google.com/linear/hls/event/A5M0Le54RICg0cRk5qFbPw/master.m3u8
 #EXTINF:-1 tvg-name="PK Sports vs Kattakudi Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100301" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",PK Sports vs Kattakudi Sports
