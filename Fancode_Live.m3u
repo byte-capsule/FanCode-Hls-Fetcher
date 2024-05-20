@@ -3,9 +3,5 @@
 https://dai.google.com/linear/hls/event/3r7pYig-RWGKr7lxgPpg_w/master.m3u8
 #EXTINF:-1 tvg-name="Lisbon Capitals vs Werewolves CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101091" group-title="ECSN Portugal, 2024",Lisbon Capitals vs Werewolves CC
 https://dai.google.com/linear/hls/event/Uycg5KEcQoStcp5Tw5ANpQ/master.m3u8
-#EXTINF:-1 tvg-name="V Eleven Cricket Club vs Fly Emirates" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100889" group-title="Bukhatir T10 League, 2024",V Eleven Cricket Club vs Fly Emirates
-https://dai.google.com/linear/hls/event/s9d_9AlaRDm0wcJMJU_30A/master.m3u8
-#EXTINF:-1 tvg-name="Dubai vs Ajman" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101437" group-title="Emirates D10 Tournament, 2024",Dubai vs Ajman
-https://dai.google.com/linear/hls/event/qR6t7Z6aR4m6mGpdTQkzwg/master.m3u8
-#EXTINF:-1 tvg-name="Sharjah vs Fujairah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101438" group-title="Emirates D10 Tournament, 2024",Sharjah vs Fujairah
+#EXTINF:-1 tvg-name="Fujairah vs Sharjah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101438" group-title="Emirates D10 Tournament, 2024",Fujairah vs Sharjah
 https://dai.google.com/linear/hls/event/tu392UG5T7uQhvNO6MDRSw/master.m3u8
