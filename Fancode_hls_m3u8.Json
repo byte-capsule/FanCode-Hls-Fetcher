@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 1,
-  "updated_on": "20-05-2024 on 10:42:55 AM \ud83c\udf1e",
+  "channels_amount": 2,
+  "updated_on": "20-05-2024 on 11:08:17 AM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -14,6 +14,17 @@
       "team_2": "Trichur",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRIC@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/yShOi5M3TLGLBgmxGqxV1g/master.m3u8"
+    },
+    {
+      "event_catagory": "kabaddi",
+      "event_name": "Velammal Yuva Kabaddi- Tamil Nadu Clubs",
+      "match_id": 100298,
+      "match_name": "AMKC Gobi vs Vels University",
+      "team_1": "AMKC Gobi",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-GB@2x.png",
+      "team_2": "Vels University",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-VEL@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/pA-caf5lT1q8HREvbKFunA/master.m3u8"
     }
   ]
 }
