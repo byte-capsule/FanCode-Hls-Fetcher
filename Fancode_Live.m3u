@@ -1,7 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Lisbon Capitals vs Werewolves CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101091" group-title="ECSN Portugal, 2024",Lisbon Capitals vs Werewolves CC
+https://dai.google.com/linear/hls/event/Uycg5KEcQoStcp5Tw5ANpQ/master.m3u8
 #EXTINF:-1 tvg-name="V Eleven Cricket Club vs Fly Emirates" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100889" group-title="Bukhatir T10 League, 2024",V Eleven Cricket Club vs Fly Emirates
 https://dai.google.com/linear/hls/event/s9d_9AlaRDm0wcJMJU_30A/master.m3u8
-#EXTINF:-1 tvg-name="Tartu CC vs Tallinn Rising Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101029" group-title="ECS Estonia, 2024",Tartu CC vs Tallinn Rising Stars
-https://dai.google.com/linear/hls/event/IzjpNpM4Qji4T9ZCOBvtow/master.m3u8
 #EXTINF:-1 tvg-name="Dubai vs Ajman" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101437" group-title="Emirates D10 Tournament, 2024",Dubai vs Ajman
 https://dai.google.com/linear/hls/event/qR6t7Z6aR4m6mGpdTQkzwg/master.m3u8
