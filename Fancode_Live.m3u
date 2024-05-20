@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Tallinn Rising Stars vs Tallinn Stallions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101025" group-title="ECS Estonia, 2024",Tallinn Rising Stars vs Tallinn Stallions
+https://dai.google.com/linear/hls/event/d-DPXXBASTujbiRduyA8fQ/master.m3u8
+#EXTINF:-1 tvg-name="Karpagam University vs Sivagangai Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100299" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",Karpagam University vs Sivagangai Warriors
+https://dai.google.com/linear/hls/event/YmCFsqKSRJCVESsK4YW1Gg/master.m3u8
