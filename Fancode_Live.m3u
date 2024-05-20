@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Viking Stars vs Tartu CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101028" group-title="ECS Estonia, 2024",Viking Stars vs Tartu CC
 https://dai.google.com/linear/hls/event/y-nFCnOESm-in53zrTpcfA/master.m3u8
-#EXTINF:-1 tvg-name="Dubai vs Emirates Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101435" group-title="Emirates D10 Tournament, 2024",Dubai vs Emirates Red
-https://livecf.fancode.com/out/v1/ea09de12e98c4c99a003648622a2f89b/index.mpd
+#EXTINF:-1 tvg-name="Sharjah vs Emirates Blues" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101436" group-title="Emirates D10 Tournament, 2024",Sharjah vs Emirates Blues
+https://dai.google.com/linear/hls/event/A5M0Le54RICg0cRk5qFbPw/master.m3u8
+#EXTINF:-1 tvg-name="SRM University vs N.A. Academy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100300" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",SRM University vs N.A. Academy
+https://dai.google.com/linear/hls/event/SebeKtsZTpGrO_WIBPDd2w/master.m3u8
