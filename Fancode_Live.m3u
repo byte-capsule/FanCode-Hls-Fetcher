@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="GAT vs MEC Study Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99753" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",GAT vs MEC Study Group
+https://dai.google.com/linear/hls/event/3r7pYig-RWGKr7lxgPpg_w/master.m3u8
 #EXTINF:-1 tvg-name="Lisbon Capitals vs Werewolves CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101091" group-title="ECSN Portugal, 2024",Lisbon Capitals vs Werewolves CC
 https://dai.google.com/linear/hls/event/Uycg5KEcQoStcp5Tw5ANpQ/master.m3u8
 #EXTINF:-1 tvg-name="V Eleven Cricket Club vs Fly Emirates" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100889" group-title="Bukhatir T10 League, 2024",V Eleven Cricket Club vs Fly Emirates
