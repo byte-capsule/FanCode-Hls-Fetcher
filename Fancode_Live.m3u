@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Emirates Blues vs Abu Dhabi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101440" group-title="Emirates D10 Tournament, 2024",Emirates Blues vs Abu Dhabi
 https://dai.google.com/linear/hls/event/3GlFQb3qTaSSpGmyV8QeRg/master.m3u8
-#EXTINF:-1 tvg-name="Tartu CC vs Tallinn United" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101033" group-title="ECS Estonia, 2024",Tartu CC vs Tallinn United
-https://dai.google.com/linear/hls/event/K_MCfB5ESMCgwDIFtbli_A/master.m3u8
+#EXTINF:-1 tvg-name="Tartu Wolves vs Tallinn United" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101034" group-title="ECS Estonia, 2024",Tartu Wolves vs Tallinn United
+https://dai.fancode.com/primary/101034_english_hls_9800adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="North West Warriors vs Leinster Lightning" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99920" group-title="Ireland Inter-Provincial T20 Trophy, 2024",North West Warriors vs Leinster Lightning
+https://dai.fancode.com/primary/99920_english_hls_6320adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Bulgaria vs France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101062" group-title="Volleyball Nations League Men's",Bulgaria vs France
 https://dai.google.com/linear/hls/event/xdSMmQh6Qh-I-PIZT1qXtQ/master.m3u8
