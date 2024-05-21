@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Emirates Blues vs Abu Dhabi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101440" group-title="Emirates D10 Tournament, 2024",Emirates Blues vs Abu Dhabi
 https://dai.google.com/linear/hls/event/3GlFQb3qTaSSpGmyV8QeRg/master.m3u8
+#EXTINF:-1 tvg-name="Fujairah vs Emirates Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101441" group-title="Emirates D10 Tournament, 2024",Fujairah vs Emirates Red
+https://dai.fancode.com/primary/101441_english_hls_6193adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Tartu Wolves vs Tallinn United" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101034" group-title="ECS Estonia, 2024",Tartu Wolves vs Tallinn United
 https://dai.fancode.com/primary/101034_english_hls_9800adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="North West Warriors vs Leinster Lightning" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99920" group-title="Ireland Inter-Provincial T20 Trophy, 2024",North West Warriors vs Leinster Lightning
