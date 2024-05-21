@@ -1,9 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Sharjah vs Emirates Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101439" group-title="Emirates D10 Tournament, 2024",Sharjah vs Emirates Red
 https://dai.google.com/linear/hls/event/-yl-9HC_QAaEFgNij_k_mg/master.m3u8
-#EXTINF:-1 tvg-name="Trichur vs Pathanamthitta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100397" group-title="Kerala NSK T20 Trophy",Trichur vs Pathanamthitta
-https://dai.google.com/linear/hls/event/QXILrMH1RD2tBznl58a83g/master.m3u8
 #EXTINF:-1 tvg-name="Tartu CC vs Tartu Wolves" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101032" group-title="ECS Estonia, 2024",Tartu CC vs Tartu Wolves
 https://dai.google.com/linear/hls/event/ObvhpyWsS8S6Uv07MJsSYA/master.m3u8
-#EXTINF:-1 tvg-name="N.A. Academy vs PK Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100304" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",N.A. Academy vs PK Sports
-https://dai.google.com/linear/hls/event/bD7b9aOXTlSK5sYPH9p_6Q/master.m3u8
