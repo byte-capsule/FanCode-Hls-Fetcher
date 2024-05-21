@@ -5,5 +5,7 @@ https://dai.google.com/linear/hls/event/3GlFQb3qTaSSpGmyV8QeRg/master.m3u8
 https://dai.fancode.com/primary/101034_english_hls_9800adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="North West Warriors vs Leinster Lightning" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99920" group-title="Ireland Inter-Provincial T20 Trophy, 2024",North West Warriors vs Leinster Lightning
 https://dai.fancode.com/primary/99920_english_hls_6320adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Bangladesh vs USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99286" group-title="Bangladesh tour of USA, 2024",Bangladesh vs USA
+https://dai.fancode.com/primary/99286_english_hls_5729adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Bulgaria vs France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101062" group-title="Volleyball Nations League Men's",Bulgaria vs France
 https://dai.google.com/linear/hls/event/xdSMmQh6Qh-I-PIZT1qXtQ/master.m3u8
