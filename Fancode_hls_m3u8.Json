@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 5,
-  "updated_on": "22-05-2024 on 3:27:09 PM \ud83c\udf1e",
+  "channels_amount": 6,
+  "updated_on": "22-05-2024 on 3:40:55 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -27,15 +27,15 @@
       "stream_link": "https://dai.google.com/linear/hls/event/uEJNDRSbTUiUgWckexPBZg/master.m3u8"
     },
     {
-      "event_catagory": "volleyball",
-      "event_name": "Volleyball Womens Beach Pro Tour",
-      "match_id": 102035,
-      "match_name": "Ludwig/Lippmann vs Klinger D./Klinger R.",
-      "team_1": "Ludwig/Lippmann",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-GRM@2x.png",
-      "team_2": "Klinger D./Klinger R.",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-AUST@2x.png",
-      "stream_link": "https://dai.fancode.com/primary/102035_english_hls_122adfreeta-di/index.m3u8"
+      "event_catagory": "cricket",
+      "event_name": "Ireland Inter-Provincial Limited Over Cup, 2024",
+      "match_id": 100468,
+      "match_name": "North West Warriors vs Leinster Lightning",
+      "team_1": "North West Warriors",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NWW@2x.png",
+      "team_2": "Leinster Lightning",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LLG@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/PyBUR8rUQ0Cu6AV5THJ_Zw/master.m3u8"
     },
     {
       "event_catagory": "volleyball",
@@ -57,7 +57,18 @@
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-US@2x.png",
       "team_2": "Placette/Richard",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-FRC@2x.png",
-      "stream_link": " Free Trial attempt unsuccessful......it requires Premium Account"
+      "stream_link": "https://dai.fancode.com/primary/102037_english_hls_376adfreeta-no/index.m3u8"
+    },
+    {
+      "event_catagory": "volleyball",
+      "event_name": "Volleyball Womens Beach Pro Tour",
+      "match_id": 102035,
+      "match_name": "Ludwig/Lippmann vs Klinger D./Klinger R.",
+      "team_1": "Ludwig/Lippmann",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-GRM@2x.png",
+      "team_2": "Klinger D./Klinger R.",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-AUST@2x.png",
+      "stream_link": "https://dai.fancode.com/primary/102035_english_hls_122adfreeta-di/index.m3u8"
     }
   ]
 }
