@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 8,
-  "updated_on": "22-05-2024 on 9:41:05 PM \ud83c\udf19",
+  "channels_amount": 9,
+  "updated_on": "22-05-2024 on 10:08:35 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -73,17 +73,6 @@
     {
       "event_catagory": "volleyball",
       "event_name": "Volleyball Womens Beach Pro Tour",
-      "match_id": 102042,
-      "match_name": "Ludwig/Lippmann vs Tain\u00e1/Victoria",
-      "team_1": "Ludwig/Lippmann",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-GRM@2x.png",
-      "team_2": "Tain\u00e1/Victoria",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-BRZ@2x.png",
-      "stream_link": "https://dai.fancode.com/primary/102042_english_hls_374adfreeta-di/index.m3u8"
-    },
-    {
-      "event_catagory": "volleyball",
-      "event_name": "Volleyball Womens Beach Pro Tour",
       "match_id": 102041,
       "match_name": "Esm\u00e9e/Zo\u00e9 vs Verg\u00e9-D\u00e9pr\u00e9, A./M\u00e4der",
       "team_1": "Esm\u00e9e/Zo\u00e9",
@@ -91,6 +80,28 @@
       "team_2": "Verg\u00e9-D\u00e9pr\u00e9, A./M\u00e4der",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-SWZ@2x.png",
       "stream_link": "https://dai.fancode.com/primary/102041_english_hls_4253adfreeta-di/index.m3u8"
+    },
+    {
+      "event_catagory": "volleyball",
+      "event_name": "Volleyball Womens Beach Pro Tour",
+      "match_id": 102044,
+      "match_name": "Paulikiene/Raupelyte vs Ittlinger/Borger",
+      "team_1": "Paulikiene/Raupelyte",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-LTH@2x.png",
+      "team_2": "Ittlinger/Borger",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-GRM@2x.png",
+      "stream_link": "https://dai.fancode.com/primary/102044_english_hls_6872adfreeta-di/index.m3u8"
+    },
+    {
+      "event_catagory": "volleyball",
+      "event_name": "Volleyball Womens Beach Pro Tour",
+      "match_id": 102043,
+      "match_name": "Cannon/Kraft vs \u00c1lvarez M/Moreno",
+      "team_1": "Cannon/Kraft",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-US@2x.png",
+      "team_2": "\u00c1lvarez M/Moreno",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-ESPA@2x.png",
+      "stream_link": " Free Trial attempt unsuccessful......it requires Premium Account"
     }
   ]
 }
