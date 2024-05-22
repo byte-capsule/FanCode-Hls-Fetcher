@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Emirates Blues vs Dubai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101443" group-title="Emirates D10 Tournament, 2024",Emirates Blues vs Dubai
-https://dai.google.com/linear/hls/event/Atbs9vGzT4aYS3FpsHp8Lw/master.m3u8
+#EXTINF:-1 tvg-name="Fujairah vs Abu Dhabi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101444" group-title="Emirates D10 Tournament, 2024",Fujairah vs Abu Dhabi
+https://dai.google.com/linear/hls/event/BPXSSp2GSOik3_bBfUia9g/master.m3u8
 #EXTINF:-1 tvg-name="Tallinn Super Riders vs Tallinn United" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101038" group-title="ECS Estonia, 2024",Tallinn Super Riders vs Tallinn United
 https://dai.google.com/linear/hls/event/Bgwu7ClRTcWL8p71kg-Q8Q/master.m3u8
 #EXTINF:-1 tvg-name="North West Warriors vs Leinster Lightning" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100468" group-title="Ireland Inter-Provincial Limited Over Cup, 2024",North West Warriors vs Leinster Lightning
@@ -11,5 +11,7 @@ https://dai.fancode.com/primary/100186_english_hls_6632adfreeta-di/index.m3u8
 https://dai.google.com/linear/hls/event/hdGhNukMQxK3wSAAVVouIg/master.m3u8
 #EXTINF:-1 tvg-name="Hodges/Schubert vs Lyneel/Bassereau" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102048" group-title="Volleyball Mens Beach Pro Tour",Hodges/Schubert vs Lyneel/Bassereau
 https://dai.fancode.com/primary/102048_english_hls_434adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Brouwer/Meeuwsen vs Bello, Ja./Bello, Jo." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102047" group-title="Volleyball Mens Beach Pro Tour",Brouwer/Meeuwsen vs Bello, Ja./Bello, Jo.
+#EXTINF:-1 tvg-name="Mol, H./Berntsen vs Brunner/Hüberli" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102050" group-title="Volleyball Mens Beach Pro Tour",Mol, H./Berntsen vs Brunner/Hüberli
+ Free Trial attempt unsuccessful......it requires Premium Account
+#EXTINF:-1 tvg-name="Ranghieri/Carambula vs Luini/Varenhorst" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102049" group-title="Volleyball Mens Beach Pro Tour",Ranghieri/Carambula vs Luini/Varenhorst
  Free Trial attempt unsuccessful......it requires Premium Account
