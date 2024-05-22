@@ -1,9 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Kollam vs Malappuram" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100399" group-title="Kerala NSK T20 Trophy",Kollam vs Malappuram
+https://dai.google.com/linear/hls/event/XMgBKOYSThGfXSZRfypZfw/master.m3u8
 #EXTINF:-1 tvg-name="Tallinn United vs Tallinn Rising Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101035" group-title="ECS Estonia, 2024",Tallinn United vs Tallinn Rising Stars
 https://dai.google.com/linear/hls/event/LzMpTSZIRcOq7xWn7z_C8w/master.m3u8
-#EXTINF:-1 tvg-name="Kattakudi Sports vs Karpagam University" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100307" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",Kattakudi Sports vs Karpagam University
-https://dai.google.com/linear/hls/event/BsFO9brRTAO1bOnwyimnww/master.m3u8
 #EXTINF:-1 tvg-name="Vergé-Dépré, A./Mäder vs Bansley/Bukovec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102034" group-title="Volleyball Womens Beach Pro Tour",Vergé-Dépré, A./Mäder vs Bansley/Bukovec
 https://dai.fancode.com/primary/102034_english_hls_6992adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Esmée/Zoé vs Ahtiainen/Lahti" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102033" group-title="Volleyball Womens Beach Pro Tour",Esmée/Zoé vs Ahtiainen/Lahti
- Free Trial attempt unsuccessful......it requires Premium Account
+https://dai.fancode.com/primary/102033_english_hls_184adfreeta-di/index.m3u8
