@@ -5,9 +5,11 @@ https://dai.google.com/linear/hls/event/Atbs9vGzT4aYS3FpsHp8Lw/master.m3u8
 https://dai.google.com/linear/hls/event/b5B3agg0RMivfsHVk4-ydg/master.m3u8
 #EXTINF:-1 tvg-name="North West Warriors vs Leinster Lightning" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100468" group-title="Ireland Inter-Provincial Limited Over Cup, 2024",North West Warriors vs Leinster Lightning
 https://dai.google.com/linear/hls/event/PyBUR8rUQ0Cu6AV5THJ_Zw/master.m3u8
-#EXTINF:-1 tvg-name="SRM University vs Sivagangai Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100308" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",SRM University vs Sivagangai Warriors
-https://dai.google.com/linear/hls/event/UTcUtKzKT3WWf63M0ZI4Uw/master.m3u8
+#EXTINF:-1 tvg-name="Shanghai Port vs Chengdu Rongcheng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100186" group-title="Chinese Super League 2024",Shanghai Port vs Chengdu Rongcheng
+https://dai.fancode.com/primary/100186_english_hls_6632adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Stankevicius/Knasas vs Herrera/Gavira" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102046" group-title="Volleyball Mens Beach Pro Tour",Stankevicius/Knasas vs Herrera/Gavira
 https://livecf.fancode.com/out/v1/ea09de12e98c4c99a003648622a2f89b/index.mpd
-#EXTINF:-1 tvg-name="Vitor Felipe/Renato vs Nicolaidis/Carracher" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102045" group-title="Volleyball Mens Beach Pro Tour",Vitor Felipe/Renato vs Nicolaidis/Carracher
+#EXTINF:-1 tvg-name="Hodges/Schubert vs Lyneel/Bassereau" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102048" group-title="Volleyball Mens Beach Pro Tour",Hodges/Schubert vs Lyneel/Bassereau
+https://dai.fancode.com/primary/102048_english_hls_434adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Brouwer/Meeuwsen vs Bello, Ja./Bello, Jo." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102047" group-title="Volleyball Mens Beach Pro Tour",Brouwer/Meeuwsen vs Bello, Ja./Bello, Jo.
  Free Trial attempt unsuccessful......it requires Premium Account
