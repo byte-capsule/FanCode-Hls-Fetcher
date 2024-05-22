@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Fujairah vs Abu Dhabi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101444" group-title="Emirates D10 Tournament, 2024",Fujairah vs Abu Dhabi
-https://dai.google.com/linear/hls/event/BPXSSp2GSOik3_bBfUia9g/master.m3u8
+#EXTINF:-1 tvg-name="Emirates Blues vs Sharjah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101445" group-title="Emirates D10 Tournament, 2024",Emirates Blues vs Sharjah
+https://dai.google.com/linear/hls/event/a5QFHxL8QW-rf3hdxa-JZA/master.m3u8
+#EXTINF:-1 tvg-name="Colatta Warriors vs Gems Education CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100893" group-title="Bukhatir T10 League, 2024",Colatta Warriors vs Gems Education CC
+https://dai.google.com/linear/hls/event/sYgEddEKS0mEGYay0OdYwg/master.m3u8
 #EXTINF:-1 tvg-name="Tallinn Hippos vs Tallinn Super Riders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101039" group-title="ECS Estonia, 2024",Tallinn Hippos vs Tallinn Super Riders
 https://dai.google.com/linear/hls/event/dQwgc4QTRAekufToDONkuQ/master.m3u8
 #EXTINF:-1 tvg-name="North West Warriors vs Leinster Lightning" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100468" group-title="Ireland Inter-Provincial Limited Over Cup, 2024",North West Warriors vs Leinster Lightning
