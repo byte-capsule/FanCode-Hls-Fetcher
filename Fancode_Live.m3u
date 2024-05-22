@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Kollam vs Malappuram" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100399" group-title="Kerala NSK T20 Trophy",Kollam vs Malappuram
-https://dai.google.com/linear/hls/event/XMgBKOYSThGfXSZRfypZfw/master.m3u8
-#EXTINF:-1 tvg-name="Tallinn United vs Tallinn Hippos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101036" group-title="ECS Estonia, 2024",Tallinn United vs Tallinn Hippos
-https://dai.google.com/linear/hls/event/uEJNDRSbTUiUgWckexPBZg/master.m3u8
 #EXTINF:-1 tvg-name="North West Warriors vs Leinster Lightning" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100468" group-title="Ireland Inter-Provincial Limited Over Cup, 2024",North West Warriors vs Leinster Lightning
 https://dai.google.com/linear/hls/event/PyBUR8rUQ0Cu6AV5THJ_Zw/master.m3u8
 #EXTINF:-1 tvg-name="Liliana/Paula vs Álvarez M/Moreno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102038" group-title="Volleyball Womens Beach Pro Tour",Liliana/Paula vs Álvarez M/Moreno
 https://dai.fancode.com/primary/102038_english_hls_7446adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Cannon/Kraft vs Placette/Richard" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102037" group-title="Volleyball Womens Beach Pro Tour",Cannon/Kraft vs Placette/Richard
-https://dai.fancode.com/primary/102037_english_hls_376adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Ludwig/Lippmann vs Klinger D./Klinger R." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102035" group-title="Volleyball Womens Beach Pro Tour",Ludwig/Lippmann vs Klinger D./Klinger R.
-https://dai.fancode.com/primary/102035_english_hls_122adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Naraphornrapat/Worapeerachayakorn vs Ittlinger/Borger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102040" group-title="Volleyball Womens Beach Pro Tour",Naraphornrapat/Worapeerachayakorn vs Ittlinger/Borger
+https://dai.fancode.com/primary/102040_english_hls_7015adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Pavan/McBain vs Paulikiene/Raupelyte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102039" group-title="Volleyball Womens Beach Pro Tour",Pavan/McBain vs Paulikiene/Raupelyte
+https://dai.fancode.com/primary/102039_english_hls_529adfreeta-no/index.m3u8
