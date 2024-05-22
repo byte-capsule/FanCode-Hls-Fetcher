@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="SBS CC vs Al Sayer" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99755" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",SBS CC vs Al Sayer
+https://dai.google.com/linear/hls/event/EF1aNwugQIGnTlQJmCfO6A/master.m3u8
 #EXTINF:-1 tvg-name="Emirates Blues vs Sharjah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101445" group-title="Emirates D10 Tournament, 2024",Emirates Blues vs Sharjah
 https://dai.google.com/linear/hls/event/a5QFHxL8QW-rf3hdxa-JZA/master.m3u8
 #EXTINF:-1 tvg-name="Werewolves CC vs Punjab CC Amadora" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101095" group-title="ECSN Portugal, 2024",Werewolves CC vs Punjab CC Amadora
@@ -9,6 +11,8 @@ https://dai.google.com/linear/hls/event/sYgEddEKS0mEGYay0OdYwg/master.m3u8
 https://dai.google.com/linear/hls/event/zDEgnxRPSlCffvImHA0HCw/master.m3u8
 #EXTINF:-1 tvg-name="Netherlands vs Slovenia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101067" group-title="Volleyball Nations League Men's",Netherlands vs Slovenia
 https://dai.google.com/linear/hls/event/ObXSXTRqSDGVyueWYokOOw/master.m3u8
+#EXTINF:-1 tvg-name="USA vs Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101068" group-title="Volleyball Nations League Men's",USA vs Poland
+https://dai.google.com/linear/hls/event/FgLQnPSiQuK43JhwxCQpLA/master.m3u8
 #EXTINF:-1 tvg-name="Paulikiene/Raupelyte vs Ittlinger/Borger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102044" group-title="Volleyball Womens Beach Pro Tour",Paulikiene/Raupelyte vs Ittlinger/Borger
 https://dai.fancode.com/primary/102044_english_hls_6872adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Cannon/Kraft vs Álvarez M/Moreno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102043" group-title="Volleyball Womens Beach Pro Tour",Cannon/Kraft vs Álvarez M/Moreno
