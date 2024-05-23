@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Combined Districts vs Trichur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100400" group-title="Kerala NSK T20 Trophy",Combined Districts vs Trichur
 https://dai.google.com/linear/hls/event/UaJteAJ3TNCHaTzm1GDsXA/master.m3u8
+#EXTINF:-1 tvg-name="Ernakulam vs Kollam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100401" group-title="Kerala NSK T20 Trophy",Ernakulam vs Kollam
+https://dai.google.com/linear/hls/event/GkSCj501RAOCceMYgnGmnw/master.m3u8
 #EXTINF:-1 tvg-name="Tartu CC vs Tallinn Rising Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101040" group-title="ECS Estonia, 2024",Tartu CC vs Tallinn Rising Stars
 https://dai.google.com/linear/hls/event/TJFylGSKRUmkY-I2RYdcOw/master.m3u8
-#EXTINF:-1 tvg-name="Sivagangai Warriors vs PK Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100312" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",Sivagangai Warriors vs PK Sports
-https://dai.google.com/linear/hls/event/ZueKWaznSRO4fk1zc3Fxmw/master.m3u8
 #EXTINF:-1 tvg-name="Xue/X. Y. Xia vs Vergé-Dépré, A./Mäder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101579" group-title="Volleyball Womens Beach Pro Tour",Xue/X. Y. Xia vs Vergé-Dépré, A./Mäder
 https://dai.fancode.com/primary/101579_english_hls_6669adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Hughes/Cheng vs Müller/Tillmann" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101578" group-title="Volleyball Womens Beach Pro Tour",Hughes/Cheng vs Müller/Tillmann
- Free Trial attempt unsuccessful......it requires Premium Account
+https://dai.fancode.com/primary/101578_english_hls_222adfreeta-di/index.m3u8
