@@ -1,15 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Fujairah vs Emirates Blues" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101448" group-title="Emirates D10 Tournament, 2024",Fujairah vs Emirates Blues
 https://dai.google.com/linear/hls/event/KOGAuDvQSheI8I5RmT_47Q/master.m3u8
-#EXTINF:-1 tvg-name="Tallinn Super Riders vs Tallinn Rising Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101043" group-title="ECS Estonia, 2024",Tallinn Super Riders vs Tallinn Rising Stars
-https://dai.google.com/linear/hls/event/K3Hk7TolT1yDGQ7Uf6qFoQ/master.m3u8
 #EXTINF:-1 tvg-name="England Women vs Pakistan Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99905" group-title="Pakistan Women tour of England, 2024",England Women vs Pakistan Women
 https://pubads.g.doubleclick.net/ssai/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8
 #EXTINF:-1 tvg-name="Free Practice" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95337" group-title="F2 MONACO 2024",Free Practice
 https://d2hr41ye7086of.cloudfront.net/out/v1/91d80a927b6d42f9b9702cafb5251561/index.mpd
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101409" group-title="Soudal Open",Day 1
 https://dai.google.com/linear/hls/event/huZRdwm9QtibxzXqTGprvw/master.m3u8
+#EXTINF:-1 tvg-name="Canada vs Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101073" group-title="Volleyball Nations League Men's",Canada vs Poland
+https://dai.google.com/linear/hls/event/O-qMLfaORJCilNhw2hTqsg/master.m3u8
 #EXTINF:-1 tvg-name="Ehlers/Wickler vs Nicolaidis/Carracher" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101958" group-title="Volleyball Mens Beach Pro Tour",Ehlers/Wickler vs Nicolaidis/Carracher
 https://dai.fancode.com/primary/101958_english_hls_6798adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Boermans/de Groot vs Łosiak/Bryl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101957" group-title="Volleyball Mens Beach Pro Tour",Boermans/de Groot vs Łosiak/Bryl
-https://dai.fancode.com/primary/101957_english_hls_764adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="van de Velde/Immers vs Mol, H./Berntsen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101960" group-title="Volleyball Mens Beach Pro Tour",van de Velde/Immers vs Mol, H./Berntsen
+https://dai.fancode.com/primary/101960_english_hls_284adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Åhman/Hellvig vs Partain/Benesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101959" group-title="Volleyball Mens Beach Pro Tour",Åhman/Hellvig vs Partain/Benesh
+https://dai.fancode.com/primary/101959_english_hls_5584adfreeta-di/index.m3u8
