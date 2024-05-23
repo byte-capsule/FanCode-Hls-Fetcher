@@ -1,17 +1,23 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Fujairah vs Emirates Blues" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101448" group-title="Emirates D10 Tournament, 2024",Fujairah vs Emirates Blues
+https://dai.google.com/linear/hls/event/KOGAuDvQSheI8I5RmT_47Q/master.m3u8
 #EXTINF:-1 tvg-name="Tallinn Super Riders vs Tallinn Rising Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101043" group-title="ECS Estonia, 2024",Tallinn Super Riders vs Tallinn Rising Stars
 https://dai.google.com/linear/hls/event/K3Hk7TolT1yDGQ7Uf6qFoQ/master.m3u8
 #EXTINF:-1 tvg-name="England Women vs Pakistan Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99905" group-title="Pakistan Women tour of England, 2024",England Women vs Pakistan Women
 https://pubads.g.doubleclick.net/ssai/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8
-#EXTINF:-1 tvg-name="Practice" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95386" group-title="F3 MONACO 2024",Practice
-https://dai.google.com/linear/hls/event/fVp7igGzSQeNRM7E5PMdhw/master.m3u8
+#EXTINF:-1 tvg-name="Free Practice" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95337" group-title="F2 MONACO 2024",Free Practice
+https://d2hr41ye7086of.cloudfront.net/out/v1/91d80a927b6d42f9b9702cafb5251561/index.mpd
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101409" group-title="Soudal Open",Day 1
 https://dai.google.com/linear/hls/event/huZRdwm9QtibxzXqTGprvw/master.m3u8
+#EXTINF:-1 tvg-name="Karpagam University vs N.A. Academy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100311" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",Karpagam University vs N.A. Academy
+https://dai.google.com/linear/hls/event/ILd5pGiHSSKzsGtM-a9IpQ/master.m3u8
 #EXTINF:-1 tvg-name="Slovenia vs France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101072" group-title="Volleyball Nations League Men's",Slovenia vs France
 https://dai.google.com/linear/hls/event/wjWGJF_ZREidFAQwq7E5TQ/master.m3u8
+#EXTINF:-1 tvg-name="Ehlers/Wickler vs Nicolaidis/Carracher" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101958" group-title="Volleyball Mens Beach Pro Tour",Ehlers/Wickler vs Nicolaidis/Carracher
+https://dai.fancode.com/primary/101958_english_hls_6798adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Boermans/de Groot vs Łosiak/Bryl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101957" group-title="Volleyball Mens Beach Pro Tour",Boermans/de Groot vs Łosiak/Bryl
+ Free Trial attempt unsuccessful......it requires Premium Account
 #EXTINF:-1 tvg-name="Gottardi/Menegatti vs Álvarez M/Moreno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101932" group-title="Volleyball Womens Beach Pro Tour",Gottardi/Menegatti vs Álvarez M/Moreno
 https://dai.fancode.com/primary/101932_english_hls_6823adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Carol/Barbara vs Mariafe/Clancy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101931" group-title="Volleyball Womens Beach Pro Tour",Carol/Barbara vs Mariafe/Clancy
 https://dai.fancode.com/primary/101931_english_hls_1076adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Stam/Schoon vs Pinheiro/Castro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101929" group-title="Volleyball Womens Beach Pro Tour",Stam/Schoon vs Pinheiro/Castro
-https://dai.fancode.com/primary/101929_english_hls_4238adfreeta-di/index.m3u8
