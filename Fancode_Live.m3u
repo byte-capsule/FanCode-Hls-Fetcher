@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Ajman vs Fujairah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101450" group-title="Emirates D10 Tournament, 2024",Ajman vs Fujairah
 https://dai.google.com/linear/hls/event/JWNLnxpYRQ2k6PVYVvlSFg/master.m3u8
-#EXTINF:-1 tvg-name="Lisbon Capitals vs Miranda Dragons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101097" group-title="ECSN Portugal, 2024",Lisbon Capitals vs Miranda Dragons
-https://dai.google.com/linear/hls/event/zC5CUzMlQRGE4tq8r13iaQ/master.m3u8
 #EXTINF:-1 tvg-name="USA vs Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99287" group-title="Bangladesh tour of USA, 2024",USA vs Bangladesh
 https://dai.google.com/linear/hls/event/WZFsRGBZREOoC18cuULZbQ/master.m3u8
 #EXTINF:-1 tvg-name="England Women vs Pakistan Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99905" group-title="Pakistan Women tour of England, 2024",England Women vs Pakistan Women
@@ -20,6 +18,6 @@ https://dai.fancode.com/primary/101962_english_hls_9513adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="George/Andre vs Evandro/Arthur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101961" group-title="Volleyball Mens Beach Pro Tour",George/Andre vs Evandro/Arthur
 https://dai.fancode.com/primary/101961_english_hls_4755adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Cherif/Ahmed vs Hodges/Schubert" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102019" group-title="Volleyball Mens Beach Pro Tour",Cherif/Ahmed vs Hodges/Schubert
- Free Trial attempt unsuccessful......it requires Premium Account
+https://dai.fancode.com/primary/102019_english_hls_6550adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Perusic/Schweiner vs Cottafava/Nicolai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101963" group-title="Volleyball Mens Beach Pro Tour",Perusic/Schweiner vs Cottafava/Nicolai
  Free Trial attempt unsuccessful......it requires Premium Account
