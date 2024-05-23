@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Abu Dhabi vs Dubai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101449" group-title="Emirates D10 Tournament, 2024",Abu Dhabi vs Dubai
 https://dai.google.com/linear/hls/event/SulCYIIvQRO79fWo6jJo9Q/master.m3u8
+#EXTINF:-1 tvg-name="Lisbon Capitals vs Miranda Dragons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101097" group-title="ECSN Portugal, 2024",Lisbon Capitals vs Miranda Dragons
+https://dai.google.com/linear/hls/event/zC5CUzMlQRGE4tq8r13iaQ/master.m3u8
 #EXTINF:-1 tvg-name="UAE Kings XI vs Fly Emirates" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100895" group-title="Bukhatir T10 League, 2024",UAE Kings XI vs Fly Emirates
 https://dai.google.com/linear/hls/event/fgwUkjhRQC-KOSlZzyZ6Qg/master.m3u8
-#EXTINF:-1 tvg-name="Tartu Wolves vs Tallinn Super Riders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101044" group-title="ECS Estonia, 2024",Tartu Wolves vs Tallinn Super Riders
-https://dai.google.com/linear/hls/event/g8x3m2hNT7qrknSn1l00_g/master.m3u8
 #EXTINF:-1 tvg-name="USA vs Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99287" group-title="Bangladesh tour of USA, 2024",USA vs Bangladesh
 https://dai.google.com/linear/hls/event/WZFsRGBZREOoC18cuULZbQ/master.m3u8
 #EXTINF:-1 tvg-name="England Women vs Pakistan Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99905" group-title="Pakistan Women tour of England, 2024",England Women vs Pakistan Women
 https://pubads.g.doubleclick.net/ssai/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8
-#EXTINF:-1 tvg-name="Canada vs Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101073" group-title="Volleyball Nations League Men's",Canada vs Poland
-https://dai.google.com/linear/hls/event/O-qMLfaORJCilNhw2hTqsg/master.m3u8
+#EXTINF:-1 tvg-name="Al Rasheedi vs Kuwait Under-19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100197" group-title="KCC T20 Elite Cup 3rd Edition, 2024",Al Rasheedi vs Kuwait Under-19
+https://dai.google.com/linear/hls/event/4TohACSySU6zjK74MVOYRQ/master.m3u8
 #EXTINF:-1 tvg-name="Stam/Schoon vs Nuss/Kloth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101935" group-title="Volleyball Womens Beach Pro Tour",Stam/Schoon vs Nuss/Kloth
 https://dai.fancode.com/primary/101935_english_hls_7778adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Pinheiro/Castro vs Tainá/Victoria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101940" group-title="Volleyball Womens Beach Pro Tour",Pinheiro/Castro vs Tainá/Victoria
