@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Abu Dhabi vs Dubai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101449" group-title="Emirates D10 Tournament, 2024",Abu Dhabi vs Dubai
 https://dai.google.com/linear/hls/event/SulCYIIvQRO79fWo6jJo9Q/master.m3u8
+#EXTINF:-1 tvg-name="UAE Kings XI vs Fly Emirates" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100895" group-title="Bukhatir T10 League, 2024",UAE Kings XI vs Fly Emirates
+https://dai.google.com/linear/hls/event/fgwUkjhRQC-KOSlZzyZ6Qg/master.m3u8
 #EXTINF:-1 tvg-name="Tartu Wolves vs Tallinn Super Riders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101044" group-title="ECS Estonia, 2024",Tartu Wolves vs Tallinn Super Riders
 https://dai.google.com/linear/hls/event/g8x3m2hNT7qrknSn1l00_g/master.m3u8
 #EXTINF:-1 tvg-name="England Women vs Pakistan Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99905" group-title="Pakistan Women tour of England, 2024",England Women vs Pakistan Women
