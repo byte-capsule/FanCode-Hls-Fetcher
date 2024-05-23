@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Tallinn Rising Stars vs Tartu Wolves" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101042" group-title="ECS Estonia, 2024",Tallinn Rising Stars vs Tartu Wolves
+https://dai.google.com/linear/hls/event/2m4KMWpJSnGEuN2NMT0APg/master.m3u8
 #EXTINF:-1 tvg-name="Ernakulam vs Kollam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100401" group-title="Kerala NSK T20 Trophy",Ernakulam vs Kollam
 https://dai.google.com/linear/hls/event/GkSCj501RAOCceMYgnGmnw/master.m3u8
 #EXTINF:-1 tvg-name="Scotland vs Ireland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101522" group-title="ECN Netherlands T20I Tri-Series, 2024",Scotland vs Ireland
