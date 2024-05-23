@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Fujairah vs Emirates Blues" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101448" group-title="Emirates D10 Tournament, 2024",Fujairah vs Emirates Blues
-https://dai.google.com/linear/hls/event/KOGAuDvQSheI8I5RmT_47Q/master.m3u8
+#EXTINF:-1 tvg-name="Abu Dhabi vs Dubai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101449" group-title="Emirates D10 Tournament, 2024",Abu Dhabi vs Dubai
+https://dai.google.com/linear/hls/event/SulCYIIvQRO79fWo6jJo9Q/master.m3u8
 #EXTINF:-1 tvg-name="Tartu Wolves vs Tallinn Super Riders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101044" group-title="ECS Estonia, 2024",Tartu Wolves vs Tallinn Super Riders
 https://dai.google.com/linear/hls/event/g8x3m2hNT7qrknSn1l00_g/master.m3u8
 #EXTINF:-1 tvg-name="England Women vs Pakistan Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99905" group-title="Pakistan Women tour of England, 2024",England Women vs Pakistan Women
@@ -9,11 +9,9 @@ https://pubads.g.doubleclick.net/ssai/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8
 https://dai.google.com/linear/hls/event/WZFsRGBZREOoC18cuULZbQ/master.m3u8
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101409" group-title="Soudal Open",Day 1
 https://dai.google.com/linear/hls/event/huZRdwm9QtibxzXqTGprvw/master.m3u8
-#EXTINF:-1 tvg-name="Kattakudi Sports vs Vels University" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100310" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",Kattakudi Sports vs Vels University
-https://dai.google.com/linear/hls/event/Z_rWJ_-UQU-AXygy-1VG6g/master.m3u8
 #EXTINF:-1 tvg-name="Canada vs Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101073" group-title="Volleyball Nations League Men's",Canada vs Poland
 https://dai.google.com/linear/hls/event/O-qMLfaORJCilNhw2hTqsg/master.m3u8
 #EXTINF:-1 tvg-name="Brunner/Hüberli vs Paulikiene/Raupelyte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101934" group-title="Volleyball Womens Beach Pro Tour",Brunner/Hüberli vs Paulikiene/Raupelyte
 https://dai.fancode.com/primary/101934_english_hls_457adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Ana Patrícia/Duda vs Tina/Anastasija" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101933" group-title="Volleyball Womens Beach Pro Tour",Ana Patrícia/Duda vs Tina/Anastasija
- Free Trial attempt unsuccessful......it requires Premium Account
+https://dai.fancode.com/primary/101933_english_hls_4289adfreeta-no/index.m3u8
