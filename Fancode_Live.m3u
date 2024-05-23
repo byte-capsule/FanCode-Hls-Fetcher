@@ -11,6 +11,12 @@ https://dai.google.com/linear/hls/event/WZFsRGBZREOoC18cuULZbQ/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8
 #EXTINF:-1 tvg-name="Al Rasheedi vs Kuwait Under-19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100197" group-title="KCC T20 Elite Cup 3rd Edition, 2024",Al Rasheedi vs Kuwait Under-19
 https://dai.google.com/linear/hls/event/4TohACSySU6zjK74MVOYRQ/master.m3u8
+#EXTINF:-1 tvg-name="Cuba vs Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101075" group-title="Volleyball Nations League Men's",Cuba vs Germany
+https://dai.google.com/linear/hls/event/iYiu_H0LSpi8LS7rGLR7Fw/master.m3u8
+#EXTINF:-1 tvg-name="Turkey vs Netherlands" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101074" group-title="Volleyball Nations League Men's",Turkey vs Netherlands
+https://dai.google.com/linear/hls/event/NuY-EHxhQhSASyCVsWZmmQ/master.m3u8
+#EXTINF:-1 tvg-name="Pedrosa/Campos vs Evans/Budinger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101962" group-title="Volleyball Mens Beach Pro Tour",Pedrosa/Campos vs Evans/Budinger
+https://dai.fancode.com/primary/101962_english_hls_9513adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Stam/Schoon vs Nuss/Kloth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101935" group-title="Volleyball Womens Beach Pro Tour",Stam/Schoon vs Nuss/Kloth
 https://dai.fancode.com/primary/101935_english_hls_7778adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Pinheiro/Castro vs Tainá/Victoria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101940" group-title="Volleyball Womens Beach Pro Tour",Pinheiro/Castro vs Tainá/Victoria
