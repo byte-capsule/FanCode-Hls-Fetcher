@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Dubai vs Sharjah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101452" group-title="Emirates D10 Tournament, 2024",Dubai vs Sharjah
 https://dai.google.com/linear/hls/event/7oTZNvkDSw24P3FTBoEaeQ/master.m3u8
-#EXTINF:-1 tvg-name="NCM Investment vs Stack CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100199" group-title="KCC T20 Elite Cup 3rd Edition, 2024",NCM Investment vs Stack CC
-https://dai.google.com/linear/hls/event/vPIPpdFKQCSmNQg5qbo-0A/master.m3u8
 #EXTINF:-1 tvg-name="Kuwait Nationals vs NCM Investment-B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99757" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",Kuwait Nationals vs NCM Investment-B
 https://dai.google.com/linear/hls/event/0sSoohfQRbG4Mlp29VFpFw/master.m3u8
-#EXTINF:-1 tvg-name="Qualifying" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95338" group-title="F2 MONACO 2024",Qualifying
-https://dai.google.com/linear/hls/event/i8k16ipZRkK37qo4l92rvg/master.m3u8
+#EXTINF:-1 tvg-name="DTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100936" group-title="DTM 2024",DTM
+https://dai.google.com/linear/hls/event/46cNRWz9SQKLq0VsYM7PWw/master.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101410" group-title="Soudal Open",Day 2
 https://dai.google.com/linear/hls/event/VMQw83xLT5SqJhCzcc8NYA/master.m3u8
-#EXTINF:-1 tvg-name="Perusic/Schweiner vs Hodges/Schubert" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102025" group-title="Volleyball Mens Beach Pro Tour",Perusic/Schweiner vs Hodges/Schubert
-https://dai.fancode.com/primary/102025_english_hls_6892adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Cottafava/Nicolai vs Cherif/Ahmed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102024" group-title="Volleyball Mens Beach Pro Tour",Cottafava/Nicolai vs Cherif/Ahmed
-https://dai.fancode.com/primary/102024_english_hls_842adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Åhman/Hellvig vs Mol, H./Berntsen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102027" group-title="Volleyball Mens Beach Pro Tour",Åhman/Hellvig vs Mol, H./Berntsen
+https://dai.fancode.com/primary/102027_english_hls_36adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="van de Velde/Immers vs Partain/Benesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102026" group-title="Volleyball Mens Beach Pro Tour",van de Velde/Immers vs Partain/Benesh
+https://dai.fancode.com/primary/102026_english_hls_3934adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="France vs USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101138" group-title="Volleyball Nations League Men's",France vs USA
+https://dai.google.com/linear/hls/event/XOCqWiHiRUmJIuXs-yM_Dw/master.m3u8
