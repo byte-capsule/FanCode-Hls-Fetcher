@@ -1,9 +1,20 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 7,
-  "updated_on": "24-05-2024 on 4:41:16 PM \ud83c\udf1e",
+  "channels_amount": 12,
+  "updated_on": "24-05-2024 on 5:03:30 PM \ud83c\udf1e",
   "channels": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "Emirates D10 Tournament, 2024",
+      "match_id": 101451,
+      "match_name": "Ajman vs Abu Dhabi",
+      "team_1": "Ajman",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AJMN@2x.png",
+      "team_2": "Abu Dhabi",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ABUD@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/AY4KI5gCQ9yfYnh5FTtouw/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "KCC T20 Elite Cup 3rd Edition, 2024",
@@ -60,6 +71,28 @@
       "stream_link": "https://dai.google.com/linear/hls/event/2unDys6QTq-zsKeemm9WBQ/master.m3u8"
     },
     {
+      "event_catagory": "golf",
+      "event_name": "Soudal Open",
+      "match_id": 101410,
+      "match_name": "Day 2",
+      "team_1": "Day 2",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-SO@2x.png",
+      "team_2": "Antwerp, Belgium",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/VMQw83xLT5SqJhCzcc8NYA/master.m3u8"
+    },
+    {
+      "event_catagory": "kabaddi",
+      "event_name": "Velammal Yuva Kabaddi- Tamil Nadu Clubs",
+      "match_id": 100316,
+      "match_name": "Sivagangai Warriors vs AMKC Gobi",
+      "team_1": "Sivagangai Warriors",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-SW@2x.png",
+      "team_2": "AMKC Gobi",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-GB@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/chk7YrpQS7S5s9lwJ4KJxA/master.m3u8"
+    },
+    {
       "event_catagory": "volleyball",
       "event_name": "Volleyball Mens Beach Pro Tour",
       "match_id": 102023,
@@ -72,14 +105,36 @@
     },
     {
       "event_catagory": "volleyball",
-      "event_name": "Volleyball Mens Beach Pro Tour",
-      "match_id": 102022,
-      "match_name": "Boermans/de Groot vs Ehlers/Wickler",
-      "team_1": "Boermans/de Groot",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-NTH@2x.png",
-      "team_2": "Ehlers/Wickler",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-GRM@2x.png",
-      "stream_link": "https://dai.fancode.com/primary/102022_english_hls_4005adfreeta-di/index.m3u8"
+      "event_name": "Volleyball Nations League Men's",
+      "match_id": 101137,
+      "match_name": "Bulgaria vs Canada",
+      "team_1": "Bulgaria",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-BLG@2x.png",
+      "team_2": "Canada",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-CND@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/FsTHKgMGSWCIuhV9kb2Cow/master.m3u8"
+    },
+    {
+      "event_catagory": "volleyball",
+      "event_name": "Volleyball Womens Beach Pro Tour",
+      "match_id": 101946,
+      "match_name": "Ana Patr\u00edcia/Duda vs Paulikiene/Raupelyte",
+      "team_1": "Ana Patr\u00edcia/Duda",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-BRZ@2x.png",
+      "team_2": "Paulikiene/Raupelyte",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-LTH@2x.png",
+      "stream_link": " Free Trial attempt unsuccessful......it requires Premium Account"
+    },
+    {
+      "event_catagory": "volleyball",
+      "event_name": "Volleyball Womens Beach Pro Tour",
+      "match_id": 101945,
+      "match_name": "Tina/Anastasija vs Brunner/H\u00fcberli",
+      "team_1": "Tina/Anastasija",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-LATV@2x.png",
+      "team_2": "Brunner/H\u00fcberli",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-SWZ@2x.png",
+      "stream_link": " Free Trial attempt unsuccessful......it requires Premium Account"
     }
   ]
 }
