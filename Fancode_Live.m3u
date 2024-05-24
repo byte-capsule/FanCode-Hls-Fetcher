@@ -1,10 +1,22 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Abu Dhabi vs Fujairah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101453" group-title="Emirates D10 Tournament, 2024",Abu Dhabi vs Fujairah
 https://dai.google.com/linear/hls/event/GVJqYabRQYiGqRfB-7_xmQ/master.m3u8
+#EXTINF:-1 tvg-name="Kuwait Swedish vs CECC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100200" group-title="KCC T20 Elite Cup 3rd Edition, 2024",Kuwait Swedish vs CECC
+https://dai.google.com/linear/hls/event/RsupTepoT8iA_hXc55K1sg/master.m3u8
 #EXTINF:-1 tvg-name="Rangers CC vs Coimbra Knights" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101099" group-title="ECSN Portugal, 2024",Rangers CC vs Coimbra Knights
 https://dai.google.com/linear/hls/event/jazp35KzTDKaA39482SUPw/master.m3u8
 #EXTINF:-1 tvg-name="Karwan Cricket Club vs CSS Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100897" group-title="Bukhatir T10 League, 2024",Karwan Cricket Club vs CSS Group
 https://dai.google.com/linear/hls/event/L0eK25H5SYeNXdG8oLV2cQ/master.m3u8
+#EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101937" group-title="Senior PGA Championships",Day 2
+https://dai.google.com/linear/hls/event/Tk-Av0iSQuyHNHWrLTYtaw/master.m3u8
+#EXTINF:-1 tvg-name="George/Andre vs Evans/Budinger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102029" group-title="Volleyball Mens Beach Pro Tour",George/Andre vs Evans/Budinger
+https://dai.fancode.com/primary/102029_english_hls_4530adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Evandro/Arthur vs Pedrosa/Campos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102028" group-title="Volleyball Mens Beach Pro Tour",Evandro/Arthur vs Pedrosa/Campos
+https://dai.fancode.com/primary/102028_english_hls_9724adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Cuba vs Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101140" group-title="Volleyball Nations League Men's",Cuba vs Japan
+https://dai.google.com/linear/hls/event/SlnPccwoRz6lZsUGDxlL_Q/master.m3u8
+#EXTINF:-1 tvg-name="Netherlands vs Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101139" group-title="Volleyball Nations League Men's",Netherlands vs Poland
+https://dai.google.com/linear/hls/event/TmHx5Tu0SPScX_ejbpAn7Q/master.m3u8
 #EXTINF:-1 tvg-name="Stam/Schoon vs Tainá/Victoria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101952" group-title="Volleyball Womens Beach Pro Tour",Stam/Schoon vs Tainá/Victoria
 https://dai.fancode.com/primary/101952_english_hls_297adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Nuss/Kloth vs Pinheiro/Castro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101951" group-title="Volleyball Womens Beach Pro Tour",Nuss/Kloth vs Pinheiro/Castro
