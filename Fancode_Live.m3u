@@ -1,13 +1,17 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="NCM Investment vs Stack CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100199" group-title="KCC T20 Elite Cup 3rd Edition, 2024",NCM Investment vs Stack CC
+https://dai.google.com/linear/hls/event/vPIPpdFKQCSmNQg5qbo-0A/master.m3u8
 #EXTINF:-1 tvg-name="Tallinn Strikers vs Tallinn Stallions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101046" group-title="ECS Estonia, 2024",Tallinn Strikers vs Tallinn Stallions
 https://dai.google.com/linear/hls/event/NHyxmJ1nTESjDqIJKqMiQQ/master.m3u8
 #EXTINF:-1 tvg-name="Trivandrum vs Ernakulam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100403" group-title="Kerala NSK T20 Trophy",Trivandrum vs Ernakulam
 https://dai.google.com/linear/hls/event/hrbOtQQPSNWwDz3KXKbd7w/master.m3u8
 #EXTINF:-1 tvg-name="Ireland vs Netherlands" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101523" group-title="ECN Netherlands T20I Tri-Series, 2024",Ireland vs Netherlands
 https://dai.google.com/linear/hls/event/6v5VrxZYSh-Cw8kzGfOF6Q/master.m3u8
-#EXTINF:-1 tvg-name="Qualifying" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95387" group-title="F3 MONACO 2024",Qualifying
-https://dai.google.com/linear/hls/event/s2jrdPskS7-dFaJz6JZ0BA/master.m3u8
-#EXTINF:-1 tvg-name="Partain/Benesh vs Mol, H./Berntsen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102021" group-title="Volleyball Mens Beach Pro Tour",Partain/Benesh vs Mol, H./Berntsen
-https://dai.fancode.com/primary/102021_english_hls_81adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="DTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100935" group-title="DTM 2024",DTM
+https://dai.google.com/linear/hls/event/2unDys6QTq-zsKeemm9WBQ/master.m3u8
 #EXTINF:-1 tvg-name="Åhman/Hellvig vs van de Velde/Immers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102020" group-title="Volleyball Mens Beach Pro Tour",Åhman/Hellvig vs van de Velde/Immers
 https://dai.fancode.com/primary/102020_english_hls_4120adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Łosiak/Bryl vs Nicolaidis/Carracher" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102023" group-title="Volleyball Mens Beach Pro Tour",Łosiak/Bryl vs Nicolaidis/Carracher
+https://dai.fancode.com/primary/102023_english_hls_54adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Boermans/de Groot vs Ehlers/Wickler" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102022" group-title="Volleyball Mens Beach Pro Tour",Boermans/de Groot vs Ehlers/Wickler
+ Free Trial attempt unsuccessful......it requires Premium Account

@@ -1,9 +1,20 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 6,
-  "updated_on": "24-05-2024 on 3:40:52 PM \ud83c\udf1e",
+  "channels_amount": 8,
+  "updated_on": "24-05-2024 on 4:06:56 PM \ud83c\udf1e",
   "channels": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "KCC T20 Elite Cup 3rd Edition, 2024",
+      "match_id": 100199,
+      "match_name": "NCM Investment vs Stack CC",
+      "team_1": "NCM Investment",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NIN@2x.png",
+      "team_2": "Stack CC",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-STAX@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/vPIPpdFKQCSmNQg5qbo-0A/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "ECS Estonia, 2024",
@@ -39,25 +50,14 @@
     },
     {
       "event_catagory": "racing",
-      "event_name": "F3 MONACO 2024",
-      "match_id": 95387,
-      "match_name": "Qualifying",
-      "team_1": "Qualifying",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png",
-      "team_2": "Monaco",
+      "event_name": "DTM 2024",
+      "match_id": 100935,
+      "match_name": "DTM",
+      "team_1": "Practice 1- Lausitzring",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-DTM@2x.png",
+      "team_2": "Lausitzring",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/s2jrdPskS7-dFaJz6JZ0BA/master.m3u8"
-    },
-    {
-      "event_catagory": "volleyball",
-      "event_name": "Volleyball Mens Beach Pro Tour",
-      "match_id": 102021,
-      "match_name": "Partain/Benesh vs Mol, H./Berntsen",
-      "team_1": "Partain/Benesh",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-US@2x.png",
-      "team_2": "Mol, H./Berntsen",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-NORW@2x.png",
-      "stream_link": "https://dai.fancode.com/primary/102021_english_hls_81adfreeta-no/index.m3u8"
+      "stream_link": "https://dai.google.com/linear/hls/event/2unDys6QTq-zsKeemm9WBQ/master.m3u8"
     },
     {
       "event_catagory": "volleyball",
@@ -69,6 +69,28 @@
       "team_2": "van de Velde/Immers",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-NTH@2x.png",
       "stream_link": "https://dai.fancode.com/primary/102020_english_hls_4120adfreeta-di/index.m3u8"
+    },
+    {
+      "event_catagory": "volleyball",
+      "event_name": "Volleyball Mens Beach Pro Tour",
+      "match_id": 102023,
+      "match_name": "\u0141osiak/Bryl vs Nicolaidis/Carracher",
+      "team_1": "\u0141osiak/Bryl",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-PLN@2x.png",
+      "team_2": "Nicolaidis/Carracher",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-AST@2x.png",
+      "stream_link": "https://dai.fancode.com/primary/102023_english_hls_54adfreeta-di/index.m3u8"
+    },
+    {
+      "event_catagory": "volleyball",
+      "event_name": "Volleyball Mens Beach Pro Tour",
+      "match_id": 102022,
+      "match_name": "Boermans/de Groot vs Ehlers/Wickler",
+      "team_1": "Boermans/de Groot",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-NTH@2x.png",
+      "team_2": "Ehlers/Wickler",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-GRM@2x.png",
+      "stream_link": " Free Trial attempt unsuccessful......it requires Premium Account"
     }
   ]
 }
