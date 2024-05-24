@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Abu Dhabi vs Fujairah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101453" group-title="Emirates D10 Tournament, 2024",Abu Dhabi vs Fujairah
+https://dai.google.com/linear/hls/event/GVJqYabRQYiGqRfB-7_xmQ/master.m3u8
 #EXTINF:-1 tvg-name="Kuwait Nationals vs NCM Investment-B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99757" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",Kuwait Nationals vs NCM Investment-B
 https://dai.google.com/linear/hls/event/0sSoohfQRbG4Mlp29VFpFw/master.m3u8
 #EXTINF:-1 tvg-name="Tallinn Strikers vs Tallinn Stallions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101048" group-title="ECS Estonia, 2024",Tallinn Strikers vs Tallinn Stallions
