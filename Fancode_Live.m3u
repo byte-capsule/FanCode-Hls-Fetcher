@@ -1,17 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Dubai vs Emirates Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101454" group-title="Emirates D10 Tournament, 2024",Dubai vs Emirates Red
-https://dai.google.com/linear/hls/event/NSQaqESfR2W8gojW2ZjlRQ/master.m3u8
-#EXTINF:-1 tvg-name="Kuwait Swedish vs CECC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100200" group-title="KCC T20 Elite Cup 3rd Edition, 2024",Kuwait Swedish vs CECC
-https://dai.google.com/linear/hls/event/RsupTepoT8iA_hXc55K1sg/master.m3u8
-#EXTINF:-1 tvg-name="Rangers CC vs Coimbra Knights" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101099" group-title="ECSN Portugal, 2024",Rangers CC vs Coimbra Knights
-https://dai.google.com/linear/hls/event/jazp35KzTDKaA39482SUPw/master.m3u8
-#EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101937" group-title="Senior PGA Championships",Day 2
-https://dai.google.com/linear/hls/event/Tk-Av0iSQuyHNHWrLTYtaw/master.m3u8
-#EXTINF:-1 tvg-name="Boermans/de Groot vs Nicolaidis/Carracher" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102031" group-title="Volleyball Mens Beach Pro Tour",Boermans/de Groot vs Nicolaidis/Carracher
-https://dai.fancode.com/primary/102031_english_hls_6400adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Ehlers/Wickler vs Łosiak/Bryl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102030" group-title="Volleyball Mens Beach Pro Tour",Ehlers/Wickler vs Łosiak/Bryl
-https://dai.fancode.com/primary/102030_english_hls_9657adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Cuba vs Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101140" group-title="Volleyball Nations League Men's",Cuba vs Japan
-https://dai.google.com/linear/hls/event/SlnPccwoRz6lZsUGDxlL_Q/master.m3u8
-#EXTINF:-1 tvg-name="Netherlands vs Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101139" group-title="Volleyball Nations League Men's",Netherlands vs Poland
-https://dai.google.com/linear/hls/event/TmHx5Tu0SPScX_ejbpAn7Q/master.m3u8
