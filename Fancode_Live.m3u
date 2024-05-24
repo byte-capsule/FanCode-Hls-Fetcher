@@ -13,13 +13,9 @@ https://dai.google.com/linear/hls/event/6v5VrxZYSh-Cw8kzGfOF6Q/master.m3u8
 https://dai.google.com/linear/hls/event/WI5FB9RUSdGgA69jDOYwKQ/master.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101410" group-title="Soudal Open",Day 2
 https://dai.google.com/linear/hls/event/VMQw83xLT5SqJhCzcc8NYA/master.m3u8
-#EXTINF:-1 tvg-name="Sivagangai Warriors vs AMKC Gobi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100316" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",Sivagangai Warriors vs AMKC Gobi
-https://dai.google.com/linear/hls/event/chk7YrpQS7S5s9lwJ4KJxA/master.m3u8
-#EXTINF:-1 tvg-name="Łosiak/Bryl vs Nicolaidis/Carracher" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102023" group-title="Volleyball Mens Beach Pro Tour",Łosiak/Bryl vs Nicolaidis/Carracher
-https://dai.fancode.com/primary/102023_english_hls_54adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Bulgaria vs Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101137" group-title="Volleyball Nations League Men's",Bulgaria vs Canada
 https://dai.google.com/linear/hls/event/FsTHKgMGSWCIuhV9kb2Cow/master.m3u8
-#EXTINF:-1 tvg-name="Ana Patrícia/Duda vs Paulikiene/Raupelyte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101946" group-title="Volleyball Womens Beach Pro Tour",Ana Patrícia/Duda vs Paulikiene/Raupelyte
- Free Trial attempt unsuccessful......it requires Premium Account
-#EXTINF:-1 tvg-name="Tina/Anastasija vs Brunner/Hüberli" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101945" group-title="Volleyball Womens Beach Pro Tour",Tina/Anastasija vs Brunner/Hüberli
+#EXTINF:-1 tvg-name="Xue/X. Y. Xia vs Müller/Tillmann" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101947" group-title="Volleyball Womens Beach Pro Tour",Xue/X. Y. Xia vs Müller/Tillmann
+https://dai.fancode.com/primary/101947_english_hls_6300adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Hughes/Cheng vs Vergé-Dépré, A./Mäder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101948" group-title="Volleyball Womens Beach Pro Tour",Hughes/Cheng vs Vergé-Dépré, A./Mäder
  Free Trial attempt unsuccessful......it requires Premium Account
