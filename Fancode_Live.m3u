@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Abu Dhabi vs Fujairah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101453" group-title="Emirates D10 Tournament, 2024",Abu Dhabi vs Fujairah
 https://dai.google.com/linear/hls/event/GVJqYabRQYiGqRfB-7_xmQ/master.m3u8
+#EXTINF:-1 tvg-name="Karwan Cricket Club vs CSS Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100897" group-title="Bukhatir T10 League, 2024",Karwan Cricket Club vs CSS Group
+https://dai.google.com/linear/hls/event/L0eK25H5SYeNXdG8oLV2cQ/master.m3u8
 #EXTINF:-1 tvg-name="Kuwait Nationals vs NCM Investment-B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99757" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",Kuwait Nationals vs NCM Investment-B
 https://dai.google.com/linear/hls/event/0sSoohfQRbG4Mlp29VFpFw/master.m3u8
 #EXTINF:-1 tvg-name="Tallinn Strikers vs Tallinn Stallions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101048" group-title="ECS Estonia, 2024",Tallinn Strikers vs Tallinn Stallions
@@ -11,8 +13,6 @@ https://dai.google.com/linear/hls/event/MgdEzs0VQeitXXqLC53FJQ/master.m3u8
 https://dai.google.com/linear/hls/event/bnJs4qSMQ9OlaTPCoAVniw/master.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101410" group-title="Soudal Open",Day 2
 https://dai.google.com/linear/hls/event/VMQw83xLT5SqJhCzcc8NYA/master.m3u8
-#EXTINF:-1 tvg-name="France vs USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101138" group-title="Volleyball Nations League Men's",France vs USA
-https://dai.google.com/linear/hls/event/XOCqWiHiRUmJIuXs-yM_Dw/master.m3u8
 #EXTINF:-1 tvg-name="Carol/Barbara vs Álvarez M/Moreno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101950" group-title="Volleyball Womens Beach Pro Tour",Carol/Barbara vs Álvarez M/Moreno
 https://dai.fancode.com/primary/101950_english_hls_360adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Gottardi/Menegatti vs Mariafe/Clancy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101949" group-title="Volleyball Womens Beach Pro Tour",Gottardi/Menegatti vs Mariafe/Clancy
