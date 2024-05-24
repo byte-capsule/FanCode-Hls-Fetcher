@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Alappuzha vs Trichur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100402" group-title="Kerala NSK T20 Trophy",Alappuzha vs Trichur
 https://dai.google.com/linear/hls/event/PcTUZOEDTWSm_Zw0T7o7Zg/master.m3u8
+#EXTINF:-1 tvg-name="Friendi Mobile vs CECC-B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99756" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",Friendi Mobile vs CECC-B
+https://dai.google.com/linear/hls/event/nCvrF7N-TH-GrG9oeo15YQ/master.m3u8
+#EXTINF:-1 tvg-name="Karpagam University vs Vels University" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100314" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",Karpagam University vs Vels University
+https://dai.google.com/linear/hls/event/U6W_MvdCTQa2buxwCOYJPA/master.m3u8
