@@ -1,15 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Friendi Mobile vs CECC-B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99756" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",Friendi Mobile vs CECC-B
-https://dai.google.com/linear/hls/event/nCvrF7N-TH-GrG9oeo15YQ/master.m3u8
-#EXTINF:-1 tvg-name="Tallinn United vs Tallinn Hippos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101045" group-title="ECS Estonia, 2024",Tallinn United vs Tallinn Hippos
-https://dai.google.com/linear/hls/event/ElacaTKvT6yFPOjOLZ81aw/master.m3u8
-#EXTINF:-1 tvg-name="Alappuzha vs Trichur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100402" group-title="Kerala NSK T20 Trophy",Alappuzha vs Trichur
-https://dai.google.com/linear/hls/event/PcTUZOEDTWSm_Zw0T7o7Zg/master.m3u8
+#EXTINF:-1 tvg-name="Tallinn Strikers vs Tallinn Stallions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101046" group-title="ECS Estonia, 2024",Tallinn Strikers vs Tallinn Stallions
+https://dai.google.com/linear/hls/event/NHyxmJ1nTESjDqIJKqMiQQ/master.m3u8
 #EXTINF:-1 tvg-name="Trivandrum vs Ernakulam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100403" group-title="Kerala NSK T20 Trophy",Trivandrum vs Ernakulam
 https://dai.google.com/linear/hls/event/hrbOtQQPSNWwDz3KXKbd7w/master.m3u8
+#EXTINF:-1 tvg-name="Alappuzha vs Trichur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100402" group-title="Kerala NSK T20 Trophy",Alappuzha vs Trichur
+https://dai.google.com/linear/hls/event/PcTUZOEDTWSm_Zw0T7o7Zg/master.m3u8
 #EXTINF:-1 tvg-name="Bulgaria vs Gibraltar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101826" group-title="Continental Cup T20I, 2024",Bulgaria vs Gibraltar
 https://dai.google.com/linear/hls/event/71qUE-EvR1C-MwEbe25mXQ/master.m3u8
-#EXTINF:-1 tvg-name="Müller/Tillmann vs Vergé-Dépré, A./Mäder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101942" group-title="Volleyball Womens Beach Pro Tour",Müller/Tillmann vs Vergé-Dépré, A./Mäder
-https://dai.fancode.com/primary/101942_english_hls_6641adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Hughes/Cheng vs Xue/X. Y. Xia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101941" group-title="Volleyball Womens Beach Pro Tour",Hughes/Cheng vs Xue/X. Y. Xia
+#EXTINF:-1 tvg-name="Mariafe/Clancy vs Álvarez M/Moreno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101944" group-title="Volleyball Womens Beach Pro Tour",Mariafe/Clancy vs Álvarez M/Moreno
+https://dai.fancode.com/primary/101944_english_hls_6774adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Carol/Barbara vs Gottardi/Menegatti" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101943" group-title="Volleyball Womens Beach Pro Tour",Carol/Barbara vs Gottardi/Menegatti
  Free Trial attempt unsuccessful......it requires Premium Account
