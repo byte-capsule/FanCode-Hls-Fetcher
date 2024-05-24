@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Abu Dhabi vs Fujairah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101453" group-title="Emirates D10 Tournament, 2024",Abu Dhabi vs Fujairah
-https://dai.google.com/linear/hls/event/GVJqYabRQYiGqRfB-7_xmQ/master.m3u8
+#EXTINF:-1 tvg-name="Dubai vs Emirates Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101454" group-title="Emirates D10 Tournament, 2024",Dubai vs Emirates Red
+https://dai.google.com/linear/hls/event/NSQaqESfR2W8gojW2ZjlRQ/master.m3u8
 #EXTINF:-1 tvg-name="Kuwait Swedish vs CECC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100200" group-title="KCC T20 Elite Cup 3rd Edition, 2024",Kuwait Swedish vs CECC
 https://dai.google.com/linear/hls/event/RsupTepoT8iA_hXc55K1sg/master.m3u8
 #EXTINF:-1 tvg-name="Rangers CC vs Coimbra Knights" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101099" group-title="ECSN Portugal, 2024",Rangers CC vs Coimbra Knights
@@ -17,7 +17,3 @@ https://dai.fancode.com/primary/102028_english_hls_9724adfreeta-no/index.m3u8
 https://dai.google.com/linear/hls/event/SlnPccwoRz6lZsUGDxlL_Q/master.m3u8
 #EXTINF:-1 tvg-name="Netherlands vs Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101139" group-title="Volleyball Nations League Men's",Netherlands vs Poland
 https://dai.google.com/linear/hls/event/TmHx5Tu0SPScX_ejbpAn7Q/master.m3u8
-#EXTINF:-1 tvg-name="Stam/Schoon vs Tainá/Victoria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101952" group-title="Volleyball Womens Beach Pro Tour",Stam/Schoon vs Tainá/Victoria
-https://dai.fancode.com/primary/101952_english_hls_297adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Nuss/Kloth vs Pinheiro/Castro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101951" group-title="Volleyball Womens Beach Pro Tour",Nuss/Kloth vs Pinheiro/Castro
-https://dai.fancode.com/primary/101951_english_hls_4295adfreeta-no/index.m3u8
