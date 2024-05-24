@@ -3,6 +3,10 @@
 https://dai.google.com/linear/hls/event/7oTZNvkDSw24P3FTBoEaeQ/master.m3u8
 #EXTINF:-1 tvg-name="Kuwait Nationals vs NCM Investment-B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99757" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",Kuwait Nationals vs NCM Investment-B
 https://dai.google.com/linear/hls/event/0sSoohfQRbG4Mlp29VFpFw/master.m3u8
+#EXTINF:-1 tvg-name="Tallinn Strikers vs Tallinn Stallions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101048" group-title="ECS Estonia, 2024",Tallinn Strikers vs Tallinn Stallions
+https://dai.google.com/linear/hls/event/naKtMX39TsC1wYxO7H9llg/master.m3u8
+#EXTINF:-1 tvg-name="Bulgaria vs Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101828" group-title="Continental Cup T20I, 2024",Bulgaria vs Romania
+https://dai.google.com/linear/hls/event/MgdEzs0VQeitXXqLC53FJQ/master.m3u8
 #EXTINF:-1 tvg-name="DTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100936" group-title="DTM 2024",DTM
 https://dai.google.com/linear/hls/event/46cNRWz9SQKLq0VsYM7PWw/master.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101410" group-title="Soudal Open",Day 2
