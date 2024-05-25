@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Dubai vs Fujairah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101456" group-title="Emirates D10 Tournament, 2024",Dubai vs Fujairah
-https://dai.google.com/linear/hls/event/QlUs5OeeR6KKM5zvMRsLDQ/master.m3u8
-#EXTINF:-1 tvg-name="Prim Height Transport vs UAE Kings XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100899" group-title="Bukhatir T10 League, 2024",Prim Height Transport vs UAE Kings XI
-https://dai.google.com/linear/hls/event/arazVr4DSNm9LLws_3cMfg/master.m3u8
+#EXTINF:-1 tvg-name="Ajman vs Emirates Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101457" group-title="Emirates D10 Tournament, 2024",Ajman vs Emirates Red
+https://dai.google.com/linear/hls/event/ZtVjIWpFTyaMKUDKR2aZKw/master.m3u8
 #EXTINF:-1 tvg-name="Estonia vs Malta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101822" group-title="ECI Estonia-Malta, 2024",Estonia vs Malta
 https://dai.google.com/linear/hls/event/EtkhXMhlSkyiSoOz9O23kA/master.m3u8
 #EXTINF:-1 tvg-name="Romania vs Gibraltar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101831" group-title="Continental Cup T20I, 2024",Romania vs Gibraltar
@@ -11,17 +9,13 @@ https://dai.google.com/linear/hls/event/qbG0h_n1SoaxISkA-3WOQQ/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8
 #EXTINF:-1 tvg-name="USA vs Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99288" group-title="Bangladesh tour of USA, 2024",USA vs Bangladesh
 https://dai.google.com/linear/hls/event/FyJKN1pBSzyLTlW2e5MDmg/master.m3u8
-#EXTINF:-1 tvg-name="Qualifying" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95153" group-title="F1 GRAND PRIX DE MONACO 2024",Qualifying
-https://dai.google.com/linear/hls/event/kCgXiyU_QkGxktrHh6gOKA/master.m3u8
 #EXTINF:-1 tvg-name="DTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100938" group-title="DTM 2024",DTM
 https://dai.google.com/linear/hls/event/sdDCVhbsQpu1ozwFS-yvww/master.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101411" group-title="Soudal Open",Day 3
 https://dai.google.com/linear/hls/event/DKUXh1haSCOHUbbOqpuHRA/master.m3u8
-#EXTINF:-1 tvg-name="KR Sports vs Chennai Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100321" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",KR Sports vs Chennai Sports
-https://dai.google.com/linear/hls/event/a7H6GsDeSWu8Mfm_l9-uTA/master.m3u8
 #EXTINF:-1 tvg-name="Turkey vs France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101144" group-title="Volleyball Nations League Men's",Turkey vs France
 https://dai.google.com/linear/hls/event/Dh7oaIwcQICl1mjApkxs_g/master.m3u8
 #EXTINF:-1 tvg-name="Tina/Anastasija vs Stam/Schoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102496" group-title="Volleyball Womens Beach Pro Tour",Tina/Anastasija vs Stam/Schoon
 https://dai.fancode.com/primary/102496_english_hls_3901adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Ana Patrícia/Duda vs Nuss/Kloth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102495" group-title="Volleyball Womens Beach Pro Tour",Ana Patrícia/Duda vs Nuss/Kloth
- Free Trial attempt unsuccessful......it requires Premium Account
+https://dai.fancode.com/primary/102495_english_hls_9235adfreeta-di/index.m3u8
