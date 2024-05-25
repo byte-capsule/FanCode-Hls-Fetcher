@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Emirates Red vs Emirates Blues" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101455" group-title="Emirates D10 Tournament, 2024",Emirates Red vs Emirates Blues
-https://dai.google.com/linear/hls/event/2slDa66ZSTKDRN2vphCAsw/master.m3u8
+#EXTINF:-1 tvg-name="Dubai vs Fujairah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101456" group-title="Emirates D10 Tournament, 2024",Dubai vs Fujairah
+https://dai.google.com/linear/hls/event/QlUs5OeeR6KKM5zvMRsLDQ/master.m3u8
 #EXTINF:-1 tvg-name="Hungary vs Bulgaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101830" group-title="Continental Cup T20I, 2024",Hungary vs Bulgaria
 https://dai.google.com/linear/hls/event/VXCqKae4SzyPHBbup_CbyA/master.m3u8
 #EXTINF:-1 tvg-name="Malta Women vs Estonia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102180" group-title="ECI-W Estonia-Malta, 2024",Malta Women vs Estonia Women
@@ -11,5 +11,7 @@ https://dai.fancode.com/primary/100187_english_hls_6120adfreeta-no/index.m3u8
 https://dai.google.com/linear/hls/event/Xw-8o1QORvCezp4tZjHHXw/master.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101411" group-title="Soudal Open",Day 3
 https://dai.google.com/linear/hls/event/DKUXh1haSCOHUbbOqpuHRA/master.m3u8
+#EXTINF:-1 tvg-name="Alathankarai Club vs Samy Academy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100320" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",Alathankarai Club vs Samy Academy
+https://dai.google.com/linear/hls/event/o75ASO-SRMiLJp-rmWpfPA/master.m3u8
 #EXTINF:-1 tvg-name="Slovenia vs Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101143" group-title="Volleyball Nations League Men's",Slovenia vs Canada
 https://dai.google.com/linear/hls/event/XiJe_zlUTUCXC92W-df3mQ/master.m3u8
