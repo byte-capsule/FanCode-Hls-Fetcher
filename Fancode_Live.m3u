@@ -5,13 +5,9 @@ https://dai.google.com/linear/hls/event/Sl02N1TbSWOP7o30mz49BA/master.m3u8
 https://dai.google.com/linear/hls/event/fOtKYiEWSe-6mUvyFJTXGw/master.m3u8
 #EXTINF:-1 tvg-name="Jupiter Sports Club vs Komaleeswarar Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101601" group-title="Champion of Champions T20, 2024",Jupiter Sports Club vs Komaleeswarar Cricket Club
 https://dai.google.com/linear/hls/event/E3_0IGwRSru4D__MUdET5w/master.m3u8
-#EXTINF:-1 tvg-name="Garnet Cricket Club vs Gems Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101598" group-title="Champion of Champions T20, 2024",Garnet Cricket Club vs Gems Cricket Club
-https://dai.google.com/linear/hls/event/gWXDLCTgQJS96Ol_nqpgAA/master.m3u8
-#EXTINF:-1 tvg-name="Romania vs Hungary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101829" group-title="Continental Cup T20I, 2024",Romania vs Hungary
-https://dai.google.com/linear/hls/event/eTBPK3EiQ0ec5NnvCuaaHg/master.m3u8
 #EXTINF:-1 tvg-name="Malta vs Estonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101820" group-title="ECI Estonia-Malta, 2024",Malta vs Estonia
 https://dai.google.com/linear/hls/event/nv1qQvfQSVKTmBS10vvkMw/master.m3u8
-#EXTINF:-1 tvg-name="Consadole Sapporo vs Kashima Antlers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101666" group-title="J League 2024",Consadole Sapporo vs Kashima Antlers
-https://dai.fancode.com/primary/101666_english_hls_377adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Romania vs Hungary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101829" group-title="Continental Cup T20I, 2024",Romania vs Hungary
+https://dai.google.com/linear/hls/event/eTBPK3EiQ0ec5NnvCuaaHg/master.m3u8
 #EXTINF:-1 tvg-name="Durai Singam vs Nellai Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100319" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",Durai Singam vs Nellai Kings
 https://dai.google.com/linear/hls/event/9JYaRh9gT86IdKmQVgMMyw/master.m3u8
