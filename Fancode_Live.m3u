@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Ajman vs Emirates Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101457" group-title="Emirates D10 Tournament, 2024",Ajman vs Emirates Red
 https://dai.google.com/linear/hls/event/ZtVjIWpFTyaMKUDKR2aZKw/master.m3u8
+#EXTINF:-1 tvg-name="Mawa Chemicals vs Seven Districts Hybrid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100900" group-title="Bukhatir T10 League, 2024",Mawa Chemicals vs Seven Districts Hybrid
+https://dai.google.com/linear/hls/event/k4QuBFIuTQSAZfF7u_oMYg/master.m3u8
 #EXTINF:-1 tvg-name="Estonia vs Malta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101822" group-title="ECI Estonia-Malta, 2024",Estonia vs Malta
 https://dai.google.com/linear/hls/event/EtkhXMhlSkyiSoOz9O23kA/master.m3u8
 #EXTINF:-1 tvg-name="Romania vs Gibraltar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101831" group-title="Continental Cup T20I, 2024",Romania vs Gibraltar
