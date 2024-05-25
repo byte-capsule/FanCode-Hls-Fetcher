@@ -9,15 +9,21 @@ https://dai.google.com/linear/hls/event/QhD5x17MQcK33rRlTKkotg/master.m3u8
 https://dai.google.com/linear/hls/event/k4QuBFIuTQSAZfF7u_oMYg/master.m3u8
 #EXTINF:-1 tvg-name="Romania vs Gibraltar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101831" group-title="Continental Cup T20I, 2024",Romania vs Gibraltar
 https://dai.google.com/linear/hls/event/qbG0h_n1SoaxISkA-3WOQQ/master.m3u8
-#EXTINF:-1 tvg-name="England vs Pakistan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99901" group-title="Pakistan tour of England, 2024",England vs Pakistan
-https://pubads.g.doubleclick.net/ssai/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8
 #EXTINF:-1 tvg-name="USA vs Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99288" group-title="Bangladesh tour of USA, 2024",USA vs Bangladesh
 https://dai.google.com/linear/hls/event/FyJKN1pBSzyLTlW2e5MDmg/master.m3u8
 #EXTINF:-1 tvg-name="Al Ain vs Yokohama F. Marinos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93368" group-title="AFC Champions League",Al Ain vs Yokohama F. Marinos
 https://dai.google.com/linear/hls/event/N5gqG6a1QAa59GDeqlJR6A/master.m3u8
-#EXTINF:-1 tvg-name="DTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100938" group-title="DTM 2024",DTM
-https://dai.google.com/linear/hls/event/sdDCVhbsQpu1ozwFS-yvww/master.m3u8
+#EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101938" group-title="Senior PGA Championships",Day 3
+https://dai.google.com/linear/hls/event/ekk41KafS6GOe6KaoZmAUA/master.m3u8
+#EXTINF:-1 tvg-name="Japan vs Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101361" group-title="Volleyball Nations League Men's",Japan vs Italy
+https://dai.google.com/linear/hls/event/gqUCE8SAR62DptD_D3tN3w/master.m3u8
+#EXTINF:-1 tvg-name="Bulgaria vs USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101360" group-title="Volleyball Nations League Men's",Bulgaria vs USA
+https://dai.google.com/linear/hls/event/zZsbwEmdSK6i3DqGiv3rOQ/master.m3u8
 #EXTINF:-1 tvg-name="Ehlers/Wickler vs Evans/Budinger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102504" group-title="Volleyball Mens Beach Pro Tour",Ehlers/Wickler vs Evans/Budinger
 https://dai.fancode.com/primary/102504_english_hls_9415adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="van de Velde/Immers vs Łosiak/Bryl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102503" group-title="Volleyball Mens Beach Pro Tour",van de Velde/Immers vs Łosiak/Bryl
 https://dai.fancode.com/primary/102503_english_hls_3237adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Åhman/Hellvig vs Hodges/Schubert" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102506" group-title="Volleyball Mens Beach Pro Tour",Åhman/Hellvig vs Hodges/Schubert
+ Free Trial attempt unsuccessful......it requires Premium Account
+#EXTINF:-1 tvg-name="Nicolaidis/Carracher vs George/Andre" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102505" group-title="Volleyball Mens Beach Pro Tour",Nicolaidis/Carracher vs George/Andre
+ Free Trial attempt unsuccessful......it requires Premium Account
