@@ -1,10 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Max Club vs Tokyo Falcons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101859" group-title="JCL T20, 2024",Max Club vs Tokyo Falcons
+#EXTINF:-1 tvg-name="Tokyo Falcons vs Max Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101859" group-title="JCL T20, 2024",Tokyo Falcons vs Max Club
 https://dai.google.com/linear/hls/event/Sl02N1TbSWOP7o30mz49BA/master.m3u8
 #EXTINF:-1 tvg-name="Jupiter Sports Club vs Komaleeswarar Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101601" group-title="Champion of Champions T20, 2024",Jupiter Sports Club vs Komaleeswarar Cricket Club
 https://dai.google.com/linear/hls/event/E3_0IGwRSru4D__MUdET5w/master.m3u8
 #EXTINF:-1 tvg-name="Garnet Cricket Club vs Gems Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101598" group-title="Champion of Champions T20, 2024",Garnet Cricket Club vs Gems Cricket Club
 https://dai.google.com/linear/hls/event/gWXDLCTgQJS96Ol_nqpgAA/master.m3u8
+#EXTINF:-1 tvg-name="Alappuzha vs Trivandrum" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100404" group-title="Kerala NSK T20 Trophy",Alappuzha vs Trivandrum
+https://dai.google.com/linear/hls/event/fOtKYiEWSe-6mUvyFJTXGw/master.m3u8
 #EXTINF:-1 tvg-name="Consadole Sapporo vs Kashima Antlers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101666" group-title="J League 2024",Consadole Sapporo vs Kashima Antlers
 https://dai.fancode.com/primary/101666_english_hls_377adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Jayachitra Club vs PRIST University" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100318" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",Jayachitra Club vs PRIST University
