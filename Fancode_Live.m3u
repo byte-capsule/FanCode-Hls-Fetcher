@@ -1,15 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Fujairah vs Sharjah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101458" group-title="Emirates D10 Tournament, 2024",Fujairah vs Sharjah
-https://dai.google.com/linear/hls/event/LVc5wiAYTvCBfX_82bqO4w/master.m3u8
-#EXTINF:-1 tvg-name="Al Mulla Exchange vs Al Rasheedi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100201" group-title="KCC T20 Elite Cup 3rd Edition, 2024",Al Mulla Exchange vs Al Rasheedi
-https://dai.google.com/linear/hls/event/QhD5x17MQcK33rRlTKkotg/master.m3u8
-#EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101938" group-title="Senior PGA Championships",Day 3
-https://dai.google.com/linear/hls/event/ekk41KafS6GOe6KaoZmAUA/master.m3u8
-#EXTINF:-1 tvg-name="Japan vs Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101361" group-title="Volleyball Nations League Men's",Japan vs Italy
-https://dai.google.com/linear/hls/event/gqUCE8SAR62DptD_D3tN3w/master.m3u8
-#EXTINF:-1 tvg-name="Bulgaria vs USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101360" group-title="Volleyball Nations League Men's",Bulgaria vs USA
-https://dai.google.com/linear/hls/event/zZsbwEmdSK6i3DqGiv3rOQ/master.m3u8
-#EXTINF:-1 tvg-name="Ehlers/Wickler vs Evans/Budinger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102504" group-title="Volleyball Mens Beach Pro Tour",Ehlers/Wickler vs Evans/Budinger
-https://dai.fancode.com/primary/102504_english_hls_9415adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="van de Velde/Immers vs Łosiak/Bryl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102503" group-title="Volleyball Mens Beach Pro Tour",van de Velde/Immers vs Łosiak/Bryl
-https://dai.fancode.com/primary/102503_english_hls_3237adfreeta-di/index.m3u8
