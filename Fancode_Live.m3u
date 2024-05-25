@@ -1,16 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Tokyo Falcons vs Max Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101859" group-title="JCL T20, 2024",Tokyo Falcons vs Max Club
-https://dai.google.com/linear/hls/event/Sl02N1TbSWOP7o30mz49BA/master.m3u8
 #EXTINF:-1 tvg-name="Singam Puli Cricket Club vs Free Lancers Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101602" group-title="Champion of Champions T20, 2024",Singam Puli Cricket Club vs Free Lancers Cricket Club
 https://dai.google.com/linear/hls/event/gT9gc9AmTvK3K443qzrSgg/master.m3u8
 #EXTINF:-1 tvg-name="Rising Stars Cricket Club vs Egmore Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101605" group-title="Champion of Champions T20, 2024",Rising Stars Cricket Club vs Egmore Club
 https://dai.google.com/linear/hls/event/U1380yqhT-uq_b-nvAk-wg/master.m3u8
 #EXTINF:-1 tvg-name="Alappuzha vs Trivandrum" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100404" group-title="Kerala NSK T20 Trophy",Alappuzha vs Trivandrum
 https://dai.google.com/linear/hls/event/fOtKYiEWSe-6mUvyFJTXGw/master.m3u8
-#EXTINF:-1 tvg-name="Malta vs Estonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101820" group-title="ECI Estonia-Malta, 2024",Malta vs Estonia
-https://dai.google.com/linear/hls/event/nv1qQvfQSVKTmBS10vvkMw/master.m3u8
 #EXTINF:-1 tvg-name="Romania vs Hungary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101829" group-title="Continental Cup T20I, 2024",Romania vs Hungary
 https://dai.google.com/linear/hls/event/eTBPK3EiQ0ec5NnvCuaaHg/master.m3u8
+#EXTINF:-1 tvg-name="Estonia Women vs Malta Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102179" group-title="ECI-W Estonia-Malta, 2024",Estonia Women vs Malta Women
+https://dai.google.com/linear/hls/event/KhmBzT1HTlurDt8IV_lyvQ/master.m3u8
 #EXTINF:-1 tvg-name="Carol/Barbara vs Brunner/Hüberli" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102490" group-title="Volleyball Womens Beach Pro Tour",Carol/Barbara vs Brunner/Hüberli
 https://dai.fancode.com/primary/102490_english_hls_9770adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Xue/X. Y. Xia vs Tainá/Victoria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102489" group-title="Volleyball Womens Beach Pro Tour",Xue/X. Y. Xia vs Tainá/Victoria
