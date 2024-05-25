@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Ajman vs Emirates Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101457" group-title="Emirates D10 Tournament, 2024",Ajman vs Emirates Red
 https://dai.google.com/linear/hls/event/ZtVjIWpFTyaMKUDKR2aZKw/master.m3u8
+#EXTINF:-1 tvg-name="Sharjah vs Fujairah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101458" group-title="Emirates D10 Tournament, 2024",Sharjah vs Fujairah
+https://dai.google.com/linear/hls/event/LVc5wiAYTvCBfX_82bqO4w/master.m3u8
 #EXTINF:-1 tvg-name="Fighters CC vs Oeiras" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101101" group-title="ECSN Portugal, 2024",Fighters CC vs Oeiras
 https://dai.google.com/linear/hls/event/oHeHatsdQFaZt-iEIOyY-Q/master.m3u8
 #EXTINF:-1 tvg-name="Al Mulla Exchange vs Al Rasheedi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100201" group-title="KCC T20 Elite Cup 3rd Edition, 2024",Al Mulla Exchange vs Al Rasheedi
 https://dai.google.com/linear/hls/event/QhD5x17MQcK33rRlTKkotg/master.m3u8
 #EXTINF:-1 tvg-name="Mawa Chemicals vs Seven Districts Hybrid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100900" group-title="Bukhatir T10 League, 2024",Mawa Chemicals vs Seven Districts Hybrid
 https://dai.google.com/linear/hls/event/k4QuBFIuTQSAZfF7u_oMYg/master.m3u8
-#EXTINF:-1 tvg-name="Romania vs Gibraltar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101831" group-title="Continental Cup T20I, 2024",Romania vs Gibraltar
-https://dai.google.com/linear/hls/event/qbG0h_n1SoaxISkA-3WOQQ/master.m3u8
 #EXTINF:-1 tvg-name="USA vs Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99288" group-title="Bangladesh tour of USA, 2024",USA vs Bangladesh
 https://dai.google.com/linear/hls/event/FyJKN1pBSzyLTlW2e5MDmg/master.m3u8
 #EXTINF:-1 tvg-name="Al Ain vs Yokohama F. Marinos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93368" group-title="AFC Champions League",Al Ain vs Yokohama F. Marinos
