@@ -3,15 +3,15 @@
 https://dai.google.com/linear/hls/event/U1380yqhT-uq_b-nvAk-wg/master.m3u8
 #EXTINF:-1 tvg-name="Singam Puli Cricket Club vs Free Lancers Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101602" group-title="Champion of Champions T20, 2024",Singam Puli Cricket Club vs Free Lancers Cricket Club
 https://dai.google.com/linear/hls/event/gT9gc9AmTvK3K443qzrSgg/master.m3u8
+#EXTINF:-1 tvg-name="Estonia Women vs Malta Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102179" group-title="ECI-W Estonia-Malta, 2024",Estonia Women vs Malta Women
+https://dai.google.com/linear/hls/event/KhmBzT1HTlurDt8IV_lyvQ/master.m3u8
 #EXTINF:-1 tvg-name="Alappuzha vs Trivandrum" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100404" group-title="Kerala NSK T20 Trophy",Alappuzha vs Trivandrum
 https://dai.google.com/linear/hls/event/fOtKYiEWSe-6mUvyFJTXGw/master.m3u8
 #EXTINF:-1 tvg-name="Romania vs Hungary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101829" group-title="Continental Cup T20I, 2024",Romania vs Hungary
 https://dai.google.com/linear/hls/event/eTBPK3EiQ0ec5NnvCuaaHg/master.m3u8
-#EXTINF:-1 tvg-name="Estonia Women vs Malta Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102179" group-title="ECI-W Estonia-Malta, 2024",Estonia Women vs Malta Women
-https://dai.google.com/linear/hls/event/KhmBzT1HTlurDt8IV_lyvQ/master.m3u8
 #EXTINF:-1 tvg-name="Sprint Race" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95389" group-title="F3 MONACO 2024",Sprint Race
 https://dai.google.com/linear/hls/event/voYOGGq2Txe4oFRcJwMGtg/master.m3u8
-#EXTINF:-1 tvg-name="Carol/Barbara vs Brunner/Hüberli" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102490" group-title="Volleyball Womens Beach Pro Tour",Carol/Barbara vs Brunner/Hüberli
-https://dai.fancode.com/primary/102490_english_hls_9770adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Xue/X. Y. Xia vs Tainá/Victoria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102489" group-title="Volleyball Womens Beach Pro Tour",Xue/X. Y. Xia vs Tainá/Victoria
-https://dai.fancode.com/primary/102489_english_hls_3831adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Gottardi/Menegatti vs Tina/Anastasija" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102492" group-title="Volleyball Womens Beach Pro Tour",Gottardi/Menegatti vs Tina/Anastasija
+https://dai.fancode.com/primary/102492_english_hls_6790adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Vergé-Dépré, A./Mäder vs Nuss/Kloth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102491" group-title="Volleyball Womens Beach Pro Tour",Vergé-Dépré, A./Mäder vs Nuss/Kloth
+https://dai.fancode.com/primary/102491_english_hls_9719adfreeta-no/index.m3u8
