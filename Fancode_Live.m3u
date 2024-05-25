@@ -9,15 +9,19 @@ https://dai.google.com/linear/hls/event/EtkhXMhlSkyiSoOz9O23kA/master.m3u8
 https://dai.google.com/linear/hls/event/qbG0h_n1SoaxISkA-3WOQQ/master.m3u8
 #EXTINF:-1 tvg-name="England vs Pakistan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99901" group-title="Pakistan tour of England, 2024",England vs Pakistan
 https://pubads.g.doubleclick.net/ssai/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8
+#EXTINF:-1 tvg-name="USA vs Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99288" group-title="Bangladesh tour of USA, 2024",USA vs Bangladesh
+https://dai.google.com/linear/hls/event/FyJKN1pBSzyLTlW2e5MDmg/master.m3u8
 #EXTINF:-1 tvg-name="Qualifying" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95153" group-title="F1 GRAND PRIX DE MONACO 2024",Qualifying
 https://dai.google.com/linear/hls/event/kCgXiyU_QkGxktrHh6gOKA/master.m3u8
+#EXTINF:-1 tvg-name="DTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100938" group-title="DTM 2024",DTM
+https://dai.google.com/linear/hls/event/sdDCVhbsQpu1ozwFS-yvww/master.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101411" group-title="Soudal Open",Day 3
 https://dai.google.com/linear/hls/event/DKUXh1haSCOHUbbOqpuHRA/master.m3u8
 #EXTINF:-1 tvg-name="KR Sports vs Chennai Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100321" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",KR Sports vs Chennai Sports
 https://dai.google.com/linear/hls/event/a7H6GsDeSWu8Mfm_l9-uTA/master.m3u8
 #EXTINF:-1 tvg-name="Turkey vs France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101144" group-title="Volleyball Nations League Men's",Turkey vs France
 https://dai.google.com/linear/hls/event/Dh7oaIwcQICl1mjApkxs_g/master.m3u8
-#EXTINF:-1 tvg-name="Brunner/Hüberli vs Müller/Tillmann" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102494" group-title="Volleyball Womens Beach Pro Tour",Brunner/Hüberli vs Müller/Tillmann
-https://dai.fancode.com/primary/102494_english_hls_9042adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Álvarez M/Moreno vs Xue/X. Y. Xia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102493" group-title="Volleyball Womens Beach Pro Tour",Álvarez M/Moreno vs Xue/X. Y. Xia
-https://dai.fancode.com/primary/102493_english_hls_4207adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Tina/Anastasija vs Stam/Schoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102496" group-title="Volleyball Womens Beach Pro Tour",Tina/Anastasija vs Stam/Schoon
+https://dai.fancode.com/primary/102496_english_hls_3901adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Ana Patrícia/Duda vs Nuss/Kloth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102495" group-title="Volleyball Womens Beach Pro Tour",Ana Patrícia/Duda vs Nuss/Kloth
+ Free Trial attempt unsuccessful......it requires Premium Account
