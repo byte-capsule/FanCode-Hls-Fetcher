@@ -11,13 +11,13 @@ https://dai.google.com/linear/hls/event/qbG0h_n1SoaxISkA-3WOQQ/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8
 #EXTINF:-1 tvg-name="USA vs Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99288" group-title="Bangladesh tour of USA, 2024",USA vs Bangladesh
 https://dai.google.com/linear/hls/event/FyJKN1pBSzyLTlW2e5MDmg/master.m3u8
+#EXTINF:-1 tvg-name="Al Ain vs Yokohama F. Marinos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="93368" group-title="AFC Champions League",Al Ain vs Yokohama F. Marinos
+https://dai.google.com/linear/hls/event/N5gqG6a1QAa59GDeqlJR6A/master.m3u8
 #EXTINF:-1 tvg-name="DTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100938" group-title="DTM 2024",DTM
 https://dai.google.com/linear/hls/event/sdDCVhbsQpu1ozwFS-yvww/master.m3u8
-#EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101411" group-title="Soudal Open",Day 3
-https://dai.google.com/linear/hls/event/DKUXh1haSCOHUbbOqpuHRA/master.m3u8
 #EXTINF:-1 tvg-name="Turkey vs France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101144" group-title="Volleyball Nations League Men's",Turkey vs France
 https://dai.google.com/linear/hls/event/Dh7oaIwcQICl1mjApkxs_g/master.m3u8
-#EXTINF:-1 tvg-name="Tina/Anastasija vs Stam/Schoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102496" group-title="Volleyball Womens Beach Pro Tour",Tina/Anastasija vs Stam/Schoon
-https://dai.fancode.com/primary/102496_english_hls_3901adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Ana Patrícia/Duda vs Nuss/Kloth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102495" group-title="Volleyball Womens Beach Pro Tour",Ana Patrícia/Duda vs Nuss/Kloth
-https://dai.fancode.com/primary/102495_english_hls_9235adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Ehlers/Wickler vs Evans/Budinger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102504" group-title="Volleyball Mens Beach Pro Tour",Ehlers/Wickler vs Evans/Budinger
+https://dai.fancode.com/primary/102504_english_hls_9415adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="van de Velde/Immers vs Łosiak/Bryl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102503" group-title="Volleyball Mens Beach Pro Tour",van de Velde/Immers vs Łosiak/Bryl
+https://dai.fancode.com/primary/102503_english_hls_3237adfreeta-di/index.m3u8
