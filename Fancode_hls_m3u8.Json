@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 7,
-  "updated_on": "25-05-2024 on 3:41:03 PM \ud83c\udf1e",
+  "channels_amount": 9,
+  "updated_on": "25-05-2024 on 4:07:05 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -28,6 +28,17 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "Continental Cup T20I, 2024",
+      "match_id": 101830,
+      "match_name": "Hungary vs Bulgaria",
+      "team_1": "Hungary",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HUNG@2x.png",
+      "team_2": "Bulgaria",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BULG@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/VXCqKae4SzyPHBbup_CbyA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "ECI-W Estonia-Malta, 2024",
       "match_id": 102179,
       "match_name": "Estonia Women vs Malta Women",
@@ -49,15 +60,37 @@
       "stream_link": "https://dai.google.com/linear/hls/event/fOtKYiEWSe-6mUvyFJTXGw/master.m3u8"
     },
     {
-      "event_catagory": "racing",
-      "event_name": "F3 MONACO 2024",
-      "match_id": 95389,
-      "match_name": "Sprint Race",
-      "team_1": "Sprint Race",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png",
-      "team_2": "Monaco",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/voYOGGq2Txe4oFRcJwMGtg/master.m3u8"
+      "event_catagory": "football",
+      "event_name": "A League Men 2023-24",
+      "match_id": 101825,
+      "match_name": "Central Coast Mariners vs Melbourne Victory",
+      "team_1": "Central Coast Mariners",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CENTA@2x.png",
+      "team_2": "Melbourne Victory",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLVA@2x.png",
+      "stream_link": "https://dai.fancode.com/primary/101825_english_hls_6241adfreeta-no/index.m3u8"
+    },
+    {
+      "event_catagory": "volleyball",
+      "event_name": "Volleyball Mens Beach Pro Tour",
+      "match_id": 102500,
+      "match_name": "Partain/Benesh vs Ehlers/Wickler",
+      "team_1": "Partain/Benesh",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-US@2x.png",
+      "team_2": "Ehlers/Wickler",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-GRM@2x.png",
+      "stream_link": "https://dai.fancode.com/primary/102500_english_hls_6322adfreeta-di/index.m3u8"
+    },
+    {
+      "event_catagory": "volleyball",
+      "event_name": "Volleyball Mens Beach Pro Tour",
+      "match_id": 102499,
+      "match_name": "\u0141osiak/Bryl vs Cottafava/Nicolai",
+      "team_1": "\u0141osiak/Bryl",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-PLN@2x.png",
+      "team_2": "Cottafava/Nicolai",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-ITY@2x.png",
+      "stream_link": " Free Trial attempt unsuccessful......it requires Premium Account"
     },
     {
       "event_catagory": "volleyball",
@@ -69,17 +102,6 @@
       "team_2": "Tina/Anastasija",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-LATV@2x.png",
       "stream_link": "https://dai.fancode.com/primary/102492_english_hls_6790adfreeta-di/index.m3u8"
-    },
-    {
-      "event_catagory": "volleyball",
-      "event_name": "Volleyball Womens Beach Pro Tour",
-      "match_id": 102491,
-      "match_name": "Verg\u00e9-D\u00e9pr\u00e9, A./M\u00e4der vs Nuss/Kloth",
-      "team_1": "Verg\u00e9-D\u00e9pr\u00e9, A./M\u00e4der",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-SWZ@2x.png",
-      "team_2": "Nuss/Kloth",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-US@2x.png",
-      "stream_link": "https://dai.fancode.com/primary/102491_english_hls_9719adfreeta-no/index.m3u8"
     }
   ]
 }
