@@ -1,23 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Emirates Red vs Emirates Blues" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101455" group-title="Emirates D10 Tournament, 2024",Emirates Red vs Emirates Blues
 https://dai.google.com/linear/hls/event/2slDa66ZSTKDRN2vphCAsw/master.m3u8
-#EXTINF:-1 tvg-name="Rising Stars Cricket Club vs Egmore Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101605" group-title="Champion of Champions T20, 2024",Rising Stars Cricket Club vs Egmore Club
-https://dai.google.com/linear/hls/event/U1380yqhT-uq_b-nvAk-wg/master.m3u8
 #EXTINF:-1 tvg-name="Malta vs Estonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101821" group-title="ECI Estonia-Malta, 2024",Malta vs Estonia
 https://dai.google.com/linear/hls/event/0sINQcXPSs-x00PMyjSGTg/master.m3u8
 #EXTINF:-1 tvg-name="Hungary vs Bulgaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101830" group-title="Continental Cup T20I, 2024",Hungary vs Bulgaria
 https://dai.google.com/linear/hls/event/VXCqKae4SzyPHBbup_CbyA/master.m3u8
 #EXTINF:-1 tvg-name="Central Coast Mariners vs Melbourne Victory" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101825" group-title="A League Men 2023-24",Central Coast Mariners vs Melbourne Victory
 https://dai.fancode.com/primary/101825_english_hls_6241adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Practice 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95152" group-title="F1 GRAND PRIX DE MONACO 2024",Practice 3
-https://dai.google.com/linear/hls/event/xjTuwmlhSuC-UHCmut_yIw/master.m3u8
-#EXTINF:-1 tvg-name="DTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100937" group-title="DTM 2024",DTM
-https://dai.google.com/linear/hls/event/978UAdqtTIizRDPn-btClQ/master.m3u8
+#EXTINF:-1 tvg-name="Wuhan Three Towns vs Meizhou Hakka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100187" group-title="Chinese Super League 2024",Wuhan Three Towns vs Meizhou Hakka
+https://dai.fancode.com/primary/100187_english_hls_6120adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Sprint Race" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95340" group-title="F2 MONACO 2024",Sprint Race
+https://dai.google.com/linear/hls/event/Xw-8o1QORvCezp4tZjHHXw/master.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101411" group-title="Soudal Open",Day 3
 https://dai.google.com/linear/hls/event/DKUXh1haSCOHUbbOqpuHRA/master.m3u8
 #EXTINF:-1 tvg-name="Slovenia vs Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101143" group-title="Volleyball Nations League Men's",Slovenia vs Canada
 https://dai.google.com/linear/hls/event/XiJe_zlUTUCXC92W-df3mQ/master.m3u8
-#EXTINF:-1 tvg-name="Åhman/Hellvig vs Evandro/Arthur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102502" group-title="Volleyball Mens Beach Pro Tour",Åhman/Hellvig vs Evandro/Arthur
-https://dai.fancode.com/primary/102502_english_hls_3455adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="George/Andre vs Perusic/Schweiner" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102501" group-title="Volleyball Mens Beach Pro Tour",George/Andre vs Perusic/Schweiner
- Free Trial attempt unsuccessful......it requires Premium Account
