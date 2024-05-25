@@ -2,19 +2,8 @@
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "channels_amount": 2,
-  "updated_on": "25-05-2024 on 10:28:13 AM \ud83c\udf1e",
+  "updated_on": "25-05-2024 on 10:40:59 AM \ud83c\udf1e",
   "channels": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Champion of Champions T20, 2024",
-      "match_id": 101598,
-      "match_name": "Garnet Cricket Club vs Gems Cricket Club",
-      "team_1": "Garnet Cricket Club",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR15@2x.png",
-      "team_2": "Gems Cricket Club",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR13@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/gWXDLCTgQJS96Ol_nqpgAA/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Champion of Champions T20, 2024",
@@ -25,6 +14,17 @@
       "team_2": "Komaleeswarar Cricket Club",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR16@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/E3_0IGwRSru4D__MUdET5w/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Champion of Champions T20, 2024",
+      "match_id": 101598,
+      "match_name": "Garnet Cricket Club vs Gems Cricket Club",
+      "team_1": "Garnet Cricket Club",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR15@2x.png",
+      "team_2": "Gems Cricket Club",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR13@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/gWXDLCTgQJS96Ol_nqpgAA/master.m3u8"
     }
   ]
 }
