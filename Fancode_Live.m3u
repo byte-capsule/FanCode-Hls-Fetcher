@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Ajman vs Emirates Blues" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101460" group-title="Emirates D10 Tournament, 2024",Ajman vs Emirates Blues
 https://dai.google.com/linear/hls/event/2rrmZRsUQZWqhkZmcFFcAA/master.m3u8
+#EXTINF:-1 tvg-name="Globelink Weststar vs Z Games Strikers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100902" group-title="Bukhatir T10 League, 2024",Globelink Weststar vs Z Games Strikers
+https://dai.google.com/linear/hls/event/QA6ZSbdXSuCYlblP3AiJcg/master.m3u8
 #EXTINF:-1 tvg-name="Malta vs Estonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101824" group-title="ECI Estonia-Malta, 2024",Malta vs Estonia
 https://dai.google.com/linear/hls/event/zuceDc7iTaqNnhOFipq7dQ/master.m3u8
 #EXTINF:-1 tvg-name="Gibraltar vs Hungary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101833" group-title="Continental Cup T20I, 2024",Gibraltar vs Hungary
@@ -15,8 +17,6 @@ https://dai.google.com/linear/hls/event/Za06OB11Th-IxaVlR_CeCw/master.m3u8
 https://dai.fancode.com/primary/100227_english_hls_5225adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Race" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95154" group-title="F1 GRAND PRIX DE MONACO 2024",Race
 https://dai.google.com/linear/hls/event/TixvPzxdQ_2hGxXUXH9uoQ/master.m3u8
-#EXTINF:-1 tvg-name="Day 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101412" group-title="Soudal Open",Day 4
-https://dai.google.com/linear/hls/event/JPK6JeoIS0C8-T94qs8GFg/master.m3u8
 #EXTINF:-1 tvg-name="Brazil vs Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101365" group-title="Volleyball Nations League Men's",Brazil vs Italy
 https://dai.google.com/linear/hls/event/VVo2_hgiQEO088m0S9eMPg/master.m3u8
 #EXTINF:-1 tvg-name="van de Velde/Immers vs George/Andre" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102507" group-title="Volleyball Mens Beach Pro Tour",van de Velde/Immers vs George/Andre
