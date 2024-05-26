@@ -1,20 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Tigers Cricket Club vs Alpha Quashers Yokohama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101861" group-title="JCL T20, 2024",Tigers Cricket Club vs Alpha Quashers Yokohama
-https://dai.google.com/linear/hls/event/krJC7j_RSwqHDl6vGw0Gew/master.m3u8
 #EXTINF:-1 tvg-name="Team Emerald vs Team Ruby" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101610" group-title="KCA TCM Pink T20 Challengers, 2024",Team Emerald vs Team Ruby
 https://dai.google.com/linear/hls/event/l8cMDRSqQWKYYGg3elzYAg/master.m3u8
 #EXTINF:-1 tvg-name="Garnet Cricket Club vs Komaleeswarar Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101607" group-title="Champion of Champions T20, 2024",Garnet Cricket Club vs Komaleeswarar Cricket Club
 https://dai.google.com/linear/hls/event/yDXrpXBqRIyyHA0cbBOhqw/master.m3u8
-#EXTINF:-1 tvg-name="Malta Women vs Estonia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102181" group-title="ECI-W Estonia-Malta, 2024",Malta Women vs Estonia Women
-https://dai.google.com/linear/hls/event/IFX4HL8VTDOUnYdaCOqJgA/master.m3u8
 #EXTINF:-1 tvg-name="Romania vs Bulgaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101832" group-title="Continental Cup T20I, 2024",Romania vs Bulgaria
 https://dai.google.com/linear/hls/event/SfsCVb2PQNuVIB18Er2MFA/master.m3u8
+#EXTINF:-1 tvg-name="Malta vs Estonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101823" group-title="ECI Estonia-Malta, 2024",Malta vs Estonia
+https://dai.google.com/linear/hls/event/mDPD7pCYQE-4I3AECuFySw/master.m3u8
 #EXTINF:-1 tvg-name="Urawa Red Diamonds vs Machida Zelvia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101675" group-title="J League 2024",Urawa Red Diamonds vs Machida Zelvia
 https://dai.fancode.com/primary/101675_english_hls_5452adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Feature Race" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95341" group-title="F2 MONACO 2024",Feature Race
 https://dai.google.com/linear/hls/event/p8G15X6CSY-xGHlxK1lueg/master.m3u8
-#EXTINF:-1 tvg-name="DTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100939" group-title="DTM 2024",DTM
-https://dai.google.com/linear/hls/event/V7KNSI3_SuG7FkC4b7ALuw/master.m3u8
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101412" group-title="Soudal Open",Day 4
 https://dai.google.com/linear/hls/event/JPK6JeoIS0C8-T94qs8GFg/master.m3u8
 #EXTINF:-1 tvg-name="Nuss/Kloth vs Stam/Schoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102520" group-title="Volleyball Womens Beach Pro Tour",Nuss/Kloth vs Stam/Schoon
