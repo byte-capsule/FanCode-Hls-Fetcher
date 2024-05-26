@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Sharjah vs Emirates Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101459" group-title="Emirates D10 Tournament, 2024",Sharjah vs Emirates Red
 https://dai.google.com/linear/hls/event/FUxGikB5Q82SxlVNtptocw/master.m3u8
-#EXTINF:-1 tvg-name="Malta Women vs Estonia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102182" group-title="ECI-W Estonia-Malta, 2024",Malta Women vs Estonia Women
-https://dai.google.com/linear/hls/event/1J8LYlsURK-0JgB7i_dj7A/master.m3u8
 #EXTINF:-1 tvg-name="Malta vs Estonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101824" group-title="ECI Estonia-Malta, 2024",Malta vs Estonia
 https://dai.google.com/linear/hls/event/zuceDc7iTaqNnhOFipq7dQ/master.m3u8
 #EXTINF:-1 tvg-name="Gibraltar vs Hungary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101833" group-title="Continental Cup T20I, 2024",Gibraltar vs Hungary
@@ -17,11 +15,11 @@ https://dai.google.com/linear/hls/event/Za06OB11Th-IxaVlR_CeCw/master.m3u8
 https://dai.fancode.com/primary/100227_english_hls_5225adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Race" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95154" group-title="F1 GRAND PRIX DE MONACO 2024",Race
 https://dai.google.com/linear/hls/event/TixvPzxdQ_2hGxXUXH9uoQ/master.m3u8
-#EXTINF:-1 tvg-name="DTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100940" group-title="DTM 2024",DTM
-https://dai.google.com/linear/hls/event/mBznkP_9SiKWVlz248zkbg/master.m3u8
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101412" group-title="Soudal Open",Day 4
 https://dai.google.com/linear/hls/event/JPK6JeoIS0C8-T94qs8GFg/master.m3u8
 #EXTINF:-1 tvg-name="Chennai Sports vs Alathankarai Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100325" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",Chennai Sports vs Alathankarai Club
 https://dai.google.com/linear/hls/event/4FxMaGLcSnO9tCf_h0bcdA/master.m3u8
-#EXTINF:-1 tvg-name="Stam/Schoon vs Álvarez M/Moreno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102497" group-title="Volleyball Womens Beach Pro Tour",Stam/Schoon vs Álvarez M/Moreno
-https://dai.fancode.com/primary/102497_english_hls_2803adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Brazil vs Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101365" group-title="Volleyball Nations League Men's",Brazil vs Italy
+https://dai.google.com/linear/hls/event/VVo2_hgiQEO088m0S9eMPg/master.m3u8
+#EXTINF:-1 tvg-name="van de Velde/Immers vs George/Andre" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102507" group-title="Volleyball Mens Beach Pro Tour",van de Velde/Immers vs George/Andre
+https://dai.fancode.com/primary/102507_english_hls_9053adfreeta-di/index.m3u8
