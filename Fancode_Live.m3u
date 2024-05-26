@@ -3,6 +3,8 @@
 https://dai.google.com/linear/hls/event/FUxGikB5Q82SxlVNtptocw/master.m3u8
 #EXTINF:-1 tvg-name="Malta Women vs Estonia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102182" group-title="ECI-W Estonia-Malta, 2024",Malta Women vs Estonia Women
 https://dai.google.com/linear/hls/event/1J8LYlsURK-0JgB7i_dj7A/master.m3u8
+#EXTINF:-1 tvg-name="Malta vs Estonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101824" group-title="ECI Estonia-Malta, 2024",Malta vs Estonia
+https://dai.google.com/linear/hls/event/zuceDc7iTaqNnhOFipq7dQ/master.m3u8
 #EXTINF:-1 tvg-name="Gibraltar vs Hungary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101833" group-title="Continental Cup T20I, 2024",Gibraltar vs Hungary
 https://dai.google.com/linear/hls/event/-Id2LE8vQ5mEQt81timlNA/master.m3u8
 #EXTINF:-1 tvg-name="Pakistan Women vs England Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99906" group-title="Pakistan Women tour of England, 2024",Pakistan Women vs England Women
@@ -19,7 +21,7 @@ https://dai.google.com/linear/hls/event/TixvPzxdQ_2hGxXUXH9uoQ/master.m3u8
 https://dai.google.com/linear/hls/event/mBznkP_9SiKWVlz248zkbg/master.m3u8
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101412" group-title="Soudal Open",Day 4
 https://dai.google.com/linear/hls/event/JPK6JeoIS0C8-T94qs8GFg/master.m3u8
-#EXTINF:-1 tvg-name="Slovenia vs Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101364" group-title="Volleyball Nations League Men's",Slovenia vs Poland
-https://dai.google.com/linear/hls/event/ET0xau9KRPS2-0TiaXkE-w/master.m3u8
+#EXTINF:-1 tvg-name="Chennai Sports vs Alathankarai Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100325" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",Chennai Sports vs Alathankarai Club
+https://dai.google.com/linear/hls/event/4FxMaGLcSnO9tCf_h0bcdA/master.m3u8
 #EXTINF:-1 tvg-name="Stam/Schoon vs Álvarez M/Moreno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102497" group-title="Volleyball Womens Beach Pro Tour",Stam/Schoon vs Álvarez M/Moreno
 https://dai.fancode.com/primary/102497_english_hls_2803adfreeta-no/index.m3u8
