@@ -1,13 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Tigers Cricket Club vs Alpha Quashers Yokohama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101861" group-title="JCL T20, 2024",Tigers Cricket Club vs Alpha Quashers Yokohama
 https://dai.google.com/linear/hls/event/krJC7j_RSwqHDl6vGw0Gew/master.m3u8
+#EXTINF:-1 tvg-name="Team Emerald vs Team Ruby" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101610" group-title="KCA TCM Pink T20 Challengers, 2024",Team Emerald vs Team Ruby
+https://dai.google.com/linear/hls/event/l8cMDRSqQWKYYGg3elzYAg/master.m3u8
 #EXTINF:-1 tvg-name="Malta Women vs Estonia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102181" group-title="ECI-W Estonia-Malta, 2024",Malta Women vs Estonia Women
 https://dai.google.com/linear/hls/event/IFX4HL8VTDOUnYdaCOqJgA/master.m3u8
 #EXTINF:-1 tvg-name="SKM Cricket Club vs Sical Recreation Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101606" group-title="Champion of Champions T20, 2024",SKM Cricket Club vs Sical Recreation Club
 https://dai.google.com/linear/hls/event/_kP3yvIsSEKcNGkTb-165A/master.m3u8
 #EXTINF:-1 tvg-name="FC Tokyo vs Gamba Osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101669" group-title="J League 2024",FC Tokyo vs Gamba Osaka
 https://dai.fancode.com/primary/101669_english_hls_9083adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Jayachitra Club vs Durai Singam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100323" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",Jayachitra Club vs Durai Singam
-https://dai.google.com/linear/hls/event/MX8n0_NOQXCLT3tESu7rLw/master.m3u8
+#EXTINF:-1 tvg-name="Urawa Red Diamonds vs Machida Zelvia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101675" group-title="J League 2024",Urawa Red Diamonds vs Machida Zelvia
+https://dai.fancode.com/primary/101675_english_hls_5452adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Day 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101412" group-title="Soudal Open",Day 4
+https://dai.google.com/linear/hls/event/JPK6JeoIS0C8-T94qs8GFg/master.m3u8
 #EXTINF:-1 tvg-name="Álvarez M/Moreno vs Brunner/Hüberli" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102519" group-title="Volleyball Womens Beach Pro Tour",Álvarez M/Moreno vs Brunner/Hüberli
 https://dai.fancode.com/primary/102519_english_hls_5398adfreeta-di/index.m3u8
