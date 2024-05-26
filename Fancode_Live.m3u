@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Emirates Red vs Fujairah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101461" group-title="Emirates D10 Tournament, 2024",Emirates Red vs Fujairah
 https://dai.google.com/linear/hls/event/BybtCxb3Rniwd5JRDZM66A/master.m3u8
-#EXTINF:-1 tvg-name="Ajman vs Dubai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101462" group-title="Emirates D10 Tournament, 2024",Ajman vs Dubai
+#EXTINF:-1 tvg-name="Dubai vs Ajman" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101462" group-title="Emirates D10 Tournament, 2024",Dubai vs Ajman
 https://dai.google.com/linear/hls/event/tjmSq1XaTASeRn5MxyoCpg/master.m3u8
 #EXTINF:-1 tvg-name="Rangers CC vs Porto Wanderers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101103" group-title="ECSN Portugal, 2024",Rangers CC vs Porto Wanderers
 https://dai.google.com/linear/hls/event/aIeRxUrMRjOjHR8RGwLnHQ/master.m3u8
