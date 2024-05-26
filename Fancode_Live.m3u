@@ -1,17 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Team Emerald vs Team Ruby" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101610" group-title="KCA TCM Pink T20 Challengers, 2024",Team Emerald vs Team Ruby
-https://dai.google.com/linear/hls/event/l8cMDRSqQWKYYGg3elzYAg/master.m3u8
+#EXTINF:-1 tvg-name="Sharjah vs Emirates Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101459" group-title="Emirates D10 Tournament, 2024",Sharjah vs Emirates Red
+https://dai.google.com/linear/hls/event/FUxGikB5Q82SxlVNtptocw/master.m3u8
 #EXTINF:-1 tvg-name="Garnet Cricket Club vs Komaleeswarar Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101607" group-title="Champion of Champions T20, 2024",Garnet Cricket Club vs Komaleeswarar Cricket Club
 https://dai.google.com/linear/hls/event/yDXrpXBqRIyyHA0cbBOhqw/master.m3u8
 #EXTINF:-1 tvg-name="Malta Women vs Estonia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102182" group-title="ECI-W Estonia-Malta, 2024",Malta Women vs Estonia Women
 https://dai.google.com/linear/hls/event/1J8LYlsURK-0JgB7i_dj7A/master.m3u8
-#EXTINF:-1 tvg-name="Romania vs Bulgaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101832" group-title="Continental Cup T20I, 2024",Romania vs Bulgaria
-https://dai.google.com/linear/hls/event/SfsCVb2PQNuVIB18Er2MFA/master.m3u8
-#EXTINF:-1 tvg-name="Dragons Women vs Typhoons Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101569" group-title="Evoke Super 50 Cup, 2024",Dragons Women vs Typhoons Women
-https://dai.google.com/linear/hls/event/bkLgsQK7S4aslMF4qYHsTA/master.m3u8
 #EXTINF:-1 tvg-name="Pakistan Women vs England Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99906" group-title="Pakistan Women tour of England, 2024",Pakistan Women vs England Women
 https://pubads.g.doubleclick.net/ssai/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8
+#EXTINF:-1 tvg-name="Dragons Women vs Typhoons Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101569" group-title="Evoke Super 50 Cup, 2024",Dragons Women vs Typhoons Women
+https://dai.google.com/linear/hls/event/bkLgsQK7S4aslMF4qYHsTA/master.m3u8
+#EXTINF:-1 tvg-name="Romania vs Bulgaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101832" group-title="Continental Cup T20I, 2024",Romania vs Bulgaria
+https://dai.google.com/linear/hls/event/SfsCVb2PQNuVIB18Er2MFA/master.m3u8
+#EXTINF:-1 tvg-name="Race" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95154" group-title="F1 GRAND PRIX DE MONACO 2024",Race
+https://dai.google.com/linear/hls/event/TixvPzxdQ_2hGxXUXH9uoQ/master.m3u8
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101412" group-title="Soudal Open",Day 4
 https://dai.google.com/linear/hls/event/JPK6JeoIS0C8-T94qs8GFg/master.m3u8
-#EXTINF:-1 tvg-name="George/Andre vs Åhman/Hellvig" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102522" group-title="Volleyball Mens Beach Pro Tour",George/Andre vs Åhman/Hellvig
-https://dai.fancode.com/primary/102522_english_hls_8907adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Samy Academy vs KR Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100324" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",Samy Academy vs KR Sports
+https://dai.google.com/linear/hls/event/z-5mt-7YRzS9DZ8PEXWgNw/master.m3u8
+#EXTINF:-1 tvg-name="Slovenia vs Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101364" group-title="Volleyball Nations League Men's",Slovenia vs Poland
+https://dai.google.com/linear/hls/event/ET0xau9KRPS2-0TiaXkE-w/master.m3u8
