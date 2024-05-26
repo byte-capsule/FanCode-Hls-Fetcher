@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Ajman vs Emirates Blues" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101460" group-title="Emirates D10 Tournament, 2024",Ajman vs Emirates Blues
-https://dai.google.com/linear/hls/event/2rrmZRsUQZWqhkZmcFFcAA/master.m3u8
+#EXTINF:-1 tvg-name="Emirates Red vs Fujairah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101461" group-title="Emirates D10 Tournament, 2024",Emirates Red vs Fujairah
+https://dai.google.com/linear/hls/event/BybtCxb3Rniwd5JRDZM66A/master.m3u8
 #EXTINF:-1 tvg-name="Globelink Weststar vs Z Games Strikers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100902" group-title="Bukhatir T10 League, 2024",Globelink Weststar vs Z Games Strikers
 https://dai.google.com/linear/hls/event/QA6ZSbdXSuCYlblP3AiJcg/master.m3u8
 #EXTINF:-1 tvg-name="Malta Women vs Estonia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102183" group-title="ECI-W Estonia-Malta, 2024",Malta Women vs Estonia Women
@@ -17,7 +17,5 @@ https://dai.google.com/linear/hls/event/wvFEpYxEQc2qmTOfr_dnLg/master.m3u8
 https://dai.google.com/linear/hls/event/VVo2_hgiQEO088m0S9eMPg/master.m3u8
 #EXTINF:-1 tvg-name="Ehlers/Wickler vs Åhman/Hellvig" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102508" group-title="Volleyball Mens Beach Pro Tour",Ehlers/Wickler vs Åhman/Hellvig
 https://dai.fancode.com/primary/102508_english_hls_5403adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Nuss/Kloth vs Brunner/Hüberli" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102498" group-title="Volleyball Womens Beach Pro Tour",Nuss/Kloth vs Brunner/Hüberli
-https://dai.fancode.com/primary/102498_english_hls_3332adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Olympiacos Piraeus vs Fenerbahce Beko Istanbul" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102527" group-title="Euro League",Olympiacos Piraeus vs Fenerbahce Beko Istanbul
 https://dai.google.com/linear/hls/event/o8J73HslS7qq3JYH0bAFxg/master.m3u8
