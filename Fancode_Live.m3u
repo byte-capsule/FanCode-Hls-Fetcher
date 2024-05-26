@@ -13,11 +13,13 @@ https://pubads.g.doubleclick.net/ssai/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8
 https://dai.google.com/linear/hls/event/bkLgsQK7S4aslMF4qYHsTA/master.m3u8
 #EXTINF:-1 tvg-name="IPRC Kigali CC vs Challengers CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96689" group-title="RCA Men's T20, 2024",IPRC Kigali CC vs Challengers CC
 https://dai.google.com/linear/hls/event/Za06OB11Th-IxaVlR_CeCw/master.m3u8
-#EXTINF:-1 tvg-name="Shanghai Port vs Cangzhou Mighty Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100227" group-title="Chinese Super League 2024",Shanghai Port vs Cangzhou Mighty Lions
-https://dai.fancode.com/primary/100227_english_hls_5225adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Leeds United vs Southampton" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101762" group-title="EFL Championship 2023-24",Leeds United vs Southampton
+https://dai.google.com/linear/hls/event/x-W8qTIWQ1-x10kR0maT-Q/master.m3u8
 #EXTINF:-1 tvg-name="Race" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95154" group-title="F1 GRAND PRIX DE MONACO 2024",Race
 https://dai.google.com/linear/hls/event/TixvPzxdQ_2hGxXUXH9uoQ/master.m3u8
 #EXTINF:-1 tvg-name="Brazil vs Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101365" group-title="Volleyball Nations League Men's",Brazil vs Italy
 https://dai.google.com/linear/hls/event/VVo2_hgiQEO088m0S9eMPg/master.m3u8
-#EXTINF:-1 tvg-name="van de Velde/Immers vs George/Andre" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102507" group-title="Volleyball Mens Beach Pro Tour",van de Velde/Immers vs George/Andre
-https://dai.fancode.com/primary/102507_english_hls_9053adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Turkey vs USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101367" group-title="Volleyball Nations League Men's",Turkey vs USA
+https://dai.google.com/linear/hls/event/wvFEpYxEQc2qmTOfr_dnLg/master.m3u8
+#EXTINF:-1 tvg-name="Nuss/Kloth vs Brunner/Hüberli" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102498" group-title="Volleyball Womens Beach Pro Tour",Nuss/Kloth vs Brunner/Hüberli
+https://dai.fancode.com/primary/102498_english_hls_3332adfreeta-di/index.m3u8
