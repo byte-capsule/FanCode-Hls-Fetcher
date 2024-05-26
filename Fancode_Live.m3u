@@ -1,5 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="SKM Cricket Club vs Sical Recreation Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101606" group-title="Champion of Champions T20, 2024",SKM Cricket Club vs Sical Recreation Club
+https://dai.google.com/linear/hls/event/_kP3yvIsSEKcNGkTb-165A/master.m3u8
 #EXTINF:-1 tvg-name="Team Sapphire vs Team Amber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101609" group-title="KCA TCM Pink T20 Challengers, 2024",Team Sapphire vs Team Amber
 https://dai.google.com/linear/hls/event/xjF2j9IHQmaSZQQzen4hKA/master.m3u8
-#EXTINF:-1 tvg-name="Sical Recreation Club vs SKM Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101606" group-title="Champion of Champions T20, 2024",Sical Recreation Club vs SKM Cricket Club
-https://dai.google.com/linear/hls/event/_kP3yvIsSEKcNGkTb-165A/master.m3u8
