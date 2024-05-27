@@ -1,13 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="GAT vs Royal Lions CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99759" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",GAT vs Royal Lions CC
 https://dai.google.com/linear/hls/event/FuLuINvNRM-iXf5GiNrbbA/master.m3u8
-#EXTINF:-1 tvg-name="Coimbra Knights vs Fighters CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101105" group-title="ECSN Portugal, 2024",Coimbra Knights vs Fighters CC
-https://dai.google.com/linear/hls/event/v3tNCb0xQ0-V1bZAO6cFnA/master.m3u8
 #EXTINF:-1 tvg-name="Emirates Red vs Abu Dhabi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101466" group-title="Emirates D10 Tournament, 2024",Emirates Red vs Abu Dhabi
 https://dai.google.com/linear/hls/event/OlSVkIeKQdSFZosCHqNelw/master.m3u8
-#EXTINF:-1 tvg-name="Karwan Cricket Club vs Fly Emirates" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100905" group-title="Bukhatir T10 League, 2024",Karwan Cricket Club vs Fly Emirates
-https://dai.google.com/linear/hls/event/6hKNOtoCTimUP4z2PV8QYw/master.m3u8
 #EXTINF:-1 tvg-name="Spencer vs Twickenham" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101800" group-title="ECS England, 2024",Spencer vs Twickenham
 https://dai.google.com/linear/hls/event/YEa1gG5QSlSMhbfwCZktqw/master.m3u8
-#EXTINF:-1 tvg-name="Biratnagar Panthers vs Birat Sporting" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102329" group-title="Nepal T10, 2024",Biratnagar Panthers vs Birat Sporting
-https://dai.google.com/linear/hls/event/zqboI8_3RHCr5uAPwO-JyQ/master.m3u8
