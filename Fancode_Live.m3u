@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="GAT vs Royal Lions CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99759" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",GAT vs Royal Lions CC
+https://dai.google.com/linear/hls/event/FuLuINvNRM-iXf5GiNrbbA/master.m3u8
 #EXTINF:-1 tvg-name="Coimbra Knights vs Fighters CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101105" group-title="ECSN Portugal, 2024",Coimbra Knights vs Fighters CC
 https://dai.google.com/linear/hls/event/v3tNCb0xQ0-V1bZAO6cFnA/master.m3u8
 #EXTINF:-1 tvg-name="Sharjah vs Dubai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101465" group-title="Emirates D10 Tournament, 2024",Sharjah vs Dubai
