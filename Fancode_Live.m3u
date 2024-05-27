@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Sharjah vs Dubai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101465" group-title="Emirates D10 Tournament, 2024",Sharjah vs Dubai
 https://dai.google.com/linear/hls/event/sh3jx6tNTHOpldPj2OdVGA/master.m3u8
+#EXTINF:-1 tvg-name="Karwan Cricket Club vs Fly Emirates" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100905" group-title="Bukhatir T10 League, 2024",Karwan Cricket Club vs Fly Emirates
+https://dai.google.com/linear/hls/event/6hKNOtoCTimUP4z2PV8QYw/master.m3u8
 #EXTINF:-1 tvg-name="Wimbledon vs Twickenham" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101799" group-title="ECS England, 2024",Wimbledon vs Twickenham
 https://dai.google.com/linear/hls/event/V0DXpUy0SGOjjNi5zs9TOQ/master.m3u8
 #EXTINF:-1 tvg-name="Biratnagar Panthers vs Birat Sporting" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102329" group-title="Nepal T10, 2024",Biratnagar Panthers vs Birat Sporting
