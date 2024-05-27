@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="KCA Emerald vs KCA Pearl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101611" group-title="KCA TCM Pink T20 Challengers, 2024",KCA Emerald vs KCA Pearl
 https://dai.google.com/linear/hls/event/Hyox0ByYRGC0mDZO6MrrlQ/master.m3u8
+#EXTINF:-1 tvg-name="PRIST University vs Samy Academy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100326" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",PRIST University vs Samy Academy
+https://dai.google.com/linear/hls/event/9-4oyn0NQqap3Fd2h15OTg/master.m3u8
