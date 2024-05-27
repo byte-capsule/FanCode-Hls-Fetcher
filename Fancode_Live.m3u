@@ -1,7 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Emirates Blues vs Abu Dhabi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101464" group-title="Emirates D10 Tournament, 2024",Emirates Blues vs Abu Dhabi
 https://dai.google.com/linear/hls/event/qgoA9evTSpmkHOv06hdJDQ/master.m3u8
+#EXTINF:-1 tvg-name="Wimbledon vs Twickenham" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101799" group-title="ECS England, 2024",Wimbledon vs Twickenham
+https://dai.google.com/linear/hls/event/V0DXpUy0SGOjjNi5zs9TOQ/master.m3u8
 #EXTINF:-1 tvg-name="Elite Cricket Club vs Purwanchal Cricket Academy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102328" group-title="Nepal T10, 2024",Elite Cricket Club vs Purwanchal Cricket Academy
 https://dai.google.com/linear/hls/event/s8SL50VcS9aW0vMLtRaZ7g/master.m3u8
+#EXTINF:-1 tvg-name="Biratnagar Panthers vs Birat Sporting" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102329" group-title="Nepal T10, 2024",Biratnagar Panthers vs Birat Sporting
+https://dai.google.com/linear/hls/event/zqboI8_3RHCr5uAPwO-JyQ/master.m3u8
 #EXTINF:-1 tvg-name="KR Sports vs Jayachitra Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100329" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",KR Sports vs Jayachitra Club
 https://dai.google.com/linear/hls/event/0XmRvbQLQCeDTW4nzvKZRA/master.m3u8
