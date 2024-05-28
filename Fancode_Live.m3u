@@ -5,15 +5,9 @@ https://dai.google.com/linear/hls/event/5AEarAbiQw2Q2XtcP8EeSQ/master.m3u8
 https://dai.google.com/linear/hls/event/dap28U2mSEOjyuPajtK41Q/master.m3u8
 #EXTINF:-1 tvg-name="Oeiras vs Porto Wanderers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101107" group-title="ECSN Portugal, 2024",Oeiras vs Porto Wanderers
 https://dai.google.com/linear/hls/event/vN4WcSJAQySU5onUl_a89g/master.m3u8
-#EXTINF:-1 tvg-name="Sharjah vs Abu Dhabi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101469" group-title="Emirates D10 Tournament, 2024",Sharjah vs Abu Dhabi
-https://dai.google.com/linear/hls/event/bfWaODIGR1Gli4OeUgeN5A/master.m3u8
+#EXTINF:-1 tvg-name="Emirates Blues vs Ajman" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101470" group-title="Emirates D10 Tournament, 2024",Emirates Blues vs Ajman
+https://dai.google.com/linear/hls/event/MBU0Uw_WS6mobMyFeKbx6A/master.m3u8
 #EXTINF:-1 tvg-name="Colatta Warriors vs Globelink Weststar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100907" group-title="Bukhatir T10 League, 2024",Colatta Warriors vs Globelink Weststar
 https://dai.google.com/linear/hls/event/HTe8nZfPQvaY64WRGhUJRg/master.m3u8
-#EXTINF:-1 tvg-name="Biratnagar Panthers vs Fulbari Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102333" group-title="Nepal T10, 2024",Biratnagar Panthers vs Fulbari Cricket Club
-https://dai.google.com/linear/hls/event/2f8L22-1TIyxGGKpJlUT0w/master.m3u8
-#EXTINF:-1 tvg-name="SKM Cricket Club vs Komaleeswarar Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101608" group-title="Champion of Champions T20, 2024",SKM Cricket Club vs Komaleeswarar Cricket Club
-https://dai.google.com/linear/hls/event/xi5VHlUHQpyh8hglM34CZQ/master.m3u8
-#EXTINF:-1 tvg-name="Northern Knights vs Munster Reds" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99921" group-title="Ireland Inter-Provincial T20 Trophy, 2024",Northern Knights vs Munster Reds
-https://dai.google.com/linear/hls/event/I-t9q6PaTFGaVk6BD7hubw/master.m3u8
 #EXTINF:-1 tvg-name="England vs Pakistan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99902" group-title="Pakistan tour of England, 2024",England vs Pakistan
 https://pubads.g.doubleclick.net/ssai/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8
