@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Twickenham vs Tunbridge Wells" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101802" group-title="ECS England, 2024",Twickenham vs Tunbridge Wells
-https://dai.google.com/linear/hls/event/zs8g7qw1Qx6FD8k120XHdw/master.m3u8
 #EXTINF:-1 tvg-name="Wimbledon vs Hornchurch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101803" group-title="ECS England, 2024",Wimbledon vs Hornchurch
 https://dai.google.com/linear/hls/event/meXFD39QS3yZsp9THITa0Q/master.m3u8
 #EXTINF:-1 tvg-name="Fujairah vs Ajman" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101468" group-title="Emirates D10 Tournament, 2024",Fujairah vs Ajman
 https://dai.google.com/linear/hls/event/VOJqdkG3QvCJnplhJL-WMw/master.m3u8
 #EXTINF:-1 tvg-name="YRCC Birat Blasters vs NBSC Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102332" group-title="Nepal T10, 2024",YRCC Birat Blasters vs NBSC Lions
 https://dai.google.com/linear/hls/event/lO1Rn0R3Sy22XGABHWMGjw/master.m3u8
-#EXTINF:-1 tvg-name="Nellai Kings vs KR Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100332" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",Nellai Kings vs KR Sports
-https://dai.google.com/linear/hls/event/jPIn1hzETw-HO6Ai3Q1_aA/master.m3u8
 #EXTINF:-1 tvg-name="Brazil vs Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100944" group-title="Volleyball Nations League Women's",Brazil vs Japan
 https://dai.google.com/linear/hls/event/etFs_Km4Q9KH9C1K1kGLTA/master.m3u8
