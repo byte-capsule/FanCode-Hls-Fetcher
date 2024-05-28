@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Tunbridge Wells vs Wimbledon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101804" group-title="ECS England, 2024",Tunbridge Wells vs Wimbledon
 https://dai.google.com/linear/hls/event/XwE0PT3PTE6eRKGk4OtGKA/master.m3u8
+#EXTINF:-1 tvg-name="Oeiras vs Porto Wanderers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101107" group-title="ECSN Portugal, 2024",Oeiras vs Porto Wanderers
+https://dai.google.com/linear/hls/event/vN4WcSJAQySU5onUl_a89g/master.m3u8
 #EXTINF:-1 tvg-name="Sharjah vs Abu Dhabi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101469" group-title="Emirates D10 Tournament, 2024",Sharjah vs Abu Dhabi
 https://dai.google.com/linear/hls/event/bfWaODIGR1Gli4OeUgeN5A/master.m3u8
 #EXTINF:-1 tvg-name="Colatta Warriors vs Globelink Weststar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100907" group-title="Bukhatir T10 League, 2024",Colatta Warriors vs Globelink Weststar
