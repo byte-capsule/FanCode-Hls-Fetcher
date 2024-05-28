@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Twickenham vs Hornchurch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101801" group-title="ECS England, 2024",Twickenham vs Hornchurch
-https://dai.google.com/linear/hls/event/L2hHXMQjQYuRh9wEIec_fQ/master.m3u8
 #EXTINF:-1 tvg-name="KCA Pearl vs KCA Amber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101614" group-title="KCA TCM Pink T20 Challengers, 2024",KCA Pearl vs KCA Amber
 https://dai.google.com/linear/hls/event/Qqua0SkcR66ZKXi1ceWgPQ/master.m3u8
 #EXTINF:-1 tvg-name="Netherlands Women vs Italy Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102523" group-title="Italy Women in Netherlands, 4 T20I Series, 2024",Netherlands Women vs Italy Women
