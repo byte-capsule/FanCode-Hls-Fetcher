@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Spencer vs Hornchurch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101809" group-title="ECS England, 2024",Spencer vs Hornchurch
 https://dai.google.com/linear/hls/event/ZEyUgIHtSyWg8aAxkd5oDQ/master.m3u8
+#EXTINF:-1 tvg-name="Rangers CC vs Fighters CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101109" group-title="ECSN Portugal, 2024",Rangers CC vs Fighters CC
+https://dai.google.com/linear/hls/event/vh1vdGUXQL6fzd5uF8JwLg/master.m3u8
 #EXTINF:-1 tvg-name="Karwan Cricket Club vs UAE Kings XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100909" group-title="Bukhatir T10 League, 2024",Karwan Cricket Club vs UAE Kings XI
 https://dai.google.com/linear/hls/event/_otoD4PcR5yaNAu9StVgCQ/master.m3u8
 #EXTINF:-1 tvg-name="Fulbari Cricket Club vs Purwanchal Cricket Academy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102337" group-title="Nepal T10, 2024",Fulbari Cricket Club vs Purwanchal Cricket Academy
