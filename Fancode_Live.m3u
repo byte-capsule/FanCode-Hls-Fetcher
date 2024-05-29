@@ -1,9 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Spencer vs Wimbledon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101807" group-title="ECS England, 2024",Spencer vs Wimbledon
 https://dai.google.com/linear/hls/event/hI4FlzpGRHS_0m-RSwTcgQ/master.m3u8
-#EXTINF:-1 tvg-name="KCA Pearl vs KCA Sapphire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101616" group-title="KCA TCM Pink T20 Challengers, 2024",KCA Pearl vs KCA Sapphire
-https://dai.google.com/linear/hls/event/XkemQ1_sTUyxav9JS6OHdw/master.m3u8
 #EXTINF:-1 tvg-name="Northern Knights vs Munster Reds" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100469" group-title="Ireland Inter-Provincial Limited Over Cup, 2024",Northern Knights vs Munster Reds
 https://dai.google.com/linear/hls/event/D-yREGekTKi0fIc3oHyyUw/master.m3u8
-#EXTINF:-1 tvg-name="Purwanchal Cricket Academy vs NBSC Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102334" group-title="Nepal T10, 2024",Purwanchal Cricket Academy vs NBSC Lions
-https://dai.google.com/linear/hls/event/vkji0IkkSJ2W6dVhX-tOTQ/master.m3u8
+#EXTINF:-1 tvg-name="YRCC Birat Blasters vs Elite Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102335" group-title="Nepal T10, 2024",YRCC Birat Blasters vs Elite Cricket Club
+https://dai.google.com/linear/hls/event/kzKhxWFASaeBSKKHXTsJRQ/master.m3u8
