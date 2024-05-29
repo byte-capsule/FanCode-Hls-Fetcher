@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="KCA Amber vs KCA Emerald" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101615" group-title="KCA TCM Pink T20 Challengers, 2024",KCA Amber vs KCA Emerald
-https://dai.google.com/linear/hls/event/DxupCCzBRzSnwveAHjZ0Eg/master.m3u8
 #EXTINF:-1 tvg-name="KCA Pearl vs KCA Sapphire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101616" group-title="KCA TCM Pink T20 Challengers, 2024",KCA Pearl vs KCA Sapphire
 https://dai.google.com/linear/hls/event/XkemQ1_sTUyxav9JS6OHdw/master.m3u8
+#EXTINF:-1 tvg-name="Italy vs France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100947" group-title="Volleyball Nations League Women's",Italy vs France
+https://dai.google.com/linear/hls/event/HxTThixMQFiBapTgWkH49w/master.m3u8
