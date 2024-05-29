@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Biratnagar Panthers vs NBSC Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102336" group-title="Nepal T10, 2024",Biratnagar Panthers vs NBSC Lions
+#EXTINF:-1 tvg-name="NBSC Lions vs Biratnagar Panthers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102336" group-title="Nepal T10, 2024",NBSC Lions vs Biratnagar Panthers
 https://dai.google.com/linear/hls/event/ABSXgTLmRdmwTj4XbOzsyg/master.m3u8
 #EXTINF:-1 tvg-name="Northern Knights vs Munster Reds" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100469" group-title="Ireland Inter-Provincial Limited Over Cup, 2024",Northern Knights vs Munster Reds
 https://dai.google.com/linear/hls/event/D-yREGekTKi0fIc3oHyyUw/master.m3u8
 #EXTINF:-1 tvg-name="England Women vs Pakistan Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99907" group-title="Pakistan Women tour of England, 2024",England Women vs Pakistan Women
 https://pubads.g.doubleclick.net/ssai/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8
+#EXTINF:-1 tvg-name="Alathankarai Club vs KR Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100337" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",Alathankarai Club vs KR Sports
+https://dai.google.com/linear/hls/event/Ck78affcRHeQ5LoF2aTSxw/master.m3u8
