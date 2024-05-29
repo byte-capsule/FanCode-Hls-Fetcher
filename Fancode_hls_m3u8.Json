@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 7,
-  "updated_on": "29-05-2024 on 11:41:22 PM \ud83c\udf19",
+  "channels_amount": 4,
+  "updated_on": "30-05-2024 on 00:08:23 AM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -28,28 +28,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "ECSN Portugal, 2024",
-      "match_id": 101109,
-      "match_name": "Rangers CC vs Fighters CC",
-      "team_1": "Rangers CC",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR14@2x.png",
-      "team_2": "Fighters CC",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FIG@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/vh1vdGUXQL6fzd5uF8JwLg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Bukhatir T10 League, 2024",
-      "match_id": 100909,
-      "match_name": "Karwan Cricket Club vs UAE Kings XI",
-      "team_1": "Karwan Cricket Club",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KRWA@2x.png",
-      "team_2": "UAE Kings XI",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/UKX-CR1@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/_otoD4PcR5yaNAu9StVgCQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "Ireland Inter-Provincial Limited Over Cup, 2024",
       "match_id": 100469,
       "match_name": "Northern Knights vs Munster Reds",
@@ -58,17 +36,6 @@
       "team_2": "Munster Reds",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MNR@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/D-yREGekTKi0fIc3oHyyUw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Pakistan Women tour of England, 2024",
-      "match_id": 99907,
-      "match_name": "England Women vs Pakistan Women",
-      "team_1": "England Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
-      "team_2": "Pakistan Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png",
-      "stream_link": "https://pubads.g.doubleclick.net/ssai/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8"
     },
     {
       "event_catagory": "volleyball",
