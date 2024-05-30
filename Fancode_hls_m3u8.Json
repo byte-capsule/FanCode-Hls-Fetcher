@@ -1,19 +1,19 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 6,
-  "updated_on": "30-05-2024 on 10:41:57 PM \ud83c\udf19",
+  "channels_amount": 5,
+  "updated_on": "30-05-2024 on 11:05:06 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
       "event_name": "ECS England, 2024",
-      "match_id": 101814,
-      "match_name": "Wimbledon vs Hornchurch",
-      "team_1": "Wimbledon",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/WIM-CR1@2x.png",
+      "match_id": 101815,
+      "match_name": "Tunbridge Wells vs Hornchurch",
+      "team_1": "Tunbridge Wells",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TW-CR2@2x.png",
       "team_2": "Hornchurch",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HOR@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/5ga9NIviQb6LUomB3Ut4iw/master.m3u8"
+      "stream_link": "https://dai.google.com/linear/hls/event/Jil3fzaKSgufVAmvEnHZUw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -58,17 +58,6 @@
       "team_2": "Tally DRFS",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TALLY@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/cbgGBbF4Tyu3xZ7nz72vWA/master.m3u8"
-    },
-    {
-      "event_catagory": "golf",
-      "event_name": "European Open",
-      "match_id": 102172,
-      "match_name": "Day 1",
-      "team_1": "Day 1",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-EO@2x.png",
-      "team_2": "Green Eagle Golf Courses, Germany",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/CtvN21sbRfWmj-UZLqiWoA/master.m3u8"
     }
   ]
 }
