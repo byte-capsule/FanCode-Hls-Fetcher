@@ -1,7 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="KCA Pearl vs KCA Ruby" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101617" group-title="KCA TCM Pink T20 Challengers, 2024",KCA Pearl vs KCA Ruby
 https://dai.google.com/linear/hls/event/ud3dgdNfSBqwx0d4Ypbd1g/master.m3u8
-#EXTINF:-1 tvg-name="KR Sports vs SRM University" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100338" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",KR Sports vs SRM University
-https://dai.google.com/linear/hls/event/73sL3ZC1SFO1ODZGshv14g/master.m3u8
-#EXTINF:-1 tvg-name="Dominican Republic vs Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100951" group-title="Volleyball Nations League Women's",Dominican Republic vs Italy
-https://dai.google.com/linear/hls/event/UKk8uw0_QX2dO9q9n-8LHw/master.m3u8
