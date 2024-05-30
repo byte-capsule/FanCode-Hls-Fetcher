@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Hornchurch vs Spencer" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101812" group-title="ECS England, 2024",Hornchurch vs Spencer
 https://dai.google.com/linear/hls/event/8Hy1oYSuSAixezR7fjnPtA/master.m3u8
-#EXTINF:-1 tvg-name="Zimbabwe A Women vs Malawi Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101895" group-title="Kwibuka Women's T20I Tournament, 2024",Zimbabwe A Women vs Malawi Women
-https://dai.google.com/linear/hls/event/nV-BAxoUQo-x2OKZxBh1bw/master.m3u8
 #EXTINF:-1 tvg-name="Uganda Women vs Botswana Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101896" group-title="Kwibuka Women's T20I Tournament, 2024",Uganda Women vs Botswana Women
 https://dai.google.com/linear/hls/event/8c-MwpwyROS5ZC4SjCQWzA/master.m3u8
 #EXTINF:-1 tvg-name="Birat Sporting vs Elite Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102338" group-title="Nepal T10, 2024",Birat Sporting vs Elite Cricket Club
