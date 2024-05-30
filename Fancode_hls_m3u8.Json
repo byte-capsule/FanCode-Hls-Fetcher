@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 5,
-  "updated_on": "30-05-2024 on 4:41:04 PM \ud83c\udf1e",
+  "channels_amount": 7,
+  "updated_on": "30-05-2024 on 5:03:35 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -17,14 +17,25 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "KCA TCM Pink T20 Challengers, 2024",
-      "match_id": 101618,
-      "match_name": "KCA Emerald vs KCA Sapphire",
-      "team_1": "KCA Emerald",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EME@2x.png",
-      "team_2": "KCA Sapphire",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SPH@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/FqHZdyXeRZG-6tLidezrIg/master.m3u8"
+      "event_name": "Kwibuka Women's T20I Tournament, 2024",
+      "match_id": 101895,
+      "match_name": "Zimbabwe A Women vs Malawi Women",
+      "team_1": "Zimbabwe A Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ZIM-CR1@2x.png",
+      "team_2": "Malawi Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALA@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/nV-BAxoUQo-x2OKZxBh1bw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Kwibuka Women's T20I Tournament, 2024",
+      "match_id": 101896,
+      "match_name": "Uganda Women vs Botswana Women",
+      "team_1": "Uganda Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UGN@2x.png",
+      "team_2": "Botswana Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BOTS@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/8c-MwpwyROS5ZC4SjCQWzA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -39,6 +50,17 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "Nepal T10, 2024",
+      "match_id": 102339,
+      "match_name": "Fulbari Cricket Club vs YRCC Birat Blasters",
+      "team_1": "Fulbari Cricket Club",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FCCN@2x.png",
+      "team_2": "YRCC Birat Blasters",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YBB@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/p-v966ZBR6SGX-syFFtbDw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "Italy Women in Netherlands, 4 T20I Series, 2024",
       "match_id": 102526,
       "match_name": "Italy Women vs Netherlands Women",
@@ -49,15 +71,15 @@
       "stream_link": "https://d3dwj99eiai5tj.cloudfront.net/out/v1/6605a2461d954442951fbc8a10afcebd/index.mpd"
     },
     {
-      "event_catagory": "cricket",
-      "event_name": "Kwibuka Women's T20I Tournament, 2024",
-      "match_id": 101895,
-      "match_name": "Zimbabwe A Women vs Malawi Women",
-      "team_1": "Zimbabwe A Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ZIM-CR1@2x.png",
-      "team_2": "Malawi Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALA@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/nV-BAxoUQo-x2OKZxBh1bw/master.m3u8"
+      "event_catagory": "golf",
+      "event_name": "European Open",
+      "match_id": 102172,
+      "match_name": "Day 1",
+      "team_1": "Day 1",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-EO@2x.png",
+      "team_2": "Green Eagle Golf Courses, Germany",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/CtvN21sbRfWmj-UZLqiWoA/master.m3u8"
     }
   ]
 }
