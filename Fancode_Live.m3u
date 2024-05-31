@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Al Hajery Team XI vs Al Mulla Exchange" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100205" group-title="KCC T20 Elite Cup 3rd Edition, 2024",Al Hajery Team XI vs Al Mulla Exchange
 https://dai.google.com/linear/hls/event/TTWhHbRqQG2ZDahEPzg4Gg/master.m3u8
-#EXTINF:-1 tvg-name="KCA Amber vs KCA Ruby" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101620" group-title="KCA TCM Pink T20 Challengers, 2024",KCA Amber vs KCA Ruby
-https://dai.google.com/linear/hls/event/6gQEKa6lQBO81q0nDZlBHQ/master.m3u8
-#EXTINF:-1 tvg-name="YRCC Birat Blasters vs Birat Sporting" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102342" group-title="Nepal T10, 2024",YRCC Birat Blasters vs Birat Sporting
-https://dai.google.com/linear/hls/event/yORjs0chQBKs5pPjcw0XhQ/master.m3u8
+#EXTINF:-1 tvg-name="Biratnagar Panthers vs Purwanchal Cricket Academy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102343" group-title="Nepal T10, 2024",Biratnagar Panthers vs Purwanchal Cricket Academy
+https://dai.google.com/linear/hls/event/HP_FBbW2QseJZM2tILZ_aQ/master.m3u8
 #EXTINF:-1 tvg-name="NCCA vs Wimbledon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101817" group-title="ECS England, 2024",NCCA vs Wimbledon
 https://dai.google.com/linear/hls/event/5IkpWarORzGVQOUaHplEQg/master.m3u8
 #EXTINF:-1 tvg-name="Uganda Women vs Nigeria Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101899" group-title="Kwibuka Women's T20I Tournament, 2024",Uganda Women vs Nigeria Women
 https://dai.google.com/linear/hls/event/5-_9wJgMQyqftuKT1Isj_Q/master.m3u8
-#EXTINF:-1 tvg-name="Zimbabwe A Women vs Kenya Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101898" group-title="Kwibuka Women's T20I Tournament, 2024",Zimbabwe A Women vs Kenya Women
-https://dai.google.com/linear/hls/event/imnf8MSJTBqwboBgHLjWZw/master.m3u8
+#EXTINF:-1 tvg-name="Botswana Women vs Cameroon Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101900" group-title="Kwibuka Women's T20I Tournament, 2024",Botswana Women vs Cameroon Women
+https://dai.google.com/linear/hls/event/nllWSvUgTDqK6M_AZWRr7g/master.m3u8
+#EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102173" group-title="European Open",Day 2
+https://dai.google.com/linear/hls/event/piJ_v0s-QdqDnqZXF7laeg/master.m3u8
