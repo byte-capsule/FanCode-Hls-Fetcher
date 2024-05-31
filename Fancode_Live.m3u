@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Emirates Blues vs Dubai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101474" group-title="Emirates D10 Tournament, 2024",Emirates Blues vs Dubai
 https://dai.google.com/linear/hls/event/NxLSZkQVRE6vwrM8iz8Cpg/master.m3u8
+#EXTINF:-1 tvg-name="Spencer vs Wimbledon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101818" group-title="ECS England, 2024",Spencer vs Wimbledon
+https://dai.google.com/linear/hls/event/bK-QgOuUSc25iGSg5EMWCQ/master.m3u8
 #EXTINF:-1 tvg-name="Malawi Women vs Rwanda Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101901" group-title="Kwibuka Women's T20I Tournament, 2024",Malawi Women vs Rwanda Women
 https://dai.google.com/linear/hls/event/OSquo3iaTdmaWCoMygdZIQ/master.m3u8
 #EXTINF:-1 tvg-name="Botswana Women vs Cameroon Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101900" group-title="Kwibuka Women's T20I Tournament, 2024",Botswana Women vs Cameroon Women
@@ -11,7 +13,3 @@ https://dai.google.com/linear/hls/event/Tn07JlMTSzyWnf_AG-MqwQ/master.m3u8
 https://dai.google.com/linear/hls/event/Fm-ABaJmQcKjZyPCafbDQQ/master.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102173" group-title="European Open",Day 2
 https://dai.google.com/linear/hls/event/piJ_v0s-QdqDnqZXF7laeg/master.m3u8
-#EXTINF:-1 tvg-name="Nellai Kings vs Samy Academy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100344" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",Nellai Kings vs Samy Academy
-https://dai.google.com/linear/hls/event/2IPbYOZqRHCnBU_AcW1xsA/master.m3u8
-#EXTINF:-1 tvg-name="Japan vs China" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100959" group-title="Volleyball Nations League Women's",Japan vs China
-https://dai.google.com/linear/hls/event/0sVeY8CfT7CA209-G2RK8g/master.m3u8
