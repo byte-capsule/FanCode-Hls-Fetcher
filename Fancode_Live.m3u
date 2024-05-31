@@ -11,3 +11,5 @@ https://dai.google.com/linear/hls/event/5-_9wJgMQyqftuKT1Isj_Q/master.m3u8
 https://dai.google.com/linear/hls/event/nllWSvUgTDqK6M_AZWRr7g/master.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102173" group-title="European Open",Day 2
 https://dai.google.com/linear/hls/event/piJ_v0s-QdqDnqZXF7laeg/master.m3u8
+#EXTINF:-1 tvg-name="Japan vs China" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100959" group-title="Volleyball Nations League Women's",Japan vs China
+https://dai.google.com/linear/hls/event/0sVeY8CfT7CA209-G2RK8g/master.m3u8
