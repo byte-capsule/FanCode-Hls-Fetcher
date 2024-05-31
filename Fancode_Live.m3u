@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Sharjah vs Ajman" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101475" group-title="Emirates D10 Tournament, 2024",Sharjah vs Ajman
-https://dai.google.com/linear/hls/event/sxOJwakBT7uGHPiVaHqGSQ/master.m3u8
 #EXTINF:-1 tvg-name="Emirates Red vs Emirates Blues" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101476" group-title="Emirates D10 Tournament, 2024",Emirates Red vs Emirates Blues
 https://dai.google.com/linear/hls/event/NxfrAdmyQmGMPT3H2ZXvHA/master.m3u8
 #EXTINF:-1 tvg-name="Lancashire vs Worcestershire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102074" group-title="Vitality Blast T20, 2024",Lancashire vs Worcestershire
@@ -17,3 +15,5 @@ https://dai.google.com/linear/hls/event/91Io86ezR5aGrpZdvYok-w/master.m3u8
 https://dai.google.com/linear/hls/event/DkTvYuF9RvCAwxMLM_EbiQ/master.m3u8
 #EXTINF:-1 tvg-name="Bader & Nie Cricket Club vs GAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99763" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",Bader & Nie Cricket Club vs GAT
 https://dai.google.com/linear/hls/event/zfRMYYFWScKxz7-K3e_5cg/master.m3u8
+#EXTINF:-1 tvg-name="Germany vs Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100960" group-title="Volleyball Nations League Women's",Germany vs Poland
+https://dai.google.com/linear/hls/event/UHNgG4MjQa68zGTaeVHi0Q/master.m3u8
