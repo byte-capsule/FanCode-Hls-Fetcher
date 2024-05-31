@@ -1,3 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="KCA Amber vs KCA Ruby" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101620" group-title="KCA TCM Pink T20 Challengers, 2024",KCA Amber vs KCA Ruby
+https://dai.google.com/linear/hls/event/6gQEKa6lQBO81q0nDZlBHQ/master.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe A Women vs Kenya Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101898" group-title="Kwibuka Women's T20I Tournament, 2024",Zimbabwe A Women vs Kenya Women
 https://dai.google.com/linear/hls/event/imnf8MSJTBqwboBgHLjWZw/master.m3u8
