@@ -2,8 +2,19 @@
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "channels_amount": 6,
-  "updated_on": "31-05-2024 on 3:40:52 PM \ud83c\udf1e",
+  "updated_on": "31-05-2024 on 4:07:26 PM \ud83c\udf1e",
   "channels": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "KCC T20 Elite Cup 3rd Edition, 2024",
+      "match_id": 100205,
+      "match_name": "Al Hajery Team XI vs Al Mulla Exchange",
+      "team_1": "Al Hajery Team XI",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ALJH@2x.png",
+      "team_2": "Al Mulla Exchange",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AECX@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/TTWhHbRqQG2ZDahEPzg4Gg/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "KCA TCM Pink T20 Challengers, 2024",
@@ -14,6 +25,17 @@
       "team_2": "KCA Ruby",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RBY@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/6gQEKa6lQBO81q0nDZlBHQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Nepal T10, 2024",
+      "match_id": 102342,
+      "match_name": "YRCC Birat Blasters vs Birat Sporting",
+      "team_1": "YRCC Birat Blasters",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YBB@2x.png",
+      "team_2": "Birat Sporting",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BST@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/yORjs0chQBKs5pPjcw0XhQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -47,28 +69,6 @@
       "team_2": "Kenya Women",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KNA@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/imnf8MSJTBqwboBgHLjWZw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Nepal T10, 2024",
-      "match_id": 102342,
-      "match_name": "YRCC Birat Blasters vs Birat Sporting",
-      "team_1": "YRCC Birat Blasters",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YBB@2x.png",
-      "team_2": "Birat Sporting",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BST@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/yORjs0chQBKs5pPjcw0XhQ/master.m3u8"
-    },
-    {
-      "event_catagory": "volleyball",
-      "event_name": "Volleyball Nations League Women's",
-      "match_id": 100958,
-      "match_name": "Netherlands vs Dominican Republic",
-      "team_1": "Netherlands",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-NTH@2x.png",
-      "team_2": "Dominican Republic",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-DMR@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/6hs6wIcsTXa-wllO4D8JzA/master.m3u8"
     }
   ]
 }
