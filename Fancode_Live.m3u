@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Emirates Blues vs Dubai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101474" group-title="Emirates D10 Tournament, 2024",Emirates Blues vs Dubai
-https://dai.google.com/linear/hls/event/NxLSZkQVRE6vwrM8iz8Cpg/master.m3u8
-#EXTINF:-1 tvg-name="Spencer vs Wimbledon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101818" group-title="ECS England, 2024",Spencer vs Wimbledon
-https://dai.google.com/linear/hls/event/bK-QgOuUSc25iGSg5EMWCQ/master.m3u8
+#EXTINF:-1 tvg-name="Sharjah vs Ajman" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101475" group-title="Emirates D10 Tournament, 2024",Sharjah vs Ajman
+https://dai.google.com/linear/hls/event/sxOJwakBT7uGHPiVaHqGSQ/master.m3u8
 #EXTINF:-1 tvg-name="SBS CC vs Al Mulla Exchange - B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99762" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",SBS CC vs Al Mulla Exchange - B
 https://dai.google.com/linear/hls/event/Tn07JlMTSzyWnf_AG-MqwQ/master.m3u8
 #EXTINF:-1 tvg-name="Western Storm vs Sunrisers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99799" group-title="Charlotte Edwards Cup, 2024",Western Storm vs Sunrisers
 https://dai.google.com/linear/hls/event/Fm-ABaJmQcKjZyPCafbDQQ/master.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102173" group-title="European Open",Day 2
 https://dai.google.com/linear/hls/event/piJ_v0s-QdqDnqZXF7laeg/master.m3u8
-#EXTINF:-1 tvg-name="N.A. Academy vs AMKC Gobi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100345" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",N.A. Academy vs AMKC Gobi
-https://dai.google.com/linear/hls/event/NWvID_aMS2CMyyvM0qjvWw/master.m3u8
