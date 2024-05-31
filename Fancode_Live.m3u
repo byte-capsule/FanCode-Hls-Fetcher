@@ -1,11 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Sharjah vs Ajman" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101475" group-title="Emirates D10 Tournament, 2024",Sharjah vs Ajman
 https://dai.google.com/linear/hls/event/sxOJwakBT7uGHPiVaHqGSQ/master.m3u8
+#EXTINF:-1 tvg-name="Lancashire vs Worcestershire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102074" group-title="Vitality Blast T20, 2024",Lancashire vs Worcestershire
+https://dai.google.com/linear/hls/event/4uFqxh-CTAi0ZeHabHRr2A/master.m3u8
+#EXTINF:-1 tvg-name="Oeiras vs Rangers CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101113" group-title="ECSN Portugal, 2024",Oeiras vs Rangers CC
+https://dai.google.com/linear/hls/event/LNFFmFSiSSm7AoXID106-g/master.m3u8
 #EXTINF:-1 tvg-name="Muhamand Warriors vs V Eleven Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100857" group-title="Bukhatir T10 League, 2024",Muhamand Warriors vs V Eleven Cricket Club
 https://dai.google.com/linear/hls/event/91Io86ezR5aGrpZdvYok-w/master.m3u8
+#EXTINF:-1 tvg-name="Spencer vs NCCA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101819" group-title="ECS England, 2024",Spencer vs NCCA
+https://dai.google.com/linear/hls/event/DkTvYuF9RvCAwxMLM_EbiQ/master.m3u8
 #EXTINF:-1 tvg-name="SBS CC vs Al Mulla Exchange - B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99762" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",SBS CC vs Al Mulla Exchange - B
 https://dai.google.com/linear/hls/event/Tn07JlMTSzyWnf_AG-MqwQ/master.m3u8
-#EXTINF:-1 tvg-name="Western Storm vs Sunrisers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99799" group-title="Charlotte Edwards Cup, 2024",Western Storm vs Sunrisers
-https://dai.google.com/linear/hls/event/Fm-ABaJmQcKjZyPCafbDQQ/master.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102173" group-title="European Open",Day 2
 https://dai.google.com/linear/hls/event/piJ_v0s-QdqDnqZXF7laeg/master.m3u8
