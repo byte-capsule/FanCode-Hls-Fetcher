@@ -13,3 +13,5 @@ https://dai.google.com/linear/hls/event/HP_FBbW2QseJZM2tILZ_aQ/master.m3u8
 https://dai.fancode.com/primary/102190_english_hls_6236adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102174" group-title="European Open",Day 3
 https://dai.google.com/linear/hls/event/qslnUa8gRn-X0i86jaS0vw/master.m3u8
+#EXTINF:-1 tvg-name="Thailand vs China" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100965" group-title="Volleyball Nations League Women's",Thailand vs China
+https://dai.google.com/linear/hls/event/sSBfDQj8RQWK1Jtl2MKGSQ/master.m3u8
