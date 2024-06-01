@@ -3,12 +3,10 @@
 https://dai.google.com/linear/hls/event/hjN93PltRxmNhhuGiE6E0A/master.m3u8
 #EXTINF:-1 tvg-name="Porto Wanderers vs Fighters CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101115" group-title="ECSN Portugal, 2024",Porto Wanderers vs Fighters CC
 https://dai.google.com/linear/hls/event/E9363T2fQ-mMKRFn-KUq1Q/master.m3u8
-#EXTINF:-1 tvg-name="Everest vs Royal CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102705" group-title="ECS Cyprus, Encore, 2024",Everest vs Royal CC
-https://dai.google.com/linear/hls/event/KSX593NVSdu5x3lkUl7GqQ/master.m3u8
-#EXTINF:-1 tvg-name="Cameroon Women vs Nigeria Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101904" group-title="Kwibuka Women's T20I Tournament, 2024",Cameroon Women vs Nigeria Women
-https://dai.google.com/linear/hls/event/smXFH-xbSomvXqQ7EJUDaA/master.m3u8
 #EXTINF:-1 tvg-name="Uganda Women vs Zimbabwe A Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101905" group-title="Kwibuka Women's T20I Tournament, 2024",Uganda Women vs Zimbabwe A Women
 https://dai.google.com/linear/hls/event/UP3l_yBfSzqUTY2v_G9Jrg/master.m3u8
+#EXTINF:-1 tvg-name="Cameroon Women vs Nigeria Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101904" group-title="Kwibuka Women's T20I Tournament, 2024",Cameroon Women vs Nigeria Women
+https://dai.google.com/linear/hls/event/smXFH-xbSomvXqQ7EJUDaA/master.m3u8
 #EXTINF:-1 tvg-name="Biratnagar Panthers vs Purwanchal Cricket Academy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102343" group-title="Nepal T10, 2024",Biratnagar Panthers vs Purwanchal Cricket Academy
 https://dai.google.com/linear/hls/event/HP_FBbW2QseJZM2tILZ_aQ/master.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102174" group-title="European Open",Day 3
