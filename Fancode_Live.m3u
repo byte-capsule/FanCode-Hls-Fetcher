@@ -1,13 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="KCA Ruby vs KCA Emerald" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101622" group-title="KCA TCM Pink T20 Challengers, 2024",KCA Ruby vs KCA Emerald
 https://dai.google.com/linear/hls/event/w9UPq6vvQ4eeOZ0UXKi8gQ/master.m3u8
-#EXTINF:-1 tvg-name="Sri Lankan Lions vs Napa Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102703" group-title="ECS Cyprus, Encore, 2024",Sri Lankan Lions vs Napa Kings
-https://dai.google.com/linear/hls/event/Uxbu3AhJQKClCwwmvHoKfg/master.m3u8
+#EXTINF:-1 tvg-name="Sri Lankan Lions vs Everest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102704" group-title="ECS Cyprus, Encore, 2024",Sri Lankan Lions vs Everest
+https://dai.google.com/linear/hls/event/91Idm3o3R4SrGzY574TdhQ/master.m3u8
 #EXTINF:-1 tvg-name="Kenya Women vs Malawi Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101903" group-title="Kwibuka Women's T20I Tournament, 2024",Kenya Women vs Malawi Women
 https://dai.google.com/linear/hls/event/ORxrTQ3ySFmkFZtpHR7bWg/master.m3u8
 #EXTINF:-1 tvg-name="Rwanda Women vs Botswana Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101902" group-title="Kwibuka Women's T20I Tournament, 2024",Rwanda Women vs Botswana Women
 https://dai.google.com/linear/hls/event/W_UvCgyvT-uEG3VWoK-XvA/master.m3u8
-#EXTINF:-1 tvg-name="Urawa Red Diamonds vs Vissel Kobe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102189" group-title="J League 2024",Urawa Red Diamonds vs Vissel Kobe
-https://dai.fancode.com/primary/102189_english_hls_6003adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Dominican Republic vs Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100964" group-title="Volleyball Nations League Women's",Dominican Republic vs Japan
 https://dai.google.com/linear/hls/event/CAXWS9HwRpyb96sc-i8NbA/master.m3u8
