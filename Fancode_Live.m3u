@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Sharjah vs Emirates Blues" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101477" group-title="Emirates D10 Tournament, 2024",Sharjah vs Emirates Blues
+https://dai.google.com/linear/hls/event/hjN93PltRxmNhhuGiE6E0A/master.m3u8
 #EXTINF:-1 tvg-name="KCA Ruby vs KCA Emerald" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101622" group-title="KCA TCM Pink T20 Challengers, 2024",KCA Ruby vs KCA Emerald
 https://dai.google.com/linear/hls/event/w9UPq6vvQ4eeOZ0UXKi8gQ/master.m3u8
 #EXTINF:-1 tvg-name="Sri Lankan Lions vs Everest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102704" group-title="ECS Cyprus, Encore, 2024",Sri Lankan Lions vs Everest
@@ -7,5 +9,5 @@ https://dai.google.com/linear/hls/event/91Idm3o3R4SrGzY574TdhQ/master.m3u8
 https://dai.google.com/linear/hls/event/ORxrTQ3ySFmkFZtpHR7bWg/master.m3u8
 #EXTINF:-1 tvg-name="Rwanda Women vs Botswana Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101902" group-title="Kwibuka Women's T20I Tournament, 2024",Rwanda Women vs Botswana Women
 https://dai.google.com/linear/hls/event/W_UvCgyvT-uEG3VWoK-XvA/master.m3u8
-#EXTINF:-1 tvg-name="Dominican Republic vs Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100964" group-title="Volleyball Nations League Women's",Dominican Republic vs Japan
-https://dai.google.com/linear/hls/event/CAXWS9HwRpyb96sc-i8NbA/master.m3u8
+#EXTINF:-1 tvg-name="Kyoto Sanga vs Cerezo Osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102190" group-title="J League 2024",Kyoto Sanga vs Cerezo Osaka
+https://dai.fancode.com/primary/102190_english_hls_6236adfreeta-di/index.m3u8
