@@ -5,5 +5,7 @@ https://dai.google.com/linear/hls/event/Rwc6GAqWQk2odLVURC6KnQ/master.m3u8
 https://dai.google.com/linear/hls/event/mqXYb7EVRUakAozOwI46iw/master.m3u8
 #EXTINF:-1 tvg-name="Kashima Antlers vs Yokohama F. Marinos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102187" group-title="J League 2024",Kashima Antlers vs Yokohama F. Marinos
 https://dai.fancode.com/primary/102187_english_hls_6673adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Karpagam University vs Durai Singam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100347" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",Karpagam University vs Durai Singam
+https://dai.google.com/linear/hls/event/rOvxMGZPQfG1oTTSHEPQng/master.m3u8
 #EXTINF:-1 tvg-name="Brazil vs Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100963" group-title="Volleyball Nations League Women's",Brazil vs Italy
 https://dai.google.com/linear/hls/event/J416SfCnRl672DhCjBRbQw/master.m3u8
