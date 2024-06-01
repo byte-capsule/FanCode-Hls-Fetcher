@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Leicestershire vs Derbyshire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102082" group-title="Vitality Blast T20, 2024",Leicestershire vs Derbyshire
-https://pubads.g.doubleclick.net/ssai/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8
 #EXTINF:-1 tvg-name="Prim Height Transport vs Karwan Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100860" group-title="Bukhatir T10 League, 2024",Prim Height Transport vs Karwan Cricket Club
 https://dai.google.com/linear/hls/event/H3k66b_USs-tOFNDhaMiwQ/master.m3u8
 #EXTINF:-1 tvg-name="Porto Wanderers vs Coimbra Knights" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101117" group-title="ECSN Portugal, 2024",Porto Wanderers vs Coimbra Knights
 https://dai.google.com/linear/hls/event/3TCl7QtbS7aBHORHMOix5g/master.m3u8
 #EXTINF:-1 tvg-name="YRCC Birat Blasters vs Purwanchal Cricket Academy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102345" group-title="Nepal T10, 2024",YRCC Birat Blasters vs Purwanchal Cricket Academy
 https://dai.google.com/linear/hls/event/Q6anaOhKRcCaaTvBbjAEdQ/master.m3u8
+#EXTINF:-1 tvg-name="CECC vs Kuwait Under-19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100206" group-title="KCC T20 Elite Cup 3rd Edition, 2024",CECC vs Kuwait Under-19
+https://dai.google.com/linear/hls/event/KmiYlamgSZSm7TN4woRMbQ/master.m3u8
