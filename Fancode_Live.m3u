@@ -1,10 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Abu Dhabi vs Emirates Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101478" group-title="Emirates D10 Tournament, 2024",Abu Dhabi vs Emirates Red
 https://dai.google.com/linear/hls/event/loH4mtWhQtCRKEr8G3LRgw/master.m3u8
+#EXTINF:-1 tvg-name="Leicestershire vs Derbyshire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102082" group-title="Vitality Blast T20, 2024",Leicestershire vs Derbyshire
+https://pubads.g.doubleclick.net/ssai/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8
 #EXTINF:-1 tvg-name="Globelink Weststar vs Gems Education CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100859" group-title="Bukhatir T10 League, 2024",Globelink Weststar vs Gems Education CC
 https://dai.google.com/linear/hls/event/Axvc3L-OT1SWx-ik-eeVmw/master.m3u8
-#EXTINF:-1 tvg-name="Porto Wanderers vs Fighters CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101115" group-title="ECSN Portugal, 2024",Porto Wanderers vs Fighters CC
-https://dai.google.com/linear/hls/event/E9363T2fQ-mMKRFn-KUq1Q/master.m3u8
+#EXTINF:-1 tvg-name="Fighters CC vs Porto Wanderers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101116" group-title="ECSN Portugal, 2024",Fighters CC vs Porto Wanderers
+https://dai.google.com/linear/hls/event/obFcXk7vQD6OODVTUzwHAw/master.m3u8
 #EXTINF:-1 tvg-name="Royal CC vs Sri Lankan Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102706" group-title="ECS Cyprus, Encore, 2024",Royal CC vs Sri Lankan Lions
 https://dai.google.com/linear/hls/event/biDO5c4QRQih1ETCfUqWAg/master.m3u8
 #EXTINF:-1 tvg-name="Uganda Women vs Zimbabwe A Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101905" group-title="Kwibuka Women's T20I Tournament, 2024",Uganda Women vs Zimbabwe A Women
@@ -13,5 +15,3 @@ https://dai.google.com/linear/hls/event/UP3l_yBfSzqUTY2v_G9Jrg/master.m3u8
 https://dai.google.com/linear/hls/event/BTmvueiUTs6ELGwBTNXkdg/master.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102174" group-title="European Open",Day 3
 https://dai.google.com/linear/hls/event/qslnUa8gRn-X0i86jaS0vw/master.m3u8
-#EXTINF:-1 tvg-name="Chennai Sports vs Nellai Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100348" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",Chennai Sports vs Nellai Kings
-https://dai.google.com/linear/hls/event/kPHWswIdRLWlZDcjrQ7uSg/master.m3u8
