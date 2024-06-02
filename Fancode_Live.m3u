@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Nicosia Fighters vs Napa Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102710" group-title="ECS Cyprus, Encore, 2024",Nicosia Fighters vs Napa Kings
-https://dai.google.com/linear/hls/event/CS1ELx5cStiDwQZhirbXQg/master.m3u8
+#EXTINF:-1 tvg-name="Nicosia Fighters vs Philips Warrior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102711" group-title="ECS Cyprus, Encore, 2024",Nicosia Fighters vs Philips Warrior
+https://dai.google.com/linear/hls/event/6c4RAo7hR82HN1GZyq48yg/master.m3u8
 #EXTINF:-1 tvg-name="Biratnagar Panthers vs Birat Sporting" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102347" group-title="Nepal T10, 2024",Biratnagar Panthers vs Birat Sporting
 https://dai.google.com/linear/hls/event/N1Twb-dRQKmVZ4Mi5vrBpQ/master.m3u8
 #EXTINF:-1 tvg-name="YRCC Birat Blasters vs Birat Sporting" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102342" group-title="Nepal T10, 2024",YRCC Birat Blasters vs Birat Sporting
 https://dai.google.com/linear/hls/event/yORjs0chQBKs5pPjcw0XhQ/master.m3u8
-#EXTINF:-1 tvg-name="Dragons Women vs Scorchers Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101570" group-title="Evoke Super 50 Cup, 2024",Dragons Women vs Scorchers Women
-https://dai.google.com/linear/hls/event/OU_ufCV8RcK_J1y74pbWEQ/master.m3u8
 #EXTINF:-1 tvg-name="DCC Starlets vs Dolphin Rent a Car" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102349" group-title="ICCA Arabian T10, 2024",DCC Starlets vs Dolphin Rent a Car
 https://dai.google.com/linear/hls/event/YsuDahK3TC2b2tgXUSYUMQ/master.m3u8
+#EXTINF:-1 tvg-name="Dragons Women vs Scorchers Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101570" group-title="Evoke Super 50 Cup, 2024",Dragons Women vs Scorchers Women
+https://dai.google.com/linear/hls/event/OU_ufCV8RcK_J1y74pbWEQ/master.m3u8
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102175" group-title="European Open",Day 4
 https://dai.google.com/linear/hls/event/recaepadTr2hEICfYeX-7Q/master.m3u8
-#EXTINF:-1 tvg-name="Italy vs China" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100971" group-title="Volleyball Nations League Women's",Italy vs China
-https://dai.google.com/linear/hls/event/IT753p5ISzK3FWPfq5yahw/master.m3u8
+#EXTINF:-1 tvg-name="Samy Academy vs Jayachitra Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100352" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",Samy Academy vs Jayachitra Club
+https://dai.google.com/linear/hls/event/Fn0UlmLXR42coWPyLsFehg/master.m3u8
