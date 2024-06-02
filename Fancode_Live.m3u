@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Lisbon Super Giants vs Oeiras" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101119" group-title="ECSN Portugal, 2024",Lisbon Super Giants vs Oeiras
+https://dai.google.com/linear/hls/event/br1bIPufSjicuXmY0NgoFA/master.m3u8
 #EXTINF:-1 tvg-name="Glamorgan vs Sussex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102085" group-title="Vitality Blast T20, 2024",Glamorgan vs Sussex
 https://dai.google.com/linear/hls/event/wxWnaOIaR8Gf7fcPh7R2EA/master.m3u8
 #EXTINF:-1 tvg-name="CSS Group vs Fly Emirates" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100863" group-title="Bukhatir T10 League, 2024",CSS Group vs Fly Emirates
@@ -11,3 +13,5 @@ https://dai.google.com/linear/hls/event/4eKumNMfSrCBYYhaA3QaHQ/master.m3u8
 https://dai.google.com/linear/hls/event/ZLPYpqRAQd6tLgH50ijIFw/master.m3u8
 #EXTINF:-1 tvg-name="Dragons Women vs Scorchers Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101570" group-title="Evoke Super 50 Cup, 2024",Dragons Women vs Scorchers Women
 https://dai.google.com/linear/hls/event/OU_ufCV8RcK_J1y74pbWEQ/master.m3u8
+#EXTINF:-1 tvg-name="South Korea vs Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100972" group-title="Volleyball Nations League Women's",South Korea vs Canada
+https://dai.google.com/linear/hls/event/1fUBwMmeRFytzsBDtxEkKA/master.m3u8
