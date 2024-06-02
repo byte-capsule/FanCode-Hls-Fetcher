@@ -13,3 +13,5 @@ https://dai.google.com/linear/hls/event/yORjs0chQBKs5pPjcw0XhQ/master.m3u8
 https://dai.google.com/linear/hls/event/OU_ufCV8RcK_J1y74pbWEQ/master.m3u8
 #EXTINF:-1 tvg-name="Kenya Women vs Nigeria Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101897" group-title="Kwibuka Women's T20I Tournament, 2024",Kenya Women vs Nigeria Women
 https://dai.google.com/linear/hls/event/yvxpseoFR4SC32w1Cue9qw/master.m3u8
+#EXTINF:-1 tvg-name="Day 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102175" group-title="European Open",Day 4
+https://dai.google.com/linear/hls/event/recaepadTr2hEICfYeX-7Q/master.m3u8
