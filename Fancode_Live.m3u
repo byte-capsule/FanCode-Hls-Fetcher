@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Glamorgan vs Sussex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102085" group-title="Vitality Blast T20, 2024",Glamorgan vs Sussex
 https://dai.google.com/linear/hls/event/wxWnaOIaR8Gf7fcPh7R2EA/master.m3u8
+#EXTINF:-1 tvg-name="Z Games Strikers vs Seven Districts Hybrid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100862" group-title="Bukhatir T10 League, 2024",Z Games Strikers vs Seven Districts Hybrid
+https://dai.google.com/linear/hls/event/nS1m0yFhSNqijO81DTnsIg/master.m3u8
 #EXTINF:-1 tvg-name="Nicosia Fighters vs Philips Warrior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102711" group-title="ECS Cyprus, Encore, 2024",Nicosia Fighters vs Philips Warrior
 https://dai.google.com/linear/hls/event/6c4RAo7hR82HN1GZyq48yg/master.m3u8
 #EXTINF:-1 tvg-name="YRCC Birat Blasters vs Birat Sporting" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102342" group-title="Nepal T10, 2024",YRCC Birat Blasters vs Birat Sporting
