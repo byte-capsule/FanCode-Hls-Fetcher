@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="KCA Pearl vs KCA Sapphire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101624" group-title="KCA TCM Pink T20 Challengers, 2024",KCA Pearl vs KCA Sapphire
 https://dai.google.com/linear/hls/event/RgodLFd-RQaFbSu1V-_2Jg/master.m3u8
-#EXTINF:-1 tvg-name="Limassol Qalandars vs Napa Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102708" group-title="ECS Cyprus, Encore, 2024",Limassol Qalandars vs Napa Kings
-https://dai.google.com/linear/hls/event/efpjnEn1TTe5G7_sbr__jg/master.m3u8
 #EXTINF:-1 tvg-name="Kenya Women vs Nigeria Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101897" group-title="Kwibuka Women's T20I Tournament, 2024",Kenya Women vs Nigeria Women
 https://dai.google.com/linear/hls/event/yvxpseoFR4SC32w1Cue9qw/master.m3u8
 #EXTINF:-1 tvg-name="Brazil vs Thailand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100970" group-title="Volleyball Nations League Women's",Brazil vs Thailand
