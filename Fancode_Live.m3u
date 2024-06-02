@@ -1,11 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Lisbon Super Giants vs Oeiras" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101119" group-title="ECSN Portugal, 2024",Lisbon Super Giants vs Oeiras
-https://dai.google.com/linear/hls/event/br1bIPufSjicuXmY0NgoFA/master.m3u8
 #EXTINF:-1 tvg-name="CSS Group vs Fly Emirates" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100863" group-title="Bukhatir T10 League, 2024",CSS Group vs Fly Emirates
 https://dai.google.com/linear/hls/event/1cJRERn3SNK5UX8HOT97JA/master.m3u8
 #EXTINF:-1 tvg-name="ABX Rent a Car vs Spades Real Estate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102351" group-title="ICCA Arabian T10, 2024",ABX Rent a Car vs Spades Real Estate
 https://dai.google.com/linear/hls/event/uKvg4uwuQ06PpIVUUTwg2g/master.m3u8
 #EXTINF:-1 tvg-name="CECC-B vs Phoenix Cricketers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99764" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",CECC-B vs Phoenix Cricketers
 https://dai.google.com/linear/hls/event/gGq4QRf3TGOEx3Un2nQGWQ/master.m3u8
-#EXTINF:-1 tvg-name="South Korea vs Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100972" group-title="Volleyball Nations League Women's",South Korea vs Canada
-https://dai.google.com/linear/hls/event/1fUBwMmeRFytzsBDtxEkKA/master.m3u8
