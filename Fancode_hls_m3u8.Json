@@ -1,30 +1,7 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 2,
-  "updated_on": "03-06-2024 on 00:30:00 AM \ud83c\udf19",
-  "channels": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICCA Arabian T10, 2024",
-      "match_id": 102351,
-      "match_name": "ABX Rent a Car vs Spades Real Estate",
-      "team_1": "ABX Rent a Car",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ARC@2x.png",
-      "team_2": "Spades Real Estate",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOLR@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/uKvg4uwuQ06PpIVUUTwg2g/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "KCC T20 Challengers Cup, 2nd Edition, 2024",
-      "match_id": 99764,
-      "match_name": "CECC-B vs Phoenix Cricketers",
-      "team_1": "CECC-B",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CECT@2x.png",
-      "team_2": "Phoenix Cricketers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PHO@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/gGq4QRf3TGOEx3Un2nQGWQ/master.m3u8"
-    }
-  ]
+  "channels_amount": 0,
+  "updated_on": "03-06-2024 on 00:40:54 AM \ud83c\udf19",
+  "channels": []
 }
