@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Philips Warrior vs Napa Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102716" group-title="ECS Cyprus, Encore, 2024",Philips Warrior vs Napa Kings
-https://dai.google.com/linear/hls/event/sqAHqIA8SleguABB3P-u7g/master.m3u8
-#EXTINF:-1 tvg-name="Botswana Women vs Nigeria Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101908" group-title="Kwibuka Women's T20I Tournament, 2024",Botswana Women vs Nigeria Women
-https://dai.google.com/linear/hls/event/rdw33GnXTEGuXA2TlySkng/master.m3u8
+#EXTINF:-1 tvg-name="Royal CC vs Philips Warrior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102717" group-title="ECS Cyprus, Encore, 2024",Royal CC vs Philips Warrior
+https://dai.google.com/linear/hls/event/kIxtFJf2Tq2PLt_baoCvhw/master.m3u8
 #EXTINF:-1 tvg-name="Rwanda Women vs Kenya Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101909" group-title="Kwibuka Women's T20I Tournament, 2024",Rwanda Women vs Kenya Women
 https://dai.google.com/linear/hls/event/deqmfcO1SEOvs6ntay6AFg/master.m3u8
+#EXTINF:-1 tvg-name="Botswana Women vs Nigeria Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101908" group-title="Kwibuka Women's T20I Tournament, 2024",Botswana Women vs Nigeria Women
+https://dai.google.com/linear/hls/event/rdw33GnXTEGuXA2TlySkng/master.m3u8
+#EXTINF:-1 tvg-name="Karpagam University vs Chennai Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100357" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",Karpagam University vs Chennai Sports
+https://dai.google.com/linear/hls/event/PAl0ImmIQKCMmM2UDtDH6Q/master.m3u8
