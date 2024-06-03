@@ -1,31 +1,9 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 3,
-  "updated_on": "03-06-2024 on 0:32:06 PM \ud83c\udf1e",
+  "channels_amount": 1,
+  "updated_on": "03-06-2024 on 0:42:20 PM \ud83c\udf1e",
   "channels": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "KCA TCM Pink T20 Challengers, 2024",
-      "match_id": 101625,
-      "match_name": "KCA Sapphire vs KCA Ruby",
-      "team_1": "KCA Sapphire",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SPH@2x.png",
-      "team_2": "KCA Ruby",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RBY@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/u7t4bVONQJCU4Y0j86FxbQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECS Cyprus, Encore, 2024",
-      "match_id": 102713,
-      "match_name": "BF Cyprus vs Napa Kings",
-      "team_1": "BF Cyprus",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BFC@2x.png",
-      "team_2": "Napa Kings",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NKG-CR1@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/j4l_6eoFRHi3Y69Nmqu8FA/master.m3u8"
-    },
     {
       "event_catagory": "kabaddi",
       "event_name": "Velammal Yuva Kabaddi- Tamil Nadu Clubs",
