@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="KCA Amber vs KCA Pearl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101626" group-title="KCA TCM Pink T20 Challengers, 2024",KCA Amber vs KCA Pearl
-https://dai.google.com/linear/hls/event/fVnI70FETiW9xQinvtsODg/master.m3u8
 #EXTINF:-1 tvg-name="Royal CC vs Napa Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102715" group-title="ECS Cyprus, Encore, 2024",Royal CC vs Napa Kings
 https://dai.google.com/linear/hls/event/POW7nJBlR7m2YDOgXGiABA/master.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe A Women vs Cameroon Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101907" group-title="Kwibuka Women's T20I Tournament, 2024",Zimbabwe A Women vs Cameroon Women
