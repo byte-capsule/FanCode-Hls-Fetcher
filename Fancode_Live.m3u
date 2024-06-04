@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="KCA Ruby vs KCA Pearl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101627" group-title="KCA TCM Pink T20 Challengers, 2024",KCA Ruby vs KCA Pearl
-https://dai.google.com/linear/hls/event/Sk745scYTGG9Om3P4jp1Tw/master.m3u8
-#EXTINF:-1 tvg-name="Royal CC vs Limassol Qalandars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102718" group-title="ECS Cyprus, Encore, 2024",Royal CC vs Limassol Qalandars
-https://dai.google.com/linear/hls/event/c0k2FctBQsu7ZiuzfQ5MFg/master.m3u8
-#EXTINF:-1 tvg-name="Vels University vs Durai Singam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100359" group-title="Velammal Yuva Kabaddi- Tamil Nadu Clubs",Vels University vs Durai Singam
-https://dai.google.com/linear/hls/event/FY2JhAWtSmy-ULVSye4AUw/master.m3u8
+#EXTINF:-1 tvg-name="Nicosia Fighters vs Royal CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102719" group-title="ECS Cyprus, Encore, 2024",Nicosia Fighters vs Royal CC
+https://dai.google.com/linear/hls/event/CtOH2euwSKmNXVFoVyyW1Q/master.m3u8
+#EXTINF:-1 tvg-name="Nigeria Women vs Rwanda Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101910" group-title="Kwibuka Women's T20I Tournament, 2024",Nigeria Women vs Rwanda Women
+https://dai.google.com/linear/hls/event/PL30r8DUQJ6DSnrclM9swA/master.m3u8
 #EXTINF:-1 tvg-name="Poland vs Bulgaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101382" group-title="Volleyball Nations League Men's",Poland vs Bulgaria
 https://dai.google.com/linear/hls/event/_46F0xXKRS-zGNhbyQLWYw/master.m3u8
