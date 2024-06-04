@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Dolphin Rent a Car vs Elite Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102356" group-title="ICCA Arabian T10, 2024",Dolphin Rent a Car vs Elite Cricket Club
 https://dai.google.com/linear/hls/event/pzXkMDnASpyobRVB8ol_Tw/master.m3u8
+#EXTINF:-1 tvg-name="Lisbon Capitals vs Punjab CC Amadora" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101123" group-title="ECSN Portugal, 2024",Lisbon Capitals vs Punjab CC Amadora
+https://dai.google.com/linear/hls/event/MQIhYAtXSsW0BJJyUUlThw/master.m3u8
 #EXTINF:-1 tvg-name="V Eleven Cricket Club vs Dubai Thunders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100867" group-title="Bukhatir T10 League, 2024",V Eleven Cricket Club vs Dubai Thunders
 https://dai.google.com/linear/hls/event/9c-IOnRPQ-Ozd_poZj4P3g/master.m3u8
 #EXTINF:-1 tvg-name="Leinster Lightning vs Northern Knights" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99923" group-title="Ireland Inter-Provincial T20 Trophy, 2024",Leinster Lightning vs Northern Knights
