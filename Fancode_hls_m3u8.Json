@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 4,
-  "updated_on": "04-06-2024 on 8:41:07 PM \ud83c\udf19",
+  "channels_amount": 2,
+  "updated_on": "04-06-2024 on 9:07:00 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -14,28 +14,6 @@
       "team_2": "Elite Cricket Club",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ECCI@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/pzXkMDnASpyobRVB8ol_Tw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECS Cyprus, Encore, 2024",
-      "match_id": 102722,
-      "match_name": "Sri Lankan Lions vs Philips Warrior",
-      "team_1": "Sri Lankan Lions",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRLL@2x.png",
-      "team_2": "Philips Warrior",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PLP-CR1@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/4RepslQoR8ODZBORMgk9mQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Kwibuka Women's T20I Tournament, 2024",
-      "match_id": 101913,
-      "match_name": "Cameroon Women vs Malawi Women",
-      "team_1": "Cameroon Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAME@2x.png",
-      "team_2": "Malawi Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALA@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/-9fc2pPPSu6xObOBpcC6sA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
