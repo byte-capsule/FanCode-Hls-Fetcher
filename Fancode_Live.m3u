@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Limassol Qalandars vs Philips Warrior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102721" group-title="ECS Cyprus, Encore, 2024",Limassol Qalandars vs Philips Warrior
 https://dai.google.com/linear/hls/event/UShoJvf0S1maVcPp12vDTQ/master.m3u8
-#EXTINF:-1 tvg-name="Zimbabwe A Women vs Botswana Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101912" group-title="Kwibuka Women's T20I Tournament, 2024",Zimbabwe A Women vs Botswana Women
-https://dai.google.com/linear/hls/event/ujwGPjxuRV6T0czyjkPHiw/master.m3u8
 #EXTINF:-1 tvg-name="Cameroon Women vs Malawi Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101913" group-title="Kwibuka Women's T20I Tournament, 2024",Cameroon Women vs Malawi Women
 https://dai.google.com/linear/hls/event/-9fc2pPPSu6xObOBpcC6sA/master.m3u8
+#EXTINF:-1 tvg-name="Zimbabwe A Women vs Botswana Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101912" group-title="Kwibuka Women's T20I Tournament, 2024",Zimbabwe A Women vs Botswana Women
+https://dai.google.com/linear/hls/event/ujwGPjxuRV6T0czyjkPHiw/master.m3u8
 #EXTINF:-1 tvg-name="Kabul Knight Riders vs Band-e Amir Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102971" group-title="Kabul Premier League, 2024",Kabul Knight Riders vs Band-e Amir Stars
 https://dai.google.com/linear/hls/event/ESu6wPs7SbefCjIa-2X3jA/master.m3u8
 #EXTINF:-1 tvg-name="North West Warriors vs Munster Reds" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99922" group-title="Ireland Inter-Provincial T20 Trophy, 2024",North West Warriors vs Munster Reds
