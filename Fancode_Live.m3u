@@ -3,8 +3,6 @@
 https://dai.google.com/linear/hls/event/wCpYmG1NR9WoQW1OBL5H9g/master.m3u8
 #EXTINF:-1 tvg-name="Globelink Weststar vs Seven Districts Hybrid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100869" group-title="Bukhatir T10 League, 2024",Globelink Weststar vs Seven Districts Hybrid
 https://dai.google.com/linear/hls/event/GbpV1BbXQ9ybb6hXo5kNLg/master.m3u8
-#EXTINF:-1 tvg-name="North West Warriors vs Munster Reds" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100470" group-title="Ireland Inter-Provincial Limited Over Cup, 2024",North West Warriors vs Munster Reds
-https://dai.google.com/linear/hls/event/7e32a84rTZ27pSDzk5aItQ/master.m3u8
 #EXTINF:-1 tvg-name="Bader & Nie Cricket Club vs Al Sayer" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99766" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",Bader & Nie Cricket Club vs Al Sayer
 https://dai.google.com/linear/hls/event/KwnChw31RfSsO3IktBq_dQ/master.m3u8
 #EXTINF:-1 tvg-name="Togo vs South Sudan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102202" group-title="CAF World Cup Qualifiers",Togo vs South Sudan
@@ -15,11 +13,7 @@ https://dai.google.com/linear/hls/event/3gXP1WqISv6WN3DeiwzlFw/master.m3u8
 https://dai.google.com/linear/hls/event/LaJuxrk4Q3aHjHGOpnExiQ/master.m3u8
 #EXTINF:-1 tvg-name="Namibia vs Liberia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102205" group-title="CAF World Cup Qualifiers",Namibia vs Liberia
 https://dai.google.com/linear/hls/event/lsKn8KQySxKQpjccJCuP7w/master.m3u8
-#EXTINF:-1 tvg-name="Ludwig/Lippmann vs Neuschaeferova/Svozilova" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103498" group-title="Volleyball Womens Beach Pro Tour",Ludwig/Lippmann vs Neuschaeferova/Svozilova
-https://dai.fancode.com/primary/103498_english_hls_5281adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Vergé-Dépré, A./Mäder vs Esmée/Zoé" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103497" group-title="Volleyball Womens Beach Pro Tour",Vergé-Dépré, A./Mäder vs Esmée/Zoé
-https://dai.fancode.com/primary/103497_english_hls_9adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Agatha/Rebecca vs Paulikiene/Raupelyte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103500" group-title="Volleyball Womens Beach Pro Tour",Agatha/Rebecca vs Paulikiene/Raupelyte
- Free Trial attempt unsuccessful......it requires Premium Account
+https://dai.fancode.com/primary/103500_english_hls_687adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Hildreth/Van Gunst vs Vitoria/Hegeile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103499" group-title="Volleyball Womens Beach Pro Tour",Hildreth/Van Gunst vs Vitoria/Hegeile
- Free Trial attempt unsuccessful......it requires Premium Account
+https://dai.fancode.com/primary/103499_english_hls_4561adfreeta-di/index.m3u8
