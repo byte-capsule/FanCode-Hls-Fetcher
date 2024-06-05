@@ -1,21 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="BF Cyprus vs Sri Lankan Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102726" group-title="ECS Cyprus, Encore, 2024",BF Cyprus vs Sri Lankan Lions
-https://dai.google.com/linear/hls/event/oQNrU0xuReGYaii1dsCmHA/master.m3u8
+#EXTINF:-1 tvg-name="Sri Lankan Lions vs Nicosia Fighters" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102727" group-title="ECS Cyprus, Encore, 2024",Sri Lankan Lions vs Nicosia Fighters
+https://dai.google.com/linear/hls/event/VJoapPfjTbOCsjBBZDNIqA/master.m3u8
 #EXTINF:-1 tvg-name="Band-e Amir Stars vs Shaheen Hunters" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102973" group-title="Kabul Premier League, 2024",Band-e Amir Stars vs Shaheen Hunters
 https://dai.google.com/linear/hls/event/jIDMtZSaQ-moahJedzVenw/master.m3u8
-#EXTINF:-1 tvg-name="Uganda Women vs Rwanda Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101916" group-title="Kwibuka Women's T20I Tournament, 2024",Uganda Women vs Rwanda Women
-https://dai.google.com/linear/hls/event/Yh4UvEXnQFqueVzyqylx-w/master.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe A Women vs Nigeria Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101917" group-title="Kwibuka Women's T20I Tournament, 2024",Zimbabwe A Women vs Nigeria Women
 https://dai.google.com/linear/hls/event/E7kXgpuUTi-h33ipnoK5Iw/master.m3u8
+#EXTINF:-1 tvg-name="Uganda Women vs Rwanda Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101916" group-title="Kwibuka Women's T20I Tournament, 2024",Uganda Women vs Rwanda Women
+https://dai.google.com/linear/hls/event/Yh4UvEXnQFqueVzyqylx-w/master.m3u8
 #EXTINF:-1 tvg-name="Leinster Lightning vs Northern Knights" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100471" group-title="Ireland Inter-Provincial Limited Over Cup, 2024",Leinster Lightning vs Northern Knights
 https://dai.google.com/linear/hls/event/_WVFA9RySz2uMm9jkSL7Lw/master.m3u8
 #EXTINF:-1 tvg-name="North West Warriors vs Munster Reds" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100470" group-title="Ireland Inter-Provincial Limited Over Cup, 2024",North West Warriors vs Munster Reds
 https://dai.google.com/linear/hls/event/7e32a84rTZ27pSDzk5aItQ/master.m3u8
 #EXTINF:-1 tvg-name="Germany vs Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101397" group-title="Volleyball Nations League Men's",Germany vs Japan
 https://dai.google.com/linear/hls/event/KxjXHX3wQD6kZo_0_vrUtg/master.m3u8
-#EXTINF:-1 tvg-name="Vergé-Dépré, A./Mäder vs Taiana Lima/Talita" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103491" group-title="Volleyball Womens Beach Pro Tour",Vergé-Dépré, A./Mäder vs Taiana Lima/Talita
-https://dai.fancode.com/primary/103491_english_hls_9517adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Bansley/Bukovec vs Vitoria/Hegeile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103494" group-title="Volleyball Womens Beach Pro Tour",Bansley/Bukovec vs Vitoria/Hegeile
 https://dai.fancode.com/primary/103494_english_hls_6115adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Tainá/Victoria vs Hildreth/Van Gunst" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103493" group-title="Volleyball Womens Beach Pro Tour",Tainá/Victoria vs Hildreth/Van Gunst
+https://dai.fancode.com/primary/103493_english_hls_9958adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Paulikiene/Raupelyte vs Liliana/Paula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103496" group-title="Volleyball Womens Beach Pro Tour",Paulikiene/Raupelyte vs Liliana/Paula
+ Free Trial attempt unsuccessful......it requires Premium Account
+#EXTINF:-1 tvg-name="Agatha/Rebecca vs Lorenzova/Černá M" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103495" group-title="Volleyball Womens Beach Pro Tour",Agatha/Rebecca vs Lorenzova/Černá M
  Free Trial attempt unsuccessful......it requires Premium Account
