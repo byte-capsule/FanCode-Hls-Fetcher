@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="BF Cyprus vs Nicosia Fighters" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102724" group-title="ECS Cyprus, Encore, 2024",BF Cyprus vs Nicosia Fighters
 https://dai.google.com/linear/hls/event/yJbVyw3PQj2_MRQj8Cspkw/master.m3u8
-#EXTINF:-1 tvg-name="Speenghar Warriors vs Shamshad Eagles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102972" group-title="Kabul Premier League, 2024",Speenghar Warriors vs Shamshad Eagles
-https://dai.google.com/linear/hls/event/1uJcsLVpTMmQ7wY4YljbQA/master.m3u8
-#EXTINF:-1 tvg-name="KCA Amber vs KCA Emerald" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101629" group-title="KCA TCM Pink T20 Challengers, 2024",KCA Amber vs KCA Emerald
-https://dai.google.com/linear/hls/event/2hOes4Y_TU-HJs4f-TxLYA/master.m3u8
 #EXTINF:-1 tvg-name="Cameroon Women vs Kenya Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101914" group-title="Kwibuka Women's T20I Tournament, 2024",Cameroon Women vs Kenya Women
 https://dai.google.com/linear/hls/event/CbDp_eqITLqJS7xR1ro1Nw/master.m3u8
 #EXTINF:-1 tvg-name="Botswana Women vs Malawi Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101915" group-title="Kwibuka Women's T20I Tournament, 2024",Botswana Women vs Malawi Women
@@ -15,3 +11,7 @@ https://dai.google.com/linear/hls/event/t5bDrPMtTj2zxsL2TaBD1w/master.m3u8
 https://dai.fancode.com/primary/103480_english_hls_6998adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Pfretzschner,/L. Winter vs Crabb Tr./Brunner" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103479" group-title="Volleyball Mens Beach Pro Tour",Pfretzschner,/L. Winter vs Crabb Tr./Brunner
 https://dai.fancode.com/primary/103479_english_hls_421adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Krou/Gauthier-Rat vs Vitor Felipe/Renato" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103482" group-title="Volleyball Mens Beach Pro Tour",Krou/Gauthier-Rat vs Vitor Felipe/Renato
+ Free Trial attempt unsuccessful......it requires Premium Account
+#EXTINF:-1 tvg-name="Evans/Budinger vs Westphal/Trousil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103481" group-title="Volleyball Mens Beach Pro Tour",Evans/Budinger vs Westphal/Trousil
+ Free Trial attempt unsuccessful......it requires Premium Account
