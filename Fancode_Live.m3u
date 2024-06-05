@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Nicosia Fighters vs Everest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102725" group-title="ECS Cyprus, Encore, 2024",Nicosia Fighters vs Everest
-https://dai.google.com/linear/hls/event/a_8ZMxf1Teiw1zG1Uvzriw/master.m3u8
+#EXTINF:-1 tvg-name="BF Cyprus vs Sri Lankan Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102726" group-title="ECS Cyprus, Encore, 2024",BF Cyprus vs Sri Lankan Lions
+https://dai.google.com/linear/hls/event/oQNrU0xuReGYaii1dsCmHA/master.m3u8
 #EXTINF:-1 tvg-name="Band-e Amir Stars vs Shaheen Hunters" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102973" group-title="Kabul Premier League, 2024",Band-e Amir Stars vs Shaheen Hunters
 https://dai.google.com/linear/hls/event/jIDMtZSaQ-moahJedzVenw/master.m3u8
-#EXTINF:-1 tvg-name="Botswana Women vs Malawi Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101915" group-title="Kwibuka Women's T20I Tournament, 2024",Botswana Women vs Malawi Women
-https://dai.google.com/linear/hls/event/aGCGDqxDQDmY7w9jIeePCg/master.m3u8
+#EXTINF:-1 tvg-name="Uganda Women vs Rwanda Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101916" group-title="Kwibuka Women's T20I Tournament, 2024",Uganda Women vs Rwanda Women
+https://dai.google.com/linear/hls/event/Yh4UvEXnQFqueVzyqylx-w/master.m3u8
 #EXTINF:-1 tvg-name="Leinster Lightning vs Northern Knights" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100471" group-title="Ireland Inter-Provincial Limited Over Cup, 2024",Leinster Lightning vs Northern Knights
 https://dai.google.com/linear/hls/event/_WVFA9RySz2uMm9jkSL7Lw/master.m3u8
 #EXTINF:-1 tvg-name="North West Warriors vs Munster Reds" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100470" group-title="Ireland Inter-Provincial Limited Over Cup, 2024",North West Warriors vs Munster Reds
@@ -13,5 +13,7 @@ https://dai.google.com/linear/hls/event/7e32a84rTZ27pSDzk5aItQ/master.m3u8
 https://dai.google.com/linear/hls/event/KxjXHX3wQD6kZo_0_vrUtg/master.m3u8
 #EXTINF:-1 tvg-name="Neuschaeferova/Svozilova vs Cannon/Kraft" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103490" group-title="Volleyball Womens Beach Pro Tour",Neuschaeferova/Svozilova vs Cannon/Kraft
 https://dai.fancode.com/primary/103490_english_hls_6423adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Ittlinger/Borger vs Ludwig/Lippmann" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103489" group-title="Volleyball Womens Beach Pro Tour",Ittlinger/Borger vs Ludwig/Lippmann
-https://dai.fancode.com/primary/103489_english_hls_142adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Vergé-Dépré, A./Mäder vs Taiana Lima/Talita" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103491" group-title="Volleyball Womens Beach Pro Tour",Vergé-Dépré, A./Mäder vs Taiana Lima/Talita
+https://dai.fancode.com/primary/103491_english_hls_9517adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Placette/Richard vs Esmée/Zoé" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103492" group-title="Volleyball Womens Beach Pro Tour",Placette/Richard vs Esmée/Zoé
+ Free Trial attempt unsuccessful......it requires Premium Account
