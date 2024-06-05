@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 9,
-  "updated_on": "05-06-2024 on 5:03:19 PM \ud83c\udf1e",
+  "channels_amount": 8,
+  "updated_on": "05-06-2024 on 5:22:46 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -73,17 +73,6 @@
     {
       "event_catagory": "volleyball",
       "event_name": "Volleyball Womens Beach Pro Tour",
-      "match_id": 103490,
-      "match_name": "Neuschaeferova/Svozilova vs Cannon/Kraft",
-      "team_1": "Neuschaeferova/Svozilova",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-CZR@2x.png",
-      "team_2": "Cannon/Kraft",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-US@2x.png",
-      "stream_link": "https://dai.fancode.com/primary/103490_english_hls_6423adfreeta-di/index.m3u8"
-    },
-    {
-      "event_catagory": "volleyball",
-      "event_name": "Volleyball Womens Beach Pro Tour",
       "match_id": 103491,
       "match_name": "Verg\u00e9-D\u00e9pr\u00e9, A./M\u00e4der vs Taiana Lima/Talita",
       "team_1": "Verg\u00e9-D\u00e9pr\u00e9, A./M\u00e4der",
@@ -101,7 +90,7 @@
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-FRC@2x.png",
       "team_2": "Esm\u00e9e/Zo\u00e9",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-SWZ@2x.png",
-      "stream_link": " Free Trial attempt unsuccessful......it requires Premium Account"
+      "stream_link": "https://dai.fancode.com/primary/103492_english_hls_5015adfreeta-no/index.m3u8"
     }
   ]
 }
