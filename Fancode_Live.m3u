@@ -7,12 +7,12 @@ https://dai.google.com/linear/hls/event/GbpV1BbXQ9ybb6hXo5kNLg/master.m3u8
 https://dai.google.com/linear/hls/event/KwnChw31RfSsO3IktBq_dQ/master.m3u8
 #EXTINF:-1 tvg-name="Togo vs South Sudan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102202" group-title="CAF World Cup Qualifiers",Togo vs South Sudan
 https://dai.google.com/linear/hls/event/HSmLCGnvTbmFg2RhuM1aNA/master.m3u8
+#EXTINF:-1 tvg-name="Namibia vs Liberia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102205" group-title="CAF World Cup Qualifiers",Namibia vs Liberia
+https://dai.google.com/linear/hls/event/lsKn8KQySxKQpjccJCuP7w/master.m3u8
 #EXTINF:-1 tvg-name="Central African Republic vs Chad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102204" group-title="CAF World Cup Qualifiers",Central African Republic vs Chad
 https://dai.google.com/linear/hls/event/3gXP1WqISv6WN3DeiwzlFw/master.m3u8
 #EXTINF:-1 tvg-name="Sierra Leone vs Djibouti" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102203" group-title="CAF World Cup Qualifiers",Sierra Leone vs Djibouti
 https://dai.google.com/linear/hls/event/LaJuxrk4Q3aHjHGOpnExiQ/master.m3u8
-#EXTINF:-1 tvg-name="Namibia vs Liberia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102205" group-title="CAF World Cup Qualifiers",Namibia vs Liberia
-https://dai.google.com/linear/hls/event/lsKn8KQySxKQpjccJCuP7w/master.m3u8
 #EXTINF:-1 tvg-name="Agatha/Rebecca vs Paulikiene/Raupelyte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103500" group-title="Volleyball Womens Beach Pro Tour",Agatha/Rebecca vs Paulikiene/Raupelyte
 https://dai.fancode.com/primary/103500_english_hls_687adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Hildreth/Van Gunst vs Vitoria/Hegeile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103499" group-title="Volleyball Womens Beach Pro Tour",Hildreth/Van Gunst vs Vitoria/Hegeile
