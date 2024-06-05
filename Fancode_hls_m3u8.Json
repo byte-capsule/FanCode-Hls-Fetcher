@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 4,
-  "updated_on": "05-06-2024 on 0:09:33 PM \ud83c\udf1e",
+  "channels_amount": 7,
+  "updated_on": "05-06-2024 on 0:32:12 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -47,6 +47,39 @@
       "team_2": "PRIST University",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-PR@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/kX8L8Z4fTHiPmmR0g3FuDA/master.m3u8"
+    },
+    {
+      "event_catagory": "volleyball",
+      "event_name": "Volleyball Nations League Men's",
+      "match_id": 101393,
+      "match_name": "Slovenia vs Turkey",
+      "team_1": "Slovenia",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-SVN@2x.png",
+      "team_2": "Turkey",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-TKY@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/t5bDrPMtTj2zxsL2TaBD1w/master.m3u8"
+    },
+    {
+      "event_catagory": "volleyball",
+      "event_name": "Volleyball Mens Beach Pro Tour",
+      "match_id": 103478,
+      "match_name": "Kantor/Zdybek vs Brouwer/Meeuwsen",
+      "team_1": "Kantor/Zdybek",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-PLN@2x.png",
+      "team_2": "Brouwer/Meeuwsen",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-NTH@2x.png",
+      "stream_link": "https://dai.fancode.com/primary/103478_english_hls_984adfreeta-no/index.m3u8"
+    },
+    {
+      "event_catagory": "volleyball",
+      "event_name": "Volleyball Mens Beach Pro Tour",
+      "match_id": 103477,
+      "match_name": "Herrera/Gavira vs Lyneel/Bassereau",
+      "team_1": "Herrera/Gavira",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-ESPA@2x.png",
+      "team_2": "Lyneel/Bassereau",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-FRC@2x.png",
+      "stream_link": " Free Trial attempt unsuccessful......it requires Premium Account"
     }
   ]
 }
