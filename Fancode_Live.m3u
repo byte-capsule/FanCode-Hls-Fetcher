@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Nicosia Fighters vs Everest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102725" group-title="ECS Cyprus, Encore, 2024",Nicosia Fighters vs Everest
+https://dai.google.com/linear/hls/event/a_8ZMxf1Teiw1zG1Uvzriw/master.m3u8
 #EXTINF:-1 tvg-name="Botswana Women vs Malawi Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101915" group-title="Kwibuka Women's T20I Tournament, 2024",Botswana Women vs Malawi Women
 https://dai.google.com/linear/hls/event/aGCGDqxDQDmY7w9jIeePCg/master.m3u8
 #EXTINF:-1 tvg-name="Cameroon Women vs Kenya Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101914" group-title="Kwibuka Women's T20I Tournament, 2024",Cameroon Women vs Kenya Women
@@ -7,3 +9,7 @@ https://dai.google.com/linear/hls/event/CbDp_eqITLqJS7xR1ro1Nw/master.m3u8
 https://dai.fancode.com/primary/103482_english_hls_7299adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Evans/Budinger vs Westphal/Trousil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103481" group-title="Volleyball Mens Beach Pro Tour",Evans/Budinger vs Westphal/Trousil
 https://dai.fancode.com/primary/103481_english_hls_1207adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Luini/Varenhorst vs Grimalt M./Grimalt E." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103484" group-title="Volleyball Mens Beach Pro Tour",Luini/Varenhorst vs Grimalt M./Grimalt E.
+ Free Trial attempt unsuccessful......it requires Premium Account
+#EXTINF:-1 tvg-name="Capogrosso T./Capogrosso N. vs Hörl/Horst" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103483" group-title="Volleyball Mens Beach Pro Tour",Capogrosso T./Capogrosso N. vs Hörl/Horst
+ Free Trial attempt unsuccessful......it requires Premium Account
