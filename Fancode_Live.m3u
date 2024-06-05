@@ -1,17 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="BF Cyprus vs Nicosia Fighters" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102724" group-title="ECS Cyprus, Encore, 2024",BF Cyprus vs Nicosia Fighters
-https://dai.google.com/linear/hls/event/yJbVyw3PQj2_MRQj8Cspkw/master.m3u8
-#EXTINF:-1 tvg-name="Cameroon Women vs Kenya Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101914" group-title="Kwibuka Women's T20I Tournament, 2024",Cameroon Women vs Kenya Women
-https://dai.google.com/linear/hls/event/CbDp_eqITLqJS7xR1ro1Nw/master.m3u8
 #EXTINF:-1 tvg-name="Botswana Women vs Malawi Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101915" group-title="Kwibuka Women's T20I Tournament, 2024",Botswana Women vs Malawi Women
 https://dai.google.com/linear/hls/event/aGCGDqxDQDmY7w9jIeePCg/master.m3u8
-#EXTINF:-1 tvg-name="Slovenia vs Turkey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101393" group-title="Volleyball Nations League Men's",Slovenia vs Turkey
-https://dai.google.com/linear/hls/event/t5bDrPMtTj2zxsL2TaBD1w/master.m3u8
-#EXTINF:-1 tvg-name="Ranghieri/Carambula vs Hodges/Schubert" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103480" group-title="Volleyball Mens Beach Pro Tour",Ranghieri/Carambula vs Hodges/Schubert
-https://dai.fancode.com/primary/103480_english_hls_6998adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Pfretzschner,/L. Winter vs Crabb Tr./Brunner" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103479" group-title="Volleyball Mens Beach Pro Tour",Pfretzschner,/L. Winter vs Crabb Tr./Brunner
-https://dai.fancode.com/primary/103479_english_hls_421adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Cameroon Women vs Kenya Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101914" group-title="Kwibuka Women's T20I Tournament, 2024",Cameroon Women vs Kenya Women
+https://dai.google.com/linear/hls/event/CbDp_eqITLqJS7xR1ro1Nw/master.m3u8
 #EXTINF:-1 tvg-name="Krou/Gauthier-Rat vs Vitor Felipe/Renato" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103482" group-title="Volleyball Mens Beach Pro Tour",Krou/Gauthier-Rat vs Vitor Felipe/Renato
- Free Trial attempt unsuccessful......it requires Premium Account
+https://dai.fancode.com/primary/103482_english_hls_7299adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Evans/Budinger vs Westphal/Trousil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103481" group-title="Volleyball Mens Beach Pro Tour",Evans/Budinger vs Westphal/Trousil
- Free Trial attempt unsuccessful......it requires Premium Account
+https://dai.fancode.com/primary/103481_english_hls_1207adfreeta-di/index.m3u8
