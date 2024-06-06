@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Muhamand Warriors vs CSS Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100871" group-title="Bukhatir T10 League, 2024",Muhamand Warriors vs CSS Group
+https://dai.google.com/linear/hls/event/xsu7Y7IFTMyoc8bHAaCgUg/master.m3u8
 #EXTINF:-1 tvg-name="DCC Starlets vs ABX Rent a Car" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102359" group-title="ICCA Arabian T10, 2024",DCC Starlets vs ABX Rent a Car
 https://dai.google.com/linear/hls/event/Sk5DmVrDS4OiwBk9WyIpAA/master.m3u8
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103028" group-title="Volvo Car Scandinavian Mixed",Day 1
