@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="France vs Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101400" group-title="Volleyball Nations League Men's",France vs Italy
-https://dai.google.com/linear/hls/event/6k5_Wuf4S1-lP9O4RQfLSA/master.m3u8
+#EXTINF:-1 tvg-name="Angels Women vs Queens Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102556" group-title="Siechem Pondicherry Womens T10 Tournament 2024",Angels Women vs Queens Women
+https://dai.google.com/linear/hls/event/puo8C8dWTPytSTiwDX2s6A/master.m3u8
+#EXTINF:-1 tvg-name="Iran vs Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101401" group-title="Volleyball Nations League Men's",Iran vs Brazil
+https://dai.google.com/linear/hls/event/x_0p9BMXQhyCVRd2cal45g/master.m3u8
