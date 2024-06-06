@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Diamonds Women vs Princess Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102557" group-title="Siechem Pondicherry Womens T10 Tournament 2024",Diamonds Women vs Princess Women
-https://dai.google.com/linear/hls/event/ExnIsWvcR7Cyjp8hC9zLnA/master.m3u8
 #EXTINF:-1 tvg-name="Cyprus Knight Riders vs Markhor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102729" group-title="ECS Cyprus, Encore, 2024",Cyprus Knight Riders vs Markhor
 https://dai.google.com/linear/hls/event/FRE6BEZNTPC57lODEpKqHQ/master.m3u8
-#EXTINF:-1 tvg-name="Speenghar Warriors vs Kabul Zalmi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102974" group-title="Kabul Premier League, 2024",Speenghar Warriors vs Kabul Zalmi
-https://dai.google.com/linear/hls/event/52CjiB5lQwCbx0d73DBH3g/master.m3u8
 #EXTINF:-1 tvg-name="Bulgaria vs Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101402" group-title="Volleyball Nations League Men's",Bulgaria vs Germany
 https://dai.google.com/linear/hls/event/XUtD70InR8C8NU4oH1ex6w/master.m3u8
 #EXTINF:-1 tvg-name="Evandro/Arthur vs Krou/Gauthier-Rat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103238" group-title="Volleyball Mens Beach Pro Tour",Evandro/Arthur vs Krou/Gauthier-Rat
 https://dai.fancode.com/primary/103238_english_hls_7836adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Mol, H./Berntsen vs Cherif/Ahmed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103237" group-title="Volleyball Mens Beach Pro Tour",Mol, H./Berntsen vs Cherif/Ahmed
 https://dai.fancode.com/primary/103237_english_hls_593adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Cottafava/Nicolai vs Luini/Varenhorst" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103241" group-title="Volleyball Mens Beach Pro Tour",Cottafava/Nicolai vs Luini/Varenhorst
+ Free Trial attempt unsuccessful......it requires Premium Account
+#EXTINF:-1 tvg-name="Perusic/Schweiner vs van de Velde/Immers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103240" group-title="Volleyball Mens Beach Pro Tour",Perusic/Schweiner vs van de Velde/Immers
+ Free Trial attempt unsuccessful......it requires Premium Account
