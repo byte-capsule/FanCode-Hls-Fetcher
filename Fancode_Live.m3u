@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Cyprus Knight Riders vs Sher-e-Punjab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102730" group-title="ECS Cyprus, Encore, 2024",Cyprus Knight Riders vs Sher-e-Punjab
 https://dai.google.com/linear/hls/event/7MxSnvvgT0y1voaSqhajdA/master.m3u8
-#EXTINF:-1 tvg-name="Cottafava/Nicolai vs Luini/Varenhorst" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103241" group-title="Volleyball Mens Beach Pro Tour",Cottafava/Nicolai vs Luini/Varenhorst
-https://dai.fancode.com/primary/103241_english_hls_7336adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Kabul Knight Riders vs Shamshad Eagles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102975" group-title="Kabul Premier League, 2024",Kabul Knight Riders vs Shamshad Eagles
+https://dai.google.com/linear/hls/event/KdSgIyehQQaObsc9pEhP-w/master.m3u8
 #EXTINF:-1 tvg-name="Tina/Anastasija vs Hildreth/Van Gunst" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103221" group-title="Volleyball Womens Beach Pro Tour",Tina/Anastasija vs Hildreth/Van Gunst
 https://dai.fancode.com/primary/103221_english_hls_7281adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Ana Patrícia/Duda vs Scoles/Flint" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103219" group-title="Volleyball Womens Beach Pro Tour",Ana Patrícia/Duda vs Scoles/Flint
- Free Trial attempt unsuccessful......it requires Premium Account
+https://dai.fancode.com/primary/103219_english_hls_223adfreeta-no/index.m3u8
