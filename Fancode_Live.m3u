@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="BF Cyprus vs Limassol Qalandars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102731" group-title="ECS Cyprus, Encore, 2024",BF Cyprus vs Limassol Qalandars
 https://dai.google.com/linear/hls/event/ae3PL_5yROGRHmLmMP9mSA/master.m3u8
+#EXTINF:-1 tvg-name="Sri Lankan Lions vs Limassol Qalandars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102732" group-title="ECS Cyprus, Encore, 2024",Sri Lankan Lions vs Limassol Qalandars
+https://dai.google.com/linear/hls/event/-PQ0wXjWQgGugaT1AaU-Qw/master.m3u8
 #EXTINF:-1 tvg-name="Shamshad Eagles vs Kabul Knight Riders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102975" group-title="Kabul Premier League, 2024",Shamshad Eagles vs Kabul Knight Riders
 https://dai.google.com/linear/hls/event/KdSgIyehQQaObsc9pEhP-w/master.m3u8
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103028" group-title="Volvo Car Scandinavian Mixed",Day 1
@@ -9,3 +11,7 @@ https://dai.google.com/linear/hls/event/7AStlR7wQq6bDDa5ynRM7w/master.m3u8
 https://dai.fancode.com/primary/103329_english_hls_7002adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Boermans/de Groot vs Sepka/Sedlak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103328" group-title="Volleyball Mens Beach Pro Tour",Boermans/de Groot vs Sepka/Sedlak
 https://dai.fancode.com/primary/103328_english_hls_459adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Stam/Schoon vs Vergé-Dépré, A./Mäder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103230" group-title="Volleyball Womens Beach Pro Tour",Stam/Schoon vs Vergé-Dépré, A./Mäder
+ Free Trial attempt unsuccessful......it requires Premium Account
+#EXTINF:-1 tvg-name="Melissa/Brandie vs Hermannova/Stochlova" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103229" group-title="Volleyball Womens Beach Pro Tour",Melissa/Brandie vs Hermannova/Stochlova
+ Free Trial attempt unsuccessful......it requires Premium Account
