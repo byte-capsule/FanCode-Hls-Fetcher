@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 7,
-  "updated_on": "06-06-2024 on 0:42:13 PM \ud83c\udf1e",
+  "channels_amount": 8,
+  "updated_on": "06-06-2024 on 1:07:54 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -29,13 +29,13 @@
     {
       "event_catagory": "cricket",
       "event_name": "ECS Cyprus, Encore, 2024",
-      "match_id": 102728,
-      "match_name": "Sher-e-Punjab vs Markhor",
-      "team_1": "Sher-e-Punjab",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SEP-CR1@2x.png",
+      "match_id": 102729,
+      "match_name": "Cyprus Knight Riders vs Markhor",
+      "team_1": "Cyprus Knight Riders",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/CGD-CR1@2x.png",
       "team_2": "Markhor",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MRKK@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/-IbfWAftT9yMGPdjMaagtw/master.m3u8"
+      "stream_link": "https://dai.google.com/linear/hls/event/FRE6BEZNTPC57lODEpKqHQ/master.m3u8"
     },
     {
       "event_catagory": "volleyball",
@@ -47,17 +47,6 @@
       "team_2": "Germany",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-GRM@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/XUtD70InR8C8NU4oH1ex6w/master.m3u8"
-    },
-    {
-      "event_catagory": "volleyball",
-      "event_name": "Volleyball Nations League Men's",
-      "match_id": 101401,
-      "match_name": "Iran vs Brazil",
-      "team_1": "Iran",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-IRN@2x.png",
-      "team_2": "Brazil",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-BRZ@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/x_0p9BMXQhyCVRd2cal45g/master.m3u8"
     },
     {
       "event_catagory": "volleyball",
@@ -80,6 +69,28 @@
       "team_2": "Partain/Benesh",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-US@2x.png",
       "stream_link": "https://dai.fancode.com/primary/103234_english_hls_1008adfreeta-di/index.m3u8"
+    },
+    {
+      "event_catagory": "volleyball",
+      "event_name": "Volleyball Mens Beach Pro Tour",
+      "match_id": 103238,
+      "match_name": "Evandro/Arthur vs Krou/Gauthier-Rat",
+      "team_1": "Evandro/Arthur",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-BRZ@2x.png",
+      "team_2": "Krou/Gauthier-Rat",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-FRC@2x.png",
+      "stream_link": " Free Trial attempt unsuccessful......it requires Premium Account"
+    },
+    {
+      "event_catagory": "volleyball",
+      "event_name": "Volleyball Mens Beach Pro Tour",
+      "match_id": 103237,
+      "match_name": "Mol, H./Berntsen vs Cherif/Ahmed",
+      "team_1": "Mol, H./Berntsen",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-NORW@2x.png",
+      "team_2": "Cherif/Ahmed",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-QTR@2x.png",
+      "stream_link": " Free Trial attempt unsuccessful......it requires Premium Account"
     }
   ]
 }
