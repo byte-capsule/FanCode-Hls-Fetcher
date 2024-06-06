@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 6,
-  "updated_on": "06-06-2024 on 2:09:29 PM \ud83c\udf1e",
+  "channels_amount": 4,
+  "updated_on": "06-06-2024 on 2:29:55 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -29,35 +29,13 @@
     {
       "event_catagory": "volleyball",
       "event_name": "Volleyball Mens Beach Pro Tour",
-      "match_id": 103238,
-      "match_name": "Evandro/Arthur vs Krou/Gauthier-Rat",
-      "team_1": "Evandro/Arthur",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-BRZ@2x.png",
-      "team_2": "Krou/Gauthier-Rat",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-FRC@2x.png",
-      "stream_link": "https://dai.fancode.com/primary/103238_english_hls_7836adfreeta-no/index.m3u8"
-    },
-    {
-      "event_catagory": "volleyball",
-      "event_name": "Volleyball Mens Beach Pro Tour",
-      "match_id": 103237,
-      "match_name": "Mol, H./Berntsen vs Cherif/Ahmed",
-      "team_1": "Mol, H./Berntsen",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-NORW@2x.png",
-      "team_2": "Cherif/Ahmed",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-QTR@2x.png",
-      "stream_link": "https://dai.fancode.com/primary/103237_english_hls_593adfreeta-no/index.m3u8"
-    },
-    {
-      "event_catagory": "volleyball",
-      "event_name": "Volleyball Mens Beach Pro Tour",
       "match_id": 103241,
       "match_name": "Cottafava/Nicolai vs Luini/Varenhorst",
       "team_1": "Cottafava/Nicolai",
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-ITY@2x.png",
       "team_2": "Luini/Varenhorst",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-NTH@2x.png",
-      "stream_link": " Free Trial attempt unsuccessful......it requires Premium Account"
+      "stream_link": "https://dai.fancode.com/primary/103241_english_hls_7336adfreeta-di/index.m3u8"
     },
     {
       "event_catagory": "volleyball",
@@ -68,7 +46,7 @@
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-CZE@2x.png",
       "team_2": "van de Velde/Immers",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-NTH@2x.png",
-      "stream_link": " Free Trial attempt unsuccessful......it requires Premium Account"
+      "stream_link": "https://dai.fancode.com/primary/103240_english_hls_792adfreeta-di/index.m3u8"
     }
   ]
 }
