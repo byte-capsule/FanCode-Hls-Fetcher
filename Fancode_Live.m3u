@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Cyprus Knight Riders vs Markhor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102729" group-title="ECS Cyprus, Encore, 2024",Cyprus Knight Riders vs Markhor
 https://dai.google.com/linear/hls/event/FRE6BEZNTPC57lODEpKqHQ/master.m3u8
-#EXTINF:-1 tvg-name="Bulgaria vs Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101402" group-title="Volleyball Nations League Men's",Bulgaria vs Germany
-https://dai.google.com/linear/hls/event/XUtD70InR8C8NU4oH1ex6w/master.m3u8
 #EXTINF:-1 tvg-name="Cottafava/Nicolai vs Luini/Varenhorst" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103241" group-title="Volleyball Mens Beach Pro Tour",Cottafava/Nicolai vs Luini/Varenhorst
 https://dai.fancode.com/primary/103241_english_hls_7336adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Perusic/Schweiner vs van de Velde/Immers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103240" group-title="Volleyball Mens Beach Pro Tour",Perusic/Schweiner vs van de Velde/Immers
