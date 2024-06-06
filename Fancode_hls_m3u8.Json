@@ -1,52 +1,7 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 4,
-  "updated_on": "07-06-2024 on 00:08:33 AM \ud83c\udf19",
-  "channels": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "KCC T20 Challengers Cup, 2nd Edition, 2024",
-      "match_id": 99767,
-      "match_name": "Friendi Mobile vs AP XI",
-      "team_1": "Friendi Mobile",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FM@2x.png",
-      "team_2": "AP XI",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AP@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/OpR0vHtoQaS1BDtGDSrZ_w/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECSN Portugal, 2024",
-      "match_id": 101127,
-      "match_name": "Oeiras vs Punjab CC Amadora",
-      "team_1": "Oeiras",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OEI@2x.png",
-      "team_2": "Punjab CC Amadora",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PNJ@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/n5lcTlG8QjKbIvrNSphf-A/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICCA Arabian T10, 2024",
-      "match_id": 102360,
-      "match_name": "Wavilog Tech CC vs Dubai Thunders",
-      "team_1": "Wavilog Tech CC",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAV@2x.png",
-      "team_2": "Dubai Thunders",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DTT@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/UYhDQgTATtCBE90SUZWYlw/master.m3u8"
-    },
-    {
-      "event_catagory": "volleyball",
-      "event_name": "Volleyball Mens Beach Pro Tour",
-      "match_id": 103334,
-      "match_name": "Mol, A./S\u00f8rum, C. vs Evandro/Arthur",
-      "team_1": "Mol, A./S\u00f8rum, C.",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-NWY@2x.png",
-      "team_2": "Evandro/Arthur",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-BRZ@2x.png",
-      "stream_link": "https://dai.fancode.com/primary/103334_english_hls_771adfreeta-di/index.m3u8"
-    }
-  ]
+  "channels_amount": 0,
+  "updated_on": "07-06-2024 on 00:30:33 AM \ud83c\udf19",
+  "channels": []
 }
