@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="BF Cyprus vs Limassol Qalandars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102731" group-title="ECS Cyprus, Encore, 2024",BF Cyprus vs Limassol Qalandars
 https://dai.google.com/linear/hls/event/ae3PL_5yROGRHmLmMP9mSA/master.m3u8
-#EXTINF:-1 tvg-name="Kabul Knight Riders vs Shamshad Eagles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102975" group-title="Kabul Premier League, 2024",Kabul Knight Riders vs Shamshad Eagles
+#EXTINF:-1 tvg-name="Shamshad Eagles vs Kabul Knight Riders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102975" group-title="Kabul Premier League, 2024",Shamshad Eagles vs Kabul Knight Riders
 https://dai.google.com/linear/hls/event/KdSgIyehQQaObsc9pEhP-w/master.m3u8
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103028" group-title="Volvo Car Scandinavian Mixed",Day 1
 https://dai.google.com/linear/hls/event/7AStlR7wQq6bDDa5ynRM7w/master.m3u8
@@ -9,5 +9,3 @@ https://dai.google.com/linear/hls/event/7AStlR7wQq6bDDa5ynRM7w/master.m3u8
 https://dai.google.com/linear/hls/event/ek4aYUoJQBy0DXHhCdO2Sg/master.m3u8
 #EXTINF:-1 tvg-name="Gottardi/Menegatti vs Paulikiene/Raupelyte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103228" group-title="Volleyball Womens Beach Pro Tour",Gottardi/Menegatti vs Paulikiene/Raupelyte
 https://dai.fancode.com/primary/103228_english_hls_4228adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Carol/Barbara vs Müller/Tillmann" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103226" group-title="Volleyball Womens Beach Pro Tour",Carol/Barbara vs Müller/Tillmann
-https://dai.fancode.com/primary/103226_english_hls_9364adfreeta-di/index.m3u8
