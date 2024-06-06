@@ -1,9 +1,31 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 8,
-  "updated_on": "06-06-2024 on 10:08:16 PM \ud83c\udf19",
+  "channels_amount": 9,
+  "updated_on": "06-06-2024 on 10:30:05 PM \ud83c\udf19",
   "channels": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "KCC T20 Challengers Cup, 2nd Edition, 2024",
+      "match_id": 99767,
+      "match_name": "Friendi Mobile vs AP XI",
+      "team_1": "Friendi Mobile",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FM@2x.png",
+      "team_2": "AP XI",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AP@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/OpR0vHtoQaS1BDtGDSrZ_w/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ECSN Portugal, 2024",
+      "match_id": 101127,
+      "match_name": "Oeiras vs Punjab CC Amadora",
+      "team_1": "Oeiras",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OEI@2x.png",
+      "team_2": "Punjab CC Amadora",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PNJ@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/n5lcTlG8QjKbIvrNSphf-A/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "Bukhatir T10 League, 2024",
@@ -14,17 +36,6 @@
       "team_2": "CSS Group",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSS@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/xsu7Y7IFTMyoc8bHAaCgUg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICCA Arabian T10, 2024",
-      "match_id": 102359,
-      "match_name": "DCC Starlets vs ABX Rent a Car",
-      "team_1": "DCC Starlets",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DCC@2x.png",
-      "team_2": "ABX Rent a Car",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ARC@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/Sk5DmVrDS4OiwBk9WyIpAA/master.m3u8"
     },
     {
       "event_catagory": "football",
@@ -40,17 +51,6 @@
     {
       "event_catagory": "football",
       "event_name": "CAF World Cup Qualifiers",
-      "match_id": 102213,
-      "match_name": "Libya vs Mauritius",
-      "team_1": "Libya",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LBY@2x.png",
-      "team_2": "Mauritius",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MAU@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/uvi98VmGS_upXFcwy8wrpg/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "CAF World Cup Qualifiers",
       "match_id": 102221,
       "match_name": "Guinea-Bissau vs Ethiopia",
       "team_1": "Guinea-Bissau",
@@ -58,6 +58,17 @@
       "team_2": "Ethiopia",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ETH@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/KKzqx02zQhyvjXYidR0efA/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "CAF World Cup Qualifiers",
+      "match_id": 102213,
+      "match_name": "Libya vs Mauritius",
+      "team_1": "Libya",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LBY@2x.png",
+      "team_2": "Mauritius",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MAU@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/uvi98VmGS_upXFcwy8wrpg/master.m3u8"
     },
     {
       "event_catagory": "volleyball",
