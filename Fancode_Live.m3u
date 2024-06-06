@@ -3,9 +3,9 @@
 https://dai.google.com/linear/hls/event/7MxSnvvgT0y1voaSqhajdA/master.m3u8
 #EXTINF:-1 tvg-name="Kabul Knight Riders vs Shamshad Eagles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102975" group-title="Kabul Premier League, 2024",Kabul Knight Riders vs Shamshad Eagles
 https://dai.google.com/linear/hls/event/KdSgIyehQQaObsc9pEhP-w/master.m3u8
-#EXTINF:-1 tvg-name="Tina/Anastasija vs Hildreth/Van Gunst" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103221" group-title="Volleyball Womens Beach Pro Tour",Tina/Anastasija vs Hildreth/Van Gunst
-https://dai.fancode.com/primary/103221_english_hls_7281adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Poland vs Turkey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101403" group-title="Volleyball Nations League Men's",Poland vs Turkey
+https://dai.google.com/linear/hls/event/ek4aYUoJQBy0DXHhCdO2Sg/master.m3u8
 #EXTINF:-1 tvg-name="Xue/X. Y. Xia vs Ludwig/Lippmann" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103223" group-title="Volleyball Womens Beach Pro Tour",Xue/X. Y. Xia vs Ludwig/Lippmann
 https://dai.fancode.com/primary/103223_english_hls_7828adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Hughes/Cheng vs Brunner/Hüberli" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103222" group-title="Volleyball Womens Beach Pro Tour",Hughes/Cheng vs Brunner/Hüberli
- Free Trial attempt unsuccessful......it requires Premium Account
+https://dai.fancode.com/primary/103222_english_hls_911adfreeta-di/index.m3u8
