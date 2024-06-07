@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="ABX Rent a Car vs Brickwork Development" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102363" group-title="ICCA Arabian T10, 2024",ABX Rent a Car vs Brickwork Development
+https://dai.google.com/linear/hls/event/UC9N3dRPTXSfJU30bUE5Nw/master.m3u8
 #EXTINF:-1 tvg-name="Al Mulla Exchange - B vs Al Sayer" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99769" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",Al Mulla Exchange - B vs Al Sayer
 https://dai.google.com/linear/hls/event/vtJ7mWC6RuCijFAEmww6eg/master.m3u8
 #EXTINF:-1 tvg-name="Karwan Cricket Club vs Z Games Strikers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100915" group-title="Bukhatir T10 League, 2024",Karwan Cricket Club vs Z Games Strikers
@@ -13,7 +15,7 @@ https://dai.google.com/linear/hls/event/D-cy2xhyS-W_KK0AO4WAGg/master.m3u8
 https://dai.google.com/linear/hls/event/HDKddaSGQSWyKUYnM_oZ5A/master.m3u8
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103032" group-title="LIV Golf Houston",Day 1
 https://dai.google.com/linear/hls/event/Qm6HVzPWTNe1BDV5VXewtA/master.m3u8
-#EXTINF:-1 tvg-name="Evandro/Arthur vs Cherif/Ahmed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103342" group-title="Volleyball Mens Beach Pro Tour",Evandro/Arthur vs Cherif/Ahmed
-https://dai.fancode.com/primary/103342_english_hls_4589adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Cuba vs Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101488" group-title="Volleyball Nations League Men's",Cuba vs Italy
-https://dai.google.com/linear/hls/event/-bfRURb-QMKtykrI6VL8dw/master.m3u8
+#EXTINF:-1 tvg-name="Boermans/de Groot vs Pfretzschner,/L. Winter" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103345" group-title="Volleyball Mens Beach Pro Tour",Boermans/de Groot vs Pfretzschner,/L. Winter
+https://dai.fancode.com/primary/103345_english_hls_6081adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="George/Andre vs Sepka/Sedlak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103344" group-title="Volleyball Mens Beach Pro Tour",George/Andre vs Sepka/Sedlak
+https://dai.fancode.com/primary/103344_english_hls_9468adfreeta-di/index.m3u8
