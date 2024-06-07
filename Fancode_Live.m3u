@@ -1,23 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="DCC Starlets vs Wavilog Tech CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102362" group-title="ICCA Arabian T10, 2024",DCC Starlets vs Wavilog Tech CC
 https://dai.google.com/linear/hls/event/7IVZ0mLLRqGbhrN3l_4cYw/master.m3u8
-#EXTINF:-1 tvg-name="Al Fatah vs Sher-e-Punjab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102737" group-title="ECS Cyprus, Encore, 2024",Al Fatah vs Sher-e-Punjab
-https://dai.google.com/linear/hls/event/62hHsw6sR5O48RYNhUutkw/master.m3u8
 #EXTINF:-1 tvg-name="Stack CC vs Kuwait Swedish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100210" group-title="KCC T20 Elite Cup 3rd Edition, 2024",Stack CC vs Kuwait Swedish
 https://dai.google.com/linear/hls/event/pkXJAVbZQw-xUheycqA0IA/master.m3u8
 #EXTINF:-1 tvg-name="Kenya Women vs Botswana Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101921" group-title="Kwibuka Women's T20I Tournament, 2024",Kenya Women vs Botswana Women
 https://dai.google.com/linear/hls/event/SlE2oauyRY2qXZJNNs_9Ag/master.m3u8
-#EXTINF:-1 tvg-name="Uganda Women vs Cameroon Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101919" group-title="Kwibuka Women's T20I Tournament, 2024",Uganda Women vs Cameroon Women
-https://dai.google.com/linear/hls/event/_7dIV0Q8T3WKASxwZhdilg/master.m3u8
-#EXTINF:-1 tvg-name="Zimbabwe vs Lesotho" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102231" group-title="CAF World Cup Qualifiers",Zimbabwe vs Lesotho
-https://dai.google.com/linear/hls/event/_c4NP2exRtOsGTU-UaXWDg/master.m3u8
-#EXTINF:-1 tvg-name="Kenya vs Burundi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102230" group-title="CAF World Cup Qualifiers",Kenya vs Burundi
-https://dai.google.com/linear/hls/event/yrJgfpoESwWwtzcCe22I7g/master.m3u8
-#EXTINF:-1 tvg-name="Mozambique vs Somalia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102232" group-title="CAF World Cup Qualifiers",Mozambique vs Somalia
-https://dai.google.com/linear/hls/event/G0RFq2o4QjuCzJ4xRZuK4g/master.m3u8
+#EXTINF:-1 tvg-name="DTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103011" group-title="DTM 2024",DTM
+https://dai.google.com/linear/hls/event/Xrq1LUxoSd2WKI-xijfJsA/master.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103029" group-title="Volvo Car Scandinavian Mixed",Day 2
 https://dai.google.com/linear/hls/event/PFbKaKBgQZay6JO7wii_xg/master.m3u8
-#EXTINF:-1 tvg-name="Åhman/Hellvig vs Kantor/Zdybek" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103341" group-title="Volleyball Mens Beach Pro Tour",Åhman/Hellvig vs Kantor/Zdybek
-https://dai.fancode.com/primary/103341_english_hls_6251adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Ehlers/Wickler vs Partain/Benesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103340" group-title="Volleyball Mens Beach Pro Tour",Ehlers/Wickler vs Partain/Benesh
 https://dai.fancode.com/primary/103340_english_hls_9770adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Cuba vs Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101488" group-title="Volleyball Nations League Men's",Cuba vs Italy
+https://dai.google.com/linear/hls/event/-bfRURb-QMKtykrI6VL8dw/master.m3u8
+#EXTINF:-1 tvg-name="Melissa/Brandie vs Vergé-Dépré, A./Mäder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103359" group-title="Volleyball Womens Beach Pro Tour",Melissa/Brandie vs Vergé-Dépré, A./Mäder
+https://dai.fancode.com/primary/103359_english_hls_3744adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Stam/Schoon vs Hermannova/Stochlova" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103358" group-title="Volleyball Womens Beach Pro Tour",Stam/Schoon vs Hermannova/Stochlova
+https://dai.fancode.com/primary/103358_english_hls_8769adfreeta-di/index.m3u8
