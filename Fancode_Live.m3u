@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="DCC Starlets vs Wavilog Tech CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102362" group-title="ICCA Arabian T10, 2024",DCC Starlets vs Wavilog Tech CC
 https://dai.google.com/linear/hls/event/7IVZ0mLLRqGbhrN3l_4cYw/master.m3u8
+#EXTINF:-1 tvg-name="Karwan Cricket Club vs Z Games Strikers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100915" group-title="Bukhatir T10 League, 2024",Karwan Cricket Club vs Z Games Strikers
+https://dai.google.com/linear/hls/event/6Q2Xhp8fSh6gPvY4nD8Rpg/master.m3u8
 #EXTINF:-1 tvg-name="Stack CC vs Kuwait Swedish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100210" group-title="KCC T20 Elite Cup 3rd Edition, 2024",Stack CC vs Kuwait Swedish
 https://dai.google.com/linear/hls/event/pkXJAVbZQw-xUheycqA0IA/master.m3u8
-#EXTINF:-1 tvg-name="DTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103011" group-title="DTM 2024",DTM
-https://dai.google.com/linear/hls/event/Xrq1LUxoSd2WKI-xijfJsA/master.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103029" group-title="Volvo Car Scandinavian Mixed",Day 2
 https://dai.google.com/linear/hls/event/PFbKaKBgQZay6JO7wii_xg/master.m3u8
 #EXTINF:-1 tvg-name="Cuba vs Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101488" group-title="Volleyball Nations League Men's",Cuba vs Italy
