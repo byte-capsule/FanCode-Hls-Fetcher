@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="JB Panters vs JB Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103165" group-title="Malaysia T10 Bash, 2024",JB Panters vs JB Stars
 https://dai.google.com/linear/hls/event/qcVq3biuQSyyr1NQkEY9tA/master.m3u8
+#EXTINF:-1 tvg-name="Sher-e-Punjab vs Telugu 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102735" group-title="ECS Cyprus, Encore, 2024",Sher-e-Punjab vs Telugu 11
+https://dai.google.com/linear/hls/event/ku6ixbQVSR2VTXoH_wnUOg/master.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe A Women vs Rwanda Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101918" group-title="Kwibuka Women's T20I Tournament, 2024",Zimbabwe A Women vs Rwanda Women
 https://dai.google.com/linear/hls/event/Xzvrhk8fSeugsCbLB2VJxg/master.m3u8
 #EXTINF:-1 tvg-name="Nigeria Women vs Malawi Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103623" group-title="Kwibuka Women's T20I Tournament, 2024",Nigeria Women vs Malawi Women
 https://dai.google.com/linear/hls/event/uXrSFtKJSUaDCCX5_jga4g/master.m3u8
-#EXTINF:-1 tvg-name="Sepka/Sedlak vs Pfretzschner,/L. Winter" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103337" group-title="Volleyball Mens Beach Pro Tour",Sepka/Sedlak vs Pfretzschner,/L. Winter
-https://dai.fancode.com/primary/103337_english_hls_6413adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Boermans/de Groot vs George/Andre" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103336" group-title="Volleyball Mens Beach Pro Tour",Boermans/de Groot vs George/Andre
-https://dai.fancode.com/primary/103336_english_hls_60adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Brazil vs Slovenia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101485" group-title="Volleyball Nations League Men's",Brazil vs Slovenia
-https://dai.google.com/linear/hls/event/7xMpMr3HQ0-v9PxKHMuSDw/master.m3u8
+#EXTINF:-1 tvg-name="Hermannova/Stochlova vs Vergé-Dépré, A./Mäder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103351" group-title="Volleyball Womens Beach Pro Tour",Hermannova/Stochlova vs Vergé-Dépré, A./Mäder
+https://dai.fancode.com/primary/103351_english_hls_6358adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Melissa/Brandie vs Stam/Schoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103350" group-title="Volleyball Womens Beach Pro Tour",Melissa/Brandie vs Stam/Schoon
+https://dai.fancode.com/primary/103350_english_hls_135adfreeta-no/index.m3u8
