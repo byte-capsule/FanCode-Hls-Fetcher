@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="JB Panters vs Sky Home Riders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103161" group-title="Malaysia T10 Bash, 2024",JB Panters vs Sky Home Riders
+https://dai.google.com/linear/hls/event/ZTSLp2MLRd2h1eZcgpKeOA/master.m3u8
+#EXTINF:-1 tvg-name="Canada vs Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101481" group-title="Volleyball Nations League Men's",Canada vs Argentina
+https://dai.google.com/linear/hls/event/Uz-OoK1PSiKzjN8ATsl96w/master.m3u8
