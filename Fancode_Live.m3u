@@ -9,7 +9,9 @@ https://dai.google.com/linear/hls/event/okgnH30QSaeUpUQRGcRLnw/master.m3u8
 https://dai.google.com/linear/hls/event/Xzvrhk8fSeugsCbLB2VJxg/master.m3u8
 #EXTINF:-1 tvg-name="Nigeria Women vs Malawi Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103623" group-title="Kwibuka Women's T20I Tournament, 2024",Nigeria Women vs Malawi Women
 https://dai.google.com/linear/hls/event/uXrSFtKJSUaDCCX5_jga4g/master.m3u8
-#EXTINF:-1 tvg-name="Hermannova/Stochlova vs Vergé-Dépré, A./Mäder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103351" group-title="Volleyball Womens Beach Pro Tour",Hermannova/Stochlova vs Vergé-Dépré, A./Mäder
-https://dai.fancode.com/primary/103351_english_hls_6358adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Melissa/Brandie vs Stam/Schoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103350" group-title="Volleyball Womens Beach Pro Tour",Melissa/Brandie vs Stam/Schoon
-https://dai.fancode.com/primary/103350_english_hls_135adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Japan vs Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101487" group-title="Volleyball Nations League Men's",Japan vs Poland
+https://dai.google.com/linear/hls/event/cW34lDC3R6aLscE6I1CmTw/master.m3u8
+#EXTINF:-1 tvg-name="Ana Patrícia/Duda vs Hildreth/Van Gunst" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103353" group-title="Volleyball Womens Beach Pro Tour",Ana Patrícia/Duda vs Hildreth/Van Gunst
+https://dai.fancode.com/primary/103353_english_hls_6520adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Tina/Anastasija vs Scoles/Flint" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103352" group-title="Volleyball Womens Beach Pro Tour",Tina/Anastasija vs Scoles/Flint
+https://dai.fancode.com/primary/103352_english_hls_3adfreeta-no/index.m3u8
