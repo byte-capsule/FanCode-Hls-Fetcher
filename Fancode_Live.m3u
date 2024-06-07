@@ -3,14 +3,16 @@
 https://dai.google.com/linear/hls/event/9sy6quLcTvSIPPVSA29WTA/master.m3u8
 #EXTINF:-1 tvg-name="Sher-e-Punjab vs Kipro Tigers Limassol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102734" group-title="ECS Cyprus, Encore, 2024",Sher-e-Punjab vs Kipro Tigers Limassol
 https://dai.google.com/linear/hls/event/gpSC0bYPSZ2BOxKk8a6YwA/master.m3u8
-#EXTINF:-1 tvg-name="NCM Investment vs Al Hajery Team XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100208" group-title="KCC T20 Elite Cup 3rd Edition, 2024",NCM Investment vs Al Hajery Team XI
-https://dai.google.com/linear/hls/event/PsqM26FoQ2yw9t31L6jQ5A/master.m3u8
 #EXTINF:-1 tvg-name="Band-e Amir Stars vs Shamshad Eagles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102976" group-title="Kabul Premier League, 2024",Band-e Amir Stars vs Shamshad Eagles
 https://dai.google.com/linear/hls/event/QedfpG0sR925e0_HQkCFMw/master.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe A Women vs Rwanda Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101918" group-title="Kwibuka Women's T20I Tournament, 2024",Zimbabwe A Women vs Rwanda Women
 https://dai.google.com/linear/hls/event/Xzvrhk8fSeugsCbLB2VJxg/master.m3u8
 #EXTINF:-1 tvg-name="Nigeria Women vs Malawi Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103623" group-title="Kwibuka Women's T20I Tournament, 2024",Nigeria Women vs Malawi Women
 https://dai.google.com/linear/hls/event/uXrSFtKJSUaDCCX5_jga4g/master.m3u8
+#EXTINF:-1 tvg-name="Sepka/Sedlak vs Pfretzschner,/L. Winter" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103337" group-title="Volleyball Mens Beach Pro Tour",Sepka/Sedlak vs Pfretzschner,/L. Winter
+https://dai.fancode.com/primary/103337_english_hls_6413adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Boermans/de Groot vs George/Andre" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103336" group-title="Volleyball Mens Beach Pro Tour",Boermans/de Groot vs George/Andre
+https://dai.fancode.com/primary/103336_english_hls_60adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Brazil vs Slovenia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101485" group-title="Volleyball Nations League Men's",Brazil vs Slovenia
 https://dai.google.com/linear/hls/event/7xMpMr3HQ0-v9PxKHMuSDw/master.m3u8
 #EXTINF:-1 tvg-name="Müller/Tillmann vs Paulikiene/Raupelyte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103349" group-title="Volleyball Womens Beach Pro Tour",Müller/Tillmann vs Paulikiene/Raupelyte
