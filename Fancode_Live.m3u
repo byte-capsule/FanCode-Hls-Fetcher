@@ -3,23 +3,13 @@
 https://dai.google.com/linear/hls/event/UC9N3dRPTXSfJU30bUE5Nw/master.m3u8
 #EXTINF:-1 tvg-name="Al Mulla Exchange - B vs Al Sayer" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99769" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",Al Mulla Exchange - B vs Al Sayer
 https://dai.google.com/linear/hls/event/vtJ7mWC6RuCijFAEmww6eg/master.m3u8
-#EXTINF:-1 tvg-name="Karwan Cricket Club vs Z Games Strikers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100915" group-title="Bukhatir T10 League, 2024",Karwan Cricket Club vs Z Games Strikers
-https://dai.google.com/linear/hls/event/6Q2Xhp8fSh6gPvY4nD8Rpg/master.m3u8
-#EXTINF:-1 tvg-name="Punjab CC Amadora vs Lisbon Capitals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101129" group-title="ECSN Portugal, 2024",Punjab CC Amadora vs Lisbon Capitals
-https://dai.google.com/linear/hls/event/Va7MgBukQg6Q0Mrw5PS-jg/master.m3u8
 #EXTINF:-1 tvg-name="Gloucestershire vs Hampshire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102253" group-title="Vitality Blast T20, 2024",Gloucestershire vs Hampshire
 https://dai.google.com/linear/hls/event/SQDMtbH9Soa6E1DiSn2VGw/master.m3u8
-#EXTINF:-1 tvg-name="Angola vs Eswatini" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102234" group-title="CAF World Cup Qualifiers",Angola vs Eswatini
-https://dai.google.com/linear/hls/event/F1wuOxXrSX2NZiF5tU8cqQ/master.m3u8
-#EXTINF:-1 tvg-name="Uganda vs Botswana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102233" group-title="CAF World Cup Qualifiers",Uganda vs Botswana
-https://dai.google.com/linear/hls/event/D-cy2xhyS-W_KK0AO4WAGg/master.m3u8
-#EXTINF:-1 tvg-name="Madagascar vs Comoros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103206" group-title="CAF World Cup Qualifiers",Madagascar vs Comoros
-https://dai.google.com/linear/hls/event/HDKddaSGQSWyKUYnM_oZ5A/master.m3u8
+#EXTINF:-1 tvg-name="Northamptonshire vs Worcestershire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102249" group-title="Vitality Blast T20, 2024",Northamptonshire vs Worcestershire
+https://pubads.g.doubleclick.net/ssai/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8
 #EXTINF:-1 tvg-name="Practice 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95155" group-title="F1 AWS GRAND PRIX DU CANADA 2024",Practice 1
 https://d3ngfa6zxsujir.cloudfront.net/out/v1/f2fea66e16874053ace0f913da0e2850/index.mpd
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103032" group-title="LIV Golf Houston",Day 1
 https://dai.google.com/linear/hls/event/Qm6HVzPWTNe1BDV5VXewtA/master.m3u8
 #EXTINF:-1 tvg-name="Boermans/de Groot vs Pfretzschner,/L. Winter" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103345" group-title="Volleyball Mens Beach Pro Tour",Boermans/de Groot vs Pfretzschner,/L. Winter
 https://dai.fancode.com/primary/103345_english_hls_6081adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="George/Andre vs Sepka/Sedlak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103344" group-title="Volleyball Mens Beach Pro Tour",George/Andre vs Sepka/Sedlak
-https://dai.fancode.com/primary/103344_english_hls_9468adfreeta-di/index.m3u8
