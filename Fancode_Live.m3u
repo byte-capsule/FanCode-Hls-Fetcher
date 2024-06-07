@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="JB Stars vs ATM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103163" group-title="Malaysia T10 Bash, 2024",JB Stars vs ATM
 https://dai.google.com/linear/hls/event/ZcKkQuvtT1aJKUTlXRNmjQ/master.m3u8
+#EXTINF:-1 tvg-name="Solid Lankans vs Johor XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103164" group-title="Malaysia T10 Bash, 2024",Solid Lankans vs Johor XI
+https://dai.google.com/linear/hls/event/9sy6quLcTvSIPPVSA29WTA/master.m3u8
 #EXTINF:-1 tvg-name="Queens Women vs Princess Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102559" group-title="Siechem Pondicherry Womens T10 Tournament 2024",Queens Women vs Princess Women
 https://dai.google.com/linear/hls/event/qyCmaC5NRuqD-CuGADMi1g/master.m3u8
 #EXTINF:-1 tvg-name="Al Fatah vs Telugu 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102733" group-title="ECS Cyprus, Encore, 2024",Al Fatah vs Telugu 11
@@ -9,3 +11,9 @@ https://dai.google.com/linear/hls/event/-CUf6GUISPOANtltWlwu8g/master.m3u8
 https://dai.google.com/linear/hls/event/PsqM26FoQ2yw9t31L6jQ5A/master.m3u8
 #EXTINF:-1 tvg-name="Band-e Amir Stars vs Shamshad Eagles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102976" group-title="Kabul Premier League, 2024",Band-e Amir Stars vs Shamshad Eagles
 https://dai.google.com/linear/hls/event/QedfpG0sR925e0_HQkCFMw/master.m3u8
+#EXTINF:-1 tvg-name="Brazil vs Slovenia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101485" group-title="Volleyball Nations League Men's",Brazil vs Slovenia
+https://dai.google.com/linear/hls/event/7xMpMr3HQ0-v9PxKHMuSDw/master.m3u8
+#EXTINF:-1 tvg-name="Brunner/Hüberli vs Ludwig/Lippmann" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103347" group-title="Volleyball Womens Beach Pro Tour",Brunner/Hüberli vs Ludwig/Lippmann
+https://dai.fancode.com/primary/103347_english_hls_302adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Hughes/Cheng vs Xue/X. Y. Xia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103346" group-title="Volleyball Womens Beach Pro Tour",Hughes/Cheng vs Xue/X. Y. Xia
+https://dai.fancode.com/primary/103346_english_hls_4241adfreeta-no/index.m3u8
