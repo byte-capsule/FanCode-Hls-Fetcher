@@ -9,15 +9,11 @@ https://dai.google.com/linear/hls/event/gpSC0bYPSZ2BOxKk8a6YwA/master.m3u8
 https://dai.google.com/linear/hls/event/PsqM26FoQ2yw9t31L6jQ5A/master.m3u8
 #EXTINF:-1 tvg-name="Band-e Amir Stars vs Shamshad Eagles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102976" group-title="Kabul Premier League, 2024",Band-e Amir Stars vs Shamshad Eagles
 https://dai.google.com/linear/hls/event/QedfpG0sR925e0_HQkCFMw/master.m3u8
-#EXTINF:-1 tvg-name="Rwanda Women vs Zimbabwe A Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101918" group-title="Kwibuka Women's T20I Tournament, 2024",Rwanda Women vs Zimbabwe A Women
+#EXTINF:-1 tvg-name="Zimbabwe A Women vs Rwanda Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101918" group-title="Kwibuka Women's T20I Tournament, 2024",Zimbabwe A Women vs Rwanda Women
 https://dai.google.com/linear/hls/event/Xzvrhk8fSeugsCbLB2VJxg/master.m3u8
 #EXTINF:-1 tvg-name="Brazil vs Slovenia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101485" group-title="Volleyball Nations League Men's",Brazil vs Slovenia
 https://dai.google.com/linear/hls/event/7xMpMr3HQ0-v9PxKHMuSDw/master.m3u8
-#EXTINF:-1 tvg-name="Brunner/Hüberli vs Ludwig/Lippmann" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103347" group-title="Volleyball Womens Beach Pro Tour",Brunner/Hüberli vs Ludwig/Lippmann
-https://dai.fancode.com/primary/103347_english_hls_302adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Hughes/Cheng vs Xue/X. Y. Xia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103346" group-title="Volleyball Womens Beach Pro Tour",Hughes/Cheng vs Xue/X. Y. Xia
-https://dai.fancode.com/primary/103346_english_hls_4241adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Müller/Tillmann vs Paulikiene/Raupelyte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103349" group-title="Volleyball Womens Beach Pro Tour",Müller/Tillmann vs Paulikiene/Raupelyte
- Free Trial attempt unsuccessful......it requires Premium Account
+https://dai.fancode.com/primary/103349_english_hls_6793adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Carol/Barbara vs Gottardi/Menegatti" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103348" group-title="Volleyball Womens Beach Pro Tour",Carol/Barbara vs Gottardi/Menegatti
- Free Trial attempt unsuccessful......it requires Premium Account
+https://dai.fancode.com/primary/103348_english_hls_164adfreeta-no/index.m3u8
