@@ -7,6 +7,12 @@ https://dai.google.com/linear/hls/event/okgnH30QSaeUpUQRGcRLnw/master.m3u8
 https://dai.google.com/linear/hls/event/SlE2oauyRY2qXZJNNs_9Ag/master.m3u8
 #EXTINF:-1 tvg-name="Uganda Women vs Cameroon Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101919" group-title="Kwibuka Women's T20I Tournament, 2024",Uganda Women vs Cameroon Women
 https://dai.google.com/linear/hls/event/_7dIV0Q8T3WKASxwZhdilg/master.m3u8
+#EXTINF:-1 tvg-name="Zimbabwe vs Lesotho" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102231" group-title="CAF World Cup Qualifiers",Zimbabwe vs Lesotho
+https://dai.google.com/linear/hls/event/_c4NP2exRtOsGTU-UaXWDg/master.m3u8
+#EXTINF:-1 tvg-name="Kenya vs Burundi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102230" group-title="CAF World Cup Qualifiers",Kenya vs Burundi
+https://dai.google.com/linear/hls/event/yrJgfpoESwWwtzcCe22I7g/master.m3u8
+#EXTINF:-1 tvg-name="Mozambique vs Somalia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102232" group-title="CAF World Cup Qualifiers",Mozambique vs Somalia
+https://dai.google.com/linear/hls/event/G0RFq2o4QjuCzJ4xRZuK4g/master.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103029" group-title="Volvo Car Scandinavian Mixed",Day 2
 https://dai.google.com/linear/hls/event/PFbKaKBgQZay6JO7wii_xg/master.m3u8
 #EXTINF:-1 tvg-name="Cottafava/Nicolai vs van de Velde/Immers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103338" group-title="Volleyball Mens Beach Pro Tour",Cottafava/Nicolai vs van de Velde/Immers

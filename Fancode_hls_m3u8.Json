@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 8,
-  "updated_on": "07-06-2024 on 6:45:22 PM \ud83c\udf19",
+  "channels_amount": 11,
+  "updated_on": "07-06-2024 on 7:09:40 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -47,6 +47,39 @@
       "team_2": "Cameroon Women",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAME@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/_7dIV0Q8T3WKASxwZhdilg/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "CAF World Cup Qualifiers",
+      "match_id": 102231,
+      "match_name": "Zimbabwe vs Lesotho",
+      "team_1": "Zimbabwe",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ZIM@2x.png",
+      "team_2": "Lesotho",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LES@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/_c4NP2exRtOsGTU-UaXWDg/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "CAF World Cup Qualifiers",
+      "match_id": 102230,
+      "match_name": "Kenya vs Burundi",
+      "team_1": "Kenya",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KNA@2x.png",
+      "team_2": "Burundi",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BRD@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/yrJgfpoESwWwtzcCe22I7g/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "CAF World Cup Qualifiers",
+      "match_id": 102232,
+      "match_name": "Mozambique vs Somalia",
+      "team_1": "Mozambique",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MZM@2x.png",
+      "team_2": "Somalia",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SOM@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/G0RFq2o4QjuCzJ4xRZuK4g/master.m3u8"
     },
     {
       "event_catagory": "golf",
