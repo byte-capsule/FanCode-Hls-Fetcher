@@ -3,8 +3,6 @@
 https://dai.google.com/linear/hls/event/GymkkAnGRkK4CGXirwpI0g/master.m3u8
 #EXTINF:-1 tvg-name="Kabul Zalmi vs Shaheen Hunters" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102977" group-title="Kabul Premier League, 2024",Kabul Zalmi vs Shaheen Hunters
 https://dai.google.com/linear/hls/event/okgnH30QSaeUpUQRGcRLnw/master.m3u8
-#EXTINF:-1 tvg-name="Nigeria Women vs Malawi Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103623" group-title="Kwibuka Women's T20I Tournament, 2024",Nigeria Women vs Malawi Women
-https://dai.google.com/linear/hls/event/uXrSFtKJSUaDCCX5_jga4g/master.m3u8
 #EXTINF:-1 tvg-name="Uganda Women vs Cameroon Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101919" group-title="Kwibuka Women's T20I Tournament, 2024",Uganda Women vs Cameroon Women
 https://dai.google.com/linear/hls/event/_7dIV0Q8T3WKASxwZhdilg/master.m3u8
 #EXTINF:-1 tvg-name="DTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103010" group-title="DTM 2024",DTM
@@ -13,9 +11,7 @@ https://dai.google.com/linear/hls/event/IFIKUVHCRk2hpojNYdRnJg/master.m3u8
 https://dai.google.com/linear/hls/event/PFbKaKBgQZay6JO7wii_xg/master.m3u8
 #EXTINF:-1 tvg-name="Japan vs Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101487" group-title="Volleyball Nations League Men's",Japan vs Poland
 https://dai.google.com/linear/hls/event/cW34lDC3R6aLscE6I1CmTw/master.m3u8
-#EXTINF:-1 tvg-name="Tina/Anastasija vs Scoles/Flint" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103352" group-title="Volleyball Womens Beach Pro Tour",Tina/Anastasija vs Scoles/Flint
-https://dai.fancode.com/primary/103352_english_hls_3adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Hughes/Cheng vs Ludwig/Lippmann" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103355" group-title="Volleyball Womens Beach Pro Tour",Hughes/Cheng vs Ludwig/Lippmann
 https://dai.fancode.com/primary/103355_english_hls_8723adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Xue/X. Y. Xia vs Brunner/Hüberli" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103354" group-title="Volleyball Womens Beach Pro Tour",Xue/X. Y. Xia vs Brunner/Hüberli
- Free Trial attempt unsuccessful......it requires Premium Account
+https://dai.fancode.com/primary/103354_english_hls_4028adfreeta-no/index.m3u8
