@@ -1,15 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ABX Rent a Car vs Brickwork Development" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102363" group-title="ICCA Arabian T10, 2024",ABX Rent a Car vs Brickwork Development
-https://dai.google.com/linear/hls/event/UC9N3dRPTXSfJU30bUE5Nw/master.m3u8
-#EXTINF:-1 tvg-name="Al Mulla Exchange - B vs Al Sayer" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99769" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",Al Mulla Exchange - B vs Al Sayer
-https://dai.google.com/linear/hls/event/vtJ7mWC6RuCijFAEmww6eg/master.m3u8
-#EXTINF:-1 tvg-name="Gloucestershire vs Hampshire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102253" group-title="Vitality Blast T20, 2024",Gloucestershire vs Hampshire
-https://dai.google.com/linear/hls/event/SQDMtbH9Soa6E1DiSn2VGw/master.m3u8
-#EXTINF:-1 tvg-name="Northamptonshire vs Worcestershire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102249" group-title="Vitality Blast T20, 2024",Northamptonshire vs Worcestershire
-https://pubads.g.doubleclick.net/ssai/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8
 #EXTINF:-1 tvg-name="Practice 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95155" group-title="F1 AWS GRAND PRIX DU CANADA 2024",Practice 1
 https://d3ngfa6zxsujir.cloudfront.net/out/v1/f2fea66e16874053ace0f913da0e2850/index.mpd
-#EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103032" group-title="LIV Golf Houston",Day 1
-https://dai.google.com/linear/hls/event/Qm6HVzPWTNe1BDV5VXewtA/master.m3u8
-#EXTINF:-1 tvg-name="Boermans/de Groot vs Pfretzschner,/L. Winter" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103345" group-title="Volleyball Mens Beach Pro Tour",Boermans/de Groot vs Pfretzschner,/L. Winter
-https://dai.fancode.com/primary/103345_english_hls_6081adfreeta-no/index.m3u8
