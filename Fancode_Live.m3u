@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Al Fatah vs Sher-e-Punjab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102737" group-title="ECS Cyprus, Encore, 2024",Al Fatah vs Sher-e-Punjab
 https://dai.google.com/linear/hls/event/62hHsw6sR5O48RYNhUutkw/master.m3u8
+#EXTINF:-1 tvg-name="Stack CC vs Kuwait Swedish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100210" group-title="KCC T20 Elite Cup 3rd Edition, 2024",Stack CC vs Kuwait Swedish
+https://dai.google.com/linear/hls/event/pkXJAVbZQw-xUheycqA0IA/master.m3u8
 #EXTINF:-1 tvg-name="Kabul Zalmi vs Shaheen Hunters" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102977" group-title="Kabul Premier League, 2024",Kabul Zalmi vs Shaheen Hunters
 https://dai.google.com/linear/hls/event/okgnH30QSaeUpUQRGcRLnw/master.m3u8
 #EXTINF:-1 tvg-name="Kenya Women vs Botswana Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101921" group-title="Kwibuka Women's T20I Tournament, 2024",Kenya Women vs Botswana Women
@@ -15,9 +17,7 @@ https://dai.google.com/linear/hls/event/yrJgfpoESwWwtzcCe22I7g/master.m3u8
 https://dai.google.com/linear/hls/event/G0RFq2o4QjuCzJ4xRZuK4g/master.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103029" group-title="Volvo Car Scandinavian Mixed",Day 2
 https://dai.google.com/linear/hls/event/PFbKaKBgQZay6JO7wii_xg/master.m3u8
-#EXTINF:-1 tvg-name="Cottafava/Nicolai vs van de Velde/Immers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103338" group-title="Volleyball Mens Beach Pro Tour",Cottafava/Nicolai vs van de Velde/Immers
-https://dai.fancode.com/primary/103338_english_hls_4176adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Carol/Barbara vs Paulikiene/Raupelyte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103357" group-title="Volleyball Womens Beach Pro Tour",Carol/Barbara vs Paulikiene/Raupelyte
 https://dai.fancode.com/primary/103357_english_hls_3923adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Gottardi/Menegatti vs Müller/Tillmann" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103356" group-title="Volleyball Womens Beach Pro Tour",Gottardi/Menegatti vs Müller/Tillmann
- Free Trial attempt unsuccessful......it requires Premium Account
+https://dai.fancode.com/primary/103356_english_hls_9204adfreeta-no/index.m3u8

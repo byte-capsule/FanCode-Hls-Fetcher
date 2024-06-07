@@ -2,7 +2,7 @@
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "channels_amount": 11,
-  "updated_on": "07-06-2024 on 7:09:40 PM \ud83c\udf19",
+  "updated_on": "07-06-2024 on 7:27:59 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -14,6 +14,17 @@
       "team_2": "Sher-e-Punjab",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SEP-CR1@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/62hHsw6sR5O48RYNhUutkw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "KCC T20 Elite Cup 3rd Edition, 2024",
+      "match_id": 100210,
+      "match_name": "Stack CC vs Kuwait Swedish",
+      "team_1": "Stack CC",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-STAX@2x.png",
+      "team_2": "Kuwait Swedish",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUSW@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/pkXJAVbZQw-xUheycqA0IA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -94,17 +105,6 @@
     },
     {
       "event_catagory": "volleyball",
-      "event_name": "Volleyball Mens Beach Pro Tour",
-      "match_id": 103338,
-      "match_name": "Cottafava/Nicolai vs van de Velde/Immers",
-      "team_1": "Cottafava/Nicolai",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-ITY@2x.png",
-      "team_2": "van de Velde/Immers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-NTH@2x.png",
-      "stream_link": "https://dai.fancode.com/primary/103338_english_hls_4176adfreeta-di/index.m3u8"
-    },
-    {
-      "event_catagory": "volleyball",
       "event_name": "Volleyball Womens Beach Pro Tour",
       "match_id": 103357,
       "match_name": "Carol/Barbara vs Paulikiene/Raupelyte",
@@ -123,7 +123,7 @@
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-ITY@2x.png",
       "team_2": "M\u00fcller/Tillmann",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-GRM@2x.png",
-      "stream_link": " Free Trial attempt unsuccessful......it requires Premium Account"
+      "stream_link": "https://dai.fancode.com/primary/103356_english_hls_9204adfreeta-no/index.m3u8"
     }
   ]
 }
