@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="JB Stars vs ATM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103163" group-title="Malaysia T10 Bash, 2024",JB Stars vs ATM
 https://dai.google.com/linear/hls/event/ZcKkQuvtT1aJKUTlXRNmjQ/master.m3u8
+#EXTINF:-1 tvg-name="Queens Women vs Princess Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102559" group-title="Siechem Pondicherry Womens T10 Tournament 2024",Queens Women vs Princess Women
+https://dai.google.com/linear/hls/event/qyCmaC5NRuqD-CuGADMi1g/master.m3u8
 #EXTINF:-1 tvg-name="Al Fatah vs Telugu 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102733" group-title="ECS Cyprus, Encore, 2024",Al Fatah vs Telugu 11
 https://dai.google.com/linear/hls/event/-CUf6GUISPOANtltWlwu8g/master.m3u8
 #EXTINF:-1 tvg-name="NCM Investment vs Al Hajery Team XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100208" group-title="KCC T20 Elite Cup 3rd Edition, 2024",NCM Investment vs Al Hajery Team XI
