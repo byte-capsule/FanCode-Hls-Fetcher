@@ -7,11 +7,9 @@ https://dai.google.com/linear/hls/event/okgnH30QSaeUpUQRGcRLnw/master.m3u8
 https://dai.google.com/linear/hls/event/_7dIV0Q8T3WKASxwZhdilg/master.m3u8
 #EXTINF:-1 tvg-name="Kenya Women vs Botswana Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101921" group-title="Kwibuka Women's T20I Tournament, 2024",Kenya Women vs Botswana Women
 https://dai.google.com/linear/hls/event/SlE2oauyRY2qXZJNNs_9Ag/master.m3u8
-#EXTINF:-1 tvg-name="DTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103010" group-title="DTM 2024",DTM
-https://dai.google.com/linear/hls/event/IFIKUVHCRk2hpojNYdRnJg/master.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103029" group-title="Volvo Car Scandinavian Mixed",Day 2
 https://dai.google.com/linear/hls/event/PFbKaKBgQZay6JO7wii_xg/master.m3u8
-#EXTINF:-1 tvg-name="Japan vs Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101487" group-title="Volleyball Nations League Men's",Japan vs Poland
-https://dai.google.com/linear/hls/event/cW34lDC3R6aLscE6I1CmTw/master.m3u8
+#EXTINF:-1 tvg-name="Cottafava/Nicolai vs van de Velde/Immers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103338" group-title="Volleyball Mens Beach Pro Tour",Cottafava/Nicolai vs van de Velde/Immers
+https://dai.fancode.com/primary/103338_english_hls_4176adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Xue/X. Y. Xia vs Brunner/Hüberli" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103354" group-title="Volleyball Womens Beach Pro Tour",Xue/X. Y. Xia vs Brunner/Hüberli
 https://dai.fancode.com/primary/103354_english_hls_4028adfreeta-no/index.m3u8
