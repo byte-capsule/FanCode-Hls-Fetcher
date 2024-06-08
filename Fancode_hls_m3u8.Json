@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 5,
-  "updated_on": "08-06-2024 on 0:41:07 PM \ud83c\udf1e",
+  "channels_amount": 7,
+  "updated_on": "08-06-2024 on 1:05:22 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -29,13 +29,13 @@
     {
       "event_catagory": "cricket",
       "event_name": "ECS Cyprus, Encore, 2024",
-      "match_id": 102738,
-      "match_name": "Telugu 11 vs Nicosia Tigers",
+      "match_id": 102739,
+      "match_name": "Telugu 11 vs Kipro Tigers Limassol",
       "team_1": "Telugu 11",
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TEL-CR1@2x.png",
-      "team_2": "Nicosia Tigers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NTCC@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/1d2toRd8RTibknSW9gsRIg/master.m3u8"
+      "team_2": "Kipro Tigers Limassol",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/KTL-CR1@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/KVV9JGLISTqe3yx0DQFKzQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -49,6 +49,17 @@
       "stream_link": "https://dai.google.com/linear/hls/event/Wz3wP9EQQUOSgy8gRFfGHw/master.m3u8"
     },
     {
+      "event_catagory": "cricket",
+      "event_name": "Kwibuka Women's T20I Tournament, 2024",
+      "match_id": 101922,
+      "match_name": "Cameroon Women vs Malawi Women",
+      "team_1": "Cameroon Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAME@2x.png",
+      "team_2": "Malawi Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALA@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/573HkvX2RHmkWzxKV1hluQ/master.m3u8"
+    },
+    {
       "event_catagory": "volleyball",
       "event_name": "Volleyball Nations League Men's",
       "match_id": 101492,
@@ -58,6 +69,17 @@
       "team_2": "Brazil",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-BRZ@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/nTWAW2beShmBc6svJXLq7g/master.m3u8"
+    },
+    {
+      "event_catagory": "volleyball",
+      "event_name": "Volleyball Womens Beach Pro Tour",
+      "match_id": 103664,
+      "match_name": "Carol/Barbara vs Stam/Schoon",
+      "team_1": "Carol/Barbara",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-BRZ@2x.png",
+      "team_2": "Stam/Schoon",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-NTH@2x.png",
+      "stream_link": "https://dai.fancode.com/primary/103664_english_hls_3846adfreeta-di/index.m3u8"
     }
   ]
 }

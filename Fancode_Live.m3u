@@ -3,9 +3,13 @@
 https://dai.google.com/linear/hls/event/SD3HM6FxQeSGuoEAYnJj3w/master.m3u8
 #EXTINF:-1 tvg-name="Diamonds Women vs Queens Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102561" group-title="Siechem Pondicherry Womens T10 Tournament 2024",Diamonds Women vs Queens Women
 https://dai.google.com/linear/hls/event/aJLVy0jMQZuyDbqhLwmZQg/master.m3u8
-#EXTINF:-1 tvg-name="Telugu 11 vs Nicosia Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102738" group-title="ECS Cyprus, Encore, 2024",Telugu 11 vs Nicosia Tigers
-https://dai.google.com/linear/hls/event/1d2toRd8RTibknSW9gsRIg/master.m3u8
+#EXTINF:-1 tvg-name="Telugu 11 vs Kipro Tigers Limassol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102739" group-title="ECS Cyprus, Encore, 2024",Telugu 11 vs Kipro Tigers Limassol
+https://dai.google.com/linear/hls/event/KVV9JGLISTqe3yx0DQFKzQ/master.m3u8
 #EXTINF:-1 tvg-name="Band-e Amir Stars vs Speenghar Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102978" group-title="Kabul Premier League, 2024",Band-e Amir Stars vs Speenghar Warriors
 https://dai.google.com/linear/hls/event/Wz3wP9EQQUOSgy8gRFfGHw/master.m3u8
+#EXTINF:-1 tvg-name="Cameroon Women vs Malawi Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101922" group-title="Kwibuka Women's T20I Tournament, 2024",Cameroon Women vs Malawi Women
+https://dai.google.com/linear/hls/event/573HkvX2RHmkWzxKV1hluQ/master.m3u8
 #EXTINF:-1 tvg-name="Poland vs Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101492" group-title="Volleyball Nations League Men's",Poland vs Brazil
 https://dai.google.com/linear/hls/event/nTWAW2beShmBc6svJXLq7g/master.m3u8
+#EXTINF:-1 tvg-name="Carol/Barbara vs Stam/Schoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103664" group-title="Volleyball Womens Beach Pro Tour",Carol/Barbara vs Stam/Schoon
+https://dai.fancode.com/primary/103664_english_hls_3846adfreeta-di/index.m3u8
