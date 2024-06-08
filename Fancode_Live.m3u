@@ -1,17 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="DCC Starlets vs Top Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102365" group-title="ICCA Arabian T10, 2024",DCC Starlets vs Top Stars
-https://dai.google.com/linear/hls/event/XBuV_aXaSHyB37JMUH507g/master.m3u8
 #EXTINF:-1 tvg-name="Kipro Tigers Limassol vs Limassol Zalmi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102742" group-title="ECS Cyprus, Encore, 2024",Kipro Tigers Limassol vs Limassol Zalmi
 https://dai.google.com/linear/hls/event/PmXS8GsVTZ6XDEfk086TPQ/master.m3u8
 #EXTINF:-1 tvg-name="Uganda Women vs Zimbabwe A Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101925" group-title="Kwibuka Women's T20I Tournament, 2024",Uganda Women vs Zimbabwe A Women
 https://dai.google.com/linear/hls/event/glZz_9s1RBCrcA5W29XGdw/master.m3u8
-#EXTINF:-1 tvg-name="Nigeria Women vs Rwanda Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101924" group-title="Kwibuka Women's T20I Tournament, 2024",Nigeria Women vs Rwanda Women
-https://dai.google.com/linear/hls/event/Lrym4lqaQ06Z54U4rkVv0A/master.m3u8
 #EXTINF:-1 tvg-name="Cameroon vs Cabo Verde" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102554" group-title="CAF World Cup Qualifiers",Cameroon vs Cabo Verde
 https://dai.google.com/linear/hls/event/UkZBDr9jRl-KlLKleRz-dQ/master.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103030" group-title="Volvo Car Scandinavian Mixed",Day 3
 https://dai.google.com/linear/hls/event/7ZFDxO1aQtqZu-vSXKmgRg/master.m3u8
-#EXTINF:-1 tvg-name="Ana Patrícia/Duda vs Brunner/Hüberli" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103671" group-title="Volleyball Womens Beach Pro Tour",Ana Patrícia/Duda vs Brunner/Hüberli
-https://dai.fancode.com/primary/103671_english_hls_3173adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Müller/Tillmann vs Hughes/Cheng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103670" group-title="Volleyball Womens Beach Pro Tour",Müller/Tillmann vs Hughes/Cheng
-https://dai.fancode.com/primary/103670_english_hls_8204adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Ehlers/Wickler vs Boermans/de Groot" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103661" group-title="Volleyball Mens Beach Pro Tour",Ehlers/Wickler vs Boermans/de Groot
+https://dai.fancode.com/primary/103661_english_hls_5389adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Cottafava/Nicolai vs Partain/Benesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103660" group-title="Volleyball Mens Beach Pro Tour",Cottafava/Nicolai vs Partain/Benesh
+https://dai.fancode.com/primary/103660_english_hls_9173adfreeta-no/index.m3u8
