@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="JB Kings vs Johor XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103168" group-title="Malaysia T10 Bash, 2024",JB Kings vs Johor XI
 https://dai.google.com/linear/hls/event/5h3iHfmHTaK1NmUmUsUjNw/master.m3u8
-#EXTINF:-1 tvg-name="Band-e Amir Stars vs Speenghar Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102978" group-title="Kabul Premier League, 2024",Band-e Amir Stars vs Speenghar Warriors
-https://dai.google.com/linear/hls/event/Wz3wP9EQQUOSgy8gRFfGHw/master.m3u8
 #EXTINF:-1 tvg-name="Telugu 11 vs Nicosia Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102738" group-title="ECS Cyprus, Encore, 2024",Telugu 11 vs Nicosia Tigers
 https://dai.google.com/linear/hls/event/1d2toRd8RTibknSW9gsRIg/master.m3u8
+#EXTINF:-1 tvg-name="Band-e Amir Stars vs Speenghar Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102978" group-title="Kabul Premier League, 2024",Band-e Amir Stars vs Speenghar Warriors
+https://dai.google.com/linear/hls/event/Wz3wP9EQQUOSgy8gRFfGHw/master.m3u8
