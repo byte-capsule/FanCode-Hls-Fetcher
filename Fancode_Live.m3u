@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="PFL Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102950" group-title="Professional Fighters League",PFL Europe
-https://dai.google.com/linear/hls/event/j0xWeMuKT-2mxr0ijJ3Waw/master.m3u8
 #EXTINF:-1 tvg-name="Real Madrid vs UCAM Murcia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103594" group-title="Liga Endesa",Real Madrid vs UCAM Murcia
 https://dai.google.com/linear/hls/event/Wub57AuHTDSRrq3a1wU0iw/master.m3u8
