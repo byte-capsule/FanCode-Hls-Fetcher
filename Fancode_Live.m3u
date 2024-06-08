@@ -3,7 +3,9 @@
 https://dai.google.com/linear/hls/event/4LwECeT6QZ203AJ2cPgcXA/master.m3u8
 #EXTINF:-1 tvg-name="Gems Education CC vs CSS Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100914" group-title="Bukhatir T10 League, 2024",Gems Education CC vs CSS Group
 https://dai.google.com/linear/hls/event/aAiDHDkoTF-9Csj06Swrdg/master.m3u8
+#EXTINF:-1 tvg-name="Gambia vs Seychelles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102555" group-title="CAF World Cup Qualifiers",Gambia vs Seychelles
+https://dai.google.com/linear/hls/event/3crerAYbQmy0ry1NIz8y5g/master.m3u8
+#EXTINF:-1 tvg-name="PFL Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102950" group-title="Professional Fighters League",PFL Europe
+https://dai.google.com/linear/hls/event/j0xWeMuKT-2mxr0ijJ3Waw/master.m3u8
 #EXTINF:-1 tvg-name="Evandro/Arthur vs Åhman/Hellvig" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103663" group-title="Volleyball Mens Beach Pro Tour",Evandro/Arthur vs Åhman/Hellvig
 https://dai.fancode.com/primary/103663_english_hls_5900adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Mol, A./Sørum, C. vs van de Velde/Immers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103662" group-title="Volleyball Mens Beach Pro Tour",Mol, A./Sørum, C. vs van de Velde/Immers
-https://dai.fancode.com/primary/103662_english_hls_9439adfreeta-di/index.m3u8
