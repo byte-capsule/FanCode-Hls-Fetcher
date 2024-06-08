@@ -1,15 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="JB Kings vs Solid Lankans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103170" group-title="Malaysia T10 Bash, 2024",JB Kings vs Solid Lankans
+https://dai.google.com/linear/hls/event/jCzPCi2_QzW4wLsnC6PLTw/master.m3u8
 #EXTINF:-1 tvg-name="Telugu 11 vs Kipro Tigers Limassol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102739" group-title="ECS Cyprus, Encore, 2024",Telugu 11 vs Kipro Tigers Limassol
 https://dai.google.com/linear/hls/event/KVV9JGLISTqe3yx0DQFKzQ/master.m3u8
-#EXTINF:-1 tvg-name="Cameroon Women vs Malawi Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101922" group-title="Kwibuka Women's T20I Tournament, 2024",Cameroon Women vs Malawi Women
-https://dai.google.com/linear/hls/event/573HkvX2RHmkWzxKV1hluQ/master.m3u8
 #EXTINF:-1 tvg-name="Kenya Women vs Botswana Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101923" group-title="Kwibuka Women's T20I Tournament, 2024",Kenya Women vs Botswana Women
 https://dai.google.com/linear/hls/event/kqZ2ybMES92RiCtED4n2yQ/master.m3u8
-#EXTINF:-1 tvg-name="DTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103012" group-title="DTM 2024",DTM
-https://dai.google.com/linear/hls/event/cTaDP3hOQXSfbIwdNr0DXQ/master.m3u8
+#EXTINF:-1 tvg-name="Cameroon Women vs Malawi Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101922" group-title="Kwibuka Women's T20I Tournament, 2024",Cameroon Women vs Malawi Women
+https://dai.google.com/linear/hls/event/573HkvX2RHmkWzxKV1hluQ/master.m3u8
 #EXTINF:-1 tvg-name="Poland vs Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101492" group-title="Volleyball Nations League Men's",Poland vs Brazil
 https://dai.google.com/linear/hls/event/nTWAW2beShmBc6svJXLq7g/master.m3u8
-#EXTINF:-1 tvg-name="Ana Patrícia/Duda vs Hermannova/Stochlova" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103667" group-title="Volleyball Womens Beach Pro Tour",Ana Patrícia/Duda vs Hermannova/Stochlova
-https://dai.fancode.com/primary/103667_english_hls_80adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Hughes/Cheng vs Scoles/Flint" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103666" group-title="Volleyball Womens Beach Pro Tour",Hughes/Cheng vs Scoles/Flint
-https://dai.fancode.com/primary/103666_english_hls_3835adfreeta-no/index.m3u8
