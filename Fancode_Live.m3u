@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ATM vs JB Panters" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103169" group-title="Malaysia T10 Bash, 2024",ATM vs JB Panters
-https://dai.google.com/linear/hls/event/SD3HM6FxQeSGuoEAYnJj3w/master.m3u8
 #EXTINF:-1 tvg-name="Telugu 11 vs Kipro Tigers Limassol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102739" group-title="ECS Cyprus, Encore, 2024",Telugu 11 vs Kipro Tigers Limassol
 https://dai.google.com/linear/hls/event/KVV9JGLISTqe3yx0DQFKzQ/master.m3u8
 #EXTINF:-1 tvg-name="Cameroon Women vs Malawi Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101922" group-title="Kwibuka Women's T20I Tournament, 2024",Cameroon Women vs Malawi Women
