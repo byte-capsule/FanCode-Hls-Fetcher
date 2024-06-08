@@ -1,15 +1,21 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DCC Starlets vs Top Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102365" group-title="ICCA Arabian T10, 2024",DCC Starlets vs Top Stars
+https://dai.google.com/linear/hls/event/XBuV_aXaSHyB37JMUH507g/master.m3u8
 #EXTINF:-1 tvg-name="Nicosia Tigers vs Limassol Zalmi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102741" group-title="ECS Cyprus, Encore, 2024",Nicosia Tigers vs Limassol Zalmi
 https://dai.google.com/linear/hls/event/XiPzcGPOSoK9phrBdSCIuQ/master.m3u8
 #EXTINF:-1 tvg-name="Kabul Zalmi vs Shamshad Eagles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102979" group-title="Kabul Premier League, 2024",Kabul Zalmi vs Shamshad Eagles
 https://dai.google.com/linear/hls/event/7-l0kt73SlWLMmPfBJSeQA/master.m3u8
-#EXTINF:-1 tvg-name="Nigeria Women vs Rwanda Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101924" group-title="Kwibuka Women's T20I Tournament, 2024",Nigeria Women vs Rwanda Women
-https://dai.google.com/linear/hls/event/Lrym4lqaQ06Z54U4rkVv0A/master.m3u8
 #EXTINF:-1 tvg-name="Uganda Women vs Zimbabwe A Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101925" group-title="Kwibuka Women's T20I Tournament, 2024",Uganda Women vs Zimbabwe A Women
 https://dai.google.com/linear/hls/event/glZz_9s1RBCrcA5W29XGdw/master.m3u8
+#EXTINF:-1 tvg-name="Nigeria Women vs Rwanda Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101924" group-title="Kwibuka Women's T20I Tournament, 2024",Nigeria Women vs Rwanda Women
+https://dai.google.com/linear/hls/event/Lrym4lqaQ06Z54U4rkVv0A/master.m3u8
 #EXTINF:-1 tvg-name="DTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103013" group-title="DTM 2024",DTM
 https://dai.google.com/linear/hls/event/6FhLGgbST7Osc9voS5jajA/master.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103030" group-title="Volvo Car Scandinavian Mixed",Day 3
 https://dai.google.com/linear/hls/event/7ZFDxO1aQtqZu-vSXKmgRg/master.m3u8
 #EXTINF:-1 tvg-name="Japan vs Slovenia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101493" group-title="Volleyball Nations League Men's",Japan vs Slovenia
 https://dai.google.com/linear/hls/event/DzXzbiIqRz62mmw0Loun6Q/master.m3u8
+#EXTINF:-1 tvg-name="Gottardi/Menegatti vs Melissa/Brandie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103669" group-title="Volleyball Womens Beach Pro Tour",Gottardi/Menegatti vs Melissa/Brandie
+https://dai.fancode.com/primary/103669_english_hls_5522adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Tina/Anastasija vs Carol/Barbara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103668" group-title="Volleyball Womens Beach Pro Tour",Tina/Anastasija vs Carol/Barbara
+https://dai.fancode.com/primary/103668_english_hls_9402adfreeta-no/index.m3u8
