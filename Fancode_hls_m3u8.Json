@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 4,
-  "updated_on": "08-06-2024 on 0:08:20 PM \ud83c\udf1e",
+  "channels_amount": 6,
+  "updated_on": "08-06-2024 on 0:30:31 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -14,6 +14,17 @@
       "team_2": "Johor XI",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JXI@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/5h3iHfmHTaK1NmUmUsUjNw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Malaysia T10 Bash, 2024",
+      "match_id": 103169,
+      "match_name": "ATM vs JB Panters",
+      "team_1": "ATM",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ATM@2x.png",
+      "team_2": "JB Panters",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JBPM@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/SD3HM6FxQeSGuoEAYnJj3w/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -47,6 +58,17 @@
       "team_2": "Speenghar Warriors",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SPE@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/Wz3wP9EQQUOSgy8gRFfGHw/master.m3u8"
+    },
+    {
+      "event_catagory": "volleyball",
+      "event_name": "Volleyball Nations League Men's",
+      "match_id": 101492,
+      "match_name": "Poland vs Brazil",
+      "team_1": "Poland",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-PLN@2x.png",
+      "team_2": "Brazil",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-BRZ@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/nTWAW2beShmBc6svJXLq7g/master.m3u8"
     }
   ]
 }
