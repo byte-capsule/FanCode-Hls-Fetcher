@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Dolphin Rent a Car vs ABX Rent a Car" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102366" group-title="ICCA Arabian T10, 2024",Dolphin Rent a Car vs ABX Rent a Car
 https://dai.google.com/linear/hls/event/4LwECeT6QZ203AJ2cPgcXA/master.m3u8
-#EXTINF:-1 tvg-name="Uganda Women vs Zimbabwe A Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101925" group-title="Kwibuka Women's T20I Tournament, 2024",Uganda Women vs Zimbabwe A Women
-https://dai.google.com/linear/hls/event/glZz_9s1RBCrcA5W29XGdw/master.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103030" group-title="Volvo Car Scandinavian Mixed",Day 3
 https://dai.google.com/linear/hls/event/7ZFDxO1aQtqZu-vSXKmgRg/master.m3u8
 #EXTINF:-1 tvg-name="Evandro/Arthur vs Åhman/Hellvig" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103663" group-title="Volleyball Mens Beach Pro Tour",Evandro/Arthur vs Åhman/Hellvig
