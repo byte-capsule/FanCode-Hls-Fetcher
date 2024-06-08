@@ -1,15 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Elite Cricket Club vs Smart Cube Kings 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102367" group-title="ICCA Arabian T10, 2024",Elite Cricket Club vs Smart Cube Kings 11
-https://dai.google.com/linear/hls/event/DEG2BIpBTse4DIgu4AxHhg/master.m3u8
-#EXTINF:-1 tvg-name="Al Rasheedi vs Al Hajery Team XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100211" group-title="KCC T20 Elite Cup 3rd Edition, 2024",Al Rasheedi vs Al Hajery Team XI
-https://dai.google.com/linear/hls/event/vqFgvV1LQHCDezlaq_dnYQ/master.m3u8
-#EXTINF:-1 tvg-name="Cinnamon Pacers vs Ginger Generals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103074" group-title="Dream11 Spice Isle T10, 2024",Cinnamon Pacers vs Ginger Generals
-https://dai.google.com/linear/hls/event/gFAcDRhRTU-IKh14M2lO-g/master.m3u8
 #EXTINF:-1 tvg-name="PFL Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102950" group-title="Professional Fighters League",PFL Europe
 https://dai.google.com/linear/hls/event/j0xWeMuKT-2mxr0ijJ3Waw/master.m3u8
-#EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103033" group-title="LIV Golf Houston",Day 2
-https://dai.google.com/linear/hls/event/x2GcYusxRKiaMmdZmYTORg/master.m3u8
-#EXTINF:-1 tvg-name="Cuba vs France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101494" group-title="Volleyball Nations League Men's",Cuba vs France
-https://dai.google.com/linear/hls/event/USxHfLnuSVqyHDyvC9WNcQ/master.m3u8
 #EXTINF:-1 tvg-name="Real Madrid vs UCAM Murcia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103594" group-title="Liga Endesa",Real Madrid vs UCAM Murcia
 https://dai.google.com/linear/hls/event/Wub57AuHTDSRrq3a1wU0iw/master.m3u8
