@@ -1,12 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Seven Districts Hybrid vs DCC Starlets" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102369" group-title="ICCA Arabian T10, 2024",Seven Districts Hybrid vs DCC Starlets
 https://dai.google.com/linear/hls/event/64x3Cs54TKmE0IO86fmZag/master.m3u8
-#EXTINF:-1 tvg-name="Al Fatah vs Markhor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102746" group-title="ECS Cyprus, Encore, 2024",Al Fatah vs Markhor
-https://dai.google.com/linear/hls/event/zSWPCCi3RPKwX79B3OZbPw/master.m3u8
 #EXTINF:-1 tvg-name="Shaheen Hunters vs Speenghar Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102981" group-title="Kabul Premier League, 2024",Shaheen Hunters vs Speenghar Warriors
 https://dai.google.com/linear/hls/event/UTQBnUhGSSOg7f-7Yo1esQ/master.m3u8
-#EXTINF:-1 tvg-name="Southern Vipers vs Western Storm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99801" group-title="Charlotte Edwards Cup, 2024",Southern Vipers vs Western Storm
-https://dai.google.com/linear/hls/event/04TtfzAsRJSI9a5WeauR3g/master.m3u8
 #EXTINF:-1 tvg-name="Scorchers Women vs Typhoons Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101571" group-title="Evoke Super 50 Cup, 2024",Scorchers Women vs Typhoons Women
 https://dai.google.com/linear/hls/event/oVTLgXVuTe2F-Ke-DVq84g/master.m3u8
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103031" group-title="Volvo Car Scandinavian Mixed",Day 4
