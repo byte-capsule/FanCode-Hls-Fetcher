@@ -1,10 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="JB Stars vs JB Panters" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103175" group-title="Malaysia T10 Bash, 2024",JB Stars vs JB Panters
 https://dai.google.com/linear/hls/event/9SaKO0xcS_qzrJ0wljRL6A/master.m3u8
-#EXTINF:-1 tvg-name="Al Fatah vs Nicosia Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102744" group-title="ECS Cyprus, Encore, 2024",Al Fatah vs Nicosia Tigers
-https://dai.google.com/linear/hls/event/t1U-kOIrTyicCS7ZHFBBaA/master.m3u8
-#EXTINF:-1 tvg-name="Kabul Zalmi vs Kabul Knight Riders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102980" group-title="Kabul Premier League, 2024",Kabul Zalmi vs Kabul Knight Riders
-https://dai.google.com/linear/hls/event/a3TU77x7R1-nhd0joy9SdQ/master.m3u8
+#EXTINF:-1 tvg-name="Sher-e-Punjab vs Limassol Zalmi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102745" group-title="ECS Cyprus, Encore, 2024",Sher-e-Punjab vs Limassol Zalmi
+https://dai.google.com/linear/hls/event/9zNo0XA6SqKUfz-E72L4lg/master.m3u8
 #EXTINF:-1 tvg-name="Portugal vs Hungary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102449" group-title="ICC T20 World Cup Europe Qualifier A, 2024",Portugal vs Hungary
 https://dai.google.com/linear/hls/event/7-e-xaxuThqtdNdZlDRcQQ/master.m3u8
 #EXTINF:-1 tvg-name="Italy vs Luxembourg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102448" group-title="ICC T20 World Cup Europe Qualifier A, 2024",Italy vs Luxembourg
