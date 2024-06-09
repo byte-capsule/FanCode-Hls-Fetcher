@@ -7,3 +7,7 @@ https://dai.google.com/linear/hls/event/Z9DLeoRtTr-AzyWgga__bg/master.m3u8
 https://dai.google.com/linear/hls/event/JIYk3ScOSiSoJd0Zeq8nIw/master.m3u8
 #EXTINF:-1 tvg-name="Kabul Zalmi vs Kabul Knight Riders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102980" group-title="Kabul Premier League, 2024",Kabul Zalmi vs Kabul Knight Riders
 https://dai.google.com/linear/hls/event/a3TU77x7R1-nhd0joy9SdQ/master.m3u8
+#EXTINF:-1 tvg-name="Turkey vs Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101497" group-title="Volleyball Nations League Men's",Turkey vs Germany
+https://dai.google.com/linear/hls/event/Uam8Kp-1RiWuCiWIJ8CmpQ/master.m3u8
+#EXTINF:-1 tvg-name="Tina/Anastasija vs Melissa/Brandie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103672" group-title="Volleyball Womens Beach Pro Tour",Tina/Anastasija vs Melissa/Brandie
+https://dai.fancode.com/primary/103672_english_hls_5176adfreeta-no/index.m3u8
