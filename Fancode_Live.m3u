@@ -1,3 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Sky Home Riders vs JB Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103171" group-title="Malaysia T10 Bash, 2024",Sky Home Riders vs JB Stars
+https://dai.google.com/linear/hls/event/bLEGS71_RbOuoBMvG64MJA/master.m3u8
+#EXTINF:-1 tvg-name="Serbia vs Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101496" group-title="Volleyball Nations League Men's",Serbia vs Argentina
+https://dai.google.com/linear/hls/event/lYPJ3qUMS3CHWwwnczAfqw/master.m3u8
 #EXTINF:-1 tvg-name="Real Madrid vs UCAM Murcia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103594" group-title="Liga Endesa",Real Madrid vs UCAM Murcia
 https://dai.google.com/linear/hls/event/Wub57AuHTDSRrq3a1wU0iw/master.m3u8
