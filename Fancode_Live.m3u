@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Combined Cricket Club vs JB Panters" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103174" group-title="Malaysia T10 Bash, 2024",Combined Cricket Club vs JB Panters
-https://dai.google.com/linear/hls/event/mo3sikUyTnq4oyxrmK2Cfg/master.m3u8
-#EXTINF:-1 tvg-name="JB Stars vs TBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103175" group-title="Malaysia T10 Bash, 2024",JB Stars vs TBC
+#EXTINF:-1 tvg-name="JB Stars vs JB Panters" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103175" group-title="Malaysia T10 Bash, 2024",JB Stars vs JB Panters
 https://dai.google.com/linear/hls/event/9SaKO0xcS_qzrJ0wljRL6A/master.m3u8
 #EXTINF:-1 tvg-name="Angels Women vs Princess Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102563" group-title="Siechem Pondicherry Womens T10 Tournament 2024",Angels Women vs Princess Women
 https://dai.google.com/linear/hls/event/Z9DLeoRtTr-AzyWgga__bg/master.m3u8
@@ -9,6 +7,10 @@ https://dai.google.com/linear/hls/event/Z9DLeoRtTr-AzyWgga__bg/master.m3u8
 https://dai.google.com/linear/hls/event/t1U-kOIrTyicCS7ZHFBBaA/master.m3u8
 #EXTINF:-1 tvg-name="Kabul Zalmi vs Kabul Knight Riders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102980" group-title="Kabul Premier League, 2024",Kabul Zalmi vs Kabul Knight Riders
 https://dai.google.com/linear/hls/event/a3TU77x7R1-nhd0joy9SdQ/master.m3u8
+#EXTINF:-1 tvg-name="Portugal vs Hungary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102449" group-title="ICC T20 World Cup Europe Qualifier A, 2024",Portugal vs Hungary
+https://dai.google.com/linear/hls/event/7-e-xaxuThqtdNdZlDRcQQ/master.m3u8
+#EXTINF:-1 tvg-name="Italy vs Luxembourg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102448" group-title="ICC T20 World Cup Europe Qualifier A, 2024",Italy vs Luxembourg
+https://dai.google.com/linear/hls/event/ux0n4uQSTLaav7bNRI77Vg/master.m3u8
 #EXTINF:-1 tvg-name="Turkey vs Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101497" group-title="Volleyball Nations League Men's",Turkey vs Germany
 https://dai.google.com/linear/hls/event/Uam8Kp-1RiWuCiWIJ8CmpQ/master.m3u8
 #EXTINF:-1 tvg-name="Tina/Anastasija vs Melissa/Brandie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103672" group-title="Volleyball Womens Beach Pro Tour",Tina/Anastasija vs Melissa/Brandie
