@@ -1,19 +1,15 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Seven Districts Hybrid vs DCC Starlets" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102369" group-title="ICCA Arabian T10, 2024",Seven Districts Hybrid vs DCC Starlets
+https://dai.google.com/linear/hls/event/64x3Cs54TKmE0IO86fmZag/master.m3u8
 #EXTINF:-1 tvg-name="Al Fatah vs Markhor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102746" group-title="ECS Cyprus, Encore, 2024",Al Fatah vs Markhor
 https://dai.google.com/linear/hls/event/zSWPCCi3RPKwX79B3OZbPw/master.m3u8
 #EXTINF:-1 tvg-name="Shaheen Hunters vs Speenghar Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102981" group-title="Kabul Premier League, 2024",Shaheen Hunters vs Speenghar Warriors
 https://dai.google.com/linear/hls/event/UTQBnUhGSSOg7f-7Yo1esQ/master.m3u8
 #EXTINF:-1 tvg-name="Southern Vipers vs Western Storm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99801" group-title="Charlotte Edwards Cup, 2024",Southern Vipers vs Western Storm
 https://dai.google.com/linear/hls/event/04TtfzAsRJSI9a5WeauR3g/master.m3u8
-#EXTINF:-1 tvg-name="Portugal vs Hungary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102449" group-title="ICC T20 World Cup Europe Qualifier A, 2024",Portugal vs Hungary
-https://dai.google.com/linear/hls/event/7-e-xaxuThqtdNdZlDRcQQ/master.m3u8
-#EXTINF:-1 tvg-name="Italy vs Luxembourg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102448" group-title="ICC T20 World Cup Europe Qualifier A, 2024",Italy vs Luxembourg
-https://dai.google.com/linear/hls/event/ux0n4uQSTLaav7bNRI77Vg/master.m3u8
 #EXTINF:-1 tvg-name="Scorchers Women vs Typhoons Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101571" group-title="Evoke Super 50 Cup, 2024",Scorchers Women vs Typhoons Women
 https://dai.google.com/linear/hls/event/oVTLgXVuTe2F-Ke-DVq84g/master.m3u8
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103031" group-title="Volvo Car Scandinavian Mixed",Day 4
 https://dai.google.com/linear/hls/event/RgfpITHIRZy7nmBiEk_0Xg/master.m3u8
-#EXTINF:-1 tvg-name="Bulgaria vs Slovenia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101498" group-title="Volleyball Nations League Men's",Bulgaria vs Slovenia
-https://dai.google.com/linear/hls/event/JvhcPypwT8OM-tcN21ZkKA/master.m3u8
-#EXTINF:-1 tvg-name="Tina/Anastasija vs Ana Patrícia/Duda" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103678" group-title="Volleyball Womens Beach Pro Tour",Tina/Anastasija vs Ana Patrícia/Duda
-https://dai.fancode.com/primary/103678_english_hls_9089adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Melissa/Brandie vs Hughes/Cheng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103679" group-title="Volleyball Womens Beach Pro Tour",Melissa/Brandie vs Hughes/Cheng
+https://dai.fancode.com/primary/103679_english_hls_5487adfreeta-no/index.m3u8
