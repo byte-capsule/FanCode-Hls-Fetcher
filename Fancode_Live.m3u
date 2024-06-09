@@ -1,12 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Saffron Strikers vs Cinnamon Pacers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103076" group-title="Dream11 Spice Isle T10, 2024",Saffron Strikers vs Cinnamon Pacers
+https://dai.google.com/linear/hls/event/LgIcH4_ySHCtoJUMYSAl9g/master.m3u8
 #EXTINF:-1 tvg-name="ABX Rent a Car vs Wavilog Tech CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102370" group-title="ICCA Arabian T10, 2024",ABX Rent a Car vs Wavilog Tech CC
 https://dai.google.com/linear/hls/event/zr68Z3dMRoeBRB5bVutYVA/master.m3u8
 #EXTINF:-1 tvg-name="Austria vs Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102451" group-title="ICC T20 World Cup Europe Qualifier A, 2024",Austria vs Romania
 https://dai.google.com/linear/hls/event/dMdNJtpgRIKtWsT3oBMpnw/master.m3u8
 #EXTINF:-1 tvg-name="France vs Isle of Man" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102450" group-title="ICC T20 World Cup Europe Qualifier A, 2024",France vs Isle of Man
 https://dai.google.com/linear/hls/event/_mFkXbt2Sf-QAmSwTjB44Q/master.m3u8
-#EXTINF:-1 tvg-name="Sussex vs Gloucestershire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102262" group-title="Vitality Blast T20, 2024",Sussex vs Gloucestershire
-https://dai.google.com/linear/hls/event/2BhBxzWNRpivLnUHyJqafA/master.m3u8
 #EXTINF:-1 tvg-name="Somerset vs Hampshire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102260" group-title="Vitality Blast T20, 2024",Somerset vs Hampshire
 https://dai.google.com/linear/hls/event/NkssJ0epT1q2AEslJDER4A/master.m3u8
 #EXTINF:-1 tvg-name="Scorchers Women vs Typhoons Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101571" group-title="Evoke Super 50 Cup, 2024",Scorchers Women vs Typhoons Women
@@ -21,5 +21,5 @@ https://dai.google.com/linear/hls/event/kiIhsToHRuep1hsdAvI4QA/master.m3u8
 https://dai.google.com/linear/hls/event/vgn_7BnUR7y9K9GPUrA66g/master.m3u8
 #EXTINF:-1 tvg-name="Race" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95159" group-title="F1 AWS GRAND PRIX DU CANADA 2024",Race
 https://d3nmsyp9ls4j3e.cloudfront.net/out/v1/d81200a7de84447cb38784e57aecba04/index.mpd
-#EXTINF:-1 tvg-name="DTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103014" group-title="DTM 2024",DTM
-https://dai.google.com/linear/hls/event/QHkyzvKrRReqN-Dlp8eMtQ/master.m3u8
+#EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103034" group-title="LIV Golf Houston",Day 3
+https://dai.google.com/linear/hls/event/YxxZ0ccXQbKANOGSjK8QZg/master.m3u8
