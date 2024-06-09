@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="JB Stars vs JB Panters" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103175" group-title="Malaysia T10 Bash, 2024",JB Stars vs JB Panters
 https://dai.google.com/linear/hls/event/9SaKO0xcS_qzrJ0wljRL6A/master.m3u8
-#EXTINF:-1 tvg-name="Angels Women vs Princess Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102563" group-title="Siechem Pondicherry Womens T10 Tournament 2024",Angels Women vs Princess Women
-https://dai.google.com/linear/hls/event/Z9DLeoRtTr-AzyWgga__bg/master.m3u8
 #EXTINF:-1 tvg-name="Al Fatah vs Nicosia Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102744" group-title="ECS Cyprus, Encore, 2024",Al Fatah vs Nicosia Tigers
 https://dai.google.com/linear/hls/event/t1U-kOIrTyicCS7ZHFBBaA/master.m3u8
 #EXTINF:-1 tvg-name="Kabul Zalmi vs Kabul Knight Riders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102980" group-title="Kabul Premier League, 2024",Kabul Zalmi vs Kabul Knight Riders
@@ -13,7 +11,5 @@ https://dai.google.com/linear/hls/event/7-e-xaxuThqtdNdZlDRcQQ/master.m3u8
 https://dai.google.com/linear/hls/event/ux0n4uQSTLaav7bNRI77Vg/master.m3u8
 #EXTINF:-1 tvg-name="Turkey vs Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101497" group-title="Volleyball Nations League Men's",Turkey vs Germany
 https://dai.google.com/linear/hls/event/Uam8Kp-1RiWuCiWIJ8CmpQ/master.m3u8
-#EXTINF:-1 tvg-name="Tina/Anastasija vs Melissa/Brandie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103672" group-title="Volleyball Womens Beach Pro Tour",Tina/Anastasija vs Melissa/Brandie
-https://dai.fancode.com/primary/103672_english_hls_5176adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Hughes/Cheng vs Ana Patrícia/Duda" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103673" group-title="Volleyball Womens Beach Pro Tour",Hughes/Cheng vs Ana Patrícia/Duda
-https://dai.fancode.com/primary/103673_english_hls_5491adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Partain/Benesh vs Boermans/de Groot" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103674" group-title="Volleyball Mens Beach Pro Tour",Partain/Benesh vs Boermans/de Groot
+https://dai.fancode.com/primary/103674_english_hls_5413adfreeta-no/index.m3u8
