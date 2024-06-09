@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Combined Cricket Club vs JB Panters" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103174" group-title="Malaysia T10 Bash, 2024",Combined Cricket Club vs JB Panters
 https://dai.google.com/linear/hls/event/mo3sikUyTnq4oyxrmK2Cfg/master.m3u8
+#EXTINF:-1 tvg-name="JB Stars vs TBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103175" group-title="Malaysia T10 Bash, 2024",JB Stars vs TBC
+https://dai.google.com/linear/hls/event/9SaKO0xcS_qzrJ0wljRL6A/master.m3u8
 #EXTINF:-1 tvg-name="Angels Women vs Princess Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102563" group-title="Siechem Pondicherry Womens T10 Tournament 2024",Angels Women vs Princess Women
 https://dai.google.com/linear/hls/event/Z9DLeoRtTr-AzyWgga__bg/master.m3u8
 #EXTINF:-1 tvg-name="Al Fatah vs Nicosia Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102744" group-title="ECS Cyprus, Encore, 2024",Al Fatah vs Nicosia Tigers
