@@ -3,7 +3,7 @@
 https://dai.google.com/linear/hls/event/dKvAbQVrR6mJOkibmCN5cw/master.m3u8
 #EXTINF:-1 tvg-name="Kabul Zalmi vs Band-e Amir Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102983" group-title="Kabul Premier League, 2024",Kabul Zalmi vs Band-e Amir Stars
 https://dai.fancode.com/primary/102983_english_hls_6408adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="JK Super Strikers vs Intersoft Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103107" group-title="Sher-E-Punjab T20, 2024",JK Super Strikers vs Intersoft Titans
-https://dai.fancode.com/primary/103107_english_hls_9419adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Isle of Man vs Turkiye" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102453" group-title="ICC T20 World Cup Europe Qualifier A, 2024",Isle of Man vs Turkiye
 https://dai.google.com/linear/hls/event/kid8btRhRvydYg1ogA_ygg/master.m3u8
+#EXTINF:-1 tvg-name="JK Super Strikers vs Intersoft Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103107" group-title="Sher-E-Punjab T20, 2024",JK Super Strikers vs Intersoft Titans
+https://dai.fancode.com/primary/103107_english_hls_9419adfreeta-no/index.m3u8
