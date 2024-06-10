@@ -1,10 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Bay Leaf Blasters vs Clove Challengers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103078" group-title="Dream11 Spice Isle T10, 2024",Bay Leaf Blasters vs Clove Challengers
 https://dai.google.com/linear/hls/event/L3QGIeBFRJqHt-CUhRC6Gw/master.m3u8
-#EXTINF:-1 tvg-name="France vs Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102455" group-title="ICC T20 World Cup Europe Qualifier A, 2024",France vs Italy
-https://dai.google.com/linear/hls/event/tX8LlgecRwKgAaQzmfPx4w/master.m3u8
-#EXTINF:-1 tvg-name="Portugal vs Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102454" group-title="ICC T20 World Cup Europe Qualifier A, 2024",Portugal vs Romania
-https://dai.google.com/linear/hls/event/ybR4LuswQBebAUv8flzs-A/master.m3u8
+#EXTINF:-1 tvg-name="Al Hajery Team XI vs Kuwait Under-19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100213" group-title="KCC T20 Elite Cup 3rd Edition, 2024",Al Hajery Team XI vs Kuwait Under-19
+https://dai.google.com/linear/hls/event/ctbwJNVFQSieaKLj0YwQ2w/master.m3u8
 #EXTINF:-1 tvg-name="BLV Blasters vs Royal Phantoms" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103108" group-title="Sher-E-Punjab T20, 2024",BLV Blasters vs Royal Phantoms
 https://dai.google.com/linear/hls/event/uPI6Xb1AS4mSeRztPzA42Q/master.m3u8
 #EXTINF:-1 tvg-name="Golden Sapero Technical Service vs V Eleven Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100918" group-title="Bukhatir T10 League, 2024",Golden Sapero Technical Service vs V Eleven Cricket Club
