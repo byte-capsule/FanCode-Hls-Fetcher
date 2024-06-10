@@ -5,3 +5,5 @@ https://dai.google.com/linear/hls/event/kd_fWJAnT7KpteoYUfxzMA/master.m3u8
 https://dai.google.com/linear/hls/event/3_J-xRvBQYyxDiytRkARBA/master.m3u8
 #EXTINF:-1 tvg-name="Cyprus Knight Riders vs Nicosia Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102748" group-title="ECS Cyprus, Encore, 2024",Cyprus Knight Riders vs Nicosia Tigers
 https://dai.google.com/linear/hls/event/CjqgKUgmQ5q8CXm1SomssQ/master.m3u8
+#EXTINF:-1 tvg-name="Nicosia Tigers vs Markhor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102749" group-title="ECS Cyprus, Encore, 2024",Nicosia Tigers vs Markhor
+https://dai.google.com/linear/hls/event/YoIwCHPmTqa1KaC0xzuUjg/master.m3u8
