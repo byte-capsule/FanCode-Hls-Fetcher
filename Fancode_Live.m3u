@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Angels Women vs Diamonds Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102565" group-title="Siechem Pondicherry Womens T10 Tournament 2024",Angels Women vs Diamonds Women
+https://dai.google.com/linear/hls/event/kd_fWJAnT7KpteoYUfxzMA/master.m3u8
 #EXTINF:-1 tvg-name="Shaheen Hunters vs Kabul Knight Riders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102982" group-title="Kabul Premier League, 2024",Shaheen Hunters vs Kabul Knight Riders
 https://dai.google.com/linear/hls/event/3_J-xRvBQYyxDiytRkARBA/master.m3u8
 #EXTINF:-1 tvg-name="Cyprus Knight Riders vs Nicosia Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102748" group-title="ECS Cyprus, Encore, 2024",Cyprus Knight Riders vs Nicosia Tigers
