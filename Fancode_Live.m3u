@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Cyprus Knight Riders vs Kipro Tigers Limassol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102750" group-title="ECS Cyprus, Encore, 2024",Cyprus Knight Riders vs Kipro Tigers Limassol
 https://dai.fancode.com/primary/102750_english_hls_5300adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Band-e Amir Stars vs Kabul Zalmi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102983" group-title="Kabul Premier League, 2024",Band-e Amir Stars vs Kabul Zalmi
+#EXTINF:-1 tvg-name="Kabul Zalmi vs Band-e Amir Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102983" group-title="Kabul Premier League, 2024",Kabul Zalmi vs Band-e Amir Stars
 https://dai.fancode.com/primary/102983_english_hls_6408adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="JK Super Strikers vs Intersoft Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103107" group-title="Sher-E-Punjab T20, 2024",JK Super Strikers vs Intersoft Titans
 https://dai.fancode.com/primary/103107_english_hls_9419adfreeta-no/index.m3u8
