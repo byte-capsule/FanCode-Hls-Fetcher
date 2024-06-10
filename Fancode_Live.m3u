@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="DCC Starlets vs Dubai Dare Devils" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102353" group-title="ICCA Arabian T10, 2024",DCC Starlets vs Dubai Dare Devils
 https://dai.google.com/linear/hls/event/fnQZfbSsTLyBu01i38ZcaQ/master.m3u8
-#EXTINF:-1 tvg-name="Nicosia Tigers vs Markhor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102749" group-title="ECS Cyprus, Encore, 2024",Nicosia Tigers vs Markhor
-https://dai.google.com/linear/hls/event/YoIwCHPmTqa1KaC0xzuUjg/master.m3u8
 #EXTINF:-1 tvg-name="Isle of Man vs Turkiye" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102453" group-title="ICC T20 World Cup Europe Qualifier A, 2024",Isle of Man vs Turkiye
 https://dai.google.com/linear/hls/event/kid8btRhRvydYg1ogA_ygg/master.m3u8
 #EXTINF:-1 tvg-name="Israel vs Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102452" group-title="ICC T20 World Cup Europe Qualifier A, 2024",Israel vs Austria
