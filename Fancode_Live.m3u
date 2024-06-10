@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Markhor vs Kipro Tigers Limassol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102751" group-title="ECS Cyprus, Encore, 2024",Markhor vs Kipro Tigers Limassol
 https://dai.google.com/linear/hls/event/dKvAbQVrR6mJOkibmCN5cw/master.m3u8
+#EXTINF:-1 tvg-name="Telugu 11 vs Markhor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102752" group-title="ECS Cyprus, Encore, 2024",Telugu 11 vs Markhor
+https://dai.google.com/linear/hls/event/X44HsPLsR8iWnmBZpiPoJQ/master.m3u8
 #EXTINF:-1 tvg-name="Kabul Zalmi vs Band-e Amir Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102983" group-title="Kabul Premier League, 2024",Kabul Zalmi vs Band-e Amir Stars
 https://dai.fancode.com/primary/102983_english_hls_6408adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="JK Super Strikers vs Intersoft Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103107" group-title="Sher-E-Punjab T20, 2024",JK Super Strikers vs Intersoft Titans
