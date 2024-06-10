@@ -1,15 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Elite Cricket Club vs Spades Real Estate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102373" group-title="ICCA Arabian T10, 2024",Elite Cricket Club vs Spades Real Estate
 https://dai.google.com/linear/hls/event/hwN-sseNQMmLkNrcQJ7AUQ/master.m3u8
-#EXTINF:-1 tvg-name="Telugu 11 vs Markhor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102752" group-title="ECS Cyprus, Encore, 2024",Telugu 11 vs Markhor
-https://dai.google.com/linear/hls/event/X44HsPLsR8iWnmBZpiPoJQ/master.m3u8
 #EXTINF:-1 tvg-name="France vs Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102455" group-title="ICC T20 World Cup Europe Qualifier A, 2024",France vs Italy
 https://dai.google.com/linear/hls/event/tX8LlgecRwKgAaQzmfPx4w/master.m3u8
 #EXTINF:-1 tvg-name="Portugal vs Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102454" group-title="ICC T20 World Cup Europe Qualifier A, 2024",Portugal vs Romania
 https://dai.google.com/linear/hls/event/ybR4LuswQBebAUv8flzs-A/master.m3u8
 #EXTINF:-1 tvg-name="BLV Blasters vs Royal Phantoms" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103108" group-title="Sher-E-Punjab T20, 2024",BLV Blasters vs Royal Phantoms
 https://dai.google.com/linear/hls/event/uPI6Xb1AS4mSeRztPzA42Q/master.m3u8
-#EXTINF:-1 tvg-name="Equatorial Guinea vs Malawi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102651" group-title="CAF World Cup Qualifiers",Equatorial Guinea vs Malawi
-https://dai.google.com/linear/hls/event/tzu_niMiT_ql3M21KtAnzA/master.m3u8
-#EXTINF:-1 tvg-name="Somalia vs Botswana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102650" group-title="CAF World Cup Qualifiers",Somalia vs Botswana
-https://dai.google.com/linear/hls/event/25xC6uHFSI-f9NC3zsMW7Q/master.m3u8
