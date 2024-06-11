@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Limassol Zalmi vs Al Fatah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102757" group-title="ECS Cyprus, Encore, 2024",Limassol Zalmi vs Al Fatah
 https://dai.google.com/linear/hls/event/xwR2w7lvT1GuhuK2LtUhzw/master.m3u8
-#EXTINF:-1 tvg-name="Speenghar Warriors vs Kabul Knight Riders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102985" group-title="Kabul Premier League, 2024",Speenghar Warriors vs Kabul Knight Riders
-https://dai.google.com/linear/hls/event/TC75HNj0TM6uzSNrFvrVZQ/master.m3u8
-#EXTINF:-1 tvg-name="Agri King's Knights vs Trident Stallions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103109" group-title="Sher-E-Punjab T20, 2024",Agri King's Knights vs Trident Stallions
-https://dai.google.com/linear/hls/event/_oNC2vO_TMyDnTxo-aoEkA/master.m3u8
 #EXTINF:-1 tvg-name="Servotech Siliguri Strikers vs Harbour Diamonds" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103403" group-title="Bengal Pro T20 League, 2024",Servotech Siliguri Strikers vs Harbour Diamonds
 https://dai.google.com/linear/hls/event/8jGUxgtwSzygWDUGpjl_tw/master.m3u8
 #EXTINF:-1 tvg-name="Mauritius vs Eswatini" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102690" group-title="CAF World Cup Qualifiers",Mauritius vs Eswatini
