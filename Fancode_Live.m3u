@@ -1,17 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="DCC Starlets vs Smart Cube Kings 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102376" group-title="ICCA Arabian T10, 2024",DCC Starlets vs Smart Cube Kings 11
 https://dai.google.com/linear/hls/event/jDJ1ZLrASRmKv9pD12iLJg/master.m3u8
-#EXTINF:-1 tvg-name="Limassol Zalmi vs Al Fatah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102757" group-title="ECS Cyprus, Encore, 2024",Limassol Zalmi vs Al Fatah
-https://dai.google.com/linear/hls/event/xwR2w7lvT1GuhuK2LtUhzw/master.m3u8
 #EXTINF:-1 tvg-name="Intersoft Titans vs BLV Blasters" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103110" group-title="Sher-E-Punjab T20, 2024",Intersoft Titans vs BLV Blasters
 https://dai.google.com/linear/hls/event/mTUOCQYRRB6Skg6r1wRUTA/master.m3u8
 #EXTINF:-1 tvg-name="Servotech Siliguri Strikers vs Harbour Diamonds" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103403" group-title="Bengal Pro T20 League, 2024",Servotech Siliguri Strikers vs Harbour Diamonds
 https://dai.google.com/linear/hls/event/8jGUxgtwSzygWDUGpjl_tw/master.m3u8
-#EXTINF:-1 tvg-name="Mauritius vs Eswatini" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102690" group-title="CAF World Cup Qualifiers",Mauritius vs Eswatini
-https://dai.google.com/linear/hls/event/aKneJuYHR1idZxici5-UoA/master.m3u8
-#EXTINF:-1 tvg-name="Kenya vs Côte d'Ivoire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102689" group-title="CAF World Cup Qualifiers",Kenya vs Côte d'Ivoire
-https://dai.google.com/linear/hls/event/qMZEr3VEQOiJjAhonua-VA/master.m3u8
-#EXTINF:-1 tvg-name="South Sudan vs Sudan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102688" group-title="CAF World Cup Qualifiers",South Sudan vs Sudan
-https://dai.google.com/linear/hls/event/GhETi5I8S0umrolbz5ORkQ/master.m3u8
-#EXTINF:-1 tvg-name="Madagascar vs Mali" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102775" group-title="CAF World Cup Qualifiers",Madagascar vs Mali
-https://dai.google.com/linear/hls/event/8Lq42tWvQve-JJ4u_Yt4nA/master.m3u8
