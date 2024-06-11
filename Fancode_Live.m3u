@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Telugu 11 vs Limassol Zalmi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102755" group-title="ECS Cyprus, Encore, 2024",Telugu 11 vs Limassol Zalmi
+https://dai.google.com/linear/hls/event/ZR5PfjVuQ6GFz-BHgxzsdQ/master.m3u8
+#EXTINF:-1 tvg-name="Germany vs Dominican Republic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101337" group-title="Volleyball Nations League Women's",Germany vs Dominican Republic
+https://dai.google.com/linear/hls/event/Bn8I6PzAQ_-J5YDP_XMuPA/master.m3u8
