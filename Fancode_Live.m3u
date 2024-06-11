@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DCC Starlets vs Smart Cube Kings 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102376" group-title="ICCA Arabian T10, 2024",DCC Starlets vs Smart Cube Kings 11
+https://dai.google.com/linear/hls/event/jDJ1ZLrASRmKv9pD12iLJg/master.m3u8
 #EXTINF:-1 tvg-name="Limassol Zalmi vs Al Fatah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102757" group-title="ECS Cyprus, Encore, 2024",Limassol Zalmi vs Al Fatah
 https://dai.google.com/linear/hls/event/xwR2w7lvT1GuhuK2LtUhzw/master.m3u8
 #EXTINF:-1 tvg-name="Intersoft Titans vs BLV Blasters" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103110" group-title="Sher-E-Punjab T20, 2024",Intersoft Titans vs BLV Blasters
