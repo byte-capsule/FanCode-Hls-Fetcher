@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Princess Women vs Diamonds Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102566" group-title="Siechem Pondicherry Womens T10 Tournament 2024",Princess Women vs Diamonds Women
-https://dai.google.com/linear/hls/event/2LwrTjrqQTyOLRiRUdHQ4A/master.m3u8
-#EXTINF:-1 tvg-name="Shamshad Eagles vs Shaheen Hunters" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102984" group-title="Kabul Premier League, 2024",Shamshad Eagles vs Shaheen Hunters
+#EXTINF:-1 tvg-name="Shaheen Hunters vs Shamshad Eagles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102984" group-title="Kabul Premier League, 2024",Shaheen Hunters vs Shamshad Eagles
 https://dai.google.com/linear/hls/event/AwY4z1QzTXe4zeT3l8kjMA/master.m3u8
+#EXTINF:-1 tvg-name="Telugu 11 vs Cyprus Knight Riders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102753" group-title="ECS Cyprus, Encore, 2024",Telugu 11 vs Cyprus Knight Riders
+https://dai.google.com/linear/hls/event/nWlU9ARjTai7AwkCm7Ug7w/master.m3u8
