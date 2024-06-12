@@ -1,9 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Leicestershire vs Durham" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102266" group-title="Vitality Blast T20, 2024",Leicestershire vs Durham
+https://dai.google.com/linear/hls/event/RUl3K3RGSPmlWsqNqSTluQ/master.m3u8
 #EXTINF:-1 tvg-name="Al Mulla Exchange vs Kuwait Under-19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100215" group-title="KCC T20 Elite Cup 3rd Edition, 2024",Al Mulla Exchange vs Kuwait Under-19
 https://dai.google.com/linear/hls/event/HudRWbGZQvKX2sNws5hJvA/master.m3u8
 #EXTINF:-1 tvg-name="Karwan Cricket Club vs CSS Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100921" group-title="Bukhatir T10 League, 2024",Karwan Cricket Club vs CSS Group
 https://dai.google.com/linear/hls/event/VWRl7_VFRbqjZTABTnpd6A/master.m3u8
 #EXTINF:-1 tvg-name="Nutmeg Warriors vs Saffron Strikers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103082" group-title="Dream11 Spice Isle T10, 2024",Nutmeg Warriors vs Saffron Strikers
 https://dai.google.com/linear/hls/event/jIKMZcHXT1CDEjm9MvTnWA/master.m3u8
-#EXTINF:-1 tvg-name="Lux Shyam Kolkata Tigers vs Adamas Howrah Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103405" group-title="Bengal Pro T20 League, 2024",Lux Shyam Kolkata Tigers vs Adamas Howrah Warriors
-https://dai.google.com/linear/hls/event/80KhGfc2SkOsVD_xF0vXNw/master.m3u8
