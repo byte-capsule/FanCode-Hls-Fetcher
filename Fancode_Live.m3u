@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Philips Warrior vs Cyprus Knight Riders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102761" group-title="ECS Cyprus, Encore, 2024",Philips Warrior vs Cyprus Knight Riders
-https://dai.google.com/linear/hls/event/_6B7QIyyTHmFFoFjibIW_w/master.m3u8
 #EXTINF:-1 tvg-name="Speenghar Warriors vs Kabul Knight Riders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102987" group-title="Kabul Premier League, 2024",Speenghar Warriors vs Kabul Knight Riders
 https://dai.google.com/linear/hls/event/PZP9x7PrT_yuhKT4_1RVaQ/master.m3u8
 #EXTINF:-1 tvg-name="Royal Phantoms vs Agri King's Knights" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103112" group-title="Sher-E-Punjab T20, 2024",Royal Phantoms vs Agri King's Knights
 https://dai.google.com/linear/hls/event/1htxQajJQPiOn1djH30vcA/master.m3u8
+#EXTINF:-1 tvg-name="Lux Shyam Kolkata Tigers vs Adamas Howrah Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103405" group-title="Bengal Pro T20 League, 2024",Lux Shyam Kolkata Tigers vs Adamas Howrah Warriors
+https://dai.google.com/linear/hls/event/80KhGfc2SkOsVD_xF0vXNw/master.m3u8
+#EXTINF:-1 tvg-name="Israel vs Hungary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102459" group-title="ICC T20 World Cup Europe Qualifier A, 2024",Israel vs Hungary
+https://dai.google.com/linear/hls/event/uhTgKHJGQg6MBm_kxi2jHA/master.m3u8
+#EXTINF:-1 tvg-name="Luxembourg vs Turkiye" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102458" group-title="ICC T20 World Cup Europe Qualifier A, 2024",Luxembourg vs Turkiye
+https://dai.google.com/linear/hls/event/q691IdctRHelQ96lOpBHIA/master.m3u8
 #EXTINF:-1 tvg-name="Brazil vs Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101343" group-title="Volleyball Nations League Women's",Brazil vs Poland
 https://dai.google.com/linear/hls/event/jiMfvI6vSX6vhSp-E3namg/master.m3u8
