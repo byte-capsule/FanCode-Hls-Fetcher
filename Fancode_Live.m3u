@@ -13,3 +13,5 @@ https://dai.google.com/linear/hls/event/_mVaHWLWSc-KKUN_v_asmA/master.m3u8
 https://dai.google.com/linear/hls/event/6V-JIyQiTWSOPj2O89IlVw/master.m3u8
 #EXTINF:-1 tvg-name="Turkey vs Thailand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101341" group-title="Volleyball Nations League Women's",Turkey vs Thailand
 https://dai.google.com/linear/hls/event/hClGylwqQXWx8JE6H3MieQ/master.m3u8
+#EXTINF:-1 tvg-name="South Korea vs Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101342" group-title="Volleyball Nations League Women's",South Korea vs Japan
+https://dai.google.com/linear/hls/event/Mvu987ckQ-qYnm78qgXA8Q/master.m3u8
