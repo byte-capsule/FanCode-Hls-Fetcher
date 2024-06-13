@@ -1,20 +1,9 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 10,
-  "updated_on": "13-06-2024 on 4:30:01 PM \ud83c\udf1e",
+  "channels_amount": 9,
+  "updated_on": "13-06-2024 on 4:40:57 PM \ud83c\udf1e",
   "channels": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Siechem Pondicherry Men's T10 Tournament 2024",
-      "match_id": 102571,
-      "match_name": "Titans vs Warriors",
-      "team_1": "Titans",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TITNS@2x.png",
-      "team_2": "Warriors",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WARRS@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/-gFgz1Q1T1CZMeXTDz2r5Q/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "ECS Cyprus, Encore, 2024",
