@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Lux Shyam Kolkata Tigers Womens vs Adamas Howrah Warriors Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103440" group-title="Bengal Womens Pro T20 League, 2024",Lux Shyam Kolkata Tigers Womens vs Adamas Howrah Warriors Womens
 https://dai.google.com/linear/hls/event/MuMlW4CET3uZCqPx0Bc09Q/master.m3u8
-#EXTINF:-1 tvg-name="Eagles vs Smashers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102569" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Eagles vs Smashers
-https://dai.google.com/linear/hls/event/Sc4ryRAhTE6pvjM6YMi6JA/master.m3u8
-#EXTINF:-1 tvg-name="Netherlands vs USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101344" group-title="Volleyball Nations League Women's",Netherlands vs USA
-https://dai.google.com/linear/hls/event/0FmcNJSaQH-W0PBPJoWzEg/master.m3u8
+#EXTINF:-1 tvg-name="BF Cyprus vs Cyprus Knight Riders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102762" group-title="ECS Cyprus, Encore, 2024",BF Cyprus vs Cyprus Knight Riders
+https://dai.google.com/linear/hls/event/FGBmN7b8SCiiOZYE3tFoGg/master.m3u8
