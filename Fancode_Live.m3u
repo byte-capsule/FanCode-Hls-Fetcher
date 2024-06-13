@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Bay Leaf Blasters vs Ginger Generals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103084" group-title="Dream11 Spice Isle T10, 2024",Bay Leaf Blasters vs Ginger Generals
+https://dai.google.com/linear/hls/event/4EIyPPR2QgOVX3H0DisDsw/master.m3u8
 #EXTINF:-1 tvg-name="Golden Sapero Technical Service vs UAE Kings XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100923" group-title="Bukhatir T10 League, 2024",Golden Sapero Technical Service vs UAE Kings XI
 https://dai.google.com/linear/hls/event/zyDA0JX3R8WCzuEhh8QTRA/master.m3u8
 #EXTINF:-1 tvg-name="Portugal vs Israel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102462" group-title="ICC T20 World Cup Europe Qualifier A, 2024",Portugal vs Israel
@@ -7,5 +9,5 @@ https://dai.google.com/linear/hls/event/KaPa3IWJQgm3uDDPr9lGZQ/master.m3u8
 https://dai.google.com/linear/hls/event/d0IPiOoARbKvZXOJACuFkw/master.m3u8
 #EXTINF:-1 tvg-name="Agri King's Knights vs JK Super Strikers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103113" group-title="Sher-E-Punjab T20, 2024",Agri King's Knights vs JK Super Strikers
 https://dai.google.com/linear/hls/event/FpojZbhDRUSwmnCFPFXW7g/master.m3u8
-#EXTINF:-1 tvg-name="DCC Starlets vs Elite Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102379" group-title="ICCA Arabian T10, 2024",DCC Starlets vs Elite Cricket Club
-https://dai.google.com/linear/hls/event/Vrabo2ZpRCuuuvWFP6J4Dg/master.m3u8
+#EXTINF:-1 tvg-name="AP XI vs Al Mulla Exchange - B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99770" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",AP XI vs Al Mulla Exchange - B
+https://dai.google.com/linear/hls/event/ZX-qedA0RvaZXgSrF_XNfQ/master.m3u8
