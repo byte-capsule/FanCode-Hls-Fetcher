@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Golden Sapero Technical Service vs UAE Kings XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100923" group-title="Bukhatir T10 League, 2024",Golden Sapero Technical Service vs UAE Kings XI
+https://dai.google.com/linear/hls/event/zyDA0JX3R8WCzuEhh8QTRA/master.m3u8
 #EXTINF:-1 tvg-name="Turkiye vs Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102463" group-title="ICC T20 World Cup Europe Qualifier A, 2024",Turkiye vs Italy
 https://dai.google.com/linear/hls/event/8CakhG5qT72_k7qite2Drw/master.m3u8
 #EXTINF:-1 tvg-name="Portugal vs Israel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102462" group-title="ICC T20 World Cup Europe Qualifier A, 2024",Portugal vs Israel
