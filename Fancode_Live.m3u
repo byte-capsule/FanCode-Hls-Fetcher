@@ -9,11 +9,13 @@ https://dai.google.com/linear/hls/event/OwTSYvVXSCSlKX5s4_V0sQ/master.m3u8
 https://dai.google.com/linear/hls/event/SXBx20rfRqSmO6xIBxQ-UQ/master.m3u8
 #EXTINF:-1 tvg-name="Hungary vs Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102460" group-title="ICC T20 World Cup Europe Qualifier A, 2024",Hungary vs Romania
 https://dai.google.com/linear/hls/event/8iKXx8bOQQGA610m5Wbdbw/master.m3u8
-#EXTINF:-1 tvg-name="Servotech Siliguri Strikers vs Murshidabad Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103406" group-title="Bengal Pro T20 League, 2024",Servotech Siliguri Strikers vs Murshidabad Kings
-https://dai.google.com/linear/hls/event/nE-eVJHeQhe031G26xzXxg/master.m3u8
-#EXTINF:-1 tvg-name="Band-e Amir Stars vs Speenghar Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102988" group-title="Kabul Premier League, 2024",Band-e Amir Stars vs Speenghar Warriors
+#EXTINF:-1 tvg-name="Speenghar Warriors vs Band-e Amir Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102988" group-title="Kabul Premier League, 2024",Speenghar Warriors vs Band-e Amir Stars
 https://dai.google.com/linear/hls/event/MqAlxb_AQ5Wt8hF1yKJ1zQ/master.m3u8
 #EXTINF:-1 tvg-name="Trident Stallions vs BLV Blasters" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103106" group-title="Sher-E-Punjab T20, 2024",Trident Stallions vs BLV Blasters
 https://dai.google.com/linear/hls/event/BpdfL6NcSBSToG-TLOCu-g/master.m3u8
+#EXTINF:-1 tvg-name="Servotech Siliguri Strikers vs Murshidabad Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103406" group-title="Bengal Pro T20 League, 2024",Servotech Siliguri Strikers vs Murshidabad Kings
+https://dai.google.com/linear/hls/event/nE-eVJHeQhe031G26xzXxg/master.m3u8
 #EXTINF:-1 tvg-name="Germany vs Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101347" group-title="Volleyball Nations League Women's",Germany vs Brazil
 https://dai.google.com/linear/hls/event/FnbKMAWsRhCZs9MW8JFk-Q/master.m3u8
+#EXTINF:-1 tvg-name="Japan vs Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101348" group-title="Volleyball Nations League Women's",Japan vs Canada
+https://dai.google.com/linear/hls/event/vGTJDTQURuObXP-Gs5WeLA/master.m3u8
