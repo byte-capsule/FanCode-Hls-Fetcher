@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Patriots vs Avengers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102570" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Patriots vs Avengers
-https://dai.google.com/linear/hls/event/fG0Cx8UoQAOTqCf7JuOpCQ/master.m3u8
 #EXTINF:-1 tvg-name="Markhor vs Napa Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102763" group-title="ECS Cyprus, Encore, 2024",Markhor vs Napa Kings
 https://dai.google.com/linear/hls/event/DN_SKv1aSYGhvabSFh2SLQ/master.m3u8
 #EXTINF:-1 tvg-name="Servotech Siliguri Strikers vs Murshidabad Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103406" group-title="Bengal Pro T20 League, 2024",Servotech Siliguri Strikers vs Murshidabad Kings
