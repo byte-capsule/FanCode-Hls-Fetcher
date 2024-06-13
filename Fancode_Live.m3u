@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Titans vs Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102571" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Titans vs Warriors
 https://dai.google.com/linear/hls/event/-gFgz1Q1T1CZMeXTDz2r5Q/master.m3u8
+#EXTINF:-1 tvg-name="Sri Lankan Lions vs Nicosia Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102764" group-title="ECS Cyprus, Encore, 2024",Sri Lankan Lions vs Nicosia Tigers
+https://dai.google.com/linear/hls/event/q8UEJBZaQzqSNAMaE3y3fw/master.m3u8
 #EXTINF:-1 tvg-name="Rashmi Medinipur Wizards Womens vs Sobisco Smashers Malda Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103441" group-title="Bengal Womens Pro T20 League, 2024",Rashmi Medinipur Wizards Womens vs Sobisco Smashers Malda Womens
 https://dai.google.com/linear/hls/event/OwTSYvVXSCSlKX5s4_V0sQ/master.m3u8
 #EXTINF:-1 tvg-name="Servotech Siliguri Strikers vs Murshidabad Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103406" group-title="Bengal Pro T20 League, 2024",Servotech Siliguri Strikers vs Murshidabad Kings
@@ -9,5 +11,5 @@ https://dai.google.com/linear/hls/event/nE-eVJHeQhe031G26xzXxg/master.m3u8
 https://dai.google.com/linear/hls/event/SXBx20rfRqSmO6xIBxQ-UQ/master.m3u8
 #EXTINF:-1 tvg-name="Hungary vs Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102460" group-title="ICC T20 World Cup Europe Qualifier A, 2024",Hungary vs Romania
 https://dai.google.com/linear/hls/event/8iKXx8bOQQGA610m5Wbdbw/master.m3u8
-#EXTINF:-1 tvg-name="France vs South Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101346" group-title="Volleyball Nations League Women's",France vs South Korea
-https://dai.google.com/linear/hls/event/i9RjRcNOQ--mvdGC3SdQ_Q/master.m3u8
+#EXTINF:-1 tvg-name="Germany vs Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101347" group-title="Volleyball Nations League Women's",Germany vs Brazil
+https://dai.google.com/linear/hls/event/FnbKMAWsRhCZs9MW8JFk-Q/master.m3u8
