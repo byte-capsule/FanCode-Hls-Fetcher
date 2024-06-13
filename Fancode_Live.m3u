@@ -7,3 +7,5 @@ https://dai.google.com/linear/hls/event/MqAlxb_AQ5Wt8hF1yKJ1zQ/master.m3u8
 https://dai.google.com/linear/hls/event/BpdfL6NcSBSToG-TLOCu-g/master.m3u8
 #EXTINF:-1 tvg-name="Japan vs Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101348" group-title="Volleyball Nations League Women's",Japan vs Canada
 https://dai.google.com/linear/hls/event/vGTJDTQURuObXP-Gs5WeLA/master.m3u8
+#EXTINF:-1 tvg-name="Dominican Republic vs Turkey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101349" group-title="Volleyball Nations League Women's",Dominican Republic vs Turkey
+https://dai.google.com/linear/hls/event/FLttp9VKQL2Kx7YFQaZnJg/master.m3u8
