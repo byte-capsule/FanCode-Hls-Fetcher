@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Patriots vs Avengers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102570" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Patriots vs Avengers
+https://dai.google.com/linear/hls/event/fG0Cx8UoQAOTqCf7JuOpCQ/master.m3u8
 #EXTINF:-1 tvg-name="Lux Shyam Kolkata Tigers Womens vs Adamas Howrah Warriors Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103440" group-title="Bengal Womens Pro T20 League, 2024",Lux Shyam Kolkata Tigers Womens vs Adamas Howrah Warriors Womens
 https://dai.google.com/linear/hls/event/MuMlW4CET3uZCqPx0Bc09Q/master.m3u8
 #EXTINF:-1 tvg-name="BF Cyprus vs Cyprus Knight Riders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102762" group-title="ECS Cyprus, Encore, 2024",BF Cyprus vs Cyprus Knight Riders
