@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Sher-e-Punjab vs Limassol Zalmi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102765" group-title="ECS Cyprus, Encore, 2024",Sher-e-Punjab vs Limassol Zalmi
 https://dai.google.com/linear/hls/event/BnjzsvwCRFeVGjZCuFq7JQ/master.m3u8
-#EXTINF:-1 tvg-name="Rashmi Medinipur Wizards Womens vs Sobisco Smashers Malda Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103441" group-title="Bengal Womens Pro T20 League, 2024",Rashmi Medinipur Wizards Womens vs Sobisco Smashers Malda Womens
-https://dai.google.com/linear/hls/event/OwTSYvVXSCSlKX5s4_V0sQ/master.m3u8
-#EXTINF:-1 tvg-name="France vs Luxembourg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102461" group-title="ICC T20 World Cup Europe Qualifier A, 2024",France vs Luxembourg
-https://dai.google.com/linear/hls/event/SXBx20rfRqSmO6xIBxQ-UQ/master.m3u8
 #EXTINF:-1 tvg-name="Speenghar Warriors vs Band-e Amir Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102988" group-title="Kabul Premier League, 2024",Speenghar Warriors vs Band-e Amir Stars
 https://dai.google.com/linear/hls/event/MqAlxb_AQ5Wt8hF1yKJ1zQ/master.m3u8
 #EXTINF:-1 tvg-name="Trident Stallions vs BLV Blasters" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103106" group-title="Sher-E-Punjab T20, 2024",Trident Stallions vs BLV Blasters
