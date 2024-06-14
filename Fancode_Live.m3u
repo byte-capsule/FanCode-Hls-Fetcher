@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Eagles vs Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102573" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Eagles vs Titans
 https://dai.google.com/linear/hls/event/BXmuTARsTzaOywcphdvBKg/master.m3u8
-#EXTINF:-1 tvg-name="Shrachi Rarh Tigers Womens vs Harbour Diamonds Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103442" group-title="Bengal Womens Pro T20 League, 2024",Shrachi Rarh Tigers Womens vs Harbour Diamonds Womens
-https://dai.google.com/linear/hls/event/Apgp09XrRp6e-sh_h8itcw/master.m3u8
 #EXTINF:-1 tvg-name="Sri Lankan Lions vs Napa Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102767" group-title="ECS Cyprus, Encore, 2024",Sri Lankan Lions vs Napa Kings
 https://dai.google.com/linear/hls/event/BmhJ8wnOSGKBSjR5rD9GHQ/master.m3u8
+#EXTINF:-1 tvg-name="Lux Shyam Kolkata Tigers vs Sobisco Smashers Malda" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103408" group-title="Bengal Pro T20 League, 2024",Lux Shyam Kolkata Tigers vs Sobisco Smashers Malda
+https://dai.google.com/linear/hls/event/vzXflBrKS46mbdmA7W4MUg/master.m3u8
 #EXTINF:-1 tvg-name="Canada vs Netherlands" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101352" group-title="Volleyball Nations League Women's",Canada vs Netherlands
 https://dai.google.com/linear/hls/event/H6zmjNAiR5mNV2tG0OyCeg/master.m3u8
