@@ -1,14 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Tally DRFS vs Al Hajery Team XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100218" group-title="KCC T20 Elite Cup 3rd Edition, 2024",Tally DRFS vs Al Hajery Team XI
+https://dai.google.com/linear/hls/event/Ov0mmNmdQOSkmxkQ6MyQFA/master.m3u8
 #EXTINF:-1 tvg-name="Sri Lankan Lions vs Sher-e-Punjab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102769" group-title="ECS Cyprus, Encore, 2024",Sri Lankan Lions vs Sher-e-Punjab
 https://mls3.fancode.com/c5db4a4b-dd25-406e-ba11-4acd848204b6/master.m3u8
 #EXTINF:-1 tvg-name="Rashmi Medinipur Wizards vs Adamas Howrah Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103409" group-title="Bengal Pro T20 League, 2024",Rashmi Medinipur Wizards vs Adamas Howrah Warriors
 https://dai.google.com/linear/hls/event/qHd15Y-8Rh-pd4o02x6RBA/master.m3u8
 #EXTINF:-1 tvg-name="Croatia Women vs Czechia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103879" group-title="ECN Central Europe Cup T20IW, 2024",Croatia Women vs Czechia Women
 https://dai.google.com/linear/hls/event/EeaqMkUVQ6ifkipk7FTCJA/master.m3u8
-#EXTINF:-1 tvg-name="Band-e Amir Stars vs Kabul Zalmi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102989" group-title="Kabul Premier League, 2024",Band-e Amir Stars vs Kabul Zalmi
-https://dai.google.com/linear/hls/event/LHK5u55oSISYI3LU8hLyfg/master.m3u8
-#EXTINF:-1 tvg-name="Royal Phantoms vs Intersoft Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103114" group-title="Sher-E-Punjab T20, 2024",Royal Phantoms vs Intersoft Titans
-https://dai.google.com/linear/hls/event/GbxPpxZfS3WcrnqpzA-3-A/master.m3u8
 #EXTINF:-1 tvg-name="Tianjin Jinmen Tiger vs Shanghai Port" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100228" group-title="Chinese Super League 2024",Tianjin Jinmen Tiger vs Shanghai Port
 https://dai.fancode.com/primary/100228_english_hls_5486adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="China vs Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101357" group-title="Volleyball Nations League Women's",China vs Germany
