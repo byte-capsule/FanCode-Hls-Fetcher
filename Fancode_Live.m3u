@@ -1,11 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Murshidabad Kueens Womens vs Servotech Siliguri Strikers Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103443" group-title="Bengal Womens Pro T20 League, 2024",Murshidabad Kueens Womens vs Servotech Siliguri Strikers Womens
-https://dai.google.com/linear/hls/event/E9jEQowiSHCJqfOYnPpdxQ/master.m3u8
 #EXTINF:-1 tvg-name="Gibraltar Women vs Czechia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103878" group-title="ECN Central Europe Cup T20IW, 2024",Gibraltar Women vs Czechia Women
 https://dai.google.com/linear/hls/event/0hOWIr70RP6cM5doOSwWFA/master.m3u8
 #EXTINF:-1 tvg-name="Band-e Amir Stars vs Kabul Zalmi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102989" group-title="Kabul Premier League, 2024",Band-e Amir Stars vs Kabul Zalmi
 https://dai.google.com/linear/hls/event/LHK5u55oSISYI3LU8hLyfg/master.m3u8
 #EXTINF:-1 tvg-name="Royal Phantoms vs Intersoft Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103114" group-title="Sher-E-Punjab T20, 2024",Royal Phantoms vs Intersoft Titans
 https://dai.google.com/linear/hls/event/GbxPpxZfS3WcrnqpzA-3-A/master.m3u8
-#EXTINF:-1 tvg-name="Italy vs South Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101355" group-title="Volleyball Nations League Women's",Italy vs South Korea
-https://dai.google.com/linear/hls/event/73o1yOcUSgSO_lckkuSM7A/master.m3u8
+#EXTINF:-1 tvg-name="Tianjin Jinmen Tiger vs Shanghai Port" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100228" group-title="Chinese Super League 2024",Tianjin Jinmen Tiger vs Shanghai Port
+https://dai.fancode.com/primary/100228_english_hls_5486adfreeta-no/index.m3u8
