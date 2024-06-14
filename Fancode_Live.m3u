@@ -1,10 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Worcestershire vs Nottinghamshire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102268" group-title="Vitality Blast T20, 2024",Worcestershire vs Nottinghamshire
+https://dai.google.com/linear/hls/event/-0jroCk_T6m6Op7rWShFVQ/master.m3u8
 #EXTINF:-1 tvg-name="DCC Starlets vs Brickwork Development" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102382" group-title="ICCA Arabian T10, 2024",DCC Starlets vs Brickwork Development
 https://dai.google.com/linear/hls/event/Ah4mRYYmTACJtVUrgwaLgQ/master.m3u8
+#EXTINF:-1 tvg-name="Nutmeg Warriors vs Cinnamon Pacers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103086" group-title="Dream11 Spice Isle T10, 2024",Nutmeg Warriors vs Cinnamon Pacers
+https://dai.google.com/linear/hls/event/H9l7hrA4RcKEwjalrd0XMQ/master.m3u8
 #EXTINF:-1 tvg-name="Globelink Weststar vs UAE Kings XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100925" group-title="Bukhatir T10 League, 2024",Globelink Weststar vs UAE Kings XI
 https://dai.google.com/linear/hls/event/ovNrq81OQmuigbmovyGVHw/master.m3u8
-#EXTINF:-1 tvg-name="Tally DRFS vs Al Hajery Team XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100218" group-title="KCC T20 Elite Cup 3rd Edition, 2024",Tally DRFS vs Al Hajery Team XI
-https://dai.google.com/linear/hls/event/Ov0mmNmdQOSkmxkQ6MyQFA/master.m3u8
+#EXTINF:-1 tvg-name="Al Mulla Exchange vs Stack CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100219" group-title="KCC T20 Elite Cup 3rd Edition, 2024",Al Mulla Exchange vs Stack CC
+https://dai.google.com/linear/hls/event/2JxuOflOQQC1_qpmlCAJCg/master.m3u8
 #EXTINF:-1 tvg-name="Rashmi Medinipur Wizards vs Adamas Howrah Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103409" group-title="Bengal Pro T20 League, 2024",Rashmi Medinipur Wizards vs Adamas Howrah Warriors
 https://dai.google.com/linear/hls/event/qHd15Y-8Rh-pd4o02x6RBA/master.m3u8
 #EXTINF:-1 tvg-name="Croatia Women vs Czechia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103879" group-title="ECN Central Europe Cup T20IW, 2024",Croatia Women vs Czechia Women
