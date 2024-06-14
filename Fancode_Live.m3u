@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Worcestershire vs Nottinghamshire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102268" group-title="Vitality Blast T20, 2024",Worcestershire vs Nottinghamshire
 https://dai.google.com/linear/hls/event/-0jroCk_T6m6Op7rWShFVQ/master.m3u8
+#EXTINF:-1 tvg-name="Dubai Thunders vs Elite Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102391" group-title="ICCA Arabian T10, 2024",Dubai Thunders vs Elite Cricket Club
+https://dai.google.com/linear/hls/event/1O2DqTSAQVShos4VUGiSxA/master.m3u8
 #EXTINF:-1 tvg-name="Nutmeg Warriors vs Cinnamon Pacers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103086" group-title="Dream11 Spice Isle T10, 2024",Nutmeg Warriors vs Cinnamon Pacers
 https://dai.google.com/linear/hls/event/H9l7hrA4RcKEwjalrd0XMQ/master.m3u8
 #EXTINF:-1 tvg-name="Globelink Weststar vs UAE Kings XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100925" group-title="Bukhatir T10 League, 2024",Globelink Weststar vs UAE Kings XI
@@ -9,7 +11,5 @@ https://dai.google.com/linear/hls/event/ovNrq81OQmuigbmovyGVHw/master.m3u8
 https://dai.google.com/linear/hls/event/2JxuOflOQQC1_qpmlCAJCg/master.m3u8
 #EXTINF:-1 tvg-name="Rashmi Medinipur Wizards vs Adamas Howrah Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103409" group-title="Bengal Pro T20 League, 2024",Rashmi Medinipur Wizards vs Adamas Howrah Warriors
 https://dai.google.com/linear/hls/event/qHd15Y-8Rh-pd4o02x6RBA/master.m3u8
-#EXTINF:-1 tvg-name="Croatia Women vs Czechia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103879" group-title="ECN Central Europe Cup T20IW, 2024",Croatia Women vs Czechia Women
-https://dai.google.com/linear/hls/event/EeaqMkUVQ6ifkipk7FTCJA/master.m3u8
 #EXTINF:-1 tvg-name="BLV Blasters vs Agri King's Knights" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103115" group-title="Sher-E-Punjab T20, 2024",BLV Blasters vs Agri King's Knights
 https://dai.google.com/linear/hls/event/2Oqz-dvUQeuraXpa97KJpA/master.m3u8
