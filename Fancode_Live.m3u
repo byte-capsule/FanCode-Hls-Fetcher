@@ -1,3 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Kings vs Royals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102572" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Kings vs Royals
+https://dai.google.com/linear/hls/event/dxJzwntNTGiqvYi0_3cD3g/master.m3u8
+#EXTINF:-1 tvg-name="Kuwait Swedish vs NCM Investment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100216" group-title="KCC T20 Elite Cup 3rd Edition, 2024",Kuwait Swedish vs NCM Investment
+https://dai.google.com/linear/hls/event/cM-adF0GQseG2iUGBXalRQ/master.m3u8
 #EXTINF:-1 tvg-name="Heavyweights & Women's Flyweight" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103139" group-title="Professional Fighters League",Heavyweights & Women's Flyweight
 https://dai.google.com/linear/hls/event/93C31EDaRfK5w2H0h-ds7g/master.m3u8
+#EXTINF:-1 tvg-name="Serbia vs France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101350" group-title="Volleyball Nations League Women's",Serbia vs France
+https://dai.google.com/linear/hls/event/A0oSJvWdQv6qfKEAhCrLyg/master.m3u8
