@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 6,
-  "updated_on": "14-06-2024 on 6:44:45 PM \ud83c\udf19",
+  "channels_amount": 7,
+  "updated_on": "14-06-2024 on 7:09:30 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -14,6 +14,17 @@
       "team_2": "Sher-e-Punjab",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SEP-CR1@2x.png",
       "stream_link": "https://mls3.fancode.com/c5db4a4b-dd25-406e-ba11-4acd848204b6/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Bengal Pro T20 League, 2024",
+      "match_id": 103409,
+      "match_name": "Rashmi Medinipur Wizards vs Adamas Howrah Warriors",
+      "team_1": "Rashmi Medinipur Wizards",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RMW@2x.png",
+      "team_2": "Adamas Howrah Warriors",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AHW@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/qHd15Y-8Rh-pd4o02x6RBA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
