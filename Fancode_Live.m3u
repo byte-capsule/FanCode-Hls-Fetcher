@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Eagles vs Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102573" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Eagles vs Titans
+https://dai.google.com/linear/hls/event/BXmuTARsTzaOywcphdvBKg/master.m3u8
 #EXTINF:-1 tvg-name="Shrachi Rarh Tigers Womens vs Harbour Diamonds Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103442" group-title="Bengal Womens Pro T20 League, 2024",Shrachi Rarh Tigers Womens vs Harbour Diamonds Womens
 https://dai.google.com/linear/hls/event/Apgp09XrRp6e-sh_h8itcw/master.m3u8
 #EXTINF:-1 tvg-name="Sher-e-Punjab vs Cyprus Knight Riders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102766" group-title="ECS Cyprus, Encore, 2024",Sher-e-Punjab vs Cyprus Knight Riders
