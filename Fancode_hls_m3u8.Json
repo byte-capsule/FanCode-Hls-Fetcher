@@ -1,9 +1,20 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 9,
-  "updated_on": "15-06-2024 on 5:21:17 PM \ud83c\udf1e",
+  "channels_amount": 5,
+  "updated_on": "15-06-2024 on 6:11:12 PM \ud83c\udf19",
   "channels": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICCA Arabian T10, 2024",
+      "match_id": 102385,
+      "match_name": "Seven Districts Hybrid vs Elite Cricket Club",
+      "team_1": "Seven Districts Hybrid",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SEVN@2x.png",
+      "team_2": "Elite Cricket Club",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ECCI@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/MT6EoqSKRr6nryFGzP5eZA/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "Sher-E-Punjab T20, 2024",
@@ -28,39 +39,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "ICC T20 World Cup Europe Qualifier A, 2024",
-      "match_id": 102465,
-      "match_name": "Austria vs Hungary",
-      "team_1": "Austria",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUST@2x.png",
-      "team_2": "Hungary",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HUNG@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/htuOJaDHQ_GdAZLjdXonSQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC T20 World Cup Europe Qualifier A, 2024",
-      "match_id": 102464,
-      "match_name": "Isle of Man vs Luxembourg",
-      "team_1": "Isle of Man",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IOMA@2x.png",
-      "team_2": "Luxembourg",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LXE@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/95dJsNamTZq6n71it7x_zg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECN Central Europe Cup T20IW, 2024",
-      "match_id": 103880,
-      "match_name": "Croatia Women vs Gibraltar Women",
-      "team_1": "Croatia Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CROA@2x.png",
-      "team_2": "Gibraltar Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GIB@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/gzJi7_BrRZuleYAu46Rf9g/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "Rwanda Women Elite League T20, 2024",
       "match_id": 102993,
       "match_name": "Amasimbi Hawks vs Imena Herons",
@@ -71,37 +49,15 @@
       "stream_link": "https://dai.google.com/linear/hls/event/hzYNXEZfSiyI2Y993sZOKA/master.m3u8"
     },
     {
-      "event_catagory": "football",
-      "event_name": "J League 2024",
-      "match_id": 102196,
-      "match_name": "Cerezo Osaka vs Urawa Red Diamonds",
-      "team_1": "Cerezo Osaka",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COS@2x.png",
-      "team_2": "Urawa Red Diamonds",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-URW@2x.png",
-      "stream_link": "https://dai.fancode.com/primary/102196_english_hls_6147adfreeta-di/index.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "J League 2024",
-      "match_id": 102195,
-      "match_name": "Kyoto Sanga vs Consadole Sapporo",
-      "team_1": "Kyoto Sanga",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KSN@2x.png",
-      "team_2": "Consadole Sapporo",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CSA@2x.png",
-      "stream_link": "https://dai.fancode.com/primary/102195_english_hls_4664adfreeta-di/index.m3u8"
-    },
-    {
-      "event_catagory": "volleyball",
-      "event_name": "Volleyball Nations League Women's",
-      "match_id": 101371,
-      "match_name": "Japan vs Serbia",
-      "team_1": "Japan",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-JPA@2x.png",
-      "team_2": "Serbia",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-SRB@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/qzYoChpuSTC6oRccF_N0jg/master.m3u8"
+      "event_catagory": "cricket",
+      "event_name": "ECN Central Europe Cup T20IW, 2024",
+      "match_id": 103881,
+      "match_name": "Czechia Women vs Croatia Women",
+      "team_1": "Czechia Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CZR@2x.png",
+      "team_2": "Croatia Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CROA@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/H_S4OC5VR1W9LIOk6SaSRQ/master.m3u8"
     }
   ]
 }

@@ -1,19 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Seven Districts Hybrid vs Elite Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102385" group-title="ICCA Arabian T10, 2024",Seven Districts Hybrid vs Elite Cricket Club
+https://dai.google.com/linear/hls/event/MT6EoqSKRr6nryFGzP5eZA/master.m3u8
 #EXTINF:-1 tvg-name="Trident Stallions vs Intersoft Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103117" group-title="Sher-E-Punjab T20, 2024",Trident Stallions vs Intersoft Titans
 https://dai.google.com/linear/hls/event/vJnNfbAQQDeoBGYnVp9WKg/master.m3u8
 #EXTINF:-1 tvg-name="Cyprus Women vs Estonia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103932" group-title="ECI-W Cyprus-Estonia, 2024",Cyprus Women vs Estonia Women
 https://dai.google.com/linear/hls/event/-bLa4UG5S36VuCy88h8vRA/master.m3u8
-#EXTINF:-1 tvg-name="Austria vs Hungary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102465" group-title="ICC T20 World Cup Europe Qualifier A, 2024",Austria vs Hungary
-https://dai.google.com/linear/hls/event/htuOJaDHQ_GdAZLjdXonSQ/master.m3u8
-#EXTINF:-1 tvg-name="Isle of Man vs Luxembourg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102464" group-title="ICC T20 World Cup Europe Qualifier A, 2024",Isle of Man vs Luxembourg
-https://dai.google.com/linear/hls/event/95dJsNamTZq6n71it7x_zg/master.m3u8
-#EXTINF:-1 tvg-name="Croatia Women vs Gibraltar Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103880" group-title="ECN Central Europe Cup T20IW, 2024",Croatia Women vs Gibraltar Women
-https://dai.google.com/linear/hls/event/gzJi7_BrRZuleYAu46Rf9g/master.m3u8
 #EXTINF:-1 tvg-name="Amasimbi Hawks vs Imena Herons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102993" group-title="Rwanda Women Elite League T20, 2024",Amasimbi Hawks vs Imena Herons
 https://dai.google.com/linear/hls/event/hzYNXEZfSiyI2Y993sZOKA/master.m3u8
-#EXTINF:-1 tvg-name="Cerezo Osaka vs Urawa Red Diamonds" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102196" group-title="J League 2024",Cerezo Osaka vs Urawa Red Diamonds
-https://dai.fancode.com/primary/102196_english_hls_6147adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Kyoto Sanga vs Consadole Sapporo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102195" group-title="J League 2024",Kyoto Sanga vs Consadole Sapporo
-https://dai.fancode.com/primary/102195_english_hls_4664adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Japan vs Serbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101371" group-title="Volleyball Nations League Women's",Japan vs Serbia
-https://dai.google.com/linear/hls/event/qzYoChpuSTC6oRccF_N0jg/master.m3u8
+#EXTINF:-1 tvg-name="Czechia Women vs Croatia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103881" group-title="ECN Central Europe Cup T20IW, 2024",Czechia Women vs Croatia Women
+https://dai.google.com/linear/hls/event/H_S4OC5VR1W9LIOk6SaSRQ/master.m3u8
