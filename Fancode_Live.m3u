@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Royals vs Smashers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102576" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Royals vs Smashers
 https://dai.google.com/linear/hls/event/uOz1MS_GRCGHWW0TxDvdDg/master.m3u8
-#EXTINF:-1 tvg-name="Rashmi Medinipur Wizards Womens vs Adamas Howrah Warriors Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103444" group-title="Bengal Womens Pro T20 League, 2024",Rashmi Medinipur Wizards Womens vs Adamas Howrah Warriors Womens
-https://dai.google.com/linear/hls/event/fgFXUnCNRymUx_UGCOYlmw/master.m3u8
 #EXTINF:-1 tvg-name="Kuala Lumpur vs Negeri Sembilan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103557" group-title="MCA Men's 50 Overs Inter-State Championship, 2024",Kuala Lumpur vs Negeri Sembilan
 https://dai.google.com/linear/hls/event/SDaPndoFTPes97VtVws2Pw/master.m3u8
 #EXTINF:-1 tvg-name="Selangor vs Perak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103556" group-title="MCA Men's 50 Overs Inter-State Championship, 2024",Selangor vs Perak
 https://dai.google.com/linear/hls/event/FtJPz7EYSyyf709j0xT4Yw/master.m3u8
 #EXTINF:-1 tvg-name="Royal Phantoms vs JK Super Strikers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103116" group-title="Sher-E-Punjab T20, 2024",Royal Phantoms vs JK Super Strikers
 https://dai.google.com/linear/hls/event/aKMTUdU-SfyNXvLKxYGjIA/master.m3u8
-#EXTINF:-1 tvg-name="Dominican Republic vs Bulgaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101368" group-title="Volleyball Nations League Women's",Dominican Republic vs Bulgaria
-https://dai.google.com/linear/hls/event/CSFyn3csQnOuDTXCHxAekg/master.m3u8
+#EXTINF:-1 tvg-name="Cyprus Women vs Estonia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103931" group-title="ECI-W Cyprus-Estonia, 2024",Cyprus Women vs Estonia Women
+https://dai.google.com/linear/hls/event/xOr7RGX2TaWc_eqqr38qSg/master.m3u8
 #EXTINF:-1 tvg-name="Italy vs USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101369" group-title="Volleyball Nations League Women's",Italy vs USA
 https://dai.google.com/linear/hls/event/XTs37pY7SySvCnmWvUE6Dw/master.m3u8
+#EXTINF:-1 tvg-name="Dominican Republic vs Bulgaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101368" group-title="Volleyball Nations League Women's",Dominican Republic vs Bulgaria
+https://dai.google.com/linear/hls/event/CSFyn3csQnOuDTXCHxAekg/master.m3u8
