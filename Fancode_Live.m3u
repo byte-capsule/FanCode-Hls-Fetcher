@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Titans vs Patriots" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102577" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Titans vs Patriots
+https://dai.google.com/linear/hls/event/yAPuRz1gQkC3_olkqTmMtg/master.m3u8
 #EXTINF:-1 tvg-name="Lux Shyam Kolkata Tigers Womens vs Sobisco Smashers Malda Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103445" group-title="Bengal Womens Pro T20 League, 2024",Lux Shyam Kolkata Tigers Womens vs Sobisco Smashers Malda Womens
 https://dai.google.com/linear/hls/event/m4O_MfnfRsS0MFGLaD3v7w/master.m3u8
 #EXTINF:-1 tvg-name="Cyprus Women vs Estonia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103931" group-title="ECI-W Cyprus-Estonia, 2024",Cyprus Women vs Estonia Women
