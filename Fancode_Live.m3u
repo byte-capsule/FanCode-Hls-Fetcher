@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Rashmi Medinipur Wizards Womens vs Adamas Howrah Warriors Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103444" group-title="Bengal Womens Pro T20 League, 2024",Rashmi Medinipur Wizards Womens vs Adamas Howrah Warriors Womens
+https://dai.google.com/linear/hls/event/fgFXUnCNRymUx_UGCOYlmw/master.m3u8
 #EXTINF:-1 tvg-name="Johor vs Kelantan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103558" group-title="MCA Men's 50 Overs Inter-State Championship, 2024",Johor vs Kelantan
 https://dai.google.com/linear/hls/event/g7TCJGW7Q-yJ_J7FvUWD2g/master.m3u8
 #EXTINF:-1 tvg-name="Kuala Lumpur vs Negeri Sembilan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103557" group-title="MCA Men's 50 Overs Inter-State Championship, 2024",Kuala Lumpur vs Negeri Sembilan
@@ -7,7 +9,5 @@ https://dai.google.com/linear/hls/event/SDaPndoFTPes97VtVws2Pw/master.m3u8
 https://dai.google.com/linear/hls/event/FtJPz7EYSyyf709j0xT4Yw/master.m3u8
 #EXTINF:-1 tvg-name="Avengers vs Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102575" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Avengers vs Kings
 https://dai.google.com/linear/hls/event/kCrFCOkuTEmvOhvnBXf-Dw/master.m3u8
-#EXTINF:-1 tvg-name="Rashmi Medinipur Wizards Womens vs Adamas Howrah Warriors Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103444" group-title="Bengal Womens Pro T20 League, 2024",Rashmi Medinipur Wizards Womens vs Adamas Howrah Warriors Womens
-https://dai.google.com/linear/hls/event/fgFXUnCNRymUx_UGCOYlmw/master.m3u8
 #EXTINF:-1 tvg-name="Canada vs France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101366" group-title="Volleyball Nations League Women's",Canada vs France
 https://dai.google.com/linear/hls/event/ivYks5y5QBOTh2oWyHaV0w/master.m3u8
