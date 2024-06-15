@@ -1,17 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Smart Cube Kings 11 vs Spades Real Estate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102386" group-title="ICCA Arabian T10, 2024",Smart Cube Kings 11 vs Spades Real Estate
 https://dai.google.com/linear/hls/event/0HwQ0rTaShq5eO4pbKzTuA/master.m3u8
-#EXTINF:-1 tvg-name="Trident Stallions vs Intersoft Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103117" group-title="Sher-E-Punjab T20, 2024",Trident Stallions vs Intersoft Titans
-https://dai.google.com/linear/hls/event/vJnNfbAQQDeoBGYnVp9WKg/master.m3u8
-#EXTINF:-1 tvg-name="Cyprus vs Estonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103943" group-title="ECI Cyprus-Estonia, 2024",Cyprus vs Estonia
-https://dai.google.com/linear/hls/event/WxItyWoYTcOb93I4R-H45g/master.m3u8
+#EXTINF:-1 tvg-name="Cyprus Women vs Estonia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103933" group-title="ECI-W Cyprus-Estonia, 2024",Cyprus Women vs Estonia Women
+https://dai.google.com/linear/hls/event/Iq6DPYKeSgS-dv23IYdq3A/master.m3u8
 #EXTINF:-1 tvg-name="Harbour Diamonds vs Murshidabad Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103411" group-title="Bengal Pro T20 League, 2024",Harbour Diamonds vs Murshidabad Kings
 https://dai.google.com/linear/hls/event/h7dk7fNxQhO0V0_yo5sZyw/master.m3u8
 #EXTINF:-1 tvg-name="Romania vs Israel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102467" group-title="ICC T20 World Cup Europe Qualifier A, 2024",Romania vs Israel
 https://dai.google.com/linear/hls/event/7Oe-mCozQJCBn9toQGQJvg/master.m3u8
 #EXTINF:-1 tvg-name="France vs Turkiye" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102466" group-title="ICC T20 World Cup Europe Qualifier A, 2024",France vs Turkiye
 https://dai.google.com/linear/hls/event/OFHE7X3eQsyBGrCkjivunA/master.m3u8
-#EXTINF:-1 tvg-name="Czechia Women vs Croatia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103881" group-title="ECN Central Europe Cup T20IW, 2024",Czechia Women vs Croatia Women
-https://dai.google.com/linear/hls/event/H_S4OC5VR1W9LIOk6SaSRQ/master.m3u8
-#EXTINF:-1 tvg-name="China vs Turkey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101375" group-title="Volleyball Nations League Women's",China vs Turkey
-https://dai.google.com/linear/hls/event/J-y2_no-RTOGR8CpcGx7OQ/master.m3u8
