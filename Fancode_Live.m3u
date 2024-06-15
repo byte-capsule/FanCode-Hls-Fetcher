@@ -1,18 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Lux Shyam Kolkata Tigers Womens vs Sobisco Smashers Malda Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103445" group-title="Bengal Womens Pro T20 League, 2024",Lux Shyam Kolkata Tigers Womens vs Sobisco Smashers Malda Womens
-https://dai.google.com/linear/hls/event/m4O_MfnfRsS0MFGLaD3v7w/master.m3u8
+#EXTINF:-1 tvg-name="Cyprus Women vs Estonia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103932" group-title="ECI-W Cyprus-Estonia, 2024",Cyprus Women vs Estonia Women
+https://dai.google.com/linear/hls/event/-bLa4UG5S36VuCy88h8vRA/master.m3u8
 #EXTINF:-1 tvg-name="Austria vs Hungary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102465" group-title="ICC T20 World Cup Europe Qualifier A, 2024",Austria vs Hungary
 https://dai.google.com/linear/hls/event/htuOJaDHQ_GdAZLjdXonSQ/master.m3u8
 #EXTINF:-1 tvg-name="Isle of Man vs Luxembourg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102464" group-title="ICC T20 World Cup Europe Qualifier A, 2024",Isle of Man vs Luxembourg
 https://dai.google.com/linear/hls/event/95dJsNamTZq6n71it7x_zg/master.m3u8
 #EXTINF:-1 tvg-name="Croatia Women vs Gibraltar Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103880" group-title="ECN Central Europe Cup T20IW, 2024",Croatia Women vs Gibraltar Women
 https://dai.google.com/linear/hls/event/gzJi7_BrRZuleYAu46Rf9g/master.m3u8
-#EXTINF:-1 tvg-name="Ingabo Knights vs Ingenzi Heroes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102992" group-title="Rwanda Women Elite League T20, 2024",Ingabo Knights vs Ingenzi Heroes
-https://dai.google.com/linear/hls/event/nfHPN9Q5TSeNrMFHZ6VgBw/master.m3u8
-#EXTINF:-1 tvg-name="Cyprus vs Estonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103942" group-title="ECI Cyprus-Estonia, 2024",Cyprus vs Estonia
-https://dai.google.com/linear/hls/event/qT_FtKRlTLicKyQxbJqCxA/master.m3u8
-#EXTINF:-1 tvg-name="Shrachi Rarh Tigers vs Servotech Siliguri Strikers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103410" group-title="Bengal Pro T20 League, 2024",Shrachi Rarh Tigers vs Servotech Siliguri Strikers
-https://dai.google.com/linear/hls/event/Lax54JiySrikjgNgQWSqMg/master.m3u8
 #EXTINF:-1 tvg-name="Cerezo Osaka vs Urawa Red Diamonds" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102196" group-title="J League 2024",Cerezo Osaka vs Urawa Red Diamonds
 https://dai.fancode.com/primary/102196_english_hls_6147adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Kyoto Sanga vs Consadole Sapporo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102195" group-title="J League 2024",Kyoto Sanga vs Consadole Sapporo
