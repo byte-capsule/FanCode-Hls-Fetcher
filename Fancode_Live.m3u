@@ -1,11 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Top Stars vs Dolphin Rent a Car" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102387" group-title="ICCA Arabian T10, 2024",Top Stars vs Dolphin Rent a Car
+https://dai.google.com/linear/hls/event/M1Edcz4QRjOFC7dlFyQLqw/master.m3u8
 #EXTINF:-1 tvg-name="Bay Leaf Blasters vs Nutmeg Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103088" group-title="Dream11 Spice Isle T10, 2024",Bay Leaf Blasters vs Nutmeg Warriors
 https://dai.google.com/linear/hls/event/HKK0KqgrSMqgi_o7-PHZdQ/master.m3u8
-#EXTINF:-1 tvg-name="Harbour Diamonds vs Murshidabad Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103411" group-title="Bengal Pro T20 League, 2024",Harbour Diamonds vs Murshidabad Kings
-https://dai.google.com/linear/hls/event/h7dk7fNxQhO0V0_yo5sZyw/master.m3u8
-#EXTINF:-1 tvg-name="Romania vs Israel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102467" group-title="ICC T20 World Cup Europe Qualifier A, 2024",Romania vs Israel
-https://dai.google.com/linear/hls/event/7Oe-mCozQJCBn9toQGQJvg/master.m3u8
-#EXTINF:-1 tvg-name="France vs Turkiye" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102466" group-title="ICC T20 World Cup Europe Qualifier A, 2024",France vs Turkiye
-https://dai.google.com/linear/hls/event/OFHE7X3eQsyBGrCkjivunA/master.m3u8
 #EXTINF:-1 tvg-name="Bader & Nie Cricket Club vs Al Sayer" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99772" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",Bader & Nie Cricket Club vs Al Sayer
 https://dai.google.com/linear/hls/event/CHTapwjESX6PKKeaRynXpA/master.m3u8
