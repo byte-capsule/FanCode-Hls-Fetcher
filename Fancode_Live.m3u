@@ -1,10 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Clove Challengers vs Saffron Strikers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103090" group-title="Dream11 Spice Isle T10, 2024",Clove Challengers vs Saffron Strikers
+https://dai.google.com/linear/hls/event/S8biLTbxQsOsJGaxs8Jt-g/master.m3u8
 #EXTINF:-1 tvg-name="Estonia vs Cyprus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103946" group-title="ECI Cyprus-Estonia, 2024",Estonia vs Cyprus
 https://dai.google.com/linear/hls/event/2P1R02zuSkKJ02cPcSkIIg/master.m3u8
 #EXTINF:-1 tvg-name="Italy vs Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102470" group-title="ICC T20 World Cup Europe Qualifier A, 2024",Italy vs Romania
 https://dai.google.com/linear/hls/event/LZ6oHaYrSYyHXZA4j-n91w/master.m3u8
-#EXTINF:-1 tvg-name="Portugal vs Isle of Man" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102469" group-title="ICC T20 World Cup Europe Qualifier A, 2024",Portugal vs Isle of Man
-https://dai.google.com/linear/hls/event/2xqB16xYQoicdqWp7RWmPA/master.m3u8
 #EXTINF:-1 tvg-name="Sobisco Smashers Malda vs Adamas Howrah Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103413" group-title="Bengal Pro T20 League, 2024",Sobisco Smashers Malda vs Adamas Howrah Warriors
 https://dai.google.com/linear/hls/event/WhwkQEIFSWq3MtngAZUhng/master.m3u8
 #EXTINF:-1 tvg-name="Dragons Women vs Typhoons Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103361" group-title="Evoke Super 20 Trophy, 2024",Dragons Women vs Typhoons Women
