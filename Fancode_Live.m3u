@@ -17,7 +17,11 @@ https://dai.google.com/linear/hls/event/8R-Yq9yHTUCiSWeKGalLMw/master.m3u8
 https://dai.google.com/linear/hls/event/kHqmIBz4ROCvurPLI4NR5Q/master.m3u8
 #EXTINF:-1 tvg-name="JK Super Strikers vs BLV Blasters" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103118" group-title="Sher-E-Punjab T20, 2024",JK Super Strikers vs BLV Blasters
 https://dai.google.com/linear/hls/event/EJSUHusdR3y4zd0pUAsvhw/master.m3u8
+#EXTINF:-1 tvg-name="Scorchers Women vs Dragons Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103360" group-title="Evoke Super 20 Trophy, 2024",Scorchers Women vs Dragons Women
+https://dai.google.com/linear/hls/event/5EbxqX9nSYmtAqEByF0CQQ/master.m3u8
 #EXTINF:-1 tvg-name="FC Tokyo vs Júbilo Iwata" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102197" group-title="J League 2024",FC Tokyo vs Júbilo Iwata
 https://dai.fancode.com/primary/102197_english_hls_4468adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Turkey vs Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101383" group-title="Volleyball Nations League Women's",Turkey vs Brazil
 https://dai.google.com/linear/hls/event/OItkKbP0Q0WTAYA9Pd_RQQ/master.m3u8
+#EXTINF:-1 tvg-name="Japan vs USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101385" group-title="Volleyball Nations League Women's",Japan vs USA
+https://dai.google.com/linear/hls/event/r9YRcFKBS2mqIW_MsFH3Pw/master.m3u8
