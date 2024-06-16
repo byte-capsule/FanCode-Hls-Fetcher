@@ -1,10 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Estonia vs Cyprus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103945" group-title="ECI Cyprus-Estonia, 2024",Estonia vs Cyprus
-https://dai.google.com/linear/hls/event/1WRUQOnKSx2pvumDUbWXdg/master.m3u8
 #EXTINF:-1 tvg-name="Gibraltar Women vs Czechia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103883" group-title="ECN Central Europe Cup T20IW, 2024",Gibraltar Women vs Czechia Women
 https://dai.google.com/linear/hls/event/hhsS0S0wQnGEKs-RvxvzLQ/master.m3u8
+#EXTINF:-1 tvg-name="Cyprus Women vs Estonia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103935" group-title="ECI-W Cyprus-Estonia, 2024",Cyprus Women vs Estonia Women
+https://dai.google.com/linear/hls/event/87WqGnJRQhaTMBerym5J2w/master.m3u8
 #EXTINF:-1 tvg-name="Imena Herons vs Ingabo Knights" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102995" group-title="Rwanda Women Elite League T20, 2024",Imena Herons vs Ingabo Knights
 https://dai.google.com/linear/hls/event/QQjGWQkmS0K7L5CYRmUOsQ/master.m3u8
+#EXTINF:-1 tvg-name="Italy vs Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102470" group-title="ICC T20 World Cup Europe Qualifier A, 2024",Italy vs Romania
+https://dai.google.com/linear/hls/event/LZ6oHaYrSYyHXZA4j-n91w/master.m3u8
+#EXTINF:-1 tvg-name="Portugal vs Isle of Man" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102469" group-title="ICC T20 World Cup Europe Qualifier A, 2024",Portugal vs Isle of Man
+https://dai.google.com/linear/hls/event/2xqB16xYQoicdqWp7RWmPA/master.m3u8
+#EXTINF:-1 tvg-name="Sobisco Smashers Malda vs Adamas Howrah Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103413" group-title="Bengal Pro T20 League, 2024",Sobisco Smashers Malda vs Adamas Howrah Warriors
+https://dai.google.com/linear/hls/event/WhwkQEIFSWq3MtngAZUhng/master.m3u8
 #EXTINF:-1 tvg-name="JK Super Strikers vs BLV Blasters" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103118" group-title="Sher-E-Punjab T20, 2024",JK Super Strikers vs BLV Blasters
 https://dai.google.com/linear/hls/event/EJSUHusdR3y4zd0pUAsvhw/master.m3u8
 #EXTINF:-1 tvg-name="Shanghai Shenhua vs Chengdu Rongcheng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100229" group-title="Chinese Super League 2024",Shanghai Shenhua vs Chengdu Rongcheng
