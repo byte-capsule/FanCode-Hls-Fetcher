@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 6,
-  "updated_on": "16-06-2024 on 10:42:02 PM \ud83c\udf19",
+  "channels_amount": 5,
+  "updated_on": "16-06-2024 on 11:03:44 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -14,17 +14,6 @@
       "team_2": "Saffron Strikers",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAF@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/S8biLTbxQsOsJGaxs8Jt-g/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECI Cyprus-Estonia, 2024",
-      "match_id": 103946,
-      "match_name": "Estonia vs Cyprus",
-      "team_1": "Estonia",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESTO@2x.png",
-      "team_2": "Cyprus",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CYR@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/2P1R02zuSkKJ02cPcSkIIg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
