@@ -1,11 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Kings vs Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102579" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Kings vs Warriors
-https://dai.google.com/linear/hls/event/W2yX1nnwRASWRvGaxKy4cQ/master.m3u8
-#EXTINF:-1 tvg-name="Cyprus vs Estonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103944" group-title="ECI Cyprus-Estonia, 2024",Cyprus vs Estonia
-https://dai.google.com/linear/hls/event/wlmmX33NQ_SLkErze4zI5g/master.m3u8
+#EXTINF:-1 tvg-name="Servotech Siliguri Strikers Womens vs Shrachi Rarh Tigers Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103447" group-title="Bengal Womens Pro T20 League, 2024",Servotech Siliguri Strikers Womens vs Shrachi Rarh Tigers Womens
+https://dai.google.com/linear/hls/event/dbD5BUJzSGqTYmSnKgCM4w/master.m3u8
 #EXTINF:-1 tvg-name="Ingenzi Heroes vs Amasimbi Hawks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102994" group-title="Rwanda Women Elite League T20, 2024",Ingenzi Heroes vs Amasimbi Hawks
 https://dai.google.com/linear/hls/event/jB8S2u8lQ0iJaNcinugDrg/master.m3u8
+#EXTINF:-1 tvg-name="Cyprus vs Estonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103944" group-title="ECI Cyprus-Estonia, 2024",Cyprus vs Estonia
+https://dai.google.com/linear/hls/event/wlmmX33NQ_SLkErze4zI5g/master.m3u8
 #EXTINF:-1 tvg-name="Lux Shyam Kolkata Tigers vs Rashmi Medinipur Wizards" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103412" group-title="Bengal Pro T20 League, 2024",Lux Shyam Kolkata Tigers vs Rashmi Medinipur Wizards
 https://dai.google.com/linear/hls/event/8R-Yq9yHTUCiSWeKGalLMw/master.m3u8
-#EXTINF:-1 tvg-name="Serbia vs Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101381" group-title="Volleyball Nations League Women's",Serbia vs Italy
-https://dai.google.com/linear/hls/event/evevG3VJSnSqv9eC-qPR0g/master.m3u8
+#EXTINF:-1 tvg-name="Croatia Women vs Gibraltar Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103882" group-title="ECN Central Europe Cup T20IW, 2024",Croatia Women vs Gibraltar Women
+https://dai.google.com/linear/hls/event/xHXqPN8qTwSZYAyVKiJsTg/master.m3u8
+#EXTINF:-1 tvg-name="Luxembourg vs Israel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102471" group-title="ICC T20 World Cup Europe Qualifier A, 2024",Luxembourg vs Israel
+https://dai.google.com/linear/hls/event/eFWt6_p_TPq5KJLmTL8ybw/master.m3u8
+#EXTINF:-1 tvg-name="France vs Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102468" group-title="ICC T20 World Cup Europe Qualifier A, 2024",France vs Austria
+https://dai.google.com/linear/hls/event/sF2WxdBvR32LZ1_5RgMvng/master.m3u8
