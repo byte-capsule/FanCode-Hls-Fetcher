@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Royals vs Eagles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102580" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Royals vs Eagles
-https://dai.google.com/linear/hls/event/AGTQAl3GQrCyDjVrNCg9Ng/master.m3u8
 #EXTINF:-1 tvg-name="Servotech Siliguri Strikers Womens vs Shrachi Rarh Tigers Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103447" group-title="Bengal Womens Pro T20 League, 2024",Servotech Siliguri Strikers Womens vs Shrachi Rarh Tigers Womens
 https://dai.google.com/linear/hls/event/dbD5BUJzSGqTYmSnKgCM4w/master.m3u8
 #EXTINF:-1 tvg-name="Luxembourg vs Israel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102471" group-title="ICC T20 World Cup Europe Qualifier A, 2024",Luxembourg vs Israel
