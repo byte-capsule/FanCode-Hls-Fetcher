@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 8,
-  "updated_on": "16-06-2024 on 2:41:15 PM \ud83c\udf1e",
+  "channels_amount": 10,
+  "updated_on": "16-06-2024 on 3:08:16 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -28,6 +28,28 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "ICC T20 World Cup Europe Qualifier A, 2024",
+      "match_id": 102471,
+      "match_name": "Luxembourg vs Israel",
+      "team_1": "Luxembourg",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LXE@2x.png",
+      "team_2": "Israel",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ISR@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/eFWt6_p_TPq5KJLmTL8ybw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC T20 World Cup Europe Qualifier A, 2024",
+      "match_id": 102468,
+      "match_name": "France vs Austria",
+      "team_1": "France",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FRC@2x.png",
+      "team_2": "Austria",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUST@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/sF2WxdBvR32LZ1_5RgMvng/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "ECN Central Europe Cup T20IW, 2024",
       "match_id": 103882,
       "match_name": "Croatia Women vs Gibraltar Women",
@@ -50,17 +72,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "ECI Cyprus-Estonia, 2024",
-      "match_id": 103944,
-      "match_name": "Cyprus vs Estonia",
-      "team_1": "Cyprus",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CYR@2x.png",
-      "team_2": "Estonia",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESTO@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/wlmmX33NQ_SLkErze4zI5g/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "Bengal Pro T20 League, 2024",
       "match_id": 103412,
       "match_name": "Lux Shyam Kolkata Tigers vs Rashmi Medinipur Wizards",
@@ -72,25 +83,36 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "ICC T20 World Cup Europe Qualifier A, 2024",
-      "match_id": 102471,
-      "match_name": "Luxembourg vs Israel",
-      "team_1": "Luxembourg",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LXE@2x.png",
-      "team_2": "Israel",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ISR@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/eFWt6_p_TPq5KJLmTL8ybw/master.m3u8"
+      "event_name": "ECI-W Cyprus-Estonia, 2024",
+      "match_id": 103934,
+      "match_name": "Cyprus Women vs Estonia Women",
+      "team_1": "Cyprus Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/CYR-CR1@2x.png",
+      "team_2": "Estonia Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESTO@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/kHqmIBz4ROCvurPLI4NR5Q/master.m3u8"
     },
     {
-      "event_catagory": "cricket",
-      "event_name": "ICC T20 World Cup Europe Qualifier A, 2024",
-      "match_id": 102468,
-      "match_name": "France vs Austria",
-      "team_1": "France",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FRC@2x.png",
-      "team_2": "Austria",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUST@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/sF2WxdBvR32LZ1_5RgMvng/master.m3u8"
+      "event_catagory": "football",
+      "event_name": "J League 2024",
+      "match_id": 102197,
+      "match_name": "FC Tokyo vs J\u00fabilo Iwata",
+      "team_1": "FC Tokyo",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-TYO@2x.png",
+      "team_2": "J\u00fabilo Iwata",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-JIW@2x.png",
+      "stream_link": "https://dai.fancode.com/primary/102197_english_hls_4468adfreeta-no/index.m3u8"
+    },
+    {
+      "event_catagory": "volleyball",
+      "event_name": "Volleyball Nations League Women's",
+      "match_id": 101383,
+      "match_name": "Turkey vs Brazil",
+      "team_1": "Turkey",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-TKY@2x.png",
+      "team_2": "Brazil",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-BRZ@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/OItkKbP0Q0WTAYA9Pd_RQQ/master.m3u8"
     }
   ]
 }
