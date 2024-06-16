@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Estonia vs Cyprus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103945" group-title="ECI Cyprus-Estonia, 2024",Estonia vs Cyprus
 https://dai.google.com/linear/hls/event/1WRUQOnKSx2pvumDUbWXdg/master.m3u8
+#EXTINF:-1 tvg-name="Gibraltar Women vs Czechia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103883" group-title="ECN Central Europe Cup T20IW, 2024",Gibraltar Women vs Czechia Women
+https://dai.google.com/linear/hls/event/hhsS0S0wQnGEKs-RvxvzLQ/master.m3u8
 #EXTINF:-1 tvg-name="Imena Herons vs Ingabo Knights" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102995" group-title="Rwanda Women Elite League T20, 2024",Imena Herons vs Ingabo Knights
 https://dai.google.com/linear/hls/event/QQjGWQkmS0K7L5CYRmUOsQ/master.m3u8
 #EXTINF:-1 tvg-name="JK Super Strikers vs BLV Blasters" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103118" group-title="Sher-E-Punjab T20, 2024",JK Super Strikers vs BLV Blasters
