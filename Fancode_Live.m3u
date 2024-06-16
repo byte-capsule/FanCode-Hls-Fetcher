@@ -1,9 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Kings vs Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102579" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Kings vs Warriors
 https://dai.google.com/linear/hls/event/W2yX1nnwRASWRvGaxKy4cQ/master.m3u8
-#EXTINF:-1 tvg-name="Murshidabad Kueens Womens vs Harbour Diamonds Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103446" group-title="Bengal Womens Pro T20 League, 2024",Murshidabad Kueens Womens vs Harbour Diamonds Womens
-https://dai.google.com/linear/hls/event/_nx6L-ehRIKVMmY8Dz3zDw/master.m3u8
+#EXTINF:-1 tvg-name="Cyprus vs Estonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103944" group-title="ECI Cyprus-Estonia, 2024",Cyprus vs Estonia
+https://dai.google.com/linear/hls/event/wlmmX33NQ_SLkErze4zI5g/master.m3u8
 #EXTINF:-1 tvg-name="Serbia vs Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101381" group-title="Volleyball Nations League Women's",Serbia vs Italy
 https://dai.google.com/linear/hls/event/evevG3VJSnSqv9eC-qPR0g/master.m3u8
-#EXTINF:-1 tvg-name="Germany vs Thailand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101380" group-title="Volleyball Nations League Women's",Germany vs Thailand
-https://dai.google.com/linear/hls/event/n_CinNPySTST4bsW5nljnQ/master.m3u8
