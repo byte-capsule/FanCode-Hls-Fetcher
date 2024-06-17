@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Sobisco Smashers Malda Womens vs Adamas Howrah Warriors Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103448" group-title="Bengal Womens Pro T20 League, 2024",Sobisco Smashers Malda Womens vs Adamas Howrah Warriors Womens
 https://dai.google.com/linear/hls/event/ij5zXHWiQfuv03UfLlM1EA/master.m3u8
+#EXTINF:-1 tvg-name="Cyprus vs Estonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103936" group-title="ECN Cyprus-Estonia T20I, 2024",Cyprus vs Estonia
+https://dai.google.com/linear/hls/event/gqety_fvRJSzRv0X6QowsA/master.m3u8
