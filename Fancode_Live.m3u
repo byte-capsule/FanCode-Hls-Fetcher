@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Al Rasheedi vs NCM Investment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100222" group-title="KCC T20 Elite Cup 3rd Edition, 2024",Al Rasheedi vs NCM Investment
+https://dai.google.com/linear/hls/event/cVFmEolfSQWBlFyWBJegCg/master.m3u8
 #EXTINF:-1 tvg-name="Clove Challengers vs Bay Leaf Blasters" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103092" group-title="Dream11 Spice Isle T10, 2024",Clove Challengers vs Bay Leaf Blasters
 https://dai.google.com/linear/hls/event/cPfZRdUYSpWTOJijjvD6yw/master.m3u8
 #EXTINF:-1 tvg-name="Lux Shyam Kolkata Tigers vs Servotech Siliguri Strikers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103415" group-title="Bengal Pro T20 League, 2024",Lux Shyam Kolkata Tigers vs Servotech Siliguri Strikers
