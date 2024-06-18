@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Brno vs Bohemians" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103825" group-title="ECS Czechia, 2024",Brno vs Bohemians
+https://dai.google.com/linear/hls/event/TZv_zwwBQA2ITD_jHLDKwQ/master.m3u8
 #EXTINF:-1 tvg-name="Shrachi Rarh Tigers vs Rashmi Medinipur Wizards" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103417" group-title="Bengal Pro T20 League, 2024",Shrachi Rarh Tigers vs Rashmi Medinipur Wizards
 https://dai.google.com/linear/hls/event/cN3IAFoWS_KzOyDV9Ly96w/master.m3u8
 #EXTINF:-1 tvg-name="Agri King's Knights vs Trident Stallions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103123" group-title="Sher-E-Punjab T20, 2024",Agri King's Knights vs Trident Stallions
