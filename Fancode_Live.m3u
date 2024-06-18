@@ -1,9 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Tally DRFS vs CECC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100223" group-title="KCC T20 Elite Cup 3rd Edition, 2024",Tally DRFS vs CECC
+https://dai.google.com/linear/hls/event/PBZHJqDgTLyimhRTXL6JcQ/master.m3u8
 #EXTINF:-1 tvg-name="Ginger Generals vs Clove Challengers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103094" group-title="Dream11 Spice Isle T10, 2024",Ginger Generals vs Clove Challengers
 https://dai.google.com/linear/hls/event/sLCyYcoDSzWsd7tdpvwOlQ/master.m3u8
 #EXTINF:-1 tvg-name="Shrachi Rarh Tigers vs Rashmi Medinipur Wizards" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103417" group-title="Bengal Pro T20 League, 2024",Shrachi Rarh Tigers vs Rashmi Medinipur Wizards
 https://dai.google.com/linear/hls/event/cN3IAFoWS_KzOyDV9Ly96w/master.m3u8
 #EXTINF:-1 tvg-name="Agri King's Knights vs Trident Stallions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103123" group-title="Sher-E-Punjab T20, 2024",Agri King's Knights vs Trident Stallions
 https://dai.google.com/linear/hls/event/MqYRtR6wSXaIZnQtnbUTug/master.m3u8
-#EXTINF:-1 tvg-name="Cyprus Women vs Estonia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103948" group-title="ECN Cyprus-Estonia T20IW, 2024",Cyprus Women vs Estonia Women
-https://dai.google.com/linear/hls/event/y3FGxF9QSqiioFbIMvMWOw/master.m3u8
