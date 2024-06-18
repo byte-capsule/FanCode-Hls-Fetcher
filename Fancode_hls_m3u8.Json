@@ -1,20 +1,9 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 7,
-  "updated_on": "18-06-2024 on 4:41:03 PM \ud83c\udf1e",
+  "channels_amount": 6,
+  "updated_on": "18-06-2024 on 5:04:10 PM \ud83c\udf1e",
   "channels": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Siechem Pondicherry Men's T10 Tournament 2024",
-      "match_id": 102586,
-      "match_name": "Royals vs Warriors",
-      "team_1": "Royals",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROYA@2x.png",
-      "team_2": "Warriors",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WARRS@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/z7GDJI2_QbmtQ1sRrArB_g/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Bengal Womens Pro T20 League, 2024",
@@ -29,13 +18,13 @@
     {
       "event_catagory": "cricket",
       "event_name": "ECS Czechia, 2024",
-      "match_id": 103822,
-      "match_name": "Prague Tigers vs Prague Barbarians",
-      "team_1": "Prague Tigers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PRT@2x.png",
-      "team_2": "Prague Barbarians",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PRB@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/7oYYW9_vSxOSTqX3FwyhZQ/master.m3u8"
+      "match_id": 103823,
+      "match_name": "Moravian vs Brno",
+      "team_1": "Moravian",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/MCC-CR1@2x.png",
+      "team_2": "Brno",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRNO@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/me9YfKcLR6qucSo1EvrxfA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
