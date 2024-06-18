@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Titans vs Smashers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102585" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Titans vs Smashers
 https://dai.google.com/linear/hls/event/WcgMNxzPQ3adUrTgIz61TA/master.m3u8
-#EXTINF:-1 tvg-name="Cyprus vs Estonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103938" group-title="ECN Cyprus-Estonia T20I, 2024",Cyprus vs Estonia
-https://dai.google.com/linear/hls/event/EV8Q4lUqQh-XLzRt2ejsPQ/master.m3u8
 #EXTINF:-1 tvg-name="Praha Dominators vs Brno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103821" group-title="ECS Czechia, 2024",Praha Dominators vs Brno
 https://dai.google.com/linear/hls/event/YVLyBGNaQdu-jsei4htAQQ/master.m3u8
+#EXTINF:-1 tvg-name="Cyprus vs Estonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103938" group-title="ECN Cyprus-Estonia T20I, 2024",Cyprus vs Estonia
+https://dai.google.com/linear/hls/event/EV8Q4lUqQh-XLzRt2ejsPQ/master.m3u8
 #EXTINF:-1 tvg-name="Murshidabad Kings vs Sobisco Smashers Malda" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103416" group-title="Bengal Pro T20 League, 2024",Murshidabad Kings vs Sobisco Smashers Malda
 https://dai.google.com/linear/hls/event/GHIg6X6PRT2c6ag-avy2WA/master.m3u8
