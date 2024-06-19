@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Titans vs Royals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102589" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Titans vs Royals
-https://dai.google.com/linear/hls/event/A08du4ZoSTuuzG3Fbdy09A/master.m3u8
 #EXTINF:-1 tvg-name="Murshidabad Kueens Womens vs Sobisco Smashers Malda Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103453" group-title="Bengal Womens Pro T20 League, 2024",Murshidabad Kueens Womens vs Sobisco Smashers Malda Womens
 https://dai.google.com/linear/hls/event/HrqFSsFpQAOw9k_tuoJYEQ/master.m3u8
 #EXTINF:-1 tvg-name="Estonia vs Cyprus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103941" group-title="ECN Cyprus-Estonia T20I, 2024",Estonia vs Cyprus
@@ -11,7 +9,7 @@ https://dai.google.com/linear/hls/event/Ofn2-8EeSCO202GpVbejcA/master.m3u8
 https://dai.google.com/linear/hls/event/eEGnOItET_msbGYu-gXGIQ/master.m3u8
 #EXTINF:-1 tvg-name="Yokohama F. Marinos vs Sanfrecce Hiroshima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99634" group-title="J League 2024",Yokohama F. Marinos vs Sanfrecce Hiroshima
 https://dai.fancode.com/primary/99634_english_hls_5749adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Himachal Pradesh vs Manipur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103722" group-title="U-18 Girls Junior National Rugby 7s",Himachal Pradesh vs Manipur
-https://dai.google.com/linear/hls/event/NZkGIc2US5KNhRgrHhTr4A/master.m3u8
 #EXTINF:-1 tvg-name="Haryana vs Punjab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103723" group-title="U-18 Girls Junior National Rugby 7s",Haryana vs Punjab
 https://dai.google.com/linear/hls/event/lrZEJUQ5T5inW23mL_A2xA/master.m3u8
+#EXTINF:-1 tvg-name="Andhra Pradesh vs Uttar Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103724" group-title="U-18 Girls Junior National Rugby 7s",Andhra Pradesh vs Uttar Pradesh
+https://dai.google.com/linear/hls/event/1wAsYCz3QFyBk1HJcj8YmQ/master.m3u8
