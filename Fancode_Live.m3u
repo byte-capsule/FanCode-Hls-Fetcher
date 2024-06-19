@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Murshidabad Kueens Womens vs Sobisco Smashers Malda Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103453" group-title="Bengal Womens Pro T20 League, 2024",Murshidabad Kueens Womens vs Sobisco Smashers Malda Womens
 https://dai.google.com/linear/hls/event/HrqFSsFpQAOw9k_tuoJYEQ/master.m3u8
+#EXTINF:-1 tvg-name="Prague CC vs Vinohrady" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103828" group-title="ECS Czechia, 2024",Prague CC vs Vinohrady
+https://dai.google.com/linear/hls/event/esZzLlvpQ8eEYjU-j_iMNA/master.m3u8
 #EXTINF:-1 tvg-name="Estonia vs Cyprus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103941" group-title="ECN Cyprus-Estonia T20I, 2024",Estonia vs Cyprus
 https://dai.google.com/linear/hls/event/ttyhevrYSWq5WOYslPIk6A/master.m3u8
 #EXTINF:-1 tvg-name="Intersoft Titans vs BLV Blasters" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103124" group-title="Sher-E-Punjab T20, 2024",Intersoft Titans vs BLV Blasters
@@ -9,7 +11,11 @@ https://dai.google.com/linear/hls/event/Ofn2-8EeSCO202GpVbejcA/master.m3u8
 https://dai.google.com/linear/hls/event/eEGnOItET_msbGYu-gXGIQ/master.m3u8
 #EXTINF:-1 tvg-name="Yokohama F. Marinos vs Sanfrecce Hiroshima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99634" group-title="J League 2024",Yokohama F. Marinos vs Sanfrecce Hiroshima
 https://dai.fancode.com/primary/99634_english_hls_5749adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Haryana vs Punjab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103723" group-title="U-18 Girls Junior National Rugby 7s",Haryana vs Punjab
-https://dai.google.com/linear/hls/event/lrZEJUQ5T5inW23mL_A2xA/master.m3u8
+#EXTINF:-1 tvg-name="Iran vs USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101507" group-title="Volleyball Nations League Men's",Iran vs USA
+https://dai.google.com/linear/hls/event/OUxGoQhxSoK-WZ_tS2xhvQ/master.m3u8
 #EXTINF:-1 tvg-name="Andhra Pradesh vs Uttar Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103724" group-title="U-18 Girls Junior National Rugby 7s",Andhra Pradesh vs Uttar Pradesh
 https://dai.google.com/linear/hls/event/1wAsYCz3QFyBk1HJcj8YmQ/master.m3u8
+#EXTINF:-1 tvg-name="West Bengal vs Uttarakhand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103725" group-title="U-18 Girls Junior National Rugby 7s",West Bengal vs Uttarakhand
+https://dai.google.com/linear/hls/event/lwwTgnDAQ-CdYtGG0oVCuQ/master.m3u8
+#EXTINF:-1 tvg-name="Bihar vs Goa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103726" group-title="U-18 Girls Junior National Rugby 7s",Bihar vs Goa
+ Free Trial attempt unsuccessful......it requires Premium Account
