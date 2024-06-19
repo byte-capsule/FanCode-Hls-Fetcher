@@ -1,13 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Al Hajery Team XI vs Stack CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100224" group-title="KCC T20 Elite Cup 3rd Edition, 2024",Al Hajery Team XI vs Stack CC
+https://dai.google.com/linear/hls/event/wPcpsSJbTaaN80w4TIGWeA/master.m3u8
 #EXTINF:-1 tvg-name="Bay Leaf Blasters vs Cinnamon Pacers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103096" group-title="Dream11 Spice Isle T10, 2024",Bay Leaf Blasters vs Cinnamon Pacers
 https://dai.google.com/linear/hls/event/TBlhrTmnSE-jqg7QyaT6IQ/master.m3u8
-#EXTINF:-1 tvg-name="Prague Tigers vs Vinohrady" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103830" group-title="ECS Czechia, 2024",Prague Tigers vs Vinohrady
-https://dai.google.com/linear/hls/event/864x8Ty6SPy9mqpi8i6uVQ/master.m3u8
-#EXTINF:-1 tvg-name="Sobisco Smashers Malda vs Shrachi Rarh Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103419" group-title="Bengal Pro T20 League, 2024",Sobisco Smashers Malda vs Shrachi Rarh Tigers
-https://dai.google.com/linear/hls/event/HFx6Cfh2QN6476LHy_yWZQ/master.m3u8
 #EXTINF:-1 tvg-name="Trident Stallions vs JK Super Strikers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103125" group-title="Sher-E-Punjab T20, 2024",Trident Stallions vs JK Super Strikers
 https://dai.google.com/linear/hls/event/DYZr6tvuTWO6XY-oHm26TA/master.m3u8
 #EXTINF:-1 tvg-name="Cyprus Women vs Estonia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103949" group-title="ECN Cyprus-Estonia T20IW, 2024",Cyprus Women vs Estonia Women
 https://dai.google.com/linear/hls/event/IHIOWE5SSaewh8qEy4odOA/master.m3u8
-#EXTINF:-1 tvg-name="Cuba vs Serbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101508" group-title="Volleyball Nations League Men's",Cuba vs Serbia
-https://dai.google.com/linear/hls/event/MA0oQ9_OSYCjKK3BV1D9Vw/master.m3u8
