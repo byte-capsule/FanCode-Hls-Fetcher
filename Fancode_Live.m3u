@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Kings vs Patriots" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102587" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Kings vs Patriots
 https://dai.google.com/linear/hls/event/PiOBJYCKQLafpdrvCnGqgw/master.m3u8
-#EXTINF:-1 tvg-name="Goa vs Himachal Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103698" group-title="U-18 Girls Junior National Rugby 7s",Goa vs Himachal Pradesh
-https://dai.google.com/linear/hls/event/pB_sqQgmRQ-xODRkRQEKWw/master.m3u8
+#EXTINF:-1 tvg-name="Rashmi Medinipur Wizards Womens vs Shrachi Rarh Tigers Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103452" group-title="Bengal Womens Pro T20 League, 2024",Rashmi Medinipur Wizards Womens vs Shrachi Rarh Tigers Womens
+https://dai.google.com/linear/hls/event/M2d2gZexQvaGum14HY24dg/master.m3u8
 #EXTINF:-1 tvg-name="Delhi vs Chandigarh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103699" group-title="U-18 Girls Junior National Rugby 7s",Delhi vs Chandigarh
 https://dai.google.com/linear/hls/event/KTxLsDDEQdOeeYRu1FBcgA/master.m3u8
+#EXTINF:-1 tvg-name="Kerala vs Andaman & Nicobar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103700" group-title="U-18 Girls Junior National Rugby 7s",Kerala vs Andaman & Nicobar
+https://dai.google.com/linear/hls/event/3fp1BTcaQ5y1eVIKgPFY4g/master.m3u8
