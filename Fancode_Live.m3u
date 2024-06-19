@@ -1,1 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Jharkhand vs Punjab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103692" group-title="U-18 Girls Junior National Rugby 7s",Jharkhand vs Punjab
+https://dai.google.com/linear/hls/event/Kj9MGd9aRVSP57lJftJeQQ/master.m3u8
+#EXTINF:-1 tvg-name="Gujarat vs Uttar Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103693" group-title="U-18 Girls Junior National Rugby 7s",Gujarat vs Uttar Pradesh
+https://dai.google.com/linear/hls/event/jyiWiMQzSCq0Xi3XlFVu5g/master.m3u8
+#EXTINF:-1 tvg-name="Madhya Pradesh vs Telangana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103694" group-title="U-18 Girls Junior National Rugby 7s",Madhya Pradesh vs Telangana
+https://dai.google.com/linear/hls/event/gCXz2Nb9SIqCgafsEPtdCg/master.m3u8
