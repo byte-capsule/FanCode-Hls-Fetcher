@@ -1,11 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Eagles vs Avengers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102588" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Eagles vs Avengers
+https://dai.google.com/linear/hls/event/d2xwN-PESsCAUjGuBVkKOA/master.m3u8
 #EXTINF:-1 tvg-name="Rashmi Medinipur Wizards Womens vs Shrachi Rarh Tigers Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103452" group-title="Bengal Womens Pro T20 League, 2024",Rashmi Medinipur Wizards Womens vs Shrachi Rarh Tigers Womens
 https://dai.google.com/linear/hls/event/M2d2gZexQvaGum14HY24dg/master.m3u8
 #EXTINF:-1 tvg-name="Estonia vs Cyprus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103940" group-title="ECN Cyprus-Estonia T20I, 2024",Estonia vs Cyprus
 https://dai.google.com/linear/hls/event/L2BQrRaRTf6KDo5GN_GpYA/master.m3u8
-#EXTINF:-1 tvg-name="Chhattisgarh vs Himachal Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103708" group-title="U-18 Girls Junior National Rugby 7s",Chhattisgarh vs Himachal Pradesh
-https://dai.google.com/linear/hls/event/mFZXwkQaSZK_SYqGFz02hQ/master.m3u8
-#EXTINF:-1 tvg-name="Uttarakhand vs Chandigarh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103709" group-title="U-18 Girls Junior National Rugby 7s",Uttarakhand vs Chandigarh
-https://dai.google.com/linear/hls/event/z34Jh_oCTwGv2xwNMPh5aA/master.m3u8
 #EXTINF:-1 tvg-name="Karnataka vs Andaman & Nicobar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103710" group-title="U-18 Girls Junior National Rugby 7s",Karnataka vs Andaman & Nicobar
 https://dai.google.com/linear/hls/event/ZS8p2StLSFWGrc2XJYTGuw/master.m3u8
+#EXTINF:-1 tvg-name="Jharkhand vs Odisha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103711" group-title="U-18 Girls Junior National Rugby 7s",Jharkhand vs Odisha
+https://dai.google.com/linear/hls/event/DJeTiAUjTgCs31I-DZeFzg/master.m3u8
+#EXTINF:-1 tvg-name="Gujarat vs Maharashtra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103712" group-title="U-18 Girls Junior National Rugby 7s",Gujarat vs Maharashtra
+https://dai.google.com/linear/hls/event/_nKHHydjQ9Ssjs6KCCx0Fw/master.m3u8
