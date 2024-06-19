@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Jharkhand vs Punjab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103692" group-title="U-18 Girls Junior National Rugby 7s",Jharkhand vs Punjab
-https://dai.google.com/linear/hls/event/Kj9MGd9aRVSP57lJftJeQQ/master.m3u8
-#EXTINF:-1 tvg-name="Gujarat vs Uttar Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103693" group-title="U-18 Girls Junior National Rugby 7s",Gujarat vs Uttar Pradesh
-https://dai.google.com/linear/hls/event/jyiWiMQzSCq0Xi3XlFVu5g/master.m3u8
-#EXTINF:-1 tvg-name="Madhya Pradesh vs Telangana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103694" group-title="U-18 Girls Junior National Rugby 7s",Madhya Pradesh vs Telangana
-https://dai.google.com/linear/hls/event/gCXz2Nb9SIqCgafsEPtdCg/master.m3u8
+#EXTINF:-1 tvg-name="Haryana vs Andhra Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103695" group-title="U-18 Girls Junior National Rugby 7s",Haryana vs Andhra Pradesh
+https://dai.google.com/linear/hls/event/L86Suf-WTAGRlSYpPS8ZEg/master.m3u8
+#EXTINF:-1 tvg-name="Manipur vs J&K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103696" group-title="U-18 Girls Junior National Rugby 7s",Manipur vs J&K
+https://dai.google.com/linear/hls/event/W6mFmbM6R6etZZ-P4Cd7Vw/master.m3u8
