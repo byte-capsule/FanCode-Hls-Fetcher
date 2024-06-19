@@ -2,7 +2,7 @@
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "channels_amount": 4,
-  "updated_on": "19-06-2024 on 09:28:33 AM \ud83c\udf1e",
+  "updated_on": "19-06-2024 on 09:40:58 AM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -29,17 +29,6 @@
     {
       "event_catagory": "rugby",
       "event_name": "U-18 Girls Junior National Rugby 7s",
-      "match_id": 103699,
-      "match_name": "Delhi vs Chandigarh",
-      "team_1": "Delhi",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-DEL@2x.png",
-      "team_2": "Chandigarh",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-CHG@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/KTxLsDDEQdOeeYRu1FBcgA/master.m3u8"
-    },
-    {
-      "event_catagory": "rugby",
-      "event_name": "U-18 Girls Junior National Rugby 7s",
       "match_id": 103700,
       "match_name": "Kerala vs Andaman & Nicobar",
       "team_1": "Kerala",
@@ -47,6 +36,17 @@
       "team_2": "Andaman & Nicobar",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-AND@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/3fp1BTcaQ5y1eVIKgPFY4g/master.m3u8"
+    },
+    {
+      "event_catagory": "rugby",
+      "event_name": "U-18 Girls Junior National Rugby 7s",
+      "match_id": 103701,
+      "match_name": "Odisha vs Punjab",
+      "team_1": "Odisha",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-ODS@2x.png",
+      "team_2": "Punjab",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-PUN@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/ZK4d6cE4TxeNCr3mZkNLmA/master.m3u8"
     }
   ]
 }
