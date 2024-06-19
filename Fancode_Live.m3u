@@ -7,7 +7,11 @@ https://dai.google.com/linear/hls/event/HrqFSsFpQAOw9k_tuoJYEQ/master.m3u8
 https://dai.google.com/linear/hls/event/9uFSDwj-TdWOSY10lwg8Jw/master.m3u8
 #EXTINF:-1 tvg-name="Estonia vs Cyprus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103940" group-title="ECN Cyprus-Estonia T20I, 2024",Estonia vs Cyprus
 https://dai.google.com/linear/hls/event/L2BQrRaRTf6KDo5GN_GpYA/master.m3u8
+#EXTINF:-1 tvg-name="Cyprus vs Estonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103941" group-title="ECN Cyprus-Estonia T20I, 2024",Cyprus vs Estonia
+https://dai.google.com/linear/hls/event/ttyhevrYSWq5WOYslPIk6A/master.m3u8
 #EXTINF:-1 tvg-name="Harbour Diamonds vs Lux Shyam Kolkata Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103418" group-title="Bengal Pro T20 League, 2024",Harbour Diamonds vs Lux Shyam Kolkata Tigers
 https://dai.google.com/linear/hls/event/eEGnOItET_msbGYu-gXGIQ/master.m3u8
+#EXTINF:-1 tvg-name="Intersoft Titans vs BLV Blasters" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103124" group-title="Sher-E-Punjab T20, 2024",Intersoft Titans vs BLV Blasters
+https://dai.google.com/linear/hls/event/Ofn2-8EeSCO202GpVbejcA/master.m3u8
 #EXTINF:-1 tvg-name="TBC vs TBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103720" group-title="U-18 Girls Junior National Rugby 7s",TBC vs TBC
 https://dai.google.com/linear/hls/event/oN5cIOyLQYSTuPaEH091gA/master.m3u8
