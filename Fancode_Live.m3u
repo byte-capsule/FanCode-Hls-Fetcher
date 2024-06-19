@@ -1,11 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Rashmi Medinipur Wizards Womens vs Shrachi Rarh Tigers Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103452" group-title="Bengal Womens Pro T20 League, 2024",Rashmi Medinipur Wizards Womens vs Shrachi Rarh Tigers Womens
 https://dai.google.com/linear/hls/event/M2d2gZexQvaGum14HY24dg/master.m3u8
-#EXTINF:-1 tvg-name="Kings vs Patriots" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102587" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Kings vs Patriots
-https://dai.google.com/linear/hls/event/PiOBJYCKQLafpdrvCnGqgw/master.m3u8
-#EXTINF:-1 tvg-name="Bihar vs Telangana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103704" group-title="U-18 Girls Junior National Rugby 7s",Bihar vs Telangana
-https://dai.google.com/linear/hls/event/ZxHQR_7sS7WKMjoJqwdLzg/master.m3u8
-#EXTINF:-1 tvg-name="West Bengal vs Andhra Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103705" group-title="U-18 Girls Junior National Rugby 7s",West Bengal vs Andhra Pradesh
-https://dai.google.com/linear/hls/event/OqKmBa3ASEC_5gE5pNcdfA/master.m3u8
 #EXTINF:-1 tvg-name="Rajasthan vs J&K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103706" group-title="U-18 Girls Junior National Rugby 7s",Rajasthan vs J&K
 https://dai.google.com/linear/hls/event/-YQxYkpyQRqMluznM0pLsQ/master.m3u8
+#EXTINF:-1 tvg-name="Tamil Nadu vs Puducherry" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103707" group-title="U-18 Girls Junior National Rugby 7s",Tamil Nadu vs Puducherry
+https://dai.google.com/linear/hls/event/V_43fU41QFWilLSqAv2UOw/master.m3u8
+#EXTINF:-1 tvg-name="Chhattisgarh vs Himachal Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103708" group-title="U-18 Girls Junior National Rugby 7s",Chhattisgarh vs Himachal Pradesh
+https://dai.google.com/linear/hls/event/mFZXwkQaSZK_SYqGFz02hQ/master.m3u8
