@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Bay Leaf Blasters vs Cinnamon Pacers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103096" group-title="Dream11 Spice Isle T10, 2024",Bay Leaf Blasters vs Cinnamon Pacers
+https://dai.google.com/linear/hls/event/TBlhrTmnSE-jqg7QyaT6IQ/master.m3u8
 #EXTINF:-1 tvg-name="Prague Tigers vs Vinohrady" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103830" group-title="ECS Czechia, 2024",Prague Tigers vs Vinohrady
 https://dai.google.com/linear/hls/event/864x8Ty6SPy9mqpi8i6uVQ/master.m3u8
 #EXTINF:-1 tvg-name="Sobisco Smashers Malda vs Shrachi Rarh Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103419" group-title="Bengal Pro T20 League, 2024",Sobisco Smashers Malda vs Shrachi Rarh Tigers
