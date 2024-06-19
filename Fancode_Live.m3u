@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Prague CC vs Vinohrady" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103828" group-title="ECS Czechia, 2024",Prague CC vs Vinohrady
-https://dai.google.com/linear/hls/event/esZzLlvpQ8eEYjU-j_iMNA/master.m3u8
 #EXTINF:-1 tvg-name="Prague Spartans vs Moravian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103829" group-title="ECS Czechia, 2024",Prague Spartans vs Moravian
 https://dai.google.com/linear/hls/event/XA0ksaeHSmizAp2W4wqfWA/master.m3u8
 #EXTINF:-1 tvg-name="Estonia vs Cyprus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103941" group-title="ECN Cyprus-Estonia T20I, 2024",Estonia vs Cyprus
 https://dai.google.com/linear/hls/event/ttyhevrYSWq5WOYslPIk6A/master.m3u8
+#EXTINF:-1 tvg-name="Sobisco Smashers Malda vs Shrachi Rarh Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103419" group-title="Bengal Pro T20 League, 2024",Sobisco Smashers Malda vs Shrachi Rarh Tigers
+https://dai.google.com/linear/hls/event/HFx6Cfh2QN6476LHy_yWZQ/master.m3u8
 #EXTINF:-1 tvg-name="Iran vs USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101507" group-title="Volleyball Nations League Men's",Iran vs USA
 https://dai.google.com/linear/hls/event/OUxGoQhxSoK-WZ_tS2xhvQ/master.m3u8
-#EXTINF:-1 tvg-name="Tamil Nadu vs Karnataka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103731" group-title="U-18 Girls Junior National Rugby 7s",Tamil Nadu vs Karnataka
-https://dai.google.com/linear/hls/event/ngjEg0NjQhmN2pHjxyu1MA/master.m3u8
-#EXTINF:-1 tvg-name="Rajasthan vs Madhya Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103732" group-title="U-18 Girls Junior National Rugby 7s",Rajasthan vs Madhya Pradesh
- Free Trial attempt unsuccessful......it requires Premium Account
