@@ -1,9 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Kings vs Patriots" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102587" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Kings vs Patriots
 https://dai.google.com/linear/hls/event/PiOBJYCKQLafpdrvCnGqgw/master.m3u8
-#EXTINF:-1 tvg-name="Manipur vs J&K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103696" group-title="U-18 Girls Junior National Rugby 7s",Manipur vs J&K
-https://dai.google.com/linear/hls/event/W6mFmbM6R6etZZ-P4Cd7Vw/master.m3u8
-#EXTINF:-1 tvg-name="Assam vs Puducherry" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103697" group-title="U-18 Girls Junior National Rugby 7s",Assam vs Puducherry
-https://dai.google.com/linear/hls/event/kjgVzvuVQPGIfHoZArdWvw/master.m3u8
 #EXTINF:-1 tvg-name="Goa vs Himachal Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103698" group-title="U-18 Girls Junior National Rugby 7s",Goa vs Himachal Pradesh
 https://dai.google.com/linear/hls/event/pB_sqQgmRQ-xODRkRQEKWw/master.m3u8
+#EXTINF:-1 tvg-name="Delhi vs Chandigarh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103699" group-title="U-18 Girls Junior National Rugby 7s",Delhi vs Chandigarh
+https://dai.google.com/linear/hls/event/KTxLsDDEQdOeeYRu1FBcgA/master.m3u8
