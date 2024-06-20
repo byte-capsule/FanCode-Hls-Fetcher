@@ -1,9 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Shrachi Rarh Tigers Womens vs Sobisco Smashers Malda Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103454" group-title="Bengal Womens Pro T20 League, 2024",Shrachi Rarh Tigers Womens vs Sobisco Smashers Malda Womens
 https://dai.google.com/linear/hls/event/KrzL3fxpR4SPuKUuyQna3A/master.m3u8
-#EXTINF:-1 tvg-name="Himachal Pradesh vs Punjab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103743" group-title="U-18 Girls Junior National Rugby 7s",Himachal Pradesh vs Punjab
-https://dai.google.com/linear/hls/event/KfXNxwcJRy-0_Ng0uSoVrQ/master.m3u8
-#EXTINF:-1 tvg-name="Manipur vs Haryana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103744" group-title="U-18 Girls Junior National Rugby 7s",Manipur vs Haryana
-https://dai.google.com/linear/hls/event/2P2jbPDMTrWVxDYCo3ro7A/master.m3u8
 #EXTINF:-1 tvg-name="J&K vs Uttar Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103745" group-title="U-18 Girls Junior National Rugby 7s",J&K vs Uttar Pradesh
 https://dai.google.com/linear/hls/event/HmWEK0PiTgaSaVC916ghqQ/master.m3u8
+#EXTINF:-1 tvg-name="Manipur vs Haryana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103744" group-title="U-18 Girls Junior National Rugby 7s",Manipur vs Haryana
+https://dai.google.com/linear/hls/event/2P2jbPDMTrWVxDYCo3ro7A/master.m3u8
