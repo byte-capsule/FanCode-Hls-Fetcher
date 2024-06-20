@@ -3,11 +3,9 @@
 https://dai.google.com/linear/hls/event/KrzL3fxpR4SPuKUuyQna3A/master.m3u8
 #EXTINF:-1 tvg-name="Avengers vs Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102590" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Avengers vs Warriors
 https://dai.google.com/linear/hls/event/Xe72kayeRNybTKIw6r6lDg/master.m3u8
-#EXTINF:-1 tvg-name="Germany vs Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101510" group-title="Volleyball Nations League Men's",Germany vs Canada
-https://dai.google.com/linear/hls/event/x68mgFTQTIyBn8V-1t_CNw/master.m3u8
-#EXTINF:-1 tvg-name="Delhi vs Jharkhand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103740" group-title="U-18 Girls Junior National Rugby 7s",Delhi vs Jharkhand
-https://dai.google.com/linear/hls/event/lV8LE1LgQfijzz0nrTLrQw/master.m3u8
 #EXTINF:-1 tvg-name="Karnataka vs Madhya Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103741" group-title="U-18 Girls Junior National Rugby 7s",Karnataka vs Madhya Pradesh
 https://dai.google.com/linear/hls/event/XKuOyKIoQsGthmF4mdL8jQ/master.m3u8
-#EXTINF:-1 tvg-name="Himachal Pradesh vs Punjab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103742" group-title="U-18 Girls Junior National Rugby 7s",Himachal Pradesh vs Punjab
+#EXTINF:-1 tvg-name="Puducherry vs Andhra Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103742" group-title="U-18 Girls Junior National Rugby 7s",Puducherry vs Andhra Pradesh
 https://dai.google.com/linear/hls/event/06gAf8z1TYGJtUPHeQNT_w/master.m3u8
+#EXTINF:-1 tvg-name="Himachal Pradesh vs Punjab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103743" group-title="U-18 Girls Junior National Rugby 7s",Himachal Pradesh vs Punjab
+https://dai.google.com/linear/hls/event/KfXNxwcJRy-0_Ng0uSoVrQ/master.m3u8
