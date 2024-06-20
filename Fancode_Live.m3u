@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Kings vs Eagles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102592" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Kings vs Eagles
+https://dai.google.com/linear/hls/event/PFFcf2aOTMqwdKrpujrDVw/master.m3u8
 #EXTINF:-1 tvg-name="Lux Shyam Kolkata Tigers Womens vs Harbour Diamonds Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103455" group-title="Bengal Womens Pro T20 League, 2024",Lux Shyam Kolkata Tigers Womens vs Harbour Diamonds Womens
 https://dai.google.com/linear/hls/event/2vUyTyIgTSqCi7USsBsOyg/master.m3u8
 #EXTINF:-1 tvg-name="United CC vs Prague CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103831" group-title="ECS Czechia, 2024",United CC vs Prague CC
@@ -9,5 +11,5 @@ https://dai.google.com/linear/hls/event/oM0vVP29QlG9qoq6xDybhA/master.m3u8
 https://dai.google.com/linear/hls/event/guil7KEHRKiIzOr7ZkHIQA/master.m3u8
 #EXTINF:-1 tvg-name="Tamil Nadu vs Rajasthan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103753" group-title="U-18 Girls Junior National Rugby 7s",Tamil Nadu vs Rajasthan
 https://dai.google.com/linear/hls/event/GGlLa3cISdqYAY-oVUc4Gg/master.m3u8
-#EXTINF:-1 tvg-name="Kerala vs Odisha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103752" group-title="U-18 Girls Junior National Rugby 7s",Kerala vs Odisha
-https://dai.google.com/linear/hls/event/fvsp1BsIS8WiOUeNkSt1Xw/master.m3u8
+#EXTINF:-1 tvg-name="TBC vs TBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103754" group-title="U-18 Girls Junior National Rugby 7s",TBC vs TBC
+https://dai.google.com/linear/hls/event/UUoIsLVHSay4U14AeDz8QQ/master.m3u8
