@@ -1,16 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Prague Spartans vs Praha Dominators" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103833" group-title="ECS Czechia, 2024",Prague Spartans vs Praha Dominators
 https://dai.google.com/linear/hls/event/lIHCYJj0Seu-ajDYNYnGeA/master.m3u8
+#EXTINF:-1 tvg-name="Prague Barbarians vs Vinohrady" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103834" group-title="ECS Czechia, 2024",Prague Barbarians vs Vinohrady
+https://dai.google.com/linear/hls/event/H1JVQ-d2Swe16iNmoJmiQw/master.m3u8
 #EXTINF:-1 tvg-name="Royal Phantoms vs Agri King's Knights" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103126" group-title="Sher-E-Punjab T20, 2024",Royal Phantoms vs Agri King's Knights
 https://dai.google.com/linear/hls/event/w1gF-6jFRFuLdx5mQjYk4Q/master.m3u8
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103793" group-title="KLM Open",Day 1
 https://dai.google.com/linear/hls/event/6x5DldhqS_GrfZHH-_5aPA/master.m3u8
-#EXTINF:-1 tvg-name="Turkey vs Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101513" group-title="Volleyball Nations League Men's",Turkey vs Argentina
-https://dai.google.com/linear/hls/event/Nr0HWkKiTlmK5O-DWNxEBQ/master.m3u8
 #EXTINF:-1 tvg-name="Brazil vs USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101512" group-title="Volleyball Nations League Men's",Brazil vs USA
 https://dai.google.com/linear/hls/event/R6aTvQuzRWCNMU5FpgvRKw/master.m3u8
-#EXTINF:-1 tvg-name="West Bengal vs Kerala" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103763" group-title="U-18 Girls Junior National Rugby 7s",West Bengal vs Kerala
-https://dai.google.com/linear/hls/event/QT0SDXz5SBe_AepF6kBIHA/master.m3u8
 #EXTINF:-1 tvg-name="Maharashtra vs Rajasthan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103764" group-title="U-18 Girls Junior National Rugby 7s",Maharashtra vs Rajasthan
 https://dai.google.com/linear/hls/event/qQwTuKVqT9mwf-N2aXPzPw/master.m3u8
 #EXTINF:-1 tvg-name="Bihar vs Odisha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103765" group-title="U-18 Girls Junior National Rugby 7s",Bihar vs Odisha
