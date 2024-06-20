@@ -9,5 +9,7 @@ https://dai.google.com/linear/hls/event/AK7UoF2PSFyjQhQtzDGn7w/master.m3u8
 https://dai.google.com/linear/hls/event/uUsQ6x6HSuaBB8oobLJWCQ/master.m3u8
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103793" group-title="KLM Open",Day 1
 https://dai.google.com/linear/hls/event/6x5DldhqS_GrfZHH-_5aPA/master.m3u8
+#EXTINF:-1 tvg-name="Bulgaria vs Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101514" group-title="Volleyball Nations League Men's",Bulgaria vs Italy
+https://dai.google.com/linear/hls/event/bsxl5Nz4SUyAZJ5KhSBmyQ/master.m3u8
 #EXTINF:-1 tvg-name="Thailand vs Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101390" group-title="Volleyball Nations League Women's",Thailand vs Brazil
 https://dai.google.com/linear/hls/event/lbfMhPQkTiapqkMSWYlyqQ/master.m3u8
