@@ -1,7 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Smashers vs Patriots" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102591" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Smashers vs Patriots
+https://dai.google.com/linear/hls/event/X25IaEnTQGaiegqJcdY0_w/master.m3u8
 #EXTINF:-1 tvg-name="Shrachi Rarh Tigers Womens vs Sobisco Smashers Malda Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103454" group-title="Bengal Womens Pro T20 League, 2024",Shrachi Rarh Tigers Womens vs Sobisco Smashers Malda Womens
 https://dai.google.com/linear/hls/event/KrzL3fxpR4SPuKUuyQna3A/master.m3u8
-#EXTINF:-1 tvg-name="J&K vs Uttar Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103745" group-title="U-18 Girls Junior National Rugby 7s",J&K vs Uttar Pradesh
-https://dai.google.com/linear/hls/event/HmWEK0PiTgaSaVC916ghqQ/master.m3u8
-#EXTINF:-1 tvg-name="Manipur vs Haryana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103744" group-title="U-18 Girls Junior National Rugby 7s",Manipur vs Haryana
-https://dai.google.com/linear/hls/event/2P2jbPDMTrWVxDYCo3ro7A/master.m3u8
+#EXTINF:-1 tvg-name="Goa vs Gujarat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103746" group-title="U-18 Girls Junior National Rugby 7s",Goa vs Gujarat
+https://dai.google.com/linear/hls/event/pfd6G2RETYun0NqDXZw4Zg/master.m3u8
+#EXTINF:-1 tvg-name="Jharkhand vs Madhya Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103747" group-title="U-18 Girls Junior National Rugby 7s",Jharkhand vs Madhya Pradesh
+https://dai.google.com/linear/hls/event/B6s2s8AfTvGpq3AHX7smWA/master.m3u8
+#EXTINF:-1 tvg-name="Uttarakhand vs Assam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103748" group-title="U-18 Girls Junior National Rugby 7s",Uttarakhand vs Assam
+https://dai.google.com/linear/hls/event/RCJgzyyaQnuWmUh6g406LA/master.m3u8
