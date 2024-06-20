@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Avengers vs Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102590" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Avengers vs Warriors
 https://dai.google.com/linear/hls/event/Xe72kayeRNybTKIw6r6lDg/master.m3u8
+#EXTINF:-1 tvg-name="Shrachi Rarh Tigers Womens vs Sobisco Smashers Malda Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103454" group-title="Bengal Womens Pro T20 League, 2024",Shrachi Rarh Tigers Womens vs Sobisco Smashers Malda Womens
+https://dai.google.com/linear/hls/event/KrzL3fxpR4SPuKUuyQna3A/master.m3u8
 #EXTINF:-1 tvg-name="Germany vs Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101510" group-title="Volleyball Nations League Men's",Germany vs Canada
 https://dai.google.com/linear/hls/event/x68mgFTQTIyBn8V-1t_CNw/master.m3u8
-#EXTINF:-1 tvg-name="Chandigarh vs Telangana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103733" group-title="U-18 Girls Junior National Rugby 7s",Chandigarh vs Telangana
-https://dai.google.com/linear/hls/event/Pff0mOJIQWm02suoKQG3CA/master.m3u8
-#EXTINF:-1 tvg-name="J&K vs Manipur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103736" group-title="U-18 Girls Junior National Rugby 7s",J&K vs Manipur
-https://dai.google.com/linear/hls/event/ijt9PbJGTmKtd86YYlTXBw/master.m3u8
 #EXTINF:-1 tvg-name="Haryana vs Uttar Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103737" group-title="U-18 Girls Junior National Rugby 7s",Haryana vs Uttar Pradesh
 https://dai.google.com/linear/hls/event/_9wsB6XtTHalc68y7GTkFA/master.m3u8
 #EXTINF:-1 tvg-name="Uttarakhand vs Goa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103738" group-title="U-18 Girls Junior National Rugby 7s",Uttarakhand vs Goa
- Free Trial attempt unsuccessful......it requires Premium Account
+https://dai.google.com/linear/hls/event/lfR_7Yk3RjmqxdHmPcBW_w/master.m3u8
+#EXTINF:-1 tvg-name="Assam vs Gujarat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103739" group-title="U-18 Girls Junior National Rugby 7s",Assam vs Gujarat
+https://dai.google.com/linear/hls/event/IHxQT1YxRQGI6b45t7FHYQ/master.m3u8
