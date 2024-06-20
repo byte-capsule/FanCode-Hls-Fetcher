@@ -1,7 +1,15 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Avengers vs Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102590" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Avengers vs Warriors
+https://dai.google.com/linear/hls/event/Xe72kayeRNybTKIw6r6lDg/master.m3u8
+#EXTINF:-1 tvg-name="Germany vs Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101510" group-title="Volleyball Nations League Men's",Germany vs Canada
+https://dai.google.com/linear/hls/event/x68mgFTQTIyBn8V-1t_CNw/master.m3u8
 #EXTINF:-1 tvg-name="Chandigarh vs Telangana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103733" group-title="U-18 Girls Junior National Rugby 7s",Chandigarh vs Telangana
 https://dai.google.com/linear/hls/event/Pff0mOJIQWm02suoKQG3CA/master.m3u8
 #EXTINF:-1 tvg-name="Puducherry vs Himachal Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103734" group-title="U-18 Girls Junior National Rugby 7s",Puducherry vs Himachal Pradesh
 https://dai.google.com/linear/hls/event/Nw2esZ7uRhKF6vI3w-YhYg/master.m3u8
 #EXTINF:-1 tvg-name="Punjab vs Andhra Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103735" group-title="U-18 Girls Junior National Rugby 7s",Punjab vs Andhra Pradesh
 https://dai.google.com/linear/hls/event/RcKwRxdUSjKgSFGpjz6T3w/master.m3u8
+#EXTINF:-1 tvg-name="J&K vs Manipur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103736" group-title="U-18 Girls Junior National Rugby 7s",J&K vs Manipur
+ Free Trial attempt unsuccessful......it requires Premium Account
+#EXTINF:-1 tvg-name="Haryana vs Uttar Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103737" group-title="U-18 Girls Junior National Rugby 7s",Haryana vs Uttar Pradesh
+ Free Trial attempt unsuccessful......it requires Premium Account
