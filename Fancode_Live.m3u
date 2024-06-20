@@ -1,11 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Smashers vs Patriots" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102591" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Smashers vs Patriots
 https://dai.google.com/linear/hls/event/X25IaEnTQGaiegqJcdY0_w/master.m3u8
-#EXTINF:-1 tvg-name="Shrachi Rarh Tigers Womens vs Sobisco Smashers Malda Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103454" group-title="Bengal Womens Pro T20 League, 2024",Shrachi Rarh Tigers Womens vs Sobisco Smashers Malda Womens
-https://dai.google.com/linear/hls/event/KrzL3fxpR4SPuKUuyQna3A/master.m3u8
+#EXTINF:-1 tvg-name="United CC vs Prague CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103831" group-title="ECS Czechia, 2024",United CC vs Prague CC
+https://dai.google.com/linear/hls/event/npuQYZtyTWKUw43LJOxelw/master.m3u8
 #EXTINF:-1 tvg-name="Iran vs Netherlands" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101511" group-title="Volleyball Nations League Men's",Iran vs Netherlands
 https://dai.google.com/linear/hls/event/guil7KEHRKiIzOr7ZkHIQA/master.m3u8
-#EXTINF:-1 tvg-name="Uttarakhand vs Assam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103748" group-title="U-18 Girls Junior National Rugby 7s",Uttarakhand vs Assam
-https://dai.google.com/linear/hls/event/RCJgzyyaQnuWmUh6g406LA/master.m3u8
+#EXTINF:-1 tvg-name="West Bengal vs Bihar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103750" group-title="U-18 Girls Junior National Rugby 7s",West Bengal vs Bihar
+https://dai.google.com/linear/hls/event/LGAo9JkVRDKMcoYic_Ul6g/master.m3u8
 #EXTINF:-1 tvg-name="Delhi vs Karnataka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103749" group-title="U-18 Girls Junior National Rugby 7s",Delhi vs Karnataka
 https://dai.google.com/linear/hls/event/8Zy74fM6S5KuEjSDmZMhLQ/master.m3u8
+#EXTINF:-1 tvg-name="Chhattisgarh vs Maharashtra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103751" group-title="U-18 Girls Junior National Rugby 7s",Chhattisgarh vs Maharashtra
+ Free Trial attempt unsuccessful......it requires Premium Account
