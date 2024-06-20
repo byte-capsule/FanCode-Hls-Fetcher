@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 3,
-  "updated_on": "20-06-2024 on 10:43:17 PM \ud83c\udf19",
+  "channels_amount": 5,
+  "updated_on": "20-06-2024 on 11:04:47 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -17,6 +17,17 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "KCC T20 Elite Cup 3rd Edition, 2024",
+      "match_id": 100225,
+      "match_name": "Al Hajery Team XI vs Kuwait Swedish",
+      "team_1": "Al Hajery Team XI",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ALJH@2x.png",
+      "team_2": "Kuwait Swedish",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUSW@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/Rt1iCSmPRr2oMRBll_OPHw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "Sher-E-Punjab T20, 2024",
       "match_id": 103127,
       "match_name": "Trident Stallions vs BLV Blasters",
@@ -25,6 +36,17 @@
       "team_2": "BLV Blasters",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLT@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/AK7UoF2PSFyjQhQtzDGn7w/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICCA Arabian T10, 2024",
+      "match_id": 102390,
+      "match_name": "Brickwork Development vs Spades Real Estate",
+      "team_1": "Brickwork Development",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BWD@2x.png",
+      "team_2": "Spades Real Estate",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOLR@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/oqBR1NmiQDeRv6r99wtEpA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
