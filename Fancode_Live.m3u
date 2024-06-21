@@ -1,3 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Patriots vs Royals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102594" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Patriots vs Royals
+https://dai.google.com/linear/hls/event/KUQLOSibTd2nRPfSGxLocA/master.m3u8
 #EXTINF:-1 tvg-name="Rashmi Medinipur Wizards Womens vs Murshidabad Kueens Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103456" group-title="Bengal Womens Pro T20 League, 2024",Rashmi Medinipur Wizards Womens vs Murshidabad Kueens Womens
 https://dai.google.com/linear/hls/event/5a6U1DJoRUSuCATKSV2Fng/master.m3u8
