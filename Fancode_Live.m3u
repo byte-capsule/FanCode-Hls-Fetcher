@@ -1,15 +1,19 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Smart Cube Kings 11 vs Brickwork Development" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102393" group-title="ICCA Arabian T10, 2024",Smart Cube Kings 11 vs Brickwork Development
+https://dai.google.com/linear/hls/event/Ft4SejsjTl-ShWwfnAkUEQ/master.m3u8
+#EXTINF:-1 tvg-name="Al Mulla Exchange vs Kuwait Swedish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100226" group-title="KCC T20 Elite Cup 3rd Edition, 2024",Al Mulla Exchange vs Kuwait Swedish
+https://dai.google.com/linear/hls/event/eAZ70EJYQymyRoxuMHFnSw/master.m3u8
 #EXTINF:-1 tvg-name="Worcestershire vs Warwickshire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102096" group-title="Vitality Blast T20, 2024",Worcestershire vs Warwickshire
 https://dai.google.com/linear/hls/event/WPsI6nzaQVac3GZ8yT9Ahw/master.m3u8
 #EXTINF:-1 tvg-name="Our Souq Cricket Club vs Sharjah Cricket Academy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104152" group-title="Bukhatir 50 overs League, 2024",Our Souq Cricket Club vs Sharjah Cricket Academy
 https://dai.google.com/linear/hls/event/qp1NZ5NvTh60OWLdCBqvHg/master.m3u8
 #EXTINF:-1 tvg-name="Bay Leaf Blasters vs Saffron Strikers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103100" group-title="Dream11 Spice Isle T10, 2024",Bay Leaf Blasters vs Saffron Strikers
 https://dai.google.com/linear/hls/event/Dfb9l-DWSoub36gaWOJCmg/master.m3u8
-#EXTINF:-1 tvg-name="Bohemians vs Ostrava" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103840" group-title="ECS Czechia, 2024",Bohemians vs Ostrava
-https://mls3.fancode.com/e21fe6c5-fc76-402e-9028-3c79bd3d0fae/master.m3u8
 #EXTINF:-1 tvg-name="Servotech Siliguri Strikers vs Rashmi Medinipur Wizards" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103423" group-title="Bengal Pro T20 League, 2024",Servotech Siliguri Strikers vs Rashmi Medinipur Wizards
 https://dai.google.com/linear/hls/event/85ddnW9ST7OVd2-0QrbYRA/master.m3u8
 #EXTINF:-1 tvg-name="Royal Phantoms vs Intersoft Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103129" group-title="Sher-E-Punjab T20, 2024",Royal Phantoms vs Intersoft Titans
 https://dai.google.com/linear/hls/event/4X2qK4K8QDuLGyX7q7bxcg/master.m3u8
 #EXTINF:-1 tvg-name="Qualifying Session" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96840" group-title="F1 ACADEMY SPAIN 2024",Qualifying Session
 https://d1nwhghw4uhdu0.cloudfront.net/out/v1/20bd64ae52a74228bacfc05767965389/index.mpd
+#EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103885" group-title="LIV Golf Nashville",Day 1
+https://dai.google.com/linear/hls/event/44Qoz974RlaeTzbQnW7CUg/master.m3u8
