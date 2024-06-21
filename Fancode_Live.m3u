@@ -1,17 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Avengers vs Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102595" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Avengers vs Titans
-https://dai.google.com/linear/hls/event/5dmhlzw-TvWgfMo2moa4Mw/master.m3u8
-#EXTINF:-1 tvg-name="Adamas Howrah Warriors Womens vs Servotech Siliguri Strikers Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103457" group-title="Bengal Womens Pro T20 League, 2024",Adamas Howrah Warriors Womens vs Servotech Siliguri Strikers Womens
-https://dai.google.com/linear/hls/event/cNgp7aHzRNO_eAJVqT956A/master.m3u8
-#EXTINF:-1 tvg-name="Ostrava vs Praha Dominators" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103837" group-title="ECS Czechia, 2024",Ostrava vs Praha Dominators
-https://dai.google.com/linear/hls/event/q6fgkyP5SX24tDI1cLc7vQ/master.m3u8
+#EXTINF:-1 tvg-name="Prague CC vs Prague Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103838" group-title="ECS Czechia, 2024",Prague CC vs Prague Tigers
+https://dai.google.com/linear/hls/event/iaohe3MBQduuZNe2Oq6K8g/master.m3u8
 #EXTINF:-1 tvg-name="JK Super Strikers vs Agri King's Knights" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103128" group-title="Sher-E-Punjab T20, 2024",JK Super Strikers vs Agri King's Knights
 https://dai.google.com/linear/hls/event/ehB23wRWTd-luUqrUC2oEg/master.m3u8
-#EXTINF:-1 tvg-name="Shrachi Rarh Tigers vs Lux Shyam Kolkata Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103422" group-title="Bengal Pro T20 League, 2024",Shrachi Rarh Tigers vs Lux Shyam Kolkata Tigers
-https://dai.google.com/linear/hls/event/gR4zy7XbQpaHBy3qjFIEBw/master.m3u8
+#EXTINF:-1 tvg-name="Practice 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95160" group-title="F1 ARAMCO GRAN PREMIO DE ESPANA 2024",Practice 1
+https://d52fzjqk3mlib.cloudfront.net/out/v1/ade8ae3387b74e7fa2d1a8989360e0ca/index.mpd
+#EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103794" group-title="KLM Open",Day 2
+https://dai.google.com/linear/hls/event/3Acxn4PTQY-QCxdXz4mXSw/master.m3u8
 #EXTINF:-1 tvg-name="Argentina vs Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101528" group-title="Volleyball Nations League Men's",Argentina vs Poland
 https://dai.google.com/linear/hls/event/uz_4CXruQ9yY_GSpeXK6fw/master.m3u8
 #EXTINF:-1 tvg-name="Netherlands vs Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101527" group-title="Volleyball Nations League Men's",Netherlands vs Japan
 https://dai.google.com/linear/hls/event/DhB4H0SXTnuZFnq4sJskeg/master.m3u8
-#EXTINF:-1 tvg-name="Italy vs USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101391" group-title="Volleyball Nations League Women's",Italy vs USA
-https://dai.google.com/linear/hls/event/1SiutRQwStGkw6H8fj0H1Q/master.m3u8
