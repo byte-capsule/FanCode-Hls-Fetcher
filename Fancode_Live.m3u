@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Avengers vs Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102595" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Avengers vs Titans
+https://dai.google.com/linear/hls/event/5dmhlzw-TvWgfMo2moa4Mw/master.m3u8
 #EXTINF:-1 tvg-name="Adamas Howrah Warriors Womens vs Servotech Siliguri Strikers Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103457" group-title="Bengal Womens Pro T20 League, 2024",Adamas Howrah Warriors Womens vs Servotech Siliguri Strikers Womens
 https://dai.google.com/linear/hls/event/cNgp7aHzRNO_eAJVqT956A/master.m3u8
 #EXTINF:-1 tvg-name="Prague Tigers vs Bohemians" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103836" group-title="ECS Czechia, 2024",Prague Tigers vs Bohemians
