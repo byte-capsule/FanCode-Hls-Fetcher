@@ -1,19 +1,19 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 4,
-  "updated_on": "21-06-2024 on 1:41:09 PM \ud83c\udf1e",
+  "channels_amount": 5,
+  "updated_on": "21-06-2024 on 2:09:39 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
-      "event_name": "Siechem Pondicherry Men's T10 Tournament 2024",
-      "match_id": 102594,
-      "match_name": "Patriots vs Royals",
-      "team_1": "Patriots",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PATS@2x.png",
-      "team_2": "Royals",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROYA@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/KUQLOSibTd2nRPfSGxLocA/master.m3u8"
+      "event_name": "Bengal Womens Pro T20 League, 2024",
+      "match_id": 103457,
+      "match_name": "Adamas Howrah Warriors Womens vs Servotech Siliguri Strikers Womens",
+      "team_1": "Adamas Howrah Warriors Womens",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AHW@2x.png",
+      "team_2": "Servotech Siliguri Strikers Womens",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSB@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/cNgp7aHzRNO_eAJVqT956A/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -36,6 +36,17 @@
       "team_2": "Lux Shyam Kolkata Tigers",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LSKT@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/gR4zy7XbQpaHBy3qjFIEBw/master.m3u8"
+    },
+    {
+      "event_catagory": "racing",
+      "event_name": "F3 SPAIN 2024",
+      "match_id": 95391,
+      "match_name": "Practice",
+      "team_1": "Practice",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png",
+      "team_2": "Barcelona",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+      "stream_link": "https://d3et07us2e1plp.cloudfront.net/out/v1/1d67195b68704ac0940c8c78c0ef1100/index.m3u8"
     },
     {
       "event_catagory": "volleyball",
