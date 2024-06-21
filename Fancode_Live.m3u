@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Kings vs Smashers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102593" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Kings vs Smashers
 https://dai.google.com/linear/hls/event/cipjbPOOSKua6lUDni0PXw/master.m3u8
+#EXTINF:-1 tvg-name="Rashmi Medinipur Wizards Womens vs Murshidabad Kueens Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103456" group-title="Bengal Womens Pro T20 League, 2024",Rashmi Medinipur Wizards Womens vs Murshidabad Kueens Womens
+https://dai.google.com/linear/hls/event/5a6U1DJoRUSuCATKSV2Fng/master.m3u8
 #EXTINF:-1 tvg-name="Iran vs France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101525" group-title="Volleyball Nations League Men's",Iran vs France
 https://dai.google.com/linear/hls/event/VZwnYPpIQm6ayK-4baMe9w/master.m3u8
