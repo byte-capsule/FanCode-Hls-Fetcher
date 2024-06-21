@@ -5,9 +5,9 @@ https://dai.google.com/linear/hls/event/5dmhlzw-TvWgfMo2moa4Mw/master.m3u8
 https://dai.google.com/linear/hls/event/cNgp7aHzRNO_eAJVqT956A/master.m3u8
 #EXTINF:-1 tvg-name="Ostrava vs Praha Dominators" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103837" group-title="ECS Czechia, 2024",Ostrava vs Praha Dominators
 https://dai.google.com/linear/hls/event/q6fgkyP5SX24tDI1cLc7vQ/master.m3u8
-#EXTINF:-1 tvg-name="Shrachi Rarh Tigers vs Lux Shyam Kolkata Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103422" group-title="Bengal Pro T20 League, 2024",Shrachi Rarh Tigers vs Lux Shyam Kolkata Tigers
-https://dai.google.com/linear/hls/event/gR4zy7XbQpaHBy3qjFIEBw/master.m3u8
 #EXTINF:-1 tvg-name="JK Super Strikers vs Agri King's Knights" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103128" group-title="Sher-E-Punjab T20, 2024",JK Super Strikers vs Agri King's Knights
 https://dai.google.com/linear/hls/event/ehB23wRWTd-luUqrUC2oEg/master.m3u8
-#EXTINF:-1 tvg-name="Free Practice" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95342" group-title="F2 SPAIN 2024",Free Practice
-https://d3fyxccyqddrar.cloudfront.net/out/v1/885cb7e22c474c88bb7da79682636159/index.mpd
+#EXTINF:-1 tvg-name="Shrachi Rarh Tigers vs Lux Shyam Kolkata Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103422" group-title="Bengal Pro T20 League, 2024",Shrachi Rarh Tigers vs Lux Shyam Kolkata Tigers
+https://dai.google.com/linear/hls/event/gR4zy7XbQpaHBy3qjFIEBw/master.m3u8
+#EXTINF:-1 tvg-name="Italy vs USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101391" group-title="Volleyball Nations League Women's",Italy vs USA
+https://dai.google.com/linear/hls/event/1SiutRQwStGkw6H8fj0H1Q/master.m3u8
