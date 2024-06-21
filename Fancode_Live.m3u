@@ -3,6 +3,8 @@
 https://mls3.fancode.com/780fab44-f9b3-402d-b90e-c5f143db1828/master.m3u8
 #EXTINF:-1 tvg-name="Our Souq Cricket Club vs Sharjah Cricket Academy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104152" group-title="Bukhatir 50 overs League, 2024",Our Souq Cricket Club vs Sharjah Cricket Academy
 https://dai.google.com/linear/hls/event/qp1NZ5NvTh60OWLdCBqvHg/master.m3u8
+#EXTINF:-1 tvg-name="Bay Leaf Blasters vs Saffron Strikers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103100" group-title="Dream11 Spice Isle T10, 2024",Bay Leaf Blasters vs Saffron Strikers
+https://dai.google.com/linear/hls/event/Dfb9l-DWSoub36gaWOJCmg/master.m3u8
 #EXTINF:-1 tvg-name="Bohemians vs Ostrava" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103840" group-title="ECS Czechia, 2024",Bohemians vs Ostrava
 https://mls3.fancode.com/e21fe6c5-fc76-402e-9028-3c79bd3d0fae/master.m3u8
 #EXTINF:-1 tvg-name="Servotech Siliguri Strikers vs Rashmi Medinipur Wizards" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103423" group-title="Bengal Pro T20 League, 2024",Servotech Siliguri Strikers vs Rashmi Medinipur Wizards
@@ -15,7 +17,3 @@ https://dai.google.com/linear/hls/event/FgNGzbc0ReiqM9Vej0paNQ/master.m3u8
 https://dme1kknb1t6z3.cloudfront.net/out/v1/4ada60bc8831454aac40bcec5c8e112a/index.mpd
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103794" group-title="KLM Open",Day 2
 https://dai.google.com/linear/hls/event/3Acxn4PTQY-QCxdXz4mXSw/master.m3u8
-#EXTINF:-1 tvg-name="Bulgaria vs Cuba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101529" group-title="Volleyball Nations League Men's",Bulgaria vs Cuba
-https://dai.google.com/linear/hls/event/wSV3F4RPQ_mJOXSh9HAgew/master.m3u8
-#EXTINF:-1 tvg-name="Poland vs Turkey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101392" group-title="Volleyball Nations League Women's",Poland vs Turkey
-https://dai.google.com/linear/hls/event/LYm2bop4ROO2T63B-bXXBQ/master.m3u8
