@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Kings vs Smashers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102598" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Kings vs Smashers
-https://dai.google.com/linear/hls/event/isdekFC9Qx-r_TpeXQK-Fg/master.m3u8
 #EXTINF:-1 tvg-name="Shrachi Rarh Tigers Womens vs Lux Shyam Kolkata Tigers Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103459" group-title="Bengal Womens Pro T20 League, 2024",Shrachi Rarh Tigers Womens vs Lux Shyam Kolkata Tigers Womens
 https://dai.google.com/linear/hls/event/SX6v9v_kSrSvDIySpPIXxQ/master.m3u8
 #EXTINF:-1 tvg-name="Prague Barbarians vs Prague Spartans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103842" group-title="ECS Czechia, 2024",Prague Barbarians vs Prague Spartans
@@ -11,9 +9,11 @@ https://dai.google.com/linear/hls/event/uR0P0cg7RmakXTdXj_ZnOQ/master.m3u8
 https://dai.google.com/linear/hls/event/zIwusT97SG6n5MIYju12gg/master.m3u8
 #EXTINF:-1 tvg-name="Sobisco Smashers Malda vs Harbour Diamonds" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103424" group-title="Bengal Pro T20 League, 2024",Sobisco Smashers Malda vs Harbour Diamonds
 https://dai.google.com/linear/hls/event/3k1loOLCTgeMrd0gV2LWPA/master.m3u8
-#EXTINF:-1 tvg-name="Gamba Osaka vs Vissel Kobe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104006" group-title="J League 2024",Gamba Osaka vs Vissel Kobe
-https://dai.fancode.com/primary/104006_english_hls_9118adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Urawa Red Diamonds vs Kashima Antlers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102200" group-title="J League 2024",Urawa Red Diamonds vs Kashima Antlers
 https://dai.fancode.com/primary/102200_english_hls_5631adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Gamba Osaka vs Vissel Kobe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104006" group-title="J League 2024",Gamba Osaka vs Vissel Kobe
+https://dai.fancode.com/primary/104006_english_hls_9118adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Practice 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95162" group-title="F1 ARAMCO GRAN PREMIO DE ESPANA 2024",Practice 3
+https://dr4sj0io80g2n.cloudfront.net/out/v1/a0d9fa6f03274abc95b94acc3450590f/index.mpd
 #EXTINF:-1 tvg-name="Italy vs Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101394" group-title="Volleyball Nations League Women's",Italy vs Poland
 https://dai.google.com/linear/hls/event/87qbOnSRSo2Txe5GvNPMbQ/master.m3u8
