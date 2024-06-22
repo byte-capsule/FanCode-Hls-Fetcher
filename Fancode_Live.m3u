@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Wavilog Tech CC vs Dolphin Rent a Car" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102395" group-title="ICCA Arabian T10, 2024",Wavilog Tech CC vs Dolphin Rent a Car
 https://dai.google.com/linear/hls/event/lpw5y23wR06bw2S51xHGYA/master.m3u8
-#EXTINF:-1 tvg-name="Ostrava vs Brno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103843" group-title="ECS Czechia, 2024",Ostrava vs Brno
-https://dai.google.com/linear/hls/event/gPv5ESkBS2GLISKTHPZpnw/master.m3u8
 #EXTINF:-1 tvg-name="Imena Herons vs Ingenzi Heroes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102997" group-title="Rwanda Women Elite League T20, 2024",Imena Herons vs Ingenzi Heroes
 https://dai.google.com/linear/hls/event/qL2nVKPsSfe6KJoFzqdZZg/master.m3u8
 #EXTINF:-1 tvg-name="Royal Phantoms vs JK Super Strikers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103130" group-title="Sher-E-Punjab T20, 2024",Royal Phantoms vs JK Super Strikers
@@ -11,7 +9,5 @@ https://dai.google.com/linear/hls/event/zIwusT97SG6n5MIYju12gg/master.m3u8
 https://d3eyzhsdswipjt.cloudfront.net/out/v1/8488c1d78d91446ca67236080b91d1f9/index.mpd
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103795" group-title="KLM Open",Day 3
 https://dai.google.com/linear/hls/event/vYMlcCsTSnacF7PhktQAsw/master.m3u8
-#EXTINF:-1 tvg-name="Bulgaria vs Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101534" group-title="Volleyball Nations League Men's",Bulgaria vs Argentina
-https://dai.google.com/linear/hls/event/8xBza7IFT_yagt5vKPl5EA/master.m3u8
 #EXTINF:-1 tvg-name="France vs Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101533" group-title="Volleyball Nations League Men's",France vs Japan
 https://dai.google.com/linear/hls/event/4Swm_0KNRP2xdXfOCQQhDw/master.m3u8
