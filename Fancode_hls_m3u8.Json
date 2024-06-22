@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 6,
-  "updated_on": "22-06-2024 on 6:43:21 PM \ud83c\udf19",
+  "channels_amount": 9,
+  "updated_on": "22-06-2024 on 7:09:05 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -17,6 +17,17 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "ECS Czechia, 2024",
+      "match_id": 103844,
+      "match_name": "Prague CC vs Prague Barbarians",
+      "team_1": "Prague CC",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PCC@2x.png",
+      "team_2": "Prague Barbarians",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PRB@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/NH9noqjHTBanI9QvkStTSg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "Rwanda Women Elite League T20, 2024",
       "match_id": 102997,
       "match_name": "Imena Herons vs Ingenzi Heroes",
@@ -28,6 +39,17 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "Bengal Pro T20 League, 2024",
+      "match_id": 103425,
+      "match_name": "Adamas Howrah Warriors vs Murshidabad Kings",
+      "team_1": "Adamas Howrah Warriors",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AHW@2x.png",
+      "team_2": "Murshidabad Kings",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MK@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/ORte4CPCSz-fHw36Y7oNZg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "Sher-E-Punjab T20, 2024",
       "match_id": 103130,
       "match_name": "Royal Phantoms vs JK Super Strikers",
@@ -36,6 +58,17 @@
       "team_2": "JK Super Strikers",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JSS@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/zIwusT97SG6n5MIYju12gg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Bukhatir 50 overs League, 2024",
+      "match_id": 104153,
+      "match_name": "Ace Cricket School vs Zenith Cricket Academy Starlets",
+      "team_1": "Ace Cricket School",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACS@2x.png",
+      "team_2": "Zenith Cricket Academy Starlets",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZCAS@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/WZTahgXyTTqTFKPU8D0CdQ/master.m3u8"
     },
     {
       "event_catagory": "racing",
