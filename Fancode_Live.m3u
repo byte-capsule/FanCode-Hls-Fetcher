@@ -1,9 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Serendib Club vs Kawasaki Knight Riders CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101862" group-title="JCL T20, 2024",Serendib Club vs Kawasaki Knight Riders CC
-https://dai.google.com/linear/hls/event/fBpM11NgTAuhOMR_7PEm0w/master.m3u8
-#EXTINF:-1 tvg-name="Kuala Lumpur vs Perak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103560" group-title="MCA Men's 50 Overs Inter-State Championship, 2024",Kuala Lumpur vs Perak
+#EXTINF:-1 tvg-name="Perak vs Kuala Lumpur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103560" group-title="MCA Men's 50 Overs Inter-State Championship, 2024",Perak vs Kuala Lumpur
 https://dai.google.com/linear/hls/event/GoLu-kc1Tvq9oFhzvz1sMA/master.m3u8
 #EXTINF:-1 tvg-name="Kelantan vs Selangor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103559" group-title="MCA Men's 50 Overs Inter-State Championship, 2024",Kelantan vs Selangor
 https://dai.google.com/linear/hls/event/PNr8hPkBTgqNZVbEVU7XpQ/master.m3u8
+#EXTINF:-1 tvg-name="Johor vs Negeri Sembilan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103561" group-title="MCA Men's 50 Overs Inter-State Championship, 2024",Johor vs Negeri Sembilan
+https://dai.google.com/linear/hls/event/H45xkEByQvSVDs5P0h030g/master.m3u8
+#EXTINF:-1 tvg-name="Serendib Club vs Kawasaki Knight Riders CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101862" group-title="JCL T20, 2024",Serendib Club vs Kawasaki Knight Riders CC
+https://dai.google.com/linear/hls/event/fBpM11NgTAuhOMR_7PEm0w/master.m3u8
 #EXTINF:-1 tvg-name="Light Heavyweights & Lightweights" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103142" group-title="Professional Fighters League",Light Heavyweights & Lightweights
 https://dai.google.com/linear/hls/event/_OisHL6LTZGhfc8hK9GSeQ/master.m3u8
