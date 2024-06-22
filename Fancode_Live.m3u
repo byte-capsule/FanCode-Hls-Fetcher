@@ -1,14 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Wavilog Tech CC vs Dolphin Rent a Car" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102395" group-title="ICCA Arabian T10, 2024",Wavilog Tech CC vs Dolphin Rent a Car
+https://dai.google.com/linear/hls/event/lpw5y23wR06bw2S51xHGYA/master.m3u8
 #EXTINF:-1 tvg-name="Ostrava vs Brno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103843" group-title="ECS Czechia, 2024",Ostrava vs Brno
 https://dai.google.com/linear/hls/event/gPv5ESkBS2GLISKTHPZpnw/master.m3u8
 #EXTINF:-1 tvg-name="Imena Herons vs Ingenzi Heroes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102997" group-title="Rwanda Women Elite League T20, 2024",Imena Herons vs Ingenzi Heroes
 https://dai.google.com/linear/hls/event/qL2nVKPsSfe6KJoFzqdZZg/master.m3u8
 #EXTINF:-1 tvg-name="Royal Phantoms vs JK Super Strikers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103130" group-title="Sher-E-Punjab T20, 2024",Royal Phantoms vs JK Super Strikers
 https://dai.google.com/linear/hls/event/zIwusT97SG6n5MIYju12gg/master.m3u8
-#EXTINF:-1 tvg-name="Sobisco Smashers Malda vs Harbour Diamonds" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103424" group-title="Bengal Pro T20 League, 2024",Sobisco Smashers Malda vs Harbour Diamonds
-https://dai.google.com/linear/hls/event/3k1loOLCTgeMrd0gV2LWPA/master.m3u8
-#EXTINF:-1 tvg-name="Urawa Red Diamonds vs Kashima Antlers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102200" group-title="J League 2024",Urawa Red Diamonds vs Kashima Antlers
-https://dai.fancode.com/primary/102200_english_hls_5631adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Sprint Race" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95344" group-title="F2 SPAIN 2024",Sprint Race
+https://d3eyzhsdswipjt.cloudfront.net/out/v1/8488c1d78d91446ca67236080b91d1f9/index.mpd
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103795" group-title="KLM Open",Day 3
 https://dai.google.com/linear/hls/event/vYMlcCsTSnacF7PhktQAsw/master.m3u8
 #EXTINF:-1 tvg-name="Bulgaria vs Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101534" group-title="Volleyball Nations League Men's",Bulgaria vs Argentina
