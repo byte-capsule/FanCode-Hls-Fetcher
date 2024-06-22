@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 7,
-  "updated_on": "22-06-2024 on 7:26:53 PM \ud83c\udf19",
+  "channels_amount": 8,
+  "updated_on": "22-06-2024 on 7:41:10 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -47,6 +47,17 @@
       "team_2": "Murshidabad Kings",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MK@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/ORte4CPCSz-fHw36Y7oNZg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Sher-E-Punjab T20, 2024",
+      "match_id": 103131,
+      "match_name": "Agri King's Knights vs BLV Blasters",
+      "team_1": "Agri King's Knights",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AKK@2x.png",
+      "team_2": "BLV Blasters",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLT@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/D4JeZ_3oTsu_zdBMoR9_9Q/master.m3u8"
     },
     {
       "event_catagory": "cricket",
