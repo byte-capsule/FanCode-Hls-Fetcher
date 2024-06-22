@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Tokyo Star Kings vs Rising Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101863" group-title="JCL T20, 2024",Tokyo Star Kings vs Rising Stars
-https://dai.google.com/linear/hls/event/l_SSsbgKTzGiXQQisKWzaw/master.m3u8
 #EXTINF:-1 tvg-name="Avengers vs Royals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102597" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Avengers vs Royals
 https://dai.google.com/linear/hls/event/SdbK16FzRDqcJ29L_z4Heg/master.m3u8
 #EXTINF:-1 tvg-name="Negeri Sembilan vs Johor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103561" group-title="MCA Men's 50 Overs Inter-State Championship, 2024",Negeri Sembilan vs Johor
@@ -9,6 +7,10 @@ https://dai.google.com/linear/hls/event/H45xkEByQvSVDs5P0h030g/master.m3u8
 https://dai.google.com/linear/hls/event/GoLu-kc1Tvq9oFhzvz1sMA/master.m3u8
 #EXTINF:-1 tvg-name="Ostrava vs Vinohrady" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103841" group-title="ECS Czechia, 2024",Ostrava vs Vinohrady
 https://dai.google.com/linear/hls/event/gCns_9rsRHmUV1K93MME3w/master.m3u8
+#EXTINF:-1 tvg-name="Ingabo Knights vs Amasimbi Hawks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102996" group-title="Rwanda Women Elite League T20, 2024",Ingabo Knights vs Amasimbi Hawks
+https://dai.google.com/linear/hls/event/uR0P0cg7RmakXTdXj_ZnOQ/master.m3u8
+#EXTINF:-1 tvg-name="Sobisco Smashers Malda vs Harbour Diamonds" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103424" group-title="Bengal Pro T20 League, 2024",Sobisco Smashers Malda vs Harbour Diamonds
+https://dai.google.com/linear/hls/event/3k1loOLCTgeMrd0gV2LWPA/master.m3u8
 #EXTINF:-1 tvg-name="Machida Zelvia vs Avispa Fukuoka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102198" group-title="J League 2024",Machida Zelvia vs Avispa Fukuoka
 https://dai.fancode.com/primary/102198_english_hls_5562adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Canada vs Netherlands" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101532" group-title="Volleyball Nations League Men's",Canada vs Netherlands
