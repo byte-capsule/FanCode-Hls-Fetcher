@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Seven Districts Hybrid vs Dubai Dare Devils" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102396" group-title="ICCA Arabian T10, 2024",Seven Districts Hybrid vs Dubai Dare Devils
 https://dai.google.com/linear/hls/event/ig4T8yOYR66Kd6_yUSuuCw/master.m3u8
+#EXTINF:-1 tvg-name="Prague CC vs Brno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103845" group-title="ECS Czechia, 2024",Prague CC vs Brno
+https://dai.google.com/linear/hls/event/yiImU-AxRou4eYNvqkkZjA/master.m3u8
 #EXTINF:-1 tvg-name="Imena Herons vs Ingenzi Heroes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102997" group-title="Rwanda Women Elite League T20, 2024",Imena Herons vs Ingenzi Heroes
 https://dai.google.com/linear/hls/event/qL2nVKPsSfe6KJoFzqdZZg/master.m3u8
 #EXTINF:-1 tvg-name="Adamas Howrah Warriors vs Murshidabad Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103425" group-title="Bengal Pro T20 League, 2024",Adamas Howrah Warriors vs Murshidabad Kings
