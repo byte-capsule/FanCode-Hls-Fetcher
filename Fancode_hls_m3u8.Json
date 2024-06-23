@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 8,
-  "updated_on": "23-06-2024 on 6:11:28 PM \ud83c\udf19",
+  "channels_amount": 5,
+  "updated_on": "23-06-2024 on 6:42:22 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -30,11 +30,11 @@
       "event_catagory": "cricket",
       "event_name": "Rwanda Women Elite League T20, 2024",
       "match_id": 102999,
-      "match_name": "Ingenzi Heroes vs Ingabo Knights",
-      "team_1": "Ingenzi Heroes",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IGH@2x.png",
-      "team_2": "Ingabo Knights",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-INK@2x.png",
+      "match_name": "Ingabo Knights vs Ingenzi Heroes",
+      "team_1": "Ingabo Knights",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-INK@2x.png",
+      "team_2": "Ingenzi Heroes",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IGH@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/k_okcrr_R4CLkDIfJU408Q/master.m3u8"
     },
     {
@@ -58,39 +58,6 @@
       "team_2": "Amsterdam",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/Pt7rhvx5Rdu1ryjg_1LbDQ/master.m3u8"
-    },
-    {
-      "event_catagory": "volleyball",
-      "event_name": "Volleyball Nations League Men's",
-      "match_id": 101543,
-      "match_name": "Japan vs USA",
-      "team_1": "Japan",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-JPA@2x.png",
-      "team_2": "USA",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-US@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/KIis3_AkR56VYCdgndFvaQ/master.m3u8"
-    },
-    {
-      "event_catagory": "volleyball",
-      "event_name": "Volleyball Nations League Men's",
-      "match_id": 101544,
-      "match_name": "Cuba vs Poland",
-      "team_1": "Cuba",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-CUB@2x.png",
-      "team_2": "Poland",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-PLN@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/62y84ynjQqKw62oAr_BbYw/master.m3u8"
-    },
-    {
-      "event_catagory": "volleyball",
-      "event_name": "Volleyball Nations League Women's",
-      "match_id": 101396,
-      "match_name": "Brazil vs Poland",
-      "team_1": "Brazil",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-BRZ@2x.png",
-      "team_2": "Poland",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-PLN@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/pwY2y5CKSLus6kVeJ56oqg/master.m3u8"
     }
   ]
 }
