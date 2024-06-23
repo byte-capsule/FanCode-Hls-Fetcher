@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Murshidabad Kueens Womens vs Adamas Howrah Warriors Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103460" group-title="Bengal Womens Pro T20 League, 2024",Murshidabad Kueens Womens vs Adamas Howrah Warriors Womens
 https://dai.google.com/linear/hls/event/UeIVOfAyRxeQg86jjGDusQ/master.m3u8
-#EXTINF:-1 tvg-name="Kelantan vs Kuala Lumpur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103563" group-title="MCA Men's 50 Overs Inter-State Championship, 2024",Kelantan vs Kuala Lumpur
-https://dai.google.com/linear/hls/event/bwnQ-6QvSsODWzNEoErz0w/master.m3u8
 #EXTINF:-1 tvg-name="Johor vs Selangor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103562" group-title="MCA Men's 50 Overs Inter-State Championship, 2024",Johor vs Selangor
 https://dai.google.com/linear/hls/event/OcEZpJKSTD2TlE7aaHvPFg/master.m3u8
 #EXTINF:-1 tvg-name="Consadole Sapporo vs Yokohama F. Marinos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102201" group-title="J League 2024",Consadole Sapporo vs Yokohama F. Marinos
