@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="ABX Rent a Car vs Dubai Dare Devils" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102399" group-title="ICCA Arabian T10, 2024",ABX Rent a Car vs Dubai Dare Devils
+https://dai.google.com/linear/hls/event/shOUvsZcQguigBASyyUDJw/master.m3u8
 #EXTINF:-1 tvg-name="Prague Tigers vs Brno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103848" group-title="ECS Czechia, 2024",Prague Tigers vs Brno
 https://dai.google.com/linear/hls/event/xy3dRacDSpanOFRrZI54iw/master.m3u8
 #EXTINF:-1 tvg-name="Ingenzi Heroes vs Ingabo Knights" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102999" group-title="Rwanda Women Elite League T20, 2024",Ingenzi Heroes vs Ingabo Knights
