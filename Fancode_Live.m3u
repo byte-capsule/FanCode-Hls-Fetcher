@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Kings vs Royals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102601" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Kings vs Royals
-https://dai.google.com/linear/hls/event/MyNsuBs2R6GgwW-8mgx5cA/master.m3u8
 #EXTINF:-1 tvg-name="Harbour Diamonds Womens vs Sobisco Smashers Malda Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103461" group-title="Bengal Womens Pro T20 League, 2024",Harbour Diamonds Womens vs Sobisco Smashers Malda Womens
 https://dai.google.com/linear/hls/event/gAOrBV0tTCCK2KXHanY4hA/master.m3u8
 #EXTINF:-1 tvg-name="Bohemians vs Prague Barbarians" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103847" group-title="ECS Czechia, 2024",Bohemians vs Prague Barbarians
@@ -13,5 +11,7 @@ https://dai.google.com/linear/hls/event/9OkAFzNISOi1TMJYRMeZCA/master.m3u8
 https://dai.google.com/linear/hls/event/JAcngYs0Siqhl8F3grGKaQ/master.m3u8
 #EXTINF:-1 tvg-name="Feature Race" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95345" group-title="F2 SPAIN 2024",Feature Race
 https://d1htjfpa7jubbs.cloudfront.net/out/v1/407cac8d299e4b63a6a94777ee9cb76f/index.mpd
+#EXTINF:-1 tvg-name="Day 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103796" group-title="KLM Open",Day 4
+https://dai.google.com/linear/hls/event/Pt7rhvx5Rdu1ryjg_1LbDQ/master.m3u8
 #EXTINF:-1 tvg-name="Brazil vs Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101396" group-title="Volleyball Nations League Women's",Brazil vs Poland
 https://dai.google.com/linear/hls/event/pwY2y5CKSLus6kVeJ56oqg/master.m3u8
