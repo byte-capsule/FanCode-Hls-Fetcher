@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Eagles vs Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102600" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Eagles vs Titans
 https://dai.google.com/linear/hls/event/Xry1x8BOSBWf6-b-StVoZg/master.m3u8
-#EXTINF:-1 tvg-name="Murshidabad Kueens Womens vs Adamas Howrah Warriors Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103460" group-title="Bengal Womens Pro T20 League, 2024",Murshidabad Kueens Womens vs Adamas Howrah Warriors Womens
-https://dai.google.com/linear/hls/event/UeIVOfAyRxeQg86jjGDusQ/master.m3u8
-#EXTINF:-1 tvg-name="Consadole Sapporo vs Yokohama F. Marinos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102201" group-title="J League 2024",Consadole Sapporo vs Yokohama F. Marinos
-https://dai.fancode.com/primary/102201_english_hls_5202adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Brno vs Prague Barbarians" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103846" group-title="ECS Czechia, 2024",Brno vs Prague Barbarians
+https://dai.google.com/linear/hls/event/716P7R_7SCqvOYSvfgT7ng/master.m3u8
+#EXTINF:-1 tvg-name="Second Race" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96842" group-title="F1 ACADEMY SPAIN 2024",Second Race
+https://d2pjkbaqsv5h0j.cloudfront.net/out/v1/5ede83bd139e4956bc259095f70dcff9/index.mpd
+#EXTINF:-1 tvg-name="France vs Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101542" group-title="Volleyball Nations League Men's",France vs Brazil
+https://dai.google.com/linear/hls/event/S6fwhTruTs-O3qEojv0L_A/master.m3u8
