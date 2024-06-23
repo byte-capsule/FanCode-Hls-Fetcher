@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Prague Tigers vs Brno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103848" group-title="ECS Czechia, 2024",Prague Tigers vs Brno
 https://dai.google.com/linear/hls/event/xy3dRacDSpanOFRrZI54iw/master.m3u8
-#EXTINF:-1 tvg-name="Amasimbi Hawks vs Imena Herons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102998" group-title="Rwanda Women Elite League T20, 2024",Amasimbi Hawks vs Imena Herons
-https://dai.google.com/linear/hls/event/ZH5UrYgHQk65ptevGd8yuw/master.m3u8
+#EXTINF:-1 tvg-name="Ingenzi Heroes vs Ingabo Knights" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102999" group-title="Rwanda Women Elite League T20, 2024",Ingenzi Heroes vs Ingabo Knights
+https://dai.google.com/linear/hls/event/k_okcrr_R4CLkDIfJU408Q/master.m3u8
 #EXTINF:-1 tvg-name="Intersoft Titans vs Trident Stallions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103132" group-title="Sher-E-Punjab T20, 2024",Intersoft Titans vs Trident Stallions
 https://dai.google.com/linear/hls/event/JAcngYs0Siqhl8F3grGKaQ/master.m3u8
 #EXTINF:-1 tvg-name="Harbour Diamonds vs Rashmi Medinipur Wizards" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103426" group-title="Bengal Pro T20 League, 2024",Harbour Diamonds vs Rashmi Medinipur Wizards
