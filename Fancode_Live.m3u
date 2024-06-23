@@ -13,3 +13,5 @@ https://dai.google.com/linear/hls/event/yu68_otmTfCNQaP5bak9mg/master.m3u8
 https://d1woan35bulv15.cloudfront.net/out/v1/5be31aa7baf04e1e99e0795d9f580703/index.mpd
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103796" group-title="KLM Open",Day 4
 https://dai.google.com/linear/hls/event/Pt7rhvx5Rdu1ryjg_1LbDQ/master.m3u8
+#EXTINF:-1 tvg-name="Japan vs Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101398" group-title="Volleyball Nations League Women's",Japan vs Italy
+https://dai.google.com/linear/hls/event/y2tg5pYlSVWJccF6Azpopg/master.m3u8
