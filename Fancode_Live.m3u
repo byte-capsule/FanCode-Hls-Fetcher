@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Warriors vs Avengers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102602" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Warriors vs Avengers
 https://dai.google.com/linear/hls/event/uU-51pA8TuOZGVlB7GadyQ/master.m3u8
+#EXTINF:-1 tvg-name="Lux Shyam Kolkata Tigers Womens vs Murshidabad Kueens Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103462" group-title="Bengal Womens Pro T20 League, 2024",Lux Shyam Kolkata Tigers Womens vs Murshidabad Kueens Womens
+https://dai.google.com/linear/hls/event/EdJwNu-_T3OZbmzl08pO7g/master.m3u8
