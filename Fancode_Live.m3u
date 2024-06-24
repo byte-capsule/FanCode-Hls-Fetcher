@@ -1,5 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="UAE Kings XI vs Sharjah Cricket Academy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104155" group-title="Bukhatir 50 overs League, 2024",UAE Kings XI vs Sharjah Cricket Academy
+https://dai.google.com/linear/hls/event/ETldu4dNT02pBYJfo9RahA/master.m3u8
 #EXTINF:-1 tvg-name="Prague Tigers vs Praha Dominators" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103854" group-title="ECS Czechia, 2024",Prague Tigers vs Praha Dominators
 https://dai.google.com/linear/hls/event/tYw_DsfxTo25_Ne38hYIlA/master.m3u8
+#EXTINF:-1 tvg-name="Servotech Siliguri Strikers vs Sobisco Smashers Malda" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103429" group-title="Bengal Pro T20 League, 2024",Servotech Siliguri Strikers vs Sobisco Smashers Malda
+https://dai.google.com/linear/hls/event/YhPS4tsFRoueqYBCsvQ5iQ/master.m3u8
 #EXTINF:-1 tvg-name="Agri King's Knights vs Intersoft Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103134" group-title="Sher-E-Punjab T20, 2024",Agri King's Knights vs Intersoft Titans
 https://dai.google.com/linear/hls/event/4we9RCW-TDa-8BO_aZu52w/master.m3u8
