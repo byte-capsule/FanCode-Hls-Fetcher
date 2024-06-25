@@ -1,13 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Avengers vs Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102607" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Avengers vs Titans
+https://dai.google.com/linear/hls/event/A8_lR8xbSXOFnbM7l9Yb2Q/master.m3u8
 #EXTINF:-1 tvg-name="Adamas Howrah Warriors Womens vs Shrachi Rarh Tigers Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103465" group-title="Bengal Womens Pro T20 League, 2024",Adamas Howrah Warriors Womens vs Shrachi Rarh Tigers Womens
 https://dai.google.com/linear/hls/event/ThZmgquvQ3uZWatxX7pJmA/master.m3u8
-#EXTINF:-1 tvg-name="Prague Spartans vs Prague CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103856" group-title="ECS Czechia, 2024",Prague Spartans vs Prague CC
-https://dai.google.com/linear/hls/event/dtVtbR3nQPCsUL9hoHTHPg/master.m3u8
 #EXTINF:-1 tvg-name="Murshidabad Kings vs Shrachi Rarh Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103430" group-title="Bengal Pro T20 League, 2024",Murshidabad Kings vs Shrachi Rarh Tigers
 https://dai.google.com/linear/hls/event/GIx2yxWCQTmjht2LQchD0A/master.m3u8
-#EXTINF:-1 tvg-name="Andhra Pradesh vs Maharashtra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104055" group-title="U-18 Boys Junior National Rugby 7s",Andhra Pradesh vs Maharashtra
-https://dai.google.com/linear/hls/event/wgttl7k-ScqXxiUicBNjiQ/master.m3u8
-#EXTINF:-1 tvg-name="Manipur vs Delhi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104056" group-title="U-18 Boys Junior National Rugby 7s",Manipur vs Delhi
-https://dai.google.com/linear/hls/event/7yAKmEl6SISXsVT1IGJBCw/master.m3u8
 #EXTINF:-1 tvg-name="Uttar Pradesh vs Gujarat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104057" group-title="U-18 Boys Junior National Rugby 7s",Uttar Pradesh vs Gujarat
- Free Trial attempt unsuccessful......it requires Premium Account
+https://dai.google.com/linear/hls/event/bhjijTpdSBiK4wS9qGaQYg/master.m3u8
+#EXTINF:-1 tvg-name="Kerala vs Uttarakhand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104058" group-title="U-18 Boys Junior National Rugby 7s",Kerala vs Uttarakhand
+https://dai.google.com/linear/hls/event/uiI4pg9xTAS_Dyj4QSsOQw/master.m3u8
+#EXTINF:-1 tvg-name="Daman & Diu vs Andaman & Nicobar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104059" group-title="U-18 Boys Junior National Rugby 7s",Daman & Diu vs Andaman & Nicobar
+https://dai.google.com/linear/hls/event/RCPOYqXORU-x7Nk-av7d6Q/master.m3u8
