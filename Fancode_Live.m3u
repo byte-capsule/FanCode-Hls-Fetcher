@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Karnataka vs Goa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104030" group-title="U-18 Boys Junior National Rugby 7s",Karnataka vs Goa
+https://dai.google.com/linear/hls/event/1XBig77tQv6nGK0mxq3uYw/master.m3u8
+#EXTINF:-1 tvg-name="J&K vs Chhattisgarh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104031" group-title="U-18 Boys Junior National Rugby 7s",J&K vs Chhattisgarh
+https://dai.google.com/linear/hls/event/KIM94O3OTla2AaR5ZLsNGg/master.m3u8
