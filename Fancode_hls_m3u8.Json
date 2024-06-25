@@ -1,30 +1,41 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 2,
-  "updated_on": "25-06-2024 on 08:25:57 AM \ud83c\udf1e",
+  "channels_amount": 3,
+  "updated_on": "25-06-2024 on 08:47:51 AM \ud83c\udf1e",
   "channels": [
     {
-      "event_catagory": "rugby",
-      "event_name": "U-18 Boys Junior National Rugby 7s",
-      "match_id": 104033,
-      "match_name": "Punjab vs Madhya Pradesh",
-      "team_1": "Punjab",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-PUN@2x.png",
-      "team_2": "Madhya Pradesh",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-MP@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/NYb2okDcRYqJo9gp7JKQag/master.m3u8"
+      "event_catagory": "cricket",
+      "event_name": "Siechem Pondicherry Men's T10 Tournament 2024",
+      "match_id": 102605,
+      "match_name": "Patriots vs Eagles",
+      "team_1": "Patriots",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PATS@2x.png",
+      "team_2": "Eagles",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EAGLS@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/2yFdjfVMQi2PM3Jin7BP2g/master.m3u8"
     },
     {
       "event_catagory": "rugby",
       "event_name": "U-18 Boys Junior National Rugby 7s",
-      "match_id": 104034,
-      "match_name": "Haryana vs Himachal Pradesh",
-      "team_1": "Haryana",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-HAR@2x.png",
-      "team_2": "Himachal Pradesh",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-HIP@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/8ml05qSxSoecKRAg_RgeXg/master.m3u8"
+      "match_id": 104035,
+      "match_name": "Andhra Pradesh vs Chandigarh",
+      "team_1": "Andhra Pradesh",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-AP@2x.png",
+      "team_2": "Chandigarh",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-CHG@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/hFVEm-uIShC939RtLMOWYg/master.m3u8"
+    },
+    {
+      "event_catagory": "rugby",
+      "event_name": "U-18 Boys Junior National Rugby 7s",
+      "match_id": 104036,
+      "match_name": "Manipur vs Telangana",
+      "team_1": "Manipur",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-MANI@2x.png",
+      "team_2": "Telangana",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-TEL@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/_FH0Ngv_TYy0WbGUfk24vA/master.m3u8"
     }
   ]
 }

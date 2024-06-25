@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Punjab vs Madhya Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104033" group-title="U-18 Boys Junior National Rugby 7s",Punjab vs Madhya Pradesh
-https://dai.google.com/linear/hls/event/NYb2okDcRYqJo9gp7JKQag/master.m3u8
-#EXTINF:-1 tvg-name="Haryana vs Himachal Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104034" group-title="U-18 Boys Junior National Rugby 7s",Haryana vs Himachal Pradesh
-https://dai.google.com/linear/hls/event/8ml05qSxSoecKRAg_RgeXg/master.m3u8
+#EXTINF:-1 tvg-name="Patriots vs Eagles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102605" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Patriots vs Eagles
+https://dai.google.com/linear/hls/event/2yFdjfVMQi2PM3Jin7BP2g/master.m3u8
+#EXTINF:-1 tvg-name="Andhra Pradesh vs Chandigarh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104035" group-title="U-18 Boys Junior National Rugby 7s",Andhra Pradesh vs Chandigarh
+https://dai.google.com/linear/hls/event/hFVEm-uIShC939RtLMOWYg/master.m3u8
+#EXTINF:-1 tvg-name="Manipur vs Telangana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104036" group-title="U-18 Boys Junior National Rugby 7s",Manipur vs Telangana
+https://dai.google.com/linear/hls/event/_FH0Ngv_TYy0WbGUfk24vA/master.m3u8
