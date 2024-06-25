@@ -1,9 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Patriots vs Eagles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102605" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Patriots vs Eagles
 https://dai.google.com/linear/hls/event/2yFdjfVMQi2PM3Jin7BP2g/master.m3u8
-#EXTINF:-1 tvg-name="Manipur vs Telangana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104036" group-title="U-18 Boys Junior National Rugby 7s",Manipur vs Telangana
-https://dai.google.com/linear/hls/event/_FH0Ngv_TYy0WbGUfk24vA/master.m3u8
+#EXTINF:-1 tvg-name="Servotech Siliguri Strikers Womens vs Sobisco Smashers Malda Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103464" group-title="Bengal Womens Pro T20 League, 2024",Servotech Siliguri Strikers Womens vs Sobisco Smashers Malda Womens
+https://dai.google.com/linear/hls/event/wVkZCon7SPajqlUVnUvEIw/master.m3u8
 #EXTINF:-1 tvg-name="Uttar Pradesh vs Puducherry" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104037" group-title="U-18 Boys Junior National Rugby 7s",Uttar Pradesh vs Puducherry
 https://dai.google.com/linear/hls/event/RTjA7nUfTl2Kn-_ruXkYog/master.m3u8
 #EXTINF:-1 tvg-name="Kerala vs Daman & Diu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104038" group-title="U-18 Boys Junior National Rugby 7s",Kerala vs Daman & Diu
 https://dai.google.com/linear/hls/event/YBXMFEgfSb2REq07ygZGpQ/master.m3u8
+#EXTINF:-1 tvg-name="Uttarakhand vs Andaman & Nicobar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104039" group-title="U-18 Boys Junior National Rugby 7s",Uttarakhand vs Andaman & Nicobar
+https://dai.google.com/linear/hls/event/PB1EoVCBTcCjg2KCNJ0uHQ/master.m3u8
