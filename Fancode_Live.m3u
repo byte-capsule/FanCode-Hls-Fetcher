@@ -1,11 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Prague Barbarians vs Moravian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103858" group-title="ECS Czechia, 2024",Prague Barbarians vs Moravian
-https://dai.google.com/linear/hls/event/j2jd60miTvuJ5CIaI7ijag/master.m3u8
+#EXTINF:-1 tvg-name="Prague Barbarians vs United CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103859" group-title="ECS Czechia, 2024",Prague Barbarians vs United CC
+https://dai.google.com/linear/hls/event/Tl0h0eg1Qd-wBUH57g9sbQ/master.m3u8
 #EXTINF:-1 tvg-name="Trident Stallions vs Agri King's Knights" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103136" group-title="Sher-E-Punjab T20, 2024",Trident Stallions vs Agri King's Knights
 https://dai.google.com/linear/hls/event/n52gxzwgSGWEthLXjfICmw/master.m3u8
 #EXTINF:-1 tvg-name="Shenzhen Peng City vs Zhejiang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100230" group-title="Chinese Super League 2024",Shenzhen Peng City vs Zhejiang
 https://dai.fancode.com/primary/100230_english_hls_5520adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="West Bengal vs Karnataka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104068" group-title="U-18 Boys Junior National Rugby 7s",West Bengal vs Karnataka
-https://dai.google.com/linear/hls/event/OWJUOyH7RiCcxmwPvQ20jQ/master.m3u8
-#EXTINF:-1 tvg-name="Rajasthan vs Haryana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104069" group-title="U-18 Boys Junior National Rugby 7s",Rajasthan vs Haryana
-https://dai.google.com/linear/hls/event/HljSR7WlSqm7btQw3QMmpA/master.m3u8
+#EXTINF:-1 tvg-name="Delhi vs Uttar Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104070" group-title="U-18 Boys Junior National Rugby 7s",Delhi vs Uttar Pradesh
+https://dai.google.com/linear/hls/event/NxrdCIckSSyHpfrQdc2BLw/master.m3u8
+#EXTINF:-1 tvg-name="Bihar vs Manipur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104071" group-title="U-18 Boys Junior National Rugby 7s",Bihar vs Manipur
+https://dai.google.com/linear/hls/event/6nUWRMIMTD-SmIf80KpcVQ/master.m3u8
+#EXTINF:-1 tvg-name="Kerala vs Uttarakhand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104072" group-title="U-18 Boys Junior National Rugby 7s",Kerala vs Uttarakhand
+ Free Trial attempt unsuccessful......it requires Premium Account
