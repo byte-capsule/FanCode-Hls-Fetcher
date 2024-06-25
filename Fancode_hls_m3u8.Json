@@ -2,7 +2,7 @@
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "channels_amount": 5,
-  "updated_on": "25-06-2024 on 5:40:55 PM \ud83c\udf1e",
+  "updated_on": "25-06-2024 on 6:12:11 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -40,24 +40,24 @@
     {
       "event_catagory": "rugby",
       "event_name": "U-18 Boys Junior National Rugby 7s",
-      "match_id": 104066,
-      "match_name": "Jharkhand vs Gujarat",
-      "team_1": "Jharkhand",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-JHA@2x.png",
-      "team_2": "Gujarat",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-GUJ@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/eZX1CDr2RCW9apWeTSRgXQ/master.m3u8"
+      "match_id": 104068,
+      "match_name": "West Bengal vs Karnataka",
+      "team_1": "West Bengal",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-WB@2x.png",
+      "team_2": "Karnataka",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-KAR@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/OWJUOyH7RiCcxmwPvQ20jQ/master.m3u8"
     },
     {
       "event_catagory": "rugby",
       "event_name": "U-18 Boys Junior National Rugby 7s",
-      "match_id": 104067,
-      "match_name": "Maharashtra vs Chhattisgarh",
-      "team_1": "Maharashtra",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-MAH@2x.png",
-      "team_2": "Chhattisgarh",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-CHH@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/1LcOX8rpSjSrx9Dxk5kmFQ/master.m3u8"
+      "match_id": 104069,
+      "match_name": "Rajasthan vs Haryana",
+      "team_1": "Rajasthan",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-RAJ@2x.png",
+      "team_2": "Haryana",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-HAR@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/HljSR7WlSqm7btQw3QMmpA/master.m3u8"
     }
   ]
 }
