@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Kings vs Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102606" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Kings vs Warriors
 https://dai.google.com/linear/hls/event/ZYBE7VlLSVKLppNXOimAQg/master.m3u8
-#EXTINF:-1 tvg-name="Servotech Siliguri Strikers Womens vs Sobisco Smashers Malda Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103464" group-title="Bengal Womens Pro T20 League, 2024",Servotech Siliguri Strikers Womens vs Sobisco Smashers Malda Womens
-https://dai.google.com/linear/hls/event/wVkZCon7SPajqlUVnUvEIw/master.m3u8
 #EXTINF:-1 tvg-name="Prague Spartans vs Prague CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103856" group-title="ECS Czechia, 2024",Prague Spartans vs Prague CC
 https://dai.google.com/linear/hls/event/dtVtbR3nQPCsUL9hoHTHPg/master.m3u8
-#EXTINF:-1 tvg-name="Karnataka vs Bihar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104050" group-title="U-18 Boys Junior National Rugby 7s",Karnataka vs Bihar
-https://dai.google.com/linear/hls/event/0e7QCKzCSXeLCFBFkdSQhQ/master.m3u8
-#EXTINF:-1 tvg-name="J&K vs Rajasthan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104051" group-title="U-18 Boys Junior National Rugby 7s",J&K vs Rajasthan
-https://dai.google.com/linear/hls/event/shwNhzGMRoOAi0T4I5D6NQ/master.m3u8
-#EXTINF:-1 tvg-name="Tamil Nadu vs Odisha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104052" group-title="U-18 Boys Junior National Rugby 7s",Tamil Nadu vs Odisha
+#EXTINF:-1 tvg-name="Murshidabad Kings vs Shrachi Rarh Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103430" group-title="Bengal Pro T20 League, 2024",Murshidabad Kings vs Shrachi Rarh Tigers
+https://dai.google.com/linear/hls/event/GIx2yxWCQTmjht2LQchD0A/master.m3u8
+#EXTINF:-1 tvg-name="Punjab vs Jharkhand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104053" group-title="U-18 Boys Junior National Rugby 7s",Punjab vs Jharkhand
+https://dai.google.com/linear/hls/event/YARKiBtsSu2MtrpMbD4ksA/master.m3u8
+#EXTINF:-1 tvg-name="Haryana vs West Bengal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104054" group-title="U-18 Boys Junior National Rugby 7s",Haryana vs West Bengal
+https://dai.google.com/linear/hls/event/I1Q-l0PmToWY5hqeCc7Jew/master.m3u8
+#EXTINF:-1 tvg-name="Andhra Pradesh vs Maharashtra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104055" group-title="U-18 Boys Junior National Rugby 7s",Andhra Pradesh vs Maharashtra
  Free Trial attempt unsuccessful......it requires Premium Account
