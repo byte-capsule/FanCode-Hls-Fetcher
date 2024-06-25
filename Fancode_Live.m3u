@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Adamas Howrah Warriors Womens vs Shrachi Rarh Tigers Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103465" group-title="Bengal Womens Pro T20 League, 2024",Adamas Howrah Warriors Womens vs Shrachi Rarh Tigers Womens
 https://dai.google.com/linear/hls/event/ThZmgquvQ3uZWatxX7pJmA/master.m3u8
-#EXTINF:-1 tvg-name="Vinohrady vs United CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103857" group-title="ECS Czechia, 2024",Vinohrady vs United CC
-https://dai.google.com/linear/hls/event/o0Tm3F3GSfmX7t5WjAi9-A/master.m3u8
 #EXTINF:-1 tvg-name="Trident Stallions vs Agri King's Knights" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103136" group-title="Sher-E-Punjab T20, 2024",Trident Stallions vs Agri King's Knights
 https://dai.google.com/linear/hls/event/n52gxzwgSGWEthLXjfICmw/master.m3u8
 #EXTINF:-1 tvg-name="Murshidabad Kings vs Shrachi Rarh Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103430" group-title="Bengal Pro T20 League, 2024",Murshidabad Kings vs Shrachi Rarh Tigers
@@ -12,4 +10,4 @@ https://dai.google.com/linear/hls/event/kRvr3rAWRcqvMBoxqITQ-g/master.m3u8
 #EXTINF:-1 tvg-name="J&K vs Chandigarh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104063" group-title="U-18 Boys Junior National Rugby 7s",J&K vs Chandigarh
 https://dai.google.com/linear/hls/event/Kb-LhPcQS3Ka-2--xHyx4w/master.m3u8
 #EXTINF:-1 tvg-name="Andhra Pradesh vs Assam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104064" group-title="U-18 Boys Junior National Rugby 7s",Andhra Pradesh vs Assam
- Free Trial attempt unsuccessful......it requires Premium Account
+https://dai.google.com/linear/hls/event/gS_bGEKKTmq_7zYVcKZoqw/master.m3u8
