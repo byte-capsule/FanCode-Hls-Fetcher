@@ -1,13 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Adamas Howrah Warriors Womens vs Shrachi Rarh Tigers Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103465" group-title="Bengal Womens Pro T20 League, 2024",Adamas Howrah Warriors Womens vs Shrachi Rarh Tigers Womens
 https://dai.google.com/linear/hls/event/ThZmgquvQ3uZWatxX7pJmA/master.m3u8
+#EXTINF:-1 tvg-name="Prague Barbarians vs Moravian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103858" group-title="ECS Czechia, 2024",Prague Barbarians vs Moravian
+https://dai.google.com/linear/hls/event/j2jd60miTvuJ5CIaI7ijag/master.m3u8
 #EXTINF:-1 tvg-name="Trident Stallions vs Agri King's Knights" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103136" group-title="Sher-E-Punjab T20, 2024",Trident Stallions vs Agri King's Knights
 https://dai.google.com/linear/hls/event/n52gxzwgSGWEthLXjfICmw/master.m3u8
 #EXTINF:-1 tvg-name="Murshidabad Kings vs Shrachi Rarh Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103430" group-title="Bengal Pro T20 League, 2024",Murshidabad Kings vs Shrachi Rarh Tigers
 https://dai.google.com/linear/hls/event/GIx2yxWCQTmjht2LQchD0A/master.m3u8
-#EXTINF:-1 tvg-name="Tamil Nadu vs Andaman & Nicobar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104062" group-title="U-18 Boys Junior National Rugby 7s",Tamil Nadu vs Andaman & Nicobar
-https://dai.google.com/linear/hls/event/kRvr3rAWRcqvMBoxqITQ-g/master.m3u8
 #EXTINF:-1 tvg-name="J&K vs Chandigarh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104063" group-title="U-18 Boys Junior National Rugby 7s",J&K vs Chandigarh
 https://dai.google.com/linear/hls/event/Kb-LhPcQS3Ka-2--xHyx4w/master.m3u8
 #EXTINF:-1 tvg-name="Andhra Pradesh vs Assam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104064" group-title="U-18 Boys Junior National Rugby 7s",Andhra Pradesh vs Assam
 https://dai.google.com/linear/hls/event/gS_bGEKKTmq_7zYVcKZoqw/master.m3u8
+#EXTINF:-1 tvg-name="Daman & Diu vs Telangana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104065" group-title="U-18 Boys Junior National Rugby 7s",Daman & Diu vs Telangana
+ Free Trial attempt unsuccessful......it requires Premium Account
