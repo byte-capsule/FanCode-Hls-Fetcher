@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Lux Shyam Kolkata Tigers vs Sobisco Smashers Malda" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103431" group-title="Bengal Pro T20 League, 2024",Lux Shyam Kolkata Tigers vs Sobisco Smashers Malda
-https://dai.google.com/linear/hls/event/DSx0UmEjQG2C8d6ZCH72FA/master.m3u8
+#EXTINF:-1 tvg-name="Prague CC vs Moravian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103863" group-title="ECS Czechia, 2024",Prague CC vs Moravian
+https://dai.google.com/linear/hls/event/zkXq4HdWS2G4JGDb1pfiug/master.m3u8
 #EXTINF:-1 tvg-name="Nagoya Grampus vs Urawa Red Diamonds" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102423" group-title="J League 2024",Nagoya Grampus vs Urawa Red Diamonds
 https://dai.fancode.com/primary/102423_english_hls_8538adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="FC Tokyo vs Consadole Sapporo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102422" group-title="J League 2024",FC Tokyo vs Consadole Sapporo
@@ -9,9 +9,9 @@ https://dai.fancode.com/primary/102422_english_hls_2378adfreeta-di/index.m3u8
 https://dai.fancode.com/primary/102425_english_hls_7708adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Vissel Kobe vs Machida Zelvia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102424" group-title="J League 2024",Vissel Kobe vs Machida Zelvia
 https://dai.fancode.com/primary/102424_english_hls_3096adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Chhattisgarh vs Uttar Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104103" group-title="U-18 Boys Junior National Rugby 7s",Chhattisgarh vs Uttar Pradesh
-https://dai.google.com/linear/hls/event/EdnD-mDoQ4GvUWlXd-xFiA/master.m3u8
-#EXTINF:-1 tvg-name="TBC vs TBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104104" group-title="U-18 Boys Junior National Rugby 7s",TBC vs TBC
-https://dai.google.com/linear/hls/event/D7XB-iZ-RvuyoE9WtzK7nA/master.m3u8
-#EXTINF:-1 tvg-name="TBC vs TBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104105" group-title="U-18 Boys Junior National Rugby 7s",TBC vs TBC
+#EXTINF:-1 tvg-name="Gujarat vs Punjab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104105" group-title="U-18 Boys Junior National Rugby 7s",Gujarat vs Punjab
 https://dai.google.com/linear/hls/event/nIwvLiiySA6XfJ75AouBdA/master.m3u8
+#EXTINF:-1 tvg-name="West Bengal vs Delhi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104106" group-title="U-18 Boys Junior National Rugby 7s",West Bengal vs Delhi
+https://dai.google.com/linear/hls/event/n7KYSiqHQpO6soIssIfcyA/master.m3u8
+#EXTINF:-1 tvg-name="Jharkhand vs Kerala" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104107" group-title="U-18 Boys Junior National Rugby 7s",Jharkhand vs Kerala
+ Free Trial attempt unsuccessful......it requires Premium Account
