@@ -1,11 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Prague CC vs Moravian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103863" group-title="ECS Czechia, 2024",Prague CC vs Moravian
-https://dai.google.com/linear/hls/event/zkXq4HdWS2G4JGDb1pfiug/master.m3u8
+#EXTINF:-1 tvg-name="Prague CC vs Ostrava" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103864" group-title="ECS Czechia, 2024",Prague CC vs Ostrava
+https://dai.google.com/linear/hls/event/rqEbFHtJRSSYXa5TwFB3Ig/master.m3u8
 #EXTINF:-1 tvg-name="New Zealand Women vs England Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96346" group-title="New Zealand Women tour of England, 2024",New Zealand Women vs England Women
 https://pubads.g.doubleclick.net/ssai/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
 #EXTINF:-1 tvg-name="Beijing Guoan vs Cangzhou Mighty Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100231" group-title="Chinese Super League 2024",Beijing Guoan vs Cangzhou Mighty Lions
 https://dai.fancode.com/primary/100231_english_hls_4830adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Maharashtra vs Bihar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104095" group-title="U-18 Boys Junior National Rugby 7s",Maharashtra vs Bihar
-https://dai.google.com/linear/hls/event/ZwiH-u0FQ4GgnRVvbtnEqQ/master.m3u8
 #EXTINF:-1 tvg-name="Rajasthan vs Odisha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104096" group-title="U-18 Boys Junior National Rugby 7s",Rajasthan vs Odisha
 https://dai.google.com/linear/hls/event/3AV8vhPCS0iBBfIC9CUSiA/master.m3u8
