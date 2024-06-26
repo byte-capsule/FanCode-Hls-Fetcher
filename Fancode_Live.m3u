@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Andhra Pradesh vs Daman & Diu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104075" group-title="U-18 Boys Junior National Rugby 7s",Andhra Pradesh vs Daman & Diu
+https://dai.google.com/linear/hls/event/KcOhMmvuT4a4L7d8PWGdzA/master.m3u8
+#EXTINF:-1 tvg-name="Jharkhand vs Maharashtra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104076" group-title="U-18 Boys Junior National Rugby 7s",Jharkhand vs Maharashtra
+https://dai.google.com/linear/hls/event/qEanC8gqQ72pSQoaXDI39g/master.m3u8
