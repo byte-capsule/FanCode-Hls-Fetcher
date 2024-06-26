@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Patriots vs Avengers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102610" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Patriots vs Avengers
 https://dai.google.com/linear/hls/event/srwk1ojVSEGUqeNI1vC1Mg/master.m3u8
-#EXTINF:-1 tvg-name="Prague Tigers vs Moravian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103861" group-title="ECS Czechia, 2024",Prague Tigers vs Moravian
-https://dai.google.com/linear/hls/event/mpmrbTAQRz2IKpSvvOIXMQ/master.m3u8
 #EXTINF:-1 tvg-name="Lux Shyam Kolkata Tigers vs Sobisco Smashers Malda" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103431" group-title="Bengal Pro T20 League, 2024",Lux Shyam Kolkata Tigers vs Sobisco Smashers Malda
 https://dai.google.com/linear/hls/event/DSx0UmEjQG2C8d6ZCH72FA/master.m3u8
 #EXTINF:-1 tvg-name="Gujarat vs Karnataka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104094" group-title="U-18 Boys Junior National Rugby 7s",Gujarat vs Karnataka
 https://dai.google.com/linear/hls/event/oTfugiT8TuKD3NHJMreoJQ/master.m3u8
 #EXTINF:-1 tvg-name="Manipur vs Punjab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104097" group-title="U-18 Boys Junior National Rugby 7s",Manipur vs Punjab
 https://dai.google.com/linear/hls/event/zTzFTYNySHa_xQSxXwoIeQ/master.m3u8
+#EXTINF:-1 tvg-name="Maharashtra vs Rajasthan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104098" group-title="U-18 Boys Junior National Rugby 7s",Maharashtra vs Rajasthan
+https://dai.google.com/linear/hls/event/pi2F3EE6QC2S_vIKMI9zuQ/master.m3u8
