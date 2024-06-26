@@ -1,17 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Prague CC vs Moravian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103863" group-title="ECS Czechia, 2024",Prague CC vs Moravian
 https://dai.google.com/linear/hls/event/zkXq4HdWS2G4JGDb1pfiug/master.m3u8
-#EXTINF:-1 tvg-name="Nagoya Grampus vs Urawa Red Diamonds" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102423" group-title="J League 2024",Nagoya Grampus vs Urawa Red Diamonds
-https://dai.fancode.com/primary/102423_english_hls_8538adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="FC Tokyo vs Consadole Sapporo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102422" group-title="J League 2024",FC Tokyo vs Consadole Sapporo
-https://dai.fancode.com/primary/102422_english_hls_2378adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Avispa Fukuoka vs Yokohama F. Marinos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102425" group-title="J League 2024",Avispa Fukuoka vs Yokohama F. Marinos
-https://dai.fancode.com/primary/102425_english_hls_7708adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Vissel Kobe vs Machida Zelvia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102424" group-title="J League 2024",Vissel Kobe vs Machida Zelvia
-https://dai.fancode.com/primary/102424_english_hls_3096adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="West Bengal vs Delhi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104106" group-title="U-18 Boys Junior National Rugby 7s",West Bengal vs Delhi
-https://dai.google.com/linear/hls/event/n7KYSiqHQpO6soIssIfcyA/master.m3u8
-#EXTINF:-1 tvg-name="Jharkhand vs Kerala" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104107" group-title="U-18 Boys Junior National Rugby 7s",Jharkhand vs Kerala
-https://dai.google.com/linear/hls/event/wZNEeoNjQsWM_u4p6t_PPg/master.m3u8
+#EXTINF:-1 tvg-name="New Zealand Women vs England Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96346" group-title="New Zealand Women tour of England, 2024",New Zealand Women vs England Women
+https://pubads.g.doubleclick.net/ssai/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
+#EXTINF:-1 tvg-name="Beijing Guoan vs Cangzhou Mighty Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100231" group-title="Chinese Super League 2024",Beijing Guoan vs Cangzhou Mighty Lions
+https://dai.fancode.com/primary/100231_english_hls_4830adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Maharashtra vs Bihar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104095" group-title="U-18 Boys Junior National Rugby 7s",Maharashtra vs Bihar
- Free Trial attempt unsuccessful......it requires Premium Account
+https://dai.google.com/linear/hls/event/ZwiH-u0FQ4GgnRVvbtnEqQ/master.m3u8
+#EXTINF:-1 tvg-name="Rajasthan vs Odisha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104096" group-title="U-18 Boys Junior National Rugby 7s",Rajasthan vs Odisha
+https://dai.google.com/linear/hls/event/3AV8vhPCS0iBBfIC9CUSiA/master.m3u8
