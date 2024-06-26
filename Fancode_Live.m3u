@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Uttar Pradesh vs Manipur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104084" group-title="U-18 Boys Junior National Rugby 7s",Uttar Pradesh vs Manipur
-https://dai.google.com/linear/hls/event/_IyHzEs0Qw-xFVtNgpl5vg/master.m3u8
-#EXTINF:-1 tvg-name="Uttarakhand vs Punjab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104085" group-title="U-18 Boys Junior National Rugby 7s",Uttarakhand vs Punjab
-https://dai.google.com/linear/hls/event/RMu05njsS_uSFfYtWK-ikg/master.m3u8
 #EXTINF:-1 tvg-name="Himachal Pradesh vs Puducherry" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104086" group-title="U-18 Boys Junior National Rugby 7s",Himachal Pradesh vs Puducherry
 https://dai.google.com/linear/hls/event/TDFCRuNQQyWBWM3iwPSp4g/master.m3u8
+#EXTINF:-1 tvg-name="Uttarakhand vs Punjab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104085" group-title="U-18 Boys Junior National Rugby 7s",Uttarakhand vs Punjab
+https://dai.google.com/linear/hls/event/RMu05njsS_uSFfYtWK-ikg/master.m3u8
+#EXTINF:-1 tvg-name="Goa vs Madhya Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104087" group-title="U-18 Boys Junior National Rugby 7s",Goa vs Madhya Pradesh
+https://dai.google.com/linear/hls/event/aB0J12XLQZypZY52KL2rRQ/master.m3u8
