@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Andhra Pradesh vs Daman & Diu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104075" group-title="U-18 Boys Junior National Rugby 7s",Andhra Pradesh vs Daman & Diu
-https://dai.google.com/linear/hls/event/KcOhMmvuT4a4L7d8PWGdzA/master.m3u8
+#EXTINF:-1 tvg-name="Smashers vs Royals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102608" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Smashers vs Royals
+https://dai.google.com/linear/hls/event/TusdQIS5Tq6Oz7Wn9ZRENQ/master.m3u8
 #EXTINF:-1 tvg-name="Jharkhand vs Maharashtra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104076" group-title="U-18 Boys Junior National Rugby 7s",Jharkhand vs Maharashtra
 https://dai.google.com/linear/hls/event/qEanC8gqQ72pSQoaXDI39g/master.m3u8
+#EXTINF:-1 tvg-name="West Bengal vs Rajasthan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104077" group-title="U-18 Boys Junior National Rugby 7s",West Bengal vs Rajasthan
+https://dai.google.com/linear/hls/event/7Sn2eJUqTlWmoSkD01RJ3A/master.m3u8
+#EXTINF:-1 tvg-name="Delhi vs Bihar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104078" group-title="U-18 Boys Junior National Rugby 7s",Delhi vs Bihar
+https://dai.google.com/linear/hls/event/32FtS4MQTmS8Y3LtD0PPEQ/master.m3u8
