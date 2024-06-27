@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Lux Shyam Kolkata Tigers Womens vs Shrachi Rarh Tigers Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103467" group-title="Bengal Womens Pro T20 League, 2024",Lux Shyam Kolkata Tigers Womens vs Shrachi Rarh Tigers Womens
 https://dai.google.com/linear/hls/event/ruHbE5YRTTe3K-rRN2f1OQ/master.m3u8
+#EXTINF:-1 tvg-name="Ostrava vs Prague Spartans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103868" group-title="ECS Czechia, 2024",Ostrava vs Prague Spartans
+https://dai.google.com/linear/hls/event/FgMojEKSS9OXUu2RstZtgQ/master.m3u8
+#EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103888" group-title="Italian Open",Day 1
+https://dai.google.com/linear/hls/event/8OGQUBbFQZmc2IlijILWBw/master.m3u8
