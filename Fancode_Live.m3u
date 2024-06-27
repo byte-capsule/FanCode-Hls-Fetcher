@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Ostrava vs Prague Spartans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103868" group-title="ECS Czechia, 2024",Ostrava vs Prague Spartans
-https://dai.google.com/linear/hls/event/FgMojEKSS9OXUu2RstZtgQ/master.m3u8
+#EXTINF:-1 tvg-name="Bohemians vs United CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103869" group-title="ECS Czechia, 2024",Bohemians vs United CC
+https://dai.google.com/linear/hls/event/-Rnh41y7TdiaHpqiHICD_A/master.m3u8
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103888" group-title="Italian Open",Day 1
 https://dai.google.com/linear/hls/event/8OGQUBbFQZmc2IlijILWBw/master.m3u8
