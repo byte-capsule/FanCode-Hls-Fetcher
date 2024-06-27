@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Seven Districts Hybrid vs UAE Kings XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104158" group-title="Bukhatir 50 overs League, 2024",Seven Districts Hybrid vs UAE Kings XI
+https://dai.google.com/linear/hls/event/y0UnIjqwRCCgBSb34W-peg/master.m3u8
 #EXTINF:-1 tvg-name="Bohemians vs United CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103869" group-title="ECS Czechia, 2024",Bohemians vs United CC
 https://dai.google.com/linear/hls/event/-Rnh41y7TdiaHpqiHICD_A/master.m3u8
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103888" group-title="Italian Open",Day 1
