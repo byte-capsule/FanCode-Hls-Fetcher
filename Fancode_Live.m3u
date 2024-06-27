@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Kings vs Avengers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102613" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Kings vs Avengers
-https://dai.google.com/linear/hls/event/KbWvKUuIQkyd28G23vSDqg/master.m3u8
 #EXTINF:-1 tvg-name="Lux Shyam Kolkata Tigers Womens vs Shrachi Rarh Tigers Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103467" group-title="Bengal Womens Pro T20 League, 2024",Lux Shyam Kolkata Tigers Womens vs Shrachi Rarh Tigers Womens
 https://dai.google.com/linear/hls/event/ruHbE5YRTTe3K-rRN2f1OQ/master.m3u8
-#EXTINF:-1 tvg-name="Praha Dominators vs United CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103867" group-title="ECS Czechia, 2024",Praha Dominators vs United CC
-https://dai.google.com/linear/hls/event/4vusrMOSQtaLfkXOjZDDdA/master.m3u8
