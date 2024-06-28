@@ -5,8 +5,6 @@ https://dai.google.com/linear/hls/event/Ta4a6IHuTQ6POuUjlR-iQg/master.m3u8
 https://dai.google.com/linear/hls/event/hG_JzPsQSKqQA5VTUAAh8A/master.m3u8
 #EXTINF:-1 tvg-name="Bohemians vs Prague CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103874" group-title="ECS Czechia, 2024",Bohemians vs Prague CC
 https://dai.google.com/linear/hls/event/GxljHRNNTve1jiCrpxihdw/master.m3u8
-#EXTINF:-1 tvg-name="Malawi vs Rwanda" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103969" group-title="Kenya Quadrangular Cup, 2024",Malawi vs Rwanda
-https://dai.google.com/linear/hls/event/KBBzw302QqahmV8_JslR5Q/master.m3u8
 #EXTINF:-1 tvg-name="Sobisco Smashers Malda vs Murshidabad Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103433" group-title="Bengal Pro T20 League, 2024",Sobisco Smashers Malda vs Murshidabad Kings
 https://dai.google.com/linear/hls/event/Q14-GTF2TsCC6iaoGwFjHg/master.m3u8
 #EXTINF:-1 tvg-name="Sprint Qualifying" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95178" group-title="F1 QATAR AIRWAYS AUSTRIAN GRAND PRIX 2024",Sprint Qualifying
@@ -15,3 +13,5 @@ https://dsizp4cowdagu.cloudfront.net/out/v1/126262538c8644da952ca7fb5f830ba3/ind
 https://dai.google.com/linear/hls/event/GYCC8luCTm20hE4AnQhB7Q/master.m3u8
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103897" group-title="VP Bank Swiss Ladies Open",Day 1
 https://dai.google.com/linear/hls/event/RSmSwcYyRr2VmAUo0FkmBg/master.m3u8
+#EXTINF:-1 tvg-name="Italy vs France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101549" group-title="Volleyball Nations League Men's",Italy vs France
+https://dai.google.com/linear/hls/event/z7TrEDVUS82xDphG2KnKjw/master.m3u8
