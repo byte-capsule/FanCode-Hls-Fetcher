@@ -3,7 +3,7 @@
 https://dai.google.com/linear/hls/event/LF-NJnF-QwWrKXT4ZRnsXw/master.m3u8
 #EXTINF:-1 tvg-name="Malawi vs Rwanda" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103969" group-title="Kenya Quadrangular Cup, 2024",Malawi vs Rwanda
 https://dai.google.com/linear/hls/event/KBBzw302QqahmV8_JslR5Q/master.m3u8
-#EXTINF:-1 tvg-name="Lux Shyam Kolkata Tigers Womens vs Murshidabad Kueens Womens" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103468" group-title="Bengal Womens Pro T20 League, 2024",Lux Shyam Kolkata Tigers Womens vs Murshidabad Kueens Womens
-https://dai.google.com/linear/hls/event/ZBYHhBX8SB6-wiufMGC3kA/master.m3u8
+#EXTINF:-1 tvg-name="Qualifying" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95396" group-title="F3 AUSTRIA 2024",Qualifying
+https://d3ca3uckd95sbx.cloudfront.net/out/v1/7b018a1583c94cf182fe87d8095f5736/index.mpd
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103889" group-title="Italian Open",Day 2
 https://dai.google.com/linear/hls/event/GYCC8luCTm20hE4AnQhB7Q/master.m3u8
