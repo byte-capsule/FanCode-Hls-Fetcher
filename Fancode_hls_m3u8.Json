@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 2,
-  "updated_on": "28-06-2024 on 0:42:59 PM \ud83c\udf1e",
+  "channels_amount": 4,
+  "updated_on": "28-06-2024 on 1:06:57 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -25,6 +25,28 @@
       "team_2": "Zambia",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZAM@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/0k2DmyxPSXinrBY9V8a_ZA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ECS Czechia, 2024",
+      "match_id": 103871,
+      "match_name": "Prague Tigers vs United CC",
+      "team_1": "Prague Tigers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PRT@2x.png",
+      "team_2": "United CC",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UNC@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/qbj2WSB-TIuKUpOgXguFVg/master.m3u8"
+    },
+    {
+      "event_catagory": "racing",
+      "event_name": "F3 AUSTRIA 2024",
+      "match_id": 95395,
+      "match_name": "Practice",
+      "team_1": "Practice",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png",
+      "team_2": "Spielberg",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+      "stream_link": "https://d38jtokuygrtho.cloudfront.net/out/v1/6919c4173b654b4db88caabd793367c7/index.mpd"
     }
   ]
 }
