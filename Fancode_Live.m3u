@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Smart Cube Kings 11 vs Dubai Thunders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102412" group-title="ICCA Arabian T10, 2024",Smart Cube Kings 11 vs Dubai Thunders
+https://dai.google.com/linear/hls/event/Ta4a6IHuTQ6POuUjlR-iQg/master.m3u8
 #EXTINF:-1 tvg-name="The Vision Shipping vs Golden Sapero Technical Service" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104159" group-title="Bukhatir 50 overs League, 2024",The Vision Shipping vs Golden Sapero Technical Service
 https://dai.google.com/linear/hls/event/hG_JzPsQSKqQA5VTUAAh8A/master.m3u8
 #EXTINF:-1 tvg-name="Bohemians vs Prague CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103874" group-title="ECS Czechia, 2024",Bohemians vs Prague CC
