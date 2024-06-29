@@ -1,11 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="DCC Starlets vs Spades Real Estate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102415" group-title="ICCA Arabian T10, 2024",DCC Starlets vs Spades Real Estate
 https://dai.google.com/linear/hls/event/3f4vGKvtSB6DTq6T2D1VQg/master.m3u8
+#EXTINF:-1 tvg-name="Seven Districts Hybrid vs Sharjah Cricket Academy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104160" group-title="Bukhatir 50 overs League, 2024",Seven Districts Hybrid vs Sharjah Cricket Academy
+https://dai.google.com/linear/hls/event/kc4dIOs_S-Wl3euPsVwMZg/master.m3u8
 #EXTINF:-1 tvg-name="Rwanda vs Kenya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103971" group-title="Kenya Quadrangular Cup, 2024",Rwanda vs Kenya
 https://dai.google.com/linear/hls/event/g5I3DluoQZakcHmMAzytNw/master.m3u8
+#EXTINF:-1 tvg-name="Czechia vs Greece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104592" group-title="ECI Czechia-Greece, 2024",Czechia vs Greece
+https://dai.google.com/linear/hls/event/IGw7-xtURXOR7xWzaHu4Mw/master.m3u8
 #EXTINF:-1 tvg-name="Shanghai Port vs Zhejiang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100232" group-title="Chinese Super League 2024",Shanghai Port vs Zhejiang
 https://dai.fancode.com/primary/100232_english_hls_6479adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Porsche Mobil 1 Supercup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103587" group-title="Porsche Mobil 1 Supercup",Porsche Mobil 1 Supercup
+https://d34cgg93ehmfko.cloudfront.net/out/v1/f5d09bf13d614c53a8acc27d01717e59/index.mpd
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103890" group-title="Italian Open",Day 3
 https://dai.google.com/linear/hls/event/HHgpdWvVQPKCx-USLvbwlw/master.m3u8
-#EXTINF:-1 tvg-name="Kerala vs Gujarat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104689" group-title="Senior National Rugby 7s Men's",Kerala vs Gujarat
-https://dai.google.com/linear/hls/event/8fSztVgyTsORSuRLw4-koQ/master.m3u8
+#EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103898" group-title="VP Bank Swiss Ladies Open",Day 2
+https://dai.google.com/linear/hls/event/3Go7Ezs1SLmTwQNt2aJCNg/master.m3u8
