@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Patriots vs Smashers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102618" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Patriots vs Smashers
+https://dai.google.com/linear/hls/event/sX46Lqx7TN6Zkb1ENHEldA/master.m3u8
 #EXTINF:-1 tvg-name="Chiba Sharks vs Tokyo Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101865" group-title="JCL T20, 2024",Chiba Sharks vs Tokyo Titans
 https://dai.google.com/linear/hls/event/gn30_bP5TdmcMDLo3gARhg/master.m3u8
 #EXTINF:-1 tvg-name="Selangor vs Negeri Sembilan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103567" group-title="MCA Men's 50 Overs Inter-State Championship, 2024",Selangor vs Negeri Sembilan
@@ -9,7 +11,7 @@ https://dai.google.com/linear/hls/event/1Jl3Mt7-QcawFT2NECwWhQ/master.m3u8
 https://dai.google.com/linear/hls/event/0s4MHxvEQ5KgrUynluIEtg/master.m3u8
 #EXTINF:-1 tvg-name="Consadole Sapporo vs Albirex Niigata" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102426" group-title="J League 2024",Consadole Sapporo vs Albirex Niigata
 https://dai.fancode.com/primary/102426_english_hls_9912adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Delhi vs Himachal Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104638" group-title="Senior National Rugby 7s Men's",Delhi vs Himachal Pradesh
-https://dai.google.com/linear/hls/event/q9pNLvIWStyFpFcTz4cNXA/master.m3u8
-#EXTINF:-1 tvg-name="Karnataka vs Daman & Diu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104639" group-title="Senior National Rugby 7s Men's",Karnataka vs Daman & Diu
-https://dai.google.com/linear/hls/event/OLr3m4NERzO-tVgZvmpZTA/master.m3u8
+#EXTINF:-1 tvg-name="Manipur vs Haryana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104640" group-title="Senior National Rugby 7s Men's",Manipur vs Haryana
+https://dai.google.com/linear/hls/event/GHNj04UES2-ska3xeRaQHg/master.m3u8
+#EXTINF:-1 tvg-name="Assam vs West Bengal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104641" group-title="Senior National Rugby 7s Men's",Assam vs West Bengal
+https://dai.google.com/linear/hls/event/inuYFxTrQteoGy-HO0tYhA/master.m3u8
