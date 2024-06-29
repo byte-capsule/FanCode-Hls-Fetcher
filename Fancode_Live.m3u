@@ -9,9 +9,7 @@ https://dai.google.com/linear/hls/event/0s4MHxvEQ5KgrUynluIEtg/master.m3u8
 https://dai.google.com/linear/hls/event/gn30_bP5TdmcMDLo3gARhg/master.m3u8
 #EXTINF:-1 tvg-name="Consadole Sapporo vs Albirex Niigata" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102426" group-title="J League 2024",Consadole Sapporo vs Albirex Niigata
 https://dai.fancode.com/primary/102426_english_hls_9912adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="J&K vs Uttar Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104627" group-title="Senior Men's Junior National Rugby 7s",J&K vs Uttar Pradesh
-https://dai.google.com/linear/hls/event/Hz2wJB9wQZuzaL4LO8zlaw/master.m3u8
-#EXTINF:-1 tvg-name="Punjab vs Madhya Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104637" group-title="Senior Men's Junior National Rugby 7s",Punjab vs Madhya Pradesh
-https://dai.google.com/linear/hls/event/pa413rr9TqOybVMlebxTxQ/master.m3u8
 #EXTINF:-1 tvg-name="Delhi vs Himachal Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104638" group-title="Senior Men's Junior National Rugby 7s",Delhi vs Himachal Pradesh
 https://dai.google.com/linear/hls/event/q9pNLvIWStyFpFcTz4cNXA/master.m3u8
+#EXTINF:-1 tvg-name="Karnataka vs Daman & Diu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104639" group-title="Senior Men's Junior National Rugby 7s",Karnataka vs Daman & Diu
+https://dai.google.com/linear/hls/event/OLr3m4NERzO-tVgZvmpZTA/master.m3u8
