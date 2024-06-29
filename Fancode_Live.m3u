@@ -1,15 +1,15 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Chiba Sharks vs Tokyo Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101865" group-title="JCL T20, 2024",Chiba Sharks vs Tokyo Titans
+https://dai.google.com/linear/hls/event/gn30_bP5TdmcMDLo3gARhg/master.m3u8
 #EXTINF:-1 tvg-name="Selangor vs Negeri Sembilan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103567" group-title="MCA Men's 50 Overs Inter-State Championship, 2024",Selangor vs Negeri Sembilan
 https://dai.google.com/linear/hls/event/4NWfWO5iSb-AzSVfr-s-wg/master.m3u8
 #EXTINF:-1 tvg-name="Johor vs Kuala Lumpur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103566" group-title="MCA Men's 50 Overs Inter-State Championship, 2024",Johor vs Kuala Lumpur
 https://dai.google.com/linear/hls/event/1Jl3Mt7-QcawFT2NECwWhQ/master.m3u8
 #EXTINF:-1 tvg-name="Perak vs Kelantan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103565" group-title="MCA Men's 50 Overs Inter-State Championship, 2024",Perak vs Kelantan
 https://dai.google.com/linear/hls/event/0s4MHxvEQ5KgrUynluIEtg/master.m3u8
-#EXTINF:-1 tvg-name="Chiba Sharks vs Tokyo Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101865" group-title="JCL T20, 2024",Chiba Sharks vs Tokyo Titans
-https://dai.google.com/linear/hls/event/gn30_bP5TdmcMDLo3gARhg/master.m3u8
 #EXTINF:-1 tvg-name="Consadole Sapporo vs Albirex Niigata" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102426" group-title="J League 2024",Consadole Sapporo vs Albirex Niigata
 https://dai.fancode.com/primary/102426_english_hls_9912adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Delhi vs Himachal Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104638" group-title="Senior Men's Junior National Rugby 7s",Delhi vs Himachal Pradesh
+#EXTINF:-1 tvg-name="Delhi vs Himachal Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104638" group-title="Senior National Rugby 7s Men's",Delhi vs Himachal Pradesh
 https://dai.google.com/linear/hls/event/q9pNLvIWStyFpFcTz4cNXA/master.m3u8
-#EXTINF:-1 tvg-name="Karnataka vs Daman & Diu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104639" group-title="Senior Men's Junior National Rugby 7s",Karnataka vs Daman & Diu
+#EXTINF:-1 tvg-name="Karnataka vs Daman & Diu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104639" group-title="Senior National Rugby 7s Men's",Karnataka vs Daman & Diu
 https://dai.google.com/linear/hls/event/OLr3m4NERzO-tVgZvmpZTA/master.m3u8
