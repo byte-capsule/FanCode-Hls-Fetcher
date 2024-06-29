@@ -9,7 +9,9 @@ https://dai.google.com/linear/hls/event/4NWfWO5iSb-AzSVfr-s-wg/master.m3u8
 https://dai.google.com/linear/hls/event/o4goO2oMRKW4Za5nmss2Yg/master.m3u8
 #EXTINF:-1 tvg-name="Greece Women vs Czechia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104571" group-title="ECI-W Czechia-Greece, 2024",Greece Women vs Czechia Women
 https://dai.google.com/linear/hls/event/UmOpTdMaS26n43e7Nq0gTg/master.m3u8
-#EXTINF:-1 tvg-name="Gujarat vs Kerala" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104644" group-title="Senior National Rugby 7s Men's",Gujarat vs Kerala
-https://dai.google.com/linear/hls/event/z8jI_5GeQLeJOl77nW827Q/master.m3u8
+#EXTINF:-1 tvg-name="Sprint Race" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95397" group-title="F3 AUSTRIA 2024",Sprint Race
+https://d1fh5tbuojjpaw.cloudfront.net/out/v1/4b25d682c95b476eb926f69bdb608a08/index.mpd
 #EXTINF:-1 tvg-name="J&K vs Bihar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104645" group-title="Senior National Rugby 7s Men's",J&K vs Bihar
 https://dai.google.com/linear/hls/event/O5vkTLmfR92BqXGuVZUM4A/master.m3u8
+#EXTINF:-1 tvg-name="Tamil Nadu vs Punjab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104646" group-title="Senior National Rugby 7s Men's",Tamil Nadu vs Punjab
+https://dai.google.com/linear/hls/event/NK880vgDS2W6Pl82fozciQ/master.m3u8
