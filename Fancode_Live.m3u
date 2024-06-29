@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Brickwork Development vs Seven Districts Hybrid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102416" group-title="ICCA Arabian T10, 2024",Brickwork Development vs Seven Districts Hybrid
+https://dai.google.com/linear/hls/event/Z7PSIpWuRhOKmL31iDkYfw/master.m3u8
 #EXTINF:-1 tvg-name="CSS Group vs Sharjah Cricket Academy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104160" group-title="Bukhatir 50 overs League, 2024",CSS Group vs Sharjah Cricket Academy
 https://dai.google.com/linear/hls/event/kc4dIOs_S-Wl3euPsVwMZg/master.m3u8
 #EXTINF:-1 tvg-name="Barana Aute Warriors vs Indian River Rowers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103916" group-title="Dream11 Nature Isle T10, 2024",Barana Aute Warriors vs Indian River Rowers
