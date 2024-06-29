@@ -5,13 +5,13 @@ https://dai.google.com/linear/hls/event/sX46Lqx7TN6Zkb1ENHEldA/master.m3u8
 https://dai.google.com/linear/hls/event/gn30_bP5TdmcMDLo3gARhg/master.m3u8
 #EXTINF:-1 tvg-name="Selangor vs Negeri Sembilan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103567" group-title="MCA Men's 50 Overs Inter-State Championship, 2024",Selangor vs Negeri Sembilan
 https://dai.google.com/linear/hls/event/4NWfWO5iSb-AzSVfr-s-wg/master.m3u8
-#EXTINF:-1 tvg-name="Johor vs Kuala Lumpur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103566" group-title="MCA Men's 50 Overs Inter-State Championship, 2024",Johor vs Kuala Lumpur
-https://dai.google.com/linear/hls/event/1Jl3Mt7-QcawFT2NECwWhQ/master.m3u8
 #EXTINF:-1 tvg-name="Perak vs Kelantan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103565" group-title="MCA Men's 50 Overs Inter-State Championship, 2024",Perak vs Kelantan
 https://dai.google.com/linear/hls/event/0s4MHxvEQ5KgrUynluIEtg/master.m3u8
+#EXTINF:-1 tvg-name="Malawi vs Zambia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103970" group-title="Kenya Quadrangular Cup, 2024",Malawi vs Zambia
+https://dai.google.com/linear/hls/event/o4goO2oMRKW4Za5nmss2Yg/master.m3u8
 #EXTINF:-1 tvg-name="Consadole Sapporo vs Albirex Niigata" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102426" group-title="J League 2024",Consadole Sapporo vs Albirex Niigata
 https://dai.fancode.com/primary/102426_english_hls_9912adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Manipur vs Haryana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104640" group-title="Senior National Rugby 7s Men's",Manipur vs Haryana
-https://dai.google.com/linear/hls/event/GHNj04UES2-ska3xeRaQHg/master.m3u8
-#EXTINF:-1 tvg-name="Assam vs West Bengal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104641" group-title="Senior National Rugby 7s Men's",Assam vs West Bengal
-https://dai.google.com/linear/hls/event/inuYFxTrQteoGy-HO0tYhA/master.m3u8
+#EXTINF:-1 tvg-name="Rajasthan vs Maharashtra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104642" group-title="Senior National Rugby 7s Men's",Rajasthan vs Maharashtra
+https://dai.google.com/linear/hls/event/2unZ2BWxS0ucjnG-bHitLA/master.m3u8
+#EXTINF:-1 tvg-name="Jharkhand vs Odisha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104643" group-title="Senior National Rugby 7s Men's",Jharkhand vs Odisha
+https://dai.google.com/linear/hls/event/IapOzcOaT3-mWpNuPjWm0w/master.m3u8
