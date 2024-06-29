@@ -7,7 +7,9 @@ https://dai.google.com/linear/hls/event/-9BuIxuMQ7mDwA868G-6wA/master.m3u8
 https://dai.google.com/linear/hls/event/o4goO2oMRKW4Za5nmss2Yg/master.m3u8
 #EXTINF:-1 tvg-name="Sprint" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95179" group-title="F1 QATAR AIRWAYS AUSTRIAN GRAND PRIX 2024",Sprint
 https://d27iscyuutl4w4.cloudfront.net/out/v1/403eff05aa664b10a935308c16531866/index.mpd
-#EXTINF:-1 tvg-name="J&K vs Madhya Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104679" group-title="Senior National Rugby 7s Men's",J&K vs Madhya Pradesh
-https://dai.google.com/linear/hls/event/aDDfiDMCRPui0lfKXVETFg/master.m3u8
 #EXTINF:-1 tvg-name="Manipur vs Telangana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104680" group-title="Senior National Rugby 7s Men's",Manipur vs Telangana
 https://dai.google.com/linear/hls/event/LWoUwBFZS26WR4m-XjhXpA/master.m3u8
+#EXTINF:-1 tvg-name="Chhattisgarh vs Himachal Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104681" group-title="Senior National Rugby 7s Men's",Chhattisgarh vs Himachal Pradesh
+https://dai.google.com/linear/hls/event/Y7WtxCzcT_uNFDQa__lVbA/master.m3u8
+#EXTINF:-1 tvg-name="Delhi vs Karnataka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104682" group-title="Senior National Rugby 7s Men's",Delhi vs Karnataka
+https://dai.google.com/linear/hls/event/n01oBX7SQmaFvyb2gu5JQQ/master.m3u8
