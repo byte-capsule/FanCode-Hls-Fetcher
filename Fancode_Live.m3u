@@ -9,10 +9,6 @@ https://dai.google.com/linear/hls/event/jhfvUbP9QeqVoppnMvjB2Q/master.m3u8
 https://dai.google.com/linear/hls/event/g5I3DluoQZakcHmMAzytNw/master.m3u8
 #EXTINF:-1 tvg-name="Czechia vs Greece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104592" group-title="ECI Czechia-Greece, 2024",Czechia vs Greece
 https://dai.google.com/linear/hls/event/IGw7-xtURXOR7xWzaHu4Mw/master.m3u8
-#EXTINF:-1 tvg-name="Shanghai Port vs Zhejiang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100232" group-title="Chinese Super League 2024",Shanghai Port vs Zhejiang
-https://dai.fancode.com/primary/100232_english_hls_6479adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Porsche Mobil 1 Supercup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103587" group-title="Porsche Mobil 1 Supercup",Porsche Mobil 1 Supercup
-https://d34cgg93ehmfko.cloudfront.net/out/v1/f5d09bf13d614c53a8acc27d01717e59/index.mpd
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103890" group-title="Italian Open",Day 3
 https://dai.google.com/linear/hls/event/HHgpdWvVQPKCx-USLvbwlw/master.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103898" group-title="VP Bank Swiss Ladies Open",Day 2
