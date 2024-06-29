@@ -1,9 +1,20 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 6,
-  "updated_on": "29-06-2024 on 2:09:07 PM \ud83c\udf1e",
+  "channels_amount": 5,
+  "updated_on": "29-06-2024 on 2:29:32 PM \ud83c\udf1e",
   "channels": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "Siechem Pondicherry Men's T10 Tournament 2024",
+      "match_id": 102619,
+      "match_name": "Avengers vs Eagles",
+      "team_1": "Avengers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AVEN@2x.png",
+      "team_2": "Eagles",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EAGLS@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/l4Mo4PbERbS48_I2iV15sQ/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "MCA Men's 50 Overs Inter-State Championship, 2024",
@@ -36,28 +47,6 @@
       "team_2": "Zambia",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZAM@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/o4goO2oMRKW4Za5nmss2Yg/master.m3u8"
-    },
-    {
-      "event_catagory": "racing",
-      "event_name": "F3 AUSTRIA 2024",
-      "match_id": 95397,
-      "match_name": "Sprint Race",
-      "team_1": "Sprint Race",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png",
-      "team_2": "Spielberg",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-      "stream_link": "https://d1fh5tbuojjpaw.cloudfront.net/out/v1/4b25d682c95b476eb926f69bdb608a08/index.mpd"
-    },
-    {
-      "event_catagory": "rugby",
-      "event_name": "Senior National Rugby 7s Men's",
-      "match_id": 104647,
-      "match_name": "Chandigarh vs Delhi",
-      "team_1": "Chandigarh",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-CHG@2x.png",
-      "team_2": "Delhi",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-DEL@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/PxMKxGmiQM-CV84ClU35pg/master.m3u8"
     },
     {
       "event_catagory": "rugby",
