@@ -1,3 +1,17 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Wyverns Cricket Club vs Rising Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101864" group-title="JCL T20, 2024",Wyverns Cricket Club vs Rising Stars
+https://dai.google.com/linear/hls/event/ahEN4pH1QxKpXfz8vRPvsw/master.m3u8
+#EXTINF:-1 tvg-name="Selangor vs Negeri Sembilan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103567" group-title="MCA Men's 50 Overs Inter-State Championship, 2024",Selangor vs Negeri Sembilan
+https://dai.google.com/linear/hls/event/4NWfWO5iSb-AzSVfr-s-wg/master.m3u8
+#EXTINF:-1 tvg-name="Johor vs Kuala Lumpur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103566" group-title="MCA Men's 50 Overs Inter-State Championship, 2024",Johor vs Kuala Lumpur
+https://dai.google.com/linear/hls/event/1Jl3Mt7-QcawFT2NECwWhQ/master.m3u8
+#EXTINF:-1 tvg-name="Perak vs Kelantan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103565" group-title="MCA Men's 50 Overs Inter-State Championship, 2024",Perak vs Kelantan
+https://dai.google.com/linear/hls/event/0s4MHxvEQ5KgrUynluIEtg/master.m3u8
 #EXTINF:-1 tvg-name="Welterweight & Featherweights" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103143" group-title="Professional Fighters League",Welterweight & Featherweights
 https://dai.google.com/linear/hls/event/xqAyvmsXT5OhgU8Ld-OldA/master.m3u8
+#EXTINF:-1 tvg-name="Manipur vs Chhattisgarh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104622" group-title="Senior Men's Junior National Rugby 7s",Manipur vs Chhattisgarh
+https://dai.google.com/linear/hls/event/kMNegpZITwu3xwh-MaaNYQ/master.m3u8
+#EXTINF:-1 tvg-name="Assam vs Telangana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104623" group-title="Senior Men's Junior National Rugby 7s",Assam vs Telangana
+https://dai.google.com/linear/hls/event/hX2llU7rRxSr55mXq5g_Cg/master.m3u8
+#EXTINF:-1 tvg-name="Rajasthan vs Andaman & Nicobar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104624" group-title="Senior Men's Junior National Rugby 7s",Rajasthan vs Andaman & Nicobar
+https://dai.google.com/linear/hls/event/45gxxmtVQ-K_x4geu8PY4g/master.m3u8
