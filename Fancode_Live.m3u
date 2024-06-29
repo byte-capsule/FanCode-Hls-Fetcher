@@ -5,9 +5,13 @@ https://dai.google.com/linear/hls/event/4NWfWO5iSb-AzSVfr-s-wg/master.m3u8
 https://dai.google.com/linear/hls/event/1Jl3Mt7-QcawFT2NECwWhQ/master.m3u8
 #EXTINF:-1 tvg-name="Perak vs Kelantan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103565" group-title="MCA Men's 50 Overs Inter-State Championship, 2024",Perak vs Kelantan
 https://dai.google.com/linear/hls/event/0s4MHxvEQ5KgrUynluIEtg/master.m3u8
-#EXTINF:-1 tvg-name="Royals vs Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102617" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Royals vs Titans
-https://dai.google.com/linear/hls/event/2pDJc90FQim-dRZUSwYKcg/master.m3u8
-#EXTINF:-1 tvg-name="Kerala vs Andhra Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104635" group-title="Senior Men's Junior National Rugby 7s",Kerala vs Andhra Pradesh
-https://dai.google.com/linear/hls/event/QXQNKpt_TU-v8qvvMMPlTQ/master.m3u8
+#EXTINF:-1 tvg-name="Chiba Sharks vs Tokyo Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101865" group-title="JCL T20, 2024",Chiba Sharks vs Tokyo Titans
+https://dai.google.com/linear/hls/event/gn30_bP5TdmcMDLo3gARhg/master.m3u8
+#EXTINF:-1 tvg-name="Consadole Sapporo vs Albirex Niigata" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102426" group-title="J League 2024",Consadole Sapporo vs Albirex Niigata
+https://dai.fancode.com/primary/102426_english_hls_9912adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="J&K vs Uttar Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104627" group-title="Senior Men's Junior National Rugby 7s",J&K vs Uttar Pradesh
 https://dai.google.com/linear/hls/event/Hz2wJB9wQZuzaL4LO8zlaw/master.m3u8
+#EXTINF:-1 tvg-name="Punjab vs Madhya Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104637" group-title="Senior Men's Junior National Rugby 7s",Punjab vs Madhya Pradesh
+https://dai.google.com/linear/hls/event/pa413rr9TqOybVMlebxTxQ/master.m3u8
+#EXTINF:-1 tvg-name="Delhi vs Himachal Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104638" group-title="Senior Men's Junior National Rugby 7s",Delhi vs Himachal Pradesh
+https://dai.google.com/linear/hls/event/q9pNLvIWStyFpFcTz4cNXA/master.m3u8
