@@ -1,20 +1,9 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 8,
-  "updated_on": "30-06-2024 on 10:30:51 PM \ud83c\udf19",
+  "channels_amount": 3,
+  "updated_on": "30-06-2024 on 10:42:30 PM \ud83c\udf19",
   "channels": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICCA Arabian T10, 2024",
-      "match_id": 104787,
-      "match_name": "Seven Districts Hybrid vs Dubai Dare Devils",
-      "team_1": "Seven Districts Hybrid",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SDH@2x.png",
-      "team_2": "Dubai Dare Devils",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DDD@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/l1acK4TATJKZbISHkXdPAg/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Bukhatir 50 overs League, 2024",
@@ -39,17 +28,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "ECI Czechia-Greece, 2024",
-      "match_id": 104595,
-      "match_name": "Czechia vs Greece",
-      "team_1": "Czechia",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CZR@2x.png",
-      "team_2": "Greece",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GREE@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/Lr5_dy7bQp6daOPyQ_lzHg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "Evoke Super 20 Trophy, 2024",
       "match_id": 103363,
       "match_name": "Dragons Women vs Typhoons Women",
@@ -58,39 +36,6 @@
       "team_2": "Typhoons Women",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TYPW@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/LpINhI-6QFSDLS8KHPAAEA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Andhra Premier League, 2024",
-      "match_id": 104265,
-      "match_name": "Coastal Riders vs Rayalaseema Kings",
-      "team_1": "Coastal Riders",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSRI@2x.png",
-      "team_2": "Rayalaseema Kings",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RYLS-CR1@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/2FCFwf4uR1uwL7yZqWKM1g/master.m3u8"
-    },
-    {
-      "event_catagory": "golf",
-      "event_name": "Italian Open",
-      "match_id": 103891,
-      "match_name": "Day 4",
-      "team_1": "Day 4",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-IOG@2x.png",
-      "team_2": "Adriatic Golf Club Cervia, Italy",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/9TNLxWC-SIuQDU7PohgmrQ/master.m3u8"
-    },
-    {
-      "event_catagory": "volleyball",
-      "event_name": "Volleyball Nations League Men's",
-      "match_id": 101553,
-      "match_name": "Slovenia vs Poland",
-      "team_1": "Slovenia",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-SVN@2x.png",
-      "team_2": "Poland",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-PLN@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/1dXkzgLuTUeQENHIgMUPqA/master.m3u8"
     }
   ]
 }
