@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Warriors vs Royals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102622" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Warriors vs Royals
-https://dai.google.com/linear/hls/event/GLjBado4R5mpD5GVUGYX5w/master.m3u8
-#EXTINF:-1 tvg-name="Czechia Women vs Greece Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104574" group-title="ECI-W Czechia-Greece, 2024",Czechia Women vs Greece Women
-https://dai.google.com/linear/hls/event/Vm-sAcn1R_morFmLv2r8Rw/master.m3u8
 #EXTINF:-1 tvg-name="Ingabo Knights vs Imena Herons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103001" group-title="Rwanda Women Elite League T20, 2024",Ingabo Knights vs Imena Herons
 https://dai.google.com/linear/hls/event/TngAzXrnT9u8r7F1kxeAKQ/master.m3u8
 #EXTINF:-1 tvg-name="Typhoons Women vs Scorchers Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103362" group-title="Evoke Super 20 Trophy, 2024",Typhoons Women vs Scorchers Women
@@ -19,7 +15,11 @@ https://dai.fancode.com/primary/102429_english_hls_2440adfreeta-no/index.m3u8
 https://d1vkzkn7yvcdb9.cloudfront.net/out/v1/0a2cdf16b85f47c4bc313fc8b63374b3/index.mpd
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103899" group-title="VP Bank Swiss Ladies Open",Day 3
 https://dai.google.com/linear/hls/event/YkL-ij8LSBCO-lmYVnouEQ/master.m3u8
-#EXTINF:-1 tvg-name="West Bengal vs Kerala" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104715" group-title="Senior National Rugby 7s Men's",West Bengal vs Kerala
-https://dai.google.com/linear/hls/event/NqhvP170QpWptqFHi9enAg/master.m3u8
+#EXTINF:-1 tvg-name="Day 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103891" group-title="Italian Open",Day 4
+https://dai.google.com/linear/hls/event/9TNLxWC-SIuQDU7PohgmrQ/master.m3u8
 #EXTINF:-1 tvg-name="Karnataka vs Uttarakhand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104716" group-title="Senior National Rugby 7s Men's",Karnataka vs Uttarakhand
 https://dai.google.com/linear/hls/event/hcmGcCRFTauw6lC1sc4sfA/master.m3u8
+#EXTINF:-1 tvg-name="Chandigarh vs Rajasthan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104717" group-title="Senior National Rugby 7s Men's",Chandigarh vs Rajasthan
+https://dai.google.com/linear/hls/event/QBnP01ODQya2wuvzyA_ojg/master.m3u8
+#EXTINF:-1 tvg-name="Delhi vs Punjab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104718" group-title="Senior National Rugby 7s Men's",Delhi vs Punjab
+https://dai.google.com/linear/hls/event/kjs3X32TQTivgwpH7JB95w/master.m3u8
