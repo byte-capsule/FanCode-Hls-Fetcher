@@ -3,6 +3,8 @@
 https://dai.google.com/linear/hls/event/XPhWKT9cQay8XHkBhxcMVw/master.m3u8
 #EXTINF:-1 tvg-name="New Zealand Women vs England Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96347" group-title="New Zealand Women tour of England, 2024",New Zealand Women vs England Women
 https://pubads.g.doubleclick.net/ssai/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
+#EXTINF:-1 tvg-name="Ingenzi Heroes vs Amasimbi Hawks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103002" group-title="Rwanda Women Elite League T20, 2024",Ingenzi Heroes vs Amasimbi Hawks
+https://dai.google.com/linear/hls/event/xVR5zblNQzmHmuO-HzZElg/master.m3u8
 #EXTINF:-1 tvg-name="Typhoons Women vs Scorchers Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103362" group-title="Evoke Super 20 Trophy, 2024",Typhoons Women vs Scorchers Women
 https://dai.google.com/linear/hls/event/Vq86J2-PShibpsbSjjVjzw/master.m3u8
 #EXTINF:-1 tvg-name="Vissel Kobe vs Kashima Antlers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102429" group-title="J League 2024",Vissel Kobe vs Kashima Antlers
@@ -15,8 +17,6 @@ https://d1g3chzyyd1a9z.cloudfront.net/out/v1/ba92a4caa3af4c62b4d8368e510f7dd0/in
 https://dai.google.com/linear/hls/event/9TNLxWC-SIuQDU7PohgmrQ/master.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103899" group-title="VP Bank Swiss Ladies Open",Day 3
 https://dai.google.com/linear/hls/event/YkL-ij8LSBCO-lmYVnouEQ/master.m3u8
-#EXTINF:-1 tvg-name="Delhi vs Punjab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104718" group-title="Senior National Rugby 7s Men's",Delhi vs Punjab
-https://dai.google.com/linear/hls/event/kjs3X32TQTivgwpH7JB95w/master.m3u8
 #EXTINF:-1 tvg-name="Maharashtra vs Bihar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104719" group-title="Senior National Rugby 7s Men's",Maharashtra vs Bihar
 https://dai.google.com/linear/hls/event/d8qu8SytQdKnv8Gut-v_5A/master.m3u8
 #EXTINF:-1 tvg-name="Odisha vs Kerala" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104721" group-title="Senior National Rugby 7s Men's",Odisha vs Kerala
