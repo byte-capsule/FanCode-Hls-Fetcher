@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Spades Real Estate vs Smart Cube Kings 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102419" group-title="ICCA Arabian T10, 2024",Spades Real Estate vs Smart Cube Kings 11
 https://dai.google.com/linear/hls/event/z61T_1a-RC6NqDptqAR3GQ/master.m3u8
-#EXTINF:-1 tvg-name="Czechia vs Greece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104594" group-title="ECI Czechia-Greece, 2024",Czechia vs Greece
-https://dai.google.com/linear/hls/event/XPhWKT9cQay8XHkBhxcMVw/master.m3u8
 #EXTINF:-1 tvg-name="Ingenzi Heroes vs Amasimbi Hawks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103002" group-title="Rwanda Women Elite League T20, 2024",Ingenzi Heroes vs Amasimbi Hawks
 https://dai.google.com/linear/hls/event/xVR5zblNQzmHmuO-HzZElg/master.m3u8
 #EXTINF:-1 tvg-name="New Zealand Women vs England Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96347" group-title="New Zealand Women tour of England, 2024",New Zealand Women vs England Women
