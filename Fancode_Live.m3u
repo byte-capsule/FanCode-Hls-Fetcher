@@ -7,9 +7,11 @@ https://dai.google.com/linear/hls/event/JTNhDeXuS7iJIFD7eo-n9w/master.m3u8
 https://dai.google.com/linear/hls/event/FosHOz_dSQO9b-5C-Rk8Ig/master.m3u8
 #EXTINF:-1 tvg-name="Selangor vs Kuala Lumpur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103568" group-title="MCA Men's 50 Overs Inter-State Championship, 2024",Selangor vs Kuala Lumpur
 https://dai.google.com/linear/hls/event/1D7Pb6GEQvymqot-zvU8dA/master.m3u8
-#EXTINF:-1 tvg-name="Daman & Diu vs Himachal Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104705" group-title="Senior National Rugby 7s Men's",Daman & Diu vs Himachal Pradesh
-https://dai.google.com/linear/hls/event/sGi5zqRfRie-xMyrVkFvMA/master.m3u8
-#EXTINF:-1 tvg-name="J&K vs Manipur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104706" group-title="Senior National Rugby 7s Men's",J&K vs Manipur
-https://dai.google.com/linear/hls/event/6qNp0dV0TNG7gs12QccPFw/master.m3u8
+#EXTINF:-1 tvg-name="Feature Race" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95398" group-title="F3 AUSTRIA 2024",Feature Race
+https://d3nbec9t9p8haj.cloudfront.net/out/v1/08f375b6af684be9b8ae4fec955fc160/index.mpd
 #EXTINF:-1 tvg-name="Madhya Pradesh vs Telangana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104707" group-title="Senior National Rugby 7s Men's",Madhya Pradesh vs Telangana
 https://dai.google.com/linear/hls/event/TrHAVG1ORQmuOTkxg3E1Eg/master.m3u8
+#EXTINF:-1 tvg-name="Assam vs Chhattisgarh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104708" group-title="Senior National Rugby 7s Men's",Assam vs Chhattisgarh
+https://dai.google.com/linear/hls/event/zYEPfx0-RFy-4oJEDOo5kQ/master.m3u8
+#EXTINF:-1 tvg-name="Uttar Pradesh vs Jharkhand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104709" group-title="Senior National Rugby 7s Men's",Uttar Pradesh vs Jharkhand
+https://dai.google.com/linear/hls/event/RnEMkfKPR1yOt50B7_Bo8A/master.m3u8
