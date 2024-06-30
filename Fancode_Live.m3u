@@ -1,25 +1,23 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="New Zealand Women vs England Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96347" group-title="New Zealand Women tour of England, 2024",New Zealand Women vs England Women
+https://pubads.g.doubleclick.net/ssai/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
 #EXTINF:-1 tvg-name="Ingabo Knights vs Imena Herons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103001" group-title="Rwanda Women Elite League T20, 2024",Ingabo Knights vs Imena Herons
 https://dai.google.com/linear/hls/event/TngAzXrnT9u8r7F1kxeAKQ/master.m3u8
 #EXTINF:-1 tvg-name="Typhoons Women vs Scorchers Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103362" group-title="Evoke Super 20 Trophy, 2024",Typhoons Women vs Scorchers Women
 https://dai.google.com/linear/hls/event/Vq86J2-PShibpsbSjjVjzw/master.m3u8
-#EXTINF:-1 tvg-name="New Zealand Women vs England Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96347" group-title="New Zealand Women tour of England, 2024",New Zealand Women vs England Women
-https://pubads.g.doubleclick.net/ssai/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
+#EXTINF:-1 tvg-name="Vissel Kobe vs Kashima Antlers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102429" group-title="J League 2024",Vissel Kobe vs Kashima Antlers
+https://dai.fancode.com/primary/102429_english_hls_2440adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Urawa Red Diamonds vs Júbilo Iwata" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102428" group-title="J League 2024",Urawa Red Diamonds vs Júbilo Iwata
 https://dai.fancode.com/primary/102428_english_hls_8477adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Cerezo Osaka vs Nagoya Grampus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102427" group-title="J League 2024",Cerezo Osaka vs Nagoya Grampus
 https://dai.fancode.com/primary/102427_english_hls_5237adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Vissel Kobe vs Kashima Antlers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102429" group-title="J League 2024",Vissel Kobe vs Kashima Antlers
-https://dai.fancode.com/primary/102429_english_hls_2440adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Porsche Mobil 1 Supercup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103588" group-title="Porsche Mobil 1 Supercup",Porsche Mobil 1 Supercup
-https://d1vkzkn7yvcdb9.cloudfront.net/out/v1/0a2cdf16b85f47c4bc313fc8b63374b3/index.mpd
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103899" group-title="VP Bank Swiss Ladies Open",Day 3
 https://dai.google.com/linear/hls/event/YkL-ij8LSBCO-lmYVnouEQ/master.m3u8
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103891" group-title="Italian Open",Day 4
 https://dai.google.com/linear/hls/event/9TNLxWC-SIuQDU7PohgmrQ/master.m3u8
-#EXTINF:-1 tvg-name="Karnataka vs Uttarakhand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104716" group-title="Senior National Rugby 7s Men's",Karnataka vs Uttarakhand
-https://dai.google.com/linear/hls/event/hcmGcCRFTauw6lC1sc4sfA/master.m3u8
 #EXTINF:-1 tvg-name="Chandigarh vs Rajasthan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104717" group-title="Senior National Rugby 7s Men's",Chandigarh vs Rajasthan
 https://dai.google.com/linear/hls/event/QBnP01ODQya2wuvzyA_ojg/master.m3u8
 #EXTINF:-1 tvg-name="Delhi vs Punjab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104718" group-title="Senior National Rugby 7s Men's",Delhi vs Punjab
 https://dai.google.com/linear/hls/event/kjs3X32TQTivgwpH7JB95w/master.m3u8
+#EXTINF:-1 tvg-name="Maharashtra vs Bihar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104719" group-title="Senior National Rugby 7s Men's",Maharashtra vs Bihar
+https://dai.google.com/linear/hls/event/d8qu8SytQdKnv8Gut-v_5A/master.m3u8
