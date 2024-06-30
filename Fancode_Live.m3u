@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Johor vs Perak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103569" group-title="MCA Men's 50 Overs Inter-State Championship, 2024",Johor vs Perak
+#EXTINF:-1 tvg-name="Perak vs Johor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103569" group-title="MCA Men's 50 Overs Inter-State Championship, 2024",Perak vs Johor
 https://dai.google.com/linear/hls/event/FosHOz_dSQO9b-5C-Rk8Ig/master.m3u8
 #EXTINF:-1 tvg-name="Selangor vs Kuala Lumpur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103568" group-title="MCA Men's 50 Overs Inter-State Championship, 2024",Selangor vs Kuala Lumpur
 https://dai.google.com/linear/hls/event/1D7Pb6GEQvymqot-zvU8dA/master.m3u8
 #EXTINF:-1 tvg-name="Negeri Sembilan vs Kelantan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103570" group-title="MCA Men's 50 Overs Inter-State Championship, 2024",Negeri Sembilan vs Kelantan
 https://dai.google.com/linear/hls/event/JTNhDeXuS7iJIFD7eo-n9w/master.m3u8
-#EXTINF:-1 tvg-name="Daman & Diu vs J&K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104692" group-title="Senior National Rugby 7s Men's",Daman & Diu vs J&K
-https://dai.google.com/linear/hls/event/B4njABk0SDypYdx7YNW9Og/master.m3u8
+#EXTINF:-1 tvg-name="Delhi vs Odisha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104694" group-title="Senior National Rugby 7s Men's",Delhi vs Odisha
+https://dai.google.com/linear/hls/event/DlEaCXhaRNaVV2a6NITuNQ/master.m3u8
