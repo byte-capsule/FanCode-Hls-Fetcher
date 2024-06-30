@@ -7,14 +7,18 @@ https://dai.google.com/linear/hls/event/Vm-sAcn1R_morFmLv2r8Rw/master.m3u8
 https://dai.google.com/linear/hls/event/TngAzXrnT9u8r7F1kxeAKQ/master.m3u8
 #EXTINF:-1 tvg-name="Typhoons Women vs Scorchers Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103362" group-title="Evoke Super 20 Trophy, 2024",Typhoons Women vs Scorchers Women
 https://dai.google.com/linear/hls/event/Vq86J2-PShibpsbSjjVjzw/master.m3u8
-#EXTINF:-1 tvg-name="Cerezo Osaka vs Nagoya Grampus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102427" group-title="J League 2024",Cerezo Osaka vs Nagoya Grampus
-https://dai.fancode.com/primary/102427_english_hls_5237adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="New Zealand Women vs England Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96347" group-title="New Zealand Women tour of England, 2024",New Zealand Women vs England Women
+https://pubads.g.doubleclick.net/ssai/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
 #EXTINF:-1 tvg-name="Urawa Red Diamonds vs Júbilo Iwata" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102428" group-title="J League 2024",Urawa Red Diamonds vs Júbilo Iwata
 https://dai.fancode.com/primary/102428_english_hls_8477adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Cerezo Osaka vs Nagoya Grampus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102427" group-title="J League 2024",Cerezo Osaka vs Nagoya Grampus
+https://dai.fancode.com/primary/102427_english_hls_5237adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Vissel Kobe vs Kashima Antlers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102429" group-title="J League 2024",Vissel Kobe vs Kashima Antlers
+https://dai.fancode.com/primary/102429_english_hls_2440adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Porsche Mobil 1 Supercup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103588" group-title="Porsche Mobil 1 Supercup",Porsche Mobil 1 Supercup
 https://d1vkzkn7yvcdb9.cloudfront.net/out/v1/0a2cdf16b85f47c4bc313fc8b63374b3/index.mpd
-#EXTINF:-1 tvg-name="Odisha vs Haryana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104714" group-title="Senior National Rugby 7s Men's",Odisha vs Haryana
-https://dai.google.com/linear/hls/event/FhR8gj6iT9aUseBuJUB25w/master.m3u8
+#EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103899" group-title="VP Bank Swiss Ladies Open",Day 3
+https://dai.google.com/linear/hls/event/YkL-ij8LSBCO-lmYVnouEQ/master.m3u8
 #EXTINF:-1 tvg-name="West Bengal vs Kerala" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104715" group-title="Senior National Rugby 7s Men's",West Bengal vs Kerala
 https://dai.google.com/linear/hls/event/NqhvP170QpWptqFHi9enAg/master.m3u8
 #EXTINF:-1 tvg-name="Karnataka vs Uttarakhand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104716" group-title="Senior National Rugby 7s Men's",Karnataka vs Uttarakhand
