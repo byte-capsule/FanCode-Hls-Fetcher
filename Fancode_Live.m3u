@@ -1,9 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Patriots vs Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102624" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Patriots vs Kings
+https://dai.google.com/linear/hls/event/VfGyeTZ8Qhmk37BxRF-qfg/master.m3u8
 #EXTINF:-1 tvg-name="Bucharest Gladiators vs Zinitis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104487" group-title="ECS Romania, 2024",Bucharest Gladiators vs Zinitis
 https://dai.google.com/linear/hls/event/8p-EkIALTmO8o1XylphMQg/master.m3u8
+#EXTINF:-1 tvg-name="Bezawada Tigers vs Vizag Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104266" group-title="Andhra Premier League, 2024",Bezawada Tigers vs Vizag Warriors
+https://dai.google.com/linear/hls/event/P7SlGv2XSFaQ2d4OZxl-dw/master.m3u8
 #EXTINF:-1 tvg-name="Imena Herons vs Ingenzi Heroes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103003" group-title="Rwanda Women Elite League T20, 2024",Imena Herons vs Ingenzi Heroes
 https://dai.google.com/linear/hls/event/OoVQG1pTRN2408LusKzqpQ/master.m3u8
 #EXTINF:-1 tvg-name="Malawi vs Kenya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103972" group-title="Kenya Quadrangular Cup, 2024",Malawi vs Kenya
 https://dai.google.com/linear/hls/event/xdmytWdiTj-v2yXlXlHDFQ/master.m3u8
-#EXTINF:-1 tvg-name="Bezawada Tigers vs Vizag Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104266" group-title="Andhra Premier League, 2024",Bezawada Tigers vs Vizag Warriors
-https://dai.google.com/linear/hls/event/P7SlGv2XSFaQ2d4OZxl-dw/master.m3u8
