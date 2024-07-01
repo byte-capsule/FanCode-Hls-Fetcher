@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Warriors vs Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102623" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Warriors vs Titans
 https://dai.google.com/linear/hls/event/iogFKSatR4eC8om7IEZqnA/master.m3u8
+#EXTINF:-1 tvg-name="Bucharest Gladiators vs Lankan Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104486" group-title="ECS Romania, 2024",Bucharest Gladiators vs Lankan Lions
+https://dai.google.com/linear/hls/event/w2yTh_TDSLOia_HKFNPavA/master.m3u8
