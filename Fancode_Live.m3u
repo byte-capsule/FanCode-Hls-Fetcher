@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Baneasa vs Royal Eagles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104484" group-title="ECS Romania, 2024",Baneasa vs Royal Eagles
-https://dai.google.com/linear/hls/event/1wtG6Pq0Rk-kuJ8bIrY-1g/master.m3u8
+#EXTINF:-1 tvg-name="Royal Eagles vs Bucharest Zalmi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104485" group-title="ECS Romania, 2024",Royal Eagles vs Bucharest Zalmi
+https://dai.google.com/linear/hls/event/3tm4bK59RU6NKl8vVWJAAw/master.m3u8
 #EXTINF:-1 tvg-name="Godavari Titans vs Uttarandhra Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104269" group-title="Andhra Premier League, 2024",Godavari Titans vs Uttarandhra Lions
 https://dai.google.com/linear/hls/event/Ei7o1BhNRfCrZRwnRWeB8Q/master.m3u8
 #EXTINF:-1 tvg-name="Colombo Strikers vs Kandy Falcons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103768" group-title="Lanka Premier League, 2024",Colombo Strikers vs Kandy Falcons
