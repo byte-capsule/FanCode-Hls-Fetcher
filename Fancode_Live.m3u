@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Bhutan Women vs Singapore Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104286" group-title="Bali Bash Women's T20I Tri-Series",Bhutan Women vs Singapore Women
 https://dai.google.com/linear/hls/event/9fWH7GSATQGCvgP31l1cmA/master.m3u8
-#EXTINF:-1 tvg-name="Manipur vs Andhra Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104852" group-title="Senior National Rugby 7s Women's",Manipur vs Andhra Pradesh
-https://dai.google.com/linear/hls/event/qzpxJRbuRhuGQlINbQYmbw/master.m3u8
-#EXTINF:-1 tvg-name="Goa vs Telangana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104854" group-title="Senior National Rugby 7s Women's",Goa vs Telangana
-https://dai.google.com/linear/hls/event/dfzmJQgCTbSXEK_VgPiiXQ/master.m3u8
+#EXTINF:-1 tvg-name="Tamil Nadu vs Andaman & Nicobar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104855" group-title="Senior National Rugby 7s Women's",Tamil Nadu vs Andaman & Nicobar
+https://dai.google.com/linear/hls/event/0T_iSol0TW6XBPau8selQg/master.m3u8
+#EXTINF:-1 tvg-name="Odisha vs Haryana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104856" group-title="Senior National Rugby 7s Women's",Odisha vs Haryana
+https://dai.google.com/linear/hls/event/zMZaUelXQkKk-FlL8wTn7Q/master.m3u8
