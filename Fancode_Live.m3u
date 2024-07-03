@@ -11,15 +11,15 @@ https://dai.google.com/linear/hls/event/BIucK7QvRmK3GX1S9FUVAw/master.m3u8
 https://dai.google.com/linear/hls/event/Jaod4zOwRMiu3Ya7GF7aSg/master.m3u8
 #EXTINF:-1 tvg-name="Namibia vs Punjab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104540" group-title="Punjab tour of Namibia, 2024",Namibia vs Punjab
 https://dai.google.com/linear/hls/event/xQqrmMisQJOidFE23gTUig/master.m3u8
+#EXTINF:-1 tvg-name="England Champions vs India Champions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104293" group-title="World Championship of Legends, 2024",England Champions vs India Champions
+https://dai.google.com/linear/hls/event/5elKVofgQOOfJdYQ8OAKXQ/master.m3u8
 #EXTINF:-1 tvg-name="Yokohama F. Marinos vs Sagan Tosu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102430" group-title="J League 2024",Yokohama F. Marinos vs Sagan Tosu
 https://dai.fancode.com/primary/102430_english_hls_6604adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Coakley/Sweat vs Ludwig/Lippmann" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105037" group-title="Volleyball Womens Beach Pro Tour",Coakley/Sweat vs Ludwig/Lippmann
-https://dai.fancode.com/primary/105037_english_hls_539adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Mariafe/Clancy vs Bentele/Bossart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105036" group-title="Volleyball Womens Beach Pro Tour",Mariafe/Clancy vs Bentele/Bossart
-https://dai.fancode.com/primary/105036_english_hls_4279adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Assam vs Andhra Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104878" group-title="Senior National Rugby 7s Women's",Assam vs Andhra Pradesh
- Free Trial attempt unsuccessful......it requires Premium Account
-#EXTINF:-1 tvg-name="Tamil Nadu vs Chandigarh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104879" group-title="Senior National Rugby 7s Women's",Tamil Nadu vs Chandigarh
- Free Trial attempt unsuccessful......it requires Premium Account
+#EXTINF:-1 tvg-name="Paulikiene/Raupelyte vs Harward/DeBerg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105039" group-title="Volleyball Womens Beach Pro Tour",Paulikiene/Raupelyte vs Harward/DeBerg
+https://dai.fancode.com/primary/105039_english_hls_785adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Vergé-Dépré, A./Mäder vs Sude/Kunst" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105038" group-title="Volleyball Womens Beach Pro Tour",Vergé-Dépré, A./Mäder vs Sude/Kunst
+https://dai.fancode.com/primary/105038_english_hls_4402adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Bihar vs Jharkhand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104880" group-title="Senior National Rugby 7s Women's",Bihar vs Jharkhand
+ Free Trial attempt unsuccessful......it requires Premium Account
+#EXTINF:-1 tvg-name="Kerala vs Manipur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104881" group-title="Senior National Rugby 7s Women's",Kerala vs Manipur
  Free Trial attempt unsuccessful......it requires Premium Account
