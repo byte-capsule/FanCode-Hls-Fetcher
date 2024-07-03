@@ -1,9 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Bhutan Women vs Indonesia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104287" group-title="Bali Bash Women's T20I Tri-Series",Bhutan Women vs Indonesia Women
+https://dai.google.com/linear/hls/event/DL-kv5dfQwKemRw4jjTf7A/master.m3u8
 #EXTINF:-1 tvg-name="Smashers vs Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102627" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Smashers vs Titans
 https://dai.google.com/linear/hls/event/f7iXVKOcR8y0kFO4jsAK9g/master.m3u8
-#EXTINF:-1 tvg-name="West Bengal vs Assam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104858" group-title="Senior National Rugby 7s Women's",West Bengal vs Assam
-https://dai.google.com/linear/hls/event/h-M5rlKeQc-n9KJBP-lJvA/master.m3u8
-#EXTINF:-1 tvg-name="Kerala vs Himachal Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104859" group-title="Senior National Rugby 7s Women's",Kerala vs Himachal Pradesh
-https://dai.google.com/linear/hls/event/Z_yPO2efSt-ZDYc5wlqXGg/master.m3u8
-#EXTINF:-1 tvg-name="Bihar vs Madhya Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104860" group-title="Senior National Rugby 7s Women's",Bihar vs Madhya Pradesh
-https://dai.google.com/linear/hls/event/isdcIcgjQTCUH6-uXR0OOg/master.m3u8
+#EXTINF:-1 tvg-name="Delhi vs Puducherry" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104861" group-title="Senior National Rugby 7s Women's",Delhi vs Puducherry
+https://dai.google.com/linear/hls/event/jvo87G0SQ5qtptShCJmDUA/master.m3u8
+#EXTINF:-1 tvg-name="Karnataka vs Andhra Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104862" group-title="Senior National Rugby 7s Women's",Karnataka vs Andhra Pradesh
+https://dai.google.com/linear/hls/event/nU8yZbCmSeilk2TaZnYhYA/master.m3u8
