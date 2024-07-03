@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Bhutan Women vs Indonesia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104287" group-title="Bali Bash Women's T20I Tri-Series",Bhutan Women vs Indonesia Women
 https://dai.google.com/linear/hls/event/DL-kv5dfQwKemRw4jjTf7A/master.m3u8
-#EXTINF:-1 tvg-name="United CC Bucharest vs Royal Eagles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104492" group-title="ECS Romania, 2024",United CC Bucharest vs Royal Eagles
-https://dai.google.com/linear/hls/event/JW2ztGYwR9WbRj4zwXScww/master.m3u8
 #EXTINF:-1 tvg-name="Coastal Riders vs Bezawada Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104270" group-title="Andhra Premier League, 2024",Coastal Riders vs Bezawada Tigers
 https://dai.google.com/linear/hls/event/BIucK7QvRmK3GX1S9FUVAw/master.m3u8
 #EXTINF:-1 tvg-name="Namibia vs Punjab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104540" group-title="Punjab tour of Namibia, 2024",Namibia vs Punjab
@@ -15,5 +13,5 @@ https://dai.google.com/linear/hls/event/Jaod4zOwRMiu3Ya7GF7aSg/master.m3u8
 https://dai.fancode.com/primary/105035_english_hls_1267adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Hoppe/Shaw vs Benzi/Bonifazi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105034" group-title="Volleyball Mens Beach Pro Tour",Hoppe/Shaw vs Benzi/Bonifazi
 https://dai.fancode.com/primary/105034_english_hls_5224adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="TBC vs TBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104874" group-title="Senior National Rugby 7s Women's",TBC vs TBC
- Free Trial attempt unsuccessful......it requires Premium Account
+#EXTINF:-1 tvg-name="Haryana vs J&K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104874" group-title="Senior National Rugby 7s Women's",Haryana vs J&K
+https://dai.google.com/linear/hls/event/Ix-45vgtR5iUny-Wqte5wg/master.m3u8
