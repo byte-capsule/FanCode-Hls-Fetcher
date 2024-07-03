@@ -1,10 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="CSS Group vs Our Souq Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104164" group-title="Bukhatir 50 overs League, 2024",CSS Group vs Our Souq Cricket Club
+https://dai.google.com/linear/hls/event/ngBf92eWRuW_A9eEd4XcXA/master.m3u8
 #EXTINF:-1 tvg-name="Bhutan Women vs Indonesia Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104287" group-title="Bali Bash Women's T20I Tri-Series",Bhutan Women vs Indonesia Women
 https://dai.google.com/linear/hls/event/DL-kv5dfQwKemRw4jjTf7A/master.m3u8
 #EXTINF:-1 tvg-name="Baneasa vs Royal Eagles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104494" group-title="ECS Romania, 2024",Baneasa vs Royal Eagles
 https://dai.google.com/linear/hls/event/YM6gxNp_SwWkvRuDMBn7GQ/master.m3u8
 #EXTINF:-1 tvg-name="Zambia vs Malawi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103977" group-title="Kenya Quadrangular Cup, 2024",Zambia vs Malawi
 https://dai.google.com/linear/hls/event/Kgvn19xbTnui0BxMhSLKFA/master.m3u8
+#EXTINF:-1 tvg-name="Godavari Titans vs Rayalaseema Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104271" group-title="Andhra Premier League, 2024",Godavari Titans vs Rayalaseema Kings
+https://dai.google.com/linear/hls/event/0jFvK1DiSLiXR60fnTvbRw/master.m3u8
 #EXTINF:-1 tvg-name="England Champions vs India Champions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104293" group-title="World Championship of Legends, 2024",England Champions vs India Champions
 https://dai.google.com/linear/hls/event/5elKVofgQOOfJdYQ8OAKXQ/master.m3u8
 #EXTINF:-1 tvg-name="Dambulla Sixers vs Jaffna Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103769" group-title="Lanka Premier League, 2024",Dambulla Sixers vs Jaffna Kings
@@ -17,7 +21,3 @@ https://pubads.g.doubleclick.net/ssai/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
 https://dai.fancode.com/primary/105047_english_hls_909adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Łosiak/Bryl vs Haussener/Friedli" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105046" group-title="Volleyball Mens Beach Pro Tour",Łosiak/Bryl vs Haussener/Friedli
 https://dai.fancode.com/primary/105046_english_hls_4904adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Hildreth/Van Gunst vs Sh. T. Chao/J. Dong" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105040" group-title="Volleyball Womens Beach Pro Tour",Hildreth/Van Gunst vs Sh. T. Chao/J. Dong
-https://dai.fancode.com/primary/105040_english_hls_4695adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Odisha vs Rajasthan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104886" group-title="Senior National Rugby 7s Women's",Odisha vs Rajasthan
- Free Trial attempt unsuccessful......it requires Premium Account

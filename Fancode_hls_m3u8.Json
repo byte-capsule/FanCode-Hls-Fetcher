@@ -2,8 +2,19 @@
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "channels_amount": 11,
-  "updated_on": "03-07-2024 on 6:45:28 PM \ud83c\udf19",
+  "updated_on": "03-07-2024 on 7:09:55 PM \ud83c\udf19",
   "channels": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "Bukhatir 50 overs League, 2024",
+      "match_id": 104164,
+      "match_name": "CSS Group vs Our Souq Cricket Club",
+      "team_1": "CSS Group",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSS@2x.png",
+      "team_2": "Our Souq Cricket Club",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OSC@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/ngBf92eWRuW_A9eEd4XcXA/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "Bali Bash Women's T20I Tri-Series",
@@ -36,6 +47,17 @@
       "team_2": "Malawi",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALA@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/Kgvn19xbTnui0BxMhSLKFA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Andhra Premier League, 2024",
+      "match_id": 104271,
+      "match_name": "Godavari Titans vs Rayalaseema Kings",
+      "team_1": "Godavari Titans",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/GOD-CR1@2x.png",
+      "team_2": "Rayalaseema Kings",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RYLS-CR1@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/0jFvK1DiSLiXR60fnTvbRw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -102,28 +124,6 @@
       "team_2": "Haussener/Friedli",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-SUI@2x.png",
       "stream_link": "https://dai.fancode.com/primary/105046_english_hls_4904adfreeta-no/index.m3u8"
-    },
-    {
-      "event_catagory": "volleyball",
-      "event_name": "Volleyball Womens Beach Pro Tour",
-      "match_id": 105040,
-      "match_name": "Hildreth/Van Gunst vs Sh. T. Chao/J. Dong",
-      "team_1": "Hildreth/Van Gunst",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-US@2x.png",
-      "team_2": "Sh. T. Chao/J. Dong",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-CHN@2x.png",
-      "stream_link": "https://dai.fancode.com/primary/105040_english_hls_4695adfreeta-di/index.m3u8"
-    },
-    {
-      "event_catagory": "rugby",
-      "event_name": "Senior National Rugby 7s Women's",
-      "match_id": 104886,
-      "match_name": "Odisha vs Rajasthan",
-      "team_1": "Odisha",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-ODS@2x.png",
-      "team_2": "Rajasthan",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-RAJ@2x.png",
-      "stream_link": " Free Trial attempt unsuccessful......it requires Premium Account"
     }
   ]
 }
