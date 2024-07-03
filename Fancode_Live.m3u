@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Maharashtra vs J&K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104857" group-title="Senior National Rugby 7s Women's",Maharashtra vs J&K
-https://dai.google.com/linear/hls/event/LJYF-EVnQaS3q5BZcBZ4OQ/master.m3u8
+#EXTINF:-1 tvg-name="Smashers vs Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102627" group-title="Siechem Pondicherry Men's T10 Tournament 2024",Smashers vs Titans
+https://dai.google.com/linear/hls/event/f7iXVKOcR8y0kFO4jsAK9g/master.m3u8
 #EXTINF:-1 tvg-name="West Bengal vs Assam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104858" group-title="Senior National Rugby 7s Women's",West Bengal vs Assam
 https://dai.google.com/linear/hls/event/h-M5rlKeQc-n9KJBP-lJvA/master.m3u8
+#EXTINF:-1 tvg-name="Kerala vs Himachal Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104859" group-title="Senior National Rugby 7s Women's",Kerala vs Himachal Pradesh
+https://dai.google.com/linear/hls/event/Z_yPO2efSt-ZDYc5wlqXGg/master.m3u8
+#EXTINF:-1 tvg-name="Bihar vs Madhya Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104860" group-title="Senior National Rugby 7s Women's",Bihar vs Madhya Pradesh
+https://dai.google.com/linear/hls/event/isdcIcgjQTCUH6-uXR0OOg/master.m3u8
