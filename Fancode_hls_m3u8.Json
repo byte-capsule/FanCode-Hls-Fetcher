@@ -2,7 +2,7 @@
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "channels_amount": 3,
-  "updated_on": "03-07-2024 on 08:46:58 AM \ud83c\udf1e",
+  "updated_on": "03-07-2024 on 09:07:47 AM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -18,17 +18,6 @@
     {
       "event_catagory": "rugby",
       "event_name": "Senior National Rugby 7s Women's",
-      "match_id": 104849,
-      "match_name": "Uttarakhand vs Himachal Pradesh",
-      "team_1": "Uttarakhand",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-UTT@2x.png",
-      "team_2": "Himachal Pradesh",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-HIP@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/QFaSLev2QMqhRXgB2RZT4Q/master.m3u8"
-    },
-    {
-      "event_catagory": "rugby",
-      "event_name": "Senior National Rugby 7s Women's",
       "match_id": 104850,
       "match_name": "Uttar Pradesh vs Madhya Pradesh",
       "team_1": "Uttar Pradesh",
@@ -36,6 +25,17 @@
       "team_2": "Madhya Pradesh",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-MP@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/BYiXvnXOTkSREF42qXkBmg/master.m3u8"
+    },
+    {
+      "event_catagory": "rugby",
+      "event_name": "Senior National Rugby 7s Women's",
+      "match_id": 104851,
+      "match_name": "Punjab vs Puducherry",
+      "team_1": "Punjab",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-PUN@2x.png",
+      "team_2": "Puducherry",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-PUD@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/Q8VqaJ-WRs2bWUQW6vYuwA/master.m3u8"
     }
   ]
 }
