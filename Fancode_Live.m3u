@@ -7,17 +7,15 @@ https://dai.google.com/linear/hls/event/DL-kv5dfQwKemRw4jjTf7A/master.m3u8
 https://dai.google.com/linear/hls/event/YM6gxNp_SwWkvRuDMBn7GQ/master.m3u8
 #EXTINF:-1 tvg-name="Lankan Lions vs Zinitis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104495" group-title="ECS Romania, 2024",Lankan Lions vs Zinitis
  Free Trial attempt unsuccessful......it requires Premium Account
-#EXTINF:-1 tvg-name="Zambia vs Malawi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103977" group-title="Kenya Quadrangular Cup, 2024",Zambia vs Malawi
-https://dai.google.com/linear/hls/event/Kgvn19xbTnui0BxMhSLKFA/master.m3u8
 #EXTINF:-1 tvg-name="Godavari Titans vs Rayalaseema Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104271" group-title="Andhra Premier League, 2024",Godavari Titans vs Rayalaseema Kings
 https://dai.google.com/linear/hls/event/0jFvK1DiSLiXR60fnTvbRw/master.m3u8
-#EXTINF:-1 tvg-name="England Champions vs India Champions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104293" group-title="World Championship of Legends, 2024",England Champions vs India Champions
-https://dai.google.com/linear/hls/event/5elKVofgQOOfJdYQ8OAKXQ/master.m3u8
 #EXTINF:-1 tvg-name="Galle Marvels vs Colombo Strikers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103770" group-title="Lanka Premier League, 2024",Galle Marvels vs Colombo Strikers
 https://dai.google.com/linear/hls/event/Ity7KG5OQ2ycTyX5_Htd2w/master.m3u8
-#EXTINF:-1 tvg-name="Namibia vs Punjab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104540" group-title="Punjab tour of Namibia, 2024",Namibia vs Punjab
-https://dai.google.com/linear/hls/event/xQqrmMisQJOidFE23gTUig/master.m3u8
+#EXTINF:-1 tvg-name="England Champions vs India Champions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104293" group-title="World Championship of Legends, 2024",England Champions vs India Champions
+https://dai.google.com/linear/hls/event/5elKVofgQOOfJdYQ8OAKXQ/master.m3u8
 #EXTINF:-1 tvg-name="New Zealand Women vs England Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96348" group-title="New Zealand Women tour of England, 2024",New Zealand Women vs England Women
 https://pubads.g.doubleclick.net/ssai/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
-#EXTINF:-1 tvg-name="Łosiak/Bryl vs Haussener/Friedli" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105046" group-title="Volleyball Mens Beach Pro Tour",Łosiak/Bryl vs Haussener/Friedli
-https://dai.fancode.com/primary/105046_english_hls_4904adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Benzi/Bonifazi vs Heidrich/Dillier" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105049" group-title="Volleyball Mens Beach Pro Tour",Benzi/Bonifazi vs Heidrich/Dillier
+https://dai.fancode.com/primary/105049_english_hls_864adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Brewster/Webber vs Dal Corso/Viscovich" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105048" group-title="Volleyball Mens Beach Pro Tour",Brewster/Webber vs Dal Corso/Viscovich
+https://dai.fancode.com/primary/105048_english_hls_4567adfreeta-di/index.m3u8
