@@ -3,21 +3,17 @@
 https://dai.google.com/linear/hls/event/DL-kv5dfQwKemRw4jjTf7A/master.m3u8
 #EXTINF:-1 tvg-name="United CC Bucharest vs Royal Eagles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104492" group-title="ECS Romania, 2024",United CC Bucharest vs Royal Eagles
 https://dai.google.com/linear/hls/event/JW2ztGYwR9WbRj4zwXScww/master.m3u8
+#EXTINF:-1 tvg-name="Coastal Riders vs Bezawada Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104270" group-title="Andhra Premier League, 2024",Coastal Riders vs Bezawada Tigers
+https://dai.google.com/linear/hls/event/BIucK7QvRmK3GX1S9FUVAw/master.m3u8
 #EXTINF:-1 tvg-name="Namibia vs Punjab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104540" group-title="Punjab tour of Namibia, 2024",Namibia vs Punjab
 https://dai.google.com/linear/hls/event/xQqrmMisQJOidFE23gTUig/master.m3u8
 #EXTINF:-1 tvg-name="Rwanda vs Kenya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103976" group-title="Kenya Quadrangular Cup, 2024",Rwanda vs Kenya
 https://dai.google.com/linear/hls/event/--viyWGqQuSaFEuDtN0hgA/master.m3u8
-#EXTINF:-1 tvg-name="Coastal Riders vs Bezawada Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104270" group-title="Andhra Premier League, 2024",Coastal Riders vs Bezawada Tigers
-https://dai.google.com/linear/hls/event/BIucK7QvRmK3GX1S9FUVAw/master.m3u8
-#EXTINF:-1 tvg-name="Pedro/Gabriel vs Dal Corso/Viscovich" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105033" group-title="Volleyball Mens Beach Pro Tour",Pedro/Gabriel vs Dal Corso/Viscovich
-https://dai.fancode.com/primary/105033_english_hls_4508adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Łosiak/Bryl vs Friedl/F.Trummer" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105031" group-title="Volleyball Mens Beach Pro Tour",Łosiak/Bryl vs Friedl/F.Trummer
-https://dai.fancode.com/primary/105031_english_hls_4713adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Dambulla Sixers vs Jaffna Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103769" group-title="Lanka Premier League, 2024",Dambulla Sixers vs Jaffna Kings
+https://dai.google.com/linear/hls/event/Jaod4zOwRMiu3Ya7GF7aSg/master.m3u8
 #EXTINF:-1 tvg-name="Heidrich/Dillier vs Arthur/Adrielson" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105035" group-title="Volleyball Mens Beach Pro Tour",Heidrich/Dillier vs Arthur/Adrielson
- Free Trial attempt unsuccessful......it requires Premium Account
+https://dai.fancode.com/primary/105035_english_hls_1267adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Hoppe/Shaw vs Benzi/Bonifazi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105034" group-title="Volleyball Mens Beach Pro Tour",Hoppe/Shaw vs Benzi/Bonifazi
- Free Trial attempt unsuccessful......it requires Premium Account
-#EXTINF:-1 tvg-name="Tamil Nadu vs Gujarat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104873" group-title="Senior National Rugby 7s Women's",Tamil Nadu vs Gujarat
- Free Trial attempt unsuccessful......it requires Premium Account
+https://dai.fancode.com/primary/105034_english_hls_5224adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="TBC vs TBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104874" group-title="Senior National Rugby 7s Women's",TBC vs TBC
  Free Trial attempt unsuccessful......it requires Premium Account
