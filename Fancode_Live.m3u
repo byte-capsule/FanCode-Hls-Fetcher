@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Bhutan Women vs Singapore Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104286" group-title="Bali Bash Women's T20I Tri-Series",Bhutan Women vs Singapore Women
 https://dai.google.com/linear/hls/event/9fWH7GSATQGCvgP31l1cmA/master.m3u8
-#EXTINF:-1 tvg-name="Jharkhand vs Haryana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104846" group-title="Senior National Rugby 7s Women's",Jharkhand vs Haryana
-https://dai.google.com/linear/hls/event/koxSvTPpQgm0UFfmjt7-wA/master.m3u8
+#EXTINF:-1 tvg-name="Rajasthan vs J&K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104847" group-title="Senior National Rugby 7s Women's",Rajasthan vs J&K
+https://dai.google.com/linear/hls/event/90beI8J1QY-5s0Kssph0ZA/master.m3u8
+#EXTINF:-1 tvg-name="Chhattisgarh vs Assam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104848" group-title="Senior National Rugby 7s Women's",Chhattisgarh vs Assam
+https://dai.google.com/linear/hls/event/e4is6ZP6RsOsW86w0DfGYw/master.m3u8
