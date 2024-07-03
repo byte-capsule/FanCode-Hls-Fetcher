@@ -3,6 +3,8 @@
 https://dai.google.com/linear/hls/event/DL-kv5dfQwKemRw4jjTf7A/master.m3u8
 #EXTINF:-1 tvg-name="Bucharest Zalmi vs Baneasa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104493" group-title="ECS Romania, 2024",Bucharest Zalmi vs Baneasa
 https://dai.google.com/linear/hls/event/62hxhwWuTVib5GLOcOO_uQ/master.m3u8
+#EXTINF:-1 tvg-name="Zambia vs Malawi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103977" group-title="Kenya Quadrangular Cup, 2024",Zambia vs Malawi
+https://dai.google.com/linear/hls/event/Kgvn19xbTnui0BxMhSLKFA/master.m3u8
 #EXTINF:-1 tvg-name="Coastal Riders vs Bezawada Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104270" group-title="Andhra Premier League, 2024",Coastal Riders vs Bezawada Tigers
 https://dai.google.com/linear/hls/event/BIucK7QvRmK3GX1S9FUVAw/master.m3u8
 #EXTINF:-1 tvg-name="Dambulla Sixers vs Jaffna Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103769" group-title="Lanka Premier League, 2024",Dambulla Sixers vs Jaffna Kings
@@ -15,7 +17,7 @@ https://dai.fancode.com/primary/102430_english_hls_6604adfreeta-no/index.m3u8
 https://dai.fancode.com/primary/105037_english_hls_539adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Mariafe/Clancy vs Bentele/Bossart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105036" group-title="Volleyball Womens Beach Pro Tour",Mariafe/Clancy vs Bentele/Bossart
 https://dai.fancode.com/primary/105036_english_hls_4279adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Andaman & Nicobar vs Himachal Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104875" group-title="Senior National Rugby 7s Women's",Andaman & Nicobar vs Himachal Pradesh
+#EXTINF:-1 tvg-name="Assam vs Andhra Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104878" group-title="Senior National Rugby 7s Women's",Assam vs Andhra Pradesh
  Free Trial attempt unsuccessful......it requires Premium Account
-#EXTINF:-1 tvg-name="Uttar Pradesh vs Puducherry" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104877" group-title="Senior National Rugby 7s Women's",Uttar Pradesh vs Puducherry
+#EXTINF:-1 tvg-name="Tamil Nadu vs Chandigarh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104879" group-title="Senior National Rugby 7s Women's",Tamil Nadu vs Chandigarh
  Free Trial attempt unsuccessful......it requires Premium Account
