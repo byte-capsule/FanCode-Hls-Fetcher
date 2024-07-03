@@ -9,11 +9,11 @@ https://dai.google.com/linear/hls/event/3wGnOBeXSwum8upYkOATNA/master.m3u8
 https://dai.google.com/linear/hls/event/0jFvK1DiSLiXR60fnTvbRw/master.m3u8
 #EXTINF:-1 tvg-name="Galle Marvels vs Colombo Strikers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103770" group-title="Lanka Premier League, 2024",Galle Marvels vs Colombo Strikers
 https://dai.google.com/linear/hls/event/Ity7KG5OQ2ycTyX5_Htd2w/master.m3u8
-#EXTINF:-1 tvg-name="England Champions vs India Champions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104293" group-title="World Championship of Legends, 2024",England Champions vs India Champions
-https://dai.google.com/linear/hls/event/5elKVofgQOOfJdYQ8OAKXQ/master.m3u8
 #EXTINF:-1 tvg-name="New Zealand Women vs England Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96348" group-title="New Zealand Women tour of England, 2024",New Zealand Women vs England Women
 https://pubads.g.doubleclick.net/ssai/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103900" group-title="Aramco Team Series Presented by PIF - London",Day 1
 https://dai.google.com/linear/hls/event/qaOdIl5DR8G3i-B7G_3xvQ/master.m3u8
-#EXTINF:-1 tvg-name="Brewster/Webber vs Dal Corso/Viscovich" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105048" group-title="Volleyball Mens Beach Pro Tour",Brewster/Webber vs Dal Corso/Viscovich
-https://dai.fancode.com/primary/105048_english_hls_4567adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Paulikiene/Raupelyte vs Cannon/Kraft" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105043" group-title="Volleyball Womens Beach Pro Tour",Paulikiene/Raupelyte vs Cannon/Kraft
+https://dai.fancode.com/primary/105043_english_hls_6410adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Mariafe/Clancy vs Ludwig/Lippmann" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105042" group-title="Volleyball Womens Beach Pro Tour",Mariafe/Clancy vs Ludwig/Lippmann
+https://dai.fancode.com/primary/105042_english_hls_9915adfreeta-di/index.m3u8
