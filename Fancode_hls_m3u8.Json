@@ -2,7 +2,7 @@
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "channels_amount": 11,
-  "updated_on": "03-07-2024 on 6:12:32 PM \ud83c\udf19",
+  "updated_on": "03-07-2024 on 6:45:28 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -17,6 +17,17 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "ECS Romania, 2024",
+      "match_id": 104494,
+      "match_name": "Baneasa vs Royal Eagles",
+      "team_1": "Baneasa",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAE@2x.png",
+      "team_2": "Royal Eagles",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROE@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/YM6gxNp_SwWkvRuDMBn7GQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "Kenya Quadrangular Cup, 2024",
       "match_id": 103977,
       "match_name": "Zambia vs Malawi",
@@ -25,17 +36,6 @@
       "team_2": "Malawi",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALA@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/Kgvn19xbTnui0BxMhSLKFA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Andhra Premier League, 2024",
-      "match_id": 104270,
-      "match_name": "Coastal Riders vs Bezawada Tigers",
-      "team_1": "Coastal Riders",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSRI@2x.png",
-      "team_2": "Bezawada Tigers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/BZW-CR1@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/BIucK7QvRmK3GX1S9FUVAw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -83,14 +83,25 @@
     },
     {
       "event_catagory": "volleyball",
-      "event_name": "Volleyball Womens Beach Pro Tour",
-      "match_id": 105041,
-      "match_name": "Niederhauser/Kernen vs Schneider/Kozuch",
-      "team_1": "Niederhauser/Kernen",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-SUI@2x.png",
-      "team_2": "Schneider/Kozuch",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-GER@2x.png",
-      "stream_link": "https://dai.fancode.com/primary/105041_english_hls_577adfreeta-no/index.m3u8"
+      "event_name": "Volleyball Mens Beach Pro Tour",
+      "match_id": 105047,
+      "match_name": "Herrera/Gavira vs Grossig/Seiser",
+      "team_1": "Herrera/Gavira",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-ESPA@2x.png",
+      "team_2": "Grossig/Seiser",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-AUST@2x.png",
+      "stream_link": "https://dai.fancode.com/primary/105047_english_hls_909adfreeta-di/index.m3u8"
+    },
+    {
+      "event_catagory": "volleyball",
+      "event_name": "Volleyball Mens Beach Pro Tour",
+      "match_id": 105046,
+      "match_name": "\u0141osiak/Bryl vs Haussener/Friedli",
+      "team_1": "\u0141osiak/Bryl",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-PLN@2x.png",
+      "team_2": "Haussener/Friedli",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-SUI@2x.png",
+      "stream_link": "https://dai.fancode.com/primary/105046_english_hls_4904adfreeta-no/index.m3u8"
     },
     {
       "event_catagory": "volleyball",
@@ -106,23 +117,12 @@
     {
       "event_catagory": "rugby",
       "event_name": "Senior National Rugby 7s Women's",
-      "match_id": 104884,
-      "match_name": "Maharashtra vs Uttarakhand",
-      "team_1": "Maharashtra",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-MAH@2x.png",
-      "team_2": "Uttarakhand",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-UTT@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/ABlHBfD5QuGGjbLd7QSKMg/master.m3u8"
-    },
-    {
-      "event_catagory": "rugby",
-      "event_name": "Senior National Rugby 7s Women's",
-      "match_id": 104885,
-      "match_name": "Karnataka vs Goa",
-      "team_1": "Karnataka",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-KAR@2x.png",
-      "team_2": "Goa",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-GOA@2x.png",
+      "match_id": 104886,
+      "match_name": "Odisha vs Rajasthan",
+      "team_1": "Odisha",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-ODS@2x.png",
+      "team_2": "Rajasthan",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-RAJ@2x.png",
       "stream_link": " Free Trial attempt unsuccessful......it requires Premium Account"
     }
   ]
