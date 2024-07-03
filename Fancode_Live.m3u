@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Bhutan Women vs Singapore Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104286" group-title="Bali Bash Women's T20I Tri-Series",Bhutan Women vs Singapore Women
 https://dai.google.com/linear/hls/event/9fWH7GSATQGCvgP31l1cmA/master.m3u8
-#EXTINF:-1 tvg-name="Uttar Pradesh vs Madhya Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104850" group-title="Senior National Rugby 7s Women's",Uttar Pradesh vs Madhya Pradesh
-https://dai.google.com/linear/hls/event/BYiXvnXOTkSREF42qXkBmg/master.m3u8
 #EXTINF:-1 tvg-name="Punjab vs Puducherry" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104851" group-title="Senior National Rugby 7s Women's",Punjab vs Puducherry
 https://dai.google.com/linear/hls/event/Q8VqaJ-WRs2bWUQW6vYuwA/master.m3u8
+#EXTINF:-1 tvg-name="Manipur vs Andhra Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104852" group-title="Senior National Rugby 7s Women's",Manipur vs Andhra Pradesh
+https://dai.google.com/linear/hls/event/qzpxJRbuRhuGQlINbQYmbw/master.m3u8
