@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="South Africa Champions vs England Champions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104295" group-title="World Championship of Legends, 2024",South Africa Champions vs England Champions
 https://dai.google.com/linear/hls/event/3luOVKc3Tqu4pSV-QVyuVg/master.m3u8
+#EXTINF:-1 tvg-name="Golden Sapero Technical Service vs Ace Cricket School" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104165" group-title="Bukhatir 50 overs League, 2024",Golden Sapero Technical Service vs Ace Cricket School
+https://dai.google.com/linear/hls/event/bQWAsfXaSRyuvVXtlzirHQ/master.m3u8
 #EXTINF:-1 tvg-name="ACCB vs Lankan Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104506" group-title="ECS Romania, 2024",ACCB vs Lankan Lions
 https://dai.google.com/linear/hls/event/IGzmFMwxQVu0N_KM_aX0GA/master.m3u8
 #EXTINF:-1 tvg-name="Kenya vs Malawi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103979" group-title="Kenya Quadrangular Cup, 2024",Kenya vs Malawi
@@ -9,15 +11,9 @@ https://dai.google.com/linear/hls/event/HEUcjEsnTN6Isw4Ysm3eLg/master.m3u8
 https://dai.google.com/linear/hls/event/GLAagfqFQkC0FKBDI1VAlw/master.m3u8
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103893" group-title="BMW International Open",Day 1
 https://dai.google.com/linear/hls/event/gsupj23oQGCuf9nBI2QaIg/master.m3u8
-#EXTINF:-1 tvg-name="Grimalt M./Grimalt E. vs Heidrich/Dillier" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104974" group-title="Volleyball Mens Beach Pro Tour",Grimalt M./Grimalt E. vs Heidrich/Dillier
-https://dai.fancode.com/primary/104974_english_hls_5493adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Åhman/Hellvig vs Cottafava/Nicolai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104973" group-title="Volleyball Mens Beach Pro Tour",Åhman/Hellvig vs Cottafava/Nicolai
-https://dai.fancode.com/primary/104973_english_hls_9148adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Partain/Benesh vs Herrera/Gavira" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104977" group-title="Volleyball Mens Beach Pro Tour",Partain/Benesh vs Herrera/Gavira
- Free Trial attempt unsuccessful......it requires Premium Account
+https://dai.fancode.com/primary/104977_english_hls_5803adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Evans/Budinger vs Brewster/Webber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104976" group-title="Volleyball Mens Beach Pro Tour",Evans/Budinger vs Brewster/Webber
- Free Trial attempt unsuccessful......it requires Premium Account
+https://dai.fancode.com/primary/104976_english_hls_9112adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="George/Andre vs Cherif/Ahmed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104975" group-title="Volleyball Mens Beach Pro Tour",George/Andre vs Cherif/Ahmed
- Free Trial attempt unsuccessful......it requires Premium Account
-#EXTINF:-1 tvg-name="Tina/Anastasija vs Müller/Tillmann" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104996" group-title="Volleyball Womens Beach Pro Tour",Tina/Anastasija vs Müller/Tillmann
  Free Trial attempt unsuccessful......it requires Premium Account
