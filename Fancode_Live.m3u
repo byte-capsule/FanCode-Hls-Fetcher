@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="South Africa Champions vs England Champions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104295" group-title="World Championship of Legends, 2024",South Africa Champions vs England Champions
-https://dai.google.com/linear/hls/event/3luOVKc3Tqu4pSV-QVyuVg/master.m3u8
 #EXTINF:-1 tvg-name="Golden Sapero Technical Service vs Ace Cricket School" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104165" group-title="Bukhatir 50 overs League, 2024",Golden Sapero Technical Service vs Ace Cricket School
 https://dai.google.com/linear/hls/event/bQWAsfXaSRyuvVXtlzirHQ/master.m3u8
-#EXTINF:-1 tvg-name="ACCB vs Lankan Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104506" group-title="ECS Romania, 2024",ACCB vs Lankan Lions
-https://dai.google.com/linear/hls/event/IGzmFMwxQVu0N_KM_aX0GA/master.m3u8
+#EXTINF:-1 tvg-name="ACCB vs Zinitis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104503" group-title="ECS Romania, 2024",ACCB vs Zinitis
+https://dai.google.com/linear/hls/event/O-V6Ya6iT3ubzJNl8Hhlpw/master.m3u8
 #EXTINF:-1 tvg-name="Imena Herons vs Ingenzi Heroes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103961" group-title="Rwanda Women Elite League T20, 2024",Imena Herons vs Ingenzi Heroes
 https://dai.google.com/linear/hls/event/GLAagfqFQkC0FKBDI1VAlw/master.m3u8
+#EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103901" group-title="Aramco Team Series Presented by PIF - London",Day 2
+https://dai.google.com/linear/hls/event/NhmnZWohTleBZYTdl8A9Vg/master.m3u8
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103893" group-title="BMW International Open",Day 1
 https://dai.google.com/linear/hls/event/gsupj23oQGCuf9nBI2QaIg/master.m3u8
 #EXTINF:-1 tvg-name="Evandro/Arthur vs Łosiak/Bryl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104980" group-title="Volleyball Mens Beach Pro Tour",Evandro/Arthur vs Łosiak/Bryl
