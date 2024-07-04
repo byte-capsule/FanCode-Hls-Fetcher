@@ -1,13 +1,17 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Baneasa vs United CC Bucharest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104514" group-title="ECS Romania, 2024",Baneasa vs United CC Bucharest
+https://dai.google.com/linear/hls/event/XCDyZZ0XROSCle3U2ud4mQ/master.m3u8
 #EXTINF:-1 tvg-name="Amasimbi Hawks vs Ingabo Knights" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103960" group-title="Rwanda Women Elite League T20, 2024",Amasimbi Hawks vs Ingabo Knights
 https://dai.google.com/linear/hls/event/Uu-sgxW6QRGq8mh4nrE_3g/master.m3u8
-#EXTINF:-1 tvg-name="Rwanda vs Zambia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103978" group-title="Kenya Quadrangular Cup, 2024",Rwanda vs Zambia
-https://dai.google.com/linear/hls/event/6nC58BWKTL-Drprjl3NpFw/master.m3u8
 #EXTINF:-1 tvg-name="Partain/Benesh vs Pfretzschner,/L. Winter" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104972" group-title="Volleyball Mens Beach Pro Tour",Partain/Benesh vs Pfretzschner,/L. Winter
 https://dai.fancode.com/primary/104972_english_hls_6631adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Mol, A./Sørum, C. vs Herrera/Gavira" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104971" group-title="Volleyball Mens Beach Pro Tour",Mol, A./Sørum, C. vs Herrera/Gavira
-https://dai.fancode.com/primary/104971_english_hls_84adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Bihar vs West Bengal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104912" group-title="Senior National Rugby 7s Women's",Bihar vs West Bengal
-https://dai.google.com/linear/hls/event/H7YIj8JhQDyO1JjfqsiRLw/master.m3u8
+#EXTINF:-1 tvg-name="Ana Patrícia/Duda vs Álvarez M/Moreno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104991" group-title="Volleyball Womens Beach Pro Tour",Ana Patrícia/Duda vs Álvarez M/Moreno
+https://dai.fancode.com/primary/104991_english_hls_946adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Gottardi/Menegatti vs Agatha/Rebecca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104990" group-title="Volleyball Womens Beach Pro Tour",Gottardi/Menegatti vs Agatha/Rebecca
+ Free Trial attempt unsuccessful......it requires Premium Account
+#EXTINF:-1 tvg-name="Carol/Barbara vs Esmée/Zoé" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104992" group-title="Volleyball Womens Beach Pro Tour",Carol/Barbara vs Esmée/Zoé
+ Free Trial attempt unsuccessful......it requires Premium Account
 #EXTINF:-1 tvg-name="Maharashtra vs Odisha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104913" group-title="Senior National Rugby 7s Women's",Maharashtra vs Odisha
+ Free Trial attempt unsuccessful......it requires Premium Account
+#EXTINF:-1 tvg-name="Jharkhand vs Uttarakhand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104914" group-title="Senior National Rugby 7s Women's",Jharkhand vs Uttarakhand
  Free Trial attempt unsuccessful......it requires Premium Account
