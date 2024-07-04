@@ -1,20 +1,9 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 9,
-  "updated_on": "04-07-2024 on 3:07:43 PM \ud83c\udf1e",
+  "channels_amount": 7,
+  "updated_on": "04-07-2024 on 3:28:47 PM \ud83c\udf1e",
   "channels": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECS Romania, 2024",
-      "match_id": 104518,
-      "match_name": "Bucharest Zalmi vs United CC Bucharest",
-      "team_1": "Bucharest Zalmi",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BZL@2x.png",
-      "team_2": "United CC Bucharest",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/UCC-CR2@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/hZeYHlK9RXSB-ZWrg8I-9Q/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Rwanda Women Elite League T20, 2024",
@@ -40,17 +29,6 @@
     {
       "event_catagory": "volleyball",
       "event_name": "Volleyball Mens Beach Pro Tour",
-      "match_id": 104969,
-      "match_name": "Ehlers/Wickler vs \u0141osiak/Bryl",
-      "team_1": "Ehlers/Wickler",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-GRM@2x.png",
-      "team_2": "\u0141osiak/Bryl",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-PLN@2x.png",
-      "stream_link": "https://dai.fancode.com/primary/104969_english_hls_9069adfreeta-di/index.m3u8"
-    },
-    {
-      "event_catagory": "volleyball",
-      "event_name": "Volleyball Mens Beach Pro Tour",
       "match_id": 104972,
       "match_name": "Partain/Benesh vs Pfretzschner,/L. Winter",
       "team_1": "Partain/Benesh",
@@ -68,7 +46,7 @@
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-NWY@2x.png",
       "team_2": "Herrera/Gavira",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-ESPA@2x.png",
-      "stream_link": " Free Trial attempt unsuccessful......it requires Premium Account"
+      "stream_link": "https://dai.fancode.com/primary/104971_english_hls_84adfreeta-di/index.m3u8"
     },
     {
       "event_catagory": "volleyball",
@@ -79,18 +57,7 @@
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-NTH@2x.png",
       "team_2": "Ludwig/Lippmann",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-GRM@2x.png",
-      "stream_link": " Free Trial attempt unsuccessful......it requires Premium Account"
-    },
-    {
-      "event_catagory": "rugby",
-      "event_name": "Senior National Rugby 7s Women's",
-      "match_id": 104910,
-      "match_name": "Manipur vs Goa",
-      "team_1": "Manipur",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-MANI@2x.png",
-      "team_2": "Goa",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-GOA@2x.png",
-      "stream_link": " Free Trial attempt unsuccessful......it requires Premium Account"
+      "stream_link": "https://dai.fancode.com/primary/104989_english_hls_4004adfreeta-di/index.m3u8"
     },
     {
       "event_catagory": "rugby",
@@ -101,6 +68,17 @@
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-CHG@2x.png",
       "team_2": "Gujarat",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-GUJ@2x.png",
+      "stream_link": " Free Trial attempt unsuccessful......it requires Premium Account"
+    },
+    {
+      "event_catagory": "rugby",
+      "event_name": "Senior National Rugby 7s Women's",
+      "match_id": 104912,
+      "match_name": "Bihar vs West Bengal",
+      "team_1": "Bihar",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-BIH@2x.png",
+      "team_2": "West Bengal",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/rb-flags/FC-WB@2x.png",
       "stream_link": " Free Trial attempt unsuccessful......it requires Premium Account"
     }
   ]
