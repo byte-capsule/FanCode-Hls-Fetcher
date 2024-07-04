@@ -1,21 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="South Africa Champions vs England Champions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104295" group-title="World Championship of Legends, 2024",South Africa Champions vs England Champions
 https://dai.google.com/linear/hls/event/3luOVKc3Tqu4pSV-QVyuVg/master.m3u8
-#EXTINF:-1 tvg-name="Baneasa vs United CC Bucharest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104514" group-title="ECS Romania, 2024",Baneasa vs United CC Bucharest
-https://dai.google.com/linear/hls/event/XCDyZZ0XROSCle3U2ud4mQ/master.m3u8
+#EXTINF:-1 tvg-name="ACCB vs Lankan Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104506" group-title="ECS Romania, 2024",ACCB vs Lankan Lions
+https://dai.google.com/linear/hls/event/IGzmFMwxQVu0N_KM_aX0GA/master.m3u8
 #EXTINF:-1 tvg-name="Kenya vs Malawi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103979" group-title="Kenya Quadrangular Cup, 2024",Kenya vs Malawi
 https://dai.google.com/linear/hls/event/HEUcjEsnTN6Isw4Ysm3eLg/master.m3u8
-#EXTINF:-1 tvg-name="Ingenzi Heroes vs Imena Herons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103961" group-title="Rwanda Women Elite League T20, 2024",Ingenzi Heroes vs Imena Herons
+#EXTINF:-1 tvg-name="Imena Herons vs Ingenzi Heroes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103961" group-title="Rwanda Women Elite League T20, 2024",Imena Herons vs Ingenzi Heroes
 https://dai.google.com/linear/hls/event/GLAagfqFQkC0FKBDI1VAlw/master.m3u8
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103893" group-title="BMW International Open",Day 1
 https://dai.google.com/linear/hls/event/gsupj23oQGCuf9nBI2QaIg/master.m3u8
-#EXTINF:-1 tvg-name="Nuss/Kloth vs Cannon/Kraft" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104995" group-title="Volleyball Womens Beach Pro Tour",Nuss/Kloth vs Cannon/Kraft
-https://dai.fancode.com/primary/104995_english_hls_9140adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Scoles/Flint vs Xue/X. Y. Xia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104994" group-title="Volleyball Womens Beach Pro Tour",Scoles/Flint vs Xue/X. Y. Xia
-https://dai.fancode.com/primary/104994_english_hls_3110adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Melissa/Brandie vs Vergé-Dépré, A./Mäder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104993" group-title="Volleyball Womens Beach Pro Tour",Melissa/Brandie vs Vergé-Dépré, A./Mäder
- Free Trial attempt unsuccessful......it requires Premium Account
-#EXTINF:-1 tvg-name="West Bengal vs Maharashtra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104918" group-title="Senior National Rugby 7s Women's",West Bengal vs Maharashtra
+#EXTINF:-1 tvg-name="Grimalt M./Grimalt E. vs Heidrich/Dillier" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104974" group-title="Volleyball Mens Beach Pro Tour",Grimalt M./Grimalt E. vs Heidrich/Dillier
+https://dai.fancode.com/primary/104974_english_hls_5493adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Åhman/Hellvig vs Cottafava/Nicolai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104973" group-title="Volleyball Mens Beach Pro Tour",Åhman/Hellvig vs Cottafava/Nicolai
+https://dai.fancode.com/primary/104973_english_hls_9148adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Tina/Anastasija vs Müller/Tillmann" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104996" group-title="Volleyball Womens Beach Pro Tour",Tina/Anastasija vs Müller/Tillmann
  Free Trial attempt unsuccessful......it requires Premium Account
 #EXTINF:-1 tvg-name="Bihar vs Odisha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104919" group-title="Senior National Rugby 7s Women's",Bihar vs Odisha
  Free Trial attempt unsuccessful......it requires Premium Account
