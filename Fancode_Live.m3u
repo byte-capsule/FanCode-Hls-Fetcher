@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Chandigarh vs Jharkhand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104895" group-title="Senior National Rugby 7s Women's",Chandigarh vs Jharkhand
-https://dai.google.com/linear/hls/event/8qcl54liTZ6r0huZIgTrrg/master.m3u8
-#EXTINF:-1 tvg-name="Manipur vs Punjab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104896" group-title="Senior National Rugby 7s Women's",Manipur vs Punjab
-https://dai.google.com/linear/hls/event/tAgrhSCeSia3tBqEfEO0Dw/master.m3u8
+#EXTINF:-1 tvg-name="Gujarat vs Uttarakhand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104897" group-title="Senior National Rugby 7s Women's",Gujarat vs Uttarakhand
+https://dai.google.com/linear/hls/event/GosRE3VRSeuiKQUFq6vY-A/master.m3u8
+#EXTINF:-1 tvg-name="Goa vs Rajasthan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104898" group-title="Senior National Rugby 7s Women's",Goa vs Rajasthan
+https://dai.google.com/linear/hls/event/VIbNMGVfSeCIOFYFbcRJrQ/master.m3u8
