@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Gujarat vs Uttarakhand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104897" group-title="Senior National Rugby 7s Women's",Gujarat vs Uttarakhand
-https://dai.google.com/linear/hls/event/GosRE3VRSeuiKQUFq6vY-A/master.m3u8
 #EXTINF:-1 tvg-name="Goa vs Rajasthan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104898" group-title="Senior National Rugby 7s Women's",Goa vs Rajasthan
 https://dai.google.com/linear/hls/event/VIbNMGVfSeCIOFYFbcRJrQ/master.m3u8
+#EXTINF:-1 tvg-name="Telangana vs Haryana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104899" group-title="Senior National Rugby 7s Women's",Telangana vs Haryana
+https://dai.google.com/linear/hls/event/y0JT5LrITiy2YEDcLcfpaw/master.m3u8
