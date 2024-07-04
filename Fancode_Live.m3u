@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Telangana vs Haryana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104899" group-title="Senior National Rugby 7s Women's",Telangana vs Haryana
-https://dai.google.com/linear/hls/event/y0JT5LrITiy2YEDcLcfpaw/master.m3u8
-#EXTINF:-1 tvg-name="Himachal Pradesh vs Puducherry" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104900" group-title="Senior National Rugby 7s Women's",Himachal Pradesh vs Puducherry
-https://dai.google.com/linear/hls/event/bPO2pzhWRPyATH2RbI7rPA/master.m3u8
+#EXTINF:-1 tvg-name="Transylvania vs Bucharest Zalmi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104517" group-title="ECS Romania, 2024",Transylvania vs Bucharest Zalmi
+https://dai.google.com/linear/hls/event/vJU_Lw3yTNyCdccn1i9-Eg/master.m3u8
+#EXTINF:-1 tvg-name="Madhya Pradesh vs Andhra Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104901" group-title="Senior National Rugby 7s Women's",Madhya Pradesh vs Andhra Pradesh
+https://dai.google.com/linear/hls/event/Zz7EXiMPR2y3uppStYO0lQ/master.m3u8
+#EXTINF:-1 tvg-name="Andaman & Nicobar vs Uttar Pradesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104902" group-title="Senior National Rugby 7s Women's",Andaman & Nicobar vs Uttar Pradesh
+https://dai.google.com/linear/hls/event/sUnV3qqrTGCsimz-T8vJkQ/master.m3u8
