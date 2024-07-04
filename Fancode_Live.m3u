@@ -1,11 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Pakistan Champions vs West Indies Champions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104296" group-title="World Championship of Legends, 2024",Pakistan Champions vs West Indies Champions
-https://dai.google.com/linear/hls/event/dWYIzivTQZe4chvX5DH7wQ/master.m3u8
-#EXTINF:-1 tvg-name="Ace Cricket School vs Golden Sapero Technical Service" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104165" group-title="Bukhatir 50 overs League, 2024",Ace Cricket School vs Golden Sapero Technical Service
-https://dai.google.com/linear/hls/event/bQWAsfXaSRyuvVXtlzirHQ/master.m3u8
-#EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103901" group-title="Aramco Team Series Presented by PIF - London",Day 2
-https://dai.google.com/linear/hls/event/NhmnZWohTleBZYTdl8A9Vg/master.m3u8
-#EXTINF:-1 tvg-name="Scoles/Flint vs Vergé-Dépré, A./Mäder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105002" group-title="Volleyball Womens Beach Pro Tour",Scoles/Flint vs Vergé-Dépré, A./Mäder
-https://dai.fancode.com/primary/105002_english_hls_3366adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Carol/Barbara vs Álvarez M/Moreno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105001" group-title="Volleyball Womens Beach Pro Tour",Carol/Barbara vs Álvarez M/Moreno
-https://dai.fancode.com/primary/105001_english_hls_8985adfreeta-di/index.m3u8
