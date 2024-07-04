@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Uttar Pradesh vs Assam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104894" group-title="Senior National Rugby 7s Women's",Uttar Pradesh vs Assam
-https://dai.google.com/linear/hls/event/aO2I_3i6Rz2_QKtOzI5osQ/master.m3u8
 #EXTINF:-1 tvg-name="Chandigarh vs Jharkhand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104895" group-title="Senior National Rugby 7s Women's",Chandigarh vs Jharkhand
 https://dai.google.com/linear/hls/event/8qcl54liTZ6r0huZIgTrrg/master.m3u8
+#EXTINF:-1 tvg-name="Manipur vs Punjab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104896" group-title="Senior National Rugby 7s Women's",Manipur vs Punjab
+https://dai.google.com/linear/hls/event/tAgrhSCeSia3tBqEfEO0Dw/master.m3u8
