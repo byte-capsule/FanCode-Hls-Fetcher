@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Pakistan Champions vs West Indies Champions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104296" group-title="World Championship of Legends, 2024",Pakistan Champions vs West Indies Champions
+https://dai.google.com/linear/hls/event/dWYIzivTQZe4chvX5DH7wQ/master.m3u8
 #EXTINF:-1 tvg-name="Golden Sapero Technical Service vs Ace Cricket School" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104165" group-title="Bukhatir 50 overs League, 2024",Golden Sapero Technical Service vs Ace Cricket School
 https://dai.google.com/linear/hls/event/bQWAsfXaSRyuvVXtlzirHQ/master.m3u8
 #EXTINF:-1 tvg-name="ACCB vs Zinitis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104503" group-title="ECS Romania, 2024",ACCB vs Zinitis
@@ -7,9 +9,7 @@ https://dai.google.com/linear/hls/event/O-V6Ya6iT3ubzJNl8Hhlpw/master.m3u8
 https://dai.google.com/linear/hls/event/NhmnZWohTleBZYTdl8A9Vg/master.m3u8
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103893" group-title="BMW International Open",Day 1
 https://dai.google.com/linear/hls/event/gsupj23oQGCuf9nBI2QaIg/master.m3u8
-#EXTINF:-1 tvg-name="Ehlers/Wickler vs Krattiger/Breer" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104979" group-title="Volleyball Mens Beach Pro Tour",Ehlers/Wickler vs Krattiger/Breer
-https://dai.fancode.com/primary/104979_english_hls_9552adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Gottardi/Menegatti vs Ludwig/Lippmann" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104998" group-title="Volleyball Womens Beach Pro Tour",Gottardi/Menegatti vs Ludwig/Lippmann
 https://dai.fancode.com/primary/104998_english_hls_6808adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Stam/Schoon vs Agatha/Rebecca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104997" group-title="Volleyball Womens Beach Pro Tour",Stam/Schoon vs Agatha/Rebecca
- Free Trial attempt unsuccessful......it requires Premium Account
+https://dai.fancode.com/primary/104997_english_hls_739adfreeta-no/index.m3u8
