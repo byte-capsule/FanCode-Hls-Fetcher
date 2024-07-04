@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Tamil Nadu vs Bihar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104889" group-title="Senior National Rugby 7s Women's",Tamil Nadu vs Bihar
-https://dai.google.com/linear/hls/event/fXk_VLHMTyanxEOYWv9Uog/master.m3u8
 #EXTINF:-1 tvg-name="Kerala vs West Bengal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104890" group-title="Senior National Rugby 7s Women's",Kerala vs West Bengal
 https://dai.google.com/linear/hls/event/t0_oJVjTTlSRvhFrG20lQA/master.m3u8
+#EXTINF:-1 tvg-name="Delhi vs Maharashtra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104891" group-title="Senior National Rugby 7s Women's",Delhi vs Maharashtra
+https://dai.google.com/linear/hls/event/vZnB0L0uSoCSVzTtIBTijQ/master.m3u8
