@@ -3,18 +3,16 @@
 https://dai.google.com/linear/hls/event/r5P5jnRVSASrt2N9Jj-Qmw/master.m3u8
 #EXTINF:-1 tvg-name="CSS Group vs UAE Kings XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104166" group-title="Bukhatir 50 overs League, 2024",CSS Group vs UAE Kings XI
 https://dai.google.com/linear/hls/event/pVxTbCi8QcaKqEpDEOkTgA/master.m3u8
-#EXTINF:-1 tvg-name="Cluj vs ACCB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104538" group-title="ECS Romania, 2024",Cluj vs ACCB
-https://dai.google.com/linear/hls/event/70Yu6i2cTO6hbhoHhyDztg/master.m3u8
-#EXTINF:-1 tvg-name="Kenya vs Rwanda" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103983" group-title="Kenya Quadrangular Cup, 2024",Kenya vs Rwanda
-https://dai.google.com/linear/hls/event/5CdR-OGyQc6ynojdXJgQeA/master.m3u8
-#EXTINF:-1 tvg-name="Punjab vs Namibia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104541" group-title="Punjab tour of Namibia, 2024",Punjab vs Namibia
-https://dai.google.com/linear/hls/event/qTdGliFqSMe-7JnkmNE_4w/master.m3u8
 #EXTINF:-1 tvg-name="Kent vs Gloucestershire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102104" group-title="Vitality Blast T20, 2024",Kent vs Gloucestershire
 https://dai.google.com/linear/hls/event/_bmYiY6XT1ydsnJMzIAtEA/master.m3u8
+#EXTINF:-1 tvg-name="Punjab vs Namibia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104541" group-title="Punjab tour of Namibia, 2024",Punjab vs Namibia
+https://dai.google.com/linear/hls/event/qTdGliFqSMe-7JnkmNE_4w/master.m3u8
 #EXTINF:-1 tvg-name="Lyca Kovai Kings vs Chepauk Super Gillies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100431" group-title="Tamil Nadu Premier League, 2024",Lyca Kovai Kings vs Chepauk Super Gillies
 https://dai.google.com/linear/hls/event/nlxxLSmLSh2jJaPz2isuwg/master.m3u8
-#EXTINF:-1 tvg-name="Qualifying" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95400" group-title="F3 GREAT BRITAIN 2024",Qualifying
-https://d14poey9reee4f.cloudfront.net/out/v1/4af4845597834d7db662fde9c6b7273e/index.mpd
+#EXTINF:-1 tvg-name="Galle Marvels vs Jaffna Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103771" group-title="Lanka Premier League, 2024",Galle Marvels vs Jaffna Kings
+https://dai.google.com/linear/hls/event/YeTwGRbNS3mJxVxUhIZVZQ/master.m3u8
+#EXTINF:-1 tvg-name="Qualifying Session" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95351" group-title="F2 GREAT BRITAIN 2024",Qualifying Session
+https://d2w9o2xn5x4131.cloudfront.net/out/v1/b7170ab057774f6383d6ac8e5f21a2af/index.mpd
 #EXTINF:-1 tvg-name="DTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104476" group-title="DTM 2024",DTM
 https://dai.google.com/linear/hls/event/oGVn-qsZROCXQ_AML2wf7w/master.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103902" group-title="Aramco Team Series Presented by PIF - London",Day 3
@@ -23,5 +21,7 @@ https://dai.google.com/linear/hls/event/Y_UIp7SeRYSkOBidosonSQ/master.m3u8
 https://dai.google.com/linear/hls/event/kwUnUUqOS6eZaaQcoIvOaA/master.m3u8
 #EXTINF:-1 tvg-name="Xue/X. Y. Xia vs Vergé-Dépré, A./Mäder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105010" group-title="Volleyball Womens Beach Pro Tour",Xue/X. Y. Xia vs Vergé-Dépré, A./Mäder
 https://dai.fancode.com/primary/105010_english_hls_5356adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Melissa/Brandie vs Scoles/Flint" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105009" group-title="Volleyball Womens Beach Pro Tour",Melissa/Brandie vs Scoles/Flint
-https://dai.fancode.com/primary/105009_english_hls_8788adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Müller/Tillmann vs Cannon/Kraft" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105012" group-title="Volleyball Womens Beach Pro Tour",Müller/Tillmann vs Cannon/Kraft
+https://dai.fancode.com/primary/105012_english_hls_3193adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Nuss/Kloth vs Tina/Anastasija" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105011" group-title="Volleyball Womens Beach Pro Tour",Nuss/Kloth vs Tina/Anastasija
+https://dai.fancode.com/primary/105011_english_hls_8279adfreeta-no/index.m3u8
