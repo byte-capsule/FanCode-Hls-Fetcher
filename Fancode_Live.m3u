@@ -11,6 +11,10 @@ https://dai.google.com/linear/hls/event/5CdR-OGyQc6ynojdXJgQeA/master.m3u8
 https://dai.google.com/linear/hls/event/qTdGliFqSMe-7JnkmNE_4w/master.m3u8
 #EXTINF:-1 tvg-name="Sanfrecce Hiroshima vs Vissel Kobe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102431" group-title="J League 2024",Sanfrecce Hiroshima vs Vissel Kobe
 https://dai.fancode.com/primary/102431_english_hls_5312adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Practice 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95192" group-title="F1 QATAR AIRWAYS BRITISH GRAND PRIX 2024",Practice 1
+https://d1amkpnvks0rc7.cloudfront.net/out/v1/6bc9454de63b4fe6b007476d15d4b2e3/index.mpd
+#EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103902" group-title="Aramco Team Series Presented by PIF - London",Day 3
+https://dai.google.com/linear/hls/event/Y_UIp7SeRYSkOBidosonSQ/master.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103894" group-title="BMW International Open",Day 2
 https://dai.google.com/linear/hls/event/kwUnUUqOS6eZaaQcoIvOaA/master.m3u8
 #EXTINF:-1 tvg-name="Agatha/Rebecca vs Ludwig/Lippmann" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105006" group-title="Volleyball Womens Beach Pro Tour",Agatha/Rebecca vs Ludwig/Lippmann
