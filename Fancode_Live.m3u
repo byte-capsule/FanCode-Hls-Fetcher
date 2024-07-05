@@ -11,7 +11,5 @@ https://dai.google.com/linear/hls/event/qTdGliFqSMe-7JnkmNE_4w/master.m3u8
 https://d3k42wfaooeaon.cloudfront.net/out/v1/e66a800ab509412590beeb5f38aa5fdf/index.mpd
 #EXTINF:-1 tvg-name="DTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104475" group-title="DTM 2024",DTM
 https://dai.google.com/linear/hls/event/zBgpbPtdScGTriieE_5JZA/master.m3u8
-#EXTINF:-1 tvg-name="Ehlers/Wickler vs Evandro/Arthur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104985" group-title="Volleyball Mens Beach Pro Tour",Ehlers/Wickler vs Evandro/Arthur
-https://dai.fancode.com/primary/104985_english_hls_3669adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Krattiger/Breer vs Łosiak/Bryl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104986" group-title="Volleyball Mens Beach Pro Tour",Krattiger/Breer vs Łosiak/Bryl
 https://dai.fancode.com/primary/104986_english_hls_8716adfreeta-no/index.m3u8
