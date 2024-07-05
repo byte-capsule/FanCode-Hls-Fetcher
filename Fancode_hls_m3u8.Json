@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 11,
-  "updated_on": "05-07-2024 on 7:26:47 PM \ud83c\udf19",
+  "channels_amount": 13,
+  "updated_on": "05-07-2024 on 7:41:05 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -71,6 +71,17 @@
       "stream_link": "https://dai.google.com/linear/hls/event/_bmYiY6XT1ydsnJMzIAtEA/master.m3u8"
     },
     {
+      "event_catagory": "cricket",
+      "event_name": "Tamil Nadu Premier League, 2024",
+      "match_id": 100431,
+      "match_name": "Lyca Kovai Kings vs Chepauk Super Gillies",
+      "team_1": "Lyca Kovai Kings",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LKK@2x.png",
+      "team_2": "Chepauk Super Gillies",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSGL@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/nlxxLSmLSh2jJaPz2isuwg/master.m3u8"
+    },
+    {
       "event_catagory": "racing",
       "event_name": "F3 GREAT BRITAIN 2024",
       "match_id": 95400,
@@ -80,6 +91,17 @@
       "team_2": "Silverstone",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
       "stream_link": "https://d14poey9reee4f.cloudfront.net/out/v1/4af4845597834d7db662fde9c6b7273e/index.mpd"
+    },
+    {
+      "event_catagory": "racing",
+      "event_name": "DTM 2024",
+      "match_id": 104476,
+      "match_name": "DTM",
+      "team_1": "Practice 2 - Norisring",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-DTM@2x.png",
+      "team_2": "Norisring",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/oGVn-qsZROCXQ_AML2wf7w/master.m3u8"
     },
     {
       "event_catagory": "golf",

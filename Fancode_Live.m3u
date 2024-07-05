@@ -11,8 +11,12 @@ https://dai.google.com/linear/hls/event/5CdR-OGyQc6ynojdXJgQeA/master.m3u8
 https://dai.google.com/linear/hls/event/qTdGliFqSMe-7JnkmNE_4w/master.m3u8
 #EXTINF:-1 tvg-name="Kent vs Gloucestershire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102104" group-title="Vitality Blast T20, 2024",Kent vs Gloucestershire
 https://dai.google.com/linear/hls/event/_bmYiY6XT1ydsnJMzIAtEA/master.m3u8
+#EXTINF:-1 tvg-name="Lyca Kovai Kings vs Chepauk Super Gillies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100431" group-title="Tamil Nadu Premier League, 2024",Lyca Kovai Kings vs Chepauk Super Gillies
+https://dai.google.com/linear/hls/event/nlxxLSmLSh2jJaPz2isuwg/master.m3u8
 #EXTINF:-1 tvg-name="Qualifying" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95400" group-title="F3 GREAT BRITAIN 2024",Qualifying
 https://d14poey9reee4f.cloudfront.net/out/v1/4af4845597834d7db662fde9c6b7273e/index.mpd
+#EXTINF:-1 tvg-name="DTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104476" group-title="DTM 2024",DTM
+https://dai.google.com/linear/hls/event/oGVn-qsZROCXQ_AML2wf7w/master.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103902" group-title="Aramco Team Series Presented by PIF - London",Day 3
 https://dai.google.com/linear/hls/event/Y_UIp7SeRYSkOBidosonSQ/master.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103894" group-title="BMW International Open",Day 2
