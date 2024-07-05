@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Panthers XI vs Lions XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104120" group-title="Siechem Pondicherry Mens T20 Tournament 2024",Panthers XI vs Lions XI
 https://dai.google.com/linear/hls/event/j_YszI5SRYWZqcS02eQbHw/master.m3u8
-#EXTINF:-1 tvg-name="Bucharest Gladiators vs Lankan Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104497" group-title="ECS Romania, 2024",Bucharest Gladiators vs Lankan Lions
-https://dai.google.com/linear/hls/event/dPHrg4AzSI6PTLb74TQISg/master.m3u8
+#EXTINF:-1 tvg-name="Bucharest Gladiators vs Cluj" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104499" group-title="ECS Romania, 2024",Bucharest Gladiators vs Cluj
+https://dai.google.com/linear/hls/event/Cw5iIlZIQ-eBTsa-4iU0EQ/master.m3u8
 #EXTINF:-1 tvg-name="Zambia vs Malawi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103982" group-title="Kenya Quadrangular Cup, 2024",Zambia vs Malawi
 https://dai.google.com/linear/hls/event/MyYR6iIJTgeFkd-F-nMVeA/master.m3u8
 #EXTINF:-1 tvg-name="Punjab vs Namibia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104541" group-title="Punjab tour of Namibia, 2024",Punjab vs Namibia
 https://dai.google.com/linear/hls/event/qTdGliFqSMe-7JnkmNE_4w/master.m3u8
-#EXTINF:-1 tvg-name="Free Practice" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95350" group-title="F2 GREAT BRITAIN 2024",Free Practice
-https://d3k42wfaooeaon.cloudfront.net/out/v1/e66a800ab509412590beeb5f38aa5fdf/index.mpd
+#EXTINF:-1 tvg-name="Sanfrecce Hiroshima vs Vissel Kobe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102431" group-title="J League 2024",Sanfrecce Hiroshima vs Vissel Kobe
+https://dai.fancode.com/primary/102431_english_hls_5312adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="DTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104475" group-title="DTM 2024",DTM
 https://dai.google.com/linear/hls/event/zBgpbPtdScGTriieE_5JZA/master.m3u8
-#EXTINF:-1 tvg-name="Krattiger/Breer vs Łosiak/Bryl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104986" group-title="Volleyball Mens Beach Pro Tour",Krattiger/Breer vs Łosiak/Bryl
-https://dai.fancode.com/primary/104986_english_hls_8716adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Mol, A./Sørum, C. vs Partain/Benesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104987" group-title="Volleyball Mens Beach Pro Tour",Mol, A./Sørum, C. vs Partain/Benesh
+https://dai.fancode.com/primary/104987_english_hls_8964adfreeta-di/index.m3u8
