@@ -9,7 +9,7 @@ https://dai.google.com/linear/hls/event/icpR2rs9SfOVrFkfVDEqNQ/master.m3u8
 https://dai.google.com/linear/hls/event/L1hfypfjTQecVgYfQqm3bg/master.m3u8
 #EXTINF:-1 tvg-name="Coastal Riders vs Vizag Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104273" group-title="Andhra Premier League, 2024",Coastal Riders vs Vizag Warriors
 https://dai.google.com/linear/hls/event/avxQKMD7RsieM53ZEIU3yA/master.m3u8
-#EXTINF:-1 tvg-name="Dambulla Sixers vs Jaffna Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103773" group-title="Lanka Premier League, 2024",Dambulla Sixers vs Jaffna Kings
+#EXTINF:-1 tvg-name="Jaffna Kings vs Dambulla Sixers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103773" group-title="Lanka Premier League, 2024",Jaffna Kings vs Dambulla Sixers
 https://dai.google.com/linear/hls/event/Yg5-1j-CTEe73J8Dbr3Spg/master.m3u8
 #EXTINF:-1 tvg-name="SKM Salem Spartans vs Siechem Madurai Panthers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100433" group-title="Tamil Nadu Premier League, 2024",SKM Salem Spartans vs Siechem Madurai Panthers
 https://dai.google.com/linear/hls/event/1Cv7WpLFRoywoftoJ9Amzw/master.m3u8
@@ -19,3 +19,5 @@ https://pubads.g.doubleclick.net/ssai/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
 https://d3qs4z5m2ubpyf.cloudfront.net/out/v1/974102a63d6c44bab5b44d81a6521ebb/index.mpd
 #EXTINF:-1 tvg-name="Agatha/Rebecca vs Esmée/Zoé" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105083" group-title="Volleyball Womens Beach Pro Tour",Agatha/Rebecca vs Esmée/Zoé
 https://dai.fancode.com/primary/105083_english_hls_8740adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Tina/Anastasija vs Melissa/Brandie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105084" group-title="Volleyball Womens Beach Pro Tour",Tina/Anastasija vs Melissa/Brandie
+https://dai.fancode.com/primary/105084_english_hls_2779adfreeta-di/index.m3u8
