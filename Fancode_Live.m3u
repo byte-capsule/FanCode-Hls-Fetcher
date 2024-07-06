@@ -3,8 +3,6 @@
 https://dai.google.com/linear/hls/event/R4amuAMESOqm09gIWM5woA/master.m3u8
 #EXTINF:-1 tvg-name="Bulls XI vs Lions XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104122" group-title="Siechem Pondicherry Mens T20 Tournament 2024",Bulls XI vs Lions XI
 https://dai.google.com/linear/hls/event/J81sdTtbTeK1mK0BqkHozA/master.m3u8
-#EXTINF:-1 tvg-name="Cluj vs Bucharest Gladiators" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104500" group-title="ECS Romania, 2024",Cluj vs Bucharest Gladiators
-https://dai.google.com/linear/hls/event/pndIl1lUTN-5yzTvBxrRTw/master.m3u8
 #EXTINF:-1 tvg-name="Rwanda vs Malawi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103981" group-title="Kenya Quadrangular Cup, 2024",Rwanda vs Malawi
 https://dai.google.com/linear/hls/event/L1hfypfjTQecVgYfQqm3bg/master.m3u8
 #EXTINF:-1 tvg-name="Godavari Titans vs Bezawada Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104272" group-title="Andhra Premier League, 2024",Godavari Titans vs Bezawada Tigers
@@ -13,17 +11,17 @@ https://dai.google.com/linear/hls/event/SpPmK7JLRfK9BFl9L_a4ig/master.m3u8
 https://dai.google.com/linear/hls/event/9HAgPUlDS72mzruNqJ8AzA/master.m3u8
 #EXTINF:-1 tvg-name="Dindigul Dragons vs Trichy Grand Cholas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100432" group-title="Tamil Nadu Premier League, 2024",Dindigul Dragons vs Trichy Grand Cholas
 https://dai.google.com/linear/hls/event/QB2UXgbISdajWzIzVPHxgA/master.m3u8
-#EXTINF:-1 tvg-name="Gamba Osaka vs Yokohama F. Marinos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102434" group-title="J League 2024",Gamba Osaka vs Yokohama F. Marinos
-https://dai.fancode.com/primary/102434_english_hls_5548adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Urawa Red Diamonds vs Shonan Bellmare" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102433" group-title="J League 2024",Urawa Red Diamonds vs Shonan Bellmare
-https://dai.fancode.com/primary/102433_english_hls_6099adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Shanghai Shenhua vs Shandong Taishan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100234" group-title="Chinese Super League 2024",Shanghai Shenhua vs Shandong Taishan
 https://dai.fancode.com/primary/100234_english_hls_5298adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="DTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104478" group-title="DTM 2024",DTM
 https://dai.google.com/linear/hls/event/gvxONYkSQeypVLz8KQnQIw/master.m3u8
+#EXTINF:-1 tvg-name="Sprint Race" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95352" group-title="F2 GREAT BRITAIN 2024",Sprint Race
+https://d2hz8w0qk2q2ts.cloudfront.net/out/v1/3fdf639b03874afeb5f521d17eff9c82/index.mpd
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103895" group-title="BMW International Open",Day 3
 https://dai.google.com/linear/hls/event/6XkqE_tDSF-o-c2H2ednrw/master.m3u8
-#EXTINF:-1 tvg-name="Evandro/Arthur vs George/Andre" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105090" group-title="Volleyball Mens Beach Pro Tour",Evandro/Arthur vs George/Andre
-https://dai.fancode.com/primary/105090_english_hls_5614adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Mol, A./Sørum, C. vs Cherif/Ahmed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105089" group-title="Volleyball Mens Beach Pro Tour",Mol, A./Sørum, C. vs Cherif/Ahmed
 https://dai.fancode.com/primary/105089_english_hls_8979adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Nuss/Kloth vs Stam/Schoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105082" group-title="Volleyball Womens Beach Pro Tour",Nuss/Kloth vs Stam/Schoon
+https://dai.fancode.com/primary/105082_english_hls_5174adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Gottardi/Menegatti vs Cannon/Kraft" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105081" group-title="Volleyball Womens Beach Pro Tour",Gottardi/Menegatti vs Cannon/Kraft
+https://dai.fancode.com/primary/105081_english_hls_8788adfreeta-no/index.m3u8
