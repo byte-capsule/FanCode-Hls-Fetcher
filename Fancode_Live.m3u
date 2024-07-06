@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Bhutan Women vs Singapore Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104289" group-title="Bali Bash Women's T20I Tri-Series",Bhutan Women vs Singapore Women
 https://dai.google.com/linear/hls/event/ZApMfrPCSMCFdbGwTwYXkg/master.m3u8
-#EXTINF:-1 tvg-name="Tokyo Wombats vs Kawasaki Knight Riders CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101866" group-title="JCL T20, 2024",Tokyo Wombats vs Kawasaki Knight Riders CC
+#EXTINF:-1 tvg-name="Kawasaki Knight Riders CC vs Tokyo Wombats" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101866" group-title="JCL T20, 2024",Kawasaki Knight Riders CC vs Tokyo Wombats
 https://dai.google.com/linear/hls/event/4oFOaJ87SjugqyjLjpJNcQ/master.m3u8
+#EXTINF:-1 tvg-name="Tigers XI vs Tuskers XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104121" group-title="Siechem Pondicherry Mens T20 Tournament 2024",Tigers XI vs Tuskers XI
+https://dai.google.com/linear/hls/event/oOxnEJk0SryLAMpXE7_awg/master.m3u8
