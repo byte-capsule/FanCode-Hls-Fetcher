@@ -3,6 +3,8 @@
 https://dai.google.com/linear/hls/event/J81sdTtbTeK1mK0BqkHozA/master.m3u8
 #EXTINF:-1 tvg-name="Cluj vs Bucharest Gladiators" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104500" group-title="ECS Romania, 2024",Cluj vs Bucharest Gladiators
 https://dai.google.com/linear/hls/event/pndIl1lUTN-5yzTvBxrRTw/master.m3u8
+#EXTINF:-1 tvg-name="Rwanda vs Malawi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103981" group-title="Kenya Quadrangular Cup, 2024",Rwanda vs Malawi
+https://dai.google.com/linear/hls/event/L1hfypfjTQecVgYfQqm3bg/master.m3u8
 #EXTINF:-1 tvg-name="Godavari Titans vs Bezawada Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104272" group-title="Andhra Premier League, 2024",Godavari Titans vs Bezawada Tigers
 https://dai.google.com/linear/hls/event/SpPmK7JLRfK9BFl9L_a4ig/master.m3u8
 #EXTINF:-1 tvg-name="Colombo Strikers vs Kandy Falcons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103772" group-title="Lanka Premier League, 2024",Colombo Strikers vs Kandy Falcons
@@ -13,6 +15,8 @@ https://dai.google.com/linear/hls/event/QB2UXgbISdajWzIzVPHxgA/master.m3u8
 https://dai.fancode.com/primary/102433_english_hls_6099adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Gamba Osaka vs Yokohama F. Marinos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102434" group-title="J League 2024",Gamba Osaka vs Yokohama F. Marinos
 https://dai.fancode.com/primary/102434_english_hls_5548adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Practice 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95194" group-title="F1 QATAR AIRWAYS BRITISH GRAND PRIX 2024",Practice 3
+https://d2j709rcfaprqf.cloudfront.net/out/v1/0c01ba241a6c44b881bc87439126d369/index.mpd
 #EXTINF:-1 tvg-name="Cottafava/Nicolai vs Łosiak/Bryl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105088" group-title="Volleyball Mens Beach Pro Tour",Cottafava/Nicolai vs Łosiak/Bryl
 https://dai.fancode.com/primary/105088_english_hls_9111adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Åhman/Hellvig vs Ehlers/Wickler" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105087" group-title="Volleyball Mens Beach Pro Tour",Åhman/Hellvig vs Ehlers/Wickler
