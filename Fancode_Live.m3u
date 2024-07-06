@@ -3,8 +3,6 @@
 https://dai.google.com/linear/hls/event/RBxtj1DaSOaQyBoHiQOfCA/master.m3u8
 #EXTINF:-1 tvg-name="The Vision Shipping vs Zenith Cricket Academy Starlets" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104167" group-title="Bukhatir 50 overs League, 2024",The Vision Shipping vs Zenith Cricket Academy Starlets
 https://dai.google.com/linear/hls/event/ggum0ljjTtSuLCRSsnp4wA/master.m3u8
-#EXTINF:-1 tvg-name="ACCB vs Bucharest Gladiators" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104508" group-title="ECS Romania, 2024",ACCB vs Bucharest Gladiators
-https://dai.google.com/linear/hls/event/yK77l5uWSGu_nMfuExup_A/master.m3u8
 #EXTINF:-1 tvg-name="Coastal Riders vs Vizag Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104273" group-title="Andhra Premier League, 2024",Coastal Riders vs Vizag Warriors
 https://dai.google.com/linear/hls/event/avxQKMD7RsieM53ZEIU3yA/master.m3u8
 #EXTINF:-1 tvg-name="Jaffna Kings vs Dambulla Sixers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103773" group-title="Lanka Premier League, 2024",Jaffna Kings vs Dambulla Sixers
@@ -17,5 +15,5 @@ https://pubads.g.doubleclick.net/ssai/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
 https://d2v9bl23iy2ffk.cloudfront.net/out/v1/e77a3eae68c04042be566f94f6dda008/index.mpd
 #EXTINF:-1 tvg-name="Ahman/Hellvig vs Cottafava/Nicolai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105123" group-title="Volleyball Mens Beach Pro Tour",Ahman/Hellvig vs Cottafava/Nicolai
 https://mls3.fancode.com/17f2854a-dec1-4bdc-a238-e39742279c3f/master.m3u8
-#EXTINF:-1 tvg-name="Tina/Anastasija vs Melissa/Brandie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105084" group-title="Volleyball Womens Beach Pro Tour",Tina/Anastasija vs Melissa/Brandie
-https://dai.fancode.com/primary/105084_english_hls_2779adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Mol, A./Sørum, C. vs George/Andre" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105122" group-title="Volleyball Mens Beach Pro Tour",Mol, A./Sørum, C. vs George/Andre
+https://dai.fancode.com/primary/105122_english_hls_5289adfreeta-di/index.m3u8
