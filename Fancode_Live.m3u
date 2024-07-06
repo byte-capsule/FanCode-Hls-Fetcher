@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="England Champions vs Australia Champions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104299" group-title="World Championship of Legends, 2024",England Champions vs Australia Champions
-https://dai.google.com/linear/hls/event/R4amuAMESOqm09gIWM5woA/master.m3u8
+#EXTINF:-1 tvg-name="India Champions vs Pakistan Champions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104300" group-title="World Championship of Legends, 2024",India Champions vs Pakistan Champions
+https://dai.google.com/linear/hls/event/RBxtj1DaSOaQyBoHiQOfCA/master.m3u8
 #EXTINF:-1 tvg-name="The Vision Shipping vs Zenith Cricket Academy Starlets" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104167" group-title="Bukhatir 50 overs League, 2024",The Vision Shipping vs Zenith Cricket Academy Starlets
 https://dai.google.com/linear/hls/event/ggum0ljjTtSuLCRSsnp4wA/master.m3u8
 #EXTINF:-1 tvg-name="ACCB vs Bucharest Gladiators" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104508" group-title="ECS Romania, 2024",ACCB vs Bucharest Gladiators
@@ -13,8 +13,6 @@ https://dai.google.com/linear/hls/event/Yg5-1j-CTEe73J8Dbr3Spg/master.m3u8
 https://dai.google.com/linear/hls/event/1Cv7WpLFRoywoftoJ9Amzw/master.m3u8
 #EXTINF:-1 tvg-name="England Women vs New Zealand Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96349" group-title="New Zealand Women tour of England, 2024",England Women vs New Zealand Women
 https://pubads.g.doubleclick.net/ssai/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
-#EXTINF:-1 tvg-name="Qualifying" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95195" group-title="F1 QATAR AIRWAYS BRITISH GRAND PRIX 2024",Qualifying
-https://d3qs4z5m2ubpyf.cloudfront.net/out/v1/974102a63d6c44bab5b44d81a6521ebb/index.mpd
 #EXTINF:-1 tvg-name="Ahman/Hellvig vs Cottafava/Nicolai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105123" group-title="Volleyball Mens Beach Pro Tour",Ahman/Hellvig vs Cottafava/Nicolai
 https://mls3.fancode.com/17f2854a-dec1-4bdc-a238-e39742279c3f/master.m3u8
 #EXTINF:-1 tvg-name="Tina/Anastasija vs Melissa/Brandie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105084" group-title="Volleyball Womens Beach Pro Tour",Tina/Anastasija vs Melissa/Brandie
