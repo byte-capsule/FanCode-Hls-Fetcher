@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="England Champions vs Australia Champions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104299" group-title="World Championship of Legends, 2024",England Champions vs Australia Champions
+https://dai.google.com/linear/hls/event/R4amuAMESOqm09gIWM5woA/master.m3u8
 #EXTINF:-1 tvg-name="Bulls XI vs Lions XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104122" group-title="Siechem Pondicherry Mens T20 Tournament 2024",Bulls XI vs Lions XI
 https://dai.google.com/linear/hls/event/J81sdTtbTeK1mK0BqkHozA/master.m3u8
 #EXTINF:-1 tvg-name="Cluj vs Bucharest Gladiators" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104500" group-title="ECS Romania, 2024",Cluj vs Bucharest Gladiators
@@ -11,13 +13,13 @@ https://dai.google.com/linear/hls/event/SpPmK7JLRfK9BFl9L_a4ig/master.m3u8
 https://dai.google.com/linear/hls/event/9HAgPUlDS72mzruNqJ8AzA/master.m3u8
 #EXTINF:-1 tvg-name="Dindigul Dragons vs Trichy Grand Cholas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100432" group-title="Tamil Nadu Premier League, 2024",Dindigul Dragons vs Trichy Grand Cholas
 https://dai.google.com/linear/hls/event/QB2UXgbISdajWzIzVPHxgA/master.m3u8
-#EXTINF:-1 tvg-name="Urawa Red Diamonds vs Shonan Bellmare" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102433" group-title="J League 2024",Urawa Red Diamonds vs Shonan Bellmare
-https://dai.fancode.com/primary/102433_english_hls_6099adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Gamba Osaka vs Yokohama F. Marinos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102434" group-title="J League 2024",Gamba Osaka vs Yokohama F. Marinos
 https://dai.fancode.com/primary/102434_english_hls_5548adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Urawa Red Diamonds vs Shonan Bellmare" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102433" group-title="J League 2024",Urawa Red Diamonds vs Shonan Bellmare
+https://dai.fancode.com/primary/102433_english_hls_6099adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Practice 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95194" group-title="F1 QATAR AIRWAYS BRITISH GRAND PRIX 2024",Practice 3
 https://d2j709rcfaprqf.cloudfront.net/out/v1/0c01ba241a6c44b881bc87439126d369/index.mpd
-#EXTINF:-1 tvg-name="Cottafava/Nicolai vs Łosiak/Bryl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105088" group-title="Volleyball Mens Beach Pro Tour",Cottafava/Nicolai vs Łosiak/Bryl
-https://dai.fancode.com/primary/105088_english_hls_9111adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Åhman/Hellvig vs Ehlers/Wickler" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105087" group-title="Volleyball Mens Beach Pro Tour",Åhman/Hellvig vs Ehlers/Wickler
-https://dai.fancode.com/primary/105087_english_hls_2962adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Evandro/Arthur vs George/Andre" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105090" group-title="Volleyball Mens Beach Pro Tour",Evandro/Arthur vs George/Andre
+https://dai.fancode.com/primary/105090_english_hls_5614adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Mol, A./Sørum, C. vs TBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105089" group-title="Volleyball Mens Beach Pro Tour",Mol, A./Sørum, C. vs TBC
+https://dai.fancode.com/primary/105089_english_hls_8979adfreeta-no/index.m3u8
