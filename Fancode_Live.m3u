@@ -19,7 +19,11 @@ https://dai.fancode.com/primary/102434_english_hls_5548adfreeta-di/index.m3u8
 https://dai.fancode.com/primary/102433_english_hls_6099adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Practice 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95194" group-title="F1 QATAR AIRWAYS BRITISH GRAND PRIX 2024",Practice 3
 https://d2j709rcfaprqf.cloudfront.net/out/v1/0c01ba241a6c44b881bc87439126d369/index.mpd
+#EXTINF:-1 tvg-name="DTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104478" group-title="DTM 2024",DTM
+https://dai.google.com/linear/hls/event/gvxONYkSQeypVLz8KQnQIw/master.m3u8
+#EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103895" group-title="BMW International Open",Day 3
+https://dai.google.com/linear/hls/event/6XkqE_tDSF-o-c2H2ednrw/master.m3u8
 #EXTINF:-1 tvg-name="Evandro/Arthur vs George/Andre" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105090" group-title="Volleyball Mens Beach Pro Tour",Evandro/Arthur vs George/Andre
 https://dai.fancode.com/primary/105090_english_hls_5614adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Mol, A./Sørum, C. vs TBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105089" group-title="Volleyball Mens Beach Pro Tour",Mol, A./Sørum, C. vs TBC
+#EXTINF:-1 tvg-name="Mol, A./Sørum, C. vs Cherif/Ahmed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105089" group-title="Volleyball Mens Beach Pro Tour",Mol, A./Sørum, C. vs Cherif/Ahmed
 https://dai.fancode.com/primary/105089_english_hls_8979adfreeta-no/index.m3u8
