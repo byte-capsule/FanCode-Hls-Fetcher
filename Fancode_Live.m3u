@@ -1,7 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Serendib Club vs Tokyo Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101867" group-title="JCL T20, 2024",Serendib Club vs Tokyo Titans
 https://dai.google.com/linear/hls/event/Y_dfiYECTFKRtD9uiZdjjg/master.m3u8
+#EXTINF:-1 tvg-name="Zinitis vs Bucharest Gladiators" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104507" group-title="ECS Romania, 2024",Zinitis vs Bucharest Gladiators
+https://dai.google.com/linear/hls/event/H9WBSvygSbOJQb7f-hfETQ/master.m3u8
 #EXTINF:-1 tvg-name="Zambia vs Kenya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103980" group-title="Kenya Quadrangular Cup, 2024",Zambia vs Kenya
 https://dai.google.com/linear/hls/event/JDK_1YJWRraSmFaJ1ATrzg/master.m3u8
-#EXTINF:-1 tvg-name="DTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104477" group-title="DTM 2024",DTM
-https://dai.google.com/linear/hls/event/qyhJm8VgT_qB5_bNtadrHA/master.m3u8
+#EXTINF:-1 tvg-name="Vergé-Dépré, A./Mäder vs Stam/Schoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105078" group-title="Volleyball Womens Beach Pro Tour",Vergé-Dépré, A./Mäder vs Stam/Schoon
+https://dai.fancode.com/primary/105078_english_hls_8886adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Cannon/Kraft vs Ana Patrícia/Duda" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105077" group-title="Volleyball Womens Beach Pro Tour",Cannon/Kraft vs Ana Patrícia/Duda
+https://dai.fancode.com/primary/105077_english_hls_3039adfreeta-no/index.m3u8
