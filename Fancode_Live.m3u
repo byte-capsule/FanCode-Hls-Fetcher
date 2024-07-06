@@ -15,5 +15,7 @@ https://dai.google.com/linear/hls/event/1Cv7WpLFRoywoftoJ9Amzw/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
 #EXTINF:-1 tvg-name="Qualifying" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95195" group-title="F1 QATAR AIRWAYS BRITISH GRAND PRIX 2024",Qualifying
 https://d3qs4z5m2ubpyf.cloudfront.net/out/v1/974102a63d6c44bab5b44d81a6521ebb/index.mpd
+#EXTINF:-1 tvg-name="Ahman/Hellvig vs Cottafava/Nicolai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105123" group-title="Volleyball Mens Beach Pro Tour",Ahman/Hellvig vs Cottafava/Nicolai
+https://mls3.fancode.com/17f2854a-dec1-4bdc-a238-e39742279c3f/master.m3u8
 #EXTINF:-1 tvg-name="Tina/Anastasija vs Melissa/Brandie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105084" group-title="Volleyball Womens Beach Pro Tour",Tina/Anastasija vs Melissa/Brandie
 https://dai.fancode.com/primary/105084_english_hls_2779adfreeta-di/index.m3u8
