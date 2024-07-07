@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 10,
-  "updated_on": "07-07-2024 on 10:41:00 PM \ud83c\udf19",
+  "channels_amount": 8,
+  "updated_on": "07-07-2024 on 11:03:19 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -50,17 +50,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "ICC T20 World Cup Sub Regional Europe Qualifier B",
-      "match_id": 104313,
-      "match_name": "Switzerland vs Belgium",
-      "team_1": "Switzerland",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SWIT@2x.png",
-      "team_2": "Belgium",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BEL@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/Ucfkcph1RYS8qMcjsouvlg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "Lanka Premier League, 2024",
       "match_id": 103775,
       "match_name": "Colombo Strikers vs Dambulla Sixers",
@@ -91,17 +80,6 @@
       "team_2": "IDream Tiruppur Tamizhans",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TIRT@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/ZF9EHwRGTseb9sDIG-poMQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Rachael Heyhoe Flint Trophy, 2024",
-      "match_id": 99021,
-      "match_name": "Western Storm vs Northern Diamonds",
-      "team_1": "Western Storm",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/WS-CR1@2x.png",
-      "team_2": "Northern Diamonds",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/YD-CR1@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/rQ2KOAOpTtafLVZdsSG4Mg/master.m3u8"
     },
     {
       "event_catagory": "volleyball",
