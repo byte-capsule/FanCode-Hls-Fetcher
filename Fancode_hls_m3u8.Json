@@ -1,19 +1,19 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 9,
-  "updated_on": "07-07-2024 on 4:40:57 PM \ud83c\udf1e",
+  "channels_amount": 12,
+  "updated_on": "07-07-2024 on 5:04:41 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
-      "event_name": "Siechem Pondicherry Mens T20 Tournament 2024",
-      "match_id": 104124,
-      "match_name": "Tigers XI vs Panthers XI",
-      "team_1": "Tigers XI",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TG@2x.png",
-      "team_2": "Panthers XI",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PNT@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/-XnxY2teR2ySmkHbKk0YvA/master.m3u8"
+      "event_name": "World Championship of Legends, 2024",
+      "match_id": 104301,
+      "match_name": "South Africa Champions vs West Indies Champions",
+      "team_1": "South Africa Champions",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SACW@2x.png",
+      "team_2": "West Indies Champions",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WICC@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/PV7pCe51QCWJ7e8wnA7p5w/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -102,6 +102,39 @@
       "team_2": "Typhoons Women",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TYPW@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/9tdL5oPlSo2OJ7PFr4jA0Q/master.m3u8"
+    },
+    {
+      "event_catagory": "racing",
+      "event_name": "Porsche Mobil 1 Supercup",
+      "match_id": 104728,
+      "match_name": "Porsche Mobil 1 Supercup",
+      "team_1": "Race - Silverstone",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
+      "team_2": "Silverstone, UK",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+      "stream_link": "https://d12kkvjtd8dg03.cloudfront.net/out/v1/df031e029a634d1ea894b7ea04b302ef/index.mpd"
+    },
+    {
+      "event_catagory": "golf",
+      "event_name": "BMW International Open",
+      "match_id": 103896,
+      "match_name": "Day 4",
+      "team_1": "Day 4",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-BIO@2x.png",
+      "team_2": "Golfclub M\u00fcnchen Eichenried, Germany",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/qaxA2yabQvWO1TbrDm8LGg/master.m3u8"
+    },
+    {
+      "event_catagory": "volleyball",
+      "event_name": "Volleyball Mens Beach Pro Tour",
+      "match_id": 105091,
+      "match_name": "Cottafava/Nicolai vs Mol, A./S\u00f8rum, C.",
+      "team_1": "Cottafava/Nicolai",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-ITY@2x.png",
+      "team_2": "Mol, A./S\u00f8rum, C.",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-NWY@2x.png",
+      "stream_link": "https://dai.fancode.com/primary/105091_english_hls_2202adfreeta-no/index.m3u8"
     }
   ]
 }
