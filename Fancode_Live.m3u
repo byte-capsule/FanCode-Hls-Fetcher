@@ -17,6 +17,8 @@ https://dai.google.com/linear/hls/event/rQ2KOAOpTtafLVZdsSG4Mg/master.m3u8
 https://dai.google.com/linear/hls/event/P5hsJ3KmSg6jr94zaFld-g/master.m3u8
 #EXTINF:-1 tvg-name="Scorchers Women vs Typhoons Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103364" group-title="Evoke Super 20 Trophy, 2024",Scorchers Women vs Typhoons Women
 https://dai.google.com/linear/hls/event/9tdL5oPlSo2OJ7PFr4jA0Q/master.m3u8
+#EXTINF:-1 tvg-name="DTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104480" group-title="DTM 2024",DTM
+https://dai.google.com/linear/hls/event/zU_T_csESlW7Yyycoyj2CA/master.m3u8
 #EXTINF:-1 tvg-name="Porsche Mobil 1 Supercup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104728" group-title="Porsche Mobil 1 Supercup",Porsche Mobil 1 Supercup
 https://d12kkvjtd8dg03.cloudfront.net/out/v1/df031e029a634d1ea894b7ea04b302ef/index.mpd
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103896" group-title="BMW International Open",Day 4
