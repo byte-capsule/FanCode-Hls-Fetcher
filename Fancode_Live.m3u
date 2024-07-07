@@ -3,11 +3,15 @@
 https://dai.google.com/linear/hls/event/-XnxY2teR2ySmkHbKk0YvA/master.m3u8
 #EXTINF:-1 tvg-name="Cluj vs Lankan Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104505" group-title="ECS Romania, 2024",Cluj vs Lankan Lions
 https://dai.google.com/linear/hls/event/v-sH0_0vTWq2AI4UeHu0Ew/master.m3u8
-#EXTINF:-1 tvg-name="Namibia vs Punjab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104542" group-title="Punjab tour of Namibia, 2024",Namibia vs Punjab
-https://dai.google.com/linear/hls/event/u1ZFw_duS_WkgtZuWKt2vg/master.m3u8
 #EXTINF:-1 tvg-name="Uttarandhra Lions vs Rayalaseema Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104274" group-title="Andhra Premier League, 2024",Uttarandhra Lions vs Rayalaseema Kings
 https://dai.google.com/linear/hls/event/5ls4gEu_TPCE1wXdN65rnQ/master.m3u8
 #EXTINF:-1 tvg-name="Jersey vs Serbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104311" group-title="ICC T20 World Cup Sub Regional Europe Qualifier B",Jersey vs Serbia
 https://dai.google.com/linear/hls/event/enhyrA3nRIq0S_AV_R47kA/master.m3u8
-#EXTINF:-1 tvg-name="Cannon/Kraft vs Agatha/Rebecca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105128" group-title="Volleyball Womens Beach Pro Tour",Cannon/Kraft vs Agatha/Rebecca
-https://dai.fancode.com/primary/105128_english_hls_8085adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Namibia vs Punjab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104542" group-title="Punjab tour of Namibia, 2024",Namibia vs Punjab
+https://dai.google.com/linear/hls/event/u1ZFw_duS_WkgtZuWKt2vg/master.m3u8
+#EXTINF:-1 tvg-name="Galle Marvels vs Kandy Falcons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103774" group-title="Lanka Premier League, 2024",Galle Marvels vs Kandy Falcons
+https://dai.google.com/linear/hls/event/RBfPuS3AS-STgfZJQKjRyA/master.m3u8
+#EXTINF:-1 tvg-name="Feature Race" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95353" group-title="F2 GREAT BRITAIN 2024",Feature Race
+https://d2abxzm6xs21wl.cloudfront.net/out/v1/2b4d453250b8462db6ceb0df08b70ef5/index.mpd
+#EXTINF:-1 tvg-name="Nuss/Kloth vs Tina/Anastasija" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105129" group-title="Volleyball Womens Beach Pro Tour",Nuss/Kloth vs Tina/Anastasija
+https://dai.fancode.com/primary/105129_english_hls_8470adfreeta-no/index.m3u8
