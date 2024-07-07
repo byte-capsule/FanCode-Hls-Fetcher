@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="South Africa Champions vs West Indies Champions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104301" group-title="World Championship of Legends, 2024",South Africa Champions vs West Indies Champions
 https://dai.google.com/linear/hls/event/PV7pCe51QCWJ7e8wnA7p5w/master.m3u8
+#EXTINF:-1 tvg-name="England Champions vs Pakistan Champions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104302" group-title="World Championship of Legends, 2024",England Champions vs Pakistan Champions
+https://dai.google.com/linear/hls/event/dgOJQDG0RKiiOvG39su7Og/master.m3u8
 #EXTINF:-1 tvg-name="CSS Group vs Seven Districts Hybrid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104168" group-title="Bukhatir 50 overs League, 2024",CSS Group vs Seven Districts Hybrid
 https://dai.google.com/linear/hls/event/qlN3JsnmT2K_6Sqx_a5edQ/master.m3u8
 #EXTINF:-1 tvg-name="United CC Bucharest vs Bucharest Zalmi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104513" group-title="ECS Romania, 2024",United CC Bucharest vs Bucharest Zalmi
