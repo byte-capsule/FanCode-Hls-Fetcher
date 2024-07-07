@@ -7,8 +7,6 @@ https://dai.google.com/linear/hls/event/dgOJQDG0RKiiOvG39su7Og/master.m3u8
 https://dai.google.com/linear/hls/event/PV7pCe51QCWJ7e8wnA7p5w/master.m3u8
 #EXTINF:-1 tvg-name="CSS Group vs Seven Districts Hybrid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104168" group-title="Bukhatir 50 overs League, 2024",CSS Group vs Seven Districts Hybrid
 https://dai.google.com/linear/hls/event/qlN3JsnmT2K_6Sqx_a5edQ/master.m3u8
-#EXTINF:-1 tvg-name="United CC Bucharest vs Bucharest Zalmi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104513" group-title="ECS Romania, 2024",United CC Bucharest vs Bucharest Zalmi
-https://dai.google.com/linear/hls/event/QMOuIgeZTUCcVFoAfj_Qrw/master.m3u8
 #EXTINF:-1 tvg-name="Godavari Titans vs Vizag Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104275" group-title="Andhra Premier League, 2024",Godavari Titans vs Vizag Warriors
 https://dai.google.com/linear/hls/event/9KogLAYaSCSrFYD73gKGrg/master.m3u8
 #EXTINF:-1 tvg-name="Switzerland vs Belgium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104313" group-title="ICC T20 World Cup Sub Regional Europe Qualifier B",Switzerland vs Belgium
@@ -25,11 +23,5 @@ https://pubads.g.doubleclick.net/ssai/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8
 https://dai.google.com/linear/hls/event/SuYgyACNSt2RvHI4HCLAoA/master.m3u8
 #EXTINF:-1 tvg-name="Western Storm vs Northern Diamonds" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99021" group-title="Rachael Heyhoe Flint Trophy, 2024",Western Storm vs Northern Diamonds
 https://dai.google.com/linear/hls/event/rQ2KOAOpTtafLVZdsSG4Mg/master.m3u8
-#EXTINF:-1 tvg-name="Race" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95196" group-title="F1 QATAR AIRWAYS BRITISH GRAND PRIX 2024",Race
-https://d1g06zcssrcc91.cloudfront.net/out/v1/65942006f4904e3f9b0efdd9adc327ec/index.mpd
-#EXTINF:-1 tvg-name="Day 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103896" group-title="BMW International Open",Day 4
-https://dai.google.com/linear/hls/event/qaxA2yabQvWO1TbrDm8LGg/master.m3u8
 #EXTINF:-1 tvg-name="Åhman/Hellvig vs George/Andre" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105092" group-title="Volleyball Mens Beach Pro Tour",Åhman/Hellvig vs George/Andre
 https://dai.fancode.com/primary/105092_english_hls_8225adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Cannon/Kraft vs Nuss/Kloth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105086" group-title="Volleyball Womens Beach Pro Tour",Cannon/Kraft vs Nuss/Kloth
-https://dai.fancode.com/primary/105086_english_hls_8213adfreeta-no/index.m3u8
