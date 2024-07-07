@@ -1,14 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Tigers XI vs Panthers XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104124" group-title="Siechem Pondicherry Mens T20 Tournament 2024",Tigers XI vs Panthers XI
 https://dai.google.com/linear/hls/event/-XnxY2teR2ySmkHbKk0YvA/master.m3u8
+#EXTINF:-1 tvg-name="Transylvania vs Bucharest Zalmi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104511" group-title="ECS Romania, 2024",Transylvania vs Bucharest Zalmi
+https://dai.google.com/linear/hls/event/udMsgypJQ4u1mOYzWiBJfg/master.m3u8
 #EXTINF:-1 tvg-name="Uttarandhra Lions vs Rayalaseema Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104274" group-title="Andhra Premier League, 2024",Uttarandhra Lions vs Rayalaseema Kings
 https://dai.google.com/linear/hls/event/5ls4gEu_TPCE1wXdN65rnQ/master.m3u8
 #EXTINF:-1 tvg-name="Jersey vs Serbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104311" group-title="ICC T20 World Cup Sub Regional Europe Qualifier B",Jersey vs Serbia
 https://dai.google.com/linear/hls/event/enhyrA3nRIq0S_AV_R47kA/master.m3u8
-#EXTINF:-1 tvg-name="Namibia vs Punjab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104542" group-title="Punjab tour of Namibia, 2024",Namibia vs Punjab
-https://dai.google.com/linear/hls/event/u1ZFw_duS_WkgtZuWKt2vg/master.m3u8
 #EXTINF:-1 tvg-name="Kandy Falcons vs Galle Marvels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103774" group-title="Lanka Premier League, 2024",Kandy Falcons vs Galle Marvels
 https://dai.google.com/linear/hls/event/RBfPuS3AS-STgfZJQKjRyA/master.m3u8
+#EXTINF:-1 tvg-name="Namibia vs Punjab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104542" group-title="Punjab tour of Namibia, 2024",Namibia vs Punjab
+https://dai.google.com/linear/hls/event/u1ZFw_duS_WkgtZuWKt2vg/master.m3u8
 #EXTINF:-1 tvg-name="Western Storm vs Northern Diamonds" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99021" group-title="Rachael Heyhoe Flint Trophy, 2024",Western Storm vs Northern Diamonds
 https://dai.google.com/linear/hls/event/rQ2KOAOpTtafLVZdsSG4Mg/master.m3u8
 #EXTINF:-1 tvg-name="Chepauk Super Gillies vs Nellai Royal Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100434" group-title="Tamil Nadu Premier League, 2024",Chepauk Super Gillies vs Nellai Royal Kings
@@ -17,5 +19,3 @@ https://dai.google.com/linear/hls/event/P5hsJ3KmSg6jr94zaFld-g/master.m3u8
 https://dai.google.com/linear/hls/event/9tdL5oPlSo2OJ7PFr4jA0Q/master.m3u8
 #EXTINF:-1 tvg-name="Feature Race" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95353" group-title="F2 GREAT BRITAIN 2024",Feature Race
 https://d2abxzm6xs21wl.cloudfront.net/out/v1/2b4d453250b8462db6ceb0df08b70ef5/index.mpd
-#EXTINF:-1 tvg-name="Nuss/Kloth vs Tina/Anastasija" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105129" group-title="Volleyball Womens Beach Pro Tour",Nuss/Kloth vs Tina/Anastasija
-https://dai.fancode.com/primary/105129_english_hls_8470adfreeta-no/index.m3u8
