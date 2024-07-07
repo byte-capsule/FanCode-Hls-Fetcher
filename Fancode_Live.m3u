@@ -3,9 +3,13 @@
 https://dai.google.com/linear/hls/event/44SFS2MLTU-swO9SsJk9TA/master.m3u8
 #EXTINF:-1 tvg-name="Tigers XI vs Panthers XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104124" group-title="Siechem Pondicherry Mens T20 Tournament 2024",Tigers XI vs Panthers XI
 https://dai.google.com/linear/hls/event/-XnxY2teR2ySmkHbKk0YvA/master.m3u8
+#EXTINF:-1 tvg-name="Cluj vs Lankan Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104505" group-title="ECS Romania, 2024",Cluj vs Lankan Lions
+https://dai.google.com/linear/hls/event/v-sH0_0vTWq2AI4UeHu0Ew/master.m3u8
 #EXTINF:-1 tvg-name="Namibia vs Punjab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104542" group-title="Punjab tour of Namibia, 2024",Namibia vs Punjab
 https://dai.google.com/linear/hls/event/u1ZFw_duS_WkgtZuWKt2vg/master.m3u8
 #EXTINF:-1 tvg-name="Feature Race" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95402" group-title="F3 GREAT BRITAIN 2024",Feature Race
 https://d2n72y41edvgcd.cloudfront.net/out/v1/b4f719e72d244d2e98af24e25815abef/index.mpd
 #EXTINF:-1 tvg-name="DTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104479" group-title="DTM 2024",DTM
 https://dai.google.com/linear/hls/event/nJBCdBFvSPm-B5j5HiIiNw/master.m3u8
+#EXTINF:-1 tvg-name="Cannon/Kraft vs Agatha/Rebecca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105128" group-title="Volleyball Womens Beach Pro Tour",Cannon/Kraft vs Agatha/Rebecca
+https://dai.fancode.com/primary/105128_english_hls_8085adfreeta-di/index.m3u8
