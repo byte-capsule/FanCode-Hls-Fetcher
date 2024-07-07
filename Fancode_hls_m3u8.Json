@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 14,
-  "updated_on": "07-07-2024 on 5:41:09 PM \ud83c\udf1e",
+  "channels_amount": 12,
+  "updated_on": "07-07-2024 on 6:10:50 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -14,39 +14,6 @@
       "team_2": "West Indies Champions",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WICC@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/PV7pCe51QCWJ7e8wnA7p5w/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECS Romania, 2024",
-      "match_id": 104511,
-      "match_name": "Transylvania vs Bucharest Zalmi",
-      "team_1": "Transylvania",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRN@2x.png",
-      "team_2": "Bucharest Zalmi",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BZL@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/udMsgypJQ4u1mOYzWiBJfg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Andhra Premier League, 2024",
-      "match_id": 104274,
-      "match_name": "Uttarandhra Lions vs Rayalaseema Kings",
-      "team_1": "Uttarandhra Lions",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KVLS@2x.png",
-      "team_2": "Rayalaseema Kings",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RYLS-CR1@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/5ls4gEu_TPCE1wXdN65rnQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC T20 World Cup Sub Regional Europe Qualifier B",
-      "match_id": 104311,
-      "match_name": "Jersey vs Serbia",
-      "team_1": "Jersey",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JERSE@2x.png",
-      "team_2": "Serbia",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRB@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/enhyrA3nRIq0S_AV_R47kA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -115,6 +82,17 @@
       "stream_link": "https://dai.fancode.com/primary/100235_english_hls_4785adfreeta-no/index.m3u8"
     },
     {
+      "event_catagory": "formula1",
+      "event_name": "F1 QATAR AIRWAYS BRITISH GRAND PRIX 2024",
+      "match_id": 95196,
+      "match_name": "Race",
+      "team_1": "Race",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+      "team_2": "Great Britain",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+      "stream_link": "https://d1g06zcssrcc91.cloudfront.net/out/v1/65942006f4904e3f9b0efdd9adc327ec/index.mpd"
+    },
+    {
       "event_catagory": "racing",
       "event_name": "DTM 2024",
       "match_id": 104480,
@@ -124,17 +102,6 @@
       "team_2": "Norisring",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/zU_T_csESlW7Yyycoyj2CA/master.m3u8"
-    },
-    {
-      "event_catagory": "racing",
-      "event_name": "Porsche Mobil 1 Supercup",
-      "match_id": 104728,
-      "match_name": "Porsche Mobil 1 Supercup",
-      "team_1": "Race - Silverstone",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
-      "team_2": "Silverstone, UK",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-      "stream_link": "https://d12kkvjtd8dg03.cloudfront.net/out/v1/df031e029a634d1ea894b7ea04b302ef/index.mpd"
     },
     {
       "event_catagory": "golf",
@@ -157,6 +124,17 @@
       "team_2": "Mol, A./S\u00f8rum, C.",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-NWY@2x.png",
       "stream_link": "https://dai.fancode.com/primary/105091_english_hls_2202adfreeta-no/index.m3u8"
+    },
+    {
+      "event_catagory": "volleyball",
+      "event_name": "Volleyball Womens Beach Pro Tour",
+      "match_id": 105085,
+      "match_name": "Agatha/Rebecca vs Tina/Anastasija",
+      "team_1": "Agatha/Rebecca",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-BRZ@2x.png",
+      "team_2": "Tina/Anastasija",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-LATV@2x.png",
+      "stream_link": "https://dai.fancode.com/primary/105085_english_hls_4446adfreeta-no/index.m3u8"
     }
   ]
 }
