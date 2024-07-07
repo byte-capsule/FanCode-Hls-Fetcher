@@ -1,25 +1,23 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="South Africa Champions vs West Indies Champions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104301" group-title="World Championship of Legends, 2024",South Africa Champions vs West Indies Champions
 https://dai.google.com/linear/hls/event/PV7pCe51QCWJ7e8wnA7p5w/master.m3u8
-#EXTINF:-1 tvg-name="Kandy Falcons vs Galle Marvels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103774" group-title="Lanka Premier League, 2024",Kandy Falcons vs Galle Marvels
-https://dai.google.com/linear/hls/event/RBfPuS3AS-STgfZJQKjRyA/master.m3u8
-#EXTINF:-1 tvg-name="Namibia vs Punjab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104542" group-title="Punjab tour of Namibia, 2024",Namibia vs Punjab
-https://dai.google.com/linear/hls/event/u1ZFw_duS_WkgtZuWKt2vg/master.m3u8
+#EXTINF:-1 tvg-name="CSS Group vs Seven Districts Hybrid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104168" group-title="Bukhatir 50 overs League, 2024",CSS Group vs Seven Districts Hybrid
+https://dai.google.com/linear/hls/event/qlN3JsnmT2K_6Sqx_a5edQ/master.m3u8
+#EXTINF:-1 tvg-name="United CC Bucharest vs Transylvania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104512" group-title="ECS Romania, 2024",United CC Bucharest vs Transylvania
+https://dai.google.com/linear/hls/event/bA_65_iGQ9CPy6XB6EszvQ/master.m3u8
+#EXTINF:-1 tvg-name="Godavari Titans vs Vizag Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104275" group-title="Andhra Premier League, 2024",Godavari Titans vs Vizag Warriors
+https://dai.google.com/linear/hls/event/9KogLAYaSCSrFYD73gKGrg/master.m3u8
 #EXTINF:-1 tvg-name="Western Storm vs Northern Diamonds" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99021" group-title="Rachael Heyhoe Flint Trophy, 2024",Western Storm vs Northern Diamonds
 https://dai.google.com/linear/hls/event/rQ2KOAOpTtafLVZdsSG4Mg/master.m3u8
 #EXTINF:-1 tvg-name="Chepauk Super Gillies vs Nellai Royal Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100434" group-title="Tamil Nadu Premier League, 2024",Chepauk Super Gillies vs Nellai Royal Kings
 https://dai.google.com/linear/hls/event/P5hsJ3KmSg6jr94zaFld-g/master.m3u8
-#EXTINF:-1 tvg-name="Scorchers Women vs Typhoons Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103364" group-title="Evoke Super 20 Trophy, 2024",Scorchers Women vs Typhoons Women
-https://dai.google.com/linear/hls/event/9tdL5oPlSo2OJ7PFr4jA0Q/master.m3u8
 #EXTINF:-1 tvg-name="Beijing Guoan vs Wuhan Three Towns" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100235" group-title="Chinese Super League 2024",Beijing Guoan vs Wuhan Three Towns
 https://dai.fancode.com/primary/100235_english_hls_4785adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Race" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95196" group-title="F1 QATAR AIRWAYS BRITISH GRAND PRIX 2024",Race
 https://d1g06zcssrcc91.cloudfront.net/out/v1/65942006f4904e3f9b0efdd9adc327ec/index.mpd
-#EXTINF:-1 tvg-name="DTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104480" group-title="DTM 2024",DTM
-https://dai.google.com/linear/hls/event/zU_T_csESlW7Yyycoyj2CA/master.m3u8
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103896" group-title="BMW International Open",Day 4
 https://dai.google.com/linear/hls/event/qaxA2yabQvWO1TbrDm8LGg/master.m3u8
-#EXTINF:-1 tvg-name="Cottafava/Nicolai vs Mol, A./Sørum, C." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105091" group-title="Volleyball Mens Beach Pro Tour",Cottafava/Nicolai vs Mol, A./Sørum, C.
-https://dai.fancode.com/primary/105091_english_hls_2202adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Åhman/Hellvig vs George/Andre" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105092" group-title="Volleyball Mens Beach Pro Tour",Åhman/Hellvig vs George/Andre
+https://dai.fancode.com/primary/105092_english_hls_8225adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Agatha/Rebecca vs Tina/Anastasija" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105085" group-title="Volleyball Womens Beach Pro Tour",Agatha/Rebecca vs Tina/Anastasija
 https://dai.fancode.com/primary/105085_english_hls_4446adfreeta-no/index.m3u8
