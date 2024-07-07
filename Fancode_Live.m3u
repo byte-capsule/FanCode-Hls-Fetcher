@@ -7,10 +7,16 @@ https://dai.google.com/linear/hls/event/qlN3JsnmT2K_6Sqx_a5edQ/master.m3u8
 https://dai.google.com/linear/hls/event/bA_65_iGQ9CPy6XB6EszvQ/master.m3u8
 #EXTINF:-1 tvg-name="Godavari Titans vs Vizag Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104275" group-title="Andhra Premier League, 2024",Godavari Titans vs Vizag Warriors
 https://dai.google.com/linear/hls/event/9KogLAYaSCSrFYD73gKGrg/master.m3u8
+#EXTINF:-1 tvg-name="Switzerland vs Belgium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104313" group-title="ICC T20 World Cup Sub Regional Europe Qualifier B",Switzerland vs Belgium
+https://dai.google.com/linear/hls/event/Ucfkcph1RYS8qMcjsouvlg/master.m3u8
+#EXTINF:-1 tvg-name="Colombo Strikers vs Dambulla Sixers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103775" group-title="Lanka Premier League, 2024",Colombo Strikers vs Dambulla Sixers
+https://dai.google.com/linear/hls/event/7cUgqLnLTCC7qgG_21nu2w/master.m3u8
 #EXTINF:-1 tvg-name="Western Storm vs Northern Diamonds" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99021" group-title="Rachael Heyhoe Flint Trophy, 2024",Western Storm vs Northern Diamonds
 https://dai.google.com/linear/hls/event/rQ2KOAOpTtafLVZdsSG4Mg/master.m3u8
-#EXTINF:-1 tvg-name="Chepauk Super Gillies vs Nellai Royal Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100434" group-title="Tamil Nadu Premier League, 2024",Chepauk Super Gillies vs Nellai Royal Kings
-https://dai.google.com/linear/hls/event/P5hsJ3KmSg6jr94zaFld-g/master.m3u8
+#EXTINF:-1 tvg-name="Lyca Kovai Kings vs IDream Tiruppur Tamizhans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100435" group-title="Tamil Nadu Premier League, 2024",Lyca Kovai Kings vs IDream Tiruppur Tamizhans
+https://dai.google.com/linear/hls/event/ZF9EHwRGTseb9sDIG-poMQ/master.m3u8
+#EXTINF:-1 tvg-name="Glamorgan vs Essex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102116" group-title="Vitality Blast T20, 2024",Glamorgan vs Essex
+https://dai.google.com/linear/hls/event/SuYgyACNSt2RvHI4HCLAoA/master.m3u8
 #EXTINF:-1 tvg-name="Beijing Guoan vs Wuhan Three Towns" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100235" group-title="Chinese Super League 2024",Beijing Guoan vs Wuhan Three Towns
 https://dai.fancode.com/primary/100235_english_hls_4785adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Race" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="95196" group-title="F1 QATAR AIRWAYS BRITISH GRAND PRIX 2024",Race
@@ -19,5 +25,3 @@ https://d1g06zcssrcc91.cloudfront.net/out/v1/65942006f4904e3f9b0efdd9adc327ec/in
 https://dai.google.com/linear/hls/event/qaxA2yabQvWO1TbrDm8LGg/master.m3u8
 #EXTINF:-1 tvg-name="Åhman/Hellvig vs George/Andre" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105092" group-title="Volleyball Mens Beach Pro Tour",Åhman/Hellvig vs George/Andre
 https://dai.fancode.com/primary/105092_english_hls_8225adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Agatha/Rebecca vs Tina/Anastasija" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105085" group-title="Volleyball Womens Beach Pro Tour",Agatha/Rebecca vs Tina/Anastasija
-https://dai.fancode.com/primary/105085_english_hls_4446adfreeta-no/index.m3u8
