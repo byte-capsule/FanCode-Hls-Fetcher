@@ -1,9 +1,20 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 4,
-  "updated_on": "08-07-2024 on 8:40:57 PM \ud83c\udf19",
+  "channels_amount": 6,
+  "updated_on": "08-07-2024 on 9:07:27 PM \ud83c\udf19",
   "channels": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "World Championship of Legends, 2024",
+      "match_id": 104303,
+      "match_name": "Australia Champions vs India Champions",
+      "team_1": "Australia Champions",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AACC@2x.png",
+      "team_2": "India Champions",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IAC@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/vbBG7SM0Q8GVhbVtpRwE1w/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "Bukhatir 50 overs League, 2024",
@@ -25,6 +36,17 @@
       "team_2": "Royal Eagles",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROE@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/Z-G9xr1lT3mq_v3Yg5XbnQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC T20 World Cup Sub Regional Europe Qualifier B",
+      "match_id": 104316,
+      "match_name": "Croatia vs Belgium",
+      "team_1": "Croatia",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CROA@2x.png",
+      "team_2": "Belgium",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BEL@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/UbC_tN5jTYeELanspqOCPQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
