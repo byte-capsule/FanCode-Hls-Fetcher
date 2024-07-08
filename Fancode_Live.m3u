@@ -1,11 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Lions XI vs Tigers XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104126" group-title="Siechem Pondicherry Mens T20 Tournament 2024",Lions XI vs Tigers XI
-https://dai.google.com/linear/hls/event/cX7R8dQVTm-daiCTky-0_w/master.m3u8
-#EXTINF:-1 tvg-name="United CC Bucharest vs Baneasa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104510" group-title="ECS Romania, 2024",United CC Bucharest vs Baneasa
-https://dai.google.com/linear/hls/event/9muJnRqhRTKhtsFC1dwLXA/master.m3u8
+#EXTINF:-1 tvg-name="Transylvania vs United CC Bucharest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104516" group-title="ECS Romania, 2024",Transylvania vs United CC Bucharest
+https://dai.google.com/linear/hls/event/hz1Cwn3iT3S4qLi9ep8R4g/master.m3u8
 #EXTINF:-1 tvg-name="Uttarandhra Lions vs Vizag Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104276" group-title="Andhra Premier League, 2024",Uttarandhra Lions vs Vizag Warriors
 https://dai.google.com/linear/hls/event/yu-oRvarQ8SIXDgizyjo7A/master.m3u8
-#EXTINF:-1 tvg-name="Germany vs Gibraltar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104312" group-title="ICC T20 World Cup Sub Regional Europe Qualifier B",Germany vs Gibraltar
-https://dai.google.com/linear/hls/event/V77mvLBmSX2aXU6QrH4_ZQ/master.m3u8
 #EXTINF:-1 tvg-name="Malawi vs Kenya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103984" group-title="Kenya Quadrangular Cup, 2024",Malawi vs Kenya
 https://dai.google.com/linear/hls/event/j5v68IOBRwmjXEnLvxUD3g/master.m3u8
