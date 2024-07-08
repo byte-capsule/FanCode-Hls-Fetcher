@@ -1,9 +1,20 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 2,
-  "updated_on": "08-07-2024 on 6:12:55 PM \ud83c\udf19",
+  "channels_amount": 3,
+  "updated_on": "08-07-2024 on 6:44:59 PM \ud83c\udf19",
   "channels": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "ECS Romania, 2024",
+      "match_id": 104491,
+      "match_name": "Transylvania vs Royal Eagles",
+      "team_1": "Transylvania",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRN@2x.png",
+      "team_2": "Royal Eagles",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROE@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/1Vz7DtaLTJCAQZcN3evAEw/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "ICC T20 World Cup Sub Regional Europe Qualifier B",
@@ -18,13 +29,13 @@
     {
       "event_catagory": "cricket",
       "event_name": "Andhra Premier League, 2024",
-      "match_id": 104276,
-      "match_name": "Uttarandhra Lions vs Vizag Warriors",
-      "team_1": "Uttarandhra Lions",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KVLS@2x.png",
-      "team_2": "Vizag Warriors",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/VZW-CR1@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/yu-oRvarQ8SIXDgizyjo7A/master.m3u8"
+      "match_id": 104277,
+      "match_name": "Bezawada Tigers vs Rayalaseema Kings",
+      "team_1": "Bezawada Tigers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/BZW-CR1@2x.png",
+      "team_2": "Rayalaseema Kings",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RYLS-CR1@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/FbdXzyJvRMKFMHvhWzk8BQ/master.m3u8"
     }
   ]
 }
