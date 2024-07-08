@@ -1,7 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="UAE Kings XI vs Our Souq Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104169" group-title="Bukhatir 50 overs League, 2024",UAE Kings XI vs Our Souq Cricket Club
+https://dai.google.com/linear/hls/event/8hpIe_RSTMea2hoOpZrHPw/master.m3u8
 #EXTINF:-1 tvg-name="Transylvania vs Royal Eagles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104491" group-title="ECS Romania, 2024",Transylvania vs Royal Eagles
 https://dai.google.com/linear/hls/event/1Vz7DtaLTJCAQZcN3evAEw/master.m3u8
 #EXTINF:-1 tvg-name="Norway vs Sweden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104314" group-title="ICC T20 World Cup Sub Regional Europe Qualifier B",Norway vs Sweden
 https://dai.google.com/linear/hls/event/cxLG4R5YRryln8Z-zLGGUQ/master.m3u8
-#EXTINF:-1 tvg-name="Bezawada Tigers vs Rayalaseema Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104277" group-title="Andhra Premier League, 2024",Bezawada Tigers vs Rayalaseema Kings
+#EXTINF:-1 tvg-name="Rayalaseema Kings vs Bezawada Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104277" group-title="Andhra Premier League, 2024",Rayalaseema Kings vs Bezawada Tigers
 https://dai.google.com/linear/hls/event/FbdXzyJvRMKFMHvhWzk8BQ/master.m3u8
