@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Transylvania vs United CC Bucharest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104516" group-title="ECS Romania, 2024",Transylvania vs United CC Bucharest
-https://dai.google.com/linear/hls/event/hz1Cwn3iT3S4qLi9ep8R4g/master.m3u8
 #EXTINF:-1 tvg-name="Norway vs Sweden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104314" group-title="ICC T20 World Cup Sub Regional Europe Qualifier B",Norway vs Sweden
 https://dai.google.com/linear/hls/event/cxLG4R5YRryln8Z-zLGGUQ/master.m3u8
 #EXTINF:-1 tvg-name="Uttarandhra Lions vs Vizag Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104276" group-title="Andhra Premier League, 2024",Uttarandhra Lions vs Vizag Warriors
