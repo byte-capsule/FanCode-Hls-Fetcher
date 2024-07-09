@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Sharks XI vs Panthers XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104127" group-title="Siechem Pondicherry Mens T20 Tournament 2024",Sharks XI vs Panthers XI
 https://dai.google.com/linear/hls/event/HoiRpjx5TbOozCoSfOUHIg/master.m3u8
+#EXTINF:-1 tvg-name="ACCB vs Baneasa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104521" group-title="ECS Romania, 2024",ACCB vs Baneasa
+https://dai.google.com/linear/hls/event/hHDifcWoRg6JXqzlzYuq0Q/master.m3u8
 #EXTINF:-1 tvg-name="Godavari Titans vs Coastal Riders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104278" group-title="Andhra Premier League, 2024",Godavari Titans vs Coastal Riders
 https://dai.google.com/linear/hls/event/1iCvB-s5SMyPZoDMpCRQWA/master.m3u8
 #EXTINF:-1 tvg-name="Jaffna Kings vs Kandy Falcons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103776" group-title="Lanka Premier League, 2024",Jaffna Kings vs Kandy Falcons
