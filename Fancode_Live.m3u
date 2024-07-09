@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="England Champions vs West Indies Champions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104304" group-title="World Championship of Legends, 2024",England Champions vs West Indies Champions
 https://dai.google.com/linear/hls/event/EWG1_NYzRJuZ-ZLQlftTTw/master.m3u8
-#EXTINF:-1 tvg-name="ACCB vs Baneasa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104521" group-title="ECS Romania, 2024",ACCB vs Baneasa
-https://dai.google.com/linear/hls/event/hHDifcWoRg6JXqzlzYuq0Q/master.m3u8
+#EXTINF:-1 tvg-name="Bucharest Gladiators vs ACCB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104522" group-title="ECS Romania, 2024",Bucharest Gladiators vs ACCB
+https://dai.google.com/linear/hls/event/ZxMAfGwiQmef3xxCuAYi7w/master.m3u8
 #EXTINF:-1 tvg-name="Germany vs Sweden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104317" group-title="ICC T20 World Cup Sub Regional Europe Qualifier B",Germany vs Sweden
 https://dai.google.com/linear/hls/event/sOrgX4ODSe-PxAk-PVptrA/master.m3u8
 #EXTINF:-1 tvg-name="Godavari Titans vs Coastal Riders" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104278" group-title="Andhra Premier League, 2024",Godavari Titans vs Coastal Riders
