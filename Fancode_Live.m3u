@@ -1,14 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Pakistan Champions vs South Africa Champions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104305" group-title="World Championship of Legends, 2024",Pakistan Champions vs South Africa Champions
 https://dai.google.com/linear/hls/event/TRyuUYAnQyqxkvkWNw9Wpw/master.m3u8
-#EXTINF:-1 tvg-name="Mad Bulls vs Leatherback Giants" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104817" group-title="Dream11 Trinidad T10 Blast, 5th Edition, 2024",Mad Bulls vs Leatherback Giants
-https://dai.google.com/linear/hls/event/Wns2u4MaQ2iu2XdO7EUdUw/master.m3u8
 #EXTINF:-1 tvg-name="The Vision Shipping vs CSS Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104170" group-title="Bukhatir 50 overs League, 2024",The Vision Shipping vs CSS Group
 https://dai.google.com/linear/hls/event/haJ3fikcRjKF0mGUAKcuRw/master.m3u8
-#EXTINF:-1 tvg-name="Jersey vs Switzerland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104318" group-title="ICC T20 World Cup Sub Regional Europe Qualifier B",Jersey vs Switzerland
-https://dai.google.com/linear/hls/event/eu4wpW4dQgG_iNa3_oCdaA/master.m3u8
-#EXTINF:-1 tvg-name="Dambulla Sixers vs Galle Marvels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103777" group-title="Lanka Premier League, 2024",Dambulla Sixers vs Galle Marvels
-https://dai.google.com/linear/hls/event/fBrGyW97RaSBfimnWBgT1Q/master.m3u8
 #EXTINF:-1 tvg-name="England Women vs New Zealand Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96350" group-title="New Zealand Women tour of England, 2024",England Women vs New Zealand Women
 https://pubads.g.doubleclick.net/ssai/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
 #EXTINF:-1 tvg-name="Volleyball Womens Beach Pro vs Court 1, Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105238" group-title="Volleyball Womens Beach Pro Tour",Volleyball Womens Beach Pro vs Court 1, Austria
