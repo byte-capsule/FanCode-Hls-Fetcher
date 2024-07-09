@@ -1,11 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Sharks XI vs Panthers XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104127" group-title="Siechem Pondicherry Mens T20 Tournament 2024",Sharks XI vs Panthers XI
 https://dai.google.com/linear/hls/event/HoiRpjx5TbOozCoSfOUHIg/master.m3u8
-#EXTINF:-1 tvg-name="ACCB vs United CC Bucharest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104519" group-title="ECS Romania, 2024",ACCB vs United CC Bucharest
-https://dai.google.com/linear/hls/event/S0hJqvaWQdG6bVIOBN6TAw/master.m3u8
-#EXTINF:-1 tvg-name="Malawi vs Kenya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103984" group-title="Kenya Quadrangular Cup, 2024",Malawi vs Kenya
-https://dai.google.com/linear/hls/event/j5v68IOBRwmjXEnLvxUD3g/master.m3u8
 #EXTINF:-1 tvg-name="Slovenia vs Norway" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104315" group-title="ICC T20 World Cup Sub Regional Europe Qualifier B",Slovenia vs Norway
 https://dai.google.com/linear/hls/event/poGXlQl5Rje88xLBeOXbBQ/master.m3u8
+#EXTINF:-1 tvg-name="ACCB vs United CC Bucharest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104519" group-title="ECS Romania, 2024",ACCB vs United CC Bucharest
+https://dai.google.com/linear/hls/event/S0hJqvaWQdG6bVIOBN6TAw/master.m3u8
 #EXTINF:-1 tvg-name="Punjab vs Namibia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104543" group-title="Punjab tour of Namibia, 2024",Punjab vs Namibia
 https://dai.google.com/linear/hls/event/bFPzEiO0QDCvIz1USRC5wQ/master.m3u8
