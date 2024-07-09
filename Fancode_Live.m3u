@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="South Africa Champions vs Pakistan Champions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104305" group-title="World Championship of Legends, 2024",South Africa Champions vs Pakistan Champions
+#EXTINF:-1 tvg-name="Pakistan Champions vs South Africa Champions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104305" group-title="World Championship of Legends, 2024",Pakistan Champions vs South Africa Champions
 https://dai.google.com/linear/hls/event/TRyuUYAnQyqxkvkWNw9Wpw/master.m3u8
+#EXTINF:-1 tvg-name="Mad Bulls vs Leatherback Giants" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104817" group-title="Dream11 Trinidad T10 Blast, 5th Edition, 2024",Mad Bulls vs Leatherback Giants
+https://dai.google.com/linear/hls/event/Wns2u4MaQ2iu2XdO7EUdUw/master.m3u8
 #EXTINF:-1 tvg-name="The Vision Shipping vs CSS Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104170" group-title="Bukhatir 50 overs League, 2024",The Vision Shipping vs CSS Group
 https://dai.google.com/linear/hls/event/haJ3fikcRjKF0mGUAKcuRw/master.m3u8
 #EXTINF:-1 tvg-name="Bucharest Gladiators vs Baneasa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104523" group-title="ECS Romania, 2024",Bucharest Gladiators vs Baneasa
