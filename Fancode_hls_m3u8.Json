@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 9,
-  "updated_on": "09-07-2024 on 10:08:23 PM \ud83c\udf19",
+  "channels_amount": 8,
+  "updated_on": "09-07-2024 on 10:32:21 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -36,17 +36,6 @@
       "team_2": "CSS Group",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSS@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/haJ3fikcRjKF0mGUAKcuRw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECS Romania, 2024",
-      "match_id": 104523,
-      "match_name": "Bucharest Gladiators vs Baneasa",
-      "team_1": "Bucharest Gladiators",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BC@2x.png",
-      "team_2": "Baneasa",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAE@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/C_56nWYiR1WtG98kHp23tQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
