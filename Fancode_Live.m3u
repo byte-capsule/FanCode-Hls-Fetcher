@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="England Champions vs West Indies Champions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104304" group-title="World Championship of Legends, 2024",England Champions vs West Indies Champions
-https://dai.google.com/linear/hls/event/EWG1_NYzRJuZ-ZLQlftTTw/master.m3u8
 #EXTINF:-1 tvg-name="South Africa Champions vs Pakistan Champions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104305" group-title="World Championship of Legends, 2024",South Africa Champions vs Pakistan Champions
 https://dai.google.com/linear/hls/event/TRyuUYAnQyqxkvkWNw9Wpw/master.m3u8
 #EXTINF:-1 tvg-name="The Vision Shipping vs CSS Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104170" group-title="Bukhatir 50 overs League, 2024",The Vision Shipping vs CSS Group
@@ -13,8 +11,6 @@ https://dai.google.com/linear/hls/event/eu4wpW4dQgG_iNa3_oCdaA/master.m3u8
 https://dai.google.com/linear/hls/event/OXmRG4b1Q2GpcAQ4X1KPrA/master.m3u8
 #EXTINF:-1 tvg-name="Dambulla Sixers vs Galle Marvels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103777" group-title="Lanka Premier League, 2024",Dambulla Sixers vs Galle Marvels
 https://dai.google.com/linear/hls/event/fBrGyW97RaSBfimnWBgT1Q/master.m3u8
-#EXTINF:-1 tvg-name="Punjab vs Namibia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104543" group-title="Punjab tour of Namibia, 2024",Punjab vs Namibia
-https://dai.google.com/linear/hls/event/bFPzEiO0QDCvIz1USRC5wQ/master.m3u8
 #EXTINF:-1 tvg-name="Trichy Grand Cholas vs Siechem Madurai Panthers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100437" group-title="Tamil Nadu Premier League, 2024",Trichy Grand Cholas vs Siechem Madurai Panthers
 https://dai.google.com/linear/hls/event/7F4vffmcSJCSinnq1lFsyw/master.m3u8
 #EXTINF:-1 tvg-name="Volleyball Womens Beach Pro vs Court 1, Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105238" group-title="Volleyball Womens Beach Pro Tour",Volleyball Womens Beach Pro vs Court 1, Austria
