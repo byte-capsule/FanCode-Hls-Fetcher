@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Australia Champions vs West Indies Champions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104306" group-title="World Championship of Legends, 2024",Australia Champions vs West Indies Champions
-https://dai.google.com/linear/hls/event/26obeVjWQ6m42dI167N_tg/master.m3u8
 #EXTINF:-1 tvg-name="India Champions vs South Africa Champions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104307" group-title="World Championship of Legends, 2024",India Champions vs South Africa Champions
 https://dai.google.com/linear/hls/event/dRb0MvICQMWJESXJ4xMqOA/master.m3u8
 #EXTINF:-1 tvg-name="Colatta Warriors vs UAE Kings XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104171" group-title="Bukhatir 50 overs League, 2024",Colatta Warriors vs UAE Kings XI
 https://dai.google.com/linear/hls/event/LCkk_yDxSDueRVPVOYoRxw/master.m3u8
-#EXTINF:-1 tvg-name="United CC Bucharest vs Transylvania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104528" group-title="ECS Romania, 2024",United CC Bucharest vs Transylvania
-https://dai.google.com/linear/hls/event/s5mxWlGZSbyo8L_FeNSiZw/master.m3u8
 #EXTINF:-1 tvg-name="Gibraltar vs Slovenia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104322" group-title="ICC T20 World Cup Sub Regional Europe Qualifier B",Gibraltar vs Slovenia
 https://dai.google.com/linear/hls/event/KU29ChUJS06cjHtpZbWDnQ/master.m3u8
 #EXTINF:-1 tvg-name="Kandy Falcons vs Galle Marvels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103779" group-title="Lanka Premier League, 2024",Kandy Falcons vs Galle Marvels
