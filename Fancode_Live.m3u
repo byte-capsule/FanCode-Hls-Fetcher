@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Australia Champions vs West Indies Champions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104306" group-title="World Championship of Legends, 2024",Australia Champions vs West Indies Champions
 https://dai.google.com/linear/hls/event/26obeVjWQ6m42dI167N_tg/master.m3u8
+#EXTINF:-1 tvg-name="Bucharest Gladiators vs Transylvania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104527" group-title="ECS Romania, 2024",Bucharest Gladiators vs Transylvania
+https://dai.google.com/linear/hls/event/TK2gKoRwThO523JcxGP4ig/master.m3u8
 #EXTINF:-1 tvg-name="Jersey vs Belgium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104319" group-title="ICC T20 World Cup Sub Regional Europe Qualifier B",Jersey vs Belgium
 https://dai.google.com/linear/hls/event/wMmDgAnhR8mVeEb4hCqGKg/master.m3u8
 #EXTINF:-1 tvg-name="Colombo Strikers vs Jaffna Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103778" group-title="Lanka Premier League, 2024",Colombo Strikers vs Jaffna Kings
@@ -13,6 +15,8 @@ https://dai.google.com/linear/hls/event/Qo9BRO9GTaWrN_DmLRAtOg/master.m3u8
 https://dai.google.com/linear/hls/event/lWLEMGrETRKBwFltz9ccvA/master.m3u8
 #EXTINF:-1 tvg-name="West Indies vs England" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100737" group-title="West Indies tour of England, 2024",West Indies vs England
 https://pubads.g.doubleclick.net/ssai/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
+#EXTINF:-1 tvg-name="Dragons Women vs Typhoons Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103366" group-title="Evoke Super 20 Trophy, 2024",Dragons Women vs Typhoons Women
+https://dai.google.com/linear/hls/event/PSq_eEaSRweOxJdKQibUIQ/master.m3u8
 #EXTINF:-1 tvg-name="Volleyball Beach Pro vs Court 3, Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105376" group-title="Volleyball Beach Pro Tour",Volleyball Beach Pro vs Court 3, Austria
 https://dai.fancode.com/primary/105376_english_hls_8869adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Volleyball Beach Pro vs Court 2, Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105375" group-title="Volleyball Beach Pro Tour",Volleyball Beach Pro vs Court 2, Austria
