@@ -1,7 +1,30 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 0,
-  "updated_on": "10-07-2024 on 0:09:55 PM \ud83c\udf1e",
-  "channels": []
+  "channels_amount": 2,
+  "updated_on": "10-07-2024 on 0:33:04 PM \ud83c\udf1e",
+  "channels": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "ECS Romania, 2024",
+      "match_id": 104524,
+      "match_name": "Bucharest Gladiators vs Lankan Lions",
+      "team_1": "Bucharest Gladiators",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BC@2x.png",
+      "team_2": "Lankan Lions",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LN@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/Rj6WvtNkS2aqcM7b7jBlgQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Kenya Quadrangular Cup, 2024",
+      "match_id": 103986,
+      "match_name": "Zambia vs Rwanda",
+      "team_1": "Zambia",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZAM@2x.png",
+      "team_2": "Rwanda",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RWA@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/h_gqfP0YQ-O5sSPMKEknEg/master.m3u8"
+    }
+  ]
 }
