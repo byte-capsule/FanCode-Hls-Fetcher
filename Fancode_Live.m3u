@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Sharks XI vs Lions XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104130" group-title="Siechem Pondicherry Mens T20 Tournament 2024",Sharks XI vs Lions XI
 https://dai.google.com/linear/hls/event/u7M3ulszRJ60mdVLB_KicA/master.m3u8
-#EXTINF:-1 tvg-name="Bucharest Gladiators vs United CC Bucharest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104525" group-title="ECS Romania, 2024",Bucharest Gladiators vs United CC Bucharest
-https://dai.google.com/linear/hls/event/5lNfiXL0QkO5nVZCf3ntEA/master.m3u8
 #EXTINF:-1 tvg-name="Croatia vs Serbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104321" group-title="ICC T20 World Cup Sub Regional Europe Qualifier B",Croatia vs Serbia
 https://dai.google.com/linear/hls/event/p1NzYaaCR1eLHDtzwhwZCg/master.m3u8
 #EXTINF:-1 tvg-name="Namibia vs Punjab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104544" group-title="Punjab tour of Namibia, 2024",Namibia vs Punjab
@@ -13,11 +11,9 @@ https://dai.google.com/linear/hls/event/h_gqfP0YQ-O5sSPMKEknEg/master.m3u8
 https://dai.google.com/linear/hls/event/q22Hlv2KRZ6fyUp9TK9hNw/master.m3u8
 #EXTINF:-1 tvg-name="Western Storm vs The Blaze" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99025" group-title="Rachael Heyhoe Flint Trophy, 2024",Western Storm vs The Blaze
 https://dai.google.com/linear/hls/event/Qo9BRO9GTaWrN_DmLRAtOg/master.m3u8
-#EXTINF:-1 tvg-name="Volleyball Womens Beach Pro vs Court 2, Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105235" group-title="Volleyball Womens Beach Pro Tour",Volleyball Womens Beach Pro vs Court 2, Austria
-https://dai.fancode.com/primary/105235_english_hls_2366adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Volleyball Beach Pro vs Court 3, Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105376" group-title="Volleyball Mens Beach Pro Tour",Volleyball Beach Pro vs Court 3, Austria
+#EXTINF:-1 tvg-name="Volleyball Beach Pro vs Court 3, Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105376" group-title="Volleyball Beach Pro Tour",Volleyball Beach Pro vs Court 3, Austria
 https://dai.fancode.com/primary/105376_english_hls_8869adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Volleyball Beach Pro vs Court 2, Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105375" group-title="Volleyball Mens Beach Pro Tour",Volleyball Beach Pro vs Court 2, Austria
+#EXTINF:-1 tvg-name="Volleyball Beach Pro vs Court 2, Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105375" group-title="Volleyball Beach Pro Tour",Volleyball Beach Pro vs Court 2, Austria
 https://dai.fancode.com/primary/105375_english_hls_2872adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Volleyball Beach Pro vs Court 1, Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105374" group-title="Volleyball Mens Beach Pro Tour",Volleyball Beach Pro vs Court 1, Austria
- Free Trial attempt unsuccessful......it requires Premium Account
+#EXTINF:-1 tvg-name="Volleyball Beach Pro vs Court 1, Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105374" group-title="Volleyball Beach Pro Tour",Volleyball Beach Pro vs Court 1, Austria
+https://dai.fancode.com/primary/105374_english_hls_7810adfreeta-no/index.m3u8
