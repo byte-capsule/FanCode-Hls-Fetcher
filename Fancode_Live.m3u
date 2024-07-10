@@ -9,8 +9,8 @@ https://dai.google.com/linear/hls/event/TK2gKoRwThO523JcxGP4ig/master.m3u8
 https://dai.google.com/linear/hls/event/wMmDgAnhR8mVeEb4hCqGKg/master.m3u8
 #EXTINF:-1 tvg-name="Kenya vs Malawi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103987" group-title="Kenya Quadrangular Cup, 2024",Kenya vs Malawi
 https://dai.google.com/linear/hls/event/lWLEMGrETRKBwFltz9ccvA/master.m3u8
-#EXTINF:-1 tvg-name="Colombo Strikers vs Jaffna Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103778" group-title="Lanka Premier League, 2024",Colombo Strikers vs Jaffna Kings
-https://dai.google.com/linear/hls/event/q22Hlv2KRZ6fyUp9TK9hNw/master.m3u8
+#EXTINF:-1 tvg-name="Galle Marvels vs Kandy Falcons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103779" group-title="Lanka Premier League, 2024",Galle Marvels vs Kandy Falcons
+https://dai.google.com/linear/hls/event/6d002_5ATjGVVWULM9NTww/master.m3u8
 #EXTINF:-1 tvg-name="Namibia vs Punjab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104544" group-title="Punjab tour of Namibia, 2024",Namibia vs Punjab
 https://dai.google.com/linear/hls/event/M3MD1UxfSvKmUj1FN8fvEQ/master.m3u8
 #EXTINF:-1 tvg-name="Western Storm vs The Blaze" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99025" group-title="Rachael Heyhoe Flint Trophy, 2024",Western Storm vs The Blaze
@@ -19,6 +19,8 @@ https://dai.google.com/linear/hls/event/Qo9BRO9GTaWrN_DmLRAtOg/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
 #EXTINF:-1 tvg-name="Dragons Women vs Typhoons Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103366" group-title="Evoke Super 20 Trophy, 2024",Dragons Women vs Typhoons Women
 https://dai.google.com/linear/hls/event/PSq_eEaSRweOxJdKQibUIQ/master.m3u8
+#EXTINF:-1 tvg-name="Chepauk Super Gillies vs IDream Tiruppur Tamizhans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100438" group-title="Tamil Nadu Premier League, 2024",Chepauk Super Gillies vs IDream Tiruppur Tamizhans
+https://dai.google.com/linear/hls/event/Rbsq1qyFQ2W-ldbuidKTYQ/master.m3u8
 #EXTINF:-1 tvg-name="Volleyball Beach Pro vs Court 3, Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105376" group-title="Volleyball Beach Pro Tour",Volleyball Beach Pro vs Court 3, Austria
 https://dai.fancode.com/primary/105376_english_hls_8869adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Volleyball Beach Pro vs Court 2, Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105375" group-title="Volleyball Beach Pro Tour",Volleyball Beach Pro vs Court 2, Austria
