@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Sharks XI vs Lions XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104130" group-title="Siechem Pondicherry Mens T20 Tournament 2024",Sharks XI vs Lions XI
-https://dai.google.com/linear/hls/event/u7M3ulszRJ60mdVLB_KicA/master.m3u8
+#EXTINF:-1 tvg-name="West Indies Champions vs Australia Champions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104306" group-title="World Championship of Legends, 2024",West Indies Champions vs Australia Champions
+https://dai.google.com/linear/hls/event/26obeVjWQ6m42dI167N_tg/master.m3u8
 #EXTINF:-1 tvg-name="Lankan Lions vs United CC Bucharest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104526" group-title="ECS Romania, 2024",Lankan Lions vs United CC Bucharest
 https://dai.google.com/linear/hls/event/-Zckzmr9SP-6lgwYUGiDhA/master.m3u8
+#EXTINF:-1 tvg-name="Jersey vs Belgium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104319" group-title="ICC T20 World Cup Sub Regional Europe Qualifier B",Jersey vs Belgium
+https://dai.google.com/linear/hls/event/wMmDgAnhR8mVeEb4hCqGKg/master.m3u8
 #EXTINF:-1 tvg-name="Colombo Strikers vs Jaffna Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103778" group-title="Lanka Premier League, 2024",Colombo Strikers vs Jaffna Kings
 https://dai.google.com/linear/hls/event/q22Hlv2KRZ6fyUp9TK9hNw/master.m3u8
 #EXTINF:-1 tvg-name="Namibia vs Punjab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104544" group-title="Punjab tour of Namibia, 2024",Namibia vs Punjab
