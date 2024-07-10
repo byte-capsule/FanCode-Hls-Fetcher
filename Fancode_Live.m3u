@@ -1,5 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Sharks XI vs Lions XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104130" group-title="Siechem Pondicherry Mens T20 Tournament 2024",Sharks XI vs Lions XI
+https://dai.google.com/linear/hls/event/u7M3ulszRJ60mdVLB_KicA/master.m3u8
 #EXTINF:-1 tvg-name="Bucharest Gladiators vs Lankan Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104524" group-title="ECS Romania, 2024",Bucharest Gladiators vs Lankan Lions
 https://dai.google.com/linear/hls/event/Rj6WvtNkS2aqcM7b7jBlgQ/master.m3u8
 #EXTINF:-1 tvg-name="Zambia vs Rwanda" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103986" group-title="Kenya Quadrangular Cup, 2024",Zambia vs Rwanda
 https://dai.google.com/linear/hls/event/h_gqfP0YQ-O5sSPMKEknEg/master.m3u8
+#EXTINF:-1 tvg-name="Croatia vs Serbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104321" group-title="ICC T20 World Cup Sub Regional Europe Qualifier B",Croatia vs Serbia
+https://dai.google.com/linear/hls/event/p1NzYaaCR1eLHDtzwhwZCg/master.m3u8

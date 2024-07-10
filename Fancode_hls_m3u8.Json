@@ -1,9 +1,20 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 2,
-  "updated_on": "10-07-2024 on 0:43:05 PM \ud83c\udf1e",
+  "channels_amount": 4,
+  "updated_on": "10-07-2024 on 1:07:23 PM \ud83c\udf1e",
   "channels": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "Siechem Pondicherry Mens T20 Tournament 2024",
+      "match_id": 104130,
+      "match_name": "Sharks XI vs Lions XI",
+      "team_1": "Sharks XI",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRK@2x.png",
+      "team_2": "Lions XI",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LI@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/u7M3ulszRJ60mdVLB_KicA/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "ECS Romania, 2024",
@@ -25,6 +36,17 @@
       "team_2": "Rwanda",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RWA@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/h_gqfP0YQ-O5sSPMKEknEg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC T20 World Cup Sub Regional Europe Qualifier B",
+      "match_id": 104321,
+      "match_name": "Croatia vs Serbia",
+      "team_1": "Croatia",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CROA@2x.png",
+      "team_2": "Serbia",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRB@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/p1NzYaaCR1eLHDtzwhwZCg/master.m3u8"
     }
   ]
 }
