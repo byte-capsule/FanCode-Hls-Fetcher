@@ -9,13 +9,9 @@ https://dai.google.com/linear/hls/event/5k1e18LoRraKd_osSaEnUA/master.m3u8
 https://dai.google.com/linear/hls/event/k6H643HISi-0tGSTn27J1g/master.m3u8
 #EXTINF:-1 tvg-name="Middlesex vs Gloucestershire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102122" group-title="Vitality Blast T20, 2024",Middlesex vs Gloucestershire
 https://dai.google.com/linear/hls/event/3nv6cQQDQbm2YqPDwSLK_Q/master.m3u8
-#EXTINF:-1 tvg-name="SKM Salem Spartans vs Nellai Royal Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100439" group-title="Tamil Nadu Premier League, 2024",SKM Salem Spartans vs Nellai Royal Kings
-https://dai.google.com/linear/hls/event/MlGximwMTva3fhJOCLWkhg/master.m3u8
 #EXTINF:-1 tvg-name="West Indies vs England" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100737" group-title="West Indies tour of England, 2024",West Indies vs England
 https://pubads.g.doubleclick.net/ssai/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
+#EXTINF:-1 tvg-name="New Zealand Women vs England Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96351" group-title="New Zealand Women tour of England, 2024",New Zealand Women vs England Women
+https://pubads.g.doubleclick.net/ssai/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
 #EXTINF:-1 tvg-name="Volleyball Beach Pro vs Court 1, Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105274" group-title="Volleyball Beach Pro Tour",Volleyball Beach Pro vs Court 1, Austria
 https://dai.fancode.com/primary/105274_english_hls_4928adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Volleyball Beach Pro vs Court 3, Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105273" group-title="Volleyball Beach Pro Tour",Volleyball Beach Pro vs Court 3, Austria
-https://dai.fancode.com/primary/105273_english_hls_8852adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Volleyball Beach Pro vs Court 2, Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105272" group-title="Volleyball Beach Pro Tour",Volleyball Beach Pro vs Court 2, Austria
-https://dai.fancode.com/primary/105272_english_hls_2406adfreeta-no/index.m3u8
