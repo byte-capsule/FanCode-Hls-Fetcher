@@ -1,9 +1,20 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 7,
-  "updated_on": "11-07-2024 on 6:12:17 PM \ud83c\udf19",
+  "channels_amount": 8,
+  "updated_on": "11-07-2024 on 6:46:20 PM \ud83c\udf19",
   "channels": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "ECS Romania, 2024",
+      "match_id": 104532,
+      "match_name": "Lankan Lions vs Transylvania",
+      "team_1": "Lankan Lions",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LN@2x.png",
+      "team_2": "Transylvania",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRN@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/O4c8dNezTLyuUuQhvM9vSg/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "ICC T20 World Cup Sub Regional Europe Qualifier B",
@@ -18,13 +29,13 @@
     {
       "event_catagory": "cricket",
       "event_name": "Andhra Premier League, 2024",
-      "match_id": 104280,
-      "match_name": "Coastal Riders vs Vizag Warriors",
-      "team_1": "Coastal Riders",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSRI@2x.png",
-      "team_2": "Vizag Warriors",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/VZW-CR1@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/fPFtTNXgTD-vJiXosuYV4A/master.m3u8"
+      "match_id": 104281,
+      "match_name": "Rayalaseema Kings vs Uttarandhra Lions",
+      "team_1": "Rayalaseema Kings",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RYLS-CR1@2x.png",
+      "team_2": "Uttarandhra Lions",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KVLS@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/AczTIxr0QWa1eL85F9V0bw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -40,13 +51,13 @@
     {
       "event_catagory": "kabaddi",
       "event_name": "Uttar Pradesh Kabaddi League, 2024",
-      "match_id": 105180,
-      "match_name": "Yamuna Yodhas vs Lucknow Lions",
-      "team_1": "Yamuna Yodhas",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-YY@2x.png",
-      "team_2": "Lucknow Lions",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-LL@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/BMIWBO4TSmip58i_SGQieg/master.m3u8"
+      "match_id": 105181,
+      "match_name": "JD Noida Ninjas vs Kashi Kings",
+      "team_1": "JD Noida Ninjas",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-JDN@2x.png",
+      "team_2": "Kashi Kings",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-KK@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/WD8wDRCcQl2wJrmsaJ2SZQ/master.m3u8"
     },
     {
       "event_catagory": "volleyball",
