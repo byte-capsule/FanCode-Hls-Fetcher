@@ -1,8 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Soca Kings vs Mad Bulls" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104821" group-title="Dream11 Trinidad T10 Blast, 5th Edition, 2024",Soca Kings vs Mad Bulls
+https://dai.google.com/linear/hls/event/46lfyzOTT7CLsgNdO4ZMYA/master.m3u8
 #EXTINF:-1 tvg-name="CSS Group vs Colatta Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104172" group-title="Bukhatir 50 overs League, 2024",CSS Group vs Colatta Warriors
 https://dai.google.com/linear/hls/event/bwlLo3wXSgiZFp2BXJkAKQ/master.m3u8
-#EXTINF:-1 tvg-name="Transylvania vs Baneasa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104533" group-title="ECS Romania, 2024",Transylvania vs Baneasa
-https://dai.google.com/linear/hls/event/UtlFjdqRQfaCjeHcQtZFRw/master.m3u8
 #EXTINF:-1 tvg-name="Switzerland vs Serbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104324" group-title="ICC T20 World Cup Sub Regional Europe Qualifier B",Switzerland vs Serbia
 https://dai.google.com/linear/hls/event/5k1e18LoRraKd_osSaEnUA/master.m3u8
 #EXTINF:-1 tvg-name="Rayalaseema Kings vs Uttarandhra Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104281" group-title="Andhra Premier League, 2024",Rayalaseema Kings vs Uttarandhra Lions
@@ -11,8 +11,8 @@ https://dai.google.com/linear/hls/event/AczTIxr0QWa1eL85F9V0bw/master.m3u8
 https://dai.google.com/linear/hls/event/MlGximwMTva3fhJOCLWkhg/master.m3u8
 #EXTINF:-1 tvg-name="West Indies vs England" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100737" group-title="West Indies tour of England, 2024",West Indies vs England
 https://pubads.g.doubleclick.net/ssai/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
-#EXTINF:-1 tvg-name="Brij Stars vs Awadh Ramdoots" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105183" group-title="Uttar Pradesh Kabaddi League, 2024",Brij Stars vs Awadh Ramdoots
-https://dai.google.com/linear/hls/event/DKNnlYWBSJSxV83dduW1yA/master.m3u8
+#EXTINF:-1 tvg-name="Middlesex vs Gloucestershire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102122" group-title="Vitality Blast T20, 2024",Middlesex vs Gloucestershire
+https://dai.google.com/linear/hls/event/3nv6cQQDQbm2YqPDwSLK_Q/master.m3u8
 #EXTINF:-1 tvg-name="Volleyball Beach Pro vs Court 1, Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105274" group-title="Volleyball Beach Pro Tour",Volleyball Beach Pro vs Court 1, Austria
 https://dai.fancode.com/primary/105274_english_hls_4928adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Volleyball Beach Pro vs Court 3, Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105273" group-title="Volleyball Beach Pro Tour",Volleyball Beach Pro vs Court 3, Austria
