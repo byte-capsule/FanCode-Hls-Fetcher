@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Panthers XI vs Bulls XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104131" group-title="Siechem Pondicherry Mens T20 Tournament 2024",Panthers XI vs Bulls XI
 https://dai.google.com/linear/hls/event/Z9ifrrq7QROEPfjyHg1VQA/master.m3u8
+#EXTINF:-1 tvg-name="Transylvania vs ACCB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104530" group-title="ECS Romania, 2024",Transylvania vs ACCB
+https://dai.google.com/linear/hls/event/PAotgwZ1R7SybSeXrFQoZA/master.m3u8
 #EXTINF:-1 tvg-name="Norway vs Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104320" group-title="ICC T20 World Cup Sub Regional Europe Qualifier B",Norway vs Germany
 https://dai.google.com/linear/hls/event/o8ajgo7BSjeF72SYDqtmiQ/master.m3u8
 #EXTINF:-1 tvg-name="West Indies vs England" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100737" group-title="West Indies tour of England, 2024",West Indies vs England
