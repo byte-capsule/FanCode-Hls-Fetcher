@@ -1,8 +1,8 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 5,
-  "updated_on": "12-07-2024 on 8:40:50 PM \ud83c\udf19",
+  "channels_amount": 8,
+  "updated_on": "12-07-2024 on 9:06:57 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -14,6 +14,17 @@
       "team_2": "Cluj",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CLJ@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/xvlfptb3TxCO3e2XhySgTw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC T20 World Cup Sub Regional Europe Qualifier B",
+      "match_id": 104327,
+      "match_name": "Belgium vs Serbia",
+      "team_1": "Belgium",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BEL@2x.png",
+      "team_2": "Serbia",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRB@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/An_poKO9TSiz_tWH3nTSSw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -36,6 +47,28 @@
       "team_2": "West Indies Champions",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WICC@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/ATjlI4YVTsC7JrOm3beYrw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "World Championship of Legends, 2024",
+      "match_id": 104309,
+      "match_name": "Australia Champions vs India Champions",
+      "team_1": "Australia Champions",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AACC@2x.png",
+      "team_2": "India Champions",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IAC@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/r4Drsj62RwuHh73G8SZ0GA/master.m3u8"
+    },
+    {
+      "event_catagory": "mma",
+      "event_name": "Professional Fighters League",
+      "match_id": 105179,
+      "match_name": "Professional Fighters League",
+      "team_1": "Professional Fighters League",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/mma-flags/FC-PM@2x.png",
+      "team_2": "Riyadh, Saudi Arabia",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/mma-flags/FC-LOC@2x.png",
+      "stream_link": "https://dai.fancode.com/primary/105179_english_hls_8969adfreeta-di/index.m3u8"
     },
     {
       "event_catagory": "golf",
