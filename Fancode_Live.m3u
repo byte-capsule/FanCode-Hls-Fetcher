@@ -1,13 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Blue Devils vs Parakeet Buccaneers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104823" group-title="Dream11 Trinidad T10 Blast, 5th Edition, 2024",Blue Devils vs Parakeet Buccaneers
+#EXTINF:-1 tvg-name="Parakeet Buccaneers vs Blue Devils" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104823" group-title="Dream11 Trinidad T10 Blast, 5th Edition, 2024",Parakeet Buccaneers vs Blue Devils
 https://dai.google.com/linear/hls/event/IQqlt9YBT6u8kN3v8s6RAg/master.m3u8
+#EXTINF:-1 tvg-name="Surrey vs Somerset" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102133" group-title="Vitality Blast T20, 2024",Surrey vs Somerset
+https://dai.google.com/linear/hls/event/6k1ka23OQIWnQMPA03QCDg/master.m3u8
+#EXTINF:-1 tvg-name="Glamorgan vs Middlesex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102129" group-title="Vitality Blast T20, 2024",Glamorgan vs Middlesex
+https://dai.google.com/linear/hls/event/WeliZas6Q9GVbF9bzDFhxw/master.m3u8
+#EXTINF:-1 tvg-name="Durham vs Nottinghamshire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102127" group-title="Vitality Blast T20, 2024",Durham vs Nottinghamshire
+https://dai.google.com/linear/hls/event/K7mBKNpCRi6oDQ0sYQNONw/master.m3u8
 #EXTINF:-1 tvg-name="Belgium vs Serbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104327" group-title="ICC T20 World Cup Sub Regional Europe Qualifier B",Belgium vs Serbia
 https://dai.google.com/linear/hls/event/An_poKO9TSiz_tWH3nTSSw/master.m3u8
 #EXTINF:-1 tvg-name="India Champions vs Australia Champions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104309" group-title="World Championship of Legends, 2024",India Champions vs Australia Champions
 https://dai.google.com/linear/hls/event/r4Drsj62RwuHh73G8SZ0GA/master.m3u8
-#EXTINF:-1 tvg-name="Vizag Warriors vs Rayalaseema Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104282" group-title="Andhra Premier League, 2024",Vizag Warriors vs Rayalaseema Kings
-https://dai.google.com/linear/hls/event/7t7oboEJTtep_Ge6TQh64g/master.m3u8
 #EXTINF:-1 tvg-name="Professional Fighters League" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105179" group-title="Professional Fighters League",Professional Fighters League
 https://dai.fancode.com/primary/105179_english_hls_8969adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105013" group-title="LIV Golf Andalusia",Day 1
-https://dai.fancode.com/primary/105013_english_hls_5077adfreeta-di/index.m3u8
