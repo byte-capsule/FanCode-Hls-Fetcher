@@ -1,3 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Lancashire vs Yorkshire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102132" group-title="Vitality Blast T20, 2024",Lancashire vs Yorkshire
+https://pubads.g.doubleclick.net/ssai/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8
 #EXTINF:-1 tvg-name="Professional Fighters League" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105179" group-title="Professional Fighters League",Professional Fighters League
 https://dai.fancode.com/primary/105179_english_hls_8969adfreeta-di/index.m3u8
