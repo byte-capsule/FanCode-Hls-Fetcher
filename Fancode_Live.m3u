@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Pakistan Champions vs West Indies Champions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104308" group-title="World Championship of Legends, 2024",Pakistan Champions vs West Indies Champions
-https://dai.google.com/linear/hls/event/ATjlI4YVTsC7JrOm3beYrw/master.m3u8
-#EXTINF:-1 tvg-name="Kenya vs Nigeria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104466" group-title="Nigeria tour of Kenya, 2024",Kenya vs Nigeria
-https://dai.google.com/linear/hls/event/oJmejGeoSUSCY3NMUMM8DQ/master.m3u8
+#EXTINF:-1 tvg-name="Royal Eagles vs Cluj" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104537" group-title="ECS Romania, 2024",Royal Eagles vs Cluj
+https://dai.google.com/linear/hls/event/xvlfptb3TxCO3e2XhySgTw/master.m3u8
 #EXTINF:-1 tvg-name="Vizag Warriors vs Rayalaseema Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104282" group-title="Andhra Premier League, 2024",Vizag Warriors vs Rayalaseema Kings
 https://dai.google.com/linear/hls/event/7t7oboEJTtep_Ge6TQh64g/master.m3u8
+#EXTINF:-1 tvg-name="Pakistan Champions vs West Indies Champions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104308" group-title="World Championship of Legends, 2024",Pakistan Champions vs West Indies Champions
+https://dai.google.com/linear/hls/event/ATjlI4YVTsC7JrOm3beYrw/master.m3u8
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105013" group-title="LIV Golf Andalusia",Day 1
 https://dai.fancode.com/primary/105013_english_hls_5077adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Kashi Kings vs Yamuna Yodhas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105185" group-title="Uttar Pradesh Kabaddi League, 2024",Kashi Kings vs Yamuna Yodhas
-https://dai.google.com/linear/hls/event/4g9RAOgRTteEb5PP3yhyYQ/master.m3u8
 #EXTINF:-1 tvg-name="Ganga Kings of Mirzapur vs Brij Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105186" group-title="Uttar Pradesh Kabaddi League, 2024",Ganga Kings of Mirzapur vs Brij Stars
 https://dai.google.com/linear/hls/event/FpmiObAjTZio4tCdhst63w/master.m3u8
+#EXTINF:-1 tvg-name="Kashi Kings vs Yamuna Yodhas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105185" group-title="Uttar Pradesh Kabaddi League, 2024",Kashi Kings vs Yamuna Yodhas
+https://dai.google.com/linear/hls/event/4g9RAOgRTteEb5PP3yhyYQ/master.m3u8
