@@ -1,11 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Blue Devils vs Parakeet Buccaneers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104823" group-title="Dream11 Trinidad T10 Blast, 5th Edition, 2024",Blue Devils vs Parakeet Buccaneers
+https://dai.google.com/linear/hls/event/IQqlt9YBT6u8kN3v8s6RAg/master.m3u8
 #EXTINF:-1 tvg-name="Belgium vs Serbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104327" group-title="ICC T20 World Cup Sub Regional Europe Qualifier B",Belgium vs Serbia
 https://dai.google.com/linear/hls/event/An_poKO9TSiz_tWH3nTSSw/master.m3u8
 #EXTINF:-1 tvg-name="Vizag Warriors vs Rayalaseema Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104282" group-title="Andhra Premier League, 2024",Vizag Warriors vs Rayalaseema Kings
 https://dai.google.com/linear/hls/event/7t7oboEJTtep_Ge6TQh64g/master.m3u8
-#EXTINF:-1 tvg-name="Pakistan Champions vs West Indies Champions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104308" group-title="World Championship of Legends, 2024",Pakistan Champions vs West Indies Champions
-https://dai.google.com/linear/hls/event/ATjlI4YVTsC7JrOm3beYrw/master.m3u8
-#EXTINF:-1 tvg-name="Australia Champions vs India Champions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104309" group-title="World Championship of Legends, 2024",Australia Champions vs India Champions
+#EXTINF:-1 tvg-name="India Champions vs Australia Champions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104309" group-title="World Championship of Legends, 2024",India Champions vs Australia Champions
 https://dai.google.com/linear/hls/event/r4Drsj62RwuHh73G8SZ0GA/master.m3u8
 #EXTINF:-1 tvg-name="Professional Fighters League" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105179" group-title="Professional Fighters League",Professional Fighters League
 https://dai.fancode.com/primary/105179_english_hls_8969adfreeta-di/index.m3u8
