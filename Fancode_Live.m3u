@@ -7,5 +7,7 @@ https://dai.google.com/linear/hls/event/7cod0FuPQyarJb72pCHp_Q/master.m3u8
 https://dai.google.com/linear/hls/event/oJmejGeoSUSCY3NMUMM8DQ/master.m3u8
 #EXTINF:-1 tvg-name="Pakistan Champions vs West Indies Champions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104308" group-title="World Championship of Legends, 2024",Pakistan Champions vs West Indies Champions
 https://dai.google.com/linear/hls/event/ATjlI4YVTsC7JrOm3beYrw/master.m3u8
+#EXTINF:-1 tvg-name="Shanghai Port vs Beijing Guoan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100236" group-title="Chinese Super League 2024",Shanghai Port vs Beijing Guoan
+https://dai.fancode.com/primary/100236_english_hls_5260adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105013" group-title="LIV Golf Andalusia",Day 1
 https://dai.fancode.com/primary/105013_english_hls_5077adfreeta-di/index.m3u8
