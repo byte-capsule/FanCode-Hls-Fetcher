@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Royal Eagles vs Cluj" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104537" group-title="ECS Romania, 2024",Royal Eagles vs Cluj
-https://dai.google.com/linear/hls/event/xvlfptb3TxCO3e2XhySgTw/master.m3u8
 #EXTINF:-1 tvg-name="Belgium vs Serbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104327" group-title="ICC T20 World Cup Sub Regional Europe Qualifier B",Belgium vs Serbia
 https://dai.google.com/linear/hls/event/An_poKO9TSiz_tWH3nTSSw/master.m3u8
 #EXTINF:-1 tvg-name="Vizag Warriors vs Rayalaseema Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104282" group-title="Andhra Premier League, 2024",Vizag Warriors vs Rayalaseema Kings
