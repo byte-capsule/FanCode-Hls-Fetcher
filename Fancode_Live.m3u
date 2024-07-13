@@ -1,9 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Pakistan Champions vs India Champions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104310" group-title="World Championship of Legends, 2024",Pakistan Champions vs India Champions
 https://dai.google.com/linear/hls/event/_CcA6Z9mTJKmny-emeGnFg/master.m3u8
-#EXTINF:-1 tvg-name="Mad Bulls vs Scarlet Ibis Scorchers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104825" group-title="Dream11 Trinidad T10 Blast, 5th Edition, 2024",Mad Bulls vs Scarlet Ibis Scorchers
-https://dai.google.com/linear/hls/event/v87sGHodRqKh7hPhGzkaZg/master.m3u8
-#EXTINF:-1 tvg-name="Kandy Falcons vs Jaffna Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103780" group-title="Lanka Premier League, 2024",Kandy Falcons vs Jaffna Kings
-https://dai.google.com/linear/hls/event/r5GZGnV1T5SCvVguEPUd-A/master.m3u8
 #EXTINF:-1 tvg-name="New Zealand Women vs England Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="96352" group-title="New Zealand Women tour of England, 2024",New Zealand Women vs England Women
 https://pubads.g.doubleclick.net/ssai/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
