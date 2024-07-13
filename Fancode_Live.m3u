@@ -1,18 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Romania vs Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105278" group-title="ECI Romania, 2024",Romania vs Austria
 https://dai.google.com/linear/hls/event/_mmfxOtWQ0y9S-7MoKfWpQ/master.m3u8
-#EXTINF:-1 tvg-name="Croatia vs Switzerland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104329" group-title="ICC T20 World Cup Sub Regional Europe Qualifier B",Croatia vs Switzerland
-https://dai.google.com/linear/hls/event/1a3qYFCIQ6ebZgESBcLEww/master.m3u8
-#EXTINF:-1 tvg-name="Vizag Warriors vs Uttarandhra Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104283" group-title="Andhra Premier League, 2024",Vizag Warriors vs Uttarandhra Lions
-https://dai.google.com/linear/hls/event/0bw17kQ0RrKdDsoGSV_OPg/master.m3u8
-#EXTINF:-1 tvg-name="Nigeria vs Kenya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104467" group-title="Nigeria tour of Kenya, 2024",Nigeria vs Kenya
-https://dai.google.com/linear/hls/event/S_rcRxvJQVahSRtLy92PiA/master.m3u8
 #EXTINF:-1 tvg-name="Nellai Royal Kings vs Lyca Kovai Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100441" group-title="Tamil Nadu Premier League, 2024",Nellai Royal Kings vs Lyca Kovai Kings
 https://dai.google.com/linear/hls/event/c7fRgFHBQSutHsE_BfEw2g/master.m3u8
+#EXTINF:-1 tvg-name="Vizag Warriors vs Uttarandhra Lions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104283" group-title="Andhra Premier League, 2024",Vizag Warriors vs Uttarandhra Lions
+https://dai.google.com/linear/hls/event/0bw17kQ0RrKdDsoGSV_OPg/master.m3u8
 #EXTINF:-1 tvg-name="Jaffna Kings vs Kandy Falcons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103780" group-title="Lanka Premier League, 2024",Jaffna Kings vs Kandy Falcons
 https://dai.google.com/linear/hls/event/r5GZGnV1T5SCvVguEPUd-A/master.m3u8
-#EXTINF:-1 tvg-name="Shanghai Shenhua vs Changchun Yatai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100237" group-title="Chinese Super League 2024",Shanghai Shenhua vs Changchun Yatai
-https://dai.fancode.com/primary/100237_english_hls_4730adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105014" group-title="LIV Golf Andalusia",Day 2
 https://dai.fancode.com/primary/105014_english_hls_4673adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Awadh Ramdoots vs Ganga Kings of Mirzapur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105190" group-title="Uttar Pradesh Kabaddi League, 2024",Awadh Ramdoots vs Ganga Kings of Mirzapur
