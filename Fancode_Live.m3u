@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Tigers XI vs Bulls XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104135" group-title="Siechem Pondicherry Mens T20 Tournament 2024",Tigers XI vs Bulls XI
 https://dai.google.com/linear/hls/event/FdPCc6jlR9ax_ODPfPvOtw/master.m3u8
-#EXTINF:-1 tvg-name="SFF Panthers, Malaysia vs SNK Lions, Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105172" group-title="KL T20 Bash, 2024",SFF Panthers, Malaysia vs SNK Lions, Malaysia
-https://dai.google.com/linear/hls/event/CcZta3ZkT0iik5g2KFmudA/master.m3u8
 #EXTINF:-1 tvg-name="Romania vs Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105276" group-title="ECI Romania, 2024",Romania vs Portugal
 https://dai.google.com/linear/hls/event/eaUK1evxQsaxiEaK98Yy8A/master.m3u8
 #EXTINF:-1 tvg-name="Norway vs Gibraltar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104328" group-title="ICC T20 World Cup Sub Regional Europe Qualifier B",Norway vs Gibraltar
