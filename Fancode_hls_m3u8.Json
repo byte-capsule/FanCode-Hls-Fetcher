@@ -2,18 +2,18 @@
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "channels_amount": 4,
-  "updated_on": "13-07-2024 on 0:41:53 PM \ud83c\udf1e",
+  "updated_on": "13-07-2024 on 1:07:04 PM \ud83c\udf1e",
   "channels": [
     {
       "event_catagory": "cricket",
-      "event_name": "JCL T20, 2024",
-      "match_id": 101869,
-      "match_name": "Tokyo Titans vs Kawasaki Knight Riders CC",
-      "team_1": "Tokyo Titans",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TOKT@2x.png",
-      "team_2": "Kawasaki Knight Riders CC",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KAW@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/GCXypKkWS2qNkkNgwXFyfQ/master.m3u8"
+      "event_name": "Siechem Pondicherry Mens T20 Tournament 2024",
+      "match_id": 104135,
+      "match_name": "Tigers XI vs Bulls XI",
+      "team_1": "Tigers XI",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TG@2x.png",
+      "team_2": "Bulls XI",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLS@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/FdPCc6jlR9ax_ODPfPvOtw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -38,15 +38,15 @@
       "stream_link": "https://dai.google.com/linear/hls/event/Kw5ldIlASXmrU2muecPcaQ/master.m3u8"
     },
     {
-      "event_catagory": "football",
-      "event_name": "J League 2024",
-      "match_id": 102435,
-      "match_name": "Consadole Sapporo vs Vissel Kobe",
-      "team_1": "Consadole Sapporo",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CSA@2x.png",
-      "team_2": "Vissel Kobe",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VKO@2x.png",
-      "stream_link": "https://dai.fancode.com/primary/102435_english_hls_8540adfreeta-di/index.m3u8"
+      "event_catagory": "cricket",
+      "event_name": "ICC T20 World Cup Sub Regional Europe Qualifier B",
+      "match_id": 104328,
+      "match_name": "Norway vs Gibraltar",
+      "team_1": "Norway",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NORW@2x.png",
+      "team_2": "Gibraltar",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GIB@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/rod1_5hfQ7us8STAC0vKSg/master.m3u8"
     }
   ]
 }
