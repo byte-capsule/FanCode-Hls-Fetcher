@@ -11,3 +11,5 @@ https://dai.google.com/linear/hls/event/a91kZ87LT_mXa02gIpuuGw/master.m3u8
 https://dai.fancode.com/primary/102436_english_hls_5065adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105014" group-title="LIV Golf Andalusia",Day 2
 https://dai.fancode.com/primary/105014_english_hls_4673adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="JD Noida Ninjas vs Yamuna Yodhas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105188" group-title="Uttar Pradesh Kabaddi League, 2024",JD Noida Ninjas vs Yamuna Yodhas
+https://dai.google.com/linear/hls/event/wHcWlqMaRWuVEN4qP24Xow/master.m3u8
