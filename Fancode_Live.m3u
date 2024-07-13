@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Sharks XI vs Tuskers XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104134" group-title="Siechem Pondicherry Mens T20 Tournament 2024",Sharks XI vs Tuskers XI
-https://dai.google.com/linear/hls/event/ARbx0LWQR7GGAa3rsiCH8Q/master.m3u8
-#EXTINF:-1 tvg-name="Global Stars vs Malaysian Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105163" group-title="KL T20 Bash, 2024",Global Stars vs Malaysian Tigers
-https://dai.google.com/linear/hls/event/CmBTWHVER56YUVagkpttDQ/master.m3u8
+#EXTINF:-1 tvg-name="Kawasaki Knight Riders CC vs Tokyo Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101869" group-title="JCL T20, 2024",Kawasaki Knight Riders CC vs Tokyo Titans
+https://dai.google.com/linear/hls/event/GCXypKkWS2qNkkNgwXFyfQ/master.m3u8
+#EXTINF:-1 tvg-name="Consadole Sapporo vs Vissel Kobe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102435" group-title="J League 2024",Consadole Sapporo vs Vissel Kobe
+https://dai.fancode.com/primary/102435_english_hls_8540adfreeta-di/index.m3u8
