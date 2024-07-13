@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Kawasaki Knight Riders CC vs Tokyo Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101869" group-title="JCL T20, 2024",Kawasaki Knight Riders CC vs Tokyo Titans
+#EXTINF:-1 tvg-name="Tokyo Titans vs Kawasaki Knight Riders CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101869" group-title="JCL T20, 2024",Tokyo Titans vs Kawasaki Knight Riders CC
 https://dai.google.com/linear/hls/event/GCXypKkWS2qNkkNgwXFyfQ/master.m3u8
+#EXTINF:-1 tvg-name="SNK Lions vs SSF Panthers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105172" group-title="KL T20 Bash, 2024",SNK Lions vs SSF Panthers
+https://dai.google.com/linear/hls/event/CcZta3ZkT0iik5g2KFmudA/master.m3u8
 #EXTINF:-1 tvg-name="Consadole Sapporo vs Vissel Kobe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102435" group-title="J League 2024",Consadole Sapporo vs Vissel Kobe
 https://dai.fancode.com/primary/102435_english_hls_8540adfreeta-di/index.m3u8
