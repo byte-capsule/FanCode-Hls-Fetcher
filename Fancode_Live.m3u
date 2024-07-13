@@ -1,9 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Tigers XI vs Bulls XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104135" group-title="Siechem Pondicherry Mens T20 Tournament 2024",Tigers XI vs Bulls XI
 https://dai.google.com/linear/hls/event/FdPCc6jlR9ax_ODPfPvOtw/master.m3u8
-#EXTINF:-1 tvg-name="Romania vs Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105276" group-title="ECI Romania, 2024",Romania vs Portugal
-https://dai.google.com/linear/hls/event/eaUK1evxQsaxiEaK98Yy8A/master.m3u8
+#EXTINF:-1 tvg-name="Portugal vs Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105277" group-title="ECI Romania, 2024",Portugal vs Austria
+https://dai.google.com/linear/hls/event/-tN_H69fRT64EyW-y3fKMQ/master.m3u8
 #EXTINF:-1 tvg-name="Norway vs Gibraltar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104328" group-title="ICC T20 World Cup Sub Regional Europe Qualifier B",Norway vs Gibraltar
 https://dai.google.com/linear/hls/event/rod1_5hfQ7us8STAC0vKSg/master.m3u8
 #EXTINF:-1 tvg-name="Siechem Madurai Panthers vs IDream Tiruppur Tamizhans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100440" group-title="Tamil Nadu Premier League, 2024",Siechem Madurai Panthers vs IDream Tiruppur Tamizhans
 https://dai.google.com/linear/hls/event/a91kZ87LT_mXa02gIpuuGw/master.m3u8
+#EXTINF:-1 tvg-name="FC Tokyo vs Albirex Niigata" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102436" group-title="J League 2024",FC Tokyo vs Albirex Niigata
+https://dai.fancode.com/primary/102436_english_hls_5065adfreeta-no/index.m3u8
