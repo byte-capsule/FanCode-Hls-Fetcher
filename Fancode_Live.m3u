@@ -1,13 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Portugal vs Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105282" group-title="ECI Romania, 2024",Portugal vs Romania
-https://dai.google.com/linear/hls/event/eWBn68zzQUS983gSOWQIPg/master.m3u8
+#EXTINF:-1 tvg-name="Portugal vs Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105283" group-title="ECI Romania, 2024",Portugal vs Austria
+https://dai.google.com/linear/hls/event/1H-VCwBuQLuZ4J14p_mU8A/master.m3u8
 #EXTINF:-1 tvg-name="Galle Marvels vs Dambulla Sixers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103781" group-title="Lanka Premier League, 2024",Galle Marvels vs Dambulla Sixers
 https://dai.google.com/linear/hls/event/X_gW9atZQxG2Wi99kjPUrg/master.m3u8
 #EXTINF:-1 tvg-name="Trichy Grand Cholas vs SKM Salem Spartans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100442" group-title="Tamil Nadu Premier League, 2024",Trichy Grand Cholas vs SKM Salem Spartans
 https://dai.google.com/linear/hls/event/pDZjTKkeSjCKiU7W9DTnlw/master.m3u8
-#EXTINF:-1 tvg-name="Typhoons Women vs Scorchers Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103367" group-title="Evoke Super 20 Trophy, 2024",Typhoons Women vs Scorchers Women
-https://dai.google.com/linear/hls/event/wysGZMpyShW0UG5hcURhOg/master.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105015" group-title="LIV Golf Andalusia",Day 3
 https://dai.fancode.com/primary/105015_english_hls_4084adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Kashi Kings vs Sangam Challengers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105192" group-title="Uttar Pradesh Kabaddi League, 2024",Kashi Kings vs Sangam Challengers
-https://dai.google.com/linear/hls/event/4Gv2x-boS5SMkIXfNnb0zA/master.m3u8
+#EXTINF:-1 tvg-name="JD Noida Ninjas vs Ganga Kings of Mirzapur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105193" group-title="Uttar Pradesh Kabaddi League, 2024",JD Noida Ninjas vs Ganga Kings of Mirzapur
+https://dai.google.com/linear/hls/event/q3g0JVmVQWCOLvNwB_rFhw/master.m3u8
