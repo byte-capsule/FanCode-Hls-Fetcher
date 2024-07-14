@@ -3,3 +3,5 @@
 https://dai.google.com/linear/hls/event/Y1l2TcW3TB2POrz75gFiNQ/master.m3u8
 #EXTINF:-1 tvg-name="Romania vs Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105281" group-title="ECI Romania, 2024",Romania vs Austria
 https://dai.google.com/linear/hls/event/NFfzQoeSRG6IsQqpxm9M3g/master.m3u8
+#EXTINF:-1 tvg-name="Croatia vs Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104331" group-title="ICC T20 World Cup Sub Regional Europe Qualifier B",Croatia vs Germany
+https://dai.google.com/linear/hls/event/kg6GsrgmRDqemJFpjSbTTg/master.m3u8
