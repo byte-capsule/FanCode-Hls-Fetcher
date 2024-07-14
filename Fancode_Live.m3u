@@ -3,10 +3,10 @@
 https://dai.google.com/linear/hls/event/1H-VCwBuQLuZ4J14p_mU8A/master.m3u8
 #EXTINF:-1 tvg-name="Norway vs Jersey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104334" group-title="ICC T20 World Cup Sub Regional Europe Qualifier B",Norway vs Jersey
 https://dai.google.com/linear/hls/event/a0yIICDSTT2zWpifGYiqrw/master.m3u8
-#EXTINF:-1 tvg-name="Colombo Strikers vs Jaffna Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103782" group-title="Lanka Premier League, 2024",Colombo Strikers vs Jaffna Kings
-https://dai.google.com/linear/hls/event/GpKo776oT0SUWWxHEIhvnw/master.m3u8
-#EXTINF:-1 tvg-name="Chepauk Super Gillies vs Dindigul Dragons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100443" group-title="Tamil Nadu Premier League, 2024",Chepauk Super Gillies vs Dindigul Dragons
+#EXTINF:-1 tvg-name="Dindigul Dragons vs Chepauk Super Gillies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100443" group-title="Tamil Nadu Premier League, 2024",Dindigul Dragons vs Chepauk Super Gillies
 https://dai.google.com/linear/hls/event/1pHaYblLS-2ngQpmlFrk1Q/master.m3u8
+#EXTINF:-1 tvg-name="Jaffna Kings vs Colombo Strikers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103782" group-title="Lanka Premier League, 2024",Jaffna Kings vs Colombo Strikers
+https://dai.google.com/linear/hls/event/GpKo776oT0SUWWxHEIhvnw/master.m3u8
 #EXTINF:-1 tvg-name="Durham vs Northamptonshire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102142" group-title="Vitality Blast T20, 2024",Durham vs Northamptonshire
 https://dai.google.com/linear/hls/event/q6ALAWWsRNyhKtrNWAk20Q/master.m3u8
 #EXTINF:-1 tvg-name="Worcestershire vs Yorkshire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102140" group-title="Vitality Blast T20, 2024",Worcestershire vs Yorkshire
@@ -17,3 +17,5 @@ https://dai.google.com/linear/hls/event/bJwmgH8YRsCycLb2xH7S0A/master.m3u8
 https://dai.fancode.com/primary/105015_english_hls_4084adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="JD Noida Ninjas vs Ganga Kings of Mirzapur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105193" group-title="Uttar Pradesh Kabaddi League, 2024",JD Noida Ninjas vs Ganga Kings of Mirzapur
 https://dai.google.com/linear/hls/event/q3g0JVmVQWCOLvNwB_rFhw/master.m3u8
+#EXTINF:-1 tvg-name="Lucknow Lions vs Brij Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105194" group-title="Uttar Pradesh Kabaddi League, 2024",Lucknow Lions vs Brij Stars
+https://dai.google.com/linear/hls/event/R6erbLybR7CpTdX9Hyw-FQ/master.m3u8
