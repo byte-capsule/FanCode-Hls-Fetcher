@@ -5,6 +5,8 @@ https://dai.google.com/linear/hls/event/1H-VCwBuQLuZ4J14p_mU8A/master.m3u8
 https://dai.google.com/linear/hls/event/a0yIICDSTT2zWpifGYiqrw/master.m3u8
 #EXTINF:-1 tvg-name="Dindigul Dragons vs Chepauk Super Gillies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100443" group-title="Tamil Nadu Premier League, 2024",Dindigul Dragons vs Chepauk Super Gillies
 https://dai.google.com/linear/hls/event/1pHaYblLS-2ngQpmlFrk1Q/master.m3u8
+#EXTINF:-1 tvg-name="Dragons Women vs Scorchers Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103368" group-title="Evoke Super 20 Trophy, 2024",Dragons Women vs Scorchers Women
+https://dai.google.com/linear/hls/event/bC7me7UdTxyU3tJr6eTm-A/master.m3u8
 #EXTINF:-1 tvg-name="Jaffna Kings vs Colombo Strikers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103782" group-title="Lanka Premier League, 2024",Jaffna Kings vs Colombo Strikers
 https://dai.google.com/linear/hls/event/GpKo776oT0SUWWxHEIhvnw/master.m3u8
 #EXTINF:-1 tvg-name="Durham vs Northamptonshire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102142" group-title="Vitality Blast T20, 2024",Durham vs Northamptonshire
@@ -15,7 +17,7 @@ https://dai.google.com/linear/hls/event/lqKy5tdDSCGKsLeJKxi3iw/master.m3u8
 https://dai.google.com/linear/hls/event/bJwmgH8YRsCycLb2xH7S0A/master.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105015" group-title="LIV Golf Andalusia",Day 3
 https://dai.fancode.com/primary/105015_english_hls_4084adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="JD Noida Ninjas vs Ganga Kings of Mirzapur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105193" group-title="Uttar Pradesh Kabaddi League, 2024",JD Noida Ninjas vs Ganga Kings of Mirzapur
-https://dai.google.com/linear/hls/event/q3g0JVmVQWCOLvNwB_rFhw/master.m3u8
 #EXTINF:-1 tvg-name="Lucknow Lions vs Brij Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105194" group-title="Uttar Pradesh Kabaddi League, 2024",Lucknow Lions vs Brij Stars
 https://dai.google.com/linear/hls/event/R6erbLybR7CpTdX9Hyw-FQ/master.m3u8
+#EXTINF:-1 tvg-name="JD Noida Ninjas vs Ganga Kings of Mirzapur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105193" group-title="Uttar Pradesh Kabaddi League, 2024",JD Noida Ninjas vs Ganga Kings of Mirzapur
+https://dai.google.com/linear/hls/event/q3g0JVmVQWCOLvNwB_rFhw/master.m3u8
