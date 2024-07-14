@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Portugal vs Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105282" group-title="ECI Romania, 2024",Portugal vs Romania
 https://dai.google.com/linear/hls/event/eWBn68zzQUS983gSOWQIPg/master.m3u8
-#EXTINF:-1 tvg-name="Croatia vs Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104331" group-title="ICC T20 World Cup Sub Regional Europe Qualifier B",Croatia vs Germany
-https://dai.google.com/linear/hls/event/kg6GsrgmRDqemJFpjSbTTg/master.m3u8
 #EXTINF:-1 tvg-name="Galle Marvels vs Dambulla Sixers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103781" group-title="Lanka Premier League, 2024",Galle Marvels vs Dambulla Sixers
 https://dai.google.com/linear/hls/event/X_gW9atZQxG2Wi99kjPUrg/master.m3u8
 #EXTINF:-1 tvg-name="Trichy Grand Cholas vs SKM Salem Spartans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100442" group-title="Tamil Nadu Premier League, 2024",Trichy Grand Cholas vs SKM Salem Spartans
@@ -13,3 +11,5 @@ https://dai.google.com/linear/hls/event/wysGZMpyShW0UG5hcURhOg/master.m3u8
 https://dai.fancode.com/primary/102438_english_hls_4634adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Kyoto Sanga vs Urawa Red Diamonds" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="102437" group-title="J League 2024",Kyoto Sanga vs Urawa Red Diamonds
 https://dai.fancode.com/primary/102437_english_hls_5270adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105015" group-title="LIV Golf Andalusia",Day 3
+https://dai.fancode.com/primary/105015_english_hls_4084adfreeta-no/index.m3u8
