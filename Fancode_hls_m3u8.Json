@@ -1,20 +1,9 @@
 {
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "channels_amount": 5,
-  "updated_on": "15-07-2024 on 2:43:34 PM \ud83c\udf1e",
+  "channels_amount": 4,
+  "updated_on": "15-07-2024 on 3:08:17 PM \ud83c\udf1e",
   "channels": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "KL T20 Bash, 2024",
-      "match_id": 105168,
-      "match_name": "Islamabad Sport, Pakistan vs SNK Lions, Malaysia",
-      "team_1": "Islamabad Sport, Pakistan",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IB@2x.png",
-      "team_2": "SNK Lions, Malaysia",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SNK@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/V_w_AcJ5ShSV2rvSgvRcag/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Siechem Pondicherry Womens T20 Tournament 2024",
@@ -40,17 +29,6 @@
     {
       "event_catagory": "cricket",
       "event_name": "ECS Hungary, 2024",
-      "match_id": 105311,
-      "match_name": "Budapest Zalmi vs Royal Tigers",
-      "team_1": "Budapest Zalmi",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BUZ@2x.png",
-      "team_2": "Royal Tigers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RTB@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/149gd4xQSjqzc8JYA_JThg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECS Hungary, 2024",
       "match_id": 105312,
       "match_name": "Royal Tigers vs Budapest Super Kings",
       "team_1": "Royal Tigers",
@@ -58,6 +36,17 @@
       "team_2": "Budapest Super Kings",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BUDK@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/UjH41LkfQzGFqIgsr02pwA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Lanka Premier League, 2024",
+      "match_id": 103783,
+      "match_name": "Kandy Falcons vs Dambulla Sixers",
+      "team_1": "Kandy Falcons",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KNF@2x.png",
+      "team_2": "Dambulla Sixers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DS@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/vdp-BSblSoSkxe4miBY9sw/master.m3u8"
     }
   ]
 }
