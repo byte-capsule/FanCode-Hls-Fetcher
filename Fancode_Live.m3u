@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Soca Kings vs Steelpan Players" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104829" group-title="Dream11 Trinidad T10 Blast, 5th Edition, 2024",Soca Kings vs Steelpan Players
+https://dai.google.com/linear/hls/event/krsU591YRiube-Lzeiz0pw/master.m3u8
 #EXTINF:-1 tvg-name="Budapest Super Kings vs Budapest Zalmi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105315" group-title="ECS Hungary, 2024",Budapest Super Kings vs Budapest Zalmi
 https://dai.fancode.com/primary/105315_english_dash_9680drmadfreeta-no/index.mpd
 #EXTINF:-1 tvg-name="Galle Marvels vs Colombo Strikers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103784" group-title="Lanka Premier League, 2024",Galle Marvels vs Colombo Strikers
