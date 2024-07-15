@@ -3,3 +3,5 @@
 https://dai.fancode.com/primary/105313_english_dash_4800drmadfreeta-no/index.mpd
 #EXTINF:-1 tvg-name="Kandy Falcons vs Dambulla Sixers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103783" group-title="Lanka Premier League, 2024",Kandy Falcons vs Dambulla Sixers
 https://dai.google.com/linear/hls/event/vdp-BSblSoSkxe4miBY9sw/master.m3u8
+#EXTINF:-1 tvg-name="JD Noida Ninjas vs Sangam Challengers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105196" group-title="Uttar Pradesh Kabaddi League, 2024",JD Noida Ninjas vs Sangam Challengers
+https://dai.google.com/linear/hls/event/C3KtgHa2T_OWZLlX98twEg/master.m3u8
