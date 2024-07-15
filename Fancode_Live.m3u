@@ -1,7 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Danubian Kangaroos vs Budapest Zalmi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105313" group-title="ECS Hungary, 2024",Danubian Kangaroos vs Budapest Zalmi
 https://dai.fancode.com/primary/105313_english_dash_4800drmadfreeta-no/index.mpd
+#EXTINF:-1 tvg-name="Budapest Super Kings vs Danubian Kangaroos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105314" group-title="ECS Hungary, 2024",Budapest Super Kings vs Danubian Kangaroos
+https://dai.google.com/linear/hls/event/J9RGSxoCQ4ybIVUmFHedYQ/master.m3u8
 #EXTINF:-1 tvg-name="Kandy Falcons vs Dambulla Sixers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103783" group-title="Lanka Premier League, 2024",Kandy Falcons vs Dambulla Sixers
 https://dai.google.com/linear/hls/event/vdp-BSblSoSkxe4miBY9sw/master.m3u8
 #EXTINF:-1 tvg-name="JD Noida Ninjas vs Sangam Challengers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105196" group-title="Uttar Pradesh Kabaddi League, 2024",JD Noida Ninjas vs Sangam Challengers
 https://dai.google.com/linear/hls/event/C3KtgHa2T_OWZLlX98twEg/master.m3u8
+#EXTINF:-1 tvg-name="Brij Stars vs Yamuna Yodhas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105197" group-title="Uttar Pradesh Kabaddi League, 2024",Brij Stars vs Yamuna Yodhas
+https://dai.google.com/linear/hls/event/vnHK5vN-RO259j6AIIhGRg/master.m3u8
