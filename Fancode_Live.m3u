@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Princess Women vs Diamonds Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104138" group-title="Siechem Pondicherry Womens T20 Tournament 2024",Princess Women vs Diamonds Women
 https://dai.google.com/linear/hls/event/H2vFxLFiS6agozew4NeU1w/master.m3u8
-#EXTINF:-1 tvg-name="Royal Tigers vs Budapest Super Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105312" group-title="ECS Hungary, 2024",Royal Tigers vs Budapest Super Kings
-https://dai.google.com/linear/hls/event/UjH41LkfQzGFqIgsr02pwA/master.m3u8
 #EXTINF:-1 tvg-name="Danubian Kangaroos vs Budapest Zalmi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105313" group-title="ECS Hungary, 2024",Danubian Kangaroos vs Budapest Zalmi
 https://dai.fancode.com/primary/105313_english_dash_4800drmadfreeta-no/index.mpd
 #EXTINF:-1 tvg-name="Kandy Falcons vs Dambulla Sixers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103783" group-title="Lanka Premier League, 2024",Kandy Falcons vs Dambulla Sixers
