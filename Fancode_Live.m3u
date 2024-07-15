@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Budapest Super Kings vs Danubian Kangaroos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105314" group-title="ECS Hungary, 2024",Budapest Super Kings vs Danubian Kangaroos
 https://dai.google.com/linear/hls/event/J9RGSxoCQ4ybIVUmFHedYQ/master.m3u8
-#EXTINF:-1 tvg-name="Kandy Falcons vs Dambulla Sixers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103783" group-title="Lanka Premier League, 2024",Kandy Falcons vs Dambulla Sixers
-https://dai.google.com/linear/hls/event/vdp-BSblSoSkxe4miBY9sw/master.m3u8
 #EXTINF:-1 tvg-name="Colombo Strikers vs Galle Marvels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="103784" group-title="Lanka Premier League, 2024",Colombo Strikers vs Galle Marvels
 https://dai.google.com/linear/hls/event/Ki6CtvFPTRu2MvDCxYK0Dg/master.m3u8
 #EXTINF:-1 tvg-name="Siechem Madurai Panthers vs Nellai Royal Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100444" group-title="Tamil Nadu Premier League, 2024",Siechem Madurai Panthers vs Nellai Royal Kings
 https://dai.google.com/linear/hls/event/_UZws4iiRrezUnvroOAZhQ/master.m3u8
+#EXTINF:-1 tvg-name="Lucknow Lions vs Awadh Ramdoots" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105198" group-title="Uttar Pradesh Kabaddi League, 2024",Lucknow Lions vs Awadh Ramdoots
+https://dai.google.com/linear/hls/event/1uGzypwbTomv10vr_YT0xQ/master.m3u8
