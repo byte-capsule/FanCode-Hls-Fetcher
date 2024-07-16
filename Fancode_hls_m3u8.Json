@@ -2,7 +2,7 @@
   "name": "FanCode All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "channels_amount": 3,
-  "updated_on": "16-07-2024 on 6:11:54 PM \ud83c\udf19",
+  "updated_on": "16-07-2024 on 6:43:46 PM \ud83c\udf19",
   "channels": [
     {
       "event_catagory": "cricket",
@@ -17,6 +17,17 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "ECS Hungary, 2024",
+      "match_id": 105319,
+      "match_name": "Royal Eagles vs Budapest Blinders",
+      "team_1": "Royal Eagles",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROYTE@2x.png",
+      "team_2": "Budapest Blinders",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BUDB@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/-83bs1Q3S_mI0sVy8bDw7A/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "ICC CWC League 2, 2023-27",
       "match_id": 105052,
       "match_name": "Oman vs Scotland",
@@ -25,17 +36,6 @@
       "team_2": "Scotland",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/sasex9vGRgyvUfwcYpt34A/master.m3u8"
-    },
-    {
-      "event_catagory": "kabaddi",
-      "event_name": "Uttar Pradesh Kabaddi League, 2024",
-      "match_id": 105200,
-      "match_name": "Brij Stars vs JD Noida Ninjas",
-      "team_1": "Brij Stars",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-BS@2x.png",
-      "team_2": "JD Noida Ninjas",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-JDN@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/dA4qsF3fQQOaalLvOFr1nQ/master.m3u8"
     }
   ]
 }
