@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Danubian Kangaroos vs Budapest Zalmi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105324" group-title="ECS Hungary, 2024",Danubian Kangaroos vs Budapest Zalmi
-https://dai.google.com/linear/hls/event/RJOfRsvTS9q2aCye9Q42_Q/master.m3u8
-#EXTINF:-1 tvg-name="Typhoons Women vs Dragons Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="101572" group-title="Evoke Super 50 Cup, 2024",Typhoons Women vs Dragons Women
-https://dai.google.com/linear/hls/event/pm_OVdx0RMG5diGG7XgP1Q/master.m3u8
+#EXTINF:-1 tvg-name="Budapest Super Kings vs Budapest Zalmi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105325" group-title="ECS Hungary, 2024",Budapest Super Kings vs Budapest Zalmi
+https://dai.google.com/linear/hls/event/dM5zI7b3Q4Ws2_W4WzbWNw/master.m3u8
 #EXTINF:-1 tvg-name="IDream Tiruppur Tamizhans vs Dindigul Dragons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="100446" group-title="Tamil Nadu Premier League, 2024",IDream Tiruppur Tamizhans vs Dindigul Dragons
 https://dai.google.com/linear/hls/event/MMPUrKjjTp-FV8EaGGxn3Q/master.m3u8
 #EXTINF:-1 tvg-name="Ganga Kings of Mirzapur vs Yamuna Yodhas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105207" group-title="Uttar Pradesh Kabaddi League, 2024",Ganga Kings of Mirzapur vs Yamuna Yodhas
