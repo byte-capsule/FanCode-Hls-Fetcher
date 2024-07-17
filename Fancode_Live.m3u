@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Queens Women vs Diamonds Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104142" group-title="Siechem Pondicherry Womens T20 Tournament 2024",Queens Women vs Diamonds Women
 https://dai.google.com/linear/hls/event/cwGxz7OeSV6vHyN3NVBG4w/master.m3u8
+#EXTINF:-1 tvg-name="Budapest Zalmi vs Royal Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105322" group-title="ECS Hungary, 2024",Budapest Zalmi vs Royal Tigers
+https://dai.google.com/linear/hls/event/0l2rxYsHQs6OvST3LrJWow/master.m3u8
 #EXTINF:-1 tvg-name="Nigeria vs Kenya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104470" group-title="Nigeria tour of Kenya, 2024",Nigeria vs Kenya
 https://dai.google.com/linear/hls/event/v6l4eqOQRgGzkBq07-E06Q/master.m3u8
