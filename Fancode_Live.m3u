@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Global Stars vs Excise Department of Sri Lanka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105173" group-title="KL T20 Bash, 2024",Global Stars vs Excise Department of Sri Lanka
 https://dai.google.com/linear/hls/event/ndbShDHkQuuVSw9-Xnwlzg/master.m3u8
+#EXTINF:-1 tvg-name="Princess Women vs Angels Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104144" group-title="Siechem Pondicherry Womens T20 Tournament 2024",Princess Women vs Angels Women
+https://dai.google.com/linear/hls/event/QzC9tr3RTZS9BKUSJbUBxw/master.m3u8
 #EXTINF:-1 tvg-name="Cobra CC vs Kashmir Budapest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105326" group-title="ECS Hungary, 2024",Cobra CC vs Kashmir Budapest
 https://dai.google.com/linear/hls/event/190ZOIWASdmHtym5-3GB0g/master.m3u8
