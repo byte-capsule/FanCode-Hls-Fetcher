@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Islamabad Sport, Pakistan vs Sri Lanka Customs Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="105174" group-title="KL T20 Bash, 2024",Islamabad Sport, Pakistan vs Sri Lanka Customs Cricket Club
 https://dai.google.com/linear/hls/event/PDkdJz_MQaOsjgHQof-scg/master.m3u8
+#EXTINF:-1 tvg-name="Queens Women vs Diamonds Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="104143" group-title="Siechem Pondicherry Womens T20 Tournament 2024",Queens Women vs Diamonds Women
+https://dai.google.com/linear/hls/event/M9s09RQBSX6vobNIzukxag/master.m3u8
