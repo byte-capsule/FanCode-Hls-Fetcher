@@ -6,58 +6,14 @@
   "channels": [
     {
       "event_catagory": "cricket",
-      "event_name": "ECS Hungary, 2024",
+      "event_name": "Will be Fixed Soon 😊",
       "match_id": 105328,
-      "match_name": "Budapest Blinders vs Kashmir Budapest",
+      "match_name": "Will be Fixed Soon 😊",
       "team_1": "Budapest Blinders",
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BUDB@2x.png",
       "team_2": "Kashmir Budapest",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KB@2x.png",
       "stream_link": "https://dai.google.com/linear/hls/event/izhzGz0JS1mwqXB_njqyMg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC CWC League 2, 2023-27",
-      "match_id": 105050,
-      "match_name": "Oman vs Namibia",
-      "team_1": "Oman",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OMA@2x.png",
-      "team_2": "Namibia",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAM@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/ELg9Tc8QRROzZcjWahWZIA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Lanka Premier League, 2024",
-      "match_id": 103786,
-      "match_name": "Jaffna Kings vs Galle Marvels",
-      "team_1": "Jaffna Kings",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JAFF@2x.png",
-      "team_2": "Galle Marvels",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GM@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/qBsc7QfxT82IIyaIcLsddg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "West Indies tour of England, 2024",
-      "match_id": 100738,
-      "match_name": "England vs West Indies",
-      "team_1": "England",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
-      "team_2": "West Indies",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-      "stream_link": "https://pubads.g.doubleclick.net/ssai/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8"
-    },
-    {
-      "event_catagory": "kabaddi",
-      "event_name": "Uttar Pradesh Kabaddi League, 2024",
-      "match_id": 105208,
-      "match_name": "Kashi Kings vs JD Noida Ninjas",
-      "team_1": "Kashi Kings",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-KK@2x.png",
-      "team_2": "JD Noida Ninjas",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-JDN@2x.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/mzJszWl6T1ud1hIVcjHllg/master.m3u8"
     }
   ]
 }
