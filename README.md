@@ -72,7 +72,7 @@ curl -X GET https://raw.githubusercontent.com/byte-capsule/FanCode-Hls-Fetcher/m
 
 * Add the URL to your Player Playlist Section
 * RAW URL [Playlist Link](https://raw.githubusercontent.com/byte-capsule/FanCode-Hls-Fetcher/main/Fancode_Live.m3u)
-* SHORT URL [Playlist Link](https://s.id/21HE6)
+* SHORT URL https://s.id/21HE6
 
 *  Enjoy 😊
 
