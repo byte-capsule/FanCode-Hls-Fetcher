@@ -2,20 +2,8 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 2,
-  "last_upaded": "28-08-2024 on 2:44:49 PM \ud83c\udf1e",
+  "last_upaded": "28-08-2024 on 3:10:53 PM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECS Austria, 2024",
-      "match_id": 107513,
-      "match_name": "Cricketer CC vs Indian CC Vienna",
-      "team_1": "Cricketer CC",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CRC@2x.png",
-      "team_2": "Indian CC Vienna",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ICV@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/107513_4430_CCC_ICCV_fc-Web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwNzUxM180NDMwX0NDQ19JQ0NWX2ZjLVdlYi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
-      "stream_link": "https://dai.google.com/linear/hls/event/wNH3xCdSSTSNNnrY5KLMXA/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "ECS Austria, 2024",
@@ -26,7 +14,19 @@
       "team_2": "Sher-E Punjab Vienna",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SPV-CR1@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/cms-media/107514_4430_SNA_SEP_fc-Web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwNzUxNF80NDMwX1NOQV9TRVBfZmMtV2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
-      "stream_link": "https://dai.google.com/linear/hls/event/s0heRiufSouwgJERx3VQwQ/master.m3u8"
+      "stream_link": "https://d2fi6p2cvnb7t8.cloudfront.net/out/v1/a189d05f925b45898607c872db17bff3/index.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "KSCA Maharaja Trophy T20, 2024",
+      "match_id": 106734,
+      "match_name": "Mangaluru Dragons vs Mysore Warriors",
+      "team_1": "Mangaluru Dragons",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MDR@2x.png",
+      "team_2": "Mysore Warriors",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MWAR@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/08/106734_4386_MD_MW_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOC8xMDY3MzRfNDM4Nl9NRF9NV19mYy13ZWIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "stream_link": "https://dai.google.com/linear/hls/event/WXLRGUhWQsGtIk3Hs96Qjw/master.m3u8"
     }
   ]
 }
