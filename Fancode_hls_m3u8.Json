@@ -1,20 +1,20 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "28-08-2024 on 6:18:19 PM \ud83c\udf19",
+  "total_mathes": 5,
+  "last_upaded": "28-08-2024 on 6:50:44 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
       "event_name": "ECS Austria, 2024",
-      "match_id": 107515,
-      "match_name": "Vienna Danube vs Sher-E Punjab Vienna",
-      "team_1": "Vienna Danube",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VID@2x.png",
-      "team_2": "Sher-E Punjab Vienna",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SPV-CR1@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/107515_4430_VID_SEP_fc-Web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwNzUxNV80NDMwX1ZJRF9TRVBfZmMtV2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
-      "stream_link": "https://d322v1q15nqdwk.cloudfront.net/out/v1/ac1b63a8e93c49a69d9a78f2ef8877ac/index.m3u8"
+      "match_id": 107516,
+      "match_name": "Indian CC Vienna vs Vienna CC",
+      "team_1": "Indian CC Vienna",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ICV@2x.png",
+      "team_2": "Vienna CC",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VNC@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/107516_4430_VCC_ICCV_fc-Web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwNzUxNl80NDMwX1ZDQ19JQ0NWX2ZjLVdlYi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
+      "stream_link": "https://d180y4jq1txl77.cloudfront.net/out/v1/4cf96c30c57d4404a025dff0224c1233/index.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -63,18 +63,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USA@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/08/Match-3-Netherlands-vs-USA-1.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOC9NYXRjaC0zLU5ldGhlcmxhbmRzLXZzLVVTQS0xLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
       "stream_link": "https://dai.google.com/linear/hls/event/Vvq5I7MSSXWr_y2ltVvD3Q/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "Perth International Football Cup",
-      "match_id": 108194,
-      "match_name": "Manchester City Women vs Leicester City Women",
-      "team_1": "Manchester City Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MCW@2x.png",
-      "team_2": "Leicester City Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LEIW@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/08/Man_city_Leicester_City_Perth_International-Football_Cup_Old_MC.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOC9NYW5fY2l0eV9MZWljZXN0ZXJfQ2l0eV9QZXJ0aF9JbnRlcm5hdGlvbmFsLUZvb3RiYWxsX0N1cF9PbGRfTUMuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
-      "stream_link": "https://liveauth.fancode.com/primary/108194_english_hls_5617adfreeta-di/index.m3u8"
     }
   ]
 }
