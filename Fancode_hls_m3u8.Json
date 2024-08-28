@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "28-08-2024 on 3:42:35 PM \ud83c\udf1e",
+  "total_mathes": 5,
+  "last_upaded": "28-08-2024 on 4:09:53 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -51,6 +51,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MWAR@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/08/106734_4386_MD_MW_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOC8xMDY3MzRfNDM4Nl9NRF9NV19mYy13ZWIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
       "stream_link": "https://dai.google.com/linear/hls/event/WXLRGUhWQsGtIk3Hs96Qjw/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "Perth International Football Cup",
+      "match_id": 108194,
+      "match_name": "Manchester City Women vs Leicester City Women",
+      "team_1": "Manchester City Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MCW@2x.png",
+      "team_2": "Leicester City Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LEIW@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/08/Man_city_Leicester_City_Perth_International-Football_Cup_Old_MC.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOC9NYW5fY2l0eV9MZWljZXN0ZXJfQ2l0eV9QZXJ0aF9JbnRlcm5hdGlvbmFsLUZvb3RiYWxsX0N1cF9PbGRfTUMuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "stream_link": "https://liveauth.fancode.com/primary/108194_english_hls_5617adfreeta-di/index.m3u8"
     }
   ]
 }
