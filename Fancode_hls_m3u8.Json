@@ -1,9 +1,21 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "28-08-2024 on 10:34:37 PM \ud83c\udf19",
+  "total_mathes": 6,
+  "last_upaded": "28-08-2024 on 10:47:40 PM \ud83c\udf19",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "KCC T10 Summer Challengers Cup, 2024",
+      "match_id": 106822,
+      "match_name": "Seazen Challengers vs Ishaq XI",
+      "team_1": "Seazen Challengers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SZN@2x.png",
+      "team_2": "Ishaq XI",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IQS@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/106822_4392_IQS_SZN_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwNjgyMl80MzkyX0lRU19TWk5fZmMtd2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "stream_link": "https://dai.google.com/linear/hls/event/6f66_5-KTFivognl4Y_u3w/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "ECS Austria, 2024",
