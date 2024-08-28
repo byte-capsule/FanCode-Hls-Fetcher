@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 2,
-  "last_upaded": "28-08-2024 on 3:10:53 PM \ud83c\udf1e",
+  "total_mathes": 4,
+  "last_upaded": "28-08-2024 on 3:28:43 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,6 +15,30 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SPV-CR1@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/cms-media/107514_4430_SNA_SEP_fc-Web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwNzUxNF80NDMwX1NOQV9TRVBfZmMtV2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
       "stream_link": "https://d2fi6p2cvnb7t8.cloudfront.net/out/v1/a189d05f925b45898607c872db17bff3/index.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC T20 World Cup Sub Regional Europe Qualifier C",
+      "match_id": 106702,
+      "match_name": "Spain vs Finland",
+      "team_1": "Spain",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESP@2x.png",
+      "team_2": "Finland",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FIN@2x.png",
+      "banner": "https://images.fancode.com/aig/match/v1/106702_CASACARDS_APP.png?hash=eyJrZXkiOiJhaWcvbWF0Y2gvdjEvMTA2NzAyX0NBU0FDQVJEU19BUFAucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "stream_link": "https://dai.google.com/linear/hls/event/x8qBI54lRa-2z1BvGPvwJg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC T20 World Cup Sub Regional Europe Qualifier C",
+      "match_id": 106701,
+      "match_name": "Cyprus vs Malta",
+      "team_1": "Cyprus",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CYR@2x.png",
+      "team_2": "Malta",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAL@2x.png",
+      "banner": "https://images.fancode.com/aig/match/v1/106701_CASACARDS_APP.png?hash=eyJrZXkiOiJhaWcvbWF0Y2gvdjEvMTA2NzAxX0NBU0FDQVJEU19BUFAucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "stream_link": "https://dai.google.com/linear/hls/event/vi-0mCuyQci8HtPYCQBdRw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
