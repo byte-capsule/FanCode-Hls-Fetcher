@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 2,
-  "last_upaded": "29-08-2024 on 3:29:23 PM \ud83c\udf1e",
+  "total_mathes": 3,
+  "last_upaded": "29-08-2024 on 3:42:07 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,6 +27,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MDR@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/08/106736_4386_BB_MD_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOC8xMDY3MzZfNDM4Nl9CQl9NRF9mYy13ZWIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
       "stream_link": "https://dai.google.com/linear/hls/event/Wbi_J4erTlKYptnxqBktPg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Ireland Inter-Provincial Limited Over Cup, 2024",
+      "match_id": 100475,
+      "match_name": "North West Warriors vs Leinster Lightning",
+      "team_1": "North West Warriors",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NWW@2x.png",
+      "team_2": "Leinster Lightning",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LLG@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/05/Ireland-Inter-Provincial-OD-Trophy_old_01.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wNS9JcmVsYW5kLUludGVyLVByb3ZpbmNpYWwtT0QtVHJvcGh5X29sZF8wMS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
+      "stream_link": "https://dai.google.com/linear/hls/event/1EvQWAVzT7efP6Q9qIz0pg/master.m3u8"
     }
   ]
 }
