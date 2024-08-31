@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "31-08-2024 on 08:48:16 AM \ud83c\udf1e",
+  "total_mathes": 3,
+  "last_upaded": "31-08-2024 on 09:10:05 AM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -39,18 +39,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MLD@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
       "stream_link": "https://dai.google.com/linear/hls/event/_3FgTv85R8-rdj892mKXtQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "JCL T20, 2024",
-      "match_id": 101886,
-      "match_name": "Tigers Cricket Club vs Tokyo Falcons",
-      "team_1": "Tigers Cricket Club",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TIGER@2x.png",
-      "team_2": "Tokyo Falcons",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FLC@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/08/1st-quarter-final-sporty-1.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOC8xc3QtcXVhcnRlci1maW5hbC1zcG9ydHktMS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
-      "stream_link": "https://dai.google.com/linear/hls/event/wekF7qV4RVG4Me5c0_pf9A/master.m3u8"
     }
   ]
 }
