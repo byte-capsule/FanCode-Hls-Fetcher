@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 7,
-  "last_upaded": "31-08-2024 on 7:27:56 PM \ud83c\udf19",
+  "last_upaded": "31-08-2024 on 7:42:16 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -41,16 +41,16 @@
       "stream_link": "https://dai.google.com/linear/hls/event/IHi9VRXgRimudDsLvj-5-w/master.m3u8"
     },
     {
-      "event_catagory": "football",
-      "event_name": "EFL Championship 2024-25",
-      "match_id": 106276,
-      "match_name": "Burnley vs Blackburn Rovers",
-      "team_1": "Burnley",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BURNL@2x.png",
-      "team_2": "Blackburn Rovers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BLKB@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/106276_4352_BUR_BLK_fc-web_1723042859568.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwNjI3Nl80MzUyX0JVUl9CTEtfZmMtd2ViXzE3MjMwNDI4NTk1NjguanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
-      "stream_link": "https://dai.google.com/linear/hls/event/N5NkRQmCRgayDFKq2kLGXQ/master.m3u8"
+      "event_catagory": "formula1",
+      "event_name": "F1 PIRELLI GRAN PREMIO D ITALIA 2024",
+      "match_id": 95215,
+      "match_name": "Qualifying",
+      "team_1": "Qualifying",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+      "team_2": "Italy",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/08/F1_Italy_Monza_Old_match-card.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOC9GMV9JdGFseV9Nb256YV9PbGRfbWF0Y2gtY2FyZC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
+      "stream_link": "https://dai.google.com/linear/hls/event/M9yBuAnxQK-ICUUuX8fVsw/master.m3u8"
     },
     {
       "event_catagory": "racing",
@@ -66,18 +66,6 @@
     },
     {
       "event_catagory": "golf",
-      "event_name": "Betfred British Masters",
-      "match_id": 107628,
-      "match_name": "Day 3",
-      "team_1": "Day 3",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-BBM@2x.png",
-      "team_2": "The Belfry, Sutton Coldfield",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/08/Betfred-British-Masters-Old.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOC9CZXRmcmVkLUJyaXRpc2gtTWFzdGVycy1PbGQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
-      "stream_link": "https://dai.google.com/linear/hls/event/qC2E4MFmSaOG2qLuLt63CA/master.m3u8"
-    },
-    {
-      "event_catagory": "golf",
       "event_name": "KPMG Womens Irish Open",
       "match_id": 107976,
       "match_name": "Day 3",
@@ -87,6 +75,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/08/KPMG-Womens-Irish-Open_Golf_Old-Match-Card1.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOC9LUE1HLVdvbWVucy1JcmlzaC1PcGVuX0dvbGZfT2xkLU1hdGNoLUNhcmQxLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
       "stream_link": "https://dai.google.com/linear/hls/event/-K0oYfP_SbafYTTplKf-5g/master.m3u8"
+    },
+    {
+      "event_catagory": "golf",
+      "event_name": "Betfred British Masters",
+      "match_id": 107628,
+      "match_name": "Day 3",
+      "team_1": "Day 3",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-BBM@2x.png",
+      "team_2": "The Belfry, Sutton Coldfield",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/08/Betfred-British-Masters-Old.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOC9CZXRmcmVkLUJyaXRpc2gtTWFzdGVycy1PbGQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "stream_link": "https://dai.google.com/linear/hls/event/qC2E4MFmSaOG2qLuLt63CA/master.m3u8"
     }
   ]
 }
