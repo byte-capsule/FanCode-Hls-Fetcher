@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 9,
-  "last_upaded": "01-09-2024 on 9:42:13 PM \ud83c\udf19",
+  "total_mathes": 8,
+  "last_upaded": "01-09-2024 on 10:10:33 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -63,18 +63,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBR@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/08/106728_4386_BB_MW_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOC8xMDY3MjhfNDM4Nl9CQl9NV19mYy13ZWIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
       "stream_link": "https://dai.google.com/linear/hls/event/4Kj3c8gaQX-wQGvOIeQaYw/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "EFL Championship 2024-25",
-      "match_id": 106279,
-      "match_name": "Sheffield United vs Watford",
-      "team_1": "Sheffield United",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHFU@2x.png",
-      "team_2": "Watford",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WATFD@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/106279_4352_SHF_WAT_fc-web_1723042859835.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwNjI3OV80MzUyX1NIRl9XQVRfZmMtd2ViXzE3MjMwNDI4NTk4MzUuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
-      "stream_link": "https://dai.google.com/linear/hls/event/qxAh8dkjTUmNCpETymEFWQ/master.m3u8"
     },
     {
       "event_catagory": "racing",
