@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 5,
-  "last_upaded": "01-09-2024 on 3:27:20 PM \ud83c\udf1e",
+  "last_upaded": "01-09-2024 on 3:43:14 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -30,6 +30,18 @@
     },
     {
       "event_catagory": "football",
+      "event_name": "J League 2024",
+      "match_id": 105708,
+      "match_name": "Avispa Fukuoka vs Vissel Kobe",
+      "team_1": "Avispa Fukuoka",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AFK@2x.png",
+      "team_2": "Vissel Kobe",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VKO@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/105708_3921_FKK_VIS_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwNTcwOF8zOTIxX0ZLS19WSVNfZmMtd2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "stream_link": "https://liveauth.fancode.com/primary/105708_english_hls_4671adfreeta-no/index.m3u8"
+    },
+    {
+      "event_catagory": "football",
       "event_name": "Perth International Football Cup",
       "match_id": 108197,
       "match_name": "Manchester City Women vs Paris Saint-Germain F\u00e9minines",
@@ -39,18 +51,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PSG@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
       "stream_link": "https://liveauth.fancode.com/primary/108197_english_hls_4569adfreeta-no/index.m3u8"
-    },
-    {
-      "event_catagory": "racing",
-      "event_name": "F2 MONZA 2024",
-      "match_id": 95365,
-      "match_name": "Feature Race",
-      "team_1": "Feature Race",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR2@2x.png",
-      "team_2": "Monza",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/03/F2_Saudi_Old_match-card.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wMy9GMl9TYXVkaV9PbGRfbWF0Y2gtY2FyZC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
-      "stream_link": "https://d16nplxpkrvtfj.cloudfront.net/out/v1/b5c5f441dbe1453aa01506885a597e81/index.m3u8"
     },
     {
       "event_catagory": "racing",
