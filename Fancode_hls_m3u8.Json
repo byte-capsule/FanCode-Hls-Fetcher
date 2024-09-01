@@ -1,56 +1,7 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "02-09-2024 on 00:11:52 AM \ud83c\udf19",
-  "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "KCC T10 Summer Challengers Cup, 2024",
-      "match_id": 106829,
-      "match_name": "Cochin Hurricanes vs Al Mulla Exchange - B",
-      "team_1": "Cochin Hurricanes",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-COR@2x.png",
-      "team_2": "Al Mulla Exchange - B",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AECX@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/106801_4392_AMB_COH_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwNjgwMV80MzkyX0FNQl9DT0hfZmMtd2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
-      "stream_link": "https://dai.google.com/linear/hls/event/BloRDGr9R7eqEBoJwdhHvw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Minor League Cricket, 2024",
-      "match_id": 107793,
-      "match_name": "Morrisville Raptors vs Atlanta Lightning",
-      "team_1": "Morrisville Raptors",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MORA@2x.png",
-      "team_2": "Atlanta Lightning",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ATLI@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/08/Minor-League-Cricket-old-match-card.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOC9NaW5vci1MZWFndWUtQ3JpY2tldC1vbGQtbWF0Y2gtY2FyZC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
-      "stream_link": "https://dai.google.com/linear/hls/event/Xi4jWkvBSN20ZouDxIlazA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Boland T10 League, 2024",
-      "match_id": 107630,
-      "match_name": "Overberg Indwe vs Northern Raiders",
-      "team_1": "Overberg Indwe",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OID@2x.png",
-      "team_2": "Northern Raiders",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NRD@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL0NyaWNrZXRfRmFsbGJhY2tfT2xkX21hdGNoLWNhcmQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
-      "stream_link": "https://dai.google.com/linear/hls/event/Luqi-7DySZOZZY1QzB-X8A/master.m3u8"
-    },
-    {
-      "event_catagory": "racing",
-      "event_name": "Indian Racing Festival 2024",
-      "match_id": 107260,
-      "match_name": "Indian Racing Festival",
-      "team_1": "Round 2 - Day 2",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-IRF@2x.png",
-      "team_2": "Chennai Formula Racing Circuit ",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/08/Indian-Racing-Festival_Round_2_old.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOC9JbmRpYW4tUmFjaW5nLUZlc3RpdmFsX1JvdW5kXzJfb2xkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
-      "stream_link": "https://dai.google.com/linear/hls/event/YVSbRE9yTyey3BBP_dsjAg/master.m3u8"
-    }
-  ]
+  "total_mathes": 0,
+  "last_upaded": "02-09-2024 on 00:32:37 AM \ud83c\udf19",
+  "matches": []
 }
