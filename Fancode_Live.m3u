@@ -1,3 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Kuwait vs Maldives" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="106962" group-title="ICC Men's T20 WC Asia Sub-regional Qualifier A",Kuwait vs Maldives
+https://dai.google.com/linear/hls/event/cGovz8hIRaazaqE_j9wZ5A/master.m3u8
+#EXTINF:-1 tvg-name="Hong Kong, China vs Singapore" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="106961" group-title="ICC Men's T20 WC Asia Sub-regional Qualifier A",Hong Kong, China vs Singapore
+https://dai.google.com/linear/hls/event/hRRqEZrqRL-smdpVMVCmFA/master.m3u8
 #EXTINF:-1 tvg-name="St Kitts and Nevis Patriots vs Saint Lucia Kings" tvg-logo="https://images.fancode.com/skillup-uploads/prod-images/2024/08/104209_4287_SKN_SLK_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOC8xMDQyMDlfNDI4N19TS05fU0xLX2ZjLXdlYi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==" tvg-id="104209" group-title="Caribbean Premier League, 2024",St Kitts and Nevis Patriots vs Saint Lucia Kings
 https://dai.google.com/linear/hls/event/UR70u_i-SOeuiObJEyrhyQ/master.m3u8
