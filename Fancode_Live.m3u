@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="New Star Club vs City Cricket Club" tvg-logo="https://images.fancode.com/aig/match/v1/108296_CASACARDS_APP.png?hash=eyJrZXkiOiJhaWcvbWF0Y2gvdjEvMTA4Mjk2X0NBU0FDQVJEU19BUFAucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=" tvg-id="108296" group-title="Assam T20 Pride Cup, 2024",New Star Club vs City Cricket Club
-https://dai.google.com/linear/hls/event/QrRlDgbxRWWyq7s5Xqj4Sw/master.m3u8
 #EXTINF:-1 tvg-name="Hong Kong, China vs Singapore" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="106961" group-title="ICC Men's T20 WC Asia Sub-regional Qualifier A",Hong Kong, China vs Singapore
 https://dai.google.com/linear/hls/event/hRRqEZrqRL-smdpVMVCmFA/master.m3u8
+#EXTINF:-1 tvg-name="Myanmar vs Mongolia" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="106963" group-title="ICC Men's T20 WC Asia Sub-regional Qualifier A",Myanmar vs Mongolia
+https://dai.google.com/linear/hls/event/XRmkGdPwTSG6Vgol9qi7Vg/master.m3u8
+#EXTINF:-1 tvg-name="New Star Club vs City Cricket Club" tvg-logo="https://images.fancode.com/aig/match/v1/108296_CASACARDS_APP.png?hash=eyJrZXkiOiJhaWcvbWF0Y2gvdjEvMTA4Mjk2X0NBU0FDQVJEU19BUFAucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=" tvg-id="108296" group-title="Assam T20 Pride Cup, 2024",New Star Club vs City Cricket Club
+https://dai.google.com/linear/hls/event/QrRlDgbxRWWyq7s5Xqj4Sw/master.m3u8
