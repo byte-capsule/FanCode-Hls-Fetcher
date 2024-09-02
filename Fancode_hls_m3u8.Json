@@ -1,9 +1,21 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "02-09-2024 on 10:47:38 PM \ud83c\udf19",
+  "total_mathes": 6,
+  "last_upaded": "02-09-2024 on 11:08:31 PM \ud83c\udf19",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "KCC T10 Summer Challengers Cup, 2024",
+      "match_id": 106830,
+      "match_name": "Kuwait Mavericks vs Cochin Hurricanes",
+      "team_1": "Kuwait Mavericks",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MGWA@2x.png",
+      "team_2": "Cochin Hurricanes",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-COR@2x.png",
+      "banner": "https://images.fancode.com/aig/match/v1/106830_CASACARDS_APP.png?hash=eyJrZXkiOiJhaWcvbWF0Y2gvdjEvMTA2ODMwX0NBU0FDQVJEU19BUFAucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "stream_link": "https://dai.google.com/linear/hls/event/IWwdwFjNSyuoD59Nzolg7g/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "Boland T10 League, 2024",
