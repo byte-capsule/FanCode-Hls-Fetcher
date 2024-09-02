@@ -1,9 +1,21 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "02-09-2024 on 09:43:25 AM \ud83c\udf1e",
+  "total_mathes": 3,
+  "last_upaded": "02-09-2024 on 10:12:30 AM \ud83c\udf1e",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "Assam T20 Pride Cup, 2024",
+      "match_id": 108296,
+      "match_name": "New Star Club vs City Cricket Club",
+      "team_1": "New Star Club",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSCB@2x.png",
+      "team_2": "City Cricket Club",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CCLB@2x.png",
+      "banner": "https://images.fancode.com/aig/match/v1/108296_CASACARDS_APP.png?hash=eyJrZXkiOiJhaWcvbWF0Y2gvdjEvMTA4Mjk2X0NBU0FDQVJEU19BUFAucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "stream_link": "https://dai.google.com/linear/hls/event/QrRlDgbxRWWyq7s5Xqj4Sw/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A",
@@ -27,30 +39,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SING@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
       "stream_link": "https://dai.google.com/linear/hls/event/hRRqEZrqRL-smdpVMVCmFA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Caribbean Premier League, 2024",
-      "match_id": 104209,
-      "match_name": "St Kitts and Nevis Patriots vs Saint Lucia Kings",
-      "team_1": "St Kitts and Nevis Patriots",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SKPA@2x.png",
-      "team_2": "Saint Lucia Kings",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KIGS@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/08/104209_4287_SKN_SLK_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOC8xMDQyMDlfNDI4N19TS05fU0xLX2ZjLXdlYi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
-      "stream_link": "https://dai.google.com/linear/hls/event/UR70u_i-SOeuiObJEyrhyQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Assam T20 Pride Cup, 2024",
-      "match_id": 108296,
-      "match_name": "New Star Club vs City Cricket Club",
-      "team_1": "New Star Club",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSCB@2x.png",
-      "team_2": "City Cricket Club",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CCLB@2x.png",
-      "banner": "https://images.fancode.com/aig/match/v1/108296_CASACARDS_APP.png?hash=eyJrZXkiOiJhaWcvbWF0Y2gvdjEvMTA4Mjk2X0NBU0FDQVJEU19BUFAucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
-      "stream_link": "https://dai.google.com/linear/hls/event/QrRlDgbxRWWyq7s5Xqj4Sw/master.m3u8"
     }
   ]
 }
