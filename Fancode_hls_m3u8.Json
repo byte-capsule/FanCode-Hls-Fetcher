@@ -2,31 +2,31 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 2,
-  "last_upaded": "03-09-2024 on 2:45:34 PM \ud83c\udf1e",
+  "last_upaded": "03-09-2024 on 3:28:36 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
-      "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A",
-      "match_id": 106966,
-      "match_name": "Malaysia vs Singapore",
-      "team_1": "Malaysia",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALY@2x.png",
-      "team_2": "Singapore",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SING@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/oMUgTuEPQ2WrP8vT_xHXWQ/master.m3u8"
+      "event_name": "Kerala Cricket League T20 2024",
+      "match_id": 107744,
+      "match_name": "Calicut Globstars vs Aries Kollam Sailors",
+      "team_1": "Calicut Globstars",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGK@2x.png",
+      "team_2": "Aries Kollam Sailors",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AKS@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/Match-3_Kerala-Cricket-League-T20_Old1.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9NYXRjaC0zX0tlcmFsYS1Dcmlja2V0LUxlYWd1ZS1UMjBfT2xkMS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
+      "stream_link": "https://dai.google.com/linear/hls/event/i_dotzuRRLWMXAuSgvpOmw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Assam T20 Pride Cup, 2024",
-      "match_id": 108299,
-      "match_name": "New Star Club vs Gauhati Town Club",
-      "team_1": "New Star Club",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSCB@2x.png",
-      "team_2": "Gauhati Town Club",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GATC@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/108299_4457_NSC_GTC_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODI5OV80NDU3X05TQ19HVENfZmMtd2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
-      "stream_link": "https://dai.google.com/linear/hls/event/xtYgjUHtSC6-vpwoCxA74g/master.m3u8"
+      "event_name": "ECS Austria, 2024",
+      "match_id": 107544,
+      "match_name": "Donaustadt vs Vienna CC",
+      "team_1": "Donaustadt",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DNA@2x.png",
+      "team_2": "Vienna CC",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VNC@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/107544_4430_DST_VCC_fc-Web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwNzU0NF80NDMwX0RTVF9WQ0NfZmMtV2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "stream_link": "https://d14od0vb5wc5gh.cloudfront.net/out/v1/1a0044776ab4496cb0442bc358c7fe81/index.m3u8"
     }
   ]
 }
