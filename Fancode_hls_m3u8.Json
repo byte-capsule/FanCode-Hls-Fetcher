@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "03-09-2024 on 10:46:55 PM \ud83c\udf19",
+  "total_mathes": 6,
+  "last_upaded": "03-09-2024 on 11:09:55 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -30,6 +30,18 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "KCC T10 Summer Challengers Cup, 2024",
+      "match_id": 106831,
+      "match_name": "Kuwait Mavericks vs Seazen Challengers",
+      "team_1": "Kuwait Mavericks",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MGWA@2x.png",
+      "team_2": "Seazen Challengers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SZN@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/106827_4392_SZN_KMW_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwNjgyN180MzkyX1NaTl9LTVdfZmMtd2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "stream_link": "https://dai.google.com/linear/hls/event/GQxDb2RwS-SfMI_0Skt3mg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "ECS Austria, 2024",
       "match_id": 107547,
       "match_name": "Indian CC Vienna vs Austrian Daredevils",
@@ -51,6 +63,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SAL-CR1@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/cms-media/107546_4430_SNA_SAL_fc-Web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwNzU0Nl80NDMwX1NOQV9TQUxfZmMtV2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
       "stream_link": "https://dai.google.com/linear/hls/event/_uSPTwJGQlSlESpzHjFZrw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Vitality Blast T20, 2024",
+      "match_id": 106261,
+      "match_name": "Durham vs Surrey",
+      "team_1": "Durham",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DURC@2x.png",
+      "team_2": "Surrey",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SUR@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/3rd-Sept_Surrey-vs-Durham_Old-Match-Cad-.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS8zcmQtU2VwdF9TdXJyZXktdnMtRHVyaGFtX09sZC1NYXRjaC1DYWQtLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "stream_link": "https://pubads.g.doubleclick.net/ssai/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8"
     }
   ]
 }
