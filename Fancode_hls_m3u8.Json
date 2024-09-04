@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "04-09-2024 on 8:09:09 PM \ud83c\udf19",
+  "total_mathes": 7,
+  "last_upaded": "04-09-2024 on 8:31:00 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -75,6 +75,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUS@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/08/Australia-tour-of-Scotland-old-match-card.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOC9BdXN0cmFsaWEtdG91ci1vZi1TY290bGFuZC1vbGQtbWF0Y2gtY2FyZC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
       "stream_link": "https://dai.google.com/linear/hls/event/kJ8soyVgQLu4nZ-fNipW5A/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Ireland Inter-Provincial T20 Trophy, 2024",
+      "match_id": 99928,
+      "match_name": "North West Warriors vs Munster Reds",
+      "team_1": "North West Warriors",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NWW@2x.png",
+      "team_2": "Munster Reds",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MNR@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/05/Ireland-Inter-Provincial-T20-Trophy_old_01.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wNS9JcmVsYW5kLUludGVyLVByb3ZpbmNpYWwtVDIwLVRyb3BoeV9vbGRfMDEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "stream_link": "https://dai.google.com/linear/hls/event/3TIDH1_HTdyKgZ8tQBwjkg/master.m3u8"
     }
   ]
 }
