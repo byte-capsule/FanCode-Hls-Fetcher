@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 2,
-  "last_upaded": "04-09-2024 on 2:45:07 PM \ud83c\udf1e",
+  "total_mathes": 3,
+  "last_upaded": "04-09-2024 on 3:10:41 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -19,14 +19,26 @@
     {
       "event_catagory": "cricket",
       "event_name": "ECS Austria, 2024",
-      "match_id": 107548,
-      "match_name": "Indian CC Vienna vs Vienna Danube",
-      "team_1": "Indian CC Vienna",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ICV@2x.png",
-      "team_2": "Vienna Danube",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VID@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/107548_4430_VID_ICCV_fc-Web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwNzU0OF80NDMwX1ZJRF9JQ0NWX2ZjLVdlYi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
-      "stream_link": "https://dai.google.com/linear/hls/event/jeUCipWIR0-zhgsSba3JDA/master.m3u8"
+      "match_id": 107549,
+      "match_name": "Salzburg vs Sher-E Punjab Vienna",
+      "team_1": "Salzburg",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SAL-CR1@2x.png",
+      "team_2": "Sher-E Punjab Vienna",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SPV-CR1@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/107549_4430_SAL_SEP_fc-Web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwNzU0OV80NDMwX1NBTF9TRVBfZmMtV2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "stream_link": "https://dai.google.com/linear/hls/event/wEGWyb3rSlKjZtlFOnZDdw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Kerala Cricket League T20 2024",
+      "match_id": 107746,
+      "match_name": "Calicut Globstars vs Kochi Blue Tigers",
+      "team_1": "Calicut Globstars",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGKL@2x.png",
+      "team_2": "Kochi Blue Tigers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBT@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/Match-5_Kerala-Cricket-League-T20_Old.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9NYXRjaC01X0tlcmFsYS1Dcmlja2V0LUxlYWd1ZS1UMjBfT2xkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "stream_link": "https://dai.google.com/linear/hls/event/4v7TvcBGRquZat2CDs8k3g/master.m3u8"
     }
   ]
 }
