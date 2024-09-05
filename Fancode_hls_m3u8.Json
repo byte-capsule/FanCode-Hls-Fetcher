@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "05-09-2024 on 4:10:45 PM \ud83c\udf1e",
+  "total_mathes": 5,
+  "last_upaded": "05-09-2024 on 4:33:25 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -51,6 +51,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MNR@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/05/Ireland-Inter-Provincial-OD-Trophy_old_02.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wNS9JcmVsYW5kLUludGVyLVByb3ZpbmNpYWwtT0QtVHJvcGh5X29sZF8wMi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
       "stream_link": "https://dai.google.com/linear/hls/event/LFBDOSzfTLW0Oj4BGzDa1g/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "FIFA World Cup Asian Qualifiers",
+      "match_id": 108269,
+      "match_name": "Australia vs Bahrain",
+      "team_1": "Australia",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AUS@2x.png",
+      "team_2": "Bahrain",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/BAH-FT1@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/108269_3740_AUS_BAH_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODI2OV8zNzQwX0FVU19CQUhfZmMtd2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "stream_link": "https://dai.google.com/linear/hls/event/7zOo4l2RQa-KkOiIEaUjkw/master.m3u8"
     }
   ]
 }
