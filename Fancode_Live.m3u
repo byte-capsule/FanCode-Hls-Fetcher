@@ -1,3 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Kuwait vs Singapore" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="106971" group-title="ICC Men's T20 WC Asia Sub-regional Qualifier A",Kuwait vs Singapore
+https://dai.google.com/linear/hls/event/6MDe1k_nS3aYHKA16l-RmA/master.m3u8
+#EXTINF:-1 tvg-name="Maldives vs Mongolia" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="106970" group-title="ICC Men's T20 WC Asia Sub-regional Qualifier A",Maldives vs Mongolia
+https://dai.google.com/linear/hls/event/FCnh6PAHQyeFJdMgcxpbYQ/master.m3u8
 #EXTINF:-1 tvg-name="Antigua & Barbuda Falcons vs Trinbago Knight Riders" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="104212" group-title="Caribbean Premier League, 2024",Antigua & Barbuda Falcons vs Trinbago Knight Riders
 https://dai.google.com/linear/hls/event/ZFgLuN5fSViVdNVYGKSrLg/master.m3u8
