@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 5,
-  "last_upaded": "07-09-2024 on 2:42:45 PM \ud83c\udf1e",
+  "last_upaded": "07-09-2024 on 3:09:11 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -18,30 +18,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "ECI-W Austria-Spain, 2024",
-      "match_id": 108899,
-      "match_name": "Spain Women vs Austria Women",
-      "team_1": "Spain Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESP@2x.png",
-      "team_2": "Austria Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUST@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/ECI-W-Austria-Spain-2024-old-match-card.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9FQ0ktVy1BdXN0cmlhLVNwYWluLTIwMjQtb2xkLW1hdGNoLWNhcmQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
-      "stream_link": "https://dai.google.com/linear/hls/event/dvndtvyFQJi5e5TZsOYxiw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A",
-      "match_id": 106972,
-      "match_name": "Malaysia vs Hong Kong, China",
-      "team_1": "Malaysia",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALY@2x.png",
-      "team_2": "Hong Kong, China",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HK@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/iT1rpp9dSfuE5Oc0jK-64w/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "Sri Lanka tour of England, 2024",
       "match_id": 105714,
       "match_name": "England vs Sri Lanka",
@@ -51,6 +27,30 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/08/Sri-Lanka-tour-of-England-test-old-match-cardpsd.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOC9TcmktTGFua2EtdG91ci1vZi1FbmdsYW5kLXRlc3Qtb2xkLW1hdGNoLWNhcmRwc2QucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
       "stream_link": "https://pubads.g.doubleclick.net/ssai/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ECI Austria-Sweden, 2024",
+      "match_id": 108894,
+      "match_name": "Austria vs Sweden",
+      "team_1": "Austria",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUST@2x.png",
+      "team_2": "Sweden",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SWE@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/ECI-Austria-Sweden-2024-old-match-card-OP-2-1.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9FQ0ktQXVzdHJpYS1Td2VkZW4tMjAyNC1vbGQtbWF0Y2gtY2FyZC1PUC0yLTEucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "stream_link": "https://dai.google.com/linear/hls/event/QnzIi8HfS-iM-qctDrriAg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Kerala Cricket League T20 2024",
+      "match_id": 107752,
+      "match_name": "Kochi Blue Tigers vs Aries Kollam Sailors",
+      "team_1": "Kochi Blue Tigers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBT@2x.png",
+      "team_2": "Aries Kollam Sailors",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AKS@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/Match-11_Kerala-Cricket-League-T20_Old1.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9NYXRjaC0xMV9LZXJhbGEtQ3JpY2tldC1MZWFndWUtVDIwX09sZDEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "stream_link": "https://dai.google.com/linear/hls/event/DZN0b53VT7-VTKFbNdTVJA/master.m3u8"
     },
     {
       "event_catagory": "racing",
