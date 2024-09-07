@@ -2,19 +2,19 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 6,
-  "last_upaded": "07-09-2024 on 4:42:04 PM \ud83c\udf1e",
+  "last_upaded": "07-09-2024 on 5:13:05 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
-      "event_name": "ECI Austria-Sweden, 2024",
-      "match_id": 108894,
-      "match_name": "Austria vs Sweden",
-      "team_1": "Austria",
+      "event_name": "ECI-W Austria-Spain, 2024",
+      "match_id": 108900,
+      "match_name": "Austria Women vs Spain Women",
+      "team_1": "Austria Women",
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUST@2x.png",
-      "team_2": "Sweden",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SWE@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/ECI-Austria-Sweden-2024-old-match-card-OP-2-1.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9FQ0ktQXVzdHJpYS1Td2VkZW4tMjAyNC1vbGQtbWF0Y2gtY2FyZC1PUC0yLTEucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
-      "stream_link": "https://dai.google.com/linear/hls/event/QnzIi8HfS-iM-qctDrriAg/master.m3u8"
+      "team_2": "Spain Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESP@2x.png",
+      "banner": false,
+      "stream_link": "https://dai.google.com/linear/hls/event/D4aK9ElzQNuU5Yf3wukYLg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -25,7 +25,7 @@
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LAN@2x.png",
       "team_2": "Western Storm",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/WS-CR1@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/04/7th-Sept_Western-vs-Storm-Thunder_OLD_Match-Card.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wNC83dGgtU2VwdF9XZXN0ZXJuLXZzLVN0b3JtLVRodW5kZXJfT0xEX01hdGNoLUNhcmQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "banner": false,
       "stream_link": "https://dai.google.com/linear/hls/event/mlHCF391TcKlaSlRrTLgaQ/master.m3u8"
     },
     {
@@ -37,7 +37,7 @@
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
       "team_2": "Sri Lanka",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/08/Sri-Lanka-tour-of-England-test-old-match-cardpsd.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOC9TcmktTGFua2EtdG91ci1vZi1FbmdsYW5kLXRlc3Qtb2xkLW1hdGNoLWNhcmRwc2QucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "banner": false,
       "stream_link": "https://pubads.g.doubleclick.net/ssai/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8"
     },
     {
@@ -49,7 +49,7 @@
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBT@2x.png",
       "team_2": "Aries Kollam Sailors",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AKS@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/Match-11_Kerala-Cricket-League-T20_Old1.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9NYXRjaC0xMV9LZXJhbGEtQ3JpY2tldC1MZWFndWUtVDIwX09sZDEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "banner": false,
       "stream_link": "https://dai.google.com/linear/hls/event/DZN0b53VT7-VTKFbNdTVJA/master.m3u8"
     },
     {
@@ -61,7 +61,7 @@
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png",
       "team_2": "England Women",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/England-Womens-tour-of-Ireland-ODI-old-match-card-1.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9FbmdsYW5kLVdvbWVucy10b3VyLW9mLUlyZWxhbmQtT0RJLW9sZC1tYXRjaC1jYXJkLTEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "banner": false,
       "stream_link": "https://dai.google.com/linear/hls/event/wjWQP_xTQe2KudAzWK_MHg/master.m3u8"
     },
     {
@@ -73,7 +73,7 @@
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-OME@2x.png",
       "team_2": "Crans Montana, Switzerland",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/Omega-European-Masters-2024_Golf_Old-Match-Card.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9PbWVnYS1FdXJvcGVhbi1NYXN0ZXJzLTIwMjRfR29sZl9PbGQtTWF0Y2gtQ2FyZC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
+      "banner": false,
       "stream_link": "https://dai.google.com/linear/hls/event/UTHkeRG2QtCeSzJVKJGHGg/master.m3u8"
     }
   ]
