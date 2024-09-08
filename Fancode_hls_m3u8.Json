@@ -1,7 +1,68 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 0,
-  "last_upaded": "08-09-2024 on 05:42:14 AM \ud83c\udf1e",
-  "matches": []
+  "total_mathes": 5,
+  "last_upaded": "08-09-2024 on 06:50:39 AM \ud83c\udf1e",
+  "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "Minor League Cricket, 2024",
+      "match_id": 107812,
+      "match_name": "Ft Lauderdale Lions vs Baltimore Royals",
+      "team_1": "Ft Lauderdale Lions",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FLLI@2x.png",
+      "team_2": "Baltimore Royals",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BALRY@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/08/Minor-League-Cricket-old-match-card-2.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOC9NaW5vci1MZWFndWUtQ3JpY2tldC1vbGQtbWF0Y2gtY2FyZC0yLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "stream_link": "https://dai.google.com/linear/hls/event/8kDLGcutQMaqewGZwVllvA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Minor League Cricket, 2024",
+      "match_id": 108329,
+      "match_name": "St Louis Americans vs Dallas Xforia Giants",
+      "team_1": "St Louis Americans",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-STAM@2x.png",
+      "team_2": "Dallas Xforia Giants",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DGIA@2x.png",
+      "banner": "https://images.fancode.com/aig/match/v1/108329_CASACARDS_APP.png?hash=eyJrZXkiOiJhaWcvbWF0Y2gvdjEvMTA4MzI5X0NBU0FDQVJEU19BUFAucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "stream_link": "https://dai.google.com/linear/hls/event/gUWpHwMyS-qlXsM1L9TuTA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Sri Lanka tour of England, 2024",
+      "match_id": 105714,
+      "match_name": "England vs Sri Lanka",
+      "team_1": "England",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
+      "team_2": "Sri Lanka",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/08/Sri-Lanka-tour-of-England-test-old-match-cardpsd.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOC9TcmktTGFua2EtdG91ci1vZi1FbmdsYW5kLXRlc3Qtb2xkLW1hdGNoLWNhcmRwc2QucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "stream_link": "https://pubads.g.doubleclick.net/ssai/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Caribbean Premier League, 2024",
+      "match_id": 104214,
+      "match_name": "Saint Lucia Kings vs Guyana Amazon Warriors",
+      "team_1": "Saint Lucia Kings",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KIGS@2x.png",
+      "team_2": "Guyana Amazon Warriors",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GUWA@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/08/104214_4287_SLK_GUY_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOC8xMDQyMTRfNDI4N19TTEtfR1VZX2ZjLXdlYi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
+      "stream_link": "https://dai.google.com/linear/hls/event/O6UYYjBOQHaS87cQU_iLgQ/master.m3u8"
+    },
+    {
+      "event_catagory": "mma",
+      "event_name": "Professional Fighters League",
+      "match_id": 108465,
+      "match_name": "Bellator Champion Series",
+      "team_1": "Bellator Champion Series",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/mma-flags/FC-PFL@2x.png",
+      "team_2": "Pechanga Arena, San Diego, CA",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/mma-flags/FC-LOC@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/Bellator-San-Diego-old.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9CZWxsYXRvci1TYW4tRGllZ28tb2xkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "stream_link": "https://liveauth.fancode.com/primary/108465_english_hls_4642adfreeta-no/index.m3u8"
+    }
+  ]
 }
