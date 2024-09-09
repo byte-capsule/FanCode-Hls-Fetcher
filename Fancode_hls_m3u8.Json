@@ -1,9 +1,21 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "09-09-2024 on 5:42:09 PM \ud83c\udf1e",
+  "total_mathes": 7,
+  "last_upaded": "09-09-2024 on 6:19:01 PM \ud83c\udf19",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "Arunachal Premier League T20, 2024",
+      "match_id": 107940,
+      "match_name": "Kameng Strikers vs Dirang Dragons",
+      "team_1": "Kameng Strikers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KMS@2x.png",
+      "team_2": "Dirang Dragons",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DRD@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/Arunachal-Premier-League_.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9BcnVuYWNoYWwtUHJlbWllci1MZWFndWVfLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "stream_link": "https://dai.google.com/linear/hls/event/0eKNRlN7Sq2CwMepIR9dhQ/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "ECS Croatia, 2024",
@@ -63,6 +75,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/Afghanistan-and-New-Zealand-tour-of-India-2024-test-old-match-card.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9BZmdoYW5pc3Rhbi1hbmQtTmV3LVplYWxhbmQtdG91ci1vZi1JbmRpYS0yMDI0LXRlc3Qtb2xkLW1hdGNoLWNhcmQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
       "stream_link": "https://dai.google.com/linear/hls/event/K__swoPUT9SDGiVL7I_kSA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "UAE Women and Zimbabwe Women tour of Namibia",
+      "match_id": 108201,
+      "match_name": "United Arab Emirates Women vs Namibia Women",
+      "team_1": "United Arab Emirates Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UAE@2x.png",
+      "team_2": "Namibia Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAM@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/UAEW-ZimbabweW-TO-NamibiaW-OLD.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9VQUVXLVppbWJhYndlVy1UTy1OYW1pYmlhVy1PTEQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "stream_link": "https://dai.google.com/linear/hls/event/04S4NbRTQEGEiUYOzLjnDQ/master.m3u8"
     }
   ]
 }
