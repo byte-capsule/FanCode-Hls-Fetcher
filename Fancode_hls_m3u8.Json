@@ -1,20 +1,32 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 8,
-  "last_upaded": "10-09-2024 on 6:19:56 PM \ud83c\udf19",
+  "total_mathes": 9,
+  "last_upaded": "10-09-2024 on 6:53:18 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
+      "event_name": "Oman D10 League, 2024",
+      "match_id": 108216,
+      "match_name": "Majees Titans vs Royal Oman Stallions",
+      "team_1": "Majees Titans",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAJ@2x.png",
+      "team_2": "Royal Oman Stallions",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROS@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/108216_4455_DAT_AMR_fc-Web_1725969605195.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODIxNl80NDU1X0RBVF9BTVJfZmMtV2ViXzE3MjU5Njk2MDUxOTUuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "stream_link": "https://dai.google.com/linear/hls/event/ci0z7VmBSLed16vIl3i67Q/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "ECS Croatia, 2024",
-      "match_id": 108574,
-      "match_name": "Zagreb Assassins vs Zagreb Sokol",
-      "team_1": "Zagreb Assassins",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZAGR@2x.png",
-      "team_2": "Zagreb Sokol",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZAGSK@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/108574_4474_ZA_ZAS_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODU3NF80NDc0X1pBX1pBU19mYy13ZWIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
-      "stream_link": "https://dai.google.com/linear/hls/event/mMIrMHcdThGgipbztKIzbA/master.m3u8"
+      "match_id": 108575,
+      "match_name": "Zagreb Chiefs vs Zagreb Warriors",
+      "team_1": "Zagreb Chiefs",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CHIFZ@2x.png",
+      "team_2": "Zagreb Warriors",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZAGWR@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/108575_4474_ZC_ZW_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODU3NV80NDc0X1pDX1pXX2ZjLXdlYi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
+      "stream_link": "https://dai.google.com/linear/hls/event/jFV8yqLVQ0muqNkk6gWpvQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -31,14 +43,14 @@
     {
       "event_catagory": "cricket",
       "event_name": "Arunachal Premier League T20, 2024",
-      "match_id": 107941,
-      "match_name": "Pare Warriors vs Kamle Cobra",
-      "team_1": "Pare Warriors",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PRW@2x.png",
-      "team_2": "Kamle Cobra",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KMC@2x.png",
+      "match_id": 107942,
+      "match_name": "Tawang Tigers vs Kameng Strikers",
+      "team_1": "Tawang Tigers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TWT@2x.png",
+      "team_2": "Kameng Strikers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KMS@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/Arunachal-Premier-League_.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9BcnVuYWNoYWwtUHJlbWllci1MZWFndWVfLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
-      "stream_link": "https://dai.google.com/linear/hls/event/z9TIM0XaRW6P6on5oD138w/master.m3u8"
+      "stream_link": "https://dai.google.com/linear/hls/event/5FN3bw1PRRO9D7vUuTCdtQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
