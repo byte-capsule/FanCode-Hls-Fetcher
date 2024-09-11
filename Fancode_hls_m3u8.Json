@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 8,
-  "last_upaded": "11-09-2024 on 10:11:58 PM \ud83c\udf19",
+  "last_upaded": "11-09-2024 on 10:34:56 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -18,6 +18,18 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "Oman D10 League, 2024",
+      "match_id": 108222,
+      "match_name": "Yalla Shabab Giants vs Muscat Thunders",
+      "team_1": "Yalla Shabab Giants",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YSG@2x.png",
+      "team_2": "Muscat Thunders",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MSCT@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/108222_4455_QUT_RUR_fc-Web_1725969605704.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODIyMl80NDU1X1FVVF9SVVJfZmMtV2ViXzE3MjU5Njk2MDU3MDQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "stream_link": "https://dai.google.com/linear/hls/event/YgqRe5w9TEGwcj04lM2GTQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "Boland T10 League, 2024",
       "match_id": 107644,
       "match_name": "Wellington Wolves vs Stellenbosch Kings",
@@ -27,18 +39,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SKG@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/Match-15_Boland-T10_Old.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9NYXRjaC0xNV9Cb2xhbmQtVDEwX09sZC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
       "stream_link": "https://dai.google.com/linear/hls/event/nBAsee9yTlGwIjpuASTFoQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECS Croatia, 2024",
-      "match_id": 108581,
-      "match_name": "Zagreb Assassins vs Sir Oliver Split",
-      "team_1": "Zagreb Assassins",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZAGR@2x.png",
-      "team_2": "Sir Oliver Split",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OLVSP@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/108581_4474_ZA_SOS_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODU4MV80NDc0X1pBX1NPU19mYy13ZWIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
-      "stream_link": "https://dai.google.com/linear/hls/event/RT97YlRRTq2Ei0iSv90EoQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
