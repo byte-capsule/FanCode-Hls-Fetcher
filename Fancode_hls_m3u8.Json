@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "12-09-2024 on 7:17:13 PM \ud83c\udf19",
+  "total_mathes": 7,
+  "last_upaded": "12-09-2024 on 7:32:47 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,6 +15,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAJ@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/cms-media/108224_4455_AZA_DAT_fc-Web_1725969605701.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODIyNF80NDU1X0FaQV9EQVRfZmMtV2ViXzE3MjU5Njk2MDU3MDEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
       "stream_link": "https://dai.google.com/linear/hls/event/mDvsUGa5TWCnc0nzgvfcTQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Arunachal Premier League T20, 2024",
+      "match_id": 107946,
+      "match_name": "Pare Warriors vs Siang Shark",
+      "team_1": "Pare Warriors",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PRW@2x.png",
+      "team_2": "Siang Shark",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSH@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/Arunachal-Premier-League_.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9BcnVuYWNoYWwtUHJlbWllci1MZWFndWVfLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "stream_link": "https://dai.google.com/linear/hls/event/_9OCppuNQKy043yO4a7NXg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
