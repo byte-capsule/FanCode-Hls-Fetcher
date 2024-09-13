@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 4,
-  "last_upaded": "13-09-2024 on 10:45:36 PM \ud83c\udf19",
+  "last_upaded": "13-09-2024 on 11:08:51 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,18 +15,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAJ@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/cms-media/108230_4455_RUR_DAT_fc-Web_1725969605811.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODIzMF80NDU1X1JVUl9EQVRfZmMtV2ViXzE3MjU5Njk2MDU4MTEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
       "stream_link": "https://dai.google.com/linear/hls/event/VYTGWVg-TIaPZvABAnr6Hg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Boland T10 League, 2024",
-      "match_id": 107648,
-      "match_name": "Stellenbosch Kings vs Northern Raiders",
-      "team_1": "Stellenbosch Kings",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SKG@2x.png",
-      "team_2": "Northern Raiders",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NRD@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/Match-19_Boland-T10_Old.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9NYXRjaC0xOV9Cb2xhbmQtVDEwX09sZC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
-      "stream_link": "https://dai.google.com/linear/hls/event/uSnoFg6kRn2fhLHvo8O4Zg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -51,6 +39,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/Amgen-Irish-Open_Golf_Old-Match-Card.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9BbWdlbi1JcmlzaC1PcGVuX0dvbGZfT2xkLU1hdGNoLUNhcmQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
       "stream_link": "https://dai.google.com/linear/hls/event/b26mwoQrTzaQlTsLuUvywg/master.m3u8"
+    },
+    {
+      "event_catagory": "golf",
+      "event_name": "LIV Golf Chicago",
+      "match_id": 108471,
+      "match_name": "Day 1",
+      "team_1": "Day 1",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LM@2x.png",
+      "team_2": "Bolingbrook Golf Club, USA",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/LIV-Golf-Chicago_old_Match_card.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9MSVYtR29sZi1DaGljYWdvX29sZF9NYXRjaF9jYXJkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "stream_link": "https://dai.google.com/linear/hls/event/nwvfhbrZTX-Q7vw-oy2ZWg/master.m3u8"
     }
   ]
 }
