@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "13-09-2024 on 1:42:07 PM \ud83c\udf1e",
+  "total_mathes": 2,
+  "last_upaded": "13-09-2024 on 2:12:58 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,30 +15,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AJC@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/cms-media/108319_4457_GTC_AC_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODMxOV80NDU3X0dUQ19BQ19mYy13ZWIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
       "stream_link": "https://dai.google.com/linear/hls/event/rHJj9ZV3SzivDgIbs5UDlg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECS Croatia, 2024",
-      "match_id": 108587,
-      "match_name": "Zagreb Chiefs vs Afyonkarahisar SHS",
-      "team_1": "Zagreb Chiefs",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CHIFZ@2x.png",
-      "team_2": "Afyonkarahisar SHS",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/AFK-CR1@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/108587_4474_ZC_AFK_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODU4N180NDc0X1pDX0FGS19mYy13ZWIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
-      "stream_link": "https://dai.google.com/linear/hls/event/SdH3Ene1SZKbAAhncG-hBg/master.m3u8"
-    },
-    {
-      "event_catagory": "racing",
-      "event_name": "F2 AZERBAIJAN 2024",
-      "match_id": 95366,
-      "match_name": "Free Practice",
-      "team_1": "Free Practice",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR2@2x.png",
-      "team_2": "Baku",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/03/F2_Saudi_Old_match-card.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wMy9GMl9TYXVkaV9PbGRfbWF0Y2gtY2FyZC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
-      "stream_link": "https://d1qjpcb502i6yh.cloudfront.net/out/v1/a9297d8440764a7f86424c4614b9a3a4/index.m3u8"
     },
     {
       "event_catagory": "golf",
