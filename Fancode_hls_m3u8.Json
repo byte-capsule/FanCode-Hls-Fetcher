@@ -2,19 +2,19 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 5,
-  "last_upaded": "13-09-2024 on 4:33:33 PM \ud83c\udf1e",
+  "last_upaded": "13-09-2024 on 5:09:12 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
-      "event_name": "GSA Pride Cup 2024",
-      "match_id": 108319,
-      "match_name": "Gauhati Town Club vs Ankurjyoti Club",
-      "team_1": "Gauhati Town Club",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GATC@2x.png",
-      "team_2": "Ankurjyoti Club",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AJC@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/108319_4457_GTC_AC_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODMxOV80NDU3X0dUQ19BQ19mYy13ZWIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
-      "stream_link": "https://dai.google.com/linear/hls/event/rHJj9ZV3SzivDgIbs5UDlg/master.m3u8"
+      "event_name": "ECS Croatia, 2024",
+      "match_id": 108589,
+      "match_name": "Zagreb Chiefs vs Belgrade",
+      "team_1": "Zagreb Chiefs",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CHIFZ@2x.png",
+      "team_2": "Belgrade",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/BEL-CR3@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/108589_4474_ZC_BEL_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODU4OV80NDc0X1pDX0JFTF9mYy13ZWIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "stream_link": "https://dai.google.com/linear/hls/event/YzGY-sDRRVCRRdWl-4zqVQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -41,16 +41,16 @@
       "stream_link": "https://liveauth.fancode.com/primary/108089_english_hls_5130adfreeta-no/index.m3u8"
     },
     {
-      "event_catagory": "formula1",
-      "event_name": "F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2024",
-      "match_id": 95217,
-      "match_name": "Practice 1",
-      "team_1": "Practice 1",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
-      "team_2": "Azerbaijan",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/F1-Azerbaijan_old-4.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9GMS1BemVyYmFpamFuX29sZC00LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
-      "stream_link": "https://dg29crl6epece.cloudfront.net/out/v1/aa844407cf1048e0894998c6531bfa68/index.m3u8"
+      "event_catagory": "racing",
+      "event_name": "F2 AZERBAIJAN 2024",
+      "match_id": 95367,
+      "match_name": "Qualifying Session",
+      "team_1": "Qualifying Session",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR2@2x.png",
+      "team_2": "Baku",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/03/F2_Saudi_Old_match-card.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wMy9GMl9TYXVkaV9PbGRfbWF0Y2gtY2FyZC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
+      "stream_link": "https://d3o2bbh7jw3d1m.cloudfront.net/out/v1/fedb4303ba9145d58a495f1ffbd5c63d/index.m3u8"
     },
     {
       "event_catagory": "golf",
