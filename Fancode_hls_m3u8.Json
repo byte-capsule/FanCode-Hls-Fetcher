@@ -2,8 +2,20 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 2,
-  "last_upaded": "14-09-2024 on 06:44:52 AM \ud83c\udf1e",
+  "last_upaded": "14-09-2024 on 08:05:46 AM \ud83c\udf1e",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "JCL T20, 2024",
+      "match_id": 101890,
+      "match_name": "Max Club vs Tigers Cricket Club",
+      "team_1": "Max Club",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAXC@2x.png",
+      "team_2": "Tigers Cricket Club",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TIGER@2x.png",
+      "banner": "https://images.fancode.com/aig/match/v1/101890_CASACARDS_APP.png?hash=eyJrZXkiOiJhaWcvbWF0Y2gvdjEvMTAxODkwX0NBU0FDQVJEU19BUFAucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "stream_link": "https://dai.google.com/linear/hls/event/Fc761KlGRLCQzGy7TiKalQ/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "Caribbean Premier League, 2024",
@@ -15,18 +27,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TKRD@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/08/104219_4287_BR_TKR_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOC8xMDQyMTlfNDI4N19CUl9US1JfZmMtd2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
       "stream_link": "https://dai.google.com/linear/hls/event/C7aZyX2OQ4qWxBeYXPCkuA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "JCL T20, 2024",
-      "match_id": 101890,
-      "match_name": "Tigers Cricket Club vs Max Club",
-      "team_1": "Tigers Cricket Club",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TIGER@2x.png",
-      "team_2": "Max Club",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAXC@2x.png",
-      "banner": "https://images.fancode.com/aig/match/v1/101890_CASACARDS_APP.png?hash=eyJrZXkiOiJhaWcvbWF0Y2gvdjEvMTAxODkwX0NBU0FDQVJEU19BUFAucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
-      "stream_link": "https://dai.google.com/linear/hls/event/Fc761KlGRLCQzGy7TiKalQ/master.m3u8"
     }
   ]
 }
