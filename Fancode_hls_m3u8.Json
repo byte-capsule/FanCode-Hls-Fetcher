@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "14-09-2024 on 0:45:33 PM \ud83c\udf1e",
+  "total_mathes": 2,
+  "last_upaded": "14-09-2024 on 1:09:55 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -18,18 +18,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "GSA Pride Cup 2024",
-      "match_id": 108320,
-      "match_name": "New Star Club vs River Rine Club",
-      "team_1": "New Star Club",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSCB@2x.png",
-      "team_2": "River Rine Club",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RRC@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/108320_4457_NSC_RRC_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODMyMF80NDU3X05TQ19SUkNfZmMtd2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
-      "stream_link": "https://dai.google.com/linear/hls/event/lHI9f2eVQRSYC4VuGsqVQw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "ECS Croatia, 2024",
       "match_id": 108592,
       "match_name": "Afyonkarahisar SHS vs Zagreb Chiefs",
@@ -39,18 +27,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CHIFZ@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/cms-media/108592_4474_ZC_AFK_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODU5Ml80NDc0X1pDX0FGS19mYy13ZWIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
       "stream_link": "https://dai.google.com/linear/hls/event/1Q1-41iGTSWUTJuAaHkTxA/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "J League 2024",
-      "match_id": 108086,
-      "match_name": "Consadole Sapporo vs Tokyo Verdy",
-      "team_1": "Consadole Sapporo",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CSA@2x.png",
-      "team_2": "Tokyo Verdy",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-TV@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/108086_3921_SAP_VER_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODA4Nl8zOTIxX1NBUF9WRVJfZmMtd2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
-      "stream_link": "https://liveauth.fancode.com/primary/108086_english_hls_9006adfreeta-di/index.m3u8"
     }
   ]
 }
