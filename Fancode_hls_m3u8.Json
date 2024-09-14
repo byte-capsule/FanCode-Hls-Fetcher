@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 10,
-  "last_upaded": "14-09-2024 on 7:13:16 PM \ud83c\udf19",
+  "total_mathes": 7,
+  "last_upaded": "14-09-2024 on 7:42:14 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -19,14 +19,14 @@
     {
       "event_catagory": "cricket",
       "event_name": "ECS Croatia, 2024",
-      "match_id": 108595,
-      "match_name": "Zagreb Assassins vs Belgrade",
-      "team_1": "Zagreb Assassins",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZAGR@2x.png",
-      "team_2": "Belgrade",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/BEL-CR3@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/108595_4474_BEL_ZA_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODU5NV80NDc0X0JFTF9aQV9mYy13ZWIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
-      "stream_link": "https://dai.google.com/linear/hls/event/1t3y0SoeR4uB5ClEevND8w/master.m3u8"
+      "match_id": 108596,
+      "match_name": "Ljubljana vs Zagreb Chiefs",
+      "team_1": "Ljubljana",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LLUBJ@2x.png",
+      "team_2": "Zagreb Chiefs",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CHIFZ@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/108596_4474_ZC_LJU_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODU5Nl80NDc0X1pDX0xKVV9mYy13ZWIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "stream_link": "https://dai.google.com/linear/hls/event/O7z-4pcqRMOj9JUviK-MuA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -55,14 +55,14 @@
     {
       "event_catagory": "cricket",
       "event_name": "Vitality Blast T20, 2024",
-      "match_id": 102158,
-      "match_name": "Surrey vs Somerset",
-      "team_1": "Surrey",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SUR@2x.png",
-      "team_2": "Somerset",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOM@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/14th-Sept_Surrey-vs-Somerset_Old-Match-Card_Old-Match-Cad.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS8xNHRoLVNlcHRfU3VycmV5LXZzLVNvbWVyc2V0X09sZC1NYXRjaC1DYXJkX09sZC1NYXRjaC1DYWQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
-      "stream_link": "https://pubads.g.doubleclick.net/ssai/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8"
+      "match_id": 102159,
+      "match_name": "Sussex vs Gloucestershire",
+      "team_1": "Sussex",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SUS@2x.png",
+      "team_2": "Gloucestershire",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GLO@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/14th-Sept_Gloucestershire-vs-Sussex-match-card-Sporty.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS8xNHRoLVNlcHRfR2xvdWNlc3RlcnNoaXJlLXZzLVN1c3NleC1tYXRjaC1jYXJkLVNwb3J0eS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
+      "stream_link": "Free Trial attempt unsuccessful......it requires Premium Account"
     },
     {
       "event_catagory": "cricket",
@@ -75,42 +75,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRK@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/Match-26_Kerala-Cricket-League-T20_Old1.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9NYXRjaC0yNl9LZXJhbGEtQ3JpY2tldC1MZWFndWUtVDIwX09sZDEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
       "stream_link": "https://dai.google.com/linear/hls/event/uIWLa6NaSfOYnd9oE4Fkaw/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "EFL Championship 2024-25",
-      "match_id": 106281,
-      "match_name": "Millwall vs Luton Town",
-      "team_1": "Millwall",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MILW@2x.png",
-      "team_2": "Luton Town",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LUTT@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/106281_4352_MLW_LUT_fc-web_1723042859973.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwNjI4MV80MzUyX01MV19MVVRfZmMtd2ViXzE3MjMwNDI4NTk5NzMuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
-      "stream_link": "https://dai.google.com/linear/hls/event/v-gD0Ci7SWOu6jFmSOgS6w/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "Chinese Super League 2024",
-      "match_id": 106174,
-      "match_name": "Chengdu Rongcheng vs Beijing Guoan",
-      "team_1": "Chengdu Rongcheng",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CHENG@2x.png",
-      "team_2": "Beijing Guoan",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BGUAN@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/08/CR_BG_Old_fc_web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOC9DUl9CR19PbGRfZmNfd2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
-      "stream_link": "https://liveauth.fancode.com/primary/106174_english_hls_5404adfreeta-di/index.m3u8"
-    },
-    {
-      "event_catagory": "formula1",
-      "event_name": "F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2024",
-      "match_id": 95220,
-      "match_name": "Qualifying",
-      "team_1": "Qualifying",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
-      "team_2": "Azerbaijan",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/F1-Azerbaijan_old-4.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9GMS1BemVyYmFpamFuX29sZC00LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
-      "stream_link": "https://dai.google.com/linear/hls/event/2y5UFiheToGuhU4rhP4wdg/master.m3u8"
     },
     {
       "event_catagory": "golf",
