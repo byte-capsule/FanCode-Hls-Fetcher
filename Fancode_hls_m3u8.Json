@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "14-09-2024 on 2:44:54 PM \ud83c\udf1e",
+  "total_mathes": 6,
+  "last_upaded": "14-09-2024 on 3:09:41 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,6 +27,30 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/AFK-CR1@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/cms-media/108593_4474_AFK_ZA_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODU5M180NDc0X0FGS19aQV9mYy13ZWIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
       "stream_link": "https://dai.google.com/linear/hls/event/qnbNBZj0Q0mDNtjDTMX0JA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Kerala Cricket League T20 2024",
+      "match_id": 107766,
+      "match_name": "Kochi Blue Tigers vs Thrissur Titans",
+      "team_1": "Kochi Blue Tigers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBT@2x.png",
+      "team_2": "Thrissur Titans",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TTK@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/Match-25_Kerala-Cricket-League-T20_Old1.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9NYXRjaC0yNV9LZXJhbGEtQ3JpY2tldC1MZWFndWUtVDIwX09sZDEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "stream_link": "https://dai.google.com/linear/hls/event/a4S0Y1UVQBawHD41sMk62Q/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "J League 2024",
+      "match_id": 108087,
+      "match_name": "Kashima Antlers vs Sanfrecce Hiroshima",
+      "team_1": "Kashima Antlers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KAN@2x.png",
+      "team_2": "Sanfrecce Hiroshima",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHI@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/108087_3921_ANL_HIR_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODA4N18zOTIxX0FOTF9ISVJfZmMtd2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "stream_link": "https://liveauth.fancode.com/primary/108087_english_hls_8818adfreeta-no/index.m3u8"
     },
     {
       "event_catagory": "formula1",
