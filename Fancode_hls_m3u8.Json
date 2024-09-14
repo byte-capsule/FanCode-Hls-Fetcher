@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 3,
-  "last_upaded": "14-09-2024 on 10:44:44 PM \ud83c\udf19",
+  "last_upaded": "14-09-2024 on 11:09:03 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -30,15 +30,15 @@
     },
     {
       "event_catagory": "golf",
-      "event_name": "Amgen Irish Open",
-      "match_id": 108915,
-      "match_name": "Day 3",
-      "team_1": "Day 3",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-AIO@2x.png",
-      "team_2": "Royal County Down GC, Northern Ireland",
+      "event_name": "LIV Golf Chicago",
+      "match_id": 108472,
+      "match_name": "Day 2",
+      "team_1": "Day 2",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LM@2x.png",
+      "team_2": "Bolingbrook Golf Club, USA",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/Amgen-Irish-Open_Golf_Old-Match-Card.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9BbWdlbi1JcmlzaC1PcGVuX0dvbGZfT2xkLU1hdGNoLUNhcmQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
-      "stream_link": "https://dai.google.com/linear/hls/event/Vdv-kHnHQpWOE7AsOusYzQ/master.m3u8"
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/LIV-Golf-Chicago_old_Match_card.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9MSVYtR29sZi1DaGljYWdvX29sZF9NYXRjaF9jYXJkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "stream_link": "https://dai.google.com/linear/hls/event/ROvKjBAPRnemjUbANAHA8A/master.m3u8"
     }
   ]
 }
