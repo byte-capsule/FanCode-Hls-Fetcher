@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "15-09-2024 on 6:48:26 PM \ud83c\udf19",
+  "total_mathes": 5,
+  "last_upaded": "15-09-2024 on 7:13:51 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -41,28 +41,16 @@
       "stream_link": "https://dai.google.com/linear/hls/event/gcLYV09qT0-wuyuYclTkuA/master.m3u8"
     },
     {
-      "event_catagory": "football",
-      "event_name": "Chinese Super League 2024",
-      "match_id": 106175,
-      "match_name": "Qingdao Hainiu vs Wuhan Three Towns",
-      "team_1": "Qingdao Hainiu",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-QING@2x.png",
-      "team_2": "Wuhan Three Towns",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WUHANT@2x.png",
-      "banner": "https://images.fancode.com/aig/match/v1/106175_CASACARDS_APP.png?hash=eyJrZXkiOiJhaWcvbWF0Y2gvdjEvMTA2MTc1X0NBU0FDQVJEU19BUFAucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
-      "stream_link": "https://liveauth.fancode.com/primary/106175_english_hls_5258adfreeta-di/index.m3u8"
-    },
-    {
-      "event_catagory": "formula1",
-      "event_name": "F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2024",
-      "match_id": 95221,
-      "match_name": "Race",
-      "team_1": "Race",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
-      "team_2": "Azerbaijan",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/F1-Azerbaijan_old-4.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9GMS1BemVyYmFpamFuX29sZC00LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
-      "stream_link": "https://dai.google.com/linear/hls/event/1eOsmFk6REOeAsytY1q0Sg/master.m3u8"
+      "event_catagory": "cricket",
+      "event_name": "Kerala Cricket League T20 2024",
+      "match_id": 107769,
+      "match_name": "Kochi Blue Tigers vs Alleppey Ripples",
+      "team_1": "Kochi Blue Tigers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBT@2x.png",
+      "team_2": "Alleppey Ripples",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-APK@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/Match-28_Kerala-Cricket-League-T20_Old1.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9NYXRjaC0yOF9LZXJhbGEtQ3JpY2tldC1MZWFndWUtVDIwX09sZDEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "stream_link": "https://dai.google.com/linear/hls/event/MgsPUpbVSG2cpqiIkoxKYw/master.m3u8"
     },
     {
       "event_catagory": "golf",
