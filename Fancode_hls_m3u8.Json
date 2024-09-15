@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "15-09-2024 on 11:42:30 PM \ud83c\udf19",
+  "total_mathes": 4,
+  "last_upaded": "16-09-2024 on 00:12:59 AM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,6 +15,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MSCT@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/cms-media/108238_4455_QUT_RUR_fc-Web_1725969606211.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODIzOF80NDU1X1FVVF9SVVJfZmMtV2ViXzE3MjU5Njk2MDYyMTEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
       "stream_link": "https://dai.google.com/linear/hls/event/E6ys5FBhQjmpF4nCKvcyig/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Boland T10 League, 2024",
+      "match_id": 107651,
+      "match_name": "Wellington Wolves vs Northern Raiders",
+      "team_1": "Wellington Wolves",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WWS@2x.png",
+      "team_2": "Northern Raiders",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NRD@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/Match-22_Boland-T10_Old.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9NYXRjaC0yMl9Cb2xhbmQtVDEwX09sZC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
+      "stream_link": "https://dai.google.com/linear/hls/event/-fvhkb8qRiep2l5WD2Yumw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
