@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 9,
-  "last_upaded": "15-09-2024 on 8:08:37 PM \ud83c\udf19",
+  "total_mathes": 10,
+  "last_upaded": "15-09-2024 on 8:29:18 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,6 +15,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAJ@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/cms-media/108236_4455_BOB_DAT_fc-Web_1725969606215.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODIzNl80NDU1X0JPQl9EQVRfZmMtV2ViXzE3MjU5Njk2MDYyMTUuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
       "stream_link": "https://dai.google.com/linear/hls/event/FwlOpEtbT4OKBNt9ekSXxQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Oman D10 League, 2024",
+      "match_id": 108237,
+      "match_name": "Royal Oman Stallions vs IAS Invincibles",
+      "team_1": "Royal Oman Stallions",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROS@2x.png",
+      "team_2": "IAS Invincibles",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IAI@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/108237_4455_AZA_AMR_fc-Web_1725969606916.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODIzN180NDU1X0FaQV9BTVJfZmMtV2ViXzE3MjU5Njk2MDY5MTYuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "stream_link": "https://dai.google.com/linear/hls/event/8C9sC7UxQiq-OwhhiBjamA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
