@@ -2,8 +2,20 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 3,
-  "last_upaded": "16-09-2024 on 5:42:19 PM \ud83c\udf1e",
+  "last_upaded": "16-09-2024 on 6:19:32 PM \ud83c\udf19",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "Arunachal Premier League T20, 2024",
+      "match_id": 107953,
+      "match_name": "Pare Warriors vs Siang Shark",
+      "team_1": "Pare Warriors",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PRW@2x.png",
+      "team_2": "Siang Shark",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSH@2x.png",
+      "banner": "https://images.fancode.com/aig/match/v1/107953_CASACARDS_APP.png?hash=eyJrZXkiOiJhaWcvbWF0Y2gvdjEvMTA3OTUzX0NBU0FDQVJEU19BUFAucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "stream_link": "https://dai.google.com/linear/hls/event/9KmxLGQvSfWqVF9NcH8F-g/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "ICC CWC League 2, 2023-27",
@@ -27,18 +39,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PITU@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/cms-media/109031_4486_PIC_HAH_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwOTAzMV80NDg2X1BJQ19IQUhfZmMtd2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
       "stream_link": "https://dai.google.com/linear/hls/event/HJ-urUmXRyOJ6shKm3GqhQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Kerala Cricket League T20 2024",
-      "match_id": 107770,
-      "match_name": "Alleppey Ripples vs Calicut Globstars",
-      "team_1": "Alleppey Ripples",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-APK@2x.png",
-      "team_2": "Calicut Globstars",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGKL@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/Match-29_Kerala-Cricket-League-T20_Old1.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9NYXRjaC0yOV9LZXJhbGEtQ3JpY2tldC1MZWFndWUtVDIwX09sZDEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
-      "stream_link": "https://dai.google.com/linear/hls/event/NIYy7Z0rQBKUka5Pb-VaBA/master.m3u8"
     }
   ]
 }
