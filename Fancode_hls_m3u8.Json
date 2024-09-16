@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "16-09-2024 on 9:43:01 PM \ud83c\udf19",
+  "total_mathes": 7,
+  "last_upaded": "16-09-2024 on 10:12:32 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -63,6 +63,30 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/South-Africa-Womens-tour-of-Pakistan-old-match-card.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9Tb3V0aC1BZnJpY2EtV29tZW5zLXRvdXItb2YtUGFraXN0YW4tb2xkLW1hdGNoLWNhcmQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
       "stream_link": "https://dai.google.com/linear/hls/event/VXySjz5DSrOZTYuBIq07EQ/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "AFC Champions League Elite 2024-25",
+      "match_id": 108628,
+      "match_name": "Al Shorta vs Al-Nassr",
+      "team_1": "Al Shorta",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHR@2x.png",
+      "team_2": "Al-Nassr",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ANF@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/108628_4475_SHR_ANF_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS8xMDg2MjhfNDQ3NV9TSFJfQU5GX2ZjLXdlYi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
+      "stream_link": "https://dai.google.com/linear/hls/event/fuVxw3hmSyOyBsFAHnzfKg/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "AFC Champions League Elite 2024-25",
+      "match_id": 108627,
+      "match_name": "Al Ain vs Al Sadd",
+      "team_1": "Al Ain",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALAIN@2x.png",
+      "team_2": "Al Sadd",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALSAD@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/108627_4475_AAI_SDD_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS8xMDg2MjdfNDQ3NV9BQUlfU0REX2ZjLXdlYi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
+      "stream_link": "https://dai.google.com/linear/hls/event/snH_quW9SWOnqu3KDke4hA/master.m3u8"
     }
   ]
 }
