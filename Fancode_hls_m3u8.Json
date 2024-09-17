@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 8,
-  "last_upaded": "17-09-2024 on 10:47:02 PM \ud83c\udf19",
+  "total_mathes": 6,
+  "last_upaded": "17-09-2024 on 11:09:07 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,30 +15,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OID@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/Match-24_Boland-T10_Old.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9NYXRjaC0yNF9Cb2xhbmQtVDEwX09sZC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
       "stream_link": "https://dai.google.com/linear/hls/event/A8kUHeLeQUCk7F3l4InQxQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Kerala Cricket League T20 2024",
-      "match_id": 107773,
-      "match_name": "Aries Kollam Sailors vs Thrissur Titans",
-      "team_1": "Aries Kollam Sailors",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AKS@2x.png",
-      "team_2": "Thrissur Titans",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TTK@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/Match-30_Kerala-Cricket-League-T20_Old1.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9NYXRjaC0zMF9LZXJhbGEtQ3JpY2tldC1MZWFndWUtVDIwX09sZDEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
-      "stream_link": "https://dai.google.com/linear/hls/event/rkPBNNmkQB-9o7I1nvNxtQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Patanjali Uttarakhand Premier League, 2024",
-      "match_id": 109034,
-      "match_name": "Pithoragarh Hurricanes vs USN Indians",
-      "team_1": "Pithoragarh Hurricanes",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PITU@2x.png",
-      "team_2": "USN Indians",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UI@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/109034_4486_UI_PIC_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwOTAzNF80NDg2X1VJX1BJQ19mYy13ZWIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
-      "stream_link": "https://dai.google.com/linear/hls/event/V55krBQAQkm5hpm-7zctoQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
