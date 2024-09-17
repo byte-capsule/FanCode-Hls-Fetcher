@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 2,
-  "last_upaded": "17-09-2024 on 2:13:46 PM \ud83c\udf1e",
+  "last_upaded": "17-09-2024 on 2:34:14 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -19,14 +19,14 @@
     {
       "event_catagory": "cricket",
       "event_name": "ECS Croatia, 2024",
-      "match_id": 108608,
-      "match_name": "Zagreb Sokol vs Afyonkarahisar SHS",
-      "team_1": "Zagreb Sokol",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZAGSK@2x.png",
-      "team_2": "Afyonkarahisar SHS",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/AFK-CR1@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/108608_4474_ZAS_AFK_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODYwOF80NDc0X1pBU19BRktfZmMtd2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
-      "stream_link": "https://dai.google.com/linear/hls/event/J2CoviQvR9-lbAXExZecVA/master.m3u8"
+      "match_id": 108609,
+      "match_name": "Belgrade vs Zagreb Warriors",
+      "team_1": "Belgrade",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/BEL-CR3@2x.png",
+      "team_2": "Zagreb Warriors",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZAGWR@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/108609_4474_ZW_BEL_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODYwOV80NDc0X1pXX0JFTF9mYy13ZWIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "stream_link": "https://dai.google.com/linear/hls/event/BW1Ufzs6Q_airaFzeVejaw/master.m3u8"
     }
   ]
 }
