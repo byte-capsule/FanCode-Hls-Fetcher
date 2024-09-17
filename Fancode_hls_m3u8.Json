@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 2,
-  "last_upaded": "17-09-2024 on 2:46:31 PM \ud83c\udf1e",
+  "total_mathes": 3,
+  "last_upaded": "17-09-2024 on 3:10:30 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,6 +27,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZAGWR@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/cms-media/108609_4474_ZW_BEL_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODYwOV80NDc0X1pXX0JFTF9mYy13ZWIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
       "stream_link": "https://dai.google.com/linear/hls/event/BW1Ufzs6Q_airaFzeVejaw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Kerala Cricket League T20 2024",
+      "match_id": 107772,
+      "match_name": "Calicut Globstars vs Trivandrum Royals",
+      "team_1": "Calicut Globstars",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGKL@2x.png",
+      "team_2": "Trivandrum Royals",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRK@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/Match-27_Kerala-Cricket-League-T20_Old1.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9NYXRjaC0yN19LZXJhbGEtQ3JpY2tldC1MZWFndWUtVDIwX09sZDEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "stream_link": "https://dai.google.com/linear/hls/event/67YvFcIqRNy5USglaB-taA/master.m3u8"
     }
   ]
 }
