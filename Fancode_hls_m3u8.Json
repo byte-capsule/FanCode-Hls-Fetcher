@@ -1,9 +1,21 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "18-09-2024 on 0:14:39 PM \ud83c\udf1e",
+  "total_mathes": 4,
+  "last_upaded": "18-09-2024 on 0:37:53 PM \ud83c\udf1e",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "Uttarakhand Women's T20 League, 2024",
+      "match_id": 109043,
+      "match_name": "Pithoragarh Hurricanes Women vs Nainital SG Pipers Women",
+      "team_1": "Pithoragarh Hurricanes Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PITU@2x.png",
+      "team_2": "Nainital SG Pipers Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NANU@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/UXr0a2jjSq-iLtT3Ldjnug/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "GSA Pride Cup 2024",
@@ -30,15 +42,15 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Uttarakhand Women's T20 League, 2024",
-      "match_id": 109043,
-      "match_name": "Pithoragarh Hurricanes Women vs Nainital SG Pipers Women",
-      "team_1": "Pithoragarh Hurricanes Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PITU@2x.png",
-      "team_2": "Nainital SG Pipers Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NANU@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/UXr0a2jjSq-iLtT3Ldjnug/master.m3u8"
+      "event_name": "ECS Croatia, 2024",
+      "match_id": 108613,
+      "match_name": "Zagreb Assassins vs Afyonkarahisar SHS",
+      "team_1": "Zagreb Assassins",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZAGR@2x.png",
+      "team_2": "Afyonkarahisar SHS",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/AFK-CR1@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/108613_4474_AFK_ZA_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODYxM180NDc0X0FGS19aQV9mYy13ZWIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "stream_link": "https://dai.google.com/linear/hls/event/XcjMcosWSKK1TR0yrGlNGA/master.m3u8"
     }
   ]
 }
