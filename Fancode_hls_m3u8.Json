@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 8,
-  "last_upaded": "18-09-2024 on 6:51:29 PM \ud83c\udf19",
+  "last_upaded": "18-09-2024 on 7:17:37 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -42,18 +42,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "New Zealand tour of Sri Lanka, 2024",
-      "match_id": 107928,
-      "match_name": "Sri Lanka vs New Zealand",
-      "team_1": "Sri Lanka",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
-      "team_2": "New Zealand",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/New-Zealand-tour-of-Sri-Lanka-2024-old-match-card.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9OZXctWmVhbGFuZC10b3VyLW9mLVNyaS1MYW5rYS0yMDI0LW9sZC1tYXRjaC1jYXJkLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
-      "stream_link": "https://pubads.g.doubleclick.net/ssai/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "Afghanistan and South Africa tour of UAE, 2024",
       "match_id": 107775,
       "match_name": "South Africa vs Afghanistan",
@@ -63,6 +51,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFG@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/Afghanistan-and-South-Africa-tour-of-UAE-ODI-old-match-card.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9BZmdoYW5pc3Rhbi1hbmQtU291dGgtQWZyaWNhLXRvdXItb2YtVUFFLU9ESS1vbGQtbWF0Y2gtY2FyZC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
       "stream_link": "https://dai.google.com/linear/hls/event/FNOhS-N3SG6dPq8qhoEBwg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "New Zealand tour of Sri Lanka, 2024",
+      "match_id": 107928,
+      "match_name": "Sri Lanka vs New Zealand",
+      "team_1": "Sri Lanka",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+      "team_2": "New Zealand",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/New-Zealand-tour-of-Sri-Lanka-2024-old-match-card.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9OZXctWmVhbGFuZC10b3VyLW9mLVNyaS1MYW5rYS0yMDI0LW9sZC1tYXRjaC1jYXJkLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "stream_link": "https://pubads.g.doubleclick.net/ssai/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8"
     },
     {
       "event_catagory": "football",
