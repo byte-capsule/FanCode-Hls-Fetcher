@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "18-09-2024 on 2:13:05 PM \ud83c\udf1e",
+  "total_mathes": 5,
+  "last_upaded": "18-09-2024 on 2:32:09 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,18 +15,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USA@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/108405_3908_UAE_USA_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS8xMDg0MDVfMzkwOF9VQUVfVVNBX2ZjLXdlYi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
       "stream_link": "https://dai.google.com/linear/hls/event/-ceHsha8Td6dlSPA6fa49Q/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Uttarakhand Women's T20 League, 2024",
-      "match_id": 109043,
-      "match_name": "Pithoragarh Hurricanes Women vs Nainital SG Pipers Women",
-      "team_1": "Pithoragarh Hurricanes Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PITU@2x.png",
-      "team_2": "Nainital SG Pipers Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NANU@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/UXr0a2jjSq-iLtT3Ldjnug/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -55,14 +43,14 @@
     {
       "event_catagory": "cricket",
       "event_name": "ECS Croatia, 2024",
-      "match_id": 108613,
-      "match_name": "Zagreb Assassins vs Afyonkarahisar SHS",
-      "team_1": "Zagreb Assassins",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZAGR@2x.png",
-      "team_2": "Afyonkarahisar SHS",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/AFK-CR1@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/108613_4474_AFK_ZA_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODYxM180NDc0X0FGS19aQV9mYy13ZWIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
-      "stream_link": "https://dai.google.com/linear/hls/event/XcjMcosWSKK1TR0yrGlNGA/master.m3u8"
+      "match_id": 108614,
+      "match_name": "Ljubljana vs Belgrade",
+      "team_1": "Ljubljana",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LLUBJ@2x.png",
+      "team_2": "Belgrade",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/BEL-CR3@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/108614_4474_LJU_BEL_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODYxNF80NDc0X0xKVV9CRUxfZmMtd2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "stream_link": "https://dai.google.com/linear/hls/event/YjD1ieSiSbi3OYK7F1EcMg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
