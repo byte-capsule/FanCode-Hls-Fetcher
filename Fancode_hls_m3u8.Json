@@ -2,20 +2,8 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 9,
-  "last_upaded": "19-09-2024 on 5:42:11 PM \ud83c\udf1e",
+  "last_upaded": "19-09-2024 on 6:18:49 PM \ud83c\udf19",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECS Croatia, 2024",
-      "match_id": 108620,
-      "match_name": "Zagreb Sokol vs Belgrade",
-      "team_1": "Zagreb Sokol",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZAGSK@2x.png",
-      "team_2": "Belgrade",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/BEL-CR3@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/108620_4474_ZAS_BEL_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODYyMF80NDc0X1pBU19CRUxfZmMtd2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
-      "stream_link": "https://dai.google.com/linear/hls/event/dF6FblNNTmeqyVD29Pl5zQ/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Patanjali Uttarakhand Premier League, 2024",
@@ -67,38 +55,38 @@
     {
       "event_catagory": "football",
       "event_name": "AFC Champions League Two 2024-25",
-      "match_id": 108807,
-      "match_name": "Muangthong United vs Selangor",
-      "team_1": "Muangthong United",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MUA@2x.png",
-      "team_2": "Selangor",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SEL@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/108807_4476_MUA_SEL_FC-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODgwN180NDc2X01VQV9TRUxfRkMtd2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
-      "stream_link": "https://dai.google.com/linear/hls/event/g4flE7jBTi-UkRB-3gz1EA/master.m3u8"
+      "match_id": 108808,
+      "match_name": "Dynamic Herb Cebu vs Jeonbuk Motors",
+      "team_1": "Dynamic Herb Cebu",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-DYH@2x.png",
+      "team_2": "Jeonbuk Motors",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-JNB@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/108808_4476_DHC_JNB_FC-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODgwOF80NDc2X0RIQ19KTkJfRkMtd2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "stream_link": "https://dai.google.com/linear/hls/event/VV6bXfNUSga1ZYuhm8FK2Q/master.m3u8"
     },
     {
       "event_catagory": "football",
       "event_name": "AFC Champions League Two 2024-25",
-      "match_id": 108772,
-      "match_name": "Sydney FC vs Eastern SC",
-      "team_1": "Sydney FC",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYDA@2x.png",
-      "team_2": "Eastern SC",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ECS@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/108772_4476_SYD_ESC_FC-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODc3Ml80NDc2X1NZRF9FU0NfRkMtd2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
-      "stream_link": "https://dai.google.com/linear/hls/event/yLfQkxopRD-jpd3L828XtQ/master.m3u8"
+      "match_id": 108784,
+      "match_name": "Lion City Sailors vs Zhejiang",
+      "team_1": "Lion City Sailors",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LIONC@2x.png",
+      "team_2": "Zhejiang",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ZHEJ@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/108784_4476_LIO_ZHP_FC-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODc4NF80NDc2X0xJT19aSFBfRkMtd2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "stream_link": "https://dai.google.com/linear/hls/event/WvwuTAWOSYCGmeAF575V2w/master.m3u8"
     },
     {
       "event_catagory": "football",
       "event_name": "AFC Champions League Two 2024-25",
-      "match_id": 108771,
-      "match_name": "Sanfrecce Hiroshima vs Kaya",
-      "team_1": "Sanfrecce Hiroshima",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHI@2x.png",
-      "team_2": "Kaya",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KAYA@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/108771_4476_HIR_KAYA_FC-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODc3MV80NDc2X0hJUl9LQVlBX0ZDLXdlYi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
-      "stream_link": "https://dai.google.com/linear/hls/event/1yFEXBOXTTKlI0K1yFbfIA/master.m3u8"
+      "match_id": 108783,
+      "match_name": "Persib Bandung vs Port",
+      "team_1": "Persib Bandung",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PER@2x.png",
+      "team_2": "Port",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/POR-FT3@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/108783_4476_PER_POR_FC-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODc4M180NDc2X1BFUl9QT1JfRkMtd2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "stream_link": "https://dai.google.com/linear/hls/event/CP_ml6R3Q5GagbD5vAv2rA/master.m3u8"
     },
     {
       "event_catagory": "golf",
@@ -111,6 +99,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/BMW-PGA-Championship_Old_match-card.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9CTVctUEdBLUNoYW1waW9uc2hpcF9PbGRfbWF0Y2gtY2FyZC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
       "stream_link": "https://dai.google.com/linear/hls/event/Uo7C80SmTUyNGFjq5P4AXw/master.m3u8"
+    },
+    {
+      "event_catagory": "golf",
+      "event_name": "La Sella Open",
+      "match_id": 109310,
+      "match_name": "Day 1",
+      "team_1": "Day 1",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LSO@2x.png",
+      "team_2": "La Sella Golf, Spain",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/La-Sella-Open_Old_match-card.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9MYS1TZWxsYS1PcGVuX09sZF9tYXRjaC1jYXJkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "stream_link": "https://dai.google.com/linear/hls/event/MB27TvFnSDSAe8H3XBZi4Q/master.m3u8"
     }
   ]
 }
