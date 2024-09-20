@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "20-09-2024 on 6:18:28 PM \ud83c\udf19",
+  "total_mathes": 8,
+  "last_upaded": "20-09-2024 on 6:51:56 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -42,6 +42,18 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "Afghanistan v South Africa in UAE, 2024",
+      "match_id": 107776,
+      "match_name": "Afghanistan vs South Africa",
+      "team_1": "Afghanistan",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFG@2x.png",
+      "team_2": "South Africa",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/Afghanistan-and-South-Africa-tour-of-UAE-ODI-old-match-card.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9BZmdoYW5pc3Rhbi1hbmQtU291dGgtQWZyaWNhLXRvdXItb2YtVUFFLU9ESS1vbGQtbWF0Y2gtY2FyZC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
+      "stream_link": "https://dai.google.com/linear/hls/event/uVMTa29RS-eHJqd-0RSpgA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "New Zealand tour of Sri Lanka, 2024",
       "match_id": 107928,
       "match_name": "Sri Lanka vs New Zealand",
@@ -53,16 +65,16 @@
       "stream_link": "https://pubads.g.doubleclick.net/ssai/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8"
     },
     {
-      "event_catagory": "cricket",
-      "event_name": "Afghanistan v South Africa in UAE, 2024",
-      "match_id": 107776,
-      "match_name": "Afghanistan vs South Africa",
-      "team_1": "Afghanistan",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFG@2x.png",
-      "team_2": "South Africa",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/Afghanistan-and-South-Africa-tour-of-UAE-ODI-old-match-card.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9BZmdoYW5pc3Rhbi1hbmQtU291dGgtQWZyaWNhLXRvdXItb2YtVUFFLU9ESS1vbGQtbWF0Y2gtY2FyZC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
-      "stream_link": "https://dai.google.com/linear/hls/event/uVMTa29RS-eHJqd-0RSpgA/master.m3u8"
+      "event_catagory": "formula1",
+      "event_name": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX",
+      "match_id": 95223,
+      "match_name": "Practice 2",
+      "team_1": "Practice 2",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+      "team_2": "Singapore",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/F1-Singapore-GP-OLD1.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9GMS1TaW5nYXBvcmUtR1AtT0xEMS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
+      "stream_link": "https://d15w2y02rcjjcs.cloudfront.net/out/v1/de87da786aa345c8847878aef5351833/index.m3u8"
     },
     {
       "event_catagory": "golf",
