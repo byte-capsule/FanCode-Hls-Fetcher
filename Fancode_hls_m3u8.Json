@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "20-09-2024 on 4:33:42 PM \ud83c\udf1e",
+  "total_mathes": 5,
+  "last_upaded": "20-09-2024 on 4:43:47 PM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECS Croatia, 2024",
-      "match_id": 108624,
-      "match_name": "Zagreb Assassins vs Ljubljana",
-      "team_1": "Zagreb Assassins",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZAGR@2x.png",
-      "team_2": "Ljubljana",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LLUBJ@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/108597_4474_LJU_ZA_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODU5N180NDc0X0xKVV9aQV9mYy13ZWIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
-      "stream_link": "https://dai.google.com/linear/hls/event/FH6o_hr4T4uUP_TTY1Uc3A/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "ICC CWC League 2, 2023-27",
@@ -63,18 +51,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GREE@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/ECI-W-Greece-Spain-2024-old-match-card-op-2.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9FQ0ktVy1HcmVlY2UtU3BhaW4tMjAyNC1vbGQtbWF0Y2gtY2FyZC1vcC0yLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
       "stream_link": "https://dai.google.com/linear/hls/event/DvuALtj4QgyH0QVljFqW3Q/master.m3u8"
-    },
-    {
-      "event_catagory": "formula1",
-      "event_name": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX",
-      "match_id": 95222,
-      "match_name": "Practice 1",
-      "team_1": "Practice 1",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
-      "team_2": "Singapore",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/F1-Singapore-GP-OLD1.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9GMS1TaW5nYXBvcmUtR1AtT0xEMS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
-      "stream_link": "https://d3j0pw0zo4ypun.cloudfront.net/out/v1/b2a5e00317624a73912c8cf972520d3a/index.m3u8"
     },
     {
       "event_catagory": "golf",
