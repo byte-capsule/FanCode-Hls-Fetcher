@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 9,
-  "last_upaded": "20-09-2024 on 9:10:24 PM \ud83c\udf19",
+  "total_mathes": 10,
+  "last_upaded": "20-09-2024 on 9:30:17 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -99,6 +99,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/New-Zealand-tour-of-Sri-Lanka-2024-old-match-card.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9OZXctWmVhbGFuZC10b3VyLW9mLVNyaS1MYW5rYS0yMDI0LW9sZC1tYXRjaC1jYXJkLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
       "stream_link": "https://pubads.g.doubleclick.net/ssai/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8"
+    },
+    {
+      "event_catagory": "mma",
+      "event_name": "Professional Fighters League",
+      "match_id": 108474,
+      "match_name": "PFL Mena",
+      "team_1": "PFL Mena",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/mma-flags/FC-PM@2x.png",
+      "team_2": "Riyadh, Saudi Arabia",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/mma-flags/FC-LOC@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/PFL-Mena-Old.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9QRkwtTWVuYS1PbGQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "stream_link": "https://liveauth.fancode.com/primary/108474_english_hls_5688adfreeta-di/index.m3u8"
     },
     {
       "event_catagory": "golf",
