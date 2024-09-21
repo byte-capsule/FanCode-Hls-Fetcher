@@ -1,9 +1,21 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 8,
-  "last_upaded": "21-09-2024 on 7:42:20 PM \ud83c\udf19",
+  "total_mathes": 9,
+  "last_upaded": "21-09-2024 on 8:08:04 PM \ud83c\udf19",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "Caribbean Premier League, 2024",
+      "match_id": 104226,
+      "match_name": "Barbados Royals vs Saint Lucia Kings",
+      "team_1": "Barbados Royals",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BROL@2x.png",
+      "team_2": "Saint Lucia Kings",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KIGS@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/08/104226_4287_SLK_BR_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOC8xMDQyMjZfNDI4N19TTEtfQlJfZmMtd2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "stream_link": "https://dai.google.com/linear/hls/event/RzarBWBRS1OwWrSirdl5Ow/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "ECI Croatia-Slovenia, 2024",
@@ -53,16 +65,28 @@
       "stream_link": "https://pubads.g.doubleclick.net/ssai/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8"
     },
     {
+      "event_catagory": "cricket",
+      "event_name": "Uttarakhand Women's T20 League, 2024",
+      "match_id": 109046,
+      "match_name": "Nainital SG Pipers Women vs Mussoorie Thunders Women",
+      "team_1": "Nainital SG Pipers Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NANU@2x.png",
+      "team_2": "Mussoorie Thunders Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MTU@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/arn2M9R1Q6aYZc4zW9ulNA/master.m3u8"
+    },
+    {
       "event_catagory": "football",
-      "event_name": "Chinese Super League 2024",
-      "match_id": 106176,
-      "match_name": "Shanghai Shenhua vs Tianjin Jinmen Tiger",
-      "team_1": "Shanghai Shenhua",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHENUA@2x.png",
-      "team_2": "Tianjin Jinmen Tiger",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-TJM@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/SHN_TJT__Old_fc_web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL1NITl9USlRfX09sZF9mY193ZWIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
-      "stream_link": "https://liveauth.fancode.com/primary/106176_english_hls_5035adfreeta-di/index.m3u8"
+      "event_name": "EFL Championship 2024-25",
+      "match_id": 106283,
+      "match_name": "Luton Town vs Sheffield Wednesday",
+      "team_1": "Luton Town",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LUTT@2x.png",
+      "team_2": "Sheffield Wednesday",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHFW@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/106283_4352_LUT_SHFF_fc-web_1723042859498.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwNjI4M180MzUyX0xVVF9TSEZGX2ZjLXdlYl8xNzIzMDQyODU5NDk4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "stream_link": "https://dai.google.com/linear/hls/event/4lznC9V_QMO2LUHfCGCGYg/master.m3u8"
     },
     {
       "event_catagory": "formula1",
@@ -87,18 +111,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/BMW-PGA-Championship_Old_match-card.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9CTVctUEdBLUNoYW1waW9uc2hpcF9PbGRfbWF0Y2gtY2FyZC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
       "stream_link": "https://dai.google.com/linear/hls/event/Bot8VAD7QDyDIO8obVFUzw/master.m3u8"
-    },
-    {
-      "event_catagory": "golf",
-      "event_name": "La Sella Open",
-      "match_id": 109312,
-      "match_name": "Day 3",
-      "team_1": "Day 3",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LSO@2x.png",
-      "team_2": "La Sella Golf, Spain",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/La-Sella-Open_Old_match-card.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9MYS1TZWxsYS1PcGVuX09sZF9tYXRjaC1jYXJkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
-      "stream_link": "https://dai.google.com/linear/hls/event/TpCYwithTaithrgll-g7sg/master.m3u8"
     }
   ]
 }
