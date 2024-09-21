@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "21-09-2024 on 3:09:23 PM \ud83c\udf1e",
+  "total_mathes": 7,
+  "last_upaded": "21-09-2024 on 3:42:21 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,18 +15,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CROA@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/cms-media/ECI-Croatia-Slovenia_2024_Old_match-card-(1).jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL0VDSS1Dcm9hdGlhLVNsb3ZlbmlhXzIwMjRfT2xkX21hdGNoLWNhcmQtKDEpLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
       "stream_link": "https://dai.google.com/linear/hls/event/ZsRXHGjQS-2PkKC5cIApLg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier A",
-      "match_id": 108120,
-      "match_name": "Malawi vs Lesotho",
-      "team_1": "Malawi",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALA@2x.png",
-      "team_2": "Lesotho",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LES@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/WcGBkKQHTDyCO9HvJ2NCDQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -63,6 +51,42 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GREE@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/ECN-Greece-Spain-T20IW-2024-old-match-card.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9FQ04tR3JlZWNlLVNwYWluLVQyMElXLTIwMjQtb2xkLW1hdGNoLWNhcmQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
       "stream_link": "https://dai.google.com/linear/hls/event/zOL7e7hIQM2y_0LDDeBUGQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Patanjali Uttarakhand Premier League, 2024",
+      "match_id": 109040,
+      "match_name": "Pithoragarh Hurricanes vs Nainital SG Pipers",
+      "team_1": "Pithoragarh Hurricanes",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PITU@2x.png",
+      "team_2": "Nainital SG Pipers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NANU@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/109039_4486_PIC_NAN_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwOTAzOV80NDg2X1BJQ19OQU5fZmMtd2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "stream_link": "https://dai.google.com/linear/hls/event/nnz-DRUUTrS730qnwYUIUg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Legends League Cricket, 2024",
+      "match_id": 109282,
+      "match_name": "India Capitals vs Toyam Hyderabad",
+      "team_1": "India Capitals",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ICTL@2x.png",
+      "team_2": "Toyam Hyderabad",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THY@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/India-Capitals-VS-Toyam-Hyderabad_LLC_Old_matchcard.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL0luZGlhLUNhcGl0YWxzLVZTLVRveWFtLUh5ZGVyYWJhZF9MTENfT2xkX21hdGNoY2FyZC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
+      "stream_link": "https://dai.google.com/linear/hls/event/dWItTqrfRVu4lwlFi3Xfag/master.m3u8"
+    },
+    {
+      "event_catagory": "formula1",
+      "event_name": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX",
+      "match_id": 95224,
+      "match_name": "Practice 3",
+      "team_1": "Practice 3",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+      "team_2": "Singapore",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/F1-Singapore-GP-OLD1.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9GMS1TaW5nYXBvcmUtR1AtT0xEMS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
+      "stream_link": "https://dniqjtsv4utbo.cloudfront.net/out/v1/03c9785743614f588b8cc31d5cc30ea0/index.m3u8"
     }
   ]
 }
