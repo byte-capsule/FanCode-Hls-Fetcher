@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 8,
-  "last_upaded": "21-09-2024 on 9:10:15 PM \ud83c\udf19",
+  "total_mathes": 7,
+  "last_upaded": "21-09-2024 on 9:29:34 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,18 +15,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KIGS@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/08/104226_4287_SLK_BR_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOC8xMDQyMjZfNDI4N19TTEtfQlJfZmMtd2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
       "stream_link": "https://dai.google.com/linear/hls/event/RzarBWBRS1OwWrSirdl5Ow/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECI Croatia-Slovenia, 2024",
-      "match_id": 109451,
-      "match_name": "Croatia vs Slovenia",
-      "team_1": "Croatia",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CROA@2x.png",
-      "team_2": "Slovenia",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SLO@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/ECI-Croatia-Slovenia_2024_Old_match-card-(1).jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL0VDSS1Dcm9hdGlhLVNsb3ZlbmlhXzIwMjRfT2xkX21hdGNoLWNhcmQtKDEpLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
-      "stream_link": "https://dai.google.com/linear/hls/event/2in0Ak0bRWi52gUlhc09rg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -77,6 +65,18 @@
       "stream_link": "https://dai.google.com/linear/hls/event/arn2M9R1Q6aYZc4zW9ulNA/master.m3u8"
     },
     {
+      "event_catagory": "cricket",
+      "event_name": "Minor League Cricket, 2024",
+      "match_id": 107853,
+      "match_name": "Chicago Tigers vs St Louis Americans",
+      "team_1": "Chicago Tigers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CHTI@2x.png",
+      "team_2": "St Louis Americans",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-STAM@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/08/Minor-League-Cricket-old-match-card-3.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOC9NaW5vci1MZWFndWUtQ3JpY2tldC1vbGQtbWF0Y2gtY2FyZC0zLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "stream_link": "https://dai.google.com/linear/hls/event/hpZaWlXWT0it2yx-F6SY7A/master.m3u8"
+    },
+    {
       "event_catagory": "football",
       "event_name": "EFL Championship 2024-25",
       "match_id": 106283,
@@ -87,18 +87,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHFW@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/cms-media/106283_4352_LUT_SHFF_fc-web_1723042859498.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwNjI4M180MzUyX0xVVF9TSEZGX2ZjLXdlYl8xNzIzMDQyODU5NDk4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
       "stream_link": "https://dai.google.com/linear/hls/event/4lznC9V_QMO2LUHfCGCGYg/master.m3u8"
-    },
-    {
-      "event_catagory": "golf",
-      "event_name": "BMW PGA Championship",
-      "match_id": 109308,
-      "match_name": "Day 3",
-      "team_1": "Day 3",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-BC@2x.png",
-      "team_2": "Wentworth Club, England",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/BMW-PGA-Championship_Old_match-card.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9CTVctUEdBLUNoYW1waW9uc2hpcF9PbGRfbWF0Y2gtY2FyZC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
-      "stream_link": "https://dai.google.com/linear/hls/event/Bot8VAD7QDyDIO8obVFUzw/master.m3u8"
     }
   ]
 }
