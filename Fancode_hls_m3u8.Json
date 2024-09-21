@@ -1,9 +1,21 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 2,
-  "last_upaded": "21-09-2024 on 0:45:48 PM \ud83c\udf1e",
+  "total_mathes": 6,
+  "last_upaded": "21-09-2024 on 1:08:59 PM \ud83c\udf1e",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier A",
+      "match_id": 108120,
+      "match_name": "Malawi vs Lesotho",
+      "team_1": "Malawi",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALA@2x.png",
+      "team_2": "Lesotho",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LES@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/WcGBkKQHTDyCO9HvJ2NCDQ/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "New Zealand tour of Sri Lanka, 2024",
@@ -18,15 +30,51 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier A",
-      "match_id": 108120,
-      "match_name": "Malawi vs Lesotho",
-      "team_1": "Malawi",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALA@2x.png",
-      "team_2": "Lesotho",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LES@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/WcGBkKQHTDyCO9HvJ2NCDQ/master.m3u8"
+      "event_name": "ECI Croatia-Slovenia, 2024",
+      "match_id": 109448,
+      "match_name": "Slovenia vs Croatia",
+      "team_1": "Slovenia",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SLO@2x.png",
+      "team_2": "Croatia",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CROA@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/ECI-Croatia-Slovenia_2024_Old_match-card-(1).jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL0VDSS1Dcm9hdGlhLVNsb3ZlbmlhXzIwMjRfT2xkX21hdGNoLWNhcmQtKDEpLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "stream_link": "https://dai.google.com/linear/hls/event/u-nNxxMtRX6o12My8pvxeQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Papua New Guinea tour of Uganda, 2024",
+      "match_id": 109257,
+      "match_name": "Uganda vs Papua New Guinea",
+      "team_1": "Uganda",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UGN@2x.png",
+      "team_2": "Papua New Guinea",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PNG@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/Papua-New-Guinea-tour-of-Uganda-2024-old-match-catd.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9QYXB1YS1OZXctR3VpbmVhLXRvdXItb2YtVWdhbmRhLTIwMjQtb2xkLW1hdGNoLWNhdGQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "stream_link": "https://dai.google.com/linear/hls/event/NYD8uK9vRt2mWl11KccoJg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ECN Greece-Spain T20IW, 2024",
+      "match_id": 109426,
+      "match_name": "Spain Women vs Greece Women",
+      "team_1": "Spain Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESP@2x.png",
+      "team_2": "Greece Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GREE@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/ECN-Greece-Spain-T20IW-2024-old-match-card.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9FQ04tR3JlZWNlLVNwYWluLVQyMElXLTIwMjQtb2xkLW1hdGNoLWNhcmQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "stream_link": "https://dai.google.com/linear/hls/event/zOL7e7hIQM2y_0LDDeBUGQ/master.m3u8"
+    },
+    {
+      "event_catagory": "racing",
+      "event_name": "F1 ACADEMY SINGAPORE 2024",
+      "match_id": 96857,
+      "match_name": "First Race",
+      "team_1": "First Race",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FA@2x.png",
+      "team_2": "Singapore",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/03/F1_Academy_Saudi_Old_match-card.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wMy9GMV9BY2FkZW15X1NhdWRpX09sZF9tYXRjaC1jYXJkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "stream_link": "https://d2tepum918dlt4.cloudfront.net/out/v1/158da15b3334402398bff24172b53d7c/index.m3u8"
     }
   ]
 }
