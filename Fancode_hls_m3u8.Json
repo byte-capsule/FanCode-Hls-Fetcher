@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 13,
-  "last_upaded": "21-09-2024 on 7:13:50 PM \ud83c\udf19",
+  "total_mathes": 10,
+  "last_upaded": "21-09-2024 on 7:29:14 PM \ud83c\udf19",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECI Croatia-Slovenia, 2024",
-      "match_id": 109450,
-      "match_name": "Slovenia vs Croatia",
-      "team_1": "Slovenia",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SLO@2x.png",
-      "team_2": "Croatia",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CROA@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/ECI-Croatia-Slovenia_2024_Old_match-card-(1).jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL0VDSS1Dcm9hdGlhLVNsb3ZlbmlhXzIwMjRfT2xkX21hdGNoLWNhcmQtKDEpLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
-      "stream_link": "https://dai.google.com/linear/hls/event/7s96p6-7RIWKfcOUK4vvag/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "ECN Greece-Spain T20IW, 2024",
@@ -27,18 +15,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESP@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/ECN-Greece-Spain-T20IW-2024-old-match-card-op-2.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9FQ04tR3JlZWNlLVNwYWluLVQyMElXLTIwMjQtb2xkLW1hdGNoLWNhcmQtb3AtMi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
       "stream_link": "https://dai.google.com/linear/hls/event/C76zubQASOmNlmoL9GzCfQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Patanjali Uttarakhand Premier League, 2024",
-      "match_id": 109040,
-      "match_name": "Pithoragarh Hurricanes vs Nainital SG Pipers",
-      "team_1": "Pithoragarh Hurricanes",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PITU@2x.png",
-      "team_2": "Nainital SG Pipers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NANU@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/109039_4486_PIC_NAN_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwOTAzOV80NDg2X1BJQ19OQU5fZmMtd2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
-      "stream_link": "https://dai.google.com/linear/hls/event/nnz-DRUUTrS730qnwYUIUg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -99,18 +75,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JBT@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/cms-media/109159_4493_DB_JBL_fc-web_1726824494291.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwOTE1OV80NDkzX0RCX0pCTF9mYy13ZWJfMTcyNjgyNDQ5NDI5MS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
       "stream_link": "https://dai.google.com/linear/hls/event/giPqUUqWQQWGWuhGngu43A/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "EFL Championship 2024-25",
-      "match_id": 106286,
-      "match_name": "Sunderland vs Middlesbrough",
-      "team_1": "Sunderland",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SUNDL@2x.png",
-      "team_2": "Middlesbrough",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MIDDB@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/106286_4352_SUN_MIDD_fc-web_1723042859308.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwNjI4Nl80MzUyX1NVTl9NSUREX2ZjLXdlYl8xNzIzMDQyODU5MzA4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
-      "stream_link": "https://dai.google.com/linear/hls/event/k2CcABoZQ7yy1I7L_r23tA/master.m3u8"
     },
     {
       "event_catagory": "football",
