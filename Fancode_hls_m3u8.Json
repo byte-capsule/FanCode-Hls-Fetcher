@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "22-09-2024 on 3:42:13 PM \ud83c\udf1e",
+  "total_mathes": 7,
+  "last_upaded": "22-09-2024 on 4:09:52 PM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier A",
-      "match_id": 108124,
-      "match_name": "Malawi vs Ghana",
-      "team_1": "Malawi",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALA@2x.png",
-      "team_2": "Ghana",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GHAN@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/oljI6PeQTQq0a5-OKYl3Ow/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "ECI-W Croatia-Czechia, 2024",
@@ -54,6 +42,18 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "Legends League Cricket, 2024",
+      "match_id": 109283,
+      "match_name": "Toyam Hyderabad vs Gujarat Greats",
+      "team_1": "Toyam Hyderabad",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THY@2x.png",
+      "team_2": "Gujarat Greats",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GJC@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/Toyam-Hyderabad-VS-Gujarat-Greats_LLC_Old_matchcard.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL1RveWFtLUh5ZGVyYWJhZC1WUy1HdWphcmF0LUdyZWF0c19MTENfT2xkX21hdGNoY2FyZC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
+      "stream_link": "https://dai.google.com/linear/hls/event/8BJvhb0KTqCWaWf70X45yg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "New Zealand tour of Sri Lanka, 2024",
       "match_id": 107928,
       "match_name": "Sri Lanka vs New Zealand",
@@ -65,16 +65,28 @@
       "stream_link": "https://pubads.g.doubleclick.net/ssai/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8"
     },
     {
-      "event_catagory": "cricket",
-      "event_name": "Legends League Cricket, 2024",
-      "match_id": 109283,
-      "match_name": "Toyam Hyderabad vs Gujarat Greats",
-      "team_1": "Toyam Hyderabad",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THY@2x.png",
-      "team_2": "Gujarat Greats",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GJC@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/Toyam-Hyderabad-VS-Gujarat-Greats_LLC_Old_matchcard.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL1RveWFtLUh5ZGVyYWJhZC1WUy1HdWphcmF0LUdyZWF0c19MTENfT2xkX21hdGNoY2FyZC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
-      "stream_link": "https://dai.google.com/linear/hls/event/8BJvhb0KTqCWaWf70X45yg/master.m3u8"
+      "event_catagory": "football",
+      "event_name": "J League 2024",
+      "match_id": 108093,
+      "match_name": "Kyoto Sanga vs Gamba Osaka",
+      "team_1": "Kyoto Sanga",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KSN@2x.png",
+      "team_2": "Gamba Osaka",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GOS@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL0Zvb3RiYWxsX0ZhbGxiYWNrX09sZF9tYXRjaC1jYXJkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "stream_link": "https://liveauth.fancode.com/primary/108093_english_hls_5145adfreeta-no/index.m3u8"
+    },
+    {
+      "event_catagory": "formula1",
+      "event_name": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX",
+      "match_id": 95226,
+      "match_name": "Race",
+      "team_1": "Race",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+      "team_2": "Singapore",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/F1-Singapore-GP-OLD1.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9GMS1TaW5nYXBvcmUtR1AtT0xEMS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
+      "stream_link": "https://dai.google.com/linear/hls/event/k535bgOBREGOo4uVbXSBsQ/master.m3u8"
     }
   ]
 }
