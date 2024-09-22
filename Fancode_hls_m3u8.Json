@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "22-09-2024 on 2:43:48 PM \ud83c\udf1e",
+  "total_mathes": 6,
+  "last_upaded": "22-09-2024 on 3:09:27 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -18,18 +18,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "ICC CWC League 2, 2023-27",
-      "match_id": 108407,
-      "match_name": "Namibia vs USA",
-      "team_1": "Namibia",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAM@2x.png",
-      "team_2": "USA",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USA@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/108407_3908_NAM_USA_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS8xMDg0MDdfMzkwOF9OQU1fVVNBX2ZjLXdlYi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
-      "stream_link": "https://dai.google.com/linear/hls/event/BUD2slY-Qw-W9bLUCqTzEA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "ECI-W Croatia-Czechia, 2024",
       "match_id": 109596,
       "match_name": "Croatia Women vs Czechia Women",
@@ -39,6 +27,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CZR@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/cms-media/ECI-W-Croatia-Czechia_Old_match-card_1726975537479.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL0VDSS1XLUNyb2F0aWEtQ3plY2hpYV9PbGRfbWF0Y2gtY2FyZF8xNzI2OTc1NTM3NDc5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
       "stream_link": "https://dai.google.com/linear/hls/event/pgVjpzQBT-KHNa_GkbWR1Q/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC CWC League 2, 2023-27",
+      "match_id": 108407,
+      "match_name": "Namibia vs USA",
+      "team_1": "Namibia",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAM@2x.png",
+      "team_2": "USA",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USA@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/108407_3908_NAM_USA_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS8xMDg0MDdfMzkwOF9OQU1fVVNBX2ZjLXdlYi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
+      "stream_link": "https://dai.google.com/linear/hls/event/BUD2slY-Qw-W9bLUCqTzEA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -75,18 +75,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESP@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/ECN-Greece-Spain-T20IW-2024-old-match-card.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9FQ04tR3JlZWNlLVNwYWluLVQyMElXLTIwMjQtb2xkLW1hdGNoLWNhcmQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
       "stream_link": "https://dai.google.com/linear/hls/event/C3_SSamQSaWuYXA9Lyy-Dg/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "J League 2024",
-      "match_id": 108092,
-      "match_name": "Nagoya Grampus vs Kawasaki Frontale",
-      "team_1": "Nagoya Grampus",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NGR@2x.png",
-      "team_2": "Kawasaki Frontale",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KAFRON@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/108092_3921_NGY_KAW_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODA5Ml8zOTIxX05HWV9LQVdfZmMtd2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
-      "stream_link": "https://liveauth.fancode.com/primary/108092_english_hls_4481adfreeta-di/index.m3u8"
     }
   ]
 }
