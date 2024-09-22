@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 11,
-  "last_upaded": "22-09-2024 on 7:42:23 PM \ud83c\udf19",
+  "total_mathes": 9,
+  "last_upaded": "22-09-2024 on 8:29:22 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -18,15 +18,15 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier A",
-      "match_id": 108125,
-      "match_name": "Tanzania vs Lesotho",
-      "team_1": "Tanzania",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TNZN@2x.png",
-      "team_2": "Lesotho",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LES@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/JWoci8JGS1Cy7RIAWIlChw/master.m3u8"
+      "event_name": "Caribbean Premier League, 2024",
+      "match_id": 104228,
+      "match_name": "Saint Lucia Kings vs Barbados Royals",
+      "team_1": "Saint Lucia Kings",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KIGS@2x.png",
+      "team_2": "Barbados Royals",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BROL@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/08/104228_4287_BR_SLK_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOC8xMDQyMjhfNDI4N19CUl9TTEtfZmMtd2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "stream_link": "https://dai.google.com/linear/hls/event/28y3xpzkQ2qZ7L6F4tlxXA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -54,18 +54,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Papua New Guinea tour of Uganda, 2024",
-      "match_id": 109258,
-      "match_name": "Uganda vs Papua New Guinea",
-      "team_1": "Uganda",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UGN@2x.png",
-      "team_2": "Papua New Guinea",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PNG@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/Papua-New-Guinea-tour-of-Uganda-2024-old-match-catd.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9QYXB1YS1OZXctR3VpbmVhLXRvdXItb2YtVWdhbmRhLTIwMjQtb2xkLW1hdGNoLWNhdGQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
-      "stream_link": "https://dai.google.com/linear/hls/event/B_brf6YkQl2GHdGkUYx3GA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "Afghanistan v South Africa in UAE, 2024",
       "match_id": 107777,
       "match_name": "Afghanistan vs South Africa",
@@ -89,28 +77,16 @@
       "stream_link": "https://pubads.g.doubleclick.net/ssai/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8"
     },
     {
-      "event_catagory": "football",
-      "event_name": "Chinese Super League 2024",
-      "match_id": 106177,
-      "match_name": "Zhejiang vs Cangzhou Mighty Lions",
-      "team_1": "Zhejiang",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ZHEJ@2x.png",
-      "team_2": "Cangzhou Mighty Lions",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CANG@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/ZFC_CML_Old_fc_web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL1pGQ19DTUxfT2xkX2ZjX3dlYi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
-      "stream_link": "https://liveauth.fancode.com/primary/106177_english_hls_4735adfreeta-di/index.m3u8"
-    },
-    {
-      "event_catagory": "formula1",
-      "event_name": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX",
-      "match_id": 95226,
-      "match_name": "Race",
-      "team_1": "Race",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
-      "team_2": "Singapore",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/F1-Singapore-GP-OLD1.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9GMS1TaW5nYXBvcmUtR1AtT0xEMS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
-      "stream_link": "https://dai.google.com/linear/hls/event/k535bgOBREGOo4uVbXSBsQ/master.m3u8"
+      "event_catagory": "cricket",
+      "event_name": "Patanjali Uttarakhand Premier League, 2024",
+      "match_id": 109041,
+      "match_name": "USN Indians vs Nainital SG Pipers",
+      "team_1": "USN Indians",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UI@2x.png",
+      "team_2": "Nainital SG Pipers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NANU@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL0NyaWNrZXRfRmFsbGJhY2tfT2xkX21hdGNoLWNhcmQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "stream_link": "https://dai.google.com/linear/hls/event/i-GmFDoATeWFSb_ZlmbDIA/master.m3u8"
     },
     {
       "event_catagory": "golf",
