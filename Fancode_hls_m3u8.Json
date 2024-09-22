@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 8,
-  "last_upaded": "22-09-2024 on 2:31:55 PM \ud83c\udf1e",
+  "total_mathes": 7,
+  "last_upaded": "22-09-2024 on 2:43:48 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,18 +15,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GHAN@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
       "stream_link": "https://dai.google.com/linear/hls/event/oljI6PeQTQq0a5-OKYl3Ow/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier A",
-      "match_id": 108123,
-      "match_name": "Mali vs Cameroon",
-      "team_1": "Mali",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAI@2x.png",
-      "team_2": "Cameroon",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAME@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/OGDeFXfsSdqVFPi2HsXNFA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -43,14 +31,14 @@
     {
       "event_catagory": "cricket",
       "event_name": "ECI-W Croatia-Czechia, 2024",
-      "match_id": 109595,
-      "match_name": "Czechia Women vs Croatia Women",
-      "team_1": "Czechia Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CZR@2x.png",
-      "team_2": "Croatia Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CROA@2x.png",
-      "banner": "https://images.fancode.com/aig/match/v1/109595_CASACARDS_APP.png?hash=eyJrZXkiOiJhaWcvbWF0Y2gvdjEvMTA5NTk1X0NBU0FDQVJEU19BUFAucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
-      "stream_link": "https://dai.google.com/linear/hls/event/APbWUePnR8K0508nFg6YeA/master.m3u8"
+      "match_id": 109596,
+      "match_name": "Croatia Women vs Czechia Women",
+      "team_1": "Croatia Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CROA@2x.png",
+      "team_2": "Czechia Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CZR@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/ECI-W-Croatia-Czechia_Old_match-card_1726975537479.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL0VDSS1XLUNyb2F0aWEtQ3plY2hpYV9PbGRfbWF0Y2gtY2FyZF8xNzI2OTc1NTM3NDc5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "stream_link": "https://dai.google.com/linear/hls/event/pgVjpzQBT-KHNa_GkbWR1Q/master.m3u8"
     },
     {
       "event_catagory": "cricket",
