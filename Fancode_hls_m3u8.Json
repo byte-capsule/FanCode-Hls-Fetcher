@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 11,
-  "last_upaded": "22-09-2024 on 5:42:10 PM \ud83c\udf1e",
+  "total_mathes": 13,
+  "last_upaded": "22-09-2024 on 6:16:49 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,6 +27,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CZR@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/cms-media/ECI-W-Croatia-Czechia_Old_match-card_1726975537479.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL0VDSS1XLUNyb2F0aWEtQ3plY2hpYV9PbGRfbWF0Y2gtY2FyZF8xNzI2OTc1NTM3NDc5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
       "stream_link": "https://dai.google.com/linear/hls/event/O_hirv5fR2iGvZJA1cmuIQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ECN Greece-Spain T20IW, 2024",
+      "match_id": 109429,
+      "match_name": "Greece Women vs Spain Women",
+      "team_1": "Greece Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GREE@2x.png",
+      "team_2": "Spain Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESP@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/ECN-Greece-Spain-T20IW-2024-old-match-card-op-2.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9FQ04tR3JlZWNlLVNwYWluLVQyMElXLTIwMjQtb2xkLW1hdGNoLWNhcmQtb3AtMi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
+      "stream_link": "https://dai.google.com/linear/hls/event/exdEbfIeShuBoZv02ROFjg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -78,27 +90,15 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "ECN Greece-Spain T20IW, 2024",
-      "match_id": 109429,
-      "match_name": "Greece Women vs Spain Women",
-      "team_1": "Greece Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GREE@2x.png",
-      "team_2": "Spain Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESP@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/ECN-Greece-Spain-T20IW-2024-old-match-card-op-2.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9FQ04tR3JlZWNlLVNwYWluLVQyMElXLTIwMjQtb2xkLW1hdGNoLWNhcmQtb3AtMi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
-      "stream_link": "https://dai.google.com/linear/hls/event/exdEbfIeShuBoZv02ROFjg/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "J League 2024",
-      "match_id": 108093,
-      "match_name": "Kyoto Sanga vs Gamba Osaka",
-      "team_1": "Kyoto Sanga",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KSN@2x.png",
-      "team_2": "Gamba Osaka",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GOS@2x.png",
-      "banner": "https://images.fancode.com/aig/match/v1/108093_CASACARDS_APP.png?hash=eyJrZXkiOiJhaWcvbWF0Y2gvdjEvMTA4MDkzX0NBU0FDQVJEU19BUFAucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
-      "stream_link": "https://liveauth.fancode.com/primary/108093_english_hls_5145adfreeta-no/index.m3u8"
+      "event_name": "Afghanistan v South Africa in UAE, 2024",
+      "match_id": 107777,
+      "match_name": "Afghanistan vs South Africa",
+      "team_1": "Afghanistan",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFG@2x.png",
+      "team_2": "South Africa",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/Afghanistan-and-South-Africa-tour-of-UAE-ODI-old-match-card.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9BZmdoYW5pc3Rhbi1hbmQtU291dGgtQWZyaWNhLXRvdXItb2YtVUFFLU9ESS1vbGQtbWF0Y2gtY2FyZC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
+      "stream_link": "https://dai.google.com/linear/hls/event/Ek_Vtm5jRaWpjVxANvOhng/master.m3u8"
     },
     {
       "event_catagory": "football",
@@ -111,6 +111,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BLKB@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/cms-media/106284_4352_PST_BLK_fc-web_1723042859880.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwNjI4NF80MzUyX1BTVF9CTEtfZmMtd2ViXzE3MjMwNDI4NTk4ODAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
       "stream_link": "https://dai.google.com/linear/hls/event/tNu0V9w1TTW8zII5mLl60Q/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "Chinese Super League 2024",
+      "match_id": 106177,
+      "match_name": "Zhejiang vs Cangzhou Mighty Lions",
+      "team_1": "Zhejiang",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ZHEJ@2x.png",
+      "team_2": "Cangzhou Mighty Lions",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CANG@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/ZFC_CML_Old_fc_web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL1pGQ19DTUxfT2xkX2ZjX3dlYi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
+      "stream_link": "https://liveauth.fancode.com/primary/106177_english_hls_4735adfreeta-di/index.m3u8"
     },
     {
       "event_catagory": "formula1",
@@ -135,6 +147,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/BMW-PGA-Championship_Old_match-card.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9CTVctUEdBLUNoYW1waW9uc2hpcF9PbGRfbWF0Y2gtY2FyZC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
       "stream_link": "https://dai.google.com/linear/hls/event/1-KN-rc-Szu6z6qQtL7NaQ/master.m3u8"
+    },
+    {
+      "event_catagory": "golf",
+      "event_name": "La Sella Open",
+      "match_id": 109313,
+      "match_name": "Day 4",
+      "team_1": "Day 4",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LSO@2x.png",
+      "team_2": "La Sella Golf, Spain",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/La-Sella-Open_Old_match-card.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9MYS1TZWxsYS1PcGVuX09sZF9tYXRjaC1jYXJkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "stream_link": "https://dai.google.com/linear/hls/event/P_Ng_hKOR3Se6y_BEGHEzA/master.m3u8"
     }
   ]
 }
