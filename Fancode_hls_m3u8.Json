@@ -1,68 +1,7 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "23-09-2024 on 00:12:00 AM \ud83c\udf19",
-  "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Zim Afro T10, 2024",
-      "match_id": 109164,
-      "match_name": "Bulawayo Brave Jaguars vs Cape Town Samp Army",
-      "team_1": "Bulawayo Brave Jaguars",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBJ@2x.png",
-      "team_2": "Cape Town Samp Army",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CTSA@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/109164_4493_BB_CTSA_fc-web_1726824494286.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwOTE2NF80NDkzX0JCX0NUU0FfZmMtd2ViXzE3MjY4MjQ0OTQyODYuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
-      "stream_link": "https://dai.google.com/linear/hls/event/LpKg1FglQ0GC3VhVW62QeA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Boland T10 League, 2024",
-      "match_id": 107662,
-      "match_name": "Stellenbosch Kings vs Paarl Rocks",
-      "team_1": "Stellenbosch Kings",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SKG@2x.png",
-      "team_2": "Paarl Rocks",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PR-CR1@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL0NyaWNrZXRfRmFsbGJhY2tfT2xkX21hdGNoLWNhcmQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
-      "stream_link": "https://dai.google.com/linear/hls/event/KCWTlsUZQg6HWOV9B2Q54w/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC CWC League 2, 2023-27",
-      "match_id": 108886,
-      "match_name": "Nepal vs Canada",
-      "team_1": "Nepal",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
-      "team_2": "Canada",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAN@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/108886_3908_NEP_CAN_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS8xMDg4ODZfMzkwOF9ORVBfQ0FOX2ZjLXdlYi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
-      "stream_link": "https://dai.google.com/linear/hls/event/VjXSd01kStW6f5dVDYNR6w/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "New Zealand tour of Sri Lanka, 2024",
-      "match_id": 107928,
-      "match_name": "Sri Lanka vs New Zealand",
-      "team_1": "Sri Lanka",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
-      "team_2": "New Zealand",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/New-Zealand-tour-of-Sri-Lanka-2024-old-match-card.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9OZXctWmVhbGFuZC10b3VyLW9mLVNyaS1MYW5rYS0yMDI0LW9sZC1tYXRjaC1jYXJkLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
-      "stream_link": "https://pubads.g.doubleclick.net/ssai/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8"
-    },
-    {
-      "event_catagory": "golf",
-      "event_name": "LIV Team Championship Dallas",
-      "match_id": 109380,
-      "match_name": "Day 3",
-      "team_1": "Day 3",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LM@2x.png",
-      "team_2": "Maridoe Golf Club, Dallas",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/LIV-Team-Championship-Dallas_old_Match_card.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9MSVYtVGVhbS1DaGFtcGlvbnNoaXAtRGFsbGFzX29sZF9NYXRjaF9jYXJkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
-      "stream_link": "https://dai.google.com/linear/hls/event/N9mm6m5SSkSunS09cuy5xw/master.m3u8"
-    }
-  ]
+  "total_mathes": 0,
+  "last_upaded": "23-09-2024 on 00:33:37 AM \ud83c\udf19",
+  "matches": []
 }
