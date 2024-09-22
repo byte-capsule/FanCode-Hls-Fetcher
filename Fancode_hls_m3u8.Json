@@ -1,9 +1,21 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "22-09-2024 on 4:42:10 PM \ud83c\udf1e",
+  "total_mathes": 10,
+  "last_upaded": "22-09-2024 on 5:07:47 PM \ud83c\udf1e",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier A",
+      "match_id": 108125,
+      "match_name": "Tanzania vs Lesotho",
+      "team_1": "Tanzania",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TNZN@2x.png",
+      "team_2": "Lesotho",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LES@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/JWoci8JGS1Cy7RIAWIlChw/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "ICC CWC League 2, 2023-27",
@@ -53,6 +65,18 @@
       "stream_link": "https://pubads.g.doubleclick.net/ssai/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8"
     },
     {
+      "event_catagory": "cricket",
+      "event_name": "ECN Greece-Spain T20IW, 2024",
+      "match_id": 109429,
+      "match_name": "Greece Women vs Spain Women",
+      "team_1": "Greece Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GREE@2x.png",
+      "team_2": "Spain Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESP@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/ECN-Greece-Spain-T20IW-2024-old-match-card-op-2.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9FQ04tR3JlZWNlLVNwYWluLVQyMElXLTIwMjQtb2xkLW1hdGNoLWNhcmQtb3AtMi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
+      "stream_link": "https://dai.google.com/linear/hls/event/exdEbfIeShuBoZv02ROFjg/master.m3u8"
+    },
+    {
       "event_catagory": "football",
       "event_name": "J League 2024",
       "match_id": 108093,
@@ -61,8 +85,20 @@
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KSN@2x.png",
       "team_2": "Gamba Osaka",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GOS@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL0Zvb3RiYWxsX0ZhbGxiYWNrX09sZF9tYXRjaC1jYXJkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "banner": "https://images.fancode.com/aig/match/v1/108093_CASACARDS_APP.png?hash=eyJrZXkiOiJhaWcvbWF0Y2gvdjEvMTA4MDkzX0NBU0FDQVJEU19BUFAucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
       "stream_link": "https://liveauth.fancode.com/primary/108093_english_hls_5145adfreeta-no/index.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "EFL Championship 2024-25",
+      "match_id": 106284,
+      "match_name": "Preston North End vs Blackburn Rovers",
+      "team_1": "Preston North End",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PREST@2x.png",
+      "team_2": "Blackburn Rovers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BLKB@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/106284_4352_PST_BLK_fc-web_1723042859880.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwNjI4NF80MzUyX1BTVF9CTEtfZmMtd2ViXzE3MjMwNDI4NTk4ODAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "stream_link": "https://dai.google.com/linear/hls/event/tNu0V9w1TTW8zII5mLl60Q/master.m3u8"
     },
     {
       "event_catagory": "formula1",
@@ -75,6 +111,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/F1-Singapore-GP-OLD1.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9GMS1TaW5nYXBvcmUtR1AtT0xEMS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
       "stream_link": "https://dai.google.com/linear/hls/event/k535bgOBREGOo4uVbXSBsQ/master.m3u8"
+    },
+    {
+      "event_catagory": "golf",
+      "event_name": "BMW PGA Championship",
+      "match_id": 109309,
+      "match_name": "Day 4",
+      "team_1": "Day 4",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-BC@2x.png",
+      "team_2": "Wentworth Club, England",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/BMW-PGA-Championship_Old_match-card.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9CTVctUEdBLUNoYW1waW9uc2hpcF9PbGRfbWF0Y2gtY2FyZC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
+      "stream_link": "https://dai.google.com/linear/hls/event/1-KN-rc-Szu6z6qQtL7NaQ/master.m3u8"
     }
   ]
 }
