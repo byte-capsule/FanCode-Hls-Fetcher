@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 2,
-  "last_upaded": "24-09-2024 on 1:10:04 PM \ud83c\udf1e",
+  "total_mathes": 3,
+  "last_upaded": "24-09-2024 on 1:27:07 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,6 +27,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LES@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
       "stream_link": "https://dai.google.com/linear/hls/event/6kqcjCDnTIC1SU1N3AzkAQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC CWC League 2, 2023-27",
+      "match_id": 108408,
+      "match_name": "USA vs United Arab Emirates",
+      "team_1": "USA",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USA@2x.png",
+      "team_2": "United Arab Emirates",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UAE@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/108408_3908_UAE_USA_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS8xMDg0MDhfMzkwOF9VQUVfVVNBX2ZjLXdlYi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
+      "stream_link": "https://dai.google.com/linear/hls/event/P6mXCwgIRpmw22JB-ckG3Q/master.m3u8"
     }
   ]
 }
