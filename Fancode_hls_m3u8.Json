@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "24-09-2024 on 6:19:16 PM \ud83c\udf19",
+  "total_mathes": 4,
+  "last_upaded": "24-09-2024 on 6:54:49 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -18,27 +18,15 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier A",
-      "match_id": 108128,
-      "match_name": "Mali vs Malawi",
-      "team_1": "Mali",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAI@2x.png",
-      "team_2": "Malawi",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/6OTdo9Y4RwKeuZVd8nYgTg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier A",
-      "match_id": 108127,
-      "match_name": "Cameroon vs Tanzania",
-      "team_1": "Cameroon",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAME@2x.png",
-      "team_2": "Tanzania",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TNZN@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/YQS5ccmaQmiNaD5Ol_-PsA/master.m3u8"
+      "event_name": "Zim Afro T10, 2024",
+      "match_id": 109168,
+      "match_name": "NYS Lagos vs Durban Wolves",
+      "team_1": "NYS Lagos",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NYSL@2x.png",
+      "team_2": "Durban Wolves",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DWZ@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/109168_4493_NYSL_DB_fc-web_1726824494328.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwOTE2OF80NDkzX05ZU0xfREJfZmMtd2ViXzE3MjY4MjQ0OTQzMjguanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "stream_link": "https://dai.google.com/linear/hls/event/EoCNX6WKSein_GGDmhco9w/master.m3u8"
     },
     {
       "event_catagory": "cricket",
