@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "24-09-2024 on 3:42:31 PM \ud83c\udf1e",
+  "total_mathes": 2,
+  "last_upaded": "24-09-2024 on 4:11:06 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,30 +15,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BULG@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/cms-media/109458_4514_BUL_IM_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwOTQ1OF80NTE0X0JVTF9JTV9mYy13ZWIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
       "stream_link": "https://dai.google.com/linear/hls/event/uj3IFtKmRgacLRrcpjZ_oA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Grand Rumble T10 Championship Season 4, 2024",
-      "match_id": 109317,
-      "match_name": "MR KB Putrajaya CC vs SNK Lions, Malaysia",
-      "team_1": "MR KB Putrajaya CC",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PUTR@2x.png",
-      "team_2": "SNK Lions, Malaysia",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SNK@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/109317_4499_MKP_SNK_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwOTMxN180NDk5X01LUF9TTktfZmMtd2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
-      "stream_link": "https://dai.google.com/linear/hls/event/9odzhPcbTlCG9LcfFkLWnQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier A",
-      "match_id": 108126,
-      "match_name": "Ghana vs Lesotho",
-      "team_1": "Ghana",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GHAN@2x.png",
-      "team_2": "Lesotho",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LES@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/6kqcjCDnTIC1SU1N3AzkAQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
