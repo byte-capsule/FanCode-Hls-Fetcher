@@ -2,20 +2,8 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 4,
-  "last_upaded": "24-09-2024 on 5:08:27 PM \ud83c\udf1e",
+  "last_upaded": "24-09-2024 on 5:25:52 PM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Dream11 European Cricket Championship, 2024",
-      "match_id": 109458,
-      "match_name": "Isle of Man vs Bulgaria",
-      "team_1": "Isle of Man",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IOMA@2x.png",
-      "team_2": "Bulgaria",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BULG@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/109458_4514_BUL_IM_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwOTQ1OF80NTE0X0JVTF9JTV9mYy13ZWIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
-      "stream_link": "https://dai.google.com/linear/hls/event/uj3IFtKmRgacLRrcpjZ_oA/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier A",
@@ -51,6 +39,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UAE@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/108408_3908_UAE_USA_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS8xMDg0MDhfMzkwOF9VQUVfVVNBX2ZjLXdlYi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
       "stream_link": "https://dai.google.com/linear/hls/event/P6mXCwgIRpmw22JB-ckG3Q/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Australia tour of England, 2024",
+      "match_id": 107247,
+      "match_name": "Australia vs England",
+      "team_1": "Australia",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUS@2x.png",
+      "team_2": "England",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/Australia-tour-of-England_ODI_old_match-card_1726893730609.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL0F1c3RyYWxpYS10b3VyLW9mLUVuZ2xhbmRfT0RJX29sZF9tYXRjaC1jYXJkXzE3MjY4OTM3MzA2MDkuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "stream_link": "https://pubads.g.doubleclick.net/ssai/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8"
     }
   ]
 }
