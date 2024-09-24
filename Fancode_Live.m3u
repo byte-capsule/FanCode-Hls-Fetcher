@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Croatia vs Estonia" tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/109459_4514_EST_CRO_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwOTQ1OV80NTE0X0VTVF9DUk9fZmMtd2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9" tvg-id="109459" group-title="Dream11 European Cricket Championship, 2024",Croatia vs Estonia
+https://dai.google.com/linear/hls/event/fUHF7LEkQ8mjHbAAY486Jw/master.m3u8
 #EXTINF:-1 tvg-name="Mali vs Malawi" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="108128" group-title="ICC Men's T20 WC Africa Sub Regional Qualifier A",Mali vs Malawi
 https://dai.google.com/linear/hls/event/6OTdo9Y4RwKeuZVd8nYgTg/master.m3u8
 #EXTINF:-1 tvg-name="Cameroon vs Tanzania" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="108127" group-title="ICC Men's T20 WC Africa Sub Regional Qualifier A",Cameroon vs Tanzania
