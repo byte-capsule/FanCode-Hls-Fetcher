@@ -1,20 +1,20 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "25-09-2024 on 11:09:13 PM \ud83c\udf19",
+  "total_mathes": 2,
+  "last_upaded": "25-09-2024 on 11:30:19 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
       "event_name": "Zim Afro T10, 2024",
-      "match_id": 109172,
-      "match_name": "Cape Town Samp Army vs Durban Wolves",
-      "team_1": "Cape Town Samp Army",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CTSA@2x.png",
-      "team_2": "Durban Wolves",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DWZ@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/109172_4493_DB_CTSA_fc-web_1726824494238.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwOTE3Ml80NDkzX0RCX0NUU0FfZmMtd2ViXzE3MjY4MjQ0OTQyMzguanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
-      "stream_link": "https://dai.google.com/linear/hls/event/gwUQFW85R_-LSciHw9OBCQ/master.m3u8"
+      "match_id": 109173,
+      "match_name": "Bulawayo Brave Jaguars vs Joburg Bangla Tigers",
+      "team_1": "Bulawayo Brave Jaguars",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBJ@2x.png",
+      "team_2": "Joburg Bangla Tigers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JBT@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/109173_4493_JBL_BB_fc-web_1726824494278.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwOTE3M180NDkzX0pCTF9CQl9mYy13ZWJfMTcyNjgyNDQ5NDI3OC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
+      "stream_link": "https://dai.google.com/linear/hls/event/yLy-Pa6vTW-IKS1wCgnhSg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -27,18 +27,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SLO@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/cms-media/109466_4514_SLO_IM_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwOTQ2Nl80NTE0X1NMT19JTV9mYy13ZWIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
       "stream_link": "https://dai.google.com/linear/hls/event/AeU6a47tS32VStznyPispg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Legends League Cricket, 2024",
-      "match_id": 109285,
-      "match_name": "India Capitals vs Southern Super Stars",
-      "team_1": "India Capitals",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ICTL@2x.png",
-      "team_2": "Southern Super Stars",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSS@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/Match-5_LLC_league_OLD_Match-Card_1727169604420.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL01hdGNoLTVfTExDX2xlYWd1ZV9PTERfTWF0Y2gtQ2FyZF8xNzI3MTY5NjA0NDIwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
-      "stream_link": "https://dai.google.com/linear/hls/event/7lHyzuDZQe-I-XXgHoVj8A/master.m3u8"
     }
   ]
 }
