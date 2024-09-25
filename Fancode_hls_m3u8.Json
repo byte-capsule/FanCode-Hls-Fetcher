@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "25-09-2024 on 6:54:49 PM \ud83c\udf19",
+  "total_mathes": 3,
+  "last_upaded": "25-09-2024 on 7:37:33 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -18,42 +18,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Dream11 European Cricket Championship, 2024",
-      "match_id": 109464,
-      "match_name": "Estonia vs Isle of Man",
-      "team_1": "Estonia",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESTO@2x.png",
-      "team_2": "Isle of Man",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IOMA@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/109464_4514_EST_IM_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwOTQ2NF80NTE0X0VTVF9JTV9mYy13ZWIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
-      "stream_link": "https://dai.google.com/linear/hls/event/N9sy179sSNe1899qVuoVgg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier A",
-      "match_id": 108130,
-      "match_name": "Lesotho vs Mali",
-      "team_1": "Lesotho",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LES@2x.png",
-      "team_2": "Mali",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAI@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/iDJ1wwXLSqu40RArMN7btg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC Cricket World Cup Challenge League, 2024-26",
-      "match_id": 108413,
-      "match_name": "Jersey vs Kenya",
-      "team_1": "Jersey",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JERSE@2x.png",
-      "team_2": "Kenya",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KNA@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/108413_4464_KEN_JER_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODQxM180NDY0X0tFTl9KRVJfZmMtd2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
-      "stream_link": "https://dai.google.com/linear/hls/event/0rtbdLvCQGioupvYItBeqg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "ICC Cricket World Cup Challenge League, 2024-26",
       "match_id": 108412,
       "match_name": "Denmark vs Kuwait",
@@ -63,6 +27,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUW@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/cms-media/108412_4464_DEN_KUW_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODQxMl80NDY0X0RFTl9LVVdfZmMtd2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
       "stream_link": "https://dai.google.com/linear/hls/event/hctfrjqTSGeVzaVkDmIrDA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Legends League Cricket, 2024",
+      "match_id": 109285,
+      "match_name": "India Capitals vs Southern Super Stars",
+      "team_1": "India Capitals",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ICTL@2x.png",
+      "team_2": "Southern Super Stars",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSS@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/Match-5_LLC_league_OLD_Match-Card_1727169604420.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL01hdGNoLTVfTExDX2xlYWd1ZV9PTERfTWF0Y2gtQ2FyZF8xNzI3MTY5NjA0NDIwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "stream_link": "https://dai.google.com/linear/hls/event/7lHyzuDZQe-I-XXgHoVj8A/master.m3u8"
     }
   ]
 }
