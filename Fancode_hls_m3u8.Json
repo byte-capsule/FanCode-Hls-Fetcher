@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "26-09-2024 on 2:13:43 PM \ud83c\udf1e",
+  "total_mathes": 5,
+  "last_upaded": "26-09-2024 on 2:35:47 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -39,18 +39,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-QTR@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/cms-media/108414_4464_JER_QAT_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODQxNF80NDY0X0pFUl9RQVRfZmMtd2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
       "stream_link": "https://dai.google.com/linear/hls/event/LBDUw_2JTqiAHGImLIOpsg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier A",
-      "match_id": 108133,
-      "match_name": "Lesotho vs Cameroon",
-      "team_1": "Lesotho",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LES@2x.png",
-      "team_2": "Cameroon",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAME@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/sIwAWiz8Rbae82cU-3gQog/master.m3u8"
     },
     {
       "event_catagory": "cricket",
