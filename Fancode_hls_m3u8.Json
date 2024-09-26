@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "26-09-2024 on 4:44:10 PM \ud83c\udf1e",
+  "total_mathes": 5,
+  "last_upaded": "26-09-2024 on 5:08:48 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,6 +15,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TURK@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/cms-media/109467_4514_TUR_BUL_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwOTQ2N180NTE0X1RVUl9CVUxfZmMtd2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
       "stream_link": "https://dai.google.com/linear/hls/event/YHe5VBsATn2iuqaEIR0MYQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier A",
+      "match_id": 108134,
+      "match_name": "Tanzania vs Malawi",
+      "team_1": "Tanzania",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TNZN@2x.png",
+      "team_2": "Malawi",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/-2rZ0x7hQ_WcIgyCl76NTQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
