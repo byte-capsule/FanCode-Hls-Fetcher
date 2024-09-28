@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "28-09-2024 on 0:45:45 PM \ud83c\udf1e",
+  "total_mathes": 5,
+  "last_upaded": "28-09-2024 on 1:09:06 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,18 +15,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-INDA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
       "stream_link": "https://dai.google.com/linear/hls/event/GFgDXUFISCu5MU3N8PTIRw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "New Zealand tour of Sri Lanka, 2024",
-      "match_id": 107929,
-      "match_name": "Sri Lanka vs New Zealand",
-      "team_1": "Sri Lanka",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
-      "team_2": "New Zealand",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/New-Zealand-tour-of-Sri-Lanka-2024-old-match-card.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9OZXctWmVhbGFuZC10b3VyLW9mLVNyaS1MYW5rYS0yMDI0LW9sZC1tYXRjaC1jYXJkLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
-      "stream_link": "https://pubads.g.doubleclick.net/ssai/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -51,6 +39,30 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JERSE@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/cms-media/108416_4464_PNG_JER_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODQxNl80NDY0X1BOR19KRVJfZmMtd2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
       "stream_link": "https://dai.google.com/linear/hls/event/S0hRqvgUS_yAiF_dmsv0Iw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "New Zealand tour of Sri Lanka, 2024",
+      "match_id": 107929,
+      "match_name": "Sri Lanka vs New Zealand",
+      "team_1": "Sri Lanka",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+      "team_2": "New Zealand",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/New-Zealand-tour-of-Sri-Lanka-2024-old-match-card.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9OZXctWmVhbGFuZC10b3VyLW9mLVNyaS1MYW5rYS0yMDI0LW9sZC1tYXRjaC1jYXJkLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "stream_link": "https://pubads.g.doubleclick.net/ssai/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8"
+    },
+    {
+      "event_catagory": "racing",
+      "event_name": "DTM 2024",
+      "match_id": 109798,
+      "match_name": "DTM",
+      "team_1": "Qualifying 1",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-DTM@2x.png",
+      "team_2": "Red Bull Ring ",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/DTM_Old_match-card.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL0RUTV9PbGRfbWF0Y2gtY2FyZC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
+      "stream_link": "https://dai.google.com/linear/hls/event/1alMqe5lTaKah4jkOznF1A/master.m3u8"
     }
   ]
 }
