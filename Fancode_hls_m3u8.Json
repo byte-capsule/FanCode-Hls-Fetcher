@@ -2,20 +2,8 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 8,
-  "last_upaded": "29-09-2024 on 9:29:13 PM \ud83c\udf19",
+  "last_upaded": "29-09-2024 on 9:42:10 PM \ud83c\udf19",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Minor League Cricket, 2024",
-      "match_id": 107880,
-      "match_name": "New Jersey Stallions vs New Jersey Somerset Cavaliers",
-      "team_1": "New Jersey Stallions",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NJSC@2x.png",
-      "team_2": "New Jersey Somerset Cavaliers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NJCA@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/08/Minor-League-Cricket-old-match-card-3.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOC9NaW5vci1MZWFndWUtQ3JpY2tldC1vbGQtbWF0Y2gtY2FyZC0zLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
-      "stream_link": "https://dai.google.com/linear/hls/event/9agcgpMmQm2BxkyFE6-rsw/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Minor League Cricket, 2024",
@@ -27,6 +15,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CHTI@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/08/Minor-League-Cricket-old-match-card-3.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOC9NaW5vci1MZWFndWUtQ3JpY2tldC1vbGQtbWF0Y2gtY2FyZC0zLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
       "stream_link": "https://dai.google.com/linear/hls/event/5ujKU3bFRM6Nw6T1wFLm1g/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Minor League Cricket, 2024",
+      "match_id": 107880,
+      "match_name": "New Jersey Stallions vs New Jersey Somerset Cavaliers",
+      "team_1": "New Jersey Stallions",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NJSC@2x.png",
+      "team_2": "New Jersey Somerset Cavaliers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NJCA@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/08/Minor-League-Cricket-old-match-card-3.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOC9NaW5vci1MZWFndWUtQ3JpY2tldC1vbGQtbWF0Y2gtY2FyZC0zLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "stream_link": "https://dai.google.com/linear/hls/event/9agcgpMmQm2BxkyFE6-rsw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -42,15 +42,15 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "United Arab Emirates and USA tour of Namibia, 2024",
-      "match_id": 109585,
-      "match_name": "United Arab Emirates vs Namibia",
-      "team_1": "United Arab Emirates",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UAE@2x.png",
-      "team_2": "Namibia",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAM@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/Namibia-vs-UAE_old.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL05hbWliaWEtdnMtVUFFX29sZC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
-      "stream_link": "https://dai.google.com/linear/hls/event/DzYwXyHYSlG47F5hHGGI-Q/master.m3u8"
+      "event_name": "Dream11 European Cricket Championship, 2024",
+      "match_id": 109496,
+      "match_name": "Luxembourg vs Greece",
+      "team_1": "Luxembourg",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LXE@2x.png",
+      "team_2": "Greece",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GREE@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/Dream11-European-Cricket-Championship,-2024_background-image-1440-x-810.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL0RyZWFtMTEtRXVyb3BlYW4tQ3JpY2tldC1DaGFtcGlvbnNoaXAsLTIwMjRfYmFja2dyb3VuZC1pbWFnZS0xNDQwLXgtODEwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "stream_link": "https://dai.google.com/linear/hls/event/46DFbY3QSHKUPpjFcWySLw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
