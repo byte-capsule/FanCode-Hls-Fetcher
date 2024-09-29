@@ -1,32 +1,7 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 2,
-  "last_upaded": "30-09-2024 on 00:45:12 AM \ud83c\udf19",
-  "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Minor League Cricket, 2024",
-      "match_id": 107881,
-      "match_name": "Houston Hurricanes vs Chicago Tigers",
-      "team_1": "Houston Hurricanes",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HOHU@2x.png",
-      "team_2": "Chicago Tigers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CHTI@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/08/Minor-League-Cricket-old-match-card-3.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOC9NaW5vci1MZWFndWUtQ3JpY2tldC1vbGQtbWF0Y2gtY2FyZC0zLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
-      "stream_link": "https://dai.google.com/linear/hls/event/5ujKU3bFRM6Nw6T1wFLm1g/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Ireland vs South Africa Tour of UAE",
-      "match_id": 107779,
-      "match_name": "Ireland vs South Africa",
-      "team_1": "Ireland",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png",
-      "team_2": "South Africa",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/Ireland-and-South-Africa-Tour-of-UAE-T20Is--old-match-card_1727176431552.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL0lyZWxhbmQtYW5kLVNvdXRoLUFmcmljYS1Ub3VyLW9mLVVBRS1UMjBJcy0tb2xkLW1hdGNoLWNhcmRfMTcyNzE3NjQzMTU1Mi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
-      "stream_link": "https://dai.google.com/linear/hls/event/iAAvbkFJQJSWQgQr3C696Q/master.m3u8"
-    }
-  ]
+  "total_mathes": 0,
+  "last_upaded": "30-09-2024 on 01:07:15 AM \ud83c\udf19",
+  "matches": []
 }
