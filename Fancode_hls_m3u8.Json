@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "29-09-2024 on 5:42:18 PM \ud83c\udf1e",
+  "total_mathes": 7,
+  "last_upaded": "29-09-2024 on 6:17:28 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -39,6 +39,30 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUS@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/cms-media/Australia-tour-of-England_ODI_old_match-card_1726893730609.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL0F1c3RyYWxpYS10b3VyLW9mLUVuZ2xhbmRfT0RJX29sZF9tYXRjaC1jYXJkXzE3MjY4OTM3MzA2MDkuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
       "stream_link": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "United Arab Emirates and USA tour of Namibia, 2024",
+      "match_id": 109585,
+      "match_name": "United Arab Emirates vs Namibia",
+      "team_1": "United Arab Emirates",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UAE@2x.png",
+      "team_2": "Namibia",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAM@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/Namibia-vs-UAE_old.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL05hbWliaWEtdnMtVUFFX29sZC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
+      "stream_link": "https://dai.google.com/linear/hls/event/DzYwXyHYSlG47F5hHGGI-Q/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "Chinese Super League 2024",
+      "match_id": 106179,
+      "match_name": "Wuhan Three Towns vs Henan",
+      "team_1": "Wuhan Three Towns",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WUHANT@2x.png",
+      "team_2": "Henan",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-HEN@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/WTT_HFC_Old_fc_web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL1dUVF9IRkNfT2xkX2ZjX3dlYi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
+      "stream_link": "https://liveauth.fancode.com/primary/106179_english_hls_5531adfreeta-di/index.m3u8"
     },
     {
       "event_catagory": "racing",
