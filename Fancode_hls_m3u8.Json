@@ -1,7 +1,32 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 0,
-  "last_upaded": "30-09-2024 on 09:04:32 AM \ud83c\udf1e",
-  "matches": []
+  "total_mathes": 2,
+  "last_upaded": "30-09-2024 on 09:40:44 AM \ud83c\udf1e",
+  "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "Grand Rumble T10 Championship Season 4, 2024",
+      "match_id": 109331,
+      "match_name": "PAK Wolves vs Combined Cricket Club",
+      "team_1": "PAK Wolves",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PKW@2x.png",
+      "team_2": "Combined Cricket Club",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CCCA@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/109331_4499_CCC_PKW_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwOTMzMV80NDk5X0NDQ19QS1dfZmMtd2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "stream_link": "https://dai.google.com/linear/hls/event/FC6BNf0YSYGnW6hBLVet3A/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Chhattisgarh Women's T20 Cup",
+      "match_id": 109741,
+      "match_name": "Chhattisgarh Blue Women vs Kerala Women",
+      "team_1": "Chhattisgarh Blue Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CBW@2x.png",
+      "team_2": "Kerala Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KRL@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/Z0lOUKtfQuCAyU7YSiaAaw/master.m3u8"
+    }
+  ]
 }
