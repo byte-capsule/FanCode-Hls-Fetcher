@@ -1,32 +1,7 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 2,
-  "last_upaded": "01-10-2024 on 00:13:28 AM \ud83c\udf19",
-  "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Dream11 European Cricket Championship, 2024",
-      "match_id": 109508,
-      "match_name": "Estonia vs Greece",
-      "team_1": "Estonia",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESTO@2x.png",
-      "team_2": "Greece",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GREE@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/Dream11-European-Cricket-Championship,-2024_background-image-1440-x-810.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL0RyZWFtMTEtRXVyb3BlYW4tQ3JpY2tldC1DaGFtcGlvbnNoaXAsLTIwMjRfYmFja2dyb3VuZC1pbWFnZS0xNDQwLXgtODEwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
-      "stream_link": "https://dai.google.com/linear/hls/event/q0SAMpRHTwWqvYYYYG45Ww/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "AFC Champions League Elite 2024-25",
-      "match_id": 108642,
-      "match_name": "Al-Nassr vs Al Rayyan",
-      "team_1": "Al-Nassr",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ANF@2x.png",
-      "team_2": "Al Rayyan",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RAY@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/108642_4475_ANF_RAY_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS8xMDg2NDJfNDQ3NV9BTkZfUkFZX2ZjLXdlYi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
-      "stream_link": "https://dai.google.com/linear/hls/event/AAPVy5DwQdWtqILf0VTthA/master.m3u8"
-    }
-  ]
+  "total_mathes": 0,
+  "last_upaded": "01-10-2024 on 00:37:24 AM \ud83c\udf19",
+  "matches": []
 }
