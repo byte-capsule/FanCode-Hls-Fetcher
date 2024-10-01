@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "01-10-2024 on 2:36:33 PM \ud83c\udf1e",
+  "total_mathes": 5,
+  "last_upaded": "01-10-2024 on 2:49:18 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,18 +15,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PUTR@2x.png",
       "banner": "https://images.fancode.com/aig/match/v1/109337_CASACARDS_APP.png?hash=eyJrZXkiOiJhaWcvbWF0Y2gvdjEvMTA5MzM3X0NBU0FDQVJEU19BUFAucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
       "stream_link": "https://dai.google.com/linear/hls/event/kKeT29lsTraqvDr9-eHHdw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier B",
-      "match_id": 108432,
-      "match_name": "Philippines vs South Korea",
-      "team_1": "Philippines",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PHL@2x.png",
-      "team_2": "South Korea",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOK@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/vb31PrbjQ7iJwSXjqyxR1A/master.m3u8"
     },
     {
       "event_catagory": "cricket",
