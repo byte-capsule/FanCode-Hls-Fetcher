@@ -1,20 +1,32 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 1,
-  "last_upaded": "01-10-2024 on 08:21:46 AM \ud83c\udf1e",
+  "total_mathes": 2,
+  "last_upaded": "01-10-2024 on 09:18:37 AM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
+      "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier B",
+      "match_id": 108431,
+      "match_name": "Japan vs Indonesia",
+      "team_1": "Japan",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JPN@2x.png",
+      "team_2": "Indonesia",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-INDA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/J6zTHRmdRUGBEegWUUaOTQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "Grand Rumble T10 Championship Season 4, 2024",
-      "match_id": 109334,
-      "match_name": "KL Zalmi vs Fatemi Resources Cricket Club",
-      "team_1": "KL Zalmi",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KLZM@2x.png",
-      "team_2": "Fatemi Resources Cricket Club",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FRCC@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/109334_4499_KLZ_FRC_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwOTMzNF80NDk5X0tMWl9GUkNfZmMtd2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
-      "stream_link": "https://dai.google.com/linear/hls/event/BlEz_gnHRburjTXL1ZqWvQ/master.m3u8"
+      "match_id": 109335,
+      "match_name": "NT Rack Sports Club vs MR KB Putrajaya CC",
+      "team_1": "NT Rack Sports Club",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NTR@2x.png",
+      "team_2": "MR KB Putrajaya CC",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PUTR@2x.png",
+      "banner": "https://images.fancode.com/aig/match/v1/109335_CASACARDS_APP.png?hash=eyJrZXkiOiJhaWcvbWF0Y2gvdjEvMTA5MzM1X0NBU0FDQVJEU19BUFAucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "stream_link": "https://dai.google.com/linear/hls/event/txoghIh3R2ezwjqk1i8AfA/master.m3u8"
     }
   ]
 }
