@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "01-10-2024 on 1:42:33 PM \ud83c\udf1e",
+  "total_mathes": 5,
+  "last_upaded": "01-10-2024 on 2:14:30 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -51,6 +51,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUW@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/cms-media/108419_4464_KUW_JER_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODQxOV80NDY0X0tVV19KRVJfZmMtd2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
       "stream_link": "https://dai.google.com/linear/hls/event/HZA76ornQBiZNiam_W1TmA/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "AFC Champions League Elite 2024-25",
+      "match_id": 108645,
+      "match_name": "Central Coast Mariners vs Buriram United",
+      "team_1": "Central Coast Mariners",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CENTA@2x.png",
+      "team_2": "Buriram United",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BURIR@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/108645_4475_CCM_BU_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS8xMDg2NDVfNDQ3NV9DQ01fQlVfZmMtd2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "stream_link": "https://dai.google.com/linear/hls/event/_7RMKw7gTMO-QYDWU3ptxg/master.m3u8"
     }
   ]
 }
