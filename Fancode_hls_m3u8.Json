@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "02-10-2024 on 5:42:08 PM \ud83c\udf1e",
+  "total_mathes": 6,
+  "last_upaded": "02-10-2024 on 6:19:46 PM \ud83c\udf19",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Dream11 European Cricket Championship, 2024",
-      "match_id": 109517,
-      "match_name": "Isle of Man vs Czechia",
-      "team_1": "Isle of Man",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IOMA@2x.png",
-      "team_2": "Czechia",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CZR@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/Dream11-European-Cricket-Championship,-2024_background-image-1440-x-810.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL0RyZWFtMTEtRXVyb3BlYW4tQ3JpY2tldC1DaGFtcGlvbnNoaXAsLTIwMjRfYmFja2dyb3VuZC1pbWFnZS0xNDQwLXgtODEwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
-      "stream_link": "https://dai.google.com/linear/hls/event/vabonn0gSMWv8YCOlJKANw/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "ICC Cricket World Cup Challenge League, 2024-26",
@@ -53,40 +41,40 @@
       "stream_link": "https://dai.google.com/linear/hls/event/DV64hcurSQu6eIVme1wjTw/master.m3u8"
     },
     {
-      "event_catagory": "football",
-      "event_name": "AFC Champions League Elite 2024-25",
-      "match_id": 108650,
-      "match_name": "Yokohama F. Marinos vs Ulsan HD",
-      "team_1": "Yokohama F. Marinos",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-YKM@2x.png",
-      "team_2": "Ulsan HD",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ULS@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/hiYFUvL_RMeDzDAy9DIOYA/master.m3u8"
+      "event_catagory": "cricket",
+      "event_name": "United Arab Emirates and USA tour of Namibia, 2024",
+      "match_id": 109588,
+      "match_name": "Namibia vs United Arab Emirates",
+      "team_1": "Namibia",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAM@2x.png",
+      "team_2": "United Arab Emirates",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UAE@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/Namibia-vs-UAE_old_1727439531794.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL05hbWliaWEtdnMtVUFFX29sZF8xNzI3NDM5NTMxNzk0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "stream_link": "https://dai.google.com/linear/hls/event/QwdqlXHcQzqHf4vTYUbOhA/master.m3u8"
     },
     {
       "event_catagory": "football",
-      "event_name": "AFC Champions League Elite 2024-25",
-      "match_id": 108649,
-      "match_name": "Vissel Kobe vs Shandong Taishan",
-      "team_1": "Vissel Kobe",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VKO@2x.png",
-      "team_2": "Shandong Taishan",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHANDON@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/108649_4475_VIS_SHD_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS8xMDg2NDlfNDQ3NV9WSVNfU0hEX2ZjLXdlYi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
-      "stream_link": "https://dai.google.com/linear/hls/event/bbNJCX9OQuy55LPy4JCWJQ/master.m3u8"
+      "event_name": "AFC Champions League Two 2024-25",
+      "match_id": 108798,
+      "match_name": "Tampines Rovers FC vs Lee Man",
+      "team_1": "Tampines Rovers FC",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-TAMR@2x.png",
+      "team_2": "Lee Man",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LM@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/108798_4476_TAM_LM_FC-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODc5OF80NDc2X1RBTV9MTV9GQy13ZWIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "stream_link": "https://dai.google.com/linear/hls/event/jemi_GWxQf6PTzHfx2akcg/master.m3u8"
     },
     {
       "event_catagory": "football",
-      "event_name": "J League 2024",
-      "match_id": 105706,
-      "match_name": "Cerezo Osaka vs Gamba Osaka",
-      "team_1": "Cerezo Osaka",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COS@2x.png",
-      "team_2": "Gamba Osaka",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GOS@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/105706_3921_OSA_OSK_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwNTcwNl8zOTIxX09TQV9PU0tfZmMtd2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
-      "stream_link": "https://liveauth.fancode.com/primary/105706_english_hls_7388adfreeta-di/index.m3u8"
+      "event_name": "AFC Champions League Two 2024-25",
+      "match_id": 108797,
+      "match_name": "Nam Dinh vs Bangkok United",
+      "team_1": "Nam Dinh",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ND@2x.png",
+      "team_2": "Bangkok United",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BANGK@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/108797_4476_ND_BU_FC-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODc5N180NDc2X05EX0JVX0ZDLXdlYi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
+      "stream_link": "https://dai.google.com/linear/hls/event/_sWh0UakTjC7sLQT-EGOTQ/master.m3u8"
     }
   ]
 }
