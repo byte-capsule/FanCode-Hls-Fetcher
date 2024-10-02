@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "02-10-2024 on 7:43:37 PM \ud83c\udf19",
+  "total_mathes": 8,
+  "last_upaded": "02-10-2024 on 8:09:45 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -67,26 +67,38 @@
     {
       "event_catagory": "football",
       "event_name": "AFC Champions League Two 2024-25",
-      "match_id": 108798,
-      "match_name": "Tampines Rovers FC vs Lee Man",
-      "team_1": "Tampines Rovers FC",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-TAMR@2x.png",
-      "team_2": "Lee Man",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LM@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/108798_4476_TAM_LM_FC-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODc5OF80NDc2X1RBTV9MTV9GQy13ZWIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
-      "stream_link": "https://dai.google.com/linear/hls/event/jemi_GWxQf6PTzHfx2akcg/master.m3u8"
+      "match_id": 108761,
+      "match_name": "Nasaf vs Shabab Al Ahli",
+      "team_1": "Nasaf",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NASAF@2x.png",
+      "team_2": "Shabab Al Ahli",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SAA@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/108761_4476_NQ_SAA_FC-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODc2MV80NDc2X05RX1NBQV9GQy13ZWIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "stream_link": "https://dai.google.com/linear/hls/event/3UT9y3zJQ2-bAQKslOorig/master.m3u8"
     },
     {
       "event_catagory": "football",
       "event_name": "AFC Champions League Two 2024-25",
-      "match_id": 108797,
-      "match_name": "Nam Dinh vs Bangkok United",
-      "team_1": "Nam Dinh",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ND@2x.png",
-      "team_2": "Bangkok United",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BANGK@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/cms-media/108797_4476_ND_BU_FC-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODc5N180NDc2X05EX0JVX0ZDLXdlYi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
-      "stream_link": "https://dai.google.com/linear/hls/event/_sWh0UakTjC7sLQT-EGOTQ/master.m3u8"
+      "match_id": 108737,
+      "match_name": "Altyn Asyr vs Khaldiya",
+      "team_1": "Altyn Asyr",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALTN@2x.png",
+      "team_2": "Khaldiya",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KH@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/108737_4476_AA_KHA_FC-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODczN180NDc2X0FBX0tIQV9GQy13ZWIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "stream_link": "https://dai.google.com/linear/hls/event/NTsuzz8_SviaRfC5_vJebw/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "AFC Champions League Two 2024-25",
+      "match_id": 108725,
+      "match_name": "Ravshan Kulob vs Al Wakrah",
+      "team_1": "Ravshan Kulob",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RAVS@2x.png",
+      "team_2": "Al Wakrah",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEF-FT8@2x.png",
+      "banner": "https://images.fancode.com/skillup-uploads/cms-media/108725_4476_RK_WAK_FC-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwODcyNV80NDc2X1JLX1dBS19GQy13ZWIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+      "stream_link": "https://dai.google.com/linear/hls/event/tPzmSwDjR6qKOAlV-koVKg/master.m3u8"
     }
   ]
 }
