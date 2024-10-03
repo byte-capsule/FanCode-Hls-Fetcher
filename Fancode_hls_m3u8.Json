@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "03-10-2024 on 11:42:54 PM \ud83c\udf19",
+  "total_mathes": 3,
+  "last_upaded": "04-10-2024 on 00:13:38 AM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,18 +15,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-POT@2x.png",
       "banner": "https://images.fancode.com/skillup-uploads/cms-media/109474_4514_POR_FRA_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwOTQ3NF80NTE0X1BPUl9GUkFfZmMtd2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
       "stream_link": "https://dai.google.com/linear/hls/event/H1NrLktWTiyRW46ji9JJNA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Minor League Cricket, 2024",
-      "match_id": 107892,
-      "match_name": "New Jersey Stallions vs Seattle Thunderbolts",
-      "team_1": "New Jersey Stallions",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NJSC@2x.png",
-      "team_2": "Seattle Thunderbolts",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SEHU@2x.png",
-      "banner": "https://images.fancode.com/skillup-uploads/prod-images/2024/08/Minor-League-Cricket-old-match-card-2.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOC9NaW5vci1MZWFndWUtQ3JpY2tldC1vbGQtbWF0Y2gtY2FyZC0yLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
-      "stream_link": "https://dai.google.com/linear/hls/event/PqpdT2xKTQO6IhNiS7xh8g/master.m3u8"
     },
     {
       "event_catagory": "cricket",
