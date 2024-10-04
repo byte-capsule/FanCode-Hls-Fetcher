@@ -1,3 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Japan vs South Korea" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="108436" group-title="ICC Men's T20 WC EAP Sub-regional Qualifier B",Japan vs South Korea
+https://dai.google.com/linear/hls/event/WrDuwiFyTba-Tu88igkcVg/master.m3u8
 #EXTINF:-1 tvg-name="Bengal Women vs Tamil Nadu Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="109748" group-title="Chhattisgarh Women's T20 Cup",Bengal Women vs Tamil Nadu Women
 https://dai.google.com/linear/hls/event/aoDb49t3SPaESNwO_WgIog/master.m3u8
