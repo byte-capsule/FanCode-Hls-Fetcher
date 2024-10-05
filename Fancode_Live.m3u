@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="France vs Portugal" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream11-European-Cricket-Championship,-2024_background-image-1440-x-810.jpg" tvg-id="109487" group-title="Dream11 European Cricket Championship, 2024",France vs Portugal
-https://dai.google.com/linear/hls/event/DArjgIRBRt2fI9RTbkk1aQ/master.m3u8
 #EXTINF:-1 tvg-name="Gujarat Greats vs Manipal Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109295_4496_MNT_GJG_fc-web.jpg" tvg-id="109295" group-title="Legends League Cricket, 2024",Gujarat Greats vs Manipal Tigers
 https://dai.google.com/linear/hls/event/YuZpo-1FRyKC4KgKAbADEg/master.m3u8
 #EXTINF:-1 tvg-name="Jersey vs Denmark" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108426_4464_JER_DEN_fc-web.jpg" tvg-id="108426" group-title="ICC Cricket World Cup Challenge League, 2024-26",Jersey vs Denmark
 https://dai.google.com/linear/hls/event/6Wy2PVUSQoic0mTp--9lLA/master.m3u8
 #EXTINF:-1 tvg-name="Kenya vs Papua New Guinea" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108425_4464_KEN_PNG_fc-web.jpg" tvg-id="108425" group-title="ICC Cricket World Cup Challenge League, 2024-26",Kenya vs Papua New Guinea
 https://dai.google.com/linear/hls/event/NRz8lTZpRHy5LH226Abzfw/master.m3u8
+#EXTINF:-1 tvg-name="Namibia vs USA" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-USA_old_1727439531792.jpg" tvg-id="109590" group-title="United Arab Emirates and USA tour of Namibia, 2024",Namibia vs USA
+https://dai.google.com/linear/hls/event/MpDHCwr1RwiuR5-lD9hT4Q/master.m3u8
 #EXTINF:-1 tvg-name="Burnley vs Preston North End" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BUR-vs-PRE_fc-web-2.jpg" tvg-id="109810" group-title="EFL Championship 2024-25",Burnley vs Preston North End
 https://dai.google.com/linear/hls/event/6rxfAIgQQEyZQBeUcRixfQ/master.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Alfred-Dunhill-Links-Championship_match_card_1.jpg" tvg-id="110038" group-title="Alfred Dunhill Links Championship",Day 3
