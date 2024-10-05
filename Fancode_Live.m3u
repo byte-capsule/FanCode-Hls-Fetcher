@@ -1,15 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Japan vs Indonesia" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="108438" group-title="ICC Men's T20 WC EAP Sub-regional Qualifier B",Japan vs Indonesia
-https://dai.google.com/linear/hls/event/Gj6McvPKQt2TjSLE70zMYQ/master.m3u8
 #EXTINF:-1 tvg-name="Western Warriors vs Southern Hitters" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MCA-T20-Super-Series_old_v2.jpg" tvg-id="110380" group-title="MCA T20 Super Series 2024",Western Warriors vs Southern Hitters
 https://dai.google.com/linear/hls/event/BHs0Ia-NQFSsN6lDoKyYCg/master.m3u8
 #EXTINF:-1 tvg-name="Jersey vs Denmark" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108426_4464_JER_DEN_fc-web.jpg" tvg-id="108426" group-title="ICC Cricket World Cup Challenge League, 2024-26",Jersey vs Denmark
 https://dai.google.com/linear/hls/event/6Wy2PVUSQoic0mTp--9lLA/master.m3u8
 #EXTINF:-1 tvg-name="Kenya vs Papua New Guinea" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108425_4464_KEN_PNG_fc-web.jpg" tvg-id="108425" group-title="ICC Cricket World Cup Challenge League, 2024-26",Kenya vs Papua New Guinea
 https://dai.google.com/linear/hls/event/NRz8lTZpRHy5LH226Abzfw/master.m3u8
-#EXTINF:-1 tvg-name="Machida Zelvia vs Kawasaki Frontale" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MAC-vs-KAW_fc-web.jpg" tvg-id="109926" group-title="J League 2024",Machida Zelvia vs Kawasaki Frontale
-https://liveauth.fancode.com/primary/109926_english_hls_8761adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Urawa Red Diamonds vs Cerezo Osaka" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/URW-vs-CRE_fc-web.jpg" tvg-id="109925" group-title="J League 2024",Urawa Red Diamonds vs Cerezo Osaka
 https://liveauth.fancode.com/primary/109925_english_hls_5959adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Machida Zelvia vs Kawasaki Frontale" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MAC-vs-KAW_fc-web.jpg" tvg-id="109926" group-title="J League 2024",Machida Zelvia vs Kawasaki Frontale
+https://liveauth.fancode.com/primary/109926_english_hls_8761adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/LET-Aramco-Team-Series_Old-Match-card-v1.jpg" tvg-id="110041" group-title="Aramco Team Series Presented by PIF - Asia",Day 2
 https://dai.google.com/linear/hls/event/0gUnIDdVS5uxr-kDkaxgEQ/master.m3u8
