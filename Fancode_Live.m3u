@@ -1,8 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="New York Lions CC vs Los Angeles Waves CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NYL-vs-LAW_Old.jpg" tvg-id="110044" group-title="National Cricket League, 2024",New York Lions CC vs Los Angeles Waves CC
+https://dai.google.com/linear/hls/event/ZxwvbFMjTJ2eMJQJEBACFQ/master.m3u8
 #EXTINF:-1 tvg-name="Toyam Hyderabad vs Southern Super Stars" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109296_4496_THY_SSS_fc-web.jpg" tvg-id="109296" group-title="Legends League Cricket, 2024",Toyam Hyderabad vs Southern Super Stars
 https://dai.google.com/linear/hls/event/l7rJmbBAQlelqz9wlyZlgg/master.m3u8
-#EXTINF:-1 tvg-name="Namibia vs USA" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-USA_old_1727439531792.jpg" tvg-id="109590" group-title="United Arab Emirates and USA tour of Namibia, 2024",Namibia vs USA
-https://dai.google.com/linear/hls/event/MpDHCwr1RwiuR5-lD9hT4Q/master.m3u8
 #EXTINF:-1 tvg-name="West Bromwich Albion vs Millwall" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WBA_MIL_fc-web.jpg" tvg-id="109812" group-title="EFL Championship 2024-25",West Bromwich Albion vs Millwall
 https://dai.google.com/linear/hls/event/iJN-rnz5SfyL8GBgEwdDKg/master.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Alfred-Dunhill-Links-Championship_match_card_1.jpg" tvg-id="110038" group-title="Alfred Dunhill Links Championship",Day 3
