@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "05-10-2024 on 7:29:44 PM \ud83c\udf19",
+  "total_mathes": 4,
+  "last_upaded": "05-10-2024 on 7:42:10 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -30,30 +30,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "ICC Cricket World Cup Challenge League, 2024-26",
-      "match_id": 108426,
-      "match_name": "Jersey vs Denmark",
-      "team_1": "Jersey",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JERSE@2x.png",
-      "team_2": "Denmark",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DEN@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/108426_4464_JER_DEN_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/6Wy2PVUSQoic0mTp--9lLA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC Cricket World Cup Challenge League, 2024-26",
-      "match_id": 108425,
-      "match_name": "Kenya vs Papua New Guinea",
-      "team_1": "Kenya",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KNA@2x.png",
-      "team_2": "Papua New Guinea",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PNG@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/108425_4464_KEN_PNG_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/NRz8lTZpRHy5LH226Abzfw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "United Arab Emirates and USA tour of Namibia, 2024",
       "match_id": 109590,
       "match_name": "Namibia vs USA",
@@ -63,18 +39,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-USA_old_1727439531792.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/MpDHCwr1RwiuR5-lD9hT4Q/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "EFL Championship 2024-25",
-      "match_id": 109810,
-      "match_name": "Burnley vs Preston North End",
-      "team_1": "Burnley",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BURNL@2x.png",
-      "team_2": "Preston North End",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PREST@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/BUR-vs-PRE_fc-web-2.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/6rxfAIgQQEyZQBeUcRixfQ/master.m3u8"
     },
     {
       "event_catagory": "golf",
