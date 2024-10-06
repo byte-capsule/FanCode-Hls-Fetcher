@@ -1,11 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="ILT20 Marvels vs Desert Vipers Development" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110062_4534_MAR_DVD_fc-web.jpg" tvg-id="110062" group-title="ILT20 Development Tournament, 2024",ILT20 Marvels vs Desert Vipers Development
 https://dai.google.com/linear/hls/event/EtbV3zYkQeCwqL9gvTsV3Q/master.m3u8
+#EXTINF:-1 tvg-name="Konark Suryas Odisha vs Toyam Hyderabad" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109297_4496_KSO_THY_fc-web_1728199331353.jpg" tvg-id="109297" group-title="Legends League Cricket, 2024",Konark Suryas Odisha vs Toyam Hyderabad
+https://dai.google.com/linear/hls/event/5IyWdNGqRYSLNorD1WtLIg/master.m3u8
 #EXTINF:-1 tvg-name="Abu Dhabi Country Club vs Hyundai Steel Red Angels Women’s FC" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="110228" group-title="AFC Women's Champions League 2024-25",Abu Dhabi Country Club vs Hyundai Steel Red Angels Women’s FC
 https://dai.google.com/linear/hls/event/rtP7ebVzSiKI_qZBgglktQ/master.m3u8
-#EXTINF:-1 tvg-name="Ho Chi Minh City Women’s FC vs Taichung Blue Whale Women’s Football Team" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="110226" group-title="AFC Women's Champions League 2024-25",Ho Chi Minh City Women’s FC vs Taichung Blue Whale Women’s Football Team
-https://dai.google.com/linear/hls/event/32xpIl6iTuSRs_r8mnQ7BQ/master.m3u8
 #EXTINF:-1 tvg-name="Kaya FC–Iloilo vs College of Asian Scholars" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="110224" group-title="AFC Women's Champions League 2024-25",Kaya FC–Iloilo vs College of Asian Scholars
 https://dai.google.com/linear/hls/event/b5p3x1iUQGGAoptSm3MW7w/master.m3u8
+#EXTINF:-1 tvg-name="Bristol City vs Cardiff City" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bristol-city-vs-cardiff-city_fc-web.jpg" tvg-id="109809" group-title="EFL Championship 2024-25",Bristol City vs Cardiff City
+https://dai.google.com/linear/hls/event/IXoHD-jgRZKN0Z0AdQpf6Q/master.m3u8
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Alfred-Dunhill-Links-Championship_match_card_1.jpg" tvg-id="110039" group-title="Alfred Dunhill Links Championship",Day 4
 https://dai.google.com/linear/hls/event/ym-ldso_TlalzETzuYc-ng/master.m3u8

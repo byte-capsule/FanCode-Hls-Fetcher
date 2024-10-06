@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "06-10-2024 on 7:42:17 PM \ud83c\udf19",
+  "total_mathes": 6,
+  "last_upaded": "06-10-2024 on 8:08:23 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,6 +15,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DVD@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110062_4534_MAR_DVD_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/EtbV3zYkQeCwqL9gvTsV3Q/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Legends League Cricket, 2024",
+      "match_id": 109297,
+      "match_name": "Konark Suryas Odisha vs Toyam Hyderabad",
+      "team_1": "Konark Suryas Odisha",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KSOL@2x.png",
+      "team_2": "Toyam Hyderabad",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THY@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/109297_4496_KSO_THY_fc-web_1728199331353.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/5IyWdNGqRYSLNorD1WtLIg/master.m3u8"
     },
     {
       "event_catagory": "football",
@@ -31,18 +43,6 @@
     {
       "event_catagory": "football",
       "event_name": "AFC Women's Champions League 2024-25",
-      "match_id": 110226,
-      "match_name": "Ho Chi Minh City Women\u2019s FC vs Taichung Blue Whale Women\u2019s Football Team",
-      "team_1": "Ho Chi Minh City Women\u2019s FC",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-HCMC@2x.png",
-      "team_2": "Taichung Blue Whale Women\u2019s Football Team",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-TBW@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/32xpIl6iTuSRs_r8mnQ7BQ/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "AFC Women's Champions League 2024-25",
       "match_id": 110224,
       "match_name": "Kaya FC\u2013Iloilo vs College of Asian Scholars",
       "team_1": "Kaya FC\u2013Iloilo",
@@ -51,6 +51,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COAS@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
       "stream_link": "https://dai.google.com/linear/hls/event/b5p3x1iUQGGAoptSm3MW7w/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "EFL Championship 2024-25",
+      "match_id": 109809,
+      "match_name": "Bristol City vs Cardiff City",
+      "team_1": "Bristol City",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BCW@2x.png",
+      "team_2": "Cardiff City",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CARDF@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Bristol-city-vs-cardiff-city_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/IXoHD-jgRZKN0Z0AdQpf6Q/master.m3u8"
     },
     {
       "event_catagory": "golf",
