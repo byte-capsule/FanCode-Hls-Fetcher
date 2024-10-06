@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Eastern Eagles vs Southern Hitters" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MCA-T20-Super-Series_oldv1.jpg" tvg-id="110381" group-title="MCA T20 Super Series 2024",Eastern Eagles vs Southern Hitters
 https://dai.google.com/linear/hls/event/yEAIeUJ3TJG47r63pNu42A/master.m3u8
+#EXTINF:-1 tvg-name="Andhra Women vs Chhattisgarh Blue Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="109750" group-title="Chhattisgarh Women's T20 Cup",Andhra Women vs Chhattisgarh Blue Women
+https://dai.google.com/linear/hls/event/hPahRbrwRBaGMU3guuAECg/master.m3u8
