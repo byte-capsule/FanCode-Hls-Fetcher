@@ -1,7 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Austria vs Romania" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109499_4514_AUT_ROM_fc-web.jpg" tvg-id="109499" group-title="Dream11 European Cricket Championship, 2024",Austria vs Romania
+https://dai.google.com/linear/hls/event/n1KoPtSDR9GVWOCy4TNwzQ/master.m3u8
 #EXTINF:-1 tvg-name="Melbourne City Women vs Bam Khatoon FC" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="110223" group-title="AFC Women's Champions League 2024-25",Melbourne City Women vs Bam Khatoon FC
 https://dai.google.com/linear/hls/event/FICzVPWbRGG6Xc8cgvUP-Q/master.m3u8
-#EXTINF:-1 tvg-name="Sabah FA vs Wuhan Jiangda Women’s FC" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="110227" group-title="AFC Women's Champions League 2024-25",Sabah FA vs Wuhan Jiangda Women’s FC
-https://dai.google.com/linear/hls/event/MCgCt9BbSmWc71QujLDMEg/master.m3u8
-#EXTINF:-1 tvg-name="Urawa Red Diamonds Ladies vs Odisha FC" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="110225" group-title="AFC Women's Champions League 2024-25",Urawa Red Diamonds Ladies vs Odisha FC
-https://dai.google.com/linear/hls/event/YoQ0KsBkTu6uEeIyiBoI2A/master.m3u8
