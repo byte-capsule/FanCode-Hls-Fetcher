@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Andhra Women vs Chhattisgarh Blue Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="109750" group-title="Chhattisgarh Women's T20 Cup",Andhra Women vs Chhattisgarh Blue Women
-https://dai.google.com/linear/hls/event/hPahRbrwRBaGMU3guuAECg/master.m3u8
 #EXTINF:-1 tvg-name="Júbilo Iwata vs Sanfrecce Hiroshima" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="109928" group-title="J League 2024",Júbilo Iwata vs Sanfrecce Hiroshima
 https://liveauth.fancode.com/primary/109928_english_hls_5203adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Sabah FA vs Wuhan Jiangda Women’s FC" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="110227" group-title="AFC Women's Champions League 2024-25",Sabah FA vs Wuhan Jiangda Women’s FC
+https://dai.google.com/linear/hls/event/MCgCt9BbSmWc71QujLDMEg/master.m3u8
+#EXTINF:-1 tvg-name="Urawa Red Diamonds Ladies vs Odisha FC" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="110225" group-title="AFC Women's Champions League 2024-25",Urawa Red Diamonds Ladies vs Odisha FC
+https://dai.google.com/linear/hls/event/YoQ0KsBkTu6uEeIyiBoI2A/master.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/LET-Aramco-Team-Series_Old-Match-card-v1.jpg" tvg-id="110042" group-title="Aramco Team Series Presented by PIF - Asia",Day 3
 https://dai.google.com/linear/hls/event/aGCKHcBVS_mdxI5VrQ31VQ/master.m3u8
