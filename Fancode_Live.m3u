@@ -1,3 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Denmark vs Germany" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109500_4514_GER_DEN_fc-web.jpg" tvg-id="109500" group-title="Dream11 European Cricket Championship, 2024",Denmark vs Germany
+https://dai.google.com/linear/hls/event/mR9ILqIGSnu7WPMi6q70Yg/master.m3u8
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Alfred-Dunhill-Links-Championship_match_card_1.jpg" tvg-id="110039" group-title="Alfred Dunhill Links Championship",Day 4
 https://dai.google.com/linear/hls/event/ym-ldso_TlalzETzuYc-ng/master.m3u8
