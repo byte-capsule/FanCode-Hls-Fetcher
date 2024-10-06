@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "06-10-2024 on 2:45:01 PM \ud83c\udf1e",
+  "total_mathes": 3,
+  "last_upaded": "06-10-2024 on 3:10:27 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "football",
@@ -30,27 +30,15 @@
     },
     {
       "event_catagory": "football",
-      "event_name": "J League 2024",
-      "match_id": 109928,
-      "match_name": "J\u00fabilo Iwata vs Sanfrecce Hiroshima",
-      "team_1": "J\u00fabilo Iwata",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-JIW@2x.png",
-      "team_2": "Sanfrecce Hiroshima",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHI@2x.png",
+      "event_name": "AFC Women's Champions League 2024-25",
+      "match_id": 110223,
+      "match_name": "Melbourne City Women vs Bam Khatoon FC",
+      "team_1": "Melbourne City Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLCA@2x.png",
+      "team_2": "Bam Khatoon FC",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BKFC@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://liveauth.fancode.com/primary/109928_english_hls_5203adfreeta-di/index.m3u8"
-    },
-    {
-      "event_catagory": "golf",
-      "event_name": "Aramco Team Series Presented by PIF - Asia",
-      "match_id": 110042,
-      "match_name": "Day 3",
-      "team_1": "Day 3",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-ATP@2x.png",
-      "team_2": "Shenzen, China",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/LET-Aramco-Team-Series_Old-Match-card-v1.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/aGCKHcBVS_mdxI5VrQ31VQ/master.m3u8"
+      "stream_link": "https://dai.google.com/linear/hls/event/FICzVPWbRGG6Xc8cgvUP-Q/master.m3u8"
     }
   ]
 }
