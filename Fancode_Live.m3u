@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Los Angeles Waves CC vs Texas Gladiators CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/TGC-vs-LAW_old.jpg" tvg-id="110046" group-title="National Cricket League, 2024",Los Angeles Waves CC vs Texas Gladiators CC
-https://dai.google.com/linear/hls/event/40riz7ctRYGucO_ZzgYl7w/master.m3u8
-#EXTINF:-1 tvg-name="Austria vs Hungary" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109503_4514_HUN_AUT_fc-web.jpg" tvg-id="109503" group-title="Dream11 European Cricket Championship, 2024",Austria vs Hungary
-https://dai.google.com/linear/hls/event/lxp2tb7JT12OaOBqIsZOmQ/master.m3u8
 #EXTINF:-1 tvg-name="Romania vs Denmark" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109505_4514_DEN_ROM_fc-web.jpg" tvg-id="109505" group-title="Dream11 European Cricket Championship, 2024",Romania vs Denmark
 https://dai.google.com/linear/hls/event/nYbo1njqR5aGyfmF6yorhQ/master.m3u8
 #EXTINF:-1 tvg-name="Konark Suryas Odisha vs Toyam Hyderabad" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109297_4496_KSO_THY_fc-web_1728199331353.jpg" tvg-id="109297" group-title="Legends League Cricket, 2024",Konark Suryas Odisha vs Toyam Hyderabad
@@ -11,5 +7,3 @@ https://dai.google.com/linear/hls/event/5IyWdNGqRYSLNorD1WtLIg/master.m3u8
 https://dai.google.com/linear/hls/event/EtbV3zYkQeCwqL9gvTsV3Q/master.m3u8
 #EXTINF:-1 tvg-name="Kaya FC–Iloilo vs College of Asian Scholars" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="110224" group-title="AFC Women's Champions League 2024-25",Kaya FC–Iloilo vs College of Asian Scholars
 https://dai.google.com/linear/hls/event/b5p3x1iUQGGAoptSm3MW7w/master.m3u8
-#EXTINF:-1 tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Alfred-Dunhill-Links-Championship_match_card_1.jpg" tvg-id="110039" group-title="Alfred Dunhill Links Championship",Day 4
-https://dai.google.com/linear/hls/event/ym-ldso_TlalzETzuYc-ng/master.m3u8
