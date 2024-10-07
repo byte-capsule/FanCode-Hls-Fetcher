@@ -2,19 +2,19 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 3,
-  "last_upaded": "07-10-2024 on 5:27:25 PM \ud83c\udf1e",
+  "last_upaded": "07-10-2024 on 5:42:08 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
       "event_name": "Dream11 European Cricket Championship, 2024",
-      "match_id": 109507,
-      "match_name": "Hungary vs Romania",
-      "team_1": "Hungary",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HUNG@2x.png",
-      "team_2": "Romania",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROMN@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/109507_4514_HUN_ROM_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/9c3wTNxyQRex3__rASk2VA/master.m3u8"
+      "match_id": 109511,
+      "match_name": "Austria vs Germany",
+      "team_1": "Austria",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUST@2x.png",
+      "team_2": "Germany",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GER@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/109511_4514_AUT_GER_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/f6raH88HRCuLGWrt-Js72w/master.m3u8"
     },
     {
       "event_catagory": "cricket",
