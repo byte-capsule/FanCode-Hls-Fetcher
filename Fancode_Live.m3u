@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Southern Hitters vs Northern Strikers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MCA-T20-Super-Series_old_v2.jpg" tvg-id="110382" group-title="MCA T20 Super Series 2024",Southern Hitters vs Northern Strikers
-https://dai.google.com/linear/hls/event/6jSYGbadTiCSvWz27EZPoQ/master.m3u8
 #EXTINF:-1 tvg-name="East Bay Blazers vs Chicago Kingsmen" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/08/Minor-League-Cricket-old-match-card-2.png" tvg-id="107898" group-title="Minor League Cricket, 2024",East Bay Blazers vs Chicago Kingsmen
 https://dai.google.com/linear/hls/event/WBVOwR5DQ0OYiYhah1Yv3w/master.m3u8
+#EXTINF:-1 tvg-name="Southern Hitters vs Northern Strikers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MCA-T20-Super-Series_old_v2.jpg" tvg-id="110382" group-title="MCA T20 Super Series 2024",Southern Hitters vs Northern Strikers
+https://dai.google.com/linear/hls/event/6jSYGbadTiCSvWz27EZPoQ/master.m3u8
 #EXTINF:-1 tvg-name="Guyana Amazon Warriors vs Saint Lucia Kings" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/08/104214_4287_SLK_GUY_fc-web.jpg" tvg-id="104238" group-title="Caribbean Premier League, 2024",Guyana Amazon Warriors vs Saint Lucia Kings
 https://dai.google.com/linear/hls/event/w0KththoTo-KcfenkezDWQ/master.m3u8
