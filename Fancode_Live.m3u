@@ -1,13 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Malta vs Spain" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109528_4514_SPA_MAL_fc-web.jpg" tvg-id="109528" group-title="Dream11 European Cricket Championship, 2024",Malta vs Spain
-https://dai.google.com/linear/hls/event/qXObdEPdQ2q_9tferQG5DQ/master.m3u8
 #EXTINF:-1 tvg-name="ILT20 Marvels vs Dubai Capitals Development" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110068_4534_DCD_MAR_fc-web.jpg" tvg-id="110068" group-title="ILT20 Development Tournament, 2024",ILT20 Marvels vs Dubai Capitals Development
 https://dai.google.com/linear/hls/event/AhbHUprNRi6a_rsy5oKXpA/master.m3u8
-#EXTINF:-1 tvg-name="Southern Super Stars vs Toyam Hyderabad" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109299_4496_THY_SSS_fc-web_1728199331356.jpg" tvg-id="109299" group-title="Legends League Cricket, 2024",Southern Super Stars vs Toyam Hyderabad
-https://dai.google.com/linear/hls/event/U2JhB0kwSa-5f3JnFOtocQ/master.m3u8
 #EXTINF:-1 tvg-name="Pakistan vs England" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png" tvg-id="110480" group-title="England tour of Pakistan, 2024",Pakistan vs England
 https://dai.google.com/linear/hls/event/u3knVFSpSiqIwhWNkIYjzA/master.m3u8
-#EXTINF:-1 tvg-name="Afghanistan A vs Oman" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-A-tour-of-Oman_Old_match-card.jpg" tvg-id="110526" group-title="Afghanistan A tour of Oman, 2024",Afghanistan A vs Oman
-https://dai.google.com/linear/hls/event/vasltivXRnO-3EGAam_HeA/master.m3u8
+#EXTINF:-1 tvg-name="Odisha Women vs Ho Chi Minh City Women’s FC" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="110232" group-title="AFC Women's Champions League 2024-25",Odisha Women vs Ho Chi Minh City Women’s FC
+https://dai.google.com/linear/hls/event/JvkZaaNyQYi1DWmhEOoR2Q/master.m3u8
 #EXTINF:-1 tvg-name="Wuhan Jiangda Women vs Incheon Red Angels Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="110234" group-title="AFC Women's Champions League 2024-25",Wuhan Jiangda Women vs Incheon Red Angels Women
 https://dai.google.com/linear/hls/event/Vgq1w94gTAe_4PhaS0LjFQ/master.m3u8
+#EXTINF:-1 tvg-name="College of Asian Scholars vs Melbourne City Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="110230" group-title="AFC Women's Champions League 2024-25",College of Asian Scholars vs Melbourne City Women
+https://dai.google.com/linear/hls/event/J-wx5xzTTbirEf60CZqtCg/master.m3u8
