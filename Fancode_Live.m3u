@@ -1,6 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Belgium vs Finland" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109527_4514_FIN_BEL_fc-web.jpg" tvg-id="109527" group-title="Dream11 European Cricket Championship, 2024",Belgium vs Finland
+https://dai.google.com/linear/hls/event/usC8-d5iRMGTKy7adZhdNQ/master.m3u8
 #EXTINF:-1 tvg-name="Pakistan vs England" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png" tvg-id="110480" group-title="England tour of Pakistan, 2024",Pakistan vs England
 https://dai.google.com/linear/hls/event/u3knVFSpSiqIwhWNkIYjzA/master.m3u8
+#EXTINF:-1 tvg-name="Afghanistan A vs Oman" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-A-tour-of-Oman_Old_match-card.jpg" tvg-id="110526" group-title="Afghanistan A tour of Oman, 2024",Afghanistan A vs Oman
+https://dai.google.com/linear/hls/event/vasltivXRnO-3EGAam_HeA/master.m3u8
 #EXTINF:-1 tvg-name="Southern Super Stars vs Toyam Hyderabad" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109299_4496_THY_SSS_fc-web_1728199331356.jpg" tvg-id="109299" group-title="Legends League Cricket, 2024",Southern Super Stars vs Toyam Hyderabad
 https://dai.google.com/linear/hls/event/U2JhB0kwSa-5f3JnFOtocQ/master.m3u8
 #EXTINF:-1 tvg-name="Sabah FA vs Abu Dhabi Country Club" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="110233" group-title="AFC Women's Champions League 2024-25",Sabah FA vs Abu Dhabi Country Club
