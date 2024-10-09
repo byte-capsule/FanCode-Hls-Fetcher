@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Gulf Giants Development vs Desert Vipers Development" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110069_4534_GGD_DVD_fc-web.jpg" tvg-id="110069" group-title="ILT20 Development Tournament, 2024",Gulf Giants Development vs Desert Vipers Development
-https://dai.google.com/linear/hls/event/y1YyfbWtQWua4SSSTFEhTw/master.m3u8
-#EXTINF:-1 tvg-name="Pakistan vs England" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png" tvg-id="110480" group-title="England tour of Pakistan, 2024",Pakistan vs England
-https://dai.google.com/linear/hls/event/u3knVFSpSiqIwhWNkIYjzA/master.m3u8
-#EXTINF:-1 tvg-name="Al Hajery Team XI vs NCM Investment" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_01.jpg" tvg-id="110485" group-title="KCC T20 Elite Cup, 2024",Al Hajery Team XI vs NCM Investment
-https://dai.google.com/linear/hls/event/RFmbQhZkSRy33tbg1ntvtQ/master.m3u8
+#EXTINF:-1 tvg-name="Monaco vs Maccabi Tel Aviv" tvg-logo="https://www.fancode.com/aig/match/v1/110083_CASACARDS_APP.png" tvg-id="110083" group-title="Euro League 2024-25",Monaco vs Maccabi Tel Aviv
+https://dai.google.com/linear/hls/event/ElD6oV9DTw60x4wtUIJreQ/master.m3u8
