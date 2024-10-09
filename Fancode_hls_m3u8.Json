@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "09-10-2024 on 2:47:32 PM \ud83c\udf1e",
+  "total_mathes": 4,
+  "last_upaded": "09-10-2024 on 3:11:41 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -39,6 +39,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-URD@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
       "stream_link": "https://dai.google.com/linear/hls/event/wbqQsjwERG2C403vv7yqVA/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "AFC Women's Champions League 2024-25",
+      "match_id": 110229,
+      "match_name": "Bam Khatoon FC vs Kaya FC\u2013Iloilo",
+      "team_1": "Bam Khatoon FC",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BKFC@2x.png",
+      "team_2": "Kaya FC\u2013Iloilo",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KAYA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/7s1b2BNlRK6q4nlImxwv5Q/master.m3u8"
     }
   ]
 }
