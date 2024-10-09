@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "09-10-2024 on 3:11:41 PM \ud83c\udf1e",
+  "total_mathes": 5,
+  "last_upaded": "09-10-2024 on 3:31:10 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,6 +15,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png",
       "stream_link": "https://dai.google.com/linear/hls/event/u3knVFSpSiqIwhWNkIYjzA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Legends League Cricket, 2024",
+      "match_id": 109299,
+      "match_name": "Southern Super Stars vs Toyam Hyderabad",
+      "team_1": "Southern Super Stars",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSS@2x.png",
+      "team_2": "Toyam Hyderabad",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THY@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/109299_4496_THY_SSS_fc-web_1728199331356.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/U2JhB0kwSa-5f3JnFOtocQ/master.m3u8"
     },
     {
       "event_catagory": "football",
