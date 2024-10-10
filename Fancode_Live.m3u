@@ -1,15 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Spain vs Belgium" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109535_4514_SPA_BEL_fc-web.jpg" tvg-id="109535" group-title="Dream11 European Cricket Championship, 2024",Spain vs Belgium
-https://dai.google.com/linear/hls/event/p9dO3kZ3SgijCVyS2muGnQ/master.m3u8
-#EXTINF:-1 tvg-name="Stack CC vs Kuwait Emerging Stars" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_02.jpg" tvg-id="110486" group-title="KCC T20 Elite Cup, 2024",Stack CC vs Kuwait Emerging Stars
-https://dai.google.com/linear/hls/event/fUDx1a93Qc62YcmLt3MEXA/master.m3u8
-#EXTINF:-1 tvg-name="Pakistan vs England" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png" tvg-id="110480" group-title="England tour of Pakistan, 2024",Pakistan vs England
-https://dai.google.com/linear/hls/event/Zx8ZUYt9QcqY2JzXzTfGpQ/master.m3u8
 #EXTINF:-1 tvg-name="Iraq vs Palestine" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108292_3740_IRQ_PAL_fc-web.jpg" tvg-id="108292" group-title="FIFA World Cup Asian Qualifiers",Iraq vs Palestine
 https://dai.google.com/linear/hls/event/N37OrryqRBqtLjSwprJYrw/master.m3u8
 #EXTINF:-1 tvg-name="Saudi Arabia vs Japan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108295_3740_KSA_JPN_fc-web.jpg" tvg-id="108295" group-title="FIFA World Cup Asian Qualifiers",Saudi Arabia vs Japan
 https://dai.google.com/linear/hls/event/ltLR1cQqRB2Z-may0w_SLw/master.m3u8
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FedEx-Open-de-France_old.jpg" tvg-id="110597" group-title="FedEx Open de France",Day 1
 https://dai.google.com/linear/hls/event/NLl6zdEXTqOxNxCPDD58Gg/master.m3u8
-#EXTINF:-1 tvg-name="Monaco vs Maccabi Tel Aviv" tvg-logo="https://www.fancode.com/aig/match/v1/110083_CASACARDS_APP.png" tvg-id="110083" group-title="Euro League 2024-25",Monaco vs Maccabi Tel Aviv
-https://dai.google.com/linear/hls/event/ElD6oV9DTw60x4wtUIJreQ/master.m3u8
