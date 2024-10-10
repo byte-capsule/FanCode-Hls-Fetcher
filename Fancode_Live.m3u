@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Belgium vs Switzerland" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109532_4514_SUI_BEL_fc-web.jpg" tvg-id="109532" group-title="Dream11 European Cricket Championship, 2024",Belgium vs Switzerland
+https://dai.google.com/linear/hls/event/pIEIdOKJTuOaNKz1db3ZFw/master.m3u8
 #EXTINF:-1 tvg-name="Pakistan vs England" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png" tvg-id="110480" group-title="England tour of Pakistan, 2024",Pakistan vs England
 https://dai.google.com/linear/hls/event/u3knVFSpSiqIwhWNkIYjzA/master.m3u8
 #EXTINF:-1 tvg-name="Afghanistan A vs Oman" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-A-tour-of-Oman_Old_match-card.jpg" tvg-id="110527" group-title="Afghanistan A tour of Oman, 2024",Afghanistan A vs Oman
