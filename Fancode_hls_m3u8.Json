@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "10-10-2024 on 7:44:21 PM \ud83c\udf19",
+  "total_mathes": 6,
+  "last_upaded": "10-10-2024 on 8:09:57 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,6 +27,30 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MT@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/109300_4496_IC_MNT_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/wh5AoTlmSeifqQacVmAlkg/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "FIFA World Cup Asian Qualifiers",
+      "match_id": 108290,
+      "match_name": "Jordan vs Korea Republic",
+      "team_1": "Jordan",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/JOR-FT1@2x.png",
+      "team_2": "Korea Republic",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SOK@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/108290_3740_JOR_KOR_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/FyafRN9KSDOnXAOdq976EQ/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "FIFA World Cup Asian Qualifiers",
+      "match_id": 108287,
+      "match_name": "Uzbekistan vs IR Iran",
+      "team_1": "Uzbekistan",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-UB@2x.png",
+      "team_2": "IR Iran",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-IRN@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/108287_3740_UZB_IRN_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/zFAYxYbVSNWAlHdnEc52LQ/master.m3u8"
     },
     {
       "event_catagory": "golf",
