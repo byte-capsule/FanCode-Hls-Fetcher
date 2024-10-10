@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "10-10-2024 on 3:11:30 PM \ud83c\udf1e",
+  "total_mathes": 4,
+  "last_upaded": "10-10-2024 on 3:30:42 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,6 +27,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OMA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-A-tour-of-Oman_Old_match-card.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/aSCflgP0SpSlin45GTY5Yg/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "FIFA World Cup Asian Qualifiers",
+      "match_id": 108293,
+      "match_name": "Australia vs China PR",
+      "team_1": "Australia",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AUS@2x.png",
+      "team_2": "China PR",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CHN@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/108293_3740_AUS_CHN_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/2EXBfjquTLOnEoEjR0C5PA/master.m3u8"
     },
     {
       "event_catagory": "basketball",
