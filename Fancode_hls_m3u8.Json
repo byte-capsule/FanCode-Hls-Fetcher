@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "10-10-2024 on 6:19:09 PM \ud83c\udf19",
+  "total_mathes": 4,
+  "last_upaded": "10-10-2024 on 6:53:26 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,18 +27,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png",
       "stream_link": "https://dai.google.com/linear/hls/event/Zx8ZUYt9QcqY2JzXzTfGpQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Afghanistan A tour of Oman, 2024",
-      "match_id": 110527,
-      "match_name": "Afghanistan A vs Oman",
-      "team_1": "Afghanistan A",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFG@2x.png",
-      "team_2": "Oman",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OMA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-A-tour-of-Oman_Old_match-card.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/aSCflgP0SpSlin45GTY5Yg/master.m3u8"
     },
     {
       "event_catagory": "golf",
