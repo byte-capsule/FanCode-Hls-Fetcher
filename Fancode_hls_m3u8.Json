@@ -1,33 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "11-10-2024 on 01:24:20 AM \ud83c\udf19",
+  "total_mathes": 3,
+  "last_upaded": "11-10-2024 on 01:42:06 AM \ud83c\udf19",
   "matches": [
-    {
-      "event_catagory": "football",
-      "event_name": "FIFA World Cup Asian Qualifiers",
-      "match_id": 108292,
-      "match_name": "Iraq vs Palestine",
-      "team_1": "Iraq",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/IRQ-FT1@2x.png",
-      "team_2": "Palestine",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/PAL-FT1@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/108292_3740_IRQ_PAL_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/N37OrryqRBqtLjSwprJYrw/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "FIFA World Cup Asian Qualifiers",
-      "match_id": 108295,
-      "match_name": "Saudi Arabia vs Japan",
-      "team_1": "Saudi Arabia",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/SAU-FT1@2x.png",
-      "team_2": "Japan",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-JPN@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/108295_3740_KSA_JPN_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/ltLR1cQqRB2Z-may0w_SLw/master.m3u8"
-    },
     {
       "event_catagory": "golf",
       "event_name": "FedEx Open de France",
@@ -43,18 +19,6 @@
     {
       "event_catagory": "basketball",
       "event_name": "Euro League 2024-25",
-      "match_id": 110084,
-      "match_name": "Anadolu Efes Istanbul vs Fenerbahce Beko Istanbul",
-      "team_1": "Anadolu Efes Istanbul",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-ANAD@2x.png",
-      "team_2": "Fenerbahce Beko Istanbul",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-FERN@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/110084_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/inzWzK0mTEyJFFJI_unB6A/master.m3u8"
-    },
-    {
-      "event_catagory": "basketball",
-      "event_name": "Euro League 2024-25",
       "match_id": 110085,
       "match_name": "Real Madrid vs Partizan NIS Belgrade",
       "team_1": "Real Madrid",
@@ -63,6 +27,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-PARTZ@2x.png",
       "banner": "https://www.fancode.com/aig/match/v1/110085_CASACARDS_APP.png",
       "stream_link": "https://dai.google.com/linear/hls/event/iz79xxI9QMWUIWoBrHEKYw/master.m3u8"
+    },
+    {
+      "event_catagory": "basketball",
+      "event_name": "Euro League 2024-25",
+      "match_id": 110084,
+      "match_name": "Anadolu Efes Istanbul vs Fenerbahce Beko Istanbul",
+      "team_1": "Anadolu Efes Istanbul",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-ANAD@2x.png",
+      "team_2": "Fenerbahce Beko Istanbul",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-FERN@2x.png",
+      "banner": "https://www.fancode.com/aig/match/v1/110084_CASACARDS_APP.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/inzWzK0mTEyJFFJI_unB6A/master.m3u8"
     }
   ]
 }
