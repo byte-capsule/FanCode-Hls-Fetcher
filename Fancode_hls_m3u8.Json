@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "11-10-2024 on 01:42:06 AM \ud83c\udf19",
+  "total_mathes": 2,
+  "last_upaded": "11-10-2024 on 02:11:17 AM \ud83c\udf19",
   "matches": [
-    {
-      "event_catagory": "golf",
-      "event_name": "FedEx Open de France",
-      "match_id": 110597,
-      "match_name": "Day 1",
-      "team_1": "Day 1",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-FO@2x.png",
-      "team_2": "Le Golf National, Saint-Quentin-en-Yvelines, Franc",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-Open-de-France_old.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/NLl6zdEXTqOxNxCPDD58Gg/master.m3u8"
-    },
     {
       "event_catagory": "basketball",
       "event_name": "Euro League 2024-25",
