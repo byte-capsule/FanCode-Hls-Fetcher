@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Pakistan vs England" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png" tvg-id="110480" group-title="England tour of Pakistan, 2024",Pakistan vs England
-https://dai.google.com/linear/hls/event/Zx8ZUYt9QcqY2JzXzTfGpQ/master.m3u8
+#EXTINF:-1 tvg-name="Malta vs Switzerland" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109534_4514_MAL_SUI_fc-web.jpg" tvg-id="109534" group-title="Dream11 European Cricket Championship, 2024",Malta vs Switzerland
+https://dai.google.com/linear/hls/event/OKSBmT1wTmOEzVGCXxfSbQ/master.m3u8
 #EXTINF:-1 tvg-name="India Capitals vs Manipal Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109300_4496_IC_MNT_fc-web.jpg" tvg-id="109300" group-title="Legends League Cricket, 2024",India Capitals vs Manipal Tigers
 https://dai.google.com/linear/hls/event/wh5AoTlmSeifqQacVmAlkg/master.m3u8
+#EXTINF:-1 tvg-name="Pakistan vs England" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png" tvg-id="110480" group-title="England tour of Pakistan, 2024",Pakistan vs England
+https://dai.google.com/linear/hls/event/Zx8ZUYt9QcqY2JzXzTfGpQ/master.m3u8
 #EXTINF:-1 tvg-name="Jordan vs Korea Republic" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108290_3740_JOR_KOR_fc-web.jpg" tvg-id="108290" group-title="FIFA World Cup Asian Qualifiers",Jordan vs Korea Republic
 https://dai.google.com/linear/hls/event/FyafRN9KSDOnXAOdq976EQ/master.m3u8
 #EXTINF:-1 tvg-name="Uzbekistan vs IR Iran" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108287_3740_UZB_IRN_fc-web.jpg" tvg-id="108287" group-title="FIFA World Cup Asian Qualifiers",Uzbekistan vs IR Iran
