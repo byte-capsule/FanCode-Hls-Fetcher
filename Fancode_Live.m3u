@@ -7,5 +7,7 @@ https://dai.google.com/linear/hls/event/u3knVFSpSiqIwhWNkIYjzA/master.m3u8
 https://dai.google.com/linear/hls/event/aSCflgP0SpSlin45GTY5Yg/master.m3u8
 #EXTINF:-1 tvg-name="Australia vs China PR" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108293_3740_AUS_CHN_fc-web.jpg" tvg-id="108293" group-title="FIFA World Cup Asian Qualifiers",Australia vs China PR
 https://dai.google.com/linear/hls/event/2EXBfjquTLOnEoEjR0C5PA/master.m3u8
+#EXTINF:-1 tvg-name="Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FedEx-Open-de-France_old.jpg" tvg-id="110597" group-title="FedEx Open de France",Day 1
+https://dai.google.com/linear/hls/event/NLl6zdEXTqOxNxCPDD58Gg/master.m3u8
 #EXTINF:-1 tvg-name="Monaco vs Maccabi Tel Aviv" tvg-logo="https://www.fancode.com/aig/match/v1/110083_CASACARDS_APP.png" tvg-id="110083" group-title="Euro League 2024-25",Monaco vs Maccabi Tel Aviv
 https://dai.google.com/linear/hls/event/ElD6oV9DTw60x4wtUIJreQ/master.m3u8
