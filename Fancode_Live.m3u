@@ -1,10 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Pakistan vs England" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png" tvg-id="110480" group-title="England tour of Pakistan, 2024",Pakistan vs England
 https://dai.google.com/linear/hls/event/Zx8ZUYt9QcqY2JzXzTfGpQ/master.m3u8
-#EXTINF:-1 tvg-name="New York Lions CC vs Chicago CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110054_4533_NYL_CHI_fc-web_1728289366409.jpg" tvg-id="110054" group-title="National Cricket League, 2024",New York Lions CC vs Chicago CC
-https://dai.google.com/linear/hls/event/3i_e_skXRZSM_6nkCPu5Aw/master.m3u8
-#EXTINF:-1 tvg-name="Chile vs Brazil" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108282_3542_PER_COL_fc-web_1728577269969.jpg" tvg-id="110546" group-title="CONMEBOL World Cup Qualifiers",Chile vs Brazil
-https://dai.google.com/linear/hls/event/dsCWzCaYRw-snBXEKfyM1Q/master.m3u8
+#EXTINF:-1 tvg-name="Northern Strikers vs Southern Hitters" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MCA-T20-Super-Series_oldv1.jpg" tvg-id="110389" group-title="MCA T20 Super Series 2024",Northern Strikers vs Southern Hitters
+https://dai.google.com/linear/hls/event/kTTL8lETQl-xrKWqq3PZ0Q/master.m3u8
 #EXTINF:-1 tvg-name="Real Madrid vs Partizan NIS Belgrade" tvg-logo="https://www.fancode.com/aig/match/v1/110085_CASACARDS_APP.png" tvg-id="110085" group-title="Euro League 2024-25",Real Madrid vs Partizan NIS Belgrade
 https://dai.google.com/linear/hls/event/iz79xxI9QMWUIWoBrHEKYw/master.m3u8
 #EXTINF:-1 tvg-name="Anadolu Efes Istanbul vs Fenerbahce Beko Istanbul" tvg-logo="https://www.fancode.com/aig/match/v1/110084_CASACARDS_APP.png" tvg-id="110084" group-title="Euro League 2024-25",Anadolu Efes Istanbul vs Fenerbahce Beko Istanbul
