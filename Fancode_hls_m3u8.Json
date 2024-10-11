@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "11-10-2024 on 7:16:53 PM \ud83c\udf19",
+  "total_mathes": 4,
+  "last_upaded": "11-10-2024 on 7:33:11 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,6 +27,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GGD@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110070_4534_THU_GGD_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/og5NXTq2RyOwgSAmULiHZA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Legends League Cricket, 2024",
+      "match_id": 109301,
+      "match_name": "Gujarat Greats vs Konark Suryas Odisha",
+      "team_1": "Gujarat Greats",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GJC@2x.png",
+      "team_2": "Konark Suryas Odisha",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KSOL@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/109301_4496_KSO_GJG_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/2Pyg58-US5-T1xCBDPg1Zw/master.m3u8"
     },
     {
       "event_catagory": "golf",
