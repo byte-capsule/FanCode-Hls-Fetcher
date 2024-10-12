@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Norway vs Sweden" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109541_4514_NOR_SWE_fc-web.jpg" tvg-id="109541" group-title="Dream11 European Cricket Championship, 2024",Norway vs Sweden
 https://dai.google.com/linear/hls/event/t5ysuuGVRUe0_Ad9OKdJXw/master.m3u8
-#EXTINF:-1 tvg-name="Oman vs Hong Kong A" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Oman-vs-Hong-Kong-A_old.jpg" tvg-id="110528" group-title="Afghanistan A and Hong Kong A tour of Oman, 2024",Oman vs Hong Kong A
-https://liveauth.fancode.com/primary/110528_english_hls_8343adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Konark Suryas Odisha vs Southern Super Stars" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SSS_KSO_fc-web.jpg" tvg-id="109302" group-title="Legends League Cricket, 2024",Konark Suryas Odisha vs Southern Super Stars
 https://dai.google.com/linear/hls/event/Cq9U2MiKQeaLa9g5J0XNFg/master.m3u8
+#EXTINF:-1 tvg-name="Oman vs Hong Kong A" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Oman-vs-Hong-Kong-A_old.jpg" tvg-id="110528" group-title="Afghanistan A and Hong Kong A tour of Oman, 2024",Oman vs Hong Kong A
+https://liveauth.fancode.com/primary/110528_english_hls_8343adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Melbourne Victory Women vs Kaya FC–Iloilo" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="110235" group-title="AFC Women's Champions League 2024-25",Melbourne Victory Women vs Kaya FC–Iloilo
 https://dai.google.com/linear/hls/event/20QwlEU8TKOPgdoitx23tw/master.m3u8
