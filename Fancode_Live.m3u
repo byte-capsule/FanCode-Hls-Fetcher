@@ -3,8 +3,10 @@
 https://dai.google.com/linear/hls/event/0NT2uRvBTaOU2n29uG_TCw/master.m3u8
 #EXTINF:-1 tvg-name="Konark Suryas Odisha vs Southern Super Stars" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SSS_KSO_fc-web.jpg" tvg-id="109302" group-title="Legends League Cricket, 2024",Konark Suryas Odisha vs Southern Super Stars
 https://dai.google.com/linear/hls/event/Cq9U2MiKQeaLa9g5J0XNFg/master.m3u8
-#EXTINF:-1 tvg-name="Oman vs Hong Kong A" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Oman-vs-Hong-Kong-A_old.jpg" tvg-id="110528" group-title="Afghanistan A and Hong Kong A tour of Oman, 2024",Oman vs Hong Kong A
-https://liveauth.fancode.com/primary/110528_english_hls_8343adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Urawa Red Diamonds Ladies vs Ho Chi Minh City Women’s FC" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="110238" group-title="AFC Women's Champions League 2024-25",Urawa Red Diamonds Ladies vs Ho Chi Minh City Women’s FC
+https://dai.google.com/linear/hls/event/_Sc4B2npQa64VOshz7rGkg/master.m3u8
+#EXTINF:-1 tvg-name="Chesterfield vs Notts County" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/08/EFL-league-two-old-matchcard-1.png" tvg-id="110101" group-title="League Two 2024-25",Chesterfield vs Notts County
+https://dai.google.com/linear/hls/event/gBSD4xitSs-Rz4l6Lds2AQ/master.m3u8
 #EXTINF:-1 tvg-name="Vietnam vs India" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Club_Friendlies_India_2024_Old_match-card.jpg" tvg-id="110834" group-title="International Friendlies",Vietnam vs India
 https://dai.google.com/linear/hls/event/UpcJgsS7TR2OeT-qdOM-nQ/master.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FedEx-Open-de-France_old.jpg" tvg-id="110599" group-title="FedEx Open de France",Day 3
