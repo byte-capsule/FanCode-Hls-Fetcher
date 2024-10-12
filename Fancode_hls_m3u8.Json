@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "12-10-2024 on 8:08:07 PM \ud83c\udf19",
+  "total_mathes": 4,
+  "last_upaded": "12-10-2024 on 8:29:29 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,6 +15,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DVD@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110072_4534_DVD_DCD_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/DlRrfYNiRiSWOEXll_X_kw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Dream11 European Cricket Championship, 2024",
+      "match_id": 109543,
+      "match_name": "Norway vs Jersey",
+      "team_1": "Norway",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NORW@2x.png",
+      "team_2": "Jersey",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JERSE@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/109543_4514_JER_NOR_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/TsohjvnRS4uV_dfcAKz8dg/master.m3u8"
     },
     {
       "event_catagory": "football",
