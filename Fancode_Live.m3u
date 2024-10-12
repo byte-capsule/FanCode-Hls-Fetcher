@@ -1,3 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Oman vs Hong Kong A" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Oman-vs-Hong-Kong-A_old.jpg" tvg-id="110528" group-title="Afghanistan A and Hong Kong A tour of Oman, 2024",Oman vs Hong Kong A
+https://liveauth.fancode.com/primary/110528_english_hls_8343adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Taichung Blue Whale Women vs Odisha Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="110237" group-title="AFC Women's Champions League 2024-25",Taichung Blue Whale Women vs Odisha Women
 https://dai.google.com/linear/hls/event/HT7qwg5yTTWo_7aG2z3clw/master.m3u8
