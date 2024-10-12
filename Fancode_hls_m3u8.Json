@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "12-10-2024 on 4:42:32 PM \ud83c\udf1e",
+  "total_mathes": 5,
+  "last_upaded": "12-10-2024 on 5:07:36 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -42,15 +42,27 @@
     },
     {
       "event_catagory": "football",
-      "event_name": "AFC Women's Champions League 2024-25",
-      "match_id": 110235,
-      "match_name": "Melbourne Victory Women vs Kaya FC\u2013Iloilo",
-      "team_1": "Melbourne Victory Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLVA@2x.png",
-      "team_2": "Kaya FC\u2013Iloilo",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KAYA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/20QwlEU8TKOPgdoitx23tw/master.m3u8"
+      "event_name": "International Friendlies",
+      "match_id": 110834,
+      "match_name": "Vietnam vs India",
+      "team_1": "Vietnam",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/VIE-FT1@2x.png",
+      "team_2": "India",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-IND@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Club_Friendlies_India_2024_Old_match-card.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/UpcJgsS7TR2OeT-qdOM-nQ/master.m3u8"
+    },
+    {
+      "event_catagory": "golf",
+      "event_name": "FedEx Open de France",
+      "match_id": 110599,
+      "match_name": "Day 3",
+      "team_1": "Day 3",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-FO@2x.png",
+      "team_2": "Le Golf National, Saint-Quentin-en-Yvelines, Franc",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-Open-de-France_old.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/fpcd-TFfTlasZA5v4ZtwEw/master.m3u8"
     }
   ]
 }
