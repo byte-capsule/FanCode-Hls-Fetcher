@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Italy vs Netherlands XI" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109542_4514_ITA_NED-XI_fc-web.jpg" tvg-id="109542" group-title="Dream11 European Cricket Championship, 2024",Italy vs Netherlands XI
-https://dai.google.com/linear/hls/event/0NT2uRvBTaOU2n29uG_TCw/master.m3u8
-#EXTINF:-1 tvg-name="Konark Suryas Odisha vs Southern Super Stars" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SSS_KSO_fc-web.jpg" tvg-id="109302" group-title="Legends League Cricket, 2024",Konark Suryas Odisha vs Southern Super Stars
-https://dai.google.com/linear/hls/event/Cq9U2MiKQeaLa9g5J0XNFg/master.m3u8
+#EXTINF:-1 tvg-name="Dubai Capitals Development vs Desert Vipers Development" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110072_4534_DVD_DCD_fc-web.jpg" tvg-id="110072" group-title="ILT20 Development Tournament, 2024",Dubai Capitals Development vs Desert Vipers Development
+https://dai.google.com/linear/hls/event/DlRrfYNiRiSWOEXll_X_kw/master.m3u8
 #EXTINF:-1 tvg-name="Urawa Red Diamonds Ladies vs Ho Chi Minh City Women’s FC" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="110238" group-title="AFC Women's Champions League 2024-25",Urawa Red Diamonds Ladies vs Ho Chi Minh City Women’s FC
 https://dai.google.com/linear/hls/event/_Sc4B2npQa64VOshz7rGkg/master.m3u8
 #EXTINF:-1 tvg-name="Chesterfield vs Notts County" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/08/EFL-league-two-old-matchcard-1.png" tvg-id="110101" group-title="League Two 2024-25",Chesterfield vs Notts County
 https://dai.google.com/linear/hls/event/gBSD4xitSs-Rz4l6Lds2AQ/master.m3u8
-#EXTINF:-1 tvg-name="Vietnam vs India" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Club_Friendlies_India_2024_Old_match-card.jpg" tvg-id="110834" group-title="International Friendlies",Vietnam vs India
-https://dai.google.com/linear/hls/event/UpcJgsS7TR2OeT-qdOM-nQ/master.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FedEx-Open-de-France_old.jpg" tvg-id="110599" group-title="FedEx Open de France",Day 3
 https://dai.google.com/linear/hls/event/fpcd-TFfTlasZA5v4ZtwEw/master.m3u8
