@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Selangor vs Perak" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="110569" group-title="MCA Men's 50 Overs Inter-State Championship, 2024",Selangor vs Perak
-https://dai.google.com/linear/hls/event/L63TzOiGRlWd0kKqLEb7wA/master.m3u8
 #EXTINF:-1 tvg-name="Johor vs Kelantan" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="110571" group-title="MCA Men's 50 Overs Inter-State Championship, 2024",Johor vs Kelantan
 https://dai.google.com/linear/hls/event/HEZaTbQqStGVaRhxWlGXQg/master.m3u8
+#EXTINF:-1 tvg-name="Selangor vs Perak" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="110569" group-title="MCA Men's 50 Overs Inter-State Championship, 2024",Selangor vs Perak
+https://dai.google.com/linear/hls/event/L63TzOiGRlWd0kKqLEb7wA/master.m3u8
