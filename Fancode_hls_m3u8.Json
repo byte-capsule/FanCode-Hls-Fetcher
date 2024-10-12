@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "12-10-2024 on 3:42:25 PM \ud83c\udf1e",
+  "total_mathes": 4,
+  "last_upaded": "12-10-2024 on 4:09:36 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -39,18 +39,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSS@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/SSS_KSO_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/Cq9U2MiKQeaLa9g5J0XNFg/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "AFC Women's Champions League 2024-25",
-      "match_id": 110237,
-      "match_name": "Taichung Blue Whale Women vs Odisha Women",
-      "team_1": "Taichung Blue Whale Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-TBW@2x.png",
-      "team_2": "Odisha Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ODISH@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/HT7qwg5yTTWo_7aG2z3clw/master.m3u8"
     },
     {
       "event_catagory": "football",
