@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "12-10-2024 on 10:12:12 AM \ud83c\udf1e",
+  "total_mathes": 3,
+  "last_upaded": "12-10-2024 on 10:33:36 AM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -39,18 +39,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KELAN@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
       "stream_link": "https://dai.google.com/linear/hls/event/HEZaTbQqStGVaRhxWlGXQg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "National Cricket League, 2024",
-      "match_id": 110057,
-      "match_name": "Chicago CC vs Los Angeles Waves CC",
-      "team_1": "Chicago CC",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CHIN@2x.png",
-      "team_2": "Los Angeles Waves CC",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LAW@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110057_4533_CHI_LAW_fc-web_1728289367201.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/jH914ZG7QbOjNUwIQKNr9A/master.m3u8"
     }
   ]
 }
