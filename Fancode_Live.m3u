@@ -1,1 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Johor vs Perak" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="110573" group-title="MCA Men's 50 Overs Inter-State Championship, 2024",Johor vs Perak
+https://dai.google.com/linear/hls/event/E2u5iiaWSRGL-3nNOXzFjw/master.m3u8
+#EXTINF:-1 tvg-name="Selangor vs Kuala Lumpur" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="110572" group-title="MCA Men's 50 Overs Inter-State Championship, 2024",Selangor vs Kuala Lumpur
+https://dai.google.com/linear/hls/event/mQ6ke5b5RhqANG0COyY3Ew/master.m3u8
+#EXTINF:-1 tvg-name="Negeri Sembilan vs Kelantan" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="110574" group-title="MCA Men's 50 Overs Inter-State Championship, 2024",Negeri Sembilan vs Kelantan
+https://dai.google.com/linear/hls/event/U6VOUGtsRgGJy-nYzZBhzQ/master.m3u8
+#EXTINF:-1 tvg-name="Jets CC vs Nok 99" tvg-logo="https://www.fancode.com/aig/match/v1/110445_CASACARDS_APP.png" tvg-id="110445" group-title="Maharashtra Champions Trophy 2024",Jets CC vs Nok 99
+https://liveauth.fancode.com/primary/110445_english_hls_5708adfreeta-di/index.m3u8
