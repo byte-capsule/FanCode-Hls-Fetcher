@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Jersey vs Netherlands XI" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109548_4514_NED-XI_JER_fc-web.jpg" tvg-id="109548" group-title="Dream11 European Cricket Championship, 2024",Jersey vs Netherlands XI
 https://dai.google.com/linear/hls/event/LSmAzC23S9S_VmGLvxCW2g/master.m3u8
+#EXTINF:-1 tvg-name="ILT20 Pearls vs Desert Vipers Development" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110074_4534_DVD_PEA_fc-web.jpg" tvg-id="110074" group-title="ILT20 Development Tournament, 2024",ILT20 Pearls vs Desert Vipers Development
+https://dai.google.com/linear/hls/event/wF6uF3Z6SbCzzWIApgTiKg/master.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Sri-Lanka-old-match-card_1728381763273.png" tvg-id="109867" group-title="West Indies tour of Sri Lanka, 2024",Sri Lanka vs West Indies
 https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FedEx-Open-de-France_old.jpg" tvg-id="110600" group-title="FedEx Open de France",Day 4
