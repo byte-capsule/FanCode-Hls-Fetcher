@@ -3,7 +3,7 @@
 https://dai.google.com/linear/hls/event/mFkCZUDBQ3qq_PSW-T0R9Q/master.m3u8
 #EXTINF:-1 tvg-name="Ashtapailu Sports vs Stars Cricket Club" tvg-logo="https://www.fancode.com/aig/match/v1/110446_CASACARDS_APP.png" tvg-id="110446" group-title="Maharashtra Champions Trophy 2024",Ashtapailu Sports vs Stars Cricket Club
 https://dai.google.com/linear/hls/event/O3e1Zg4SQ1SviyYardlLqg/master.m3u8
-#EXTINF:-1 tvg-name="Hong Kong A vs Afghanistan A" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AFG-A-vs-Hong-Kong-A_old.jpg" tvg-id="110529" group-title="Afghanistan A and Hong Kong A tour of Oman, 2024",Hong Kong A vs Afghanistan A
-https://liveauth.fancode.com/primary/110529_english_hls_5439adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="India Capitals vs Toyam Hyderabad" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IC_THY_fc-web.jpg" tvg-id="109303" group-title="Legends League Cricket, 2024",India Capitals vs Toyam Hyderabad
 https://dai.google.com/linear/hls/event/hAkuunMZRSSZ1bk_3JpQbQ/master.m3u8
+#EXTINF:-1 tvg-name="Hong Kong A vs Afghanistan A" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AFG-A-vs-Hong-Kong-A_old.jpg" tvg-id="110529" group-title="Afghanistan A and Hong Kong A tour of Oman, 2024",Hong Kong A vs Afghanistan A
+https://liveauth.fancode.com/primary/110529_english_hls_5439adfreeta-no/index.m3u8
