@@ -7,3 +7,5 @@ https://dai.google.com/linear/hls/event/O3e1Zg4SQ1SviyYardlLqg/master.m3u8
 https://dai.google.com/linear/hls/event/hAkuunMZRSSZ1bk_3JpQbQ/master.m3u8
 #EXTINF:-1 tvg-name="Hong Kong A vs Afghanistan A" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AFG-A-vs-Hong-Kong-A_old.jpg" tvg-id="110529" group-title="Afghanistan A and Hong Kong A tour of Oman, 2024",Hong Kong A vs Afghanistan A
 https://liveauth.fancode.com/primary/110529_english_hls_5439adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FedEx-Open-de-France_old.jpg" tvg-id="110600" group-title="FedEx Open de France",Day 4
+https://dai.google.com/linear/hls/event/Zw2C4OnpTCCUBxU-M_dYaw/master.m3u8
