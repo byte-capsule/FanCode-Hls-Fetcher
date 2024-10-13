@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "13-10-2024 on 9:43:14 PM \ud83c\udf19",
+  "total_mathes": 2,
+  "last_upaded": "13-10-2024 on 10:11:22 PM \ud83c\udf19",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Dream11 European Cricket Championship, 2024",
-      "match_id": 109548,
-      "match_name": "Jersey vs Netherlands XI",
-      "team_1": "Jersey",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JERSE@2x.png",
-      "team_2": "Netherlands XI",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/109548_4514_NED-XI_JER_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/LSmAzC23S9S_VmGLvxCW2g/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "ILT20 Development Tournament, 2024",
@@ -39,18 +27,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Sri-Lanka-old-match-card_1728381763273.png",
       "stream_link": "https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8"
-    },
-    {
-      "event_catagory": "golf",
-      "event_name": "FedEx Open de France",
-      "match_id": 110600,
-      "match_name": "Day 4",
-      "team_1": "Day 4",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-FO@2x.png",
-      "team_2": "Le Golf National, Saint-Quentin-en-Yvelines, Franc",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-Open-de-France_old.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/Zw2C4OnpTCCUBxU-M_dYaw/master.m3u8"
     }
   ]
 }
