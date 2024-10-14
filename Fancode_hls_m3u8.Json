@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 2,
-  "last_upaded": "14-10-2024 on 7:19:58 PM \ud83c\udf19",
+  "total_mathes": 3,
+  "last_upaded": "14-10-2024 on 7:38:19 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,6 +27,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DCD@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110075_4534_THU_DCD_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/Gd7KIqu_R3i4bYYXOGfdrA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Legends League Cricket, 2024",
+      "match_id": 109304,
+      "match_name": "Konark Suryas Odisha vs Toyam Hyderabad",
+      "team_1": "Konark Suryas Odisha",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KSOL@2x.png",
+      "team_2": "Toyam Hyderabad",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THY@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/109297_4496_KSO_THY_fc-web_1728199331353.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/eGl_lOilRBibna8cSSmFEA/master.m3u8"
     }
   ]
 }
