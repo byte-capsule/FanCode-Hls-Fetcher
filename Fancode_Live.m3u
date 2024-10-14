@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Norway vs Italy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109547_4514_NOR_ITA_fc-web.jpg" tvg-id="109551" group-title="Dream11 European Cricket Championship, 2024",Norway vs Italy
-https://dai.google.com/linear/hls/event/jRBAHkIzT-CEkwgfdC5JRQ/master.m3u8
-#EXTINF:-1 tvg-name="Punit Balan Group vs Stars Cricket Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110444_4545_SCC_PBG_fc-web.jpg" tvg-id="110444" group-title="Maharashtra Champions Trophy 2024",Punit Balan Group vs Stars Cricket Club
-https://dai.google.com/linear/hls/event/4bRwenv-SVq_PxbJK3PXsA/master.m3u8
-#EXTINF:-1 tvg-name="Afghanistan A vs Oman" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Oman-vs-AFG-A_old.jpg" tvg-id="110530" group-title="Afghanistan A and Hong Kong A tour of Oman, 2024",Afghanistan A vs Oman
-https://dai.google.com/linear/hls/event/8IX0McA-RuCIM3Tv_4J_dw/master.m3u8
+#EXTINF:-1 tvg-name="Sweden vs Netherlands XI" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109544_4514_NED-XI_SWE_fc-web.jpg" tvg-id="109552" group-title="Dream11 European Cricket Championship, 2024",Sweden vs Netherlands XI
+https://dai.google.com/linear/hls/event/nsjHqooKTqS07_yaC-_X5Q/master.m3u8
+#EXTINF:-1 tvg-name="ILT20 Thunderbolts vs Dubai Capitals Development" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110075_4534_THU_DCD_fc-web.jpg" tvg-id="110075" group-title="ILT20 Development Tournament, 2024",ILT20 Thunderbolts vs Dubai Capitals Development
+https://dai.google.com/linear/hls/event/Gd7KIqu_R3i4bYYXOGfdrA/master.m3u8
