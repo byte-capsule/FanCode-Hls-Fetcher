@@ -2,20 +2,8 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 2,
-  "last_upaded": "16-10-2024 on 01:42:04 AM \ud83c\udf19",
+  "last_upaded": "16-10-2024 on 02:11:10 AM \ud83c\udf19",
   "matches": [
-    {
-      "event_catagory": "basketball",
-      "event_name": "Euro League 2024-25",
-      "match_id": 110086,
-      "match_name": "Alba Berlin vs LDLC ASVEL Villeurbanne",
-      "team_1": "Alba Berlin",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-BERL@2x.png",
-      "team_2": "LDLC ASVEL Villeurbanne",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-ASVL@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/110086_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/AlQ-KlaMTgC6OKlShWbW4g/master.m3u8"
-    },
     {
       "event_catagory": "basketball",
       "event_name": "Euro League 2024-25",
@@ -27,6 +15,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-PANAT@2x.png",
       "banner": "https://www.fancode.com/aig/match/v1/110087_CASACARDS_APP.png",
       "stream_link": "https://dai.google.com/linear/hls/event/tctDHPOqTWm3zwntxP1M5A/master.m3u8"
+    },
+    {
+      "event_catagory": "basketball",
+      "event_name": "Euro League 2024-25",
+      "match_id": 110086,
+      "match_name": "Alba Berlin vs LDLC ASVEL Villeurbanne",
+      "team_1": "Alba Berlin",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-BERL@2x.png",
+      "team_2": "LDLC ASVEL Villeurbanne",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-ASVL@2x.png",
+      "banner": "https://www.fancode.com/aig/match/v1/110086_CASACARDS_APP.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/AlQ-KlaMTgC6OKlShWbW4g/master.m3u8"
     }
   ]
 }

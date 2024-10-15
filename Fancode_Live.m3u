@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Alba Berlin vs LDLC ASVEL Villeurbanne" tvg-logo="https://www.fancode.com/aig/match/v1/110086_CASACARDS_APP.png" tvg-id="110086" group-title="Euro League 2024-25",Alba Berlin vs LDLC ASVEL Villeurbanne
-https://dai.google.com/linear/hls/event/AlQ-KlaMTgC6OKlShWbW4g/master.m3u8
 #EXTINF:-1 tvg-name="Paris vs Panathinaikos OPAP Athens" tvg-logo="https://www.fancode.com/aig/match/v1/110087_CASACARDS_APP.png" tvg-id="110087" group-title="Euro League 2024-25",Paris vs Panathinaikos OPAP Athens
 https://dai.google.com/linear/hls/event/tctDHPOqTWm3zwntxP1M5A/master.m3u8
+#EXTINF:-1 tvg-name="Alba Berlin vs LDLC ASVEL Villeurbanne" tvg-logo="https://www.fancode.com/aig/match/v1/110086_CASACARDS_APP.png" tvg-id="110086" group-title="Euro League 2024-25",Alba Berlin vs LDLC ASVEL Villeurbanne
+https://dai.google.com/linear/hls/event/AlQ-KlaMTgC6OKlShWbW4g/master.m3u8
