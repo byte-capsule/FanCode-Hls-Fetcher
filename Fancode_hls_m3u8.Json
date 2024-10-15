@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "15-10-2024 on 5:26:02 PM \ud83c\udf1e",
+  "total_mathes": 8,
+  "last_upaded": "15-10-2024 on 5:42:25 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,6 +15,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GER@2x.png",
       "banner": "https://www.fancode.com/aig/match/v1/109555_CASACARDS_APP.png",
       "stream_link": "https://dai.google.com/linear/hls/event/zmbzOJnNTi-ZAbo57kjwaw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Dream11 European Cricket Championship, 2024",
+      "match_id": 109556,
+      "match_name": "England XI vs Spain",
+      "team_1": "England XI",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
+      "team_2": "Spain",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESP@2x.png",
+      "banner": "https://www.fancode.com/aig/match/v1/109556_CASACARDS_APP.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/J_2pA7YKQyWs5alsdIP4FQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -67,18 +79,6 @@
     {
       "event_catagory": "football",
       "event_name": "FIFA World Cup Asian Qualifiers",
-      "match_id": 110299,
-      "match_name": "Japan vs Australia",
-      "team_1": "Japan",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-JPN@2x.png",
-      "team_2": "Australia",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AUS@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/110299_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/L8dx9aRVSWm-UTVLYoagqg/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "FIFA World Cup Asian Qualifiers",
       "match_id": 110294,
       "match_name": "Korea Republic vs Iraq",
       "team_1": "Korea Republic",
@@ -87,6 +87,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/IRQ-FT1@2x.png",
       "banner": "https://www.fancode.com/aig/match/v1/110294_CASACARDS_APP.png",
       "stream_link": "https://dai.google.com/linear/hls/event/VnQwNmDRTJOt6oDPwHz_Zg/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "FIFA World Cup Asian Qualifiers",
+      "match_id": 110299,
+      "match_name": "Japan vs Australia",
+      "team_1": "Japan",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-JPN@2x.png",
+      "team_2": "Australia",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AUS@2x.png",
+      "banner": "https://www.fancode.com/aig/match/v1/110299_CASACARDS_APP.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/L8dx9aRVSWm-UTVLYoagqg/master.m3u8"
     }
   ]
 }
