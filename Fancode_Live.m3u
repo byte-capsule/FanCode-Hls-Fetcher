@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Punit Balan Group vs Jain Irrigation" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110447_4545_PBG_JAI_fc-web.jpg" tvg-id="110447" group-title="Maharashtra Champions Trophy 2024",Punit Balan Group vs Jain Irrigation
 https://dai.google.com/linear/hls/event/pQzz5sFbRgq-b07uw4pwKA/master.m3u8
+#EXTINF:-1 tvg-name="Pakistan vs England" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png" tvg-id="110481" group-title="England tour of Pakistan, 2024",Pakistan vs England
+https://dai.google.com/linear/hls/event/ikHNtrmpRymIo6XxMj5oZg/master.m3u8
