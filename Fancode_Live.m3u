@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Scotland XI vs England XI" tvg-logo="https://www.fancode.com/aig/match/v1/109558_CASACARDS_APP.png" tvg-id="109558" group-title="Dream11 European Cricket Championship, 2024",Scotland XI vs England XI
+#EXTINF:-1 tvg-name="England XI vs Scotland XI" tvg-logo="https://www.fancode.com/aig/match/v1/109558_CASACARDS_APP.png" tvg-id="109558" group-title="Dream11 European Cricket Championship, 2024",England XI vs Scotland XI
 https://dai.google.com/linear/hls/event/b2lVMn6NRyOaUxUSLYbddw/master.m3u8
-#EXTINF:-1 tvg-name="ILT20 Thunderbolts vs Gulf Giants Development" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110070_4534_THU_GGD_fc-web.jpg" tvg-id="110077" group-title="ILT20 Development Tournament, 2024",ILT20 Thunderbolts vs Gulf Giants Development
-https://dai.google.com/linear/hls/event/cBhx0R2CTySEWa-BMwlvyg/master.m3u8
 #EXTINF:-1 tvg-name="Chandigarh Divyang vs Tamil Nadu Divyang" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111094_4575_CHN-D_TN-D_fc-web.jpg" tvg-id="111094" group-title="4th National Physical Disability T20 Championship ",Chandigarh Divyang vs Tamil Nadu Divyang
 https://dai.google.com/linear/hls/event/9G7fZBaEQ1Sv1fXlKs5J3A/master.m3u8
-#EXTINF:-1 tvg-name="Sri Lanka vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Sri-Lanka-old-match-card_1728381763273.png" tvg-id="109868" group-title="West Indies tour of Sri Lanka, 2024",Sri Lanka vs West Indies
-https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
 #EXTINF:-1 tvg-name="Pakistan vs England" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png" tvg-id="110481" group-title="England tour of Pakistan, 2024",Pakistan vs England
 https://dai.google.com/linear/hls/event/ikHNtrmpRymIo6XxMj5oZg/master.m3u8
 #EXTINF:-1 tvg-name="Palestine vs Kuwait" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108271_3740_KSA_INA_fc-web_1729004128517.jpg" tvg-id="110296" group-title="FIFA World Cup Asian Qualifiers",Palestine vs Kuwait
