@@ -1,9 +1,33 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "15-10-2024 on 2:48:07 PM \ud83c\udf1e",
+  "total_mathes": 7,
+  "last_upaded": "15-10-2024 on 3:30:36 PM \ud83c\udf1e",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "Dream11 European Cricket Championship, 2024",
+      "match_id": 109555,
+      "match_name": "Scotland XI vs Germany",
+      "team_1": "Scotland XI",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png",
+      "team_2": "Germany",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GER@2x.png",
+      "banner": "https://www.fancode.com/aig/match/v1/109555_CASACARDS_APP.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/zmbzOJnNTi-ZAbo57kjwaw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Maharashtra Champions Trophy 2024",
+      "match_id": 110448,
+      "match_name": "Stars Cricket Club vs Nok 99 Puneri Bappa",
+      "team_1": "Stars Cricket Club",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SP@2x.png",
+      "team_2": "Nok 99 Puneri Bappa",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NOK@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110448_4545_SCC_NPB_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/f0Iq9yPlQmm7d_lygnWUAA/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "4th National Physical Disability T20 Championship ",
@@ -51,6 +75,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png",
       "stream_link": "https://dai.google.com/linear/hls/event/ikHNtrmpRymIo6XxMj5oZg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Afghanistan A and Hong Kong A tour of Oman, 2024",
+      "match_id": 110531,
+      "match_name": "Afghanistan A vs Hong Kong A",
+      "team_1": "Afghanistan A",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFG@2x.png",
+      "team_2": "Hong Kong A",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HK@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/AFG-A-vs-Hong-Kong-A_old.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/YmDs5tOJT8m0EqePPKMx8A/master.m3u8"
     }
   ]
 }

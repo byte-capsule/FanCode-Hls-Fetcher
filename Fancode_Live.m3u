@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Scotland XI vs Germany" tvg-logo="https://www.fancode.com/aig/match/v1/109555_CASACARDS_APP.png" tvg-id="109555" group-title="Dream11 European Cricket Championship, 2024",Scotland XI vs Germany
+https://dai.google.com/linear/hls/event/zmbzOJnNTi-ZAbo57kjwaw/master.m3u8
+#EXTINF:-1 tvg-name="Stars Cricket Club vs Nok 99 Puneri Bappa" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110448_4545_SCC_NPB_fc-web.jpg" tvg-id="110448" group-title="Maharashtra Champions Trophy 2024",Stars Cricket Club vs Nok 99 Puneri Bappa
+https://dai.google.com/linear/hls/event/f0Iq9yPlQmm7d_lygnWUAA/master.m3u8
 #EXTINF:-1 tvg-name="Rajasthan Divyang vs Kerala Divyang" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111097_4575_RAJ-D_KDC_fc-web.jpg" tvg-id="111097" group-title="4th National Physical Disability T20 Championship ",Rajasthan Divyang vs Kerala Divyang
 https://dai.google.com/linear/hls/event/9dd_mugkRuCyRY0vXSfFkg/master.m3u8
 #EXTINF:-1 tvg-name="Karnataka Divyang vs Hyderabad Divyang" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111095_4575_KAR-D_HYD-D_fc-web.jpg" tvg-id="111095" group-title="4th National Physical Disability T20 Championship ",Karnataka Divyang vs Hyderabad Divyang
@@ -7,3 +11,5 @@ https://dai.google.com/linear/hls/event/d6MSj0J4TQ2xX1ocnVZyiA/master.m3u8
 https://dai.google.com/linear/hls/event/9G7fZBaEQ1Sv1fXlKs5J3A/master.m3u8
 #EXTINF:-1 tvg-name="Pakistan vs England" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png" tvg-id="110481" group-title="England tour of Pakistan, 2024",Pakistan vs England
 https://dai.google.com/linear/hls/event/ikHNtrmpRymIo6XxMj5oZg/master.m3u8
+#EXTINF:-1 tvg-name="Afghanistan A vs Hong Kong A" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AFG-A-vs-Hong-Kong-A_old.jpg" tvg-id="110531" group-title="Afghanistan A and Hong Kong A tour of Oman, 2024",Afghanistan A vs Hong Kong A
+https://dai.google.com/linear/hls/event/YmDs5tOJT8m0EqePPKMx8A/master.m3u8
