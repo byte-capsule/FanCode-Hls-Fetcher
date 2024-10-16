@@ -1,9 +1,21 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "16-10-2024 on 06:49:26 AM \ud83c\udf1e",
+  "total_mathes": 4,
+  "last_upaded": "16-10-2024 on 08:14:57 AM \ud83c\udf1e",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "MCA Men's 50 Overs Inter-State Championship, 2024",
+      "match_id": 103577,
+      "match_name": "Selangor vs Kelantan",
+      "team_1": "Selangor",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSEL@2x.png",
+      "team_2": "Kelantan",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KELAN@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/nAlWoTduR3WRtjC9X6jmjQ/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "England tour of Pakistan, 2024",
@@ -15,30 +27,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png",
       "stream_link": "https://dai.google.com/linear/hls/event/ikHNtrmpRymIo6XxMj5oZg/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "CONMEBOL World Cup Qualifiers",
-      "match_id": 110550,
-      "match_name": "Uruguay vs Ecuador",
-      "team_1": "Uruguay",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-URG@2x.png",
-      "team_2": "Ecuador",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ECU@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/108286_3542_PAR_BRA_fc-web_1728580115489.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/R-t9JuJSSEyRJsBc2csxpA/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "CONMEBOL World Cup Qualifiers",
-      "match_id": 110549,
-      "match_name": "Paraguay vs Venezuela",
-      "team_1": "Paraguay",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PARU@2x.png",
-      "team_2": "Venezuela",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VEN@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/108285_3542_VEN_URU_fc-web_1728580115485.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/3z464PwbQoa_-4AiiobANg/master.m3u8"
     },
     {
       "event_catagory": "basketball",
