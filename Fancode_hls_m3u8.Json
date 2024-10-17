@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "17-10-2024 on 5:42:13 PM \ud83c\udf1e",
+  "total_mathes": 5,
+  "last_upaded": "17-10-2024 on 6:19:11 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,30 +15,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
       "banner": "https://www.fancode.com/aig/match/v1/109566_CASACARDS_APP.png",
       "stream_link": "https://dai.google.com/linear/hls/event/kDa7_mC5Tm-dAqkXQdnqQw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "4th National Physical Disability T20 Championship ",
-      "match_id": 111109,
-      "match_name": "Maharashtra Divyang vs Kerala Divyang",
-      "team_1": "Maharashtra Divyang",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAHRD@2x.png",
-      "team_2": "Kerala Divyang",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KDC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111109_4575_MAH-D_HAR-D_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/rdc94Rs1S7KyXGGW7XHUcw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "4th National Physical Disability T20 Championship ",
-      "match_id": 111107,
-      "match_name": "Madhya Pradesh Divyang vs Uttar Pradesh Divyang",
-      "team_1": "Madhya Pradesh Divyang",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DMPC@2x.png",
-      "team_2": "Uttar Pradesh Divyang",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UPDD@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111107_4575_MP-D_UP-D_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/8IWtmATgQZ-DMbDLkopQVw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -75,6 +51,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-INDW@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
       "stream_link": "https://dai.google.com/linear/hls/event/0QOW87djQPGyVmCK93IdHw/master.m3u8"
+    },
+    {
+      "event_catagory": "golf",
+      "event_name": "Estrella Damm N.A. Andaluc\u00eda Masters",
+      "match_id": 110859,
+      "match_name": "Day 1",
+      "team_1": "Day 1",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-AM@2x.png",
+      "team_2": "Real Club de Golf Sotogrande, Andalucia",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/JcF2qI8ATqiprnPB82Uc4A/master.m3u8"
     }
   ]
 }
