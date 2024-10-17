@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "17-10-2024 on 10:50:05 PM \ud83c\udf19",
+  "total_mathes": 2,
+  "last_upaded": "17-10-2024 on 11:09:17 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -18,18 +18,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "West Indies tour of Sri Lanka, 2024",
-      "match_id": 109869,
-      "match_name": "West Indies vs Sri Lanka",
-      "team_1": "West Indies",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-      "team_2": "Sri Lanka",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Sri-Lanka-old-match-card_1728381763273.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "England tour of Pakistan, 2024",
       "match_id": 110481,
       "match_name": "Pakistan vs England",
@@ -39,18 +27,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png",
       "stream_link": "https://dai.google.com/linear/hls/event/ikHNtrmpRymIo6XxMj5oZg/master.m3u8"
-    },
-    {
-      "event_catagory": "golf",
-      "event_name": "Estrella Damm N.A. Andaluc\u00eda Masters",
-      "match_id": 110859,
-      "match_name": "Day 1",
-      "team_1": "Day 1",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-AM@2x.png",
-      "team_2": "Real Club de Golf Sotogrande, Andalucia",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/JcF2qI8ATqiprnPB82Uc4A/master.m3u8"
     }
   ]
 }
