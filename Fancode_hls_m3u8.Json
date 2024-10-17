@@ -1,9 +1,21 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "17-10-2024 on 8:10:13 PM \ud83c\udf19",
+  "total_mathes": 4,
+  "last_upaded": "17-10-2024 on 8:32:23 PM \ud83c\udf19",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "Dream11 European Cricket Championship, 2024",
+      "match_id": 109567,
+      "match_name": "Scotland XI vs Spain",
+      "team_1": "Scotland XI",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png",
+      "team_2": "Spain",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESP@2x.png",
+      "banner": "https://www.fancode.com/aig/match/v1/109567_CASACARDS_APP.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/qLjdpVH-SVWBkl-n9RQNHg/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "West Indies tour of Sri Lanka, 2024",
