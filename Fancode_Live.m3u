@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Punit Balan Group vs Jets CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110453_4545_PBG_JET_fc-web.jpg" tvg-id="110453" group-title="Maharashtra Champions Trophy 2024",Punit Balan Group vs Jets CC
+https://dai.google.com/linear/hls/event/eKRYMCZmT-CopXAcj2S8eA/master.m3u8
 #EXTINF:-1 tvg-name="Pakistan vs England" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png" tvg-id="110481" group-title="England tour of Pakistan, 2024",Pakistan vs England
 https://dai.google.com/linear/hls/event/ikHNtrmpRymIo6XxMj5oZg/master.m3u8
 #EXTINF:-1 tvg-name="Tamil Nadu Divyang vs Odisha Divyang" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111356_4575_TN-D_OD-D_fc-web.jpg" tvg-id="111356" group-title="4th National Physical Disability T20 Championship ",Tamil Nadu Divyang vs Odisha Divyang
