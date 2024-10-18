@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Netherlands XI vs Spain" tvg-logo="https://www.fancode.com/aig/match/v1/109570_CASACARDS_APP.png" tvg-id="109570" group-title="Dream11 European Cricket Championship, 2024",Netherlands XI vs Spain
+https://dai.google.com/linear/hls/event/Xb9fMDpPQ0SYZQ9i_Rqwew/master.m3u8
 #EXTINF:-1 tvg-name="Maharashtra Divyang vs Delhi Divyang" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111358_4575_MAH-D_DEL-D_fc-web.jpg" tvg-id="111358" group-title="4th National Physical Disability T20 Championship ",Maharashtra Divyang vs Delhi Divyang
 https://dai.google.com/linear/hls/event/bC-pCJNfSnWyQG4LilvYxA/master.m3u8
 #EXTINF:-1 tvg-name="Gujarat Divyang vs Madhya Pradesh Divyang" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111370_4575_GUJ-D_MP-D_fc-web.jpg" tvg-id="111370" group-title="4th National Physical Disability T20 Championship ",Gujarat Divyang vs Madhya Pradesh Divyang
@@ -7,9 +9,9 @@ https://dai.google.com/linear/hls/event/_aUflHpRRTKCSSoQG7aZog/master.m3u8
 https://dai.google.com/linear/hls/event/NjXwzKu6Tr6t3kHzFUfKYA/master.m3u8
 #EXTINF:-1 tvg-name="Ashtapailu Sports vs Nok 99 Puneri Bappa" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110454_4545_APS_NPB_fc-web.jpg" tvg-id="110454" group-title="Maharashtra Champions Trophy 2024",Ashtapailu Sports vs Nok 99 Puneri Bappa
 https://dai.google.com/linear/hls/event/zH6f3M7XSn2Lkk7I4uG6lQ/master.m3u8
-#EXTINF:-1 tvg-name="Sri Lanka Women vs Maldives Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="111638" group-title="SAFF Women's Championship",Sri Lanka Women vs Maldives Women
-https://dai.google.com/linear/hls/event/XLHaSuAJRym119Y5tCiaPQ/master.m3u8
 #EXTINF:-1 tvg-name="Central Coast Mariners vs Melbourne Victory" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110893_4567_CCM_MLV_fc-web_1728983126745.jpg" tvg-id="110893" group-title="A League 2024-25",Central Coast Mariners vs Melbourne Victory
 Free Trial attempt unsuccessful......it requires Premium Account
+#EXTINF:-1 tvg-name="Vissel Kobe vs FC Tokyo" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Vissel-Kobe-VS-Image-FC-Tokyo_fc-web.jpg" tvg-id="110248" group-title="J League 2024",Vissel Kobe vs FC Tokyo
+https://liveauth.fancode.com/primary/110248_english_hls_8763adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="DTM" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/07/DTM_Old_match-card-1.jpg" tvg-id="111344" group-title="DTM 2024",DTM
 https://dai.google.com/linear/hls/event/MxvWHI3ZTwK4PmPd2vJvpQ/master.m3u8

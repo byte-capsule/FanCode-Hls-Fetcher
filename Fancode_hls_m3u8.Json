@@ -1,9 +1,21 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "18-10-2024 on 3:42:09 PM \ud83c\udf1e",
+  "total_mathes": 8,
+  "last_upaded": "18-10-2024 on 4:12:00 PM \ud83c\udf1e",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "Dream11 European Cricket Championship, 2024",
+      "match_id": 109570,
+      "match_name": "Netherlands XI vs Spain",
+      "team_1": "Netherlands XI",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
+      "team_2": "Spain",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESP@2x.png",
+      "banner": "https://www.fancode.com/aig/match/v1/109570_CASACARDS_APP.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/Xb9fMDpPQ0SYZQ9i_Rqwew/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "4th National Physical Disability T20 Championship ",
@@ -54,18 +66,6 @@
     },
     {
       "event_catagory": "football",
-      "event_name": "SAFF Women's Championship",
-      "match_id": 111638,
-      "match_name": "Sri Lanka Women vs Maldives Women",
-      "team_1": "Sri Lanka Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SLW@2x.png",
-      "team_2": "Maldives Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MDW@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/XLHaSuAJRym119Y5tCiaPQ/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
       "event_name": "A League 2024-25",
       "match_id": 110893,
       "match_name": "Central Coast Mariners vs Melbourne Victory",
@@ -75,6 +75,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLVA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110893_4567_CCM_MLV_fc-web_1728983126745.jpg",
       "stream_link": "Free Trial attempt unsuccessful......it requires Premium Account"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "J League 2024",
+      "match_id": 110248,
+      "match_name": "Vissel Kobe vs FC Tokyo",
+      "team_1": "Vissel Kobe",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VKO@2x.png",
+      "team_2": "FC Tokyo",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-TYO@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Vissel-Kobe-VS-Image-FC-Tokyo_fc-web.jpg",
+      "stream_link": "https://liveauth.fancode.com/primary/110248_english_hls_8763adfreeta-di/index.m3u8"
     },
     {
       "event_catagory": "racing",
