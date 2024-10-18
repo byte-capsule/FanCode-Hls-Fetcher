@@ -1,3 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Pakistan vs England" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png" tvg-id="110481" group-title="England tour of Pakistan, 2024",Pakistan vs England
 https://dai.google.com/linear/hls/event/ikHNtrmpRymIo6XxMj5oZg/master.m3u8
+#EXTINF:-1 tvg-name="Tamil Nadu Divyang vs Odisha Divyang" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111356_4575_TN-D_OD-D_fc-web.jpg" tvg-id="111356" group-title="4th National Physical Disability T20 Championship ",Tamil Nadu Divyang vs Odisha Divyang
+https://dai.google.com/linear/hls/event/OgxmCcKkTZ2i5_J4T_GJZQ/master.m3u8
+#EXTINF:-1 tvg-name="Bihar Divyang vs Vidarbha Divyang" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111365_4575_BIH-D_VID-D_fc-web.jpg" tvg-id="111365" group-title="4th National Physical Disability T20 Championship ",Bihar Divyang vs Vidarbha Divyang
+https://dai.google.com/linear/hls/event/8RkwoSpMQ4OLZ2cem_ZoUQ/master.m3u8
+#EXTINF:-1 tvg-name="Baroda Divyang vs Andhra Pradesh Divyang" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111378_4575_BAR-D_AP-D_fc-web.jpg" tvg-id="111378" group-title="4th National Physical Disability T20 Championship ",Baroda Divyang vs Andhra Pradesh Divyang
+https://dai.google.com/linear/hls/event/atAyJDFgSj-85X2uR3Y0PQ/master.m3u8
