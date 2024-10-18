@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 6,
-  "last_upaded": "18-10-2024 on 5:42:23 PM \ud83c\udf1e",
+  "last_upaded": "18-10-2024 on 6:18:46 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -30,30 +30,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "4th National Physical Disability T20 Championship ",
-      "match_id": 111358,
-      "match_name": "Maharashtra Divyang vs Delhi Divyang",
-      "team_1": "Maharashtra Divyang",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAHRD@2x.png",
-      "team_2": "Delhi Divyang",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DDCA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111358_4575_MAH-D_DEL-D_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/bC-pCJNfSnWyQG4LilvYxA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "4th National Physical Disability T20 Championship ",
-      "match_id": 111388,
-      "match_name": "Karnataka Divyang vs Punjab Divyang",
-      "team_1": "Karnataka Divyang",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DKAR@2x.png",
-      "team_2": "Punjab Divyang",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PUND@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111388_4575_KAR-D_PUN-D_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/NjXwzKu6Tr6t3kHzFUfKYA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "Maharashtra Champions Trophy 2024",
       "match_id": 110454,
       "match_name": "Ashtapailu Sports vs Nok 99 Puneri Bappa",
@@ -66,15 +42,39 @@
     },
     {
       "event_catagory": "football",
-      "event_name": "J League 2024",
-      "match_id": 110248,
-      "match_name": "Vissel Kobe vs FC Tokyo",
-      "team_1": "Vissel Kobe",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VKO@2x.png",
-      "team_2": "FC Tokyo",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-TYO@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Vissel-Kobe-VS-Image-FC-Tokyo_fc-web.jpg",
-      "stream_link": "https://liveauth.fancode.com/primary/110248_english_hls_8763adfreeta-di/index.m3u8"
+      "event_name": "SAFF Women's Championship",
+      "match_id": 111639,
+      "match_name": "Nepal Women vs Bhutan Women",
+      "team_1": "Nepal Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NLW@2x.png",
+      "team_2": "Bhutan Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BTW@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/b8fhE37LTce-MsAExLqL6g/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "Chinese Super League 2024",
+      "match_id": 109883,
+      "match_name": "Chengdu Rongcheng vs Shanghai Port",
+      "team_1": "Chengdu Rongcheng",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CHENG@2x.png",
+      "team_2": "Shanghai Port",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHANGP@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/CR_SHN_Old_fc_web.jpg",
+      "stream_link": "https://liveauth.fancode.com/primary/109883_english_hls_6660adfreeta-di/index.m3u8"
+    },
+    {
+      "event_catagory": "golf",
+      "event_name": "Estrella Damm N.A. Andaluc\u00eda Masters",
+      "match_id": 110860,
+      "match_name": "Day 2",
+      "team_1": "Day 2",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-AM@2x.png",
+      "team_2": "Real Club de Golf Sotogrande, Andalucia",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/myVzi-fnRWWTXNMzXvviyg/master.m3u8"
     }
   ]
 }
