@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "18-10-2024 on 2:47:11 PM \ud83c\udf1e",
+  "total_mathes": 7,
+  "last_upaded": "18-10-2024 on 3:11:45 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -41,6 +41,18 @@
       "stream_link": "https://dai.google.com/linear/hls/event/NjXwzKu6Tr6t3kHzFUfKYA/master.m3u8"
     },
     {
+      "event_catagory": "cricket",
+      "event_name": "Maharashtra Champions Trophy 2024",
+      "match_id": 110454,
+      "match_name": "Ashtapailu Sports vs Nok 99 Puneri Bappa",
+      "team_1": "Ashtapailu Sports",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-APC@2x.png",
+      "team_2": "Nok 99 Puneri Bappa",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NOK@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110454_4545_APS_NPB_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/zH6f3M7XSn2Lkk7I4uG6lQ/master.m3u8"
+    },
+    {
       "event_catagory": "football",
       "event_name": "SAFF Women's Championship",
       "match_id": 111638,
@@ -63,6 +75,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLVA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110893_4567_CCM_MLV_fc-web_1728983126745.jpg",
       "stream_link": "Free Trial attempt unsuccessful......it requires Premium Account"
+    },
+    {
+      "event_catagory": "racing",
+      "event_name": "DTM 2024",
+      "match_id": 111344,
+      "match_name": "DTM",
+      "team_1": "Free Practice 1",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-DTM@2x.png",
+      "team_2": "Hockenheimring",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/prod-images/2024/07/DTM_Old_match-card-1.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/MxvWHI3ZTwK4PmPd2vJvpQ/master.m3u8"
     }
   ]
 }
