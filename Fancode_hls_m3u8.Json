@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "18-10-2024 on 1:28:52 PM \ud83c\udf1e",
+  "total_mathes": 2,
+  "last_upaded": "18-10-2024 on 1:42:12 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,18 +15,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JET@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110453_4545_PBG_JET_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/eKRYMCZmT-CopXAcj2S8eA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "4th National Physical Disability T20 Championship ",
-      "match_id": 111365,
-      "match_name": "Bihar Divyang vs Vidarbha Divyang",
-      "team_1": "Bihar Divyang",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DBCA@2x.png",
-      "team_2": "Vidarbha Divyang",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VDCA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111365_4575_BIH-D_VID-D_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/8RkwoSpMQ4OLZ2cem_ZoUQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
