@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Indonesia vs Maldives" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/match-2---Old.png" tvg-id="110602" group-title="Bhutan T20 International Quadrangular Series",Indonesia vs Maldives
 https://dai.google.com/linear/hls/event/cfpuQyNVSkax7sJ5hxqgOQ/master.m3u8
+#EXTINF:-1 tvg-name="Tamil Nadu Divyang vs Vidarbha Divyang" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111390_4575_TN-D_VID-D_fc-web.jpg" tvg-id="111390" group-title="4th National Physical Disability T20 Championship ",Tamil Nadu Divyang vs Vidarbha Divyang
+https://dai.google.com/linear/hls/event/O7eVvbB1SM20yJsfjfugLw/master.m3u8
+#EXTINF:-1 tvg-name="Odisha Divyang vs West Bengal Divyang" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111394_4575_OD-D_WB-D_fc-web.jpg" tvg-id="111394" group-title="4th National Physical Disability T20 Championship ",Odisha Divyang vs West Bengal Divyang
+https://dai.google.com/linear/hls/event/sB4X3PejRNKYj-52HL8RPA/master.m3u8
+#EXTINF:-1 tvg-name="Andhra Pradesh Divyang vs Karnataka Divyang" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111396_4575_AP-D_KAR-D_fc-web.jpg" tvg-id="111396" group-title="4th National Physical Disability T20 Championship ",Andhra Pradesh Divyang vs Karnataka Divyang
+https://dai.google.com/linear/hls/event/0fR_UhpuSiKRlKGCsHqsVQ/master.m3u8
 #EXTINF:-1 tvg-name="Ashtapailu Sports vs Punit Balan Group" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110456_4545_PBG_APS_fc-web.jpg" tvg-id="110456" group-title="Maharashtra Champions Trophy 2024",Ashtapailu Sports vs Punit Balan Group
 https://dai.google.com/linear/hls/event/IOy20wB8QoSLAbHpsZSnEQ/master.m3u8
 #EXTINF:-1 tvg-name="Western Sydney Wanderers vs Sydney FC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110896_4567_SYW_SYD_fc-web_1728983127482.jpg" tvg-id="110896" group-title="A League 2024-25",Western Sydney Wanderers vs Sydney FC
