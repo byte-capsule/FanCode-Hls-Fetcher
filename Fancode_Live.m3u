@@ -3,9 +3,11 @@
 https://dai.google.com/linear/hls/event/KBTXehyqQyaLPjftphLzdQ/master.m3u8
 #EXTINF:-1 tvg-name="Stars Cricket Club vs Jets CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110455_4545_SCC_JET_fc-web.jpg" tvg-id="110455" group-title="Maharashtra Champions Trophy 2024",Stars Cricket Club vs Jets CC
 https://dai.google.com/linear/hls/event/Hoo4iPzARtGY1P9mx-XEOQ/master.m3u8
-#EXTINF:-1 tvg-name="Jammu and Kashmir Divyang vs Hyderabad Divyang" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111395_4575_JKD_HYD-D_fc-web.jpg" tvg-id="111395" group-title="4th National Physical Disability T20 Championship ",Jammu and Kashmir Divyang vs Hyderabad Divyang
-https://dai.google.com/linear/hls/event/-4hISXWVS3iMpj3HsLrzRw/master.m3u8
+#EXTINF:-1 tvg-name="Maldives vs Indonesia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/match-2---Old.png" tvg-id="110602" group-title="Bhutan T20 International Quadrangular Series",Maldives vs Indonesia
+https://dai.google.com/linear/hls/event/cfpuQyNVSkax7sJ5hxqgOQ/master.m3u8
 #EXTINF:-1 tvg-name="Newcastle Jets vs Melbourne City" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110895_4567_NJ_MLC_fc-web_1728983126796.jpg" tvg-id="110895" group-title="A League 2024-25",Newcastle Jets vs Melbourne City
 https://dai.google.com/linear/hls/event/tVfM9WemTJiul7mqgcAbcw/master.m3u8
 #EXTINF:-1 tvg-name="Shonan Bellmare vs Sanfrecce Hiroshima" tvg-logo="https://www.fancode.com/aig/match/v1/110246_CASACARDS_APP.png" tvg-id="110246" group-title="J League 2024",Shonan Bellmare vs Sanfrecce Hiroshima
 https://liveauth.fancode.com/primary/110246_english_hls_5822adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="DTM" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/07/DTM_Old_match-card-1.jpg" tvg-id="111346" group-title="DTM 2024",DTM
+https://dai.google.com/linear/hls/event/NVqzOoD7TbWtTIgRDFuStw/master.m3u8
