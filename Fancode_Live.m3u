@@ -1,14 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Scotland XI vs Germany" tvg-logo="https://www.fancode.com/aig/match/v1/109574_CASACARDS_APP.png" tvg-id="109575" group-title="Dream11 European Cricket Championship, 2024",Scotland XI vs Germany
-https://dai.google.com/linear/hls/event/hTwX4m5OR1CVeFSw9OG0uA/master.m3u8
+#EXTINF:-1 tvg-name="Netherlands XI vs England XI" tvg-logo="https://www.fancode.com/aig/match/v1/109576_CASACARDS_APP.png" tvg-id="109576" group-title="Dream11 European Cricket Championship, 2024",Netherlands XI vs England XI
+https://dai.google.com/linear/hls/event/8ydANop5TKGkP9empVjj7Q/master.m3u8
 #EXTINF:-1 tvg-name="Kenya vs Mozambique" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="110626" group-title="ICC Men's T20 WC Africa Sub Regional Qualifier B",Kenya vs Mozambique
 https://dai.google.com/linear/hls/event/wkzsPPS9QXCVBpOUbZg0xQ/master.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe vs Seychelles" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="110625" group-title="ICC Men's T20 WC Africa Sub Regional Qualifier B",Zimbabwe vs Seychelles
 https://dai.google.com/linear/hls/event/nQtTXXRMQzeJ7dB-BRXItw/master.m3u8
-#EXTINF:-1 tvg-name="Andhra Pradesh Divyang vs Karnataka Divyang" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111396_4575_AP-D_KAR-D_fc-web.jpg" tvg-id="111396" group-title="4th National Physical Disability T20 Championship ",Andhra Pradesh Divyang vs Karnataka Divyang
-https://dai.google.com/linear/hls/event/0fR_UhpuSiKRlKGCsHqsVQ/master.m3u8
-#EXTINF:-1 tvg-name="Ashtapailu Sports vs Punit Balan Group" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110456_4545_PBG_APS_fc-web.jpg" tvg-id="110456" group-title="Maharashtra Champions Trophy 2024",Ashtapailu Sports vs Punit Balan Group
-https://dai.google.com/linear/hls/event/IOy20wB8QoSLAbHpsZSnEQ/master.m3u8
 #EXTINF:-1 tvg-name="Oxford United vs West Bromwich Albion" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Oxford-United-vs-West-Bromwich-Albion)_fc-wpp.jpg" tvg-id="109816" group-title="EFL Championship 2024-25",Oxford United vs West Bromwich Albion
 https://dai.google.com/linear/hls/event/yy4_V51TRri4YeafutEE3w/master.m3u8
 #EXTINF:-1 tvg-name="Beijing Guoan vs Qingdao Hainiu" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BG_QH_Old_fc_web.jpg" tvg-id="109884" group-title="Chinese Super League 2024",Beijing Guoan vs Qingdao Hainiu
