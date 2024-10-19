@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 9,
-  "last_upaded": "19-10-2024 on 10:44:31 AM \ud83c\udf1e",
+  "total_mathes": 10,
+  "last_upaded": "19-10-2024 on 11:09:38 AM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -111,6 +111,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BRBI@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110894_4567_AFC_BRB_fc-web_1728983127159.jpg",
       "stream_link": "Free Trial attempt unsuccessful......it requires Premium Account"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "J League 2024",
+      "match_id": 110247,
+      "match_name": "Nagoya Grampus vs Consadole Sapporo",
+      "team_1": "Nagoya Grampus",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NGR@2x.png",
+      "team_2": "Consadole Sapporo",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CSA@2x.png",
+      "banner": "https://www.fancode.com/aig/match/v1/110247_CASACARDS_APP.png",
+      "stream_link": "https://liveauth.fancode.com/primary/110247_english_hls_6401adfreeta-di/index.m3u8"
     }
   ]
 }
