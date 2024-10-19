@@ -1,9 +1,21 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "19-10-2024 on 4:09:40 PM \ud83c\udf1e",
+  "total_mathes": 8,
+  "last_upaded": "19-10-2024 on 4:32:54 PM \ud83c\udf1e",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "Dream11 European Cricket Championship, 2024",
+      "match_id": 109575,
+      "match_name": "Scotland XI vs Germany",
+      "team_1": "Scotland XI",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png",
+      "team_2": "Germany",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GER@2x.png",
+      "banner": "https://www.fancode.com/aig/match/v1/109574_CASACARDS_APP.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/hTwX4m5OR1CVeFSw9OG0uA/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "Bhutan T20 International Quadrangular Series",

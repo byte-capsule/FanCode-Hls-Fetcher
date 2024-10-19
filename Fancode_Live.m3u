@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Scotland XI vs Germany" tvg-logo="https://www.fancode.com/aig/match/v1/109574_CASACARDS_APP.png" tvg-id="109575" group-title="Dream11 European Cricket Championship, 2024",Scotland XI vs Germany
+https://dai.google.com/linear/hls/event/hTwX4m5OR1CVeFSw9OG0uA/master.m3u8
 #EXTINF:-1 tvg-name="Indonesia vs Maldives" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/match-2---Old.png" tvg-id="110602" group-title="Bhutan T20 International Quadrangular Series",Indonesia vs Maldives
 https://dai.google.com/linear/hls/event/cfpuQyNVSkax7sJ5hxqgOQ/master.m3u8
 #EXTINF:-1 tvg-name="Tamil Nadu Divyang vs Vidarbha Divyang" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111390_4575_TN-D_VID-D_fc-web.jpg" tvg-id="111390" group-title="4th National Physical Disability T20 Championship ",Tamil Nadu Divyang vs Vidarbha Divyang
