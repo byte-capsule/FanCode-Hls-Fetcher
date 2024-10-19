@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Kuwait Swedish vs Kuwait Emerging Stars" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_03.jpg" tvg-id="110496" group-title="KCC T20 Elite Cup, 2024",Kuwait Swedish vs Kuwait Emerging Stars
 https://dai.google.com/linear/hls/event/YVUY7pi0QWGP5382E1y3Jw/master.m3u8
-#EXTINF:-1 tvg-name="Sprint" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-PIRELLI-UNITED-STATES-GRAND-PRIX-2024-TV-old-match-card.png" tvg-id="95230" group-title="F1 PIRELLI UNITED STATES GRAND PRIX 2024",Sprint
-https://dai.google.com/linear/hls/event/OMPD2sW5Qq6Dd9_g4jwxjg/master.m3u8
 #EXTINF:-1 tvg-name="Super Fights PPV" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PFL-Super-Fight---Battle-of-the-Giant-Old-match-card.png" tvg-id="110645" group-title="Professional Fighters League",Super Fights PPV
 https://liveauth.fancode.com/primary/110645_english_hls_9477adfreeta-di/index.m3u8
