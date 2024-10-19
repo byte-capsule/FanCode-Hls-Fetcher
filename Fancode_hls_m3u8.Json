@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 8,
-  "last_upaded": "19-10-2024 on 4:32:54 PM \ud83c\udf1e",
+  "total_mathes": 9,
+  "last_upaded": "19-10-2024 on 4:42:59 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,6 +15,30 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GER@2x.png",
       "banner": "https://www.fancode.com/aig/match/v1/109574_CASACARDS_APP.png",
       "stream_link": "https://dai.google.com/linear/hls/event/hTwX4m5OR1CVeFSw9OG0uA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B",
+      "match_id": 110626,
+      "match_name": "Kenya vs Mozambique",
+      "team_1": "Kenya",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KNA@2x.png",
+      "team_2": "Mozambique",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MOZ@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/wkzsPPS9QXCVBpOUbZg0xQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B",
+      "match_id": 110625,
+      "match_name": "Zimbabwe vs Seychelles",
+      "team_1": "Zimbabwe",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
+      "team_2": "Seychelles",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SYE@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/nQtTXXRMQzeJ7dB-BRXItw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -75,18 +99,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PBG@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110456_4545_PBG_APS_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/IOy20wB8QoSLAbHpsZSnEQ/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "A League 2024-25",
-      "match_id": 110896,
-      "match_name": "Western Sydney Wanderers vs Sydney FC",
-      "team_1": "Western Sydney Wanderers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYWA@2x.png",
-      "team_2": "Sydney FC",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYDA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110896_4567_SYW_SYD_fc-web_1728983127482.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/apCAwMVjR9GEmq7P-t_JYw/master.m3u8"
     },
     {
       "event_catagory": "racing",
