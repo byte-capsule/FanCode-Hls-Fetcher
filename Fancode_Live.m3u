@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Stars Cricket Club vs Jets CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110455_4545_SCC_JET_fc-web.jpg" tvg-id="110455" group-title="Maharashtra Champions Trophy 2024",Stars Cricket Club vs Jets CC
 https://dai.google.com/linear/hls/event/Hoo4iPzARtGY1P9mx-XEOQ/master.m3u8
-#EXTINF:-1 tvg-name="Negeri Sembilan vs Selangor" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="103585" group-title="MCA Men's 50 Overs Inter-State Championship, 2024",Negeri Sembilan vs Selangor
-https://dai.google.com/linear/hls/event/57NzsxgTQXyJ0wUAqHYCnA/master.m3u8
 #EXTINF:-1 tvg-name="Perak vs Kelantan" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="103583" group-title="MCA Men's 50 Overs Inter-State Championship, 2024",Perak vs Kelantan
 https://dai.google.com/linear/hls/event/KBTXehyqQyaLPjftphLzdQ/master.m3u8
 #EXTINF:-1 tvg-name="Thailand vs Bhutan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/match-1---Old.png" tvg-id="110601" group-title="Bhutan T20 International Quadrangular Series",Thailand vs Bhutan
