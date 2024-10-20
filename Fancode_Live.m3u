@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Rwanda vs Kenya" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="111931" group-title="ICC Men's T20 WC Africa Sub Regional Qualifier B",Rwanda vs Kenya
-https://dai.google.com/linear/hls/event/kCHoSxFaSB2GdhMMYmYpyA/master.m3u8
+#EXTINF:-1 tvg-name="Royal Strikers vs Southern Crusaders" tvg-logo="https://www.fancode.com/aig/match/v1/111530_CASACARDS_APP.png" tvg-id="111530" group-title="ECS Malta, 2024",Royal Strikers vs Southern Crusaders
+https://dai.google.com/linear/hls/event/UPcOBRK2SGGlLEMsMRyC5A/master.m3u8
 #EXTINF:-1 tvg-name="West Indies vs Sri Lanka" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Sri-Lanka-ODI-Old-match-card.png" tvg-id="109870" group-title="West Indies tour of Sri Lanka, 2024",West Indies vs Sri Lanka
 https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
-#EXTINF:-1 tvg-name="Bangladesh Women vs Pakistan Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="111640" group-title="SAFF Women's Championship",Bangladesh Women vs Pakistan Women
-https://dai.google.com/linear/hls/event/-pI56TG7Q_mFgo5oD7mAIA/master.m3u8
+#EXTINF:-1 tvg-name="Hull City vs Sunderland" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hull-city-vs-Suderland_fc-web.jpg" tvg-id="109814" group-title="EFL Championship 2024-25",Hull City vs Sunderland
+https://dai.google.com/linear/hls/event/wqgT5qozTRCQqypT3IqBAA/master.m3u8
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="110862" group-title="Estrella Damm N.A. Andalucía Masters",Day 4
 https://dai.google.com/linear/hls/event/CBxQBtc1QlO4Xxi82jZECw/master.m3u8

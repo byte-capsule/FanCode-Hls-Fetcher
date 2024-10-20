@@ -2,19 +2,19 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 4,
-  "last_upaded": "20-10-2024 on 7:42:11 PM \ud83c\udf19",
+  "last_upaded": "20-10-2024 on 8:09:16 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
-      "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B",
-      "match_id": 111931,
-      "match_name": "Rwanda vs Kenya",
-      "team_1": "Rwanda",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RWA@2x.png",
-      "team_2": "Kenya",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KNA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/kCHoSxFaSB2GdhMMYmYpyA/master.m3u8"
+      "event_name": "ECS Malta, 2024",
+      "match_id": 111530,
+      "match_name": "Royal Strikers vs Southern Crusaders",
+      "team_1": "Royal Strikers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROYS@2x.png",
+      "team_2": "Southern Crusaders",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOUTHC@2x.png",
+      "banner": "https://www.fancode.com/aig/match/v1/111530_CASACARDS_APP.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/UPcOBRK2SGGlLEMsMRyC5A/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -30,15 +30,15 @@
     },
     {
       "event_catagory": "football",
-      "event_name": "SAFF Women's Championship",
-      "match_id": 111640,
-      "match_name": "Bangladesh Women vs Pakistan Women",
-      "team_1": "Bangladesh Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BDW@2x.png",
-      "team_2": "Pakistan Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PAKW@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/-pI56TG7Q_mFgo5oD7mAIA/master.m3u8"
+      "event_name": "EFL Championship 2024-25",
+      "match_id": 109814,
+      "match_name": "Hull City vs Sunderland",
+      "team_1": "Hull City",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-HLC@2x.png",
+      "team_2": "Sunderland",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SUNDL@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Hull-city-vs-Suderland_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/wqgT5qozTRCQqypT3IqBAA/master.m3u8"
     },
     {
       "event_catagory": "golf",
