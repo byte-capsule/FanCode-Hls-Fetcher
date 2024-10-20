@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "20-10-2024 on 6:51:06 PM \ud83c\udf19",
+  "total_mathes": 5,
+  "last_upaded": "20-10-2024 on 7:16:02 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -51,18 +51,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PAKW@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
       "stream_link": "https://dai.google.com/linear/hls/event/-pI56TG7Q_mFgo5oD7mAIA/master.m3u8"
-    },
-    {
-      "event_catagory": "racing",
-      "event_name": "DTM 2024",
-      "match_id": 111349,
-      "match_name": "DTM",
-      "team_1": "Race 2",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-DTM@2x.png",
-      "team_2": "Hockenheimring",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/prod-images/2024/07/DTM_Old_match-card-1.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/mf2an7t7S8iLdPgdzoLkqg/master.m3u8"
     },
     {
       "event_catagory": "golf",
