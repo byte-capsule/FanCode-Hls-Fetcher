@@ -1,5 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Maldives vs Bhutan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/match-3---Old.png" tvg-id="110603" group-title="Bhutan T20 International Quadrangular Series",Maldives vs Bhutan
 https://dai.google.com/linear/hls/event/vejAoEeISfWfA3pu3BO0zw/master.m3u8
+#EXTINF:-1 tvg-name="Karnataka Divyang vs Jammu and Kashmir Divyang" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111400_4575_KAR-D_JKD_fc-web.jpg" tvg-id="111400" group-title="4th National Physical Disability T20 Championship ",Karnataka Divyang vs Jammu and Kashmir Divyang
+https://dai.google.com/linear/hls/event/cnB28GWJSf-5rHx1OxDxCw/master.m3u8
+#EXTINF:-1 tvg-name="Delhi Divyang vs Rajasthan Divyang" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111398_4575_DEL-D_RAJ-D_fc-web.jpg" tvg-id="111398" group-title="4th National Physical Disability T20 Championship ",Delhi Divyang vs Rajasthan Divyang
+https://dai.google.com/linear/hls/event/fhpniDfXQ3uaei9kpqUIiA/master.m3u8
+#EXTINF:-1 tvg-name="Haryana Divyang vs Gujarat Divyang" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111397_4575_HAR-D_GUJ-D_fc-web.jpg" tvg-id="111397" group-title="4th National Physical Disability T20 Championship ",Haryana Divyang vs Gujarat Divyang
+https://dai.google.com/linear/hls/event/WaGo87rLT3WDuResuX72gg/master.m3u8
 #EXTINF:-1 tvg-name="Wellington Phoenix vs Western United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110897_4567_WEL_WST_fc-web_1728983127525.jpg" tvg-id="110897" group-title="A League 2024-25",Wellington Phoenix vs Western United
 https://dai.google.com/linear/hls/event/DVVW7HP8RR-e1yXE_yOSmA/master.m3u8
