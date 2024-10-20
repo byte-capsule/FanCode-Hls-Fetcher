@@ -1,33 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "20-10-2024 on 5:42:09 PM \ud83c\udf1e",
+  "total_mathes": 6,
+  "last_upaded": "20-10-2024 on 6:18:26 PM \ud83c\udf19",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "4th National Physical Disability T20 Championship ",
-      "match_id": 111402,
-      "match_name": "Chattisgarh Divyang vs Uttar Pradesh Divyang",
-      "team_1": "Chattisgarh Divyang",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CHD@2x.png",
-      "team_2": "Uttar Pradesh Divyang",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UPDD@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111402_4575_CHA-D_UP-D_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/45nSW5SnT9m_dO41oeQBMw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "4th National Physical Disability T20 Championship ",
-      "match_id": 111401,
-      "match_name": "Mumbai Divyang vs Madhya Pradesh Divyang",
-      "team_1": "Mumbai Divyang",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MUMD@2x.png",
-      "team_2": "Madhya Pradesh Divyang",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DMPC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111401_4575_MUM-D_MP-D_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/G3xSUZgZT5-UStO-VBBkDQ/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B",
@@ -63,6 +39,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Sri-Lanka-ODI-Old-match-card.png",
       "stream_link": "https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "SAFF Women's Championship",
+      "match_id": 111640,
+      "match_name": "Bangladesh Women vs Pakistan Women",
+      "team_1": "Bangladesh Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BDW@2x.png",
+      "team_2": "Pakistan Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PAKW@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/-pI56TG7Q_mFgo5oD7mAIA/master.m3u8"
     },
     {
       "event_catagory": "racing",

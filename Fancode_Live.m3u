@@ -1,14 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Chattisgarh Divyang vs Uttar Pradesh Divyang" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111402_4575_CHA-D_UP-D_fc-web.jpg" tvg-id="111402" group-title="4th National Physical Disability T20 Championship ",Chattisgarh Divyang vs Uttar Pradesh Divyang
-https://dai.google.com/linear/hls/event/45nSW5SnT9m_dO41oeQBMw/master.m3u8
-#EXTINF:-1 tvg-name="Mumbai Divyang vs Madhya Pradesh Divyang" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111401_4575_MUM-D_MP-D_fc-web.jpg" tvg-id="111401" group-title="4th National Physical Disability T20 Championship ",Mumbai Divyang vs Madhya Pradesh Divyang
-https://dai.google.com/linear/hls/event/G3xSUZgZT5-UStO-VBBkDQ/master.m3u8
 #EXTINF:-1 tvg-name="Rwanda vs Kenya" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="111931" group-title="ICC Men's T20 WC Africa Sub Regional Qualifier B",Rwanda vs Kenya
 https://dai.google.com/linear/hls/event/kCHoSxFaSB2GdhMMYmYpyA/master.m3u8
 #EXTINF:-1 tvg-name="Royal Strikers vs Victoria Lions" tvg-logo="https://www.fancode.com/aig/match/v1/111529_CASACARDS_APP.png" tvg-id="111529" group-title="ECS Malta, 2024",Royal Strikers vs Victoria Lions
 https://dai.google.com/linear/hls/event/QB7DFUiFTdOf4pTv8dXB5g/master.m3u8
 #EXTINF:-1 tvg-name="West Indies vs Sri Lanka" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Sri-Lanka-ODI-Old-match-card.png" tvg-id="109870" group-title="West Indies tour of Sri Lanka, 2024",West Indies vs Sri Lanka
 https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
+#EXTINF:-1 tvg-name="Bangladesh Women vs Pakistan Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="111640" group-title="SAFF Women's Championship",Bangladesh Women vs Pakistan Women
+https://dai.google.com/linear/hls/event/-pI56TG7Q_mFgo5oD7mAIA/master.m3u8
 #EXTINF:-1 tvg-name="DTM" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/07/DTM_Old_match-card-1.jpg" tvg-id="111349" group-title="DTM 2024",DTM
 https://dai.google.com/linear/hls/event/mf2an7t7S8iLdPgdzoLkqg/master.m3u8
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="110862" group-title="Estrella Damm N.A. Andalucía Masters",Day 4
