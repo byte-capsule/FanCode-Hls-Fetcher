@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "20-10-2024 on 9:08:58 PM \ud83c\udf19",
+  "total_mathes": 3,
+  "last_upaded": "20-10-2024 on 9:43:49 PM \ud83c\udf19",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECS Malta, 2024",
-      "match_id": 111530,
-      "match_name": "Royal Strikers vs Southern Crusaders",
-      "team_1": "Royal Strikers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROYS@2x.png",
-      "team_2": "Southern Crusaders",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOUTHC@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/111530_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/UPcOBRK2SGGlLEMsMRyC5A/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "West Indies tour of Sri Lanka, 2024",
