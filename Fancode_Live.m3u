@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Rwanda vs Kenya" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="111931" group-title="ICC Men's T20 WC Africa Sub Regional Qualifier B",Rwanda vs Kenya
 https://dai.google.com/linear/hls/event/kCHoSxFaSB2GdhMMYmYpyA/master.m3u8
-#EXTINF:-1 tvg-name="Royal Strikers vs Victoria Lions" tvg-logo="https://www.fancode.com/aig/match/v1/111529_CASACARDS_APP.png" tvg-id="111529" group-title="ECS Malta, 2024",Royal Strikers vs Victoria Lions
-https://dai.google.com/linear/hls/event/QB7DFUiFTdOf4pTv8dXB5g/master.m3u8
 #EXTINF:-1 tvg-name="West Indies vs Sri Lanka" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Sri-Lanka-ODI-Old-match-card.png" tvg-id="109870" group-title="West Indies tour of Sri Lanka, 2024",West Indies vs Sri Lanka
 https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
 #EXTINF:-1 tvg-name="Bangladesh Women vs Pakistan Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="111640" group-title="SAFF Women's Championship",Bangladesh Women vs Pakistan Women
