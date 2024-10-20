@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "20-10-2024 on 0:14:00 PM \ud83c\udf1e",
+  "total_mathes": 8,
+  "last_upaded": "20-10-2024 on 0:47:13 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -63,6 +63,30 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DGUJ@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/111397_4575_HAR-D_GUJ-D_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/WaGo87rLT3WDuResuX72gg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B",
+      "match_id": 111930,
+      "match_name": "Seychelles vs Gambia",
+      "team_1": "Seychelles",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SYE@2x.png",
+      "team_2": "Gambia",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/GAM-CR2@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "Free Trial attempt unsuccessful......it requires Premium Account"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B",
+      "match_id": 111929,
+      "match_name": "Mozambique vs Zimbabwe",
+      "team_1": "Mozambique",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MOZ@2x.png",
+      "team_2": "Zimbabwe",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/KK9ETjDGTWuSm1ZTG9HpFg/master.m3u8"
     },
     {
       "event_catagory": "football",
