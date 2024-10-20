@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Indonesia vs Thailand" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/match-4---Old.png" tvg-id="110604" group-title="Bhutan T20 International Quadrangular Series",Indonesia vs Thailand
-https://dai.google.com/linear/hls/event/-pJudnL0SCOqkDRH1xN2lw/master.m3u8
 #EXTINF:-1 tvg-name="Chattisgarh Divyang vs Uttar Pradesh Divyang" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111402_4575_CHA-D_UP-D_fc-web.jpg" tvg-id="111402" group-title="4th National Physical Disability T20 Championship ",Chattisgarh Divyang vs Uttar Pradesh Divyang
 https://dai.google.com/linear/hls/event/45nSW5SnT9m_dO41oeQBMw/master.m3u8
 #EXTINF:-1 tvg-name="Mumbai Divyang vs Madhya Pradesh Divyang" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111401_4575_MUM-D_MP-D_fc-web.jpg" tvg-id="111401" group-title="4th National Physical Disability T20 Championship ",Mumbai Divyang vs Madhya Pradesh Divyang
 https://dai.google.com/linear/hls/event/G3xSUZgZT5-UStO-VBBkDQ/master.m3u8
 #EXTINF:-1 tvg-name="Stars Cricket Club vs Jets CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110458_4545_SCC_JET_fc-web.jpg" tvg-id="110458" group-title="Maharashtra Champions Trophy 2024",Stars Cricket Club vs Jets CC
 https://dai.google.com/linear/hls/event/8_hX1HWfTY6RDWsEgI_gPQ/master.m3u8
+#EXTINF:-1 tvg-name="Rwanda vs Kenya" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="111931" group-title="ICC Men's T20 WC Africa Sub Regional Qualifier B",Rwanda vs Kenya
+https://dai.google.com/linear/hls/event/kCHoSxFaSB2GdhMMYmYpyA/master.m3u8
 #EXTINF:-1 tvg-name="Gzira United vs Southern Crusaders" tvg-logo="https://www.fancode.com/aig/match/v1/111528_CASACARDS_APP.png" tvg-id="111528" group-title="ECS Malta, 2024",Gzira United vs Southern Crusaders
 https://dai.google.com/linear/hls/event/ycKKWxNjSyaXE2kpy3VhiA/master.m3u8
 #EXTINF:-1 tvg-name="West Indies vs Sri Lanka" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Sri-Lanka-ODI-Old-match-card.png" tvg-id="109870" group-title="West Indies tour of Sri Lanka, 2024",West Indies vs Sri Lanka
