@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "20-10-2024 on 1:09:10 PM \ud83c\udf1e",
+  "total_mathes": 6,
+  "last_upaded": "20-10-2024 on 1:29:08 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,18 +15,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NOK@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110457_4545_JAI_NPB_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/RoVpmgmVTDWcLEI1FnA4xg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Bhutan T20 International Quadrangular Series",
-      "match_id": 110603,
-      "match_name": "Maldives vs Bhutan",
-      "team_1": "Maldives",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MLD@2x.png",
-      "team_2": "Bhutan",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BHU@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/match-3---Old.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/vejAoEeISfWfA3pu3BO0zw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -77,16 +65,16 @@
       "stream_link": "https://dai.google.com/linear/hls/event/fhpniDfXQ3uaei9kpqUIiA/master.m3u8"
     },
     {
-      "event_catagory": "cricket",
-      "event_name": "4th National Physical Disability T20 Championship ",
-      "match_id": 111397,
-      "match_name": "Haryana Divyang vs Gujarat Divyang",
-      "team_1": "Haryana Divyang",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ASCH@2x.png",
-      "team_2": "Gujarat Divyang",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DGUJ@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111397_4575_HAR-D_GUJ-D_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/WaGo87rLT3WDuResuX72gg/master.m3u8"
+      "event_catagory": "racing",
+      "event_name": "DTM 2024",
+      "match_id": 111348,
+      "match_name": "DTM",
+      "team_1": "Qualifying 2",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-DTM@2x.png",
+      "team_2": "Hockenheimring",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/prod-images/2024/07/DTM_Old_match-card-1.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/xY861WOlTV2PxILJgIoC0Q/master.m3u8"
     }
   ]
 }
