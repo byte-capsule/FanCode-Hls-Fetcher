@@ -1,9 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Indonesia vs Thailand" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/match-4---Old.png" tvg-id="110604" group-title="Bhutan T20 International Quadrangular Series",Indonesia vs Thailand
 https://dai.google.com/linear/hls/event/-pJudnL0SCOqkDRH1xN2lw/master.m3u8
+#EXTINF:-1 tvg-name="Stars Cricket Club vs Jets CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110458_4545_SCC_JET_fc-web.jpg" tvg-id="110458" group-title="Maharashtra Champions Trophy 2024",Stars Cricket Club vs Jets CC
+https://dai.google.com/linear/hls/event/8_hX1HWfTY6RDWsEgI_gPQ/master.m3u8
 #EXTINF:-1 tvg-name="Victoria Lions vs Gzira United" tvg-logo="https://www.fancode.com/aig/match/v1/111527_CASACARDS_APP.png" tvg-id="111527" group-title="ECS Malta, 2024",Victoria Lions vs Gzira United
 https://dai.google.com/linear/hls/event/uboqix_4TGaBW2LozhK7nw/master.m3u8
-#EXTINF:-1 tvg-name="Mozambique vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="111929" group-title="ICC Men's T20 WC Africa Sub Regional Qualifier B",Mozambique vs Zimbabwe
-https://dai.google.com/linear/hls/event/KK9ETjDGTWuSm1ZTG9HpFg/master.m3u8
+#EXTINF:-1 tvg-name="Indian Racing Festival" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/08/Indian-Racing-Festival_old.jpg" tvg-id="110523" group-title="Indian Racing Festival 2024",Indian Racing Festival
+https://dai.google.com/linear/hls/event/-Rh_65r3QturJ0R5ADUpdQ/master.m3u8
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="110862" group-title="Estrella Damm N.A. Andalucía Masters",Day 4
 https://dai.google.com/linear/hls/event/CBxQBtc1QlO4Xxi82jZECw/master.m3u8
