@@ -1,3 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Al Hajery Team XI vs CECC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_01.jpg" tvg-id="110497" group-title="KCC T20 Elite Cup, 2024",Al Hajery Team XI vs CECC
+https://dai.google.com/linear/hls/event/ref-eWOwRc-luy3yX6kllA/master.m3u8
 #EXTINF:-1 tvg-name="West Indies vs Sri Lanka" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Sri-Lanka-ODI-Old-match-card.png" tvg-id="109870" group-title="West Indies tour of Sri Lanka, 2024",West Indies vs Sri Lanka
 https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
+#EXTINF:-1 tvg-name="Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-PIRELLI-UNITED-STATES-GRAND-PRIX-2024-TV-old-match-card.png" tvg-id="95231" group-title="F1 PIRELLI UNITED STATES GRAND PRIX 2024",Race
+https://dai.google.com/linear/hls/event/dlsN44V3QwyFezM5SrKW6Q/master.m3u8
