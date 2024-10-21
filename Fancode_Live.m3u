@@ -1,11 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Ashtapailu Sports vs Punit Balan Group" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110459_4545_PBG_APS_fc-web.jpg" tvg-id="110459" group-title="Maharashtra Champions Trophy 2024",Ashtapailu Sports vs Punit Balan Group
+https://dai.google.com/linear/hls/event/TLrcLj3wStCDf9dIQhh4og/master.m3u8
+#EXTINF:-1 tvg-name="Bangladesh vs South Africa" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SA-vs-BAN-Old-(1).jpg" tvg-id="110622" group-title="South Africa tour of Bangladesh, 2024",Bangladesh vs South Africa
+https://dai.google.com/linear/hls/event/MdG7v27gTuOC4BeHrIr3mQ/master.m3u8
 #EXTINF:-1 tvg-name="Punjab Divyang vs Hyderabad Divyang" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111382_4575_PUN-D_HYD-D_fc-web.jpg" tvg-id="111382" group-title="4th National Physical Disability T20 Championship ",Punjab Divyang vs Hyderabad Divyang
 https://dai.google.com/linear/hls/event/w2fQ1Nz0QxmH_5WSMamy6g/master.m3u8
 #EXTINF:-1 tvg-name="Madhya Pradesh Divyang vs Chattisgarh Divyang" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111381_4575_MP-D_CHA-D_fc-web.jpg" tvg-id="111381" group-title="4th National Physical Disability T20 Championship ",Madhya Pradesh Divyang vs Chattisgarh Divyang
 https://dai.google.com/linear/hls/event/3os3JoB0S9KM-n6Q2bAjIQ/master.m3u8
 #EXTINF:-1 tvg-name="Odisha Divyang vs Vidarbha Divyang" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111379_4575_OD-D_VID-D_fc-web.jpg" tvg-id="111379" group-title="4th National Physical Disability T20 Championship ",Odisha Divyang vs Vidarbha Divyang
 https://dai.google.com/linear/hls/event/GUywFJuOTH2fw9OXkR3eoA/master.m3u8
-#EXTINF:-1 tvg-name="Bangladesh vs South Africa" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SA-vs-BAN-Old-(1).jpg" tvg-id="110622" group-title="South Africa tour of Bangladesh, 2024",Bangladesh vs South Africa
-https://dai.google.com/linear/hls/event/MdG7v27gTuOC4BeHrIr3mQ/master.m3u8
-#EXTINF:-1 tvg-name="Ashtapailu Sports vs Punit Balan Group" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110459_4545_PBG_APS_fc-web.jpg" tvg-id="110459" group-title="Maharashtra Champions Trophy 2024",Ashtapailu Sports vs Punit Balan Group
-https://dai.google.com/linear/hls/event/TLrcLj3wStCDf9dIQhh4og/master.m3u8
