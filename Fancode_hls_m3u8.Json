@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "21-10-2024 on 1:11:21 PM \ud83c\udf1e",
+  "total_mathes": 2,
+  "last_upaded": "21-10-2024 on 1:29:56 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,42 +27,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/SA-vs-BAN-Old-(1).jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/MdG7v27gTuOC4BeHrIr3mQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "4th National Physical Disability T20 Championship ",
-      "match_id": 111382,
-      "match_name": "Punjab Divyang vs Hyderabad Divyang",
-      "team_1": "Punjab Divyang",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PUND@2x.png",
-      "team_2": "Hyderabad Divyang",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HYD@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111382_4575_PUN-D_HYD-D_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/w2fQ1Nz0QxmH_5WSMamy6g/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "4th National Physical Disability T20 Championship ",
-      "match_id": 111381,
-      "match_name": "Madhya Pradesh Divyang vs Chattisgarh Divyang",
-      "team_1": "Madhya Pradesh Divyang",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DMPC@2x.png",
-      "team_2": "Chattisgarh Divyang",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CHD@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111381_4575_MP-D_CHA-D_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/3os3JoB0S9KM-n6Q2bAjIQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "4th National Physical Disability T20 Championship ",
-      "match_id": 111379,
-      "match_name": "Odisha Divyang vs Vidarbha Divyang",
-      "team_1": "Odisha Divyang",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OCADC@2x.png",
-      "team_2": "Vidarbha Divyang",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VDCA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111379_4575_OD-D_VID-D_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/GUywFJuOTH2fw9OXkR3eoA/master.m3u8"
     }
   ]
 }
