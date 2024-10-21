@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Uttar Pradesh Divyang vs Haryana Divyang" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111385_4575_UP-D_HAR-D_fc-web.jpg" tvg-id="111385" group-title="4th National Physical Disability T20 Championship ",Uttar Pradesh Divyang vs Haryana Divyang
 https://liveauth.fancode.com/primary/111385_english_hls_8464adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Jharkhand Divyang vs Delhi Divyang" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111383_4575_JHA-D_DEL-D_fc-web.jpg" tvg-id="111383" group-title="4th National Physical Disability T20 Championship ",Jharkhand Divyang vs Delhi Divyang
-https://liveauth.fancode.com/primary/111383_english_hls_2057adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Jain Irrigation vs Nok 99 Puneri Bappa" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110460_4545_JAI_NPB_fc-web.jpg" tvg-id="110460" group-title="Maharashtra Champions Trophy 2024",Jain Irrigation vs Nok 99 Puneri Bappa
 https://liveauth.fancode.com/primary/110460_english_hls_6322adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Gozo Zalmi vs Msida Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Estonia-2024_Sporty_Match_card_3.jpg" tvg-id="111533" group-title="ECS Malta, 2024",Gozo Zalmi vs Msida Warriors
