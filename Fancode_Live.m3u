@@ -1,3 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Bangladesh vs South Africa" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SA-vs-BAN-Old-(1).jpg" tvg-id="110622" group-title="South Africa tour of Bangladesh, 2024",Bangladesh vs South Africa
 https://dai.google.com/linear/hls/event/MdG7v27gTuOC4BeHrIr3mQ/master.m3u8
+#EXTINF:-1 tvg-name="Al Ain vs Al-Hilal" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/09/108653_4475_AAI_AHS_fc-web.jpg" tvg-id="108653" group-title="AFC Champions League Elite 2024-25",Al Ain vs Al-Hilal
+https://dai.google.com/linear/hls/event/7KJEAVNqTiyOdMeCkTtFKw/master.m3u8
+#EXTINF:-1 tvg-name="Al Sadd vs Persepolis FC" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/09/108652_4475_SDD_PPL_fc-web.jpg" tvg-id="108652" group-title="AFC Champions League Elite 2024-25",Al Sadd vs Persepolis FC
+https://dai.google.com/linear/hls/event/-37tuwoWT7e7XEM-q37rUw/master.m3u8
+#EXTINF:-1 tvg-name="Al Shorta vs Pakhtakor Tashkent" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/09/108651_4475_SHR_PT_fc-web.jpg" tvg-id="108651" group-title="AFC Champions League Elite 2024-25",Al Shorta vs Pakhtakor Tashkent
+https://dai.google.com/linear/hls/event/9QSsSXhfRrSLRSf4IaRS8A/master.m3u8
