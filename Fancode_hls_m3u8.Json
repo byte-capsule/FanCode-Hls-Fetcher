@@ -1,45 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 10,
-  "last_upaded": "22-10-2024 on 5:42:19 PM \ud83c\udf1e",
+  "total_mathes": 7,
+  "last_upaded": "22-10-2024 on 6:19:44 PM \ud83c\udf19",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "4th National Physical Disability T20 Championship ",
-      "match_id": 111375,
-      "match_name": "Mumbai Divyang vs Uttar Pradesh Divyang",
-      "team_1": "Mumbai Divyang",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MUMD@2x.png",
-      "team_2": "Uttar Pradesh Divyang",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UPDD@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111375_4575_MUM-D_UP-D_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/Bg_m3uW8RlagtrvdrV9YWQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "4th National Physical Disability T20 Championship ",
-      "match_id": 111373,
-      "match_name": "Punjab Divyang vs Jammu and Kashmir Divyang",
-      "team_1": "Punjab Divyang",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PUND@2x.png",
-      "team_2": "Jammu and Kashmir Divyang",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JKD@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111373_4575_PUN-D_JKD_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/Ip723irlTK-i5fLzkvWmSw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "4th National Physical Disability T20 Championship ",
-      "match_id": 111372,
-      "match_name": "Vidarbha Divyang vs Chandigarh Divyang",
-      "team_1": "Vidarbha Divyang",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VDCA@2x.png",
-      "team_2": "Chandigarh Divyang",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PCCAD@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111372_4575_VID-D_CHN-D_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/OPnZ52LBQ9KDsfv_pn_crA/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Maharashtra Champions Trophy 2024",
@@ -103,26 +67,26 @@
     {
       "event_catagory": "football",
       "event_name": "AFC Champions League Elite 2024-25",
-      "match_id": 108658,
-      "match_name": "Shanghai Port vs Central Coast Mariners",
-      "team_1": "Shanghai Port",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHANGP@2x.png",
-      "team_2": "Central Coast Mariners",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CENTA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/prod-images/2024/09/108658_4475_SHG_CCM_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/weGMl_FVRdm6sT5X4YhFDQ/master.m3u8"
+      "match_id": 108660,
+      "match_name": "Buriram United vs Pohang Steelers",
+      "team_1": "Buriram United",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BURIR@2x.png",
+      "team_2": "Pohang Steelers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-POHAN@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/prod-images/2024/09/108660_4475_BU_PHG_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/v7Z7aXJfT7WXD4OQqodnYQ/master.m3u8"
     },
     {
       "event_catagory": "football",
       "event_name": "AFC Champions League Elite 2024-25",
-      "match_id": 108657,
-      "match_name": "Gwangju vs Johor Darul Ta'zim",
-      "team_1": "Gwangju",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GWN@2x.png",
-      "team_2": "Johor Darul Ta'zim",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-JOHOR@2x.png",
+      "match_id": 108659,
+      "match_name": "Shandong Taishan vs Yokohama F. Marinos",
+      "team_1": "Shandong Taishan",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHANDON@2x.png",
+      "team_2": "Yokohama F. Marinos",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-YKM@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/ueC1v6BRS_qyma5xsKRs7A/master.m3u8"
+      "stream_link": "https://dai.google.com/linear/hls/event/jQJTlHbsQCCIV6e-UOKSLw/master.m3u8"
     }
   ]
 }
