@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 5,
-  "last_upaded": "22-10-2024 on 1:11:44 PM \ud83c\udf1e",
+  "last_upaded": "22-10-2024 on 1:31:16 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,18 +15,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WBCA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/111368_4575_BIH-D_WB-D_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/qWJMKsf9RRiBfvEDTWkbiw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "4th National Physical Disability T20 Championship ",
-      "match_id": 111367,
-      "match_name": "Rajasthan Divyang vs Jharkhand Divyang",
-      "team_1": "Rajasthan Divyang",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RPCCA@2x.png",
-      "team_2": "Jharkhand Divyang",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JCADA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111367_4575_RAJ-D_JHA-D_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/-hkql_2sTIuBofSoZ7FhRw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -63,6 +51,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SYE@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
       "stream_link": "https://dai.google.com/linear/hls/event/2haOhqe0SPWvJFs2wcD35g/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ECS Malta, 2024",
+      "match_id": 111535,
+      "match_name": "Overseas vs Bugibba Blasters",
+      "team_1": "Overseas",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/OVR-CR1@2x.png",
+      "team_2": "Bugibba Blasters",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BUGB@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_1.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/a1h3CQtpTs2mCVbJoMrMsQ/master.m3u8"
     }
   ]
 }
