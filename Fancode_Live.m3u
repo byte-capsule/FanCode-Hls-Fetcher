@@ -13,5 +13,7 @@ https://dai.google.com/linear/hls/event/4NmJLDK5QuyF3PGum1jF6Q/master.m3u8
 Free Trial attempt unsuccessful......it requires Premium Account
 #EXTINF:-1 tvg-name="Bangladesh vs South Africa" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SA-vs-BAN-Old-(1).jpg" tvg-id="110622" group-title="South Africa tour of Bangladesh, 2024",Bangladesh vs South Africa
 https://dai.google.com/linear/hls/event/MdG7v27gTuOC4BeHrIr3mQ/master.m3u8
-#EXTINF:-1 tvg-name="Mozambique vs Seychelles" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="111932" group-title="ICC Men's T20 WC Africa Sub Regional Qualifier B",Mozambique vs Seychelles
-https://dai.google.com/linear/hls/event/2haOhqe0SPWvJFs2wcD35g/master.m3u8
+#EXTINF:-1 tvg-name="Shanghai Port vs Central Coast Mariners" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/09/108658_4475_SHG_CCM_fc-web.jpg" tvg-id="108658" group-title="AFC Champions League Elite 2024-25",Shanghai Port vs Central Coast Mariners
+https://dai.google.com/linear/hls/event/weGMl_FVRdm6sT5X4YhFDQ/master.m3u8
+#EXTINF:-1 tvg-name="Gwangju vs Johor Darul Ta'zim" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="108657" group-title="AFC Champions League Elite 2024-25",Gwangju vs Johor Darul Ta'zim
+https://dai.google.com/linear/hls/event/ueC1v6BRS_qyma5xsKRs7A/master.m3u8
