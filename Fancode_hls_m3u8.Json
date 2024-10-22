@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 1,
-  "last_upaded": "22-10-2024 on 09:23:56 AM \ud83c\udf1e",
+  "total_mathes": 5,
+  "last_upaded": "22-10-2024 on 09:46:02 AM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,6 +15,54 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/SA-vs-BAN-Old-(1).jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/MdG7v27gTuOC4BeHrIr3mQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Bhutan T20 International Quadrangular Series",
+      "match_id": 110605,
+      "match_name": "Thailand vs Maldives",
+      "team_1": "Thailand",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THL@2x.png",
+      "team_2": "Maldives",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MLD@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/match-5---Old.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/Hw5YWoNpR4uXpG_eWtlaPw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "4th National Physical Disability T20 Championship ",
+      "match_id": 111371,
+      "match_name": "Gujarat Divyang vs Chattisgarh Divyang",
+      "team_1": "Gujarat Divyang",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DGUJ@2x.png",
+      "team_2": "Chattisgarh Divyang",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CHD@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111371_4575_GUJ-D_CHA-D_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/qTidvRFRSSGJt7Ag7qV_lA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "4th National Physical Disability T20 Championship ",
+      "match_id": 111368,
+      "match_name": "Bihar Divyang vs West Bengal Divyang",
+      "team_1": "Bihar Divyang",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DBCA@2x.png",
+      "team_2": "West Bengal Divyang",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WBCA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111368_4575_BIH-D_WB-D_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/qWJMKsf9RRiBfvEDTWkbiw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "4th National Physical Disability T20 Championship ",
+      "match_id": 111367,
+      "match_name": "Rajasthan Divyang vs Jharkhand Divyang",
+      "team_1": "Rajasthan Divyang",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RPCCA@2x.png",
+      "team_2": "Jharkhand Divyang",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JCADA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111367_4575_RAJ-D_JHA-D_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/-hkql_2sTIuBofSoZ7FhRw/master.m3u8"
     }
   ]
 }
