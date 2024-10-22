@@ -1,11 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Bihar Divyang vs West Bengal Divyang" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111368_4575_BIH-D_WB-D_fc-web.jpg" tvg-id="111368" group-title="4th National Physical Disability T20 Championship ",Bihar Divyang vs West Bengal Divyang
-https://dai.google.com/linear/hls/event/qWJMKsf9RRiBfvEDTWkbiw/master.m3u8
+#EXTINF:-1 tvg-name="Mumbai Divyang vs Uttar Pradesh Divyang" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111375_4575_MUM-D_UP-D_fc-web.jpg" tvg-id="111375" group-title="4th National Physical Disability T20 Championship ",Mumbai Divyang vs Uttar Pradesh Divyang
+https://dai.google.com/linear/hls/event/Bg_m3uW8RlagtrvdrV9YWQ/master.m3u8
+#EXTINF:-1 tvg-name="Punjab Divyang vs Jammu and Kashmir Divyang" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111373_4575_PUN-D_JKD_fc-web.jpg" tvg-id="111373" group-title="4th National Physical Disability T20 Championship ",Punjab Divyang vs Jammu and Kashmir Divyang
+https://dai.google.com/linear/hls/event/Ip723irlTK-i5fLzkvWmSw/master.m3u8
+#EXTINF:-1 tvg-name="Vidarbha Divyang vs Chandigarh Divyang" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111372_4575_VID-D_CHN-D_fc-web.jpg" tvg-id="111372" group-title="4th National Physical Disability T20 Championship ",Vidarbha Divyang vs Chandigarh Divyang
+https://dai.google.com/linear/hls/event/OPnZ52LBQ9KDsfv_pn_crA/master.m3u8
+#EXTINF:-1 tvg-name="Bhutan vs Indonesia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/match-6---Old.png" tvg-id="110606" group-title="Bhutan T20 International Quadrangular Series",Bhutan vs Indonesia
+https://dai.google.com/linear/hls/event/R4H1glEcQdenPW1AEUHm9g/master.m3u8
 #EXTINF:-1 tvg-name="Punit Balan Group vs Stars Cricket Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110461_4545_SCC_PBG_fc-web.jpg" tvg-id="110461" group-title="Maharashtra Champions Trophy 2024",Punit Balan Group vs Stars Cricket Club
 https://dai.google.com/linear/hls/event/EmoZvcBCShWW_7PNWI7lCg/master.m3u8
+#EXTINF:-1 tvg-name="Overseas vs Bugibba Blasters" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_1.jpg" tvg-id="111535" group-title="ECS Malta, 2024",Overseas vs Bugibba Blasters
+https://dai.google.com/linear/hls/event/a1h3CQtpTs2mCVbJoMrMsQ/master.m3u8
 #EXTINF:-1 tvg-name="Bangladesh vs South Africa" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SA-vs-BAN-Old-(1).jpg" tvg-id="110622" group-title="South Africa tour of Bangladesh, 2024",Bangladesh vs South Africa
 https://dai.google.com/linear/hls/event/MdG7v27gTuOC4BeHrIr3mQ/master.m3u8
 #EXTINF:-1 tvg-name="Mozambique vs Seychelles" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="111932" group-title="ICC Men's T20 WC Africa Sub Regional Qualifier B",Mozambique vs Seychelles
 https://dai.google.com/linear/hls/event/2haOhqe0SPWvJFs2wcD35g/master.m3u8
-#EXTINF:-1 tvg-name="Overseas vs Bugibba Blasters" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_1.jpg" tvg-id="111535" group-title="ECS Malta, 2024",Overseas vs Bugibba Blasters
-https://dai.google.com/linear/hls/event/a1h3CQtpTs2mCVbJoMrMsQ/master.m3u8
