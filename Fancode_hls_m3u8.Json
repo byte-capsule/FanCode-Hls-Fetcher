@@ -1,44 +1,7 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "23-10-2024 on 00:13:46 AM \ud83c\udf19",
-  "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "KCC T20 Elite Cup, 2024",
-      "match_id": 110499,
-      "match_name": "Al Hajery Team XI vs NCM Investment",
-      "team_1": "Al Hajery Team XI",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ALJH@2x.png",
-      "team_2": "NCM Investment",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NIN@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_03.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/JoWXhFJxQyKBJPXDPSXu1Q/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Emirates D20, 2024",
-      "match_id": 111661,
-      "match_name": "Sharjah vs Dubai",
-      "team_1": "Sharjah",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHRJ@2x.png",
-      "team_2": "Dubai",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EMDB@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111661_4589_SHA_DUB_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/uz-Dx1rcRGWS94NQQKH5Kg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "South Africa tour of Bangladesh, 2024",
-      "match_id": 110622,
-      "match_name": "Bangladesh vs South Africa",
-      "team_1": "Bangladesh",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
-      "team_2": "South Africa",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/SA-vs-BAN-Old-(1).jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/MdG7v27gTuOC4BeHrIr3mQ/master.m3u8"
-    }
-  ]
+  "total_mathes": 0,
+  "last_upaded": "23-10-2024 on 00:36:58 AM \ud83c\udf19",
+  "matches": []
 }
