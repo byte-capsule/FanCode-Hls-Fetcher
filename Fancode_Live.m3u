@@ -1,11 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Bangladesh vs South Africa" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SA-vs-BAN-Old-(1).jpg" tvg-id="110622" group-title="South Africa tour of Bangladesh, 2024",Bangladesh vs South Africa
-https://dai.google.com/linear/hls/event/MdG7v27gTuOC4BeHrIr3mQ/master.m3u8
 #EXTINF:-1 tvg-name="Thailand vs Maldives" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/match-5---Old.png" tvg-id="110605" group-title="Bhutan T20 International Quadrangular Series",Thailand vs Maldives
 https://dai.google.com/linear/hls/event/Hw5YWoNpR4uXpG_eWtlaPw/master.m3u8
+#EXTINF:-1 tvg-name="Bangladesh vs South Africa" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SA-vs-BAN-Old-(1).jpg" tvg-id="110622" group-title="South Africa tour of Bangladesh, 2024",Bangladesh vs South Africa
+https://dai.google.com/linear/hls/event/MdG7v27gTuOC4BeHrIr3mQ/master.m3u8
 #EXTINF:-1 tvg-name="Gujarat Divyang vs Chattisgarh Divyang" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111371_4575_GUJ-D_CHA-D_fc-web.jpg" tvg-id="111371" group-title="4th National Physical Disability T20 Championship ",Gujarat Divyang vs Chattisgarh Divyang
 https://dai.google.com/linear/hls/event/qTidvRFRSSGJt7Ag7qV_lA/master.m3u8
 #EXTINF:-1 tvg-name="Bihar Divyang vs West Bengal Divyang" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111368_4575_BIH-D_WB-D_fc-web.jpg" tvg-id="111368" group-title="4th National Physical Disability T20 Championship ",Bihar Divyang vs West Bengal Divyang
 https://dai.google.com/linear/hls/event/qWJMKsf9RRiBfvEDTWkbiw/master.m3u8
 #EXTINF:-1 tvg-name="Rajasthan Divyang vs Jharkhand Divyang" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111367_4575_RAJ-D_JHA-D_fc-web.jpg" tvg-id="111367" group-title="4th National Physical Disability T20 Championship ",Rajasthan Divyang vs Jharkhand Divyang
 https://dai.google.com/linear/hls/event/-hkql_2sTIuBofSoZ7FhRw/master.m3u8
+#EXTINF:-1 tvg-name="Stars Cricket Club vs Punit Balan Group" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110461_4545_SCC_PBG_fc-web.jpg" tvg-id="110461" group-title="Maharashtra Champions Trophy 2024",Stars Cricket Club vs Punit Balan Group
+https://dai.google.com/linear/hls/event/EmoZvcBCShWW_7PNWI7lCg/master.m3u8
