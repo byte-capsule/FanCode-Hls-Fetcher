@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 8,
-  "last_upaded": "22-10-2024 on 2:47:40 PM \ud83c\udf1e",
+  "total_mathes": 7,
+  "last_upaded": "22-10-2024 on 3:11:12 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -63,18 +63,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JAI@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110462_4545_JET_JAI_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/4NmJLDK5QuyF3PGum1jF6Q/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECS Malta, 2024",
-      "match_id": 111535,
-      "match_name": "Overseas vs Bugibba Blasters",
-      "team_1": "Overseas",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/OVR-CR1@2x.png",
-      "team_2": "Bugibba Blasters",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BUGB@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_1.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/a1h3CQtpTs2mCVbJoMrMsQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
