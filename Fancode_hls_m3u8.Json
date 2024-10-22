@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "22-10-2024 on 8:09:52 PM \ud83c\udf19",
+  "total_mathes": 5,
+  "last_upaded": "22-10-2024 on 8:32:54 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,18 +15,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MARS@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_4.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/tqLBw0qyS3Gc6h7jj_ZPgg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B",
-      "match_id": 111934,
-      "match_name": "Zimbabwe vs Rwanda",
-      "team_1": "Zimbabwe",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
-      "team_2": "Rwanda",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RWA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/lmlDlV4jR1enM-0VzGUNpw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -61,7 +49,7 @@
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ISTIK@2x.png",
       "team_2": "Al Wehdat",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WEHD@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/108752_CASACARDS_APP.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/108752_4476_ISK_ALW_FC-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/T1t_fryiQh-Dd1BDS7qHow/master.m3u8"
     },
     {
