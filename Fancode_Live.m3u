@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Jets CC vs Jain Irrigation" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110462_4545_JET_JAI_fc-web.jpg" tvg-id="110462" group-title="Maharashtra Champions Trophy 2024",Jets CC vs Jain Irrigation
-https://dai.google.com/linear/hls/event/4NmJLDK5QuyF3PGum1jF6Q/master.m3u8
 #EXTINF:-1 tvg-name="Overseas vs MMA Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_3.jpg" tvg-id="111537" group-title="ECS Malta, 2024",Overseas vs MMA Titans
 https://dai.google.com/linear/hls/event/2jignziFTeS-YOfl7NMfGQ/master.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe vs Rwanda" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="111934" group-title="ICC Men's T20 WC Africa Sub Regional Qualifier B",Zimbabwe vs Rwanda
@@ -9,7 +7,7 @@ https://dai.google.com/linear/hls/event/lmlDlV4jR1enM-0VzGUNpw/master.m3u8
 https://dai.google.com/linear/hls/event/IUsd-RzKRUWgEYPia3czYQ/master.m3u8
 #EXTINF:-1 tvg-name="Bangladesh vs South Africa" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SA-vs-BAN-Old-(1).jpg" tvg-id="110622" group-title="South Africa tour of Bangladesh, 2024",Bangladesh vs South Africa
 https://dai.google.com/linear/hls/event/MdG7v27gTuOC4BeHrIr3mQ/master.m3u8
-#EXTINF:-1 tvg-name="Buriram United vs Pohang Steelers" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/09/108660_4475_BU_PHG_fc-web.jpg" tvg-id="108660" group-title="AFC Champions League Elite 2024-25",Buriram United vs Pohang Steelers
-https://dai.google.com/linear/hls/event/v7Z7aXJfT7WXD4OQqodnYQ/master.m3u8
 #EXTINF:-1 tvg-name="Shandong Taishan vs Yokohama F. Marinos" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="108659" group-title="AFC Champions League Elite 2024-25",Shandong Taishan vs Yokohama F. Marinos
 https://dai.google.com/linear/hls/event/jQJTlHbsQCCIV6e-UOKSLw/master.m3u8
+#EXTINF:-1 tvg-name="Buriram United vs Pohang Steelers" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/09/108660_4475_BU_PHG_fc-web.jpg" tvg-id="108660" group-title="AFC Champions League Elite 2024-25",Buriram United vs Pohang Steelers
+https://dai.google.com/linear/hls/event/v7Z7aXJfT7WXD4OQqodnYQ/master.m3u8

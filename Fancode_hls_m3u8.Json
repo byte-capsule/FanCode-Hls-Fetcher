@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "22-10-2024 on 6:19:44 PM \ud83c\udf19",
+  "total_mathes": 6,
+  "last_upaded": "22-10-2024 on 6:54:18 PM \ud83c\udf19",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Maharashtra Champions Trophy 2024",
-      "match_id": 110462,
-      "match_name": "Jets CC vs Jain Irrigation",
-      "team_1": "Jets CC",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JET@2x.png",
-      "team_2": "Jain Irrigation",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JAI@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110462_4545_JET_JAI_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/4NmJLDK5QuyF3PGum1jF6Q/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "ECS Malta, 2024",
@@ -67,18 +55,6 @@
     {
       "event_catagory": "football",
       "event_name": "AFC Champions League Elite 2024-25",
-      "match_id": 108660,
-      "match_name": "Buriram United vs Pohang Steelers",
-      "team_1": "Buriram United",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BURIR@2x.png",
-      "team_2": "Pohang Steelers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-POHAN@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/prod-images/2024/09/108660_4475_BU_PHG_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/v7Z7aXJfT7WXD4OQqodnYQ/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "AFC Champions League Elite 2024-25",
       "match_id": 108659,
       "match_name": "Shandong Taishan vs Yokohama F. Marinos",
       "team_1": "Shandong Taishan",
@@ -87,6 +63,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-YKM@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
       "stream_link": "https://dai.google.com/linear/hls/event/jQJTlHbsQCCIV6e-UOKSLw/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "AFC Champions League Elite 2024-25",
+      "match_id": 108660,
+      "match_name": "Buriram United vs Pohang Steelers",
+      "team_1": "Buriram United",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BURIR@2x.png",
+      "team_2": "Pohang Steelers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-POHAN@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/prod-images/2024/09/108660_4475_BU_PHG_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/v7Z7aXJfT7WXD4OQqodnYQ/master.m3u8"
     }
   ]
 }
