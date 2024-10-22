@@ -2,32 +2,8 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 5,
-  "last_upaded": "22-10-2024 on 0:49:05 PM \ud83c\udf1e",
+  "last_upaded": "22-10-2024 on 1:11:44 PM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Maharashtra Champions Trophy 2024",
-      "match_id": 110461,
-      "match_name": "Punit Balan Group vs Stars Cricket Club",
-      "team_1": "Punit Balan Group",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PBG@2x.png",
-      "team_2": "Stars Cricket Club",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SP@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110461_4545_SCC_PBG_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/EmoZvcBCShWW_7PNWI7lCg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "South Africa tour of Bangladesh, 2024",
-      "match_id": 110622,
-      "match_name": "Bangladesh vs South Africa",
-      "team_1": "Bangladesh",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
-      "team_2": "South Africa",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/SA-vs-BAN-Old-(1).jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/MdG7v27gTuOC4BeHrIr3mQ/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "4th National Physical Disability T20 Championship ",
@@ -51,6 +27,30 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JCADA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/111367_4575_RAJ-D_JHA-D_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/-hkql_2sTIuBofSoZ7FhRw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Maharashtra Champions Trophy 2024",
+      "match_id": 110461,
+      "match_name": "Punit Balan Group vs Stars Cricket Club",
+      "team_1": "Punit Balan Group",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PBG@2x.png",
+      "team_2": "Stars Cricket Club",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SP@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110461_4545_SCC_PBG_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/EmoZvcBCShWW_7PNWI7lCg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "South Africa tour of Bangladesh, 2024",
+      "match_id": 110622,
+      "match_name": "Bangladesh vs South Africa",
+      "team_1": "Bangladesh",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
+      "team_2": "South Africa",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/SA-vs-BAN-Old-(1).jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/MdG7v27gTuOC4BeHrIr3mQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
