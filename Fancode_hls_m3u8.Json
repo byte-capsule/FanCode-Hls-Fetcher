@@ -1,32 +1,20 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "22-10-2024 on 0:14:32 PM \ud83c\udf1e",
+  "total_mathes": 5,
+  "last_upaded": "22-10-2024 on 0:49:05 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
       "event_name": "Maharashtra Champions Trophy 2024",
       "match_id": 110461,
-      "match_name": "Stars Cricket Club vs Punit Balan Group",
-      "team_1": "Stars Cricket Club",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SP@2x.png",
-      "team_2": "Punit Balan Group",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PBG@2x.png",
+      "match_name": "Punit Balan Group vs Stars Cricket Club",
+      "team_1": "Punit Balan Group",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PBG@2x.png",
+      "team_2": "Stars Cricket Club",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SP@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110461_4545_SCC_PBG_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/EmoZvcBCShWW_7PNWI7lCg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Bhutan T20 International Quadrangular Series",
-      "match_id": 110605,
-      "match_name": "Thailand vs Maldives",
-      "team_1": "Thailand",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THL@2x.png",
-      "team_2": "Maldives",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MLD@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/match-5---Old.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/Hw5YWoNpR4uXpG_eWtlaPw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -39,18 +27,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/SA-vs-BAN-Old-(1).jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/MdG7v27gTuOC4BeHrIr3mQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "4th National Physical Disability T20 Championship ",
-      "match_id": 111371,
-      "match_name": "Gujarat Divyang vs Chattisgarh Divyang",
-      "team_1": "Gujarat Divyang",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DGUJ@2x.png",
-      "team_2": "Chattisgarh Divyang",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CHD@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111371_4575_GUJ-D_CHA-D_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/qTidvRFRSSGJt7Ag7qV_lA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -75,6 +51,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JCADA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/111367_4575_RAJ-D_JHA-D_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/-hkql_2sTIuBofSoZ7FhRw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B",
+      "match_id": 111932,
+      "match_name": "Mozambique vs Seychelles",
+      "team_1": "Mozambique",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MOZ@2x.png",
+      "team_2": "Seychelles",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SYE@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/2haOhqe0SPWvJFs2wcD35g/master.m3u8"
     }
   ]
 }
