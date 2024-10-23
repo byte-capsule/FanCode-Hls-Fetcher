@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 10,
-  "last_upaded": "23-10-2024 on 6:19:18 PM \ud83c\udf19",
+  "total_mathes": 9,
+  "last_upaded": "23-10-2024 on 6:54:04 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -66,18 +66,6 @@
     },
     {
       "event_catagory": "football",
-      "event_name": "J League 2024",
-      "match_id": 102446,
-      "match_name": "Urawa Red Diamonds vs Kashiwa Reysol",
-      "team_1": "Urawa Red Diamonds",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-URW@2x.png",
-      "team_2": "Kashiwa Reysol",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KRE@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/102446_3921_URW_REY_fc-web_1729338674010.jpg",
-      "stream_link": "https://mls3.fancode.com/915ced71-7485-4369-ac65-7b8459c399b6/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
       "event_name": "AFC Champions League Elite 2024-25",
       "match_id": 108662,
       "match_name": "Shanghai Shenhua vs Kawasaki Frontale",
@@ -91,18 +79,6 @@
     {
       "event_catagory": "football",
       "event_name": "AFC Champions League Two 2024-25",
-      "match_id": 108812,
-      "match_name": "Muangthong United vs Dynamic Herb Cebu",
-      "team_1": "Muangthong United",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MUA@2x.png",
-      "team_2": "Dynamic Herb Cebu",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-DYH@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/108812_4476_MUA_DHC_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/HbbgfWl9RMi5JUCNMzrSog/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "AFC Champions League Two 2024-25",
       "match_id": 108811,
       "match_name": "Selangor vs Jeonbuk Motors",
       "team_1": "Selangor",
@@ -111,6 +87,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-JNB@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/108811_4476_SEL_JNB_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/m8FjlYf3Sva3RrByJ4aafw/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "AFC Champions League Two 2024-25",
+      "match_id": 108812,
+      "match_name": "Muangthong United vs Dynamic Herb Cebu",
+      "team_1": "Muangthong United",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MUA@2x.png",
+      "team_2": "Dynamic Herb Cebu",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-DYH@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/108812_4476_MUA_DHC_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/HbbgfWl9RMi5JUCNMzrSog/master.m3u8"
     },
     {
       "event_catagory": "football",
