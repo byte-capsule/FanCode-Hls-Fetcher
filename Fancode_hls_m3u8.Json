@@ -1,45 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 11,
-  "last_upaded": "23-10-2024 on 5:08:55 PM \ud83c\udf1e",
+  "total_mathes": 8,
+  "last_upaded": "23-10-2024 on 5:42:21 PM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "4th National Physical Disability T20 Championship ",
-      "match_id": 111364,
-      "match_name": "Maharashtra Divyang vs West Bengal Divyang",
-      "team_1": "Maharashtra Divyang",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAHRD@2x.png",
-      "team_2": "West Bengal Divyang",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WBCA@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/111364_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/Cu-3Pd1RRF60V0slMpP0yg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "4th National Physical Disability T20 Championship ",
-      "match_id": 111366,
-      "match_name": "Jammu and Kashmir Divyang vs Mumbai Divyang",
-      "team_1": "Jammu and Kashmir Divyang",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JKD@2x.png",
-      "team_2": "Mumbai Divyang",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MUMD@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/111366_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/KEjFEWqsQpKEHs6iQsETcg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Maharashtra Champions Trophy 2024",
-      "match_id": 110464,
-      "match_name": "Stars Cricket Club vs Jain Irrigation",
-      "team_1": "Stars Cricket Club",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SP@2x.png",
-      "team_2": "Jain Irrigation",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JAI@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110464_4545_SCC_JAI_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/G-kP8F3bRZWflzrV5i22Vw/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B",
@@ -67,14 +31,14 @@
     {
       "event_catagory": "cricket",
       "event_name": "ECS Malta, 2024",
-      "match_id": 111540,
-      "match_name": "Gzira United vs Mater Dei",
-      "team_1": "Gzira United",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/GZU-CR1@2x.png",
-      "team_2": "Mater Dei",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MART@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_2.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/xjCcDrN3RY6l6RV_m6UwdA/master.m3u8"
+      "match_id": 111541,
+      "match_name": "Red Stars vs Royal Strikers",
+      "team_1": "Red Stars",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RS-CR2@2x.png",
+      "team_2": "Royal Strikers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROYS@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_3.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/gTj-L7OwRHW2DKoWLyz7MQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -102,6 +66,18 @@
     },
     {
       "event_catagory": "football",
+      "event_name": "J League 2024",
+      "match_id": 102446,
+      "match_name": "Urawa Red Diamonds vs Kashiwa Reysol",
+      "team_1": "Urawa Red Diamonds",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-URW@2x.png",
+      "team_2": "Kashiwa Reysol",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KRE@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/102446_3921_URW_REY_fc-web_1729338674010.jpg",
+      "stream_link": "https://mls3.fancode.com/915ced71-7485-4369-ac65-7b8459c399b6/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
       "event_name": "AFC Champions League Elite 2024-25",
       "match_id": 108661,
       "match_name": "Ulsan HD vs Vissel Kobe",
@@ -123,18 +99,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYDA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/108775_4476_HIR_SYD_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/rdUQ94aOTXeqqLSJ7-ycjQ/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "J League 2024",
-      "match_id": 102446,
-      "match_name": "Urawa Red Diamonds vs Kashiwa Reysol",
-      "team_1": "Urawa Red Diamonds",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-URW@2x.png",
-      "team_2": "Kashiwa Reysol",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KRE@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/102446_3921_URW_REY_fc-web_1729338674010.jpg",
-      "stream_link": "https://mls3.fancode.com/915ced71-7485-4369-ac65-7b8459c399b6/master.m3u8"
     }
   ]
 }
