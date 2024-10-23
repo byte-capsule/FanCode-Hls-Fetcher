@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Stack CC vs Kuwait Swedish" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_01.jpg" tvg-id="110500" group-title="KCC T20 Elite Cup, 2024",Stack CC vs Kuwait Swedish
+https://dai.google.com/linear/hls/event/FqfY8F0mRtitD6GBV0rbxQ/master.m3u8
 #EXTINF:-1 tvg-name="Ajman vs Emirates Blues" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111662_4589_AJM_EMB_fc-web.jpg" tvg-id="111662" group-title="Emirates D20, 2024",Ajman vs Emirates Blues
 https://dai.google.com/linear/hls/event/HFGmmIIeQ4eftr3VyF5PXA/master.m3u8
 #EXTINF:-1 tvg-name="West Indies vs Sri Lanka" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Sri-Lanka-ODI-Old-match-card.png" tvg-id="109871" group-title="West Indies tour of Sri Lanka, 2024",West Indies vs Sri Lanka
