@@ -11,7 +11,11 @@ https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
 https://dai.google.com/linear/hls/event/MdG7v27gTuOC4BeHrIr3mQ/master.m3u8
 #EXTINF:-1 tvg-name="Urawa Red Diamonds vs Kashiwa Reysol" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/102446_3921_URW_REY_fc-web_1729338674010.jpg" tvg-id="102446" group-title="J League 2024",Urawa Red Diamonds vs Kashiwa Reysol
 https://mls3.fancode.com/915ced71-7485-4369-ac65-7b8459c399b6/master.m3u8
-#EXTINF:-1 tvg-name="Ulsan HD vs Vissel Kobe" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/09/108661_4475_ULS_VIS_fc-web.jpg" tvg-id="108661" group-title="AFC Champions League Elite 2024-25",Ulsan HD vs Vissel Kobe
-https://dai.google.com/linear/hls/event/UXx0Tp-wSAKvZ7SXkRiEug/master.m3u8
-#EXTINF:-1 tvg-name="Sanfrecce Hiroshima vs Sydney FC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108775_4476_HIR_SYD_fc-web.jpg" tvg-id="108775" group-title="AFC Champions League Two 2024-25",Sanfrecce Hiroshima vs Sydney FC
-https://dai.google.com/linear/hls/event/rdUQ94aOTXeqqLSJ7-ycjQ/master.m3u8
+#EXTINF:-1 tvg-name="Shanghai Shenhua vs Kawasaki Frontale" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/09/108662_4475_SHN_KAW_fc-web.jpg" tvg-id="108662" group-title="AFC Champions League Elite 2024-25",Shanghai Shenhua vs Kawasaki Frontale
+https://dai.google.com/linear/hls/event/7gYlTft6TjqewLZyOcn09g/master.m3u8
+#EXTINF:-1 tvg-name="Muangthong United vs Dynamic Herb Cebu" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108812_4476_MUA_DHC_fc-web.jpg" tvg-id="108812" group-title="AFC Champions League Two 2024-25",Muangthong United vs Dynamic Herb Cebu
+https://dai.google.com/linear/hls/event/HbbgfWl9RMi5JUCNMzrSog/master.m3u8
+#EXTINF:-1 tvg-name="Selangor vs Jeonbuk Motors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108811_4476_SEL_JNB_fc-web.jpg" tvg-id="108811" group-title="AFC Champions League Two 2024-25",Selangor vs Jeonbuk Motors
+https://dai.google.com/linear/hls/event/m8FjlYf3Sva3RrByJ4aafw/master.m3u8
+#EXTINF:-1 tvg-name="India Women vs Bangladesh Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="111643" group-title="SAFF Women's Championship",India Women vs Bangladesh Women
+https://dai.google.com/linear/hls/event/a4pzJENUTO6ISu4HMMI3SQ/master.m3u8
