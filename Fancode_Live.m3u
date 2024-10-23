@@ -17,3 +17,5 @@ https://dai.google.com/linear/hls/event/MdG7v27gTuOC4BeHrIr3mQ/master.m3u8
 https://dai.google.com/linear/hls/event/UXx0Tp-wSAKvZ7SXkRiEug/master.m3u8
 #EXTINF:-1 tvg-name="Sanfrecce Hiroshima vs Sydney FC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108775_4476_HIR_SYD_fc-web.jpg" tvg-id="108775" group-title="AFC Champions League Two 2024-25",Sanfrecce Hiroshima vs Sydney FC
 https://dai.google.com/linear/hls/event/rdUQ94aOTXeqqLSJ7-ycjQ/master.m3u8
+#EXTINF:-1 tvg-name="Urawa Red Diamonds vs Kashiwa Reysol" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/102446_3921_URW_REY_fc-web_1729338674010.jpg" tvg-id="102446" group-title="J League 2024",Urawa Red Diamonds vs Kashiwa Reysol
+https://mls3.fancode.com/915ced71-7485-4369-ac65-7b8459c399b6/master.m3u8
