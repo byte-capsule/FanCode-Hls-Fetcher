@@ -1,15 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Stack CC vs Kuwait Swedish" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_01.jpg" tvg-id="110500" group-title="KCC T20 Elite Cup, 2024",Stack CC vs Kuwait Swedish
-https://dai.google.com/linear/hls/event/FqfY8F0mRtitD6GBV0rbxQ/master.m3u8
-#EXTINF:-1 tvg-name="Sharjah vs Fujairah" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111663_4589_FUJ_SHA_fc-web.jpg" tvg-id="111663" group-title="Emirates D20, 2024",Sharjah vs Fujairah
-https://dai.google.com/linear/hls/event/rdMHeLevTamWBlQie9EEaw/master.m3u8
-#EXTINF:-1 tvg-name="Bangladesh vs South Africa" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SA-vs-BAN-Old-(1).jpg" tvg-id="110622" group-title="South Africa tour of Bangladesh, 2024",Bangladesh vs South Africa
-https://dai.google.com/linear/hls/event/MdG7v27gTuOC4BeHrIr3mQ/master.m3u8
-#EXTINF:-1 tvg-name="Ravshan Kulob vs Tractor" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108728_4476_TFC_RK_fc-web.jpg" tvg-id="108728" group-title="AFC Champions League Two 2024-25",Ravshan Kulob vs Tractor
-https://dai.google.com/linear/hls/event/c-0_HLmWTGSSnem1spSJ6w/master.m3u8
-#EXTINF:-1 tvg-name="Al Quwa Al Jawiya vs Khaldiya" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108740_4476_AFC_KHA_fc-web.jpg" tvg-id="108740" group-title="AFC Champions League Two 2024-25",Al Quwa Al Jawiya vs Khaldiya
-https://dai.google.com/linear/hls/event/aLDso4P8Q6OBQZ0snEzwQQ/master.m3u8
-#EXTINF:-1 tvg-name="Al-Taawoun vs Altyn Asyr" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108739_4476_ALTW_AA_fc-web.jpg" tvg-id="108739" group-title="AFC Champions League Two 2024-25",Al-Taawoun vs Altyn Asyr
-https://dai.google.com/linear/hls/event/nPXzp_-iQ8GpZ3CM4A_FZg/master.m3u8
 #EXTINF:-1 tvg-name="Partizan NIS Belgrade vs Virtus Bologna" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Basketball_Fallback_Old_match-card.jpg" tvg-id="111736" group-title="Euro League 2024-25",Partizan NIS Belgrade vs Virtus Bologna
 https://dai.google.com/linear/hls/event/mVxomAmuRH-z53e5PzVPtg/master.m3u8
