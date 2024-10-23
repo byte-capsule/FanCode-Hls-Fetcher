@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "23-10-2024 on 3:42:38 PM \ud83c\udf1e",
+  "total_mathes": 9,
+  "last_upaded": "23-10-2024 on 4:10:57 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -87,6 +87,30 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/SA-vs-BAN-Old-(1).jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/MdG7v27gTuOC4BeHrIr3mQ/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "AFC Champions League Elite 2024-25",
+      "match_id": 108661,
+      "match_name": "Ulsan HD vs Vissel Kobe",
+      "team_1": "Ulsan HD",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ULS@2x.png",
+      "team_2": "Vissel Kobe",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VKO@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/prod-images/2024/09/108661_4475_ULS_VIS_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/UXx0Tp-wSAKvZ7SXkRiEug/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "AFC Champions League Two 2024-25",
+      "match_id": 108775,
+      "match_name": "Sanfrecce Hiroshima vs Sydney FC",
+      "team_1": "Sanfrecce Hiroshima",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHI@2x.png",
+      "team_2": "Sydney FC",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYDA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/108775_4476_HIR_SYD_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/rdUQ94aOTXeqqLSJ7-ycjQ/master.m3u8"
     }
   ]
 }

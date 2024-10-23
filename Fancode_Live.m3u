@@ -13,3 +13,7 @@ https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
 https://dai.google.com/linear/hls/event/xjCcDrN3RY6l6RV_m6UwdA/master.m3u8
 #EXTINF:-1 tvg-name="Bangladesh vs South Africa" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SA-vs-BAN-Old-(1).jpg" tvg-id="110622" group-title="South Africa tour of Bangladesh, 2024",Bangladesh vs South Africa
 https://dai.google.com/linear/hls/event/MdG7v27gTuOC4BeHrIr3mQ/master.m3u8
+#EXTINF:-1 tvg-name="Ulsan HD vs Vissel Kobe" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/09/108661_4475_ULS_VIS_fc-web.jpg" tvg-id="108661" group-title="AFC Champions League Elite 2024-25",Ulsan HD vs Vissel Kobe
+https://dai.google.com/linear/hls/event/UXx0Tp-wSAKvZ7SXkRiEug/master.m3u8
+#EXTINF:-1 tvg-name="Sanfrecce Hiroshima vs Sydney FC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108775_4476_HIR_SYD_fc-web.jpg" tvg-id="108775" group-title="AFC Champions League Two 2024-25",Sanfrecce Hiroshima vs Sydney FC
+https://dai.google.com/linear/hls/event/rdUQ94aOTXeqqLSJ7-ycjQ/master.m3u8
