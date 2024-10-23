@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Ajman vs Emirates Blues" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111662_4589_AJM_EMB_fc-web.jpg" tvg-id="111662" group-title="Emirates D20, 2024",Ajman vs Emirates Blues
 https://dai.google.com/linear/hls/event/HFGmmIIeQ4eftr3VyF5PXA/master.m3u8
-#EXTINF:-1 tvg-name="Royal Strikers vs Gzira United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_4.jpg" tvg-id="111542" group-title="ECS Malta, 2024",Royal Strikers vs Gzira United
-https://dai.google.com/linear/hls/event/QRStQSL4S4ifbgISL73cxA/master.m3u8
 #EXTINF:-1 tvg-name="West Indies vs Sri Lanka" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Sri-Lanka-ODI-Old-match-card.png" tvg-id="109871" group-title="West Indies tour of Sri Lanka, 2024",West Indies vs Sri Lanka
 https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
 #EXTINF:-1 tvg-name="Bangladesh vs South Africa" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SA-vs-BAN-Old-(1).jpg" tvg-id="110622" group-title="South Africa tour of Bangladesh, 2024",Bangladesh vs South Africa

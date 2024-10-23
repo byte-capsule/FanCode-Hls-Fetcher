@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "23-10-2024 on 9:10:45 PM \ud83c\udf19",
+  "total_mathes": 3,
+  "last_upaded": "23-10-2024 on 9:31:03 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,18 +15,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLUE@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/111662_4589_AJM_EMB_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/HFGmmIIeQ4eftr3VyF5PXA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECS Malta, 2024",
-      "match_id": 111542,
-      "match_name": "Royal Strikers vs Gzira United",
-      "team_1": "Royal Strikers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROYS@2x.png",
-      "team_2": "Gzira United",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/GZU-CR1@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_4.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/QRStQSL4S4ifbgISL73cxA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
