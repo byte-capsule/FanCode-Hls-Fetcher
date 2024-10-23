@@ -1,15 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Bhutan vs Maldives" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/match-3---Old.png" tvg-id="110608" group-title="Bhutan T20 International Quadrangular Series",Bhutan vs Maldives
-https://dai.google.com/linear/hls/event/7ca3LoCQSTmp2sJ7hABrXA/master.m3u8
 #EXTINF:-1 tvg-name="Maharashtra Divyang vs West Bengal Divyang" tvg-logo="https://www.fancode.com/aig/match/v1/111364_CASACARDS_APP.png" tvg-id="111364" group-title="4th National Physical Disability T20 Championship ",Maharashtra Divyang vs West Bengal Divyang
 https://dai.google.com/linear/hls/event/Cu-3Pd1RRF60V0slMpP0yg/master.m3u8
 #EXTINF:-1 tvg-name="Jammu and Kashmir Divyang vs Mumbai Divyang" tvg-logo="https://www.fancode.com/aig/match/v1/111366_CASACARDS_APP.png" tvg-id="111366" group-title="4th National Physical Disability T20 Championship ",Jammu and Kashmir Divyang vs Mumbai Divyang
 https://dai.google.com/linear/hls/event/KEjFEWqsQpKEHs6iQsETcg/master.m3u8
 #EXTINF:-1 tvg-name="Stars Cricket Club vs Jain Irrigation" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110464_4545_SCC_JAI_fc-web.jpg" tvg-id="110464" group-title="Maharashtra Champions Trophy 2024",Stars Cricket Club vs Jain Irrigation
 https://dai.google.com/linear/hls/event/G-kP8F3bRZWflzrV5i22Vw/master.m3u8
+#EXTINF:-1 tvg-name="Zimbabwe vs Gambia" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="110635" group-title="ICC Men's T20 WC Africa Sub Regional Qualifier B",Zimbabwe vs Gambia
+https://dai.google.com/linear/hls/event/23YzCcwOSemDjUma-Buytg/master.m3u8
+#EXTINF:-1 tvg-name="Rwanda vs Mozambique" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="110634" group-title="ICC Men's T20 WC Africa Sub Regional Qualifier B",Rwanda vs Mozambique
+https://dai.google.com/linear/hls/event/NZDZjtJdQSOVEVeAhAAUoA/master.m3u8
 #EXTINF:-1 tvg-name="Gzira United vs Mater Dei" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_2.jpg" tvg-id="111540" group-title="ECS Malta, 2024",Gzira United vs Mater Dei
 https://dai.google.com/linear/hls/event/xjCcDrN3RY6l6RV_m6UwdA/master.m3u8
-#EXTINF:-1 tvg-name="Sri Lanka vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Sri-Lanka-ODI-Old-match-card.png" tvg-id="109871" group-title="West Indies tour of Sri Lanka, 2024",Sri Lanka vs West Indies
+#EXTINF:-1 tvg-name="West Indies vs Sri Lanka" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Sri-Lanka-ODI-Old-match-card.png" tvg-id="109871" group-title="West Indies tour of Sri Lanka, 2024",West Indies vs Sri Lanka
 https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
 #EXTINF:-1 tvg-name="Bangladesh vs South Africa" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SA-vs-BAN-Old-(1).jpg" tvg-id="110622" group-title="South Africa tour of Bangladesh, 2024",Bangladesh vs South Africa
 https://dai.google.com/linear/hls/event/MdG7v27gTuOC4BeHrIr3mQ/master.m3u8
