@@ -3,11 +3,9 @@
 https://dai.google.com/linear/hls/event/nBjBOnI6StyJOPLoSqpfcQ/master.m3u8
 #EXTINF:-1 tvg-name="Ashtapailu Sports vs Stars Cricket Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110466_4545_SCC_APS_fc-web.jpg" tvg-id="110466" group-title="Maharashtra Champions Trophy 2024",Ashtapailu Sports vs Stars Cricket Club
 https://dai.google.com/linear/hls/event/w8OA1oaAT5q6rJ0bhxgofA/master.m3u8
-#EXTINF:-1 tvg-name="England vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png" tvg-id="110482" group-title="England tour of Pakistan, 2024",England vs Pakistan
-https://dai.google.com/linear/hls/event/-Ot1M8ctSm6oetKAQL97vg/master.m3u8
 #EXTINF:-1 tvg-name="Southern Crusaders vs Gozo Zalmi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_2.jpg" tvg-id="111544" group-title="ECS Malta, 2024",Southern Crusaders vs Gozo Zalmi
 https://dai.google.com/linear/hls/event/LDJbJRnRQHqvq69WAxnfnA/master.m3u8
-#EXTINF:-1 tvg-name="Rwanda vs Seychelles" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="110636" group-title="ICC Men's T20 WC Africa Sub Regional Qualifier B",Rwanda vs Seychelles
-https://dai.google.com/linear/hls/event/zBFjSymjRvW5JhU5cW1cWg/master.m3u8
-#EXTINF:-1 tvg-name="Maldives Women vs Bhutan Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="111644" group-title="SAFF Women's Championship",Maldives Women vs Bhutan Women
-https://dai.google.com/linear/hls/event/Mn2GUv5BToKztH2wgGiI0A/master.m3u8
+#EXTINF:-1 tvg-name="England vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png" tvg-id="110482" group-title="England tour of Pakistan, 2024",England vs Pakistan
+https://dai.google.com/linear/hls/event/-Ot1M8ctSm6oetKAQL97vg/master.m3u8
+#EXTINF:-1 tvg-name="Lee Man vs Bangkok United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108799_4476_LM_BU_fc-web.jpg" tvg-id="108799" group-title="AFC Champions League Two 2024-25",Lee Man vs Bangkok United
+https://dai.google.com/linear/hls/event/_XVzV0jeQAKO3LlHezvzjA/master.m3u8
