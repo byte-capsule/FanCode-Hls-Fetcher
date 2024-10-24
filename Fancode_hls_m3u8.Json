@@ -1,68 +1,7 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "25-10-2024 on 00:13:54 AM \ud83c\udf19",
-  "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "KCC T20 Elite Cup, 2024",
-      "match_id": 110501,
-      "match_name": "Kuwait Emerging Stars vs CECC",
-      "team_1": "Kuwait Emerging Stars",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR1@2x.png",
-      "team_2": "CECC",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CECT@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_02.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/DpkE7kP8QMSeQm_gFUNSrQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Emirates D20, 2024",
-      "match_id": 111665,
-      "match_name": "Emirates Blues vs Dubai",
-      "team_1": "Emirates Blues",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLUE@2x.png",
-      "team_2": "Dubai",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EMDB@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111665_4589_EMB_DUB_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/_R15cJ21RfqKQOBe-JeAFQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Qatar Pro League, 2024",
-      "match_id": 111779,
-      "match_name": "Galfar Al Misnad vs Hurricanes",
-      "team_1": "Galfar Al Misnad",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GAMC@2x.png",
-      "team_2": "Hurricanes",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HUR@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111779_4593_HUR_GAM_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/uhmRUx83SrKaZtRIMo0cZg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "England tour of Pakistan, 2024",
-      "match_id": 110482,
-      "match_name": "England vs Pakistan",
-      "team_1": "England",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
-      "team_2": "Pakistan",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/-Ot1M8ctSm6oetKAQL97vg/master.m3u8"
-    },
-    {
-      "event_catagory": "basketball",
-      "event_name": "EuroLeague 2024-25",
-      "match_id": 111737,
-      "match_name": "Monaco vs Paris",
-      "team_1": "Monaco",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-MNCO@2x.png",
-      "team_2": "Paris",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/ATS-NB1@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/111737_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/b5bZIe3MSy2BJsJKuM9Z-g/master.m3u8"
-    }
-  ]
+  "total_mathes": 0,
+  "last_upaded": "25-10-2024 on 00:37:14 AM \ud83c\udf19",
+  "matches": []
 }
