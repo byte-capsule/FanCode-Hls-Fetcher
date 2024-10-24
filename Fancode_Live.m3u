@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Ashtapailu Sports vs Stars Cricket Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110466_4545_SCC_APS_fc-web.jpg" tvg-id="110466" group-title="Maharashtra Champions Trophy 2024",Ashtapailu Sports vs Stars Cricket Club
-https://dai.google.com/linear/hls/event/w8OA1oaAT5q6rJ0bhxgofA/master.m3u8
 #EXTINF:-1 tvg-name="Edex Knights vs Victoria Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_3.jpg" tvg-id="111545" group-title="ECS Malta, 2024",Edex Knights vs Victoria Lions
 https://dai.google.com/linear/hls/event/GqSSNx1RQ3u5v8mS6yjAHw/master.m3u8
 #EXTINF:-1 tvg-name="Gambia vs Mozambique" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="110638" group-title="ICC Men's T20 WC Africa Sub Regional Qualifier B",Gambia vs Mozambique
@@ -17,5 +15,7 @@ https://dai.google.com/linear/hls/event/4xuL_83wRNCUlAOrOIvsSA/master.m3u8
 https://dai.google.com/linear/hls/event/D8Y82kzlRGWMpovKkpO6mQ/master.m3u8
 #EXTINF:-1 tvg-name="Port vs Zhejiang" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108787_4476_POR_ZHP_fc-web.jpg" tvg-id="108787" group-title="AFC Champions League Two 2024-25",Port vs Zhejiang
 https://dai.google.com/linear/hls/event/LZdvmTpqSWGwYDjzEI1TYQ/master.m3u8
+#EXTINF:-1 tvg-name="Kaya vs Eastern SC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108776_4476_KAYA_ESC_fc-web.jpg" tvg-id="108776" group-title="AFC Champions League Two 2024-25",Kaya vs Eastern SC
+https://dai.google.com/linear/hls/event/CKvVC7tfTweIqU6hCePvKQ/master.m3u8
 #EXTINF:-1 tvg-name="Nepal Women vs Sri Lanka Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="111645" group-title="SAFF Women's Championship",Nepal Women vs Sri Lanka Women
 https://dai.google.com/linear/hls/event/g5D34VSvT0uqKQeRKXRimw/master.m3u8
