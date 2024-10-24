@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Bangladesh vs South Africa" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SA-vs-BAN-Old-(1).jpg" tvg-id="110622" group-title="South Africa tour of Bangladesh, 2024",Bangladesh vs South Africa
 https://dai.google.com/linear/hls/event/MdG7v27gTuOC4BeHrIr3mQ/master.m3u8
+#EXTINF:-1 tvg-name="Genesis Championship" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Golf_Fallback_Old_match-card.jpg" tvg-id="112036" group-title="Genesis Championship",Genesis Championship
+https://dai.google.com/linear/hls/event/vK3rtGbPTAi-IBiRLKRcGw/master.m3u8
