@@ -3,3 +3,5 @@
 https://dai.google.com/linear/hls/event/uhmRUx83SrKaZtRIMo0cZg/master.m3u8
 #EXTINF:-1 tvg-name="England vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png" tvg-id="110482" group-title="England tour of Pakistan, 2024",England vs Pakistan
 https://dai.google.com/linear/hls/event/-Ot1M8ctSm6oetKAQL97vg/master.m3u8
+#EXTINF:-1 tvg-name="Monaco vs Paris" tvg-logo="https://www.fancode.com/aig/match/v1/111737_CASACARDS_APP.png" tvg-id="111737" group-title="EuroLeague 2024-25",Monaco vs Paris
+https://dai.google.com/linear/hls/event/b5bZIe3MSy2BJsJKuM9Z-g/master.m3u8
