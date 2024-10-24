@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Maharashtra Divyang vs Karnataka Divyang" tvg-logo="https://www.fancode.com/aig/match/v1/111360_CASACARDS_APP.png" tvg-id="111360" group-title="4th National Physical Disability T20 Championship ",Maharashtra Divyang vs Karnataka Divyang
-https://dai.google.com/linear/hls/event/nBjBOnI6StyJOPLoSqpfcQ/master.m3u8
 #EXTINF:-1 tvg-name="Ashtapailu Sports vs Stars Cricket Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110466_4545_SCC_APS_fc-web.jpg" tvg-id="110466" group-title="Maharashtra Champions Trophy 2024",Ashtapailu Sports vs Stars Cricket Club
 https://dai.google.com/linear/hls/event/w8OA1oaAT5q6rJ0bhxgofA/master.m3u8
 #EXTINF:-1 tvg-name="Edex Knights vs Victoria Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_3.jpg" tvg-id="111545" group-title="ECS Malta, 2024",Edex Knights vs Victoria Lions
@@ -11,5 +9,13 @@ https://dai.google.com/linear/hls/event/LSaAODSbRjKoxYKJBn5MoA/master.m3u8
 https://dai.google.com/linear/hls/event/E9VbSFa4SqyLfE7WGxUvPg/master.m3u8
 #EXTINF:-1 tvg-name="England vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png" tvg-id="110482" group-title="England tour of Pakistan, 2024",England vs Pakistan
 https://dai.google.com/linear/hls/event/-Ot1M8ctSm6oetKAQL97vg/master.m3u8
-#EXTINF:-1 tvg-name="Lee Man vs Bangkok United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108799_4476_LM_BU_fc-web.jpg" tvg-id="108799" group-title="AFC Champions League Two 2024-25",Lee Man vs Bangkok United
-https://dai.google.com/linear/hls/event/_XVzV0jeQAKO3LlHezvzjA/master.m3u8
+#EXTINF:-1 tvg-name="CBCC vs Fireox CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111778_4593_FCC_CBC_fc-web.jpg" tvg-id="111778" group-title="Qatar Pro League, 2024",CBCC vs Fireox CC
+https://dai.google.com/linear/hls/event/NDACFRT6SxeYtkFfO4VD_g/master.m3u8
+#EXTINF:-1 tvg-name="Tampines Rovers FC vs Nam Dinh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108800_4476_TAM_ND_fc-web.jpg" tvg-id="108800" group-title="AFC Champions League Two 2024-25",Tampines Rovers FC vs Nam Dinh
+https://dai.google.com/linear/hls/event/4xuL_83wRNCUlAOrOIvsSA/master.m3u8
+#EXTINF:-1 tvg-name="Persib Bandung vs Lion City Sailors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108788_4476_PER_LIO_fc-web.jpg" tvg-id="108788" group-title="AFC Champions League Two 2024-25",Persib Bandung vs Lion City Sailors
+https://dai.google.com/linear/hls/event/D8Y82kzlRGWMpovKkpO6mQ/master.m3u8
+#EXTINF:-1 tvg-name="Port vs Zhejiang" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108787_4476_POR_ZHP_fc-web.jpg" tvg-id="108787" group-title="AFC Champions League Two 2024-25",Port vs Zhejiang
+https://dai.google.com/linear/hls/event/LZdvmTpqSWGwYDjzEI1TYQ/master.m3u8
+#EXTINF:-1 tvg-name="Nepal Women vs Sri Lanka Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="111645" group-title="SAFF Women's Championship",Nepal Women vs Sri Lanka Women
+https://dai.google.com/linear/hls/event/g5D34VSvT0uqKQeRKXRimw/master.m3u8
