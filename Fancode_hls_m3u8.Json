@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 8,
-  "last_upaded": "24-10-2024 on 1:42:09 PM \ud83c\udf1e",
+  "total_mathes": 6,
+  "last_upaded": "24-10-2024 on 2:14:05 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -30,15 +30,15 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Bhutan T20 International Quadrangular Series",
-      "match_id": 110609,
-      "match_name": "Indonesia vs Bhutan",
-      "team_1": "Indonesia",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-INDA@2x.png",
-      "team_2": "Bhutan",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BHU@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/match-6---Old.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/EuMrUpn-Q9ihNgyy2iXhcw/master.m3u8"
+      "event_name": "ECS Malta, 2024",
+      "match_id": 111543,
+      "match_name": "Victoria Lions vs Southern Crusaders",
+      "team_1": "Victoria Lions",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VCTL@2x.png",
+      "team_2": "Southern Crusaders",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOUTHC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_1.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/_b0xGcXqTni4BoeBZ0jtzQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -65,18 +65,6 @@
       "stream_link": "https://dai.google.com/linear/hls/event/p6YM3V_vRpuCgOGrKVl20Q/master.m3u8"
     },
     {
-      "event_catagory": "cricket",
-      "event_name": "ECS Malta, 2024",
-      "match_id": 111543,
-      "match_name": "Victoria Lions vs Southern Crusaders",
-      "team_1": "Victoria Lions",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VCTL@2x.png",
-      "team_2": "Southern Crusaders",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOUTHC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_1.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/_b0xGcXqTni4BoeBZ0jtzQ/master.m3u8"
-    },
-    {
       "event_catagory": "football",
       "event_name": "SAFF Women's Championship",
       "match_id": 111644,
@@ -87,18 +75,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BTW@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
       "stream_link": "https://dai.google.com/linear/hls/event/Mn2GUv5BToKztH2wgGiI0A/master.m3u8"
-    },
-    {
-      "event_catagory": "golf",
-      "event_name": "Genesis Championship",
-      "match_id": 112036,
-      "match_name": "Day 1",
-      "team_1": "Day 1",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-GO@2x.png",
-      "team_2": "Jack Nicklaus Golf Club, Incheon, South Korea",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Genesis-Championship_Old_match-card_1729743605918.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/vK3rtGbPTAi-IBiRLKRcGw/master.m3u8"
     }
   ]
 }
