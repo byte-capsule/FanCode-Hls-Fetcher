@@ -1,9 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Ajman vs Abu Dhabi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111664_4589_AJM_ABD_fc-web.jpg" tvg-id="111664" group-title="Emirates D20, 2024",Ajman vs Abu Dhabi
 https://dai.google.com/linear/hls/event/38jKYHCsQASWtIlZz0vl8w/master.m3u8
-#EXTINF:-1 tvg-name="Edex Knights vs Gozo Zalmi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_4.jpg" tvg-id="111546" group-title="ECS Malta, 2024",Edex Knights vs Gozo Zalmi
-https://dai.google.com/linear/hls/event/7MVVrJvET0iqF9OkATgc4A/master.m3u8
-#EXTINF:-1 tvg-name="CBCC vs Fireox Unit CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111778_4593_FCC_CBC_fc-web.jpg" tvg-id="111778" group-title="Qatar Pro League, 2024",CBCC vs Fireox Unit CC
-https://dai.google.com/linear/hls/event/NDACFRT6SxeYtkFfO4VD_g/master.m3u8
 #EXTINF:-1 tvg-name="England vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png" tvg-id="110482" group-title="England tour of Pakistan, 2024",England vs Pakistan
 https://dai.google.com/linear/hls/event/-Ot1M8ctSm6oetKAQL97vg/master.m3u8
