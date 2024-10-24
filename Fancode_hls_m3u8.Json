@@ -2,19 +2,19 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 2,
-  "last_upaded": "24-10-2024 on 10:12:10 PM \ud83c\udf19",
+  "last_upaded": "24-10-2024 on 10:37:23 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
-      "event_name": "Emirates D20, 2024",
-      "match_id": 111664,
-      "match_name": "Ajman vs Abu Dhabi",
-      "team_1": "Ajman",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AJMN@2x.png",
-      "team_2": "Abu Dhabi",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ABUD@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111664_4589_AJM_ABD_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/38jKYHCsQASWtIlZz0vl8w/master.m3u8"
+      "event_name": "Qatar Pro League, 2024",
+      "match_id": 111779,
+      "match_name": "Galfar Al Misnad vs Hurricanes",
+      "team_1": "Galfar Al Misnad",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GAMC@2x.png",
+      "team_2": "Hurricanes",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HUR@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111779_4593_HUR_GAM_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/uhmRUx83SrKaZtRIMo0cZg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
