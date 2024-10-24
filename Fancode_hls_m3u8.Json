@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 7,
-  "last_upaded": "24-10-2024 on 5:08:57 PM \ud83c\udf1e",
+  "last_upaded": "24-10-2024 on 5:25:31 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -31,14 +31,14 @@
     {
       "event_catagory": "cricket",
       "event_name": "ECS Malta, 2024",
-      "match_id": 111544,
-      "match_name": "Southern Crusaders vs Gozo Zalmi",
-      "team_1": "Southern Crusaders",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOUTHC@2x.png",
-      "team_2": "Gozo Zalmi",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GOZ@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_2.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/LDJbJRnRQHqvq69WAxnfnA/master.m3u8"
+      "match_id": 111545,
+      "match_name": "Edex Knights vs Victoria Lions",
+      "team_1": "Edex Knights",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/EDK-CR1@2x.png",
+      "team_2": "Victoria Lions",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VCTL@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_3.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/GqSSNx1RQ3u5v8mS6yjAHw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
