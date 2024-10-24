@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "24-10-2024 on 4:34:18 PM \ud83c\udf1e",
+  "total_mathes": 7,
+  "last_upaded": "24-10-2024 on 4:44:35 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -39,6 +39,30 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GOZ@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_2.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/LDJbJRnRQHqvq69WAxnfnA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B",
+      "match_id": 110638,
+      "match_name": "Mozambique vs Gambia",
+      "team_1": "Mozambique",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MOZ@2x.png",
+      "team_2": "Gambia",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/GAM-CR2@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/LSaAODSbRjKoxYKJBn5MoA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B",
+      "match_id": 110637,
+      "match_name": "Zimbabwe vs Kenya",
+      "team_1": "Zimbabwe",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
+      "team_2": "Kenya",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KNA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/E9VbSFa4SqyLfE7WGxUvPg/master.m3u8"
     },
     {
       "event_catagory": "cricket",

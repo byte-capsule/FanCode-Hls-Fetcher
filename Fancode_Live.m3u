@@ -5,6 +5,10 @@ https://dai.google.com/linear/hls/event/nBjBOnI6StyJOPLoSqpfcQ/master.m3u8
 https://dai.google.com/linear/hls/event/w8OA1oaAT5q6rJ0bhxgofA/master.m3u8
 #EXTINF:-1 tvg-name="Southern Crusaders vs Gozo Zalmi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_2.jpg" tvg-id="111544" group-title="ECS Malta, 2024",Southern Crusaders vs Gozo Zalmi
 https://dai.google.com/linear/hls/event/LDJbJRnRQHqvq69WAxnfnA/master.m3u8
+#EXTINF:-1 tvg-name="Mozambique vs Gambia" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="110638" group-title="ICC Men's T20 WC Africa Sub Regional Qualifier B",Mozambique vs Gambia
+https://dai.google.com/linear/hls/event/LSaAODSbRjKoxYKJBn5MoA/master.m3u8
+#EXTINF:-1 tvg-name="Zimbabwe vs Kenya" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="110637" group-title="ICC Men's T20 WC Africa Sub Regional Qualifier B",Zimbabwe vs Kenya
+https://dai.google.com/linear/hls/event/E9VbSFa4SqyLfE7WGxUvPg/master.m3u8
 #EXTINF:-1 tvg-name="England vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png" tvg-id="110482" group-title="England tour of Pakistan, 2024",England vs Pakistan
 https://dai.google.com/linear/hls/event/-Ot1M8ctSm6oetKAQL97vg/master.m3u8
 #EXTINF:-1 tvg-name="Lee Man vs Bangkok United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108799_4476_LM_BU_fc-web.jpg" tvg-id="108799" group-title="AFC Champions League Two 2024-25",Lee Man vs Bangkok United
