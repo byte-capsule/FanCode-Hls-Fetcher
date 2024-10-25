@@ -2,8 +2,20 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 4,
-  "last_upaded": "25-10-2024 on 5:53:18 PM \ud83c\udf1e",
+  "last_upaded": "25-10-2024 on 6:43:31 PM \ud83c\udf19",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "Qatar Pro League, 2024",
+      "match_id": 111781,
+      "match_name": "Titans vs Asian CC",
+      "team_1": "Titans",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TTS@2x.png",
+      "team_2": "Asian CC",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACI@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111781_4593_ACC_TTS_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/FrDypzmFTrGLKpltmUVHag/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "KCC T20 Elite Cup, 2024",
@@ -15,18 +27,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR1@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_03.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/q8lwgz6iQGCW8jWWYKsU3A/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Maharashtra Champions Trophy 2024",
-      "match_id": 110468,
-      "match_name": "Jain Irrigation vs Ashtapailu Sports",
-      "team_1": "Jain Irrigation",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JAI@2x.png",
-      "team_2": "Ashtapailu Sports",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-APC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110468_4545_APS_JAI_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/QXLyx27qSqyz2egUGPYZ4Q/master.m3u8"
     },
     {
       "event_catagory": "cricket",

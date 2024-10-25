@@ -1,8 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Titans vs Asian CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111781_4593_ACC_TTS_fc-web.jpg" tvg-id="111781" group-title="Qatar Pro League, 2024",Titans vs Asian CC
+https://dai.google.com/linear/hls/event/FrDypzmFTrGLKpltmUVHag/master.m3u8
 #EXTINF:-1 tvg-name="Al Hajery Team XI vs Kuwait Emerging Stars" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_03.jpg" tvg-id="110502" group-title="KCC T20 Elite Cup, 2024",Al Hajery Team XI vs Kuwait Emerging Stars
 https://dai.google.com/linear/hls/event/q8lwgz6iQGCW8jWWYKsU3A/master.m3u8
-#EXTINF:-1 tvg-name="Jain Irrigation vs Ashtapailu Sports" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110468_4545_APS_JAI_fc-web.jpg" tvg-id="110468" group-title="Maharashtra Champions Trophy 2024",Jain Irrigation vs Ashtapailu Sports
-https://dai.google.com/linear/hls/event/QXLyx27qSqyz2egUGPYZ4Q/master.m3u8
 #EXTINF:-1 tvg-name="Bugibba Blasters vs Mater Dei" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_3_1729570461562.jpg" tvg-id="111549" group-title="ECS Malta, 2024",Bugibba Blasters vs Mater Dei
 https://dai.google.com/linear/hls/event/4SN5rTurTi2XxAQWklTiHw/master.m3u8
 #EXTINF:-1 tvg-name="England vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png" tvg-id="110482" group-title="England tour of Pakistan, 2024",England vs Pakistan
