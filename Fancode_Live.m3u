@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Nok 99 Puneri Bappa vs Punit Balan Group" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110467_4545_PBG_NPB_fc-web.jpg" tvg-id="110467" group-title="Maharashtra Champions Trophy 2024",Nok 99 Puneri Bappa vs Punit Balan Group
 https://dai.google.com/linear/hls/event/9CfFe8dpR96-dN0E_OVR5Q/master.m3u8
+#EXTINF:-1 tvg-name="Ashtapailu Sports vs Jain Irrigation" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110468_4545_APS_JAI_fc-web.jpg" tvg-id="110468" group-title="Maharashtra Champions Trophy 2024",Ashtapailu Sports vs Jain Irrigation
+https://dai.google.com/linear/hls/event/QXLyx27qSqyz2egUGPYZ4Q/master.m3u8
 #EXTINF:-1 tvg-name="England vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png" tvg-id="110482" group-title="England tour of Pakistan, 2024",England vs Pakistan
 https://dai.google.com/linear/hls/event/-Ot1M8ctSm6oetKAQL97vg/master.m3u8
-#EXTINF:-1 tvg-name="Mumbai Divyang vs Karnataka Divyang" tvg-logo="https://www.fancode.com/aig/match/v1/111357_CASACARDS_APP.png" tvg-id="111357" group-title="4th National Physical Disability T20 Championship ",Mumbai Divyang vs Karnataka Divyang
-https://dai.google.com/linear/hls/event/1N4salehRD2fr5Huo79SIQ/master.m3u8
 #EXTINF:-1 tvg-name="Msida Warriors vs Bugibba Blasters" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_1_1729570461679.jpg" tvg-id="111547" group-title="ECS Malta, 2024",Msida Warriors vs Bugibba Blasters
 https://dai.google.com/linear/hls/event/mEQWPgVnTq2elCgVVkfYAA/master.m3u8
-#EXTINF:-1 tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Genesis-Championship_Old_match-card_1729743605918.jpg" tvg-id="112037" group-title="Genesis Championship",Day 2
-https://dai.google.com/linear/hls/event/KxOrht_RR-KyZWRkwM58Vg/master.m3u8
+#EXTINF:-1 tvg-name="Mumbai Divyang vs Karnataka Divyang" tvg-logo="https://www.fancode.com/aig/match/v1/111357_CASACARDS_APP.png" tvg-id="111357" group-title="4th National Physical Disability T20 Championship ",Mumbai Divyang vs Karnataka Divyang
+https://dai.google.com/linear/hls/event/1N4salehRD2fr5Huo79SIQ/master.m3u8
