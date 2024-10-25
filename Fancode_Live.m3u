@@ -1,11 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Jain Irrigation vs Ashtapailu Sports" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110468_4545_APS_JAI_fc-web.jpg" tvg-id="110468" group-title="Maharashtra Champions Trophy 2024",Jain Irrigation vs Ashtapailu Sports
 https://dai.google.com/linear/hls/event/QXLyx27qSqyz2egUGPYZ4Q/master.m3u8
-#EXTINF:-1 tvg-name="England vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png" tvg-id="110482" group-title="England tour of Pakistan, 2024",England vs Pakistan
-https://dai.google.com/linear/hls/event/-Ot1M8ctSm6oetKAQL97vg/master.m3u8
 #EXTINF:-1 tvg-name="Msida Warriors vs MMA Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_2_1729570461132.jpg" tvg-id="111548" group-title="ECS Malta, 2024",Msida Warriors vs MMA Titans
 https://dai.google.com/linear/hls/event/AqnrLS3yREevOVR5tVoDqQ/master.m3u8
-#EXTINF:-1 tvg-name="Mumbai Divyang vs Karnataka Divyang" tvg-logo="https://www.fancode.com/aig/match/v1/111357_CASACARDS_APP.png" tvg-id="111357" group-title="4th National Physical Disability T20 Championship ",Mumbai Divyang vs Karnataka Divyang
-https://dai.google.com/linear/hls/event/1N4salehRD2fr5Huo79SIQ/master.m3u8
-#EXTINF:-1 tvg-name="Macarthur vs Newcastle Jets" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110899_4567_MAC_NJ_fc-web_1728983128523.jpg" tvg-id="110899" group-title="A League 2024-25",Macarthur vs Newcastle Jets
-https://dai.google.com/linear/hls/event/dqYw8fBKScmoBpsdm-dUtQ/master.m3u8
+#EXTINF:-1 tvg-name="England vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png" tvg-id="110482" group-title="England tour of Pakistan, 2024",England vs Pakistan
+https://dai.google.com/linear/hls/event/-Ot1M8ctSm6oetKAQL97vg/master.m3u8
