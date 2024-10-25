@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "25-10-2024 on 8:42:11 PM \ud83c\udf19",
+  "total_mathes": 5,
+  "last_upaded": "25-10-2024 on 8:55:05 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,6 +15,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACI@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/111781_4593_ACC_TTS_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/FrDypzmFTrGLKpltmUVHag/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "KCC T20 Elite Cup, 2024",
+      "match_id": 110503,
+      "match_name": "NCM Investment vs CECC",
+      "team_1": "NCM Investment",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NIN@2x.png",
+      "team_2": "CECC",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CECT@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_01.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/xBaYy5QfQ1-f9kQjAqXuhg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
