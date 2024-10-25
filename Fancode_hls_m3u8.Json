@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 6,
-  "last_upaded": "25-10-2024 on 10:46:41 AM \ud83c\udf1e",
+  "last_upaded": "25-10-2024 on 11:11:39 AM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -18,15 +18,15 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Bhutan T20 International Quadrangular Series",
-      "match_id": 110610,
-      "match_name": "Thailand vs Maldives",
-      "team_1": "Thailand",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THL@2x.png",
-      "team_2": "Maldives",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MLD@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/match-5---Old.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/sSrzPEj1Rxy7SvIiYxC21g/master.m3u8"
+      "event_name": "Maharashtra Champions Trophy 2024",
+      "match_id": 110467,
+      "match_name": "Nok 99 Puneri Bappa vs Punit Balan Group",
+      "team_1": "Nok 99 Puneri Bappa",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NOK@2x.png",
+      "team_2": "Punit Balan Group",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PBG@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110467_4545_PBG_NPB_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/9CfFe8dpR96-dN0E_OVR5Q/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -42,15 +42,15 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Maharashtra Champions Trophy 2024",
-      "match_id": 110467,
-      "match_name": "Nok 99 Puneri Bappa vs Punit Balan Group",
-      "team_1": "Nok 99 Puneri Bappa",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NOK@2x.png",
-      "team_2": "Punit Balan Group",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PBG@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110467_4545_PBG_NPB_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/9CfFe8dpR96-dN0E_OVR5Q/master.m3u8"
+      "event_name": "Bhutan T20 International Quadrangular Series",
+      "match_id": 110610,
+      "match_name": "Thailand vs Maldives",
+      "team_1": "Thailand",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THL@2x.png",
+      "team_2": "Maldives",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MLD@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/match-5---Old.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/sSrzPEj1Rxy7SvIiYxC21g/master.m3u8"
     },
     {
       "event_catagory": "football",
