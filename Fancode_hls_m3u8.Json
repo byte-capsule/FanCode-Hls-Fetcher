@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 6,
-  "last_upaded": "25-10-2024 on 11:44:13 AM \ud83c\udf1e",
+  "last_upaded": "25-10-2024 on 0:14:46 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -53,16 +53,16 @@
       "stream_link": "https://dai.google.com/linear/hls/event/sSrzPEj1Rxy7SvIiYxC21g/master.m3u8"
     },
     {
-      "event_catagory": "football",
-      "event_name": "AFC Champions League Two 2024-25",
-      "match_id": 108776,
-      "match_name": "Kaya vs Eastern SC",
-      "team_1": "Kaya",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KAYA@2x.png",
-      "team_2": "Eastern SC",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ECS@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/108776_4476_KAYA_ESC_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/CKvVC7tfTweIqU6hCePvKQ/master.m3u8"
+      "event_catagory": "cricket",
+      "event_name": "4th National Physical Disability T20 Championship ",
+      "match_id": 111357,
+      "match_name": "Mumbai Divyang vs Karnataka Divyang",
+      "team_1": "Mumbai Divyang",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MUMD@2x.png",
+      "team_2": "Karnataka Divyang",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DKAR@2x.png",
+      "banner": "https://www.fancode.com/aig/match/v1/111357_CASACARDS_APP.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/1N4salehRD2fr5Huo79SIQ/master.m3u8"
     },
     {
       "event_catagory": "golf",
