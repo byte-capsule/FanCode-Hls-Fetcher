@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "25-10-2024 on 5:19:21 PM \ud83c\udf1e",
+  "total_mathes": 4,
+  "last_upaded": "25-10-2024 on 5:53:18 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,6 +27,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-APC@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110468_4545_APS_JAI_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/QXLyx27qSqyz2egUGPYZ4Q/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ECS Malta, 2024",
+      "match_id": 111549,
+      "match_name": "Bugibba Blasters vs Mater Dei",
+      "team_1": "Bugibba Blasters",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BUGB@2x.png",
+      "team_2": "Mater Dei",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MART@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_3_1729570461562.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/4SN5rTurTi2XxAQWklTiHw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
