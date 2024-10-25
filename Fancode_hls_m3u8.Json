@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "25-10-2024 on 7:52:56 PM \ud83c\udf19",
+  "total_mathes": 4,
+  "last_upaded": "25-10-2024 on 8:21:08 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,18 +15,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACI@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/111781_4593_ACC_TTS_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/FrDypzmFTrGLKpltmUVHag/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "KCC T20 Elite Cup, 2024",
-      "match_id": 110502,
-      "match_name": "Al Hajery Team XI vs Kuwait Emerging Stars",
-      "team_1": "Al Hajery Team XI",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ALJH@2x.png",
-      "team_2": "Kuwait Emerging Stars",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR1@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_03.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/q8lwgz6iQGCW8jWWYKsU3A/master.m3u8"
     },
     {
       "event_catagory": "cricket",
