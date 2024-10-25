@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Titans vs Asian CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111781_4593_ACC_TTS_fc-web.jpg" tvg-id="111781" group-title="Qatar Pro League, 2024",Titans vs Asian CC
-https://dai.google.com/linear/hls/event/FrDypzmFTrGLKpltmUVHag/master.m3u8
 #EXTINF:-1 tvg-name="NCM Investment vs CECC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_01.jpg" tvg-id="110503" group-title="KCC T20 Elite Cup, 2024",NCM Investment vs CECC
 https://dai.google.com/linear/hls/event/xBaYy5QfQ1-f9kQjAqXuhg/master.m3u8
 #EXTINF:-1 tvg-name="Fujairah vs Dubai" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111666_4589_FUJ_DUB_fc-web.jpg" tvg-id="111666" group-title="Emirates D20, 2024",Fujairah vs Dubai
