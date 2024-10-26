@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Hurricanes vs Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111783_4593_HUR_TTS_fc-web.jpg" tvg-id="111783" group-title="Qatar Pro League, 2024",Hurricanes vs Titans
 https://dai.google.com/linear/hls/event/mfELzToPT9-nS3-OTA1L7Q/master.m3u8
-#EXTINF:-1 tvg-name="Indian Embassy XI vs Japan XI" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111762_4591_JEC_IEC_fc-web.jpg" tvg-id="111762" group-title="Embassy Cup, 2024",Indian Embassy XI vs Japan XI
-https://dai.google.com/linear/hls/event/ePI7f1cRTBGg9Vtxfqt-sg/master.m3u8
 #EXTINF:-1 tvg-name="Nok 99 Puneri Bappa vs Stars Cricket Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110469_4545_SCC_NPB_fc-web.jpg" tvg-id="110469" group-title="Maharashtra Champions Trophy 2024",Nok 99 Puneri Bappa vs Stars Cricket Club
 https://dai.google.com/linear/hls/event/3mCbW9x-S6eKvYNbGe9Zcw/master.m3u8
+#EXTINF:-1 tvg-name="Gozo Zalmi vs Royal Strikers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_1_1729570461679.jpg" tvg-id="111551" group-title="ECS Malta, 2024",Gozo Zalmi vs Royal Strikers
+https://dai.google.com/linear/hls/event/ZvQ906pUTUmWWc3eFU0cnQ/master.m3u8
 #EXTINF:-1 tvg-name="Adelaide United vs Central Coast Mariners" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110900_4567_ADL_CCM_fc-web_1728983127652.jpg" tvg-id="110900" group-title="A League 2024-25",Adelaide United vs Central Coast Mariners
 https://dai.google.com/linear/hls/event/RMsWxoZaQPGQm9YLbB_HHg/master.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Genesis-Championship_Old_match-card_1729743605918.jpg" tvg-id="112038" group-title="Genesis Championship",Day 3
