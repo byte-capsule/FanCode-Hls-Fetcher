@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Tusker CC vs Fireox Unit CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111785_4593_FCC_TCC_fc-web.jpg" tvg-id="111785" group-title="Qatar Pro League, 2024",Tusker CC vs Fireox Unit CC
+https://dai.google.com/linear/hls/event/lFahGuCaTHaLaCDs6OEKcA/master.m3u8
 #EXTINF:-1 tvg-name="Sharjah vs Ajman" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111668_4589_AJM_SHA_fc-web.jpg" tvg-id="111668" group-title="Emirates D20, 2024",Sharjah vs Ajman
 https://dai.google.com/linear/hls/event/-C3ulRqdQju6QukG-Dlyng/master.m3u8
 #EXTINF:-1 tvg-name="Panjab vs Trentino Aquila" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECN-Italian-T20-Finals,-2024-old-match-card.png" tvg-id="112041" group-title="ECN Italian T20 Finals, 2024",Panjab vs Trentino Aquila
