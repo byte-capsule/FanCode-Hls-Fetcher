@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Phantom CC vs Asian CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111784_4593_PHC_ACC_fc-web.jpg" tvg-id="111784" group-title="Qatar Pro League, 2024",Phantom CC vs Asian CC
+https://dai.google.com/linear/hls/event/J6J4oCoLQ3iDlURryzelRA/master.m3u8
 #EXTINF:-1 tvg-name="Jets CC vs Ashtapailu Sports" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110470_4545_APS_JET_fc-web.jpg" tvg-id="110470" group-title="Maharashtra Champions Trophy 2024",Jets CC vs Ashtapailu Sports
 https://dai.google.com/linear/hls/event/mbO3RP2kSL6JFcU2fkR-FA/master.m3u8
 #EXTINF:-1 tvg-name="Gozo Zalmi vs Gzira United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_3_1729570461562.jpg" tvg-id="111553" group-title="ECS Malta, 2024",Gozo Zalmi vs Gzira United
