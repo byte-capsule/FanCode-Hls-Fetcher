@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Hurricanes vs Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111783_4593_HUR_TTS_fc-web.jpg" tvg-id="111783" group-title="Qatar Pro League, 2024",Hurricanes vs Titans
 https://dai.google.com/linear/hls/event/mfELzToPT9-nS3-OTA1L7Q/master.m3u8
-#EXTINF:-1 tvg-name="Pakistan Embassy XI vs Great Britain Embassy CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111761_4591_PEC_GBE_fc-web.jpg" tvg-id="111761" group-title="Embassy Cup, 2024",Pakistan Embassy XI vs Great Britain Embassy CC
+#EXTINF:-1 tvg-name="British Embassy XI vs Pakistan Embassy XI" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111761_4591_PEC_GBE_fc-web.jpg" tvg-id="111761" group-title="Embassy Cup, 2024",British Embassy XI vs Pakistan Embassy XI
 https://dai.google.com/linear/hls/event/on_s7buhQBi0RfhnGl92aA/master.m3u8
 #EXTINF:-1 tvg-name="England vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png" tvg-id="110482" group-title="England tour of Pakistan, 2024",England vs Pakistan
 https://dai.google.com/linear/hls/event/-Ot1M8ctSm6oetKAQL97vg/master.m3u8
