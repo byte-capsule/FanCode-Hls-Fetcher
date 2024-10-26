@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "26-10-2024 on 2:56:15 PM \ud83c\udf1e",
+  "total_mathes": 5,
+  "last_upaded": "26-10-2024 on 3:22:26 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,6 +27,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-APC@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110470_4545_APS_JET_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/mbO3RP2kSL6JFcU2fkR-FA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ECS Malta, 2024",
+      "match_id": 111552,
+      "match_name": "Edex Knights vs Royal Strikers",
+      "team_1": "Edex Knights",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/EDK-CR1@2x.png",
+      "team_2": "Royal Strikers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROYS@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_2_1729570461132.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/sQTnXqtYTv6IUQonPDd5eQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
