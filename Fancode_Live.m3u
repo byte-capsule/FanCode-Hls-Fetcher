@@ -1,9 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Jets CC vs Ashtapailu Sports" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110470_4545_APS_JET_fc-web.jpg" tvg-id="110470" group-title="Maharashtra Champions Trophy 2024",Jets CC vs Ashtapailu Sports
 https://dai.google.com/linear/hls/event/mbO3RP2kSL6JFcU2fkR-FA/master.m3u8
+#EXTINF:-1 tvg-name="Gozo Zalmi vs Gzira United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_3_1729570461562.jpg" tvg-id="111553" group-title="ECS Malta, 2024",Gozo Zalmi vs Gzira United
+https://dai.google.com/linear/hls/event/4xkHt4rSSwadwiSI6qaD_A/master.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Sri-Lanka-ODI-Old-match-card.png" tvg-id="109872" group-title="West Indies tour of Sri Lanka, 2024",Sri Lanka vs West Indies
 https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
 #EXTINF:-1 tvg-name="Milan United vs Roma CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECN-Italian-T20-Finals,-2024-old-match-card.png" tvg-id="112040" group-title="ECN Italian T20 Finals, 2024",Milan United vs Roma CC
 https://dai.google.com/linear/hls/event/CtHvDzQ7QpmnXiTuE3oq2g/master.m3u8
+#EXTINF:-1 tvg-name="Coventry City vs Luton Town" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109819_4352_CVC_LUT_fc-web.jpg" tvg-id="109819" group-title="EFL Championship 2024-25",Coventry City vs Luton Town
+https://dai.google.com/linear/hls/event/BGJgDKyvSWudQ1g_OycK8A/master.m3u8
 #EXTINF:-1 tvg-name="Perth Glory vs Wellington Phoenix" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110902_4567_PG_WEL_fc-web_1728983127228.jpg" tvg-id="110902" group-title="A League 2024-25",Perth Glory vs Wellington Phoenix
 https://dai.google.com/linear/hls/event/00_E2-2CR_S2Y03OBh5kCA/master.m3u8
