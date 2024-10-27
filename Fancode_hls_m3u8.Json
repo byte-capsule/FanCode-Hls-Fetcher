@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 4,
-  "last_upaded": "27-10-2024 on 3:21:21 PM \ud83c\udf1e",
+  "last_upaded": "27-10-2024 on 3:38:42 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -29,6 +29,18 @@
       "stream_link": "https://dai.google.com/linear/hls/event/o0uuv6GnRPOfqVLcOugOUw/master.m3u8"
     },
     {
+      "event_catagory": "cricket",
+      "event_name": "ECS Malta, 2024",
+      "match_id": 111555,
+      "match_name": "Southern Crusaders vs Edex Knights",
+      "team_1": "Southern Crusaders",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOUTHC@2x.png",
+      "team_2": "Edex Knights",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/EDK-CR1@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_1_1729570461679.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/6ARfZworTHO9Ob7kZTOEJQ/master.m3u8"
+    },
+    {
       "event_catagory": "football",
       "event_name": "SAFF Women's Championship",
       "match_id": 111646,
@@ -39,18 +51,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BTW@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
       "stream_link": "https://dai.google.com/linear/hls/event/4XqPsnRVQ5GbGtjn7ssMLw/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "Chinese Super League 2024",
-      "match_id": 109885,
-      "match_name": "Shanghai Shenhua vs Shenzhen Peng City",
-      "team_1": "Shanghai Shenhua",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHENUA@2x.png",
-      "team_2": "Shenzhen Peng City",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHENZ@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/SHN_SPC_Old_fc_web.jpg",
-      "stream_link": "https://liveauth.fancode.com/primary/109885_english_hls_5745adfreeta-no/index.m3u8"
     }
   ]
 }
