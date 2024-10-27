@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Japan XI vs Sri Lanka Embassy XI" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111773_4591_JEC_SEC_fc-web.jpg" tvg-id="111773" group-title="Embassy Cup, 2024",Japan XI vs Sri Lanka Embassy XI
 https://dai.google.com/linear/hls/event/XKIJbyCHSVqu0w_TtcWy1A/master.m3u8
+#EXTINF:-1 tvg-name="Auckland vs Sydney FC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110903_4567_AFC_SYD_fc-web_1728983127529.jpg" tvg-id="110903" group-title="A League 2024-25",Auckland vs Sydney FC
+https://dai.google.com/linear/hls/event/FaO8f9aURuWkNMi0yMK31g/master.m3u8
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Genesis-Championship_Old_match-card_1729743605918.jpg" tvg-id="112039" group-title="Genesis Championship",Day 4
 https://dai.google.com/linear/hls/event/H3DDmv0UTQGgKRRJLQTw5A/master.m3u8
