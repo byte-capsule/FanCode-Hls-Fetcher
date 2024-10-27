@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Indian Embassy XI vs Japan XI" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111762_4591_JEC_IEC_fc-web.jpg" tvg-id="111766" group-title="Embassy Cup, 2024",Indian Embassy XI vs Japan XI
-https://dai.google.com/linear/hls/event/ru-IKRzGTwm_JRvvonAZ0Q/master.m3u8
 #EXTINF:-1 tvg-name="Jain Irrigation vs Punit Balan Group" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110471_4545_PBG_JAI_fc-web.jpg" tvg-id="110471" group-title="Maharashtra Champions Trophy 2024",Jain Irrigation vs Punit Balan Group
 https://dai.google.com/linear/hls/event/-41K7x_eSAKApFrACC2ziQ/master.m3u8
-#EXTINF:-1 tvg-name="Western United vs Western Sydney Wanderers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110904_4567_WST_SYW_fc-web_1728983128632.jpg" tvg-id="110904" group-title="A League 2024-25",Western United vs Western Sydney Wanderers
-https://dai.google.com/linear/hls/event/d6UOON8mQMO5Oz72-sRztw/master.m3u8
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Genesis-Championship_Old_match-card_1729743605918.jpg" tvg-id="112039" group-title="Genesis Championship",Day 4
 https://dai.google.com/linear/hls/event/H3DDmv0UTQGgKRRJLQTw5A/master.m3u8
