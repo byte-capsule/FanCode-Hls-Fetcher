@@ -2,19 +2,19 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 3,
-  "last_upaded": "27-10-2024 on 5:53:16 PM \ud83c\udf1e",
+  "last_upaded": "27-10-2024 on 6:40:13 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
-      "event_name": "Maharashtra Champions Trophy 2024",
-      "match_id": 110472,
-      "match_name": "Nok 99 Puneri Bappa vs Jets CC",
-      "team_1": "Nok 99 Puneri Bappa",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NOK@2x.png",
-      "team_2": "Jets CC",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JET@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110472_4545_JET_NPB_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/ljIuV3WFR5KehzHdn1oO6g/master.m3u8"
+      "event_name": "Qatar Pro League, 2024",
+      "match_id": 111786,
+      "match_name": "Galfar Al Misnad vs Fireox Unit CC",
+      "team_1": "Galfar Al Misnad",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GAMC@2x.png",
+      "team_2": "Fireox Unit CC",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FIR@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111786_4593_GAM_FCC_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/5GRQtVj8TTeD8Rt3aKHufg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -30,15 +30,15 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "ECN Italian T20-W Finals, 2024",
-      "match_id": 112055,
-      "match_name": "Roma CC-W vs Padova CC-W",
-      "team_1": "Roma CC-W",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RCC-CR1@2x.png",
-      "team_2": "Padova CC-W",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PCC-CR4@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Italian-T20-Finals,-2024_old-Match-card_1729771053957.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/o0uuv6GnRPOfqVLcOugOUw/master.m3u8"
+      "event_name": "ECN Italian T20 Finals, 2024",
+      "match_id": 112042,
+      "match_name": "Panjab vs Roma CC",
+      "team_1": "Panjab",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PAN-CR4@2x.png",
+      "team_2": "Roma CC",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RCC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Italian-T20-Finals,-2024-old-match-card.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/2muzYjybTcG1S4VtmSaLiA/master.m3u8"
     }
   ]
 }
