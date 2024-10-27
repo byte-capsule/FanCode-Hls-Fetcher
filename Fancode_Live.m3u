@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Jain Irrigation vs Punit Balan Group" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110471_4545_PBG_JAI_fc-web.jpg" tvg-id="110471" group-title="Maharashtra Champions Trophy 2024",Jain Irrigation vs Punit Balan Group
-https://dai.google.com/linear/hls/event/-41K7x_eSAKApFrACC2ziQ/master.m3u8
+#EXTINF:-1 tvg-name="Nok 99 Puneri Bappa vs Jets CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110472_4545_JET_NPB_fc-web.jpg" tvg-id="110472" group-title="Maharashtra Champions Trophy 2024",Nok 99 Puneri Bappa vs Jets CC
+https://dai.google.com/linear/hls/event/ljIuV3WFR5KehzHdn1oO6g/master.m3u8
 #EXTINF:-1 tvg-name="Shanghai Shenhua vs Shenzhen Peng City" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SHN_SPC_Old_fc_web.jpg" tvg-id="109885" group-title="Chinese Super League 2024",Shanghai Shenhua vs Shenzhen Peng City
 https://liveauth.fancode.com/primary/109885_english_hls_5745adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Bangladesh Women vs Bhutan Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="111646" group-title="SAFF Women's Championship",Bangladesh Women vs Bhutan Women
 https://dai.google.com/linear/hls/event/4XqPsnRVQ5GbGtjn7ssMLw/master.m3u8
-#EXTINF:-1 tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Genesis-Championship_Old_match-card_1729743605918.jpg" tvg-id="112039" group-title="Genesis Championship",Day 4
-https://dai.google.com/linear/hls/event/H3DDmv0UTQGgKRRJLQTw5A/master.m3u8
