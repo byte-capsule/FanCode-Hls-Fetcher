@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Dubai vs Abu Dhabi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111670_4589_DUB_ABD_fc-web.jpg" tvg-id="111670" group-title="Emirates D20, 2024",Dubai vs Abu Dhabi
 https://dai.google.com/linear/hls/event/lb6mfah-QdSB3fF78lga2Q/master.m3u8
-#EXTINF:-1 tvg-name="MMA Titans vs Gzira United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_3_1729570461562.jpg" tvg-id="111557" group-title="ECS Malta, 2024",MMA Titans vs Gzira United
-https://dai.google.com/linear/hls/event/rnT7vswLRMapYwTle6ZDQw/master.m3u8
 #EXTINF:-1 tvg-name="Panjab vs Roma CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECN-Italian-T20-Finals,-2024-old-match-card.png" tvg-id="112042" group-title="ECN Italian T20 Finals, 2024",Panjab vs Roma CC
 https://dai.google.com/linear/hls/event/2muzYjybTcG1S4VtmSaLiA/master.m3u8
 #EXTINF:-1 tvg-name="Nepal vs USA" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110640_3908_USA_NEP_fc-web.jpg" tvg-id="110640" group-title="ICC CWC League 2, 2023-27",Nepal vs USA
