@@ -1,68 +1,7 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "28-10-2024 on 00:27:54 AM \ud83c\udf19",
-  "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Qatar Pro League, 2024",
-      "match_id": 111787,
-      "match_name": "Hurricanes vs Asian CC",
-      "team_1": "Hurricanes",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HUR@2x.png",
-      "team_2": "Asian CC",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACI@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111787_4593_HUR_ACC_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/r-oKXRHfQ-CcWhkzjQUIww/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "KCC T20 Elite Cup, 2024",
-      "match_id": 110506,
-      "match_name": "Kuwait Emerging Stars vs Kuwait Swedish",
-      "team_1": "Kuwait Emerging Stars",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR1@2x.png",
-      "team_2": "Kuwait Swedish",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUSW@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_01.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/d79e2DQFTeCCkgnlxDWfQA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Emirates D20, 2024",
-      "match_id": 111671,
-      "match_name": "Ajman vs Fujairah",
-      "team_1": "Ajman",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AJMN@2x.png",
-      "team_2": "Fujairah",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FUJA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111671_4589_FUJ_AJM_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/SQWrAcOtSVe1EaqJdlx25g/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC CWC League 2, 2023-27",
-      "match_id": 110640,
-      "match_name": "Nepal vs USA",
-      "team_1": "Nepal",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
-      "team_2": "USA",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110640_3908_USA_NEP_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/2Y-J6TJ5SayA3F9QKpt1vg/master.m3u8"
-    },
-    {
-      "event_catagory": "formula1",
-      "event_name": "F1 GRAN PREMIO DE LA CIUDAD DE M\u00c9XICO 2024",
-      "match_id": 95237,
-      "match_name": "Race",
-      "team_1": "Race",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
-      "team_2": "Mexico",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/7eGKnprdRoOLhv95T0Nhzw/master.m3u8"
-    }
-  ]
+  "total_mathes": 0,
+  "last_upaded": "28-10-2024 on 00:43:51 AM \ud83c\udf19",
+  "matches": []
 }

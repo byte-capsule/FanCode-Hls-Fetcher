@@ -1,11 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Hurricanes vs Asian CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111787_4593_HUR_ACC_fc-web.jpg" tvg-id="111787" group-title="Qatar Pro League, 2024",Hurricanes vs Asian CC
-https://dai.google.com/linear/hls/event/r-oKXRHfQ-CcWhkzjQUIww/master.m3u8
-#EXTINF:-1 tvg-name="Kuwait Emerging Stars vs Kuwait Swedish" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_01.jpg" tvg-id="110506" group-title="KCC T20 Elite Cup, 2024",Kuwait Emerging Stars vs Kuwait Swedish
-https://dai.google.com/linear/hls/event/d79e2DQFTeCCkgnlxDWfQA/master.m3u8
-#EXTINF:-1 tvg-name="Ajman vs Fujairah" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111671_4589_FUJ_AJM_fc-web.jpg" tvg-id="111671" group-title="Emirates D20, 2024",Ajman vs Fujairah
-https://dai.google.com/linear/hls/event/SQWrAcOtSVe1EaqJdlx25g/master.m3u8
-#EXTINF:-1 tvg-name="Nepal vs USA" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110640_3908_USA_NEP_fc-web.jpg" tvg-id="110640" group-title="ICC CWC League 2, 2023-27",Nepal vs USA
-https://dai.google.com/linear/hls/event/2Y-J6TJ5SayA3F9QKpt1vg/master.m3u8
-#EXTINF:-1 tvg-name="Race" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="95237" group-title="F1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2024",Race
-https://dai.google.com/linear/hls/event/7eGKnprdRoOLhv95T0Nhzw/master.m3u8
