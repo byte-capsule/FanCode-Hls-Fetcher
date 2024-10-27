@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "27-10-2024 on 10:57:16 AM \ud83c\udf1e",
+  "total_mathes": 3,
+  "last_upaded": "27-10-2024 on 11:23:53 AM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Embassy Cup, 2024",
-      "match_id": 111765,
-      "match_name": "Nepal Embassy XI vs Pakistan Embassy XI",
-      "team_1": "Nepal Embassy XI",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
-      "team_2": "Pakistan Embassy XI",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111763_4591_PEC_NEC_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/23WxwN-UTZ6jLNHfjWThIQ/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Maharashtra Champions Trophy 2024",
@@ -31,14 +19,14 @@
     {
       "event_catagory": "football",
       "event_name": "A League 2024-25",
-      "match_id": 110903,
-      "match_name": "Auckland vs Sydney FC",
-      "team_1": "Auckland",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AUCK@2x.png",
-      "team_2": "Sydney FC",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYDA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110903_4567_AFC_SYD_fc-web_1728983127529.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/FaO8f9aURuWkNMi0yMK31g/master.m3u8"
+      "match_id": 110904,
+      "match_name": "Western United vs Western Sydney Wanderers",
+      "team_1": "Western United",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WSTA@2x.png",
+      "team_2": "Western Sydney Wanderers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYWA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110904_4567_WST_SYW_fc-web_1728983128632.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/d6UOON8mQMO5Oz72-sRztw/master.m3u8"
     },
     {
       "event_catagory": "golf",
