@@ -1,8 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Galfar Al Misnad vs Fireox Unit CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111786_4593_GAM_FCC_fc-web.jpg" tvg-id="111786" group-title="Qatar Pro League, 2024",Galfar Al Misnad vs Fireox Unit CC
 https://dai.google.com/linear/hls/event/5GRQtVj8TTeD8Rt3aKHufg/master.m3u8
-#EXTINF:-1 tvg-name="Red Stars vs Southern Crusaders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_2_1729570461132.jpg" tvg-id="111556" group-title="ECS Malta, 2024",Red Stars vs Southern Crusaders
-https://dai.google.com/linear/hls/event/DVhJMCrZRJmakAXpy9rBsA/master.m3u8
+#EXTINF:-1 tvg-name="Dubai vs Abu Dhabi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111670_4589_DUB_ABD_fc-web.jpg" tvg-id="111670" group-title="Emirates D20, 2024",Dubai vs Abu Dhabi
+https://dai.google.com/linear/hls/event/lb6mfah-QdSB3fF78lga2Q/master.m3u8
+#EXTINF:-1 tvg-name="MMA Titans vs Gzira United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_3_1729570461562.jpg" tvg-id="111557" group-title="ECS Malta, 2024",MMA Titans vs Gzira United
+https://dai.google.com/linear/hls/event/rnT7vswLRMapYwTle6ZDQw/master.m3u8
 #EXTINF:-1 tvg-name="Panjab vs Roma CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECN-Italian-T20-Finals,-2024-old-match-card.png" tvg-id="112042" group-title="ECN Italian T20 Finals, 2024",Panjab vs Roma CC
 https://dai.google.com/linear/hls/event/2muzYjybTcG1S4VtmSaLiA/master.m3u8
 #EXTINF:-1 tvg-name="Nepal Women vs India Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="111647" group-title="SAFF Women's Championship",Nepal Women vs India Women
