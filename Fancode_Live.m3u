@@ -1,11 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Galfar Al Misnad vs Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111791_4593_GAM_TTS_fc-web.jpg" tvg-id="111791" group-title="Qatar Pro League, 2024",Galfar Al Misnad vs Titans
 https://dai.google.com/linear/hls/event/0yThTaltSTytduAHM5Ovcw/master.m3u8
+#EXTINF:-1 tvg-name="CECC vs NCM Investment" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_03.jpg" tvg-id="110508" group-title="KCC T20 Elite Cup, 2024",CECC vs NCM Investment
+https://dai.google.com/linear/hls/event/LPv9wQQBSnSlgoFK8_zmOw/master.m3u8
 #EXTINF:-1 tvg-name="Fujairah vs Abu Dhabi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111674_4589_ABD_FUJ_fc-web.jpg" tvg-id="111674" group-title="Emirates D20, 2024",Fujairah vs Abu Dhabi
 https://dai.google.com/linear/hls/event/MHOPmmVdQDSnZHk4CY0oAQ/master.m3u8
+#EXTINF:-1 tvg-name="Emirates Blues vs Sharjah" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111675_4589_EMB_SHA_fc-web.jpg" tvg-id="111675" group-title="Emirates D20, 2024",Emirates Blues vs Sharjah
+https://dai.google.com/linear/hls/event/-52mdT1ESgq5MB1VObosng/master.m3u8
 #EXTINF:-1 tvg-name="Trinidad & Tobago Red Force vs Combined Campuses and Colleges" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="112009" group-title="CG United Super50 Cup, 2024",Trinidad & Tobago Red Force vs Combined Campuses and Colleges
 https://dai.google.com/linear/hls/event/zmKPwxuWRaqLtKzGDsumlQ/master.m3u8
 #EXTINF:-1 tvg-name="South Africa vs Bangladesh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SA-vs-BAN-Old-(1).jpg" tvg-id="110623" group-title="South Africa tour of Bangladesh, 2024",South Africa vs Bangladesh
 https://dai.google.com/linear/hls/event/8YMdehkkTUeG1cl5_Uirsw/master.m3u8
 #EXTINF:-1 tvg-name="Scotland vs Nepal" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110641_3908_NEP_SCO_fc-web.jpg" tvg-id="110641" group-title="ICC CWC League 2, 2023-27",Scotland vs Nepal
 https://dai.google.com/linear/hls/event/8dnGpq7iT7a7B2tnPAlO3g/master.m3u8
+#EXTINF:-1 tvg-name="Anadolu Efes Istanbul vs Barcelona" tvg-logo="https://www.fancode.com/aig/match/v1/111739_CASACARDS_APP.png" tvg-id="111739" group-title="EuroLeague 2024-25",Anadolu Efes Istanbul vs Barcelona
+https://dai.google.com/linear/hls/event/dewKcBbFR_mAK31Gxdda2Q/master.m3u8
