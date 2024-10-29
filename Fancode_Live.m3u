@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="South Africa vs Bangladesh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SA-vs-BAN-Old-(1).jpg" tvg-id="110623" group-title="South Africa tour of Bangladesh, 2024",South Africa vs Bangladesh
-https://dai.google.com/linear/hls/event/8YMdehkkTUeG1cl5_Uirsw/master.m3u8
 #EXTINF:-1 tvg-name="Marsa vs Southern Crusaders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_4_1729570461042.jpg" tvg-id="111562" group-title="ECS Malta, 2024",Marsa vs Southern Crusaders
 https://dai.google.com/linear/hls/event/7wyPzrR6TJOUUbXN_Sz-jA/master.m3u8
+#EXTINF:-1 tvg-name="South Africa vs Bangladesh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SA-vs-BAN-Old-(1).jpg" tvg-id="110623" group-title="South Africa tour of Bangladesh, 2024",South Africa vs Bangladesh
+https://dai.google.com/linear/hls/event/8YMdehkkTUeG1cl5_Uirsw/master.m3u8
+#EXTINF:-1 tvg-name="Rwanda Women vs Kenya Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Kenya-Women-tour-of-Rwanda-Old.png" tvg-id="112003" group-title="Kenya Women tour of Rwanda, 2024",Rwanda Women vs Kenya Women
+https://dai.google.com/linear/hls/event/DGiVpc-ERb69iu1eLQzvZQ/master.m3u8
