@@ -1,81 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "30-10-2024 on 01:18:33 AM \ud83c\udf19",
+  "total_mathes": 2,
+  "last_upaded": "30-10-2024 on 01:39:29 AM \ud83c\udf19",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Qatar Pro League, 2024",
-      "match_id": 111791,
-      "match_name": "Galfar Al Misnad vs Titans",
-      "team_1": "Galfar Al Misnad",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GAMC@2x.png",
-      "team_2": "Titans",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TTS@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111791_4593_GAM_TTS_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/0yThTaltSTytduAHM5Ovcw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "KCC T20 Elite Cup, 2024",
-      "match_id": 110508,
-      "match_name": "CECC vs NCM Investment",
-      "team_1": "CECC",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CECT@2x.png",
-      "team_2": "NCM Investment",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NIN@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_03.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/LPv9wQQBSnSlgoFK8_zmOw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Emirates D20, 2024",
-      "match_id": 111675,
-      "match_name": "Emirates Blues vs Sharjah",
-      "team_1": "Emirates Blues",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLUE@2x.png",
-      "team_2": "Sharjah",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHRJ@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111675_4589_EMB_SHA_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/-52mdT1ESgq5MB1VObosng/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "CG United Super50 Cup, 2024",
-      "match_id": 112009,
-      "match_name": "Trinidad & Tobago Red Force vs Combined Campuses and Colleges",
-      "team_1": "Trinidad & Tobago Red Force",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RFRC@2x.png",
-      "team_2": "Combined Campuses and Colleges",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CCCM@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/zmKPwxuWRaqLtKzGDsumlQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "South Africa tour of Bangladesh, 2024",
-      "match_id": 110623,
-      "match_name": "South Africa vs Bangladesh",
-      "team_1": "South Africa",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
-      "team_2": "Bangladesh",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/SA-vs-BAN-Old-(1).jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/8YMdehkkTUeG1cl5_Uirsw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC CWC League 2, 2023-27",
-      "match_id": 110641,
-      "match_name": "Scotland vs Nepal",
-      "team_1": "Scotland",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png",
-      "team_2": "Nepal",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110641_3908_NEP_SCO_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/8dnGpq7iT7a7B2tnPAlO3g/master.m3u8"
-    },
     {
       "event_catagory": "basketball",
       "event_name": "EuroLeague 2024-25",
@@ -87,6 +15,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-FCBR@2x.png",
       "banner": "https://www.fancode.com/aig/match/v1/111739_CASACARDS_APP.png",
       "stream_link": "https://dai.google.com/linear/hls/event/dewKcBbFR_mAK31Gxdda2Q/master.m3u8"
+    },
+    {
+      "event_catagory": "basketball",
+      "event_name": "EuroLeague 2024-25",
+      "match_id": 111740,
+      "match_name": "Olympiacos Piraeus vs Real Madrid",
+      "team_1": "Olympiacos Piraeus",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-OLYMP@2x.png",
+      "team_2": "Real Madrid",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-REAL@2x.png",
+      "banner": "https://www.fancode.com/aig/match/v1/111740_CASACARDS_APP.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/USX1KlPPQmyYS6RJi_xbgg/master.m3u8"
     }
   ]
 }
