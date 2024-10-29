@@ -1,7 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Hurricanes vs Phantom CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111790_4593_HUR_PHC_fc-web.jpg" tvg-id="111790" group-title="Qatar Pro League, 2024",Hurricanes vs Phantom CC
+https://dai.google.com/linear/hls/event/Lngb0bWCQq2uqsCMe2bJ_w/master.m3u8
 #EXTINF:-1 tvg-name="Marsa vs Victoria Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_2_1729570461132.jpg" tvg-id="111564" group-title="ECS Malta, 2024",Marsa vs Victoria Lions
 https://dai.google.com/linear/hls/event/x85549ZISB-uOgzCsF1ASA/master.m3u8
-#EXTINF:-1 tvg-name="Rwanda Women vs Kenya Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Kenya-Women-tour-of-Rwanda-Old.png" tvg-id="112003" group-title="Kenya Women tour of Rwanda, 2024",Rwanda Women vs Kenya Women
-https://dai.google.com/linear/hls/event/DGiVpc-ERb69iu1eLQzvZQ/master.m3u8
 #EXTINF:-1 tvg-name="South Africa vs Bangladesh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SA-vs-BAN-Old-(1).jpg" tvg-id="110623" group-title="South Africa tour of Bangladesh, 2024",South Africa vs Bangladesh
 https://dai.google.com/linear/hls/event/8YMdehkkTUeG1cl5_Uirsw/master.m3u8
