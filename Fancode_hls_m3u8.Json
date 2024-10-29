@@ -2,20 +2,8 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 2,
-  "last_upaded": "29-10-2024 on 11:54:58 AM \ud83c\udf1e",
+  "last_upaded": "29-10-2024 on 0:31:44 PM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "South Africa tour of Bangladesh, 2024",
-      "match_id": 110623,
-      "match_name": "South Africa vs Bangladesh",
-      "team_1": "South Africa",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
-      "team_2": "Bangladesh",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/SA-vs-BAN-Old-(1).jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/8YMdehkkTUeG1cl5_Uirsw/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Maharashtra Champions Trophy 2024",
@@ -27,6 +15,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PBG@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110456_4545_PBG_APS_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/1a7js_LAQhmfpMTiOHdaRg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "South Africa tour of Bangladesh, 2024",
+      "match_id": 110623,
+      "match_name": "South Africa vs Bangladesh",
+      "team_1": "South Africa",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
+      "team_2": "Bangladesh",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/SA-vs-BAN-Old-(1).jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/8YMdehkkTUeG1cl5_Uirsw/master.m3u8"
     }
   ]
 }
