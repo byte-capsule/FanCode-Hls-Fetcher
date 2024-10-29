@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Hurricanes vs Phantom CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111790_4593_HUR_PHC_fc-web.jpg" tvg-id="111790" group-title="Qatar Pro League, 2024",Hurricanes vs Phantom CC
-https://dai.google.com/linear/hls/event/Lngb0bWCQq2uqsCMe2bJ_w/master.m3u8
 #EXTINF:-1 tvg-name="Fujairah vs Abu Dhabi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111674_4589_ABD_FUJ_fc-web.jpg" tvg-id="111674" group-title="Emirates D20, 2024",Fujairah vs Abu Dhabi
 https://dai.google.com/linear/hls/event/MHOPmmVdQDSnZHk4CY0oAQ/master.m3u8
-#EXTINF:-1 tvg-name="Msida Warriors vs Victoria Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_3_1729570461562.jpg" tvg-id="111565" group-title="ECS Malta, 2024",Msida Warriors vs Victoria Lions
-https://dai.google.com/linear/hls/event/krSUs2onQr-BzvLEZClb6A/master.m3u8
 #EXTINF:-1 tvg-name="Trinidad & Tobago Red Force vs Combined Campuses and Colleges" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="112009" group-title="CG United Super50 Cup, 2024",Trinidad & Tobago Red Force vs Combined Campuses and Colleges
 https://dai.google.com/linear/hls/event/zmKPwxuWRaqLtKzGDsumlQ/master.m3u8
 #EXTINF:-1 tvg-name="South Africa vs Bangladesh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SA-vs-BAN-Old-(1).jpg" tvg-id="110623" group-title="South Africa tour of Bangladesh, 2024",South Africa vs Bangladesh
