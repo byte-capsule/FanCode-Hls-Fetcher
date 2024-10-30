@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="American University of Malta vs MMA Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_2_1729570461132.jpg" tvg-id="111568" group-title="ECS Malta, 2024",American University of Malta vs MMA Titans
 https://dai.google.com/linear/hls/event/FsUj7E2oSHS9gCHl5Pq37g/master.m3u8
-#EXTINF:-1 tvg-name="Kenya Women vs Rwanda Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Kenya-Women-tour-of-Rwanda-Old.png" tvg-id="112004" group-title="Kenya Women tour of Rwanda, 2024",Kenya Women vs Rwanda Women
-https://dai.google.com/linear/hls/event/_pFOcDYESdSFHqaNtDG_0g/master.m3u8
 #EXTINF:-1 tvg-name="South Africa vs Bangladesh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SA-vs-BAN-Old-(1).jpg" tvg-id="110623" group-title="South Africa tour of Bangladesh, 2024",South Africa vs Bangladesh
 https://dai.google.com/linear/hls/event/8YMdehkkTUeG1cl5_Uirsw/master.m3u8
-#EXTINF:-1 tvg-name="Yokohama F. Marinos vs Urawa Red Diamonds" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="111203" group-title="J League 2024",Yokohama F. Marinos vs Urawa Red Diamonds
-https://liveauth.fancode.com/primary/111203_english_hls_5587adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Port vs Lion City Sailors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108785_4476_POR_LIO_FC-web.jpg" tvg-id="108785" group-title="AFC Champions League Two 2024-25",Port vs Lion City Sailors
+https://dai.google.com/linear/hls/event/nJk2y6ioQe6FIENZfFewYQ/master.m3u8
+#EXTINF:-1 tvg-name="Bangladesh Women vs Nepal Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="111648" group-title="SAFF Women's Championship",Bangladesh Women vs Nepal Women
+https://dai.google.com/linear/hls/event/a1U1xGO4Sq2X1F8Mat_Oig/master.m3u8
