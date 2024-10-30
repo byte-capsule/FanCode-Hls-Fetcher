@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Leeward Islands Hurricanes vs West Indies Academy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112010_4596_WIC_LEI_fc-web.jpg" tvg-id="112010" group-title="CG United Super50 Cup, 2024",Leeward Islands Hurricanes vs West Indies Academy
 https://dai.google.com/linear/hls/event/v3XoB2WyTvOKb-B-_ydbmQ/master.m3u8
-#EXTINF:-1 tvg-name="Victoria Lions vs MMA Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_3_1729570461562.jpg" tvg-id="111569" group-title="ECS Malta, 2024",Victoria Lions vs MMA Titans
-https://dai.google.com/linear/hls/event/BGYGfQQoQTqI47fqbbtkIw/master.m3u8
 #EXTINF:-1 tvg-name="South Africa vs Bangladesh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SA-vs-BAN-Old-(1).jpg" tvg-id="110623" group-title="South Africa tour of Bangladesh, 2024",South Africa vs Bangladesh
 https://dai.google.com/linear/hls/event/8YMdehkkTUeG1cl5_Uirsw/master.m3u8
 #EXTINF:-1 tvg-name="Bangladesh Women vs Nepal Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="111648" group-title="SAFF Women's Championship",Bangladesh Women vs Nepal Women
