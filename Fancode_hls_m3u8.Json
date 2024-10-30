@@ -2,8 +2,20 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 3,
-  "last_upaded": "30-10-2024 on 10:49:55 PM \ud83c\udf19",
+  "last_upaded": "30-10-2024 on 11:19:51 PM \ud83c\udf19",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "KCC T20 Elite Cup, 2024",
+      "match_id": 110509,
+      "match_name": "Kuwait Emerging Stars vs Al Hajery Team XI",
+      "team_1": "Kuwait Emerging Stars",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR1@2x.png",
+      "team_2": "Al Hajery Team XI",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ALJH@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_01.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/jGsuJhz6RTCxCy0Rdnf0Iw/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "CG United Super50 Cup, 2024",
@@ -27,18 +39,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/SA-vs-BAN-Old-(1).jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/8YMdehkkTUeG1cl5_Uirsw/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "SAFF Women's Championship",
-      "match_id": 111648,
-      "match_name": "Bangladesh Women vs Nepal Women",
-      "team_1": "Bangladesh Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BDW@2x.png",
-      "team_2": "Nepal Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NLW@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/a1U1xGO4Sq2X1F8Mat_Oig/master.m3u8"
     }
   ]
 }
