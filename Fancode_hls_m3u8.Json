@@ -1,9 +1,21 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "30-10-2024 on 5:19:52 PM \ud83c\udf1e",
+  "total_mathes": 4,
+  "last_upaded": "30-10-2024 on 5:38:49 PM \ud83c\udf1e",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "ECS Malta, 2024",
+      "match_id": 111568,
+      "match_name": "American University of Malta vs MMA Titans",
+      "team_1": "American University of Malta",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUM@2x.png",
+      "team_2": "MMA Titans",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR14@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_2_1729570461132.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/FsUj7E2oSHS9gCHl5Pq37g/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "Kenya Women tour of Rwanda, 2024",
