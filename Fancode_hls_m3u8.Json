@@ -1,18 +1,18 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "30-10-2024 on 7:53:06 PM \ud83c\udf19",
+  "total_mathes": 4,
+  "last_upaded": "30-10-2024 on 8:21:31 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
       "event_name": "CG United Super50 Cup, 2024",
       "match_id": 112010,
-      "match_name": "West Indies Academy vs Leeward Islands Hurricanes",
-      "team_1": "West Indies Academy",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIC@2x.png",
-      "team_2": "Leeward Islands Hurricanes",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HURR@2x.png",
+      "match_name": "Leeward Islands Hurricanes vs West Indies Academy",
+      "team_1": "Leeward Islands Hurricanes",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HURR@2x.png",
+      "team_2": "West Indies Academy",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIC@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/112010_4596_WIC_LEI_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/v3XoB2WyTvOKb-B-_ydbmQ/master.m3u8"
     },
@@ -51,18 +51,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NLW@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
       "stream_link": "https://dai.google.com/linear/hls/event/a1U1xGO4Sq2X1F8Mat_Oig/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "AFC Champions League Two 2024-25",
-      "match_id": 108785,
-      "match_name": "Port vs Lion City Sailors",
-      "team_1": "Port",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/POR-FT3@2x.png",
-      "team_2": "Lion City Sailors",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LIONC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/108785_4476_POR_LIO_FC-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/nJk2y6ioQe6FIENZfFewYQ/master.m3u8"
     }
   ]
 }
