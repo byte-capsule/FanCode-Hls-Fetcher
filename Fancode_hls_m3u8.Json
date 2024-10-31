@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "31-10-2024 on 9:24:50 PM \ud83c\udf19",
+  "total_mathes": 4,
+  "last_upaded": "31-10-2024 on 9:41:39 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -39,6 +39,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHRJ@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/111676_4589_SHA_FUJ_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/OIq-eCUQQqOKdRe9VVQpRQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC CWC League 2, 2023-27",
+      "match_id": 110642,
+      "match_name": "Scotland vs USA",
+      "team_1": "Scotland",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png",
+      "team_2": "USA",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110642_3908_USA_SCO_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/AmkOKFxpTae0nNJht8TH-w/master.m3u8"
     }
   ]
 }
