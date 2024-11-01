@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Kuwait Emerging Stars vs NCM Investment" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_03.jpg" tvg-id="110511" group-title="KCC T20 Elite Cup, 2024",Kuwait Emerging Stars vs NCM Investment
+https://dai.google.com/linear/hls/event/fDtN0MQUS3-PeZyp4hbt9Q/master.m3u8
 #EXTINF:-1 tvg-name="United Arab Emirates vs Oman" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111767_3908_OMN_UAE_fc-web.jpg" tvg-id="111767" group-title="ICC CWC League 2, 2023-27",United Arab Emirates vs Oman
 https://dai.google.com/linear/hls/event/YXxN9yJ3T4e1YylfaMoVLg/master.m3u8
 #EXTINF:-1 tvg-name="Overseas vs Victoria Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_1_1729570461679.jpg" tvg-id="111575" group-title="ECS Malta, 2024",Overseas vs Victoria Lions
