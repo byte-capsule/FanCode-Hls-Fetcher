@@ -1,11 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Phantom CC vs Galfar Al Misnad" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111795_4593_GAM_PHC_fc-web.jpg" tvg-id="111795" group-title="Qatar Pro League, 2024",Phantom CC vs Galfar Al Misnad
+https://dai.google.com/linear/hls/event/aULIse0GSdWAK9xHkXSk3w/master.m3u8
 #EXTINF:-1 tvg-name="Kuwait Emerging Stars vs NCM Investment" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_03.jpg" tvg-id="110511" group-title="KCC T20 Elite Cup, 2024",Kuwait Emerging Stars vs NCM Investment
 https://dai.google.com/linear/hls/event/fDtN0MQUS3-PeZyp4hbt9Q/master.m3u8
-#EXTINF:-1 tvg-name="United Arab Emirates vs Oman" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111767_3908_OMN_UAE_fc-web.jpg" tvg-id="111767" group-title="ICC CWC League 2, 2023-27",United Arab Emirates vs Oman
-https://dai.google.com/linear/hls/event/YXxN9yJ3T4e1YylfaMoVLg/master.m3u8
 #EXTINF:-1 tvg-name="Gozo Zalmi vs Bugibba Blasters" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_2_1729570461132.jpg" tvg-id="111576" group-title="ECS Malta, 2024",Gozo Zalmi vs Bugibba Blasters
 https://dai.google.com/linear/hls/event/Hb1atTOnSbKevFPq9jGMVg/master.m3u8
-#EXTINF:-1 tvg-name="Vissel Kobe vs Júbilo Iwata" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="111204" group-title="J League 2024",Vissel Kobe vs Júbilo Iwata
-https://liveauth.fancode.com/primary/111204_english_hls_6779adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/07/LET-Aramco-Team-Series_old-match-card.jpg" tvg-id="112177" group-title="Aramco Team Series Presented by PIF - Riyadh",Day 2
 https://dai.google.com/linear/hls/event/UrouDxBwS-arj9wvAMpLgQ/master.m3u8
