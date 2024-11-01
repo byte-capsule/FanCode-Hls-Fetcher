@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="England vs Nepal" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111898_4594_ENG_NEP_fc-web.jpg" tvg-id="111898" group-title="Hong Kong Sixes, 2024",England vs Nepal
+https://dai.google.com/linear/hls/event/Gt9VP2MYR5SdM4FApWEFpA/master.m3u8
+#EXTINF:-1 tvg-name="England vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-Tour-of-West-Indies-old-match-card_1729755047624.png" tvg-id="109440" group-title="England tour of West Indies, 2024",England vs West Indies
+https://dai.google.com/linear/hls/event/ubrT3tO2R4eBM74QEmgt9w/master.m3u8
