@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "01-11-2024 on 9:23:42 PM \ud83c\udf19",
+  "total_mathes": 3,
+  "last_upaded": "01-11-2024 on 9:41:32 PM \ud83c\udf19",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Qatar Pro League, 2024",
-      "match_id": 111795,
-      "match_name": "Phantom CC vs Galfar Al Misnad",
-      "team_1": "Phantom CC",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PHC@2x.png",
-      "team_2": "Galfar Al Misnad",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GAMC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111795_4593_GAM_PHC_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/aULIse0GSdWAK9xHkXSk3w/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "KCC T20 Elite Cup, 2024",
@@ -51,18 +39,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AJMN@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/111678_4589_SHA_AJM_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/3F2S44VRRruSaTBkksv-Bw/master.m3u8"
-    },
-    {
-      "event_catagory": "formula1",
-      "event_name": "F1 LENOVO GRANDE PR\u00caMIO DE S\u00c3O PAULO 2024",
-      "match_id": 95238,
-      "match_name": "Practice 1",
-      "team_1": "Practice 1",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
-      "team_2": "Brazil",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://ddfszjgxn54gz.cloudfront.net/out/v1/86474de7891a42a99f58267944346885/index.m3u8"
     }
   ]
 }

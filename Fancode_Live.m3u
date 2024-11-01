@@ -1,11 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Phantom CC vs Galfar Al Misnad" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111795_4593_GAM_PHC_fc-web.jpg" tvg-id="111795" group-title="Qatar Pro League, 2024",Phantom CC vs Galfar Al Misnad
-https://dai.google.com/linear/hls/event/aULIse0GSdWAK9xHkXSk3w/master.m3u8
 #EXTINF:-1 tvg-name="Kuwait Swedish vs Al Hajery Team XI" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_01.jpg" tvg-id="110512" group-title="KCC T20 Elite Cup, 2024",Kuwait Swedish vs Al Hajery Team XI
 https://dai.google.com/linear/hls/event/XbejROn2QYeJBMDzOPFB4w/master.m3u8
 #EXTINF:-1 tvg-name="Leeward Islands Hurricanes vs Barbados Pride" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112012_4596_BAR_LEI_fc-web.jpg" tvg-id="112012" group-title="CG United Super50 Cup, 2024",Leeward Islands Hurricanes vs Barbados Pride
 https://dai.google.com/linear/hls/event/deZigyQ6SbemG7SktbYB7w/master.m3u8
 #EXTINF:-1 tvg-name="Sharjah vs Ajman" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111678_4589_SHA_AJM_fc-web.jpg" tvg-id="111678" group-title="Emirates D20, 2024",Sharjah vs Ajman
 https://dai.google.com/linear/hls/event/3F2S44VRRruSaTBkksv-Bw/master.m3u8
-#EXTINF:-1 tvg-name="Practice 1" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="95238" group-title="F1 LENOVO GRANDE PRÊMIO DE SÃO PAULO 2024",Practice 1
-https://ddfszjgxn54gz.cloudfront.net/out/v1/86474de7891a42a99f58267944346885/index.m3u8
