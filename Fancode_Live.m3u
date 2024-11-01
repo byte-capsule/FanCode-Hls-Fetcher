@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Titans vs Fireox Unit CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111794_4593_TTS_FCC_fc-web.jpg" tvg-id="111794" group-title="Qatar Pro League, 2024",Titans vs Fireox Unit CC
-https://dai.google.com/linear/hls/event/2XU07gsUR26ntHBBfQwvpw/master.m3u8
 #EXTINF:-1 tvg-name="United Arab Emirates vs Oman" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111767_3908_OMN_UAE_fc-web.jpg" tvg-id="111767" group-title="ICC CWC League 2, 2023-27",United Arab Emirates vs Oman
 https://dai.google.com/linear/hls/event/YXxN9yJ3T4e1YylfaMoVLg/master.m3u8
-#EXTINF:-1 tvg-name="Australia vs England" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111904_4594_ENG_AUS_fc-web.jpg" tvg-id="111904" group-title="Hong Kong Sixes, 2024",Australia vs England
-https://dai.google.com/linear/hls/event/5V6epm8OR0GBrfz-fP-AdA/master.m3u8
+#EXTINF:-1 tvg-name="New Zealand vs South Africa" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111905_4594_SA_NZ_fc-web.jpg" tvg-id="111905" group-title="Hong Kong Sixes, 2024",New Zealand vs South Africa
+https://dai.google.com/linear/hls/event/BG0MS1rkSzqReXbq5bk0wQ/master.m3u8
 #EXTINF:-1 tvg-name="Gozo Zalmi vs Overseas" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_4_1729570461042.jpg" tvg-id="111574" group-title="ECS Malta, 2024",Gozo Zalmi vs Overseas
 https://dai.google.com/linear/hls/event/AAaFlHmpSCqw3uxmj4u5_Q/master.m3u8

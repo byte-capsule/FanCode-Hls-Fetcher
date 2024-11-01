@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "01-11-2024 on 1:53:13 PM \ud83c\udf1e",
+  "total_mathes": 3,
+  "last_upaded": "01-11-2024 on 2:27:38 PM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Qatar Pro League, 2024",
-      "match_id": 111794,
-      "match_name": "Titans vs Fireox Unit CC",
-      "team_1": "Titans",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TTS@2x.png",
-      "team_2": "Fireox Unit CC",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FIR@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111794_4593_TTS_FCC_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/2XU07gsUR26ntHBBfQwvpw/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "ICC CWC League 2, 2023-27",
@@ -31,14 +19,14 @@
     {
       "event_catagory": "cricket",
       "event_name": "Hong Kong Sixes, 2024",
-      "match_id": 111904,
-      "match_name": "Australia vs England",
-      "team_1": "Australia",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUS@2x.png",
-      "team_2": "England",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111904_4594_ENG_AUS_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/5V6epm8OR0GBrfz-fP-AdA/master.m3u8"
+      "match_id": 111905,
+      "match_name": "New Zealand vs South Africa",
+      "team_1": "New Zealand",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
+      "team_2": "South Africa",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111905_4594_SA_NZ_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/BG0MS1rkSzqReXbq5bk0wQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
