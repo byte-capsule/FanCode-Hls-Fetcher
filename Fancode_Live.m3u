@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Asian CC vs Tusker CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111796_4593_TCC_ACC_fc-web.jpg" tvg-id="111796" group-title="Qatar Pro League, 2024",Asian CC vs Tusker CC
+https://dai.google.com/linear/hls/event/e7-BNbtORzq8OyhDc3ibtg/master.m3u8
 #EXTINF:-1 tvg-name="Kuwait Swedish vs Al Hajery Team XI" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_01.jpg" tvg-id="110512" group-title="KCC T20 Elite Cup, 2024",Kuwait Swedish vs Al Hajery Team XI
 https://dai.google.com/linear/hls/event/XbejROn2QYeJBMDzOPFB4w/master.m3u8
 #EXTINF:-1 tvg-name="Leeward Islands Hurricanes vs Barbados Pride" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112012_4596_BAR_LEI_fc-web.jpg" tvg-id="112012" group-title="CG United Super50 Cup, 2024",Leeward Islands Hurricanes vs Barbados Pride
