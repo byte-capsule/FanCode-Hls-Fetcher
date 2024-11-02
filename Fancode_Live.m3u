@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Phantom CC vs Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111799_4593_TTS_PHC_fc-web.jpg" tvg-id="111799" group-title="Qatar Pro League, 2024",Phantom CC vs Titans
+https://dai.google.com/linear/hls/event/p0AgbIGQTPqSlvg_O_8xzg/master.m3u8
 #EXTINF:-1 tvg-name="Jamaica Scorpions vs West Indies Academy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112013_4596_WIC_JAM_fc-web.jpg" tvg-id="112013" group-title="CG United Super50 Cup, 2024",Jamaica Scorpions vs West Indies Academy
 https://dai.google.com/linear/hls/event/iq6ClmavSL6VMjymRddUqQ/master.m3u8
 #EXTINF:-1 tvg-name="Abu Dhabi vs Ajman" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111680_4589_ABD_AJM_fc-web.jpg" tvg-id="111680" group-title="Emirates D20, 2024",Abu Dhabi vs Ajman
