@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Australia vs Hong Kong, China" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS_HK_fc-web.jpg" tvg-id="111911" group-title="Hong Kong Sixes, 2024",Australia vs Hong Kong, China
-https://dai.google.com/linear/hls/event/Kl9Z8tIySWeCEjPWMIoAoQ/master.m3u8
+#EXTINF:-1 tvg-name="CBCC vs Hurricanes" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111797_4593_HUR_CBC_fc-web.jpg" tvg-id="111797" group-title="Qatar Pro League, 2024",CBCC vs Hurricanes
+https://dai.google.com/linear/hls/event/55zzNbB6TAmb9hh-6NADwQ/master.m3u8
+#EXTINF:-1 tvg-name="Pakistan vs South Africa" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SA_PAK_fc-web_1730494044023.jpg" tvg-id="111912" group-title="Hong Kong Sixes, 2024",Pakistan vs South Africa
+https://dai.google.com/linear/hls/event/6YIKB2gQTYucBCVlqsVAvg/master.m3u8
 #EXTINF:-1 tvg-name="Wellington Phoenix vs Auckland" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110906_4567_WEL_AFC_fc-web_1728983127036.jpg" tvg-id="110906" group-title="A League 2024-25",Wellington Phoenix vs Auckland
 https://dai.google.com/linear/hls/event/BOSVankoS9isJKNFlkRhmA/master.m3u8
