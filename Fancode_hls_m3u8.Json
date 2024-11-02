@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "02-11-2024 on 1:19:57 PM \ud83c\udf1e",
+  "total_mathes": 6,
+  "last_upaded": "02-11-2024 on 1:38:13 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -41,6 +41,18 @@
       "stream_link": "https://dai.google.com/linear/hls/event/0t0lGcFGQo6RC5hjuFPxXQ/master.m3u8"
     },
     {
+      "event_catagory": "cricket",
+      "event_name": "ECI-W Malta-Bulgaria, 2024",
+      "match_id": 112386,
+      "match_name": "Bulgaria Women vs Malta Women",
+      "team_1": "Bulgaria Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BULG@2x.png",
+      "team_2": "Malta Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAL@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/ECI-W-Malta-Bulgaria-old.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/jgr3wJJsSnW95lbFQtGxSQ/master.m3u8"
+    },
+    {
       "event_catagory": "football",
       "event_name": "A League 2024-25",
       "match_id": 110907,
@@ -51,6 +63,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PERTHGA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110907_4567_CCM_PG_fc-web_1728983128243.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/7EOk6znaT7eS5WGgJAzL7g/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "Chinese Super League 2024",
+      "match_id": 109887,
+      "match_name": "Shanghai Port vs Tianjin Jinmen Tiger",
+      "team_1": "Shanghai Port",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHANGP@2x.png",
+      "team_2": "Tianjin Jinmen Tiger",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-TJM@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/SP_TJT_Old_fc_web.jpg",
+      "stream_link": "https://liveauth.fancode.com/primary/109887_english_hls_5345adfreeta-no/index.m3u8"
     }
   ]
 }
