@@ -1,13 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Kuwait Emerging Stars vs Stack CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_03.jpg" tvg-id="110514" group-title="KCC T20 Elite Cup, 2024",Kuwait Emerging Stars vs Stack CC
+https://dai.google.com/linear/hls/event/j5ij7c21Sey1SayJgUISfQ/master.m3u8
 #EXTINF:-1 tvg-name="Phantom CC vs Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111799_4593_TTS_PHC_fc-web.jpg" tvg-id="111799" group-title="Qatar Pro League, 2024",Phantom CC vs Titans
 https://dai.google.com/linear/hls/event/p0AgbIGQTPqSlvg_O_8xzg/master.m3u8
 #EXTINF:-1 tvg-name="Jamaica Scorpions vs West Indies Academy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112013_4596_WIC_JAM_fc-web.jpg" tvg-id="112013" group-title="CG United Super50 Cup, 2024",Jamaica Scorpions vs West Indies Academy
 https://dai.google.com/linear/hls/event/iq6ClmavSL6VMjymRddUqQ/master.m3u8
-#EXTINF:-1 tvg-name="Abu Dhabi vs Ajman" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111680_4589_ABD_AJM_fc-web.jpg" tvg-id="111680" group-title="Emirates D20, 2024",Abu Dhabi vs Ajman
-https://dai.google.com/linear/hls/event/8sfFsifLT2q93Tc3MBHaHQ/master.m3u8
 #EXTINF:-1 tvg-name="West Indies vs England" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-Tour-of-West-Indies-old-match-card_1729755047624.png" tvg-id="109441" group-title="England tour of West Indies, 2024",West Indies vs England
 https://dai.google.com/linear/hls/event/6459M3jYSGWtvUihF_ZZkg/master.m3u8
 #EXTINF:-1 tvg-name="USA vs Nepal" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110643_3908_USA_NEP_fc-web.jpg" tvg-id="110643" group-title="ICC CWC League 2, 2023-27",USA vs Nepal
 https://dai.google.com/linear/hls/event/eFhEf48kTHGsY25k2Zt4DQ/master.m3u8
-#EXTINF:-1 tvg-name="Preston North End vs Bristol City" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109828_4352_PST_BRI_fc-web.jpg" tvg-id="109828" group-title="EFL Championship 2024-25",Preston North End vs Bristol City
-https://dai.google.com/linear/hls/event/s3kg2YOdQiKdwwmQ5hAbDQ/master.m3u8
