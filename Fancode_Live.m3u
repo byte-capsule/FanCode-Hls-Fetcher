@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Bangladesh vs United Arab Emirates" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/UAE-vs-BANG_fc-web.jpg" tvg-id="111916" group-title="Hong Kong Sixes, 2024",Bangladesh vs United Arab Emirates
-https://dai.google.com/linear/hls/event/xofvRCPWQpOv-bouZ7BwOA/master.m3u8
 #EXTINF:-1 tvg-name="Malta Women vs Bulgaria Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECI-W-Malta-Bulgaria-old.jpg" tvg-id="112387" group-title="ECI-W Malta-Bulgaria, 2024",Malta Women vs Bulgaria Women
 https://dai.google.com/linear/hls/event/ZWYTufyZSBaEhJqh4IXNwg/master.m3u8
 #EXTINF:-1 tvg-name="Kenya Women vs Rwanda Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Kenya-Women-tour-of-Rwanda-Old.png" tvg-id="112006" group-title="Kenya Women tour of Rwanda, 2024",Kenya Women vs Rwanda Women
