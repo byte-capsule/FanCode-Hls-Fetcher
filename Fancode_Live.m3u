@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Sri Lanka vs Nepal" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SL_NEP_fc-web.jpg" tvg-id="111915" group-title="Hong Kong Sixes, 2024",Sri Lanka vs Nepal
-https://dai.google.com/linear/hls/event/mrww2H87S0OB01K3o-B9Wg/master.m3u8
+#EXTINF:-1 tvg-name="Bangladesh vs United Arab Emirates" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/UAE-vs-BANG_fc-web.jpg" tvg-id="111916" group-title="Hong Kong Sixes, 2024",Bangladesh vs United Arab Emirates
+https://dai.google.com/linear/hls/event/xofvRCPWQpOv-bouZ7BwOA/master.m3u8
+#EXTINF:-1 tvg-name="Malta Women vs Bulgaria Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECI-W-Malta-Bulgaria-old.jpg" tvg-id="112387" group-title="ECI-W Malta-Bulgaria, 2024",Malta Women vs Bulgaria Women
+https://dai.google.com/linear/hls/event/ZWYTufyZSBaEhJqh4IXNwg/master.m3u8
 #EXTINF:-1 tvg-name="Kenya Women vs Rwanda Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Kenya-Women-tour-of-Rwanda-Old.png" tvg-id="112006" group-title="Kenya Women tour of Rwanda, 2024",Kenya Women vs Rwanda Women
 https://dai.google.com/linear/hls/event/0t0lGcFGQo6RC5hjuFPxXQ/master.m3u8
 #EXTINF:-1 tvg-name="Western Sydney Wanderers vs Adelaide United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110908_4567_SYW_ADL_fc-web_1728983127249.jpg" tvg-id="110908" group-title="A League 2024-25",Western Sydney Wanderers vs Adelaide United
