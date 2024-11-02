@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="England vs India" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg" tvg-id="111910" group-title="Hong Kong Sixes, 2024",England vs India
-https://dai.google.com/linear/hls/event/kPUMvZjrQSaWdVM7zRt4JA/master.m3u8
+#EXTINF:-1 tvg-name="Australia vs Hong Kong, China" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS_HK_fc-web.jpg" tvg-id="111911" group-title="Hong Kong Sixes, 2024",Australia vs Hong Kong, China
+https://dai.google.com/linear/hls/event/Kl9Z8tIySWeCEjPWMIoAoQ/master.m3u8
+#EXTINF:-1 tvg-name="Wellington Phoenix vs Auckland" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110906_4567_WEL_AFC_fc-web_1728983127036.jpg" tvg-id="110906" group-title="A League 2024-25",Wellington Phoenix vs Auckland
+https://dai.google.com/linear/hls/event/BOSVankoS9isJKNFlkRhmA/master.m3u8
