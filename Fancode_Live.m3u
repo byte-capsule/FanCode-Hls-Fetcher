@@ -1,11 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Galfar Al Misnad vs Tusker CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111798_4593_GAM_TCC_fc-web.jpg" tvg-id="111798" group-title="Qatar Pro League, 2024",Galfar Al Misnad vs Tusker CC
 https://dai.google.com/linear/hls/event/tuEuFOQlTE6b7Afmof0lqA/master.m3u8
+#EXTINF:-1 tvg-name="Jamaica Scorpions vs West Indies Academy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112013_4596_WIC_JAM_fc-web.jpg" tvg-id="112013" group-title="CG United Super50 Cup, 2024",Jamaica Scorpions vs West Indies Academy
+https://dai.google.com/linear/hls/event/iq6ClmavSL6VMjymRddUqQ/master.m3u8
+#EXTINF:-1 tvg-name="Abu Dhabi vs Ajman" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111680_4589_ABD_AJM_fc-web.jpg" tvg-id="111680" group-title="Emirates D20, 2024",Abu Dhabi vs Ajman
+https://dai.google.com/linear/hls/event/8sfFsifLT2q93Tc3MBHaHQ/master.m3u8
 #EXTINF:-1 tvg-name="Kenya Women vs Rwanda Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Kenya-Women-tour-of-Rwanda-Old.png" tvg-id="112007" group-title="Kenya Women tour of Rwanda, 2024",Kenya Women vs Rwanda Women
 https://dai.google.com/linear/hls/event/b6YLtiPNQYymSCVcMb9niw/master.m3u8
-#EXTINF:-1 tvg-name="Malta vs Czechia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECI-Malta-Czechia-old.jpg" tvg-id="112390" group-title="ECI Malta-Czechia, 2024",Malta vs Czechia
-https://dai.google.com/linear/hls/event/UtHb-xwbTRaHiR-ush3LeA/master.m3u8
+#EXTINF:-1 tvg-name="West Indies vs England" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-Tour-of-West-Indies-old-match-card_1729755047624.png" tvg-id="109441" group-title="England tour of West Indies, 2024",West Indies vs England
+https://dai.google.com/linear/hls/event/6459M3jYSGWtvUihF_ZZkg/master.m3u8
 #EXTINF:-1 tvg-name="Stoke City vs Derby County" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109829_4352_STK_DER_fc-web.jpg" tvg-id="109829" group-title="EFL Championship 2024-25",Stoke City vs Derby County
 https://dai.google.com/linear/hls/event/lmMyQ-Y8TIeey70AH5bUEQ/master.m3u8
-#EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/07/LET-Aramco-Team-Series_old-match-card.jpg" tvg-id="112178" group-title="Aramco Team Series Presented by PIF - Riyadh",Day 3
-https://dai.google.com/linear/hls/event/qTqq7pkfRsezsR_sUfjoLg/master.m3u8
+#EXTINF:-1 tvg-name="Sprint" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="95241" group-title="F1 LENOVO GRANDE PRÊMIO DE SÃO PAULO 2024",Sprint
+https://d1fi8cyfjhcoyn.cloudfront.net/out/v1/2752ed3716a84dd88038fc1b0d85ecc1/index.m3u8
