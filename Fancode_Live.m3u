@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="CBCC vs Hurricanes" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111797_4593_HUR_CBC_fc-web.jpg" tvg-id="111797" group-title="Qatar Pro League, 2024",CBCC vs Hurricanes
 https://dai.google.com/linear/hls/event/55zzNbB6TAmb9hh-6NADwQ/master.m3u8
-#EXTINF:-1 tvg-name="New Zealand vs India" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ_IND_fc-web.jpg" tvg-id="111913" group-title="Hong Kong Sixes, 2024",New Zealand vs India
-https://dai.google.com/linear/hls/event/5Z42eOQvTA6QjG0UoCvA9Q/master.m3u8
+#EXTINF:-1 tvg-name="Oman vs England" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ENG_OMN_fc-web.jpg" tvg-id="111914" group-title="Hong Kong Sixes, 2024",Oman vs England
+https://dai.google.com/linear/hls/event/B_UVAtFlSjyu-IKVdppiSw/master.m3u8
+#EXTINF:-1 tvg-name="Kenya Women vs Rwanda Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Kenya-Women-tour-of-Rwanda-Old.png" tvg-id="112006" group-title="Kenya Women tour of Rwanda, 2024",Kenya Women vs Rwanda Women
+https://dai.google.com/linear/hls/event/0t0lGcFGQo6RC5hjuFPxXQ/master.m3u8
 #EXTINF:-1 tvg-name="Central Coast Mariners vs Perth Glory" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110907_4567_CCM_PG_fc-web_1728983128243.jpg" tvg-id="110907" group-title="A League 2024-25",Central Coast Mariners vs Perth Glory
 https://dai.google.com/linear/hls/event/7EOk6znaT7eS5WGgJAzL7g/master.m3u8
