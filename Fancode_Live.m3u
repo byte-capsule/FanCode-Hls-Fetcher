@@ -5,5 +5,7 @@ https://dai.google.com/linear/hls/event/iq6ClmavSL6VMjymRddUqQ/master.m3u8
 https://dai.google.com/linear/hls/event/8sfFsifLT2q93Tc3MBHaHQ/master.m3u8
 #EXTINF:-1 tvg-name="West Indies vs England" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-Tour-of-West-Indies-old-match-card_1729755047624.png" tvg-id="109441" group-title="England tour of West Indies, 2024",West Indies vs England
 https://dai.google.com/linear/hls/event/6459M3jYSGWtvUihF_ZZkg/master.m3u8
+#EXTINF:-1 tvg-name="USA vs Nepal" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110643_3908_USA_NEP_fc-web.jpg" tvg-id="110643" group-title="ICC CWC League 2, 2023-27",USA vs Nepal
+https://dai.google.com/linear/hls/event/eFhEf48kTHGsY25k2Zt4DQ/master.m3u8
 #EXTINF:-1 tvg-name="Preston North End vs Bristol City" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109828_4352_PST_BRI_fc-web.jpg" tvg-id="109828" group-title="EFL Championship 2024-25",Preston North End vs Bristol City
 https://dai.google.com/linear/hls/event/s3kg2YOdQiKdwwmQ5hAbDQ/master.m3u8
