@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "02-11-2024 on 4:21:36 PM \ud83c\udf1e",
+  "total_mathes": 2,
+  "last_upaded": "02-11-2024 on 4:41:12 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,30 +15,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BULG@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/ECI-W-Malta-Bulgaria-old.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/ZWYTufyZSBaEhJqh4IXNwg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Kenya Women tour of Rwanda, 2024",
-      "match_id": 112006,
-      "match_name": "Kenya Women vs Rwanda Women",
-      "team_1": "Kenya Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KNA@2x.png",
-      "team_2": "Rwanda Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RWA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Kenya-Women-tour-of-Rwanda-Old.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/0t0lGcFGQo6RC5hjuFPxXQ/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "A League 2024-25",
-      "match_id": 110908,
-      "match_name": "Western Sydney Wanderers vs Adelaide United",
-      "team_1": "Western Sydney Wanderers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYWA@2x.png",
-      "team_2": "Adelaide United",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ADLA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110908_4567_SYW_ADL_fc-web_1728983127249.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/1xq8T8wiSg2GO8PsYHq7ng/master.m3u8"
     },
     {
       "event_catagory": "golf",
