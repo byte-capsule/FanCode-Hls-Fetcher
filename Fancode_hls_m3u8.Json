@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "02-11-2024 on 11:17:57 PM \ud83c\udf19",
+  "total_mathes": 7,
+  "last_upaded": "02-11-2024 on 11:53:12 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -42,6 +42,18 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "Emirates D20, 2024",
+      "match_id": 111681,
+      "match_name": "Emirates Blues vs Dubai",
+      "team_1": "Emirates Blues",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLUE@2x.png",
+      "team_2": "Dubai",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EMDB@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111681_4589_DUB_EMB_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/XLSx13ZXQuS6J1LX3lP0QA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "England tour of West Indies, 2024",
       "match_id": 109441,
       "match_name": "West Indies vs England",
@@ -63,6 +75,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110643_3908_USA_NEP_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/eFhEf48kTHGsY25k2Zt4DQ/master.m3u8"
+    },
+    {
+      "event_catagory": "formula1",
+      "event_name": "F1 LENOVO GRANDE PR\u00caMIO DE S\u00c3O PAULO 2024",
+      "match_id": 95239,
+      "match_name": "Qualifying",
+      "team_1": "Qualifying",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+      "team_2": "Brazil",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/CqjkAqIeR0u9-s4I-abrKg/master.m3u8"
     }
   ]
 }
