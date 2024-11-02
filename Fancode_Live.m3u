@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CBCC vs Hurricanes" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111797_4593_HUR_CBC_fc-web.jpg" tvg-id="111797" group-title="Qatar Pro League, 2024",CBCC vs Hurricanes
-https://dai.google.com/linear/hls/event/55zzNbB6TAmb9hh-6NADwQ/master.m3u8
-#EXTINF:-1 tvg-name="Oman vs England" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ENG_OMN_fc-web.jpg" tvg-id="111914" group-title="Hong Kong Sixes, 2024",Oman vs England
-https://dai.google.com/linear/hls/event/B_UVAtFlSjyu-IKVdppiSw/master.m3u8
-#EXTINF:-1 tvg-name="Kenya Women vs Rwanda Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Kenya-Women-tour-of-Rwanda-Old.png" tvg-id="112006" group-title="Kenya Women tour of Rwanda, 2024",Kenya Women vs Rwanda Women
-https://dai.google.com/linear/hls/event/0t0lGcFGQo6RC5hjuFPxXQ/master.m3u8
+#EXTINF:-1 tvg-name="Sri Lanka vs Nepal" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SL_NEP_fc-web.jpg" tvg-id="111915" group-title="Hong Kong Sixes, 2024",Sri Lanka vs Nepal
+https://dai.google.com/linear/hls/event/mrww2H87S0OB01K3o-B9Wg/master.m3u8
 #EXTINF:-1 tvg-name="Bulgaria Women vs Malta Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECI-W-Malta-Bulgaria-old.jpg" tvg-id="112386" group-title="ECI-W Malta-Bulgaria, 2024",Bulgaria Women vs Malta Women
 https://dai.google.com/linear/hls/event/jgr3wJJsSnW95lbFQtGxSQ/master.m3u8
-#EXTINF:-1 tvg-name="Central Coast Mariners vs Perth Glory" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110907_4567_CCM_PG_fc-web_1728983128243.jpg" tvg-id="110907" group-title="A League 2024-25",Central Coast Mariners vs Perth Glory
-https://dai.google.com/linear/hls/event/7EOk6znaT7eS5WGgJAzL7g/master.m3u8
+#EXTINF:-1 tvg-name="Kenya Women vs Rwanda Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Kenya-Women-tour-of-Rwanda-Old.png" tvg-id="112006" group-title="Kenya Women tour of Rwanda, 2024",Kenya Women vs Rwanda Women
+https://dai.google.com/linear/hls/event/0t0lGcFGQo6RC5hjuFPxXQ/master.m3u8
 #EXTINF:-1 tvg-name="Shanghai Port vs Tianjin Jinmen Tiger" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SP_TJT_Old_fc_web.jpg" tvg-id="109887" group-title="Chinese Super League 2024",Shanghai Port vs Tianjin Jinmen Tiger
 https://liveauth.fancode.com/primary/109887_english_hls_5345adfreeta-no/index.m3u8
