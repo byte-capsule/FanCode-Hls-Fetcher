@@ -1,7 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Galfar Al Misnad vs Tusker CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111798_4593_GAM_TCC_fc-web.jpg" tvg-id="111798" group-title="Qatar Pro League, 2024",Galfar Al Misnad vs Tusker CC
+https://dai.google.com/linear/hls/event/tuEuFOQlTE6b7Afmof0lqA/master.m3u8
 #EXTINF:-1 tvg-name="Kenya Women vs Rwanda Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Kenya-Women-tour-of-Rwanda-Old.png" tvg-id="112007" group-title="Kenya Women tour of Rwanda, 2024",Kenya Women vs Rwanda Women
 https://dai.google.com/linear/hls/event/b6YLtiPNQYymSCVcMb9niw/master.m3u8
 #EXTINF:-1 tvg-name="Malta vs Czechia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECI-Malta-Czechia-old.jpg" tvg-id="112390" group-title="ECI Malta-Czechia, 2024",Malta vs Czechia
 https://dai.google.com/linear/hls/event/UtHb-xwbTRaHiR-ush3LeA/master.m3u8
+#EXTINF:-1 tvg-name="Stoke City vs Derby County" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109829_4352_STK_DER_fc-web.jpg" tvg-id="109829" group-title="EFL Championship 2024-25",Stoke City vs Derby County
+https://dai.google.com/linear/hls/event/lmMyQ-Y8TIeey70AH5bUEQ/master.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/07/LET-Aramco-Team-Series_old-match-card.jpg" tvg-id="112178" group-title="Aramco Team Series Presented by PIF - Riyadh",Day 3
 https://dai.google.com/linear/hls/event/qTqq7pkfRsezsR_sUfjoLg/master.m3u8
