@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "03-11-2024 on 7:03:20 PM \ud83c\udf19",
+  "total_mathes": 6,
+  "last_upaded": "03-11-2024 on 7:30:54 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,6 +15,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GAMC@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/111800_4593_GAM_ACC_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/5tcRU7tNTP-69WE7RMonCQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Emirates D20, 2024",
+      "match_id": 111682,
+      "match_name": "Abu Dhabi vs Dubai",
+      "team_1": "Abu Dhabi",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ABUD@2x.png",
+      "team_2": "Dubai",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EMDB@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111682_4589_ABD_DUB_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/ta6aZGrwQCWb3-8J7aLnTQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -43,14 +55,26 @@
     {
       "event_catagory": "cricket",
       "event_name": "ECI Malta-Czechia, 2024",
-      "match_id": 112392,
-      "match_name": "Czechia vs Malta",
-      "team_1": "Czechia",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CZR@2x.png",
-      "team_2": "Malta",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAL@2x.png",
+      "match_id": 112393,
+      "match_name": "Malta vs Czechia",
+      "team_1": "Malta",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAL@2x.png",
+      "team_2": "Czechia",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CZR@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Malta-Czechia-old.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/23TH6_pWRbGoRluBXT5TUw/master.m3u8"
+      "stream_link": "https://dai.google.com/linear/hls/event/BBZd4Vr1RE-uYS8EvnL4Wg/master.m3u8"
+    },
+    {
+      "event_catagory": "formula1",
+      "event_name": "F1 LENOVO GRANDE PR\u00caMIO DE S\u00c3O PAULO 2024",
+      "match_id": 95242,
+      "match_name": "Race",
+      "team_1": "Race",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+      "team_2": "Brazil",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/3SEWqh0RRMepUHIr_M6pGg/master.m3u8"
     }
   ]
 }
