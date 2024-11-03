@@ -1,9 +1,21 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "03-11-2024 on 11:53:13 AM \ud83c\udf1e",
+  "total_mathes": 3,
+  "last_upaded": "03-11-2024 on 0:31:35 PM \ud83c\udf1e",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC CWC League 2, 2023-27",
+      "match_id": 111768,
+      "match_name": "United Arab Emirates vs Netherlands",
+      "team_1": "United Arab Emirates",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UAE@2x.png",
+      "team_2": "Netherlands",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111768_3908_UAE_NED_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/oZV77h1NRc6tFWB9dFzxIA/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "Hong Kong Sixes, 2024",
@@ -15,30 +27,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/SL_BANG_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/KAi6VctbS2WPDYnWwHWqoA/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "J League 2024",
-      "match_id": 111205,
-      "match_name": "Sanfrecce Hiroshima vs Kyoto Sanga",
-      "team_1": "Sanfrecce Hiroshima",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHI@2x.png",
-      "team_2": "Kyoto Sanga",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KSN@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111205_3921_HIR_KYS_fc-web.jpg",
-      "stream_link": "https://liveauth.fancode.com/primary/111205_english_hls_5227adfreeta-no/index.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "J League 2024",
-      "match_id": 111202,
-      "match_name": "Consadole Sapporo vs Cerezo Osaka",
-      "team_1": "Consadole Sapporo",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CSA@2x.png",
-      "team_2": "Cerezo Osaka",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COS@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111202_3921_SAP_OSA_fc-web.jpg",
-      "stream_link": "https://liveauth.fancode.com/primary/111202_english_hls_8105adfreeta-no/index.m3u8"
     },
     {
       "event_catagory": "football",

@@ -1,9 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="United Arab Emirates vs Netherlands" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111768_3908_UAE_NED_fc-web.jpg" tvg-id="111768" group-title="ICC CWC League 2, 2023-27",United Arab Emirates vs Netherlands
+https://dai.google.com/linear/hls/event/oZV77h1NRc6tFWB9dFzxIA/master.m3u8
 #EXTINF:-1 tvg-name="Bangladesh vs Sri Lanka" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SL_BANG_fc-web.jpg" tvg-id="111922" group-title="Hong Kong Sixes, 2024",Bangladesh vs Sri Lanka
 https://dai.google.com/linear/hls/event/KAi6VctbS2WPDYnWwHWqoA/master.m3u8
-#EXTINF:-1 tvg-name="Sanfrecce Hiroshima vs Kyoto Sanga" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111205_3921_HIR_KYS_fc-web.jpg" tvg-id="111205" group-title="J League 2024",Sanfrecce Hiroshima vs Kyoto Sanga
-https://liveauth.fancode.com/primary/111205_english_hls_5227adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Consadole Sapporo vs Cerezo Osaka" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111202_3921_SAP_OSA_fc-web.jpg" tvg-id="111202" group-title="J League 2024",Consadole Sapporo vs Cerezo Osaka
-https://liveauth.fancode.com/primary/111202_english_hls_8105adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Melbourne Victory vs Macarthur" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110909_4567_MLV_MAC_fc-web_1728983127207.jpg" tvg-id="110909" group-title="A League 2024-25",Melbourne Victory vs Macarthur
 https://dai.google.com/linear/hls/event/tPTzRMrSSASWiC__ZhsQ1w/master.m3u8
