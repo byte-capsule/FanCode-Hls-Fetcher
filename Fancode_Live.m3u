@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="India vs Oman" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IND_OMN_fc-web.jpg" tvg-id="111920" group-title="Hong Kong Sixes, 2024",India vs Oman
-https://dai.google.com/linear/hls/event/8c4JZ8HzQy2nvgI5-WzIvg/master.m3u8
+#EXTINF:-1 tvg-name="Sanfrecce Hiroshima vs Kyoto Sanga" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111205_3921_HIR_KYS_fc-web.jpg" tvg-id="111205" group-title="J League 2024",Sanfrecce Hiroshima vs Kyoto Sanga
+https://liveauth.fancode.com/primary/111205_english_hls_5227adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Consadole Sapporo vs Cerezo Osaka" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111202_3921_SAP_OSA_fc-web.jpg" tvg-id="111202" group-title="J League 2024",Consadole Sapporo vs Cerezo Osaka
+https://liveauth.fancode.com/primary/111202_english_hls_8105adfreeta-no/index.m3u8
