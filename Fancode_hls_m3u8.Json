@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "03-11-2024 on 6:39:40 PM \ud83c\udf19",
+  "total_mathes": 4,
+  "last_upaded": "03-11-2024 on 7:03:20 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,6 +15,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GAMC@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/111800_4593_GAM_ACC_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/5tcRU7tNTP-69WE7RMonCQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "CG United Super50 Cup, 2024",
+      "match_id": 112014,
+      "match_name": "Guyana Harpy Eagles vs Barbados Pride",
+      "team_1": "Guyana Harpy Eagles",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HARP@2x.png",
+      "team_2": "Barbados Pride",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRBP@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112014_4596_GUY_BAR_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/zWO-fmofTO2YPLOwG8mRMQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
