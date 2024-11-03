@@ -2,19 +2,19 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 1,
-  "last_upaded": "03-11-2024 on 08:58:25 AM \ud83c\udf1e",
+  "last_upaded": "03-11-2024 on 09:32:54 AM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
       "event_name": "Hong Kong Sixes, 2024",
-      "match_id": 111919,
-      "match_name": "Nepal vs United Arab Emirates",
-      "team_1": "Nepal",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
-      "team_2": "United Arab Emirates",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UAE@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Nepal-vs-UAE-OLD.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/9-0tpf4bSxe2aTYMvC2NDQ/master.m3u8"
+      "match_id": 111920,
+      "match_name": "India vs Oman",
+      "team_1": "India",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IND@2x.png",
+      "team_2": "Oman",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OMA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/IND_OMN_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/8c4JZ8HzQy2nvgI5-WzIvg/master.m3u8"
     }
   ]
 }
