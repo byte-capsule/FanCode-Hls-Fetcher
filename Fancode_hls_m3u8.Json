@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "03-11-2024 on 3:39:37 PM \ud83c\udf1e",
+  "total_mathes": 2,
+  "last_upaded": "03-11-2024 on 3:53:11 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,18 +15,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/111768_3908_UAE_NED_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/oZV77h1NRc6tFWB9dFzxIA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Hong Kong Sixes, 2024",
-      "match_id": 111925,
-      "match_name": "Pakistan vs Sri Lanka",
-      "team_1": "Pakistan",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png",
-      "team_2": "Sri Lanka",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-vs-Sri-Lanka_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/O7LbfkJgTwife57qVnFdZw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
