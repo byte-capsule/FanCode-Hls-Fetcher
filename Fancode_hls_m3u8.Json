@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "03-11-2024 on 0:31:35 PM \ud83c\udf1e",
+  "total_mathes": 2,
+  "last_upaded": "03-11-2024 on 1:19:41 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -19,26 +19,14 @@
     {
       "event_catagory": "cricket",
       "event_name": "Hong Kong Sixes, 2024",
-      "match_id": 111922,
-      "match_name": "Bangladesh vs Sri Lanka",
-      "team_1": "Bangladesh",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
-      "team_2": "Sri Lanka",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/SL_BANG_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/KAi6VctbS2WPDYnWwHWqoA/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "A League 2024-25",
-      "match_id": 110909,
-      "match_name": "Melbourne Victory vs Macarthur",
-      "team_1": "Melbourne Victory",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLVA@2x.png",
-      "team_2": "Macarthur",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MACA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110909_4567_MLV_MAC_fc-web_1728983127207.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/tPTzRMrSSASWiC__ZhsQ1w/master.m3u8"
+      "match_id": 111923,
+      "match_name": "England vs Oman",
+      "team_1": "England",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
+      "team_2": "Oman",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OMA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/OMn-vs-ENG_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/7lEMDtv7RB68hshk3Rv75A/master.m3u8"
     }
   ]
 }
