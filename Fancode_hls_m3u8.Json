@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "04-11-2024 on 11:19:51 PM \ud83c\udf19",
+  "total_mathes": 7,
+  "last_upaded": "04-11-2024 on 11:39:59 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -30,15 +30,15 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "ICC CWC League 2, 2023-27",
-      "match_id": 110644,
-      "match_name": "Nepal vs Scotland",
-      "team_1": "Nepal",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
-      "team_2": "Scotland",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110644_3908_NEP_SCO_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/rzJIKvzHTGWcZyC8AHtvxw/master.m3u8"
+      "event_name": "Emirates D20, 2024",
+      "match_id": 111685,
+      "match_name": "Ajman vs Fujairah",
+      "team_1": "Ajman",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AJMN@2x.png",
+      "team_2": "Fujairah",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FUJA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111685_4589_AJM_FUJ_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/ARQW1UD5QzG5qUNi6TCVUQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -51,6 +51,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ALJH@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_01.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/YRpJ0ZB1QPKzylVC4EllVg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC CWC League 2, 2023-27",
+      "match_id": 110644,
+      "match_name": "Nepal vs Scotland",
+      "team_1": "Nepal",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
+      "team_2": "Scotland",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110644_3908_NEP_SCO_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/rzJIKvzHTGWcZyC8AHtvxw/master.m3u8"
     },
     {
       "event_catagory": "football",
