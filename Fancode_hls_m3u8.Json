@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "04-11-2024 on 11:53:24 PM \ud83c\udf19",
+  "total_mathes": 6,
+  "last_upaded": "05-11-2024 on 00:29:27 AM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -67,26 +67,14 @@
     {
       "event_catagory": "football",
       "event_name": "AFC Champions League Elite 2024-25",
-      "match_id": 108665,
-      "match_name": "Persepolis FC vs Al Gharafa",
-      "team_1": "Persepolis FC",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PERSE@2x.png",
-      "team_2": "Al Gharafa",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AGH@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/prod-images/2024/09/108665_4475_PPL_AGH_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/Lg3j33-CT56DkAT0ZQNLJA/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "AFC Champions League Elite 2024-25",
-      "match_id": 108664,
-      "match_name": "Al-Ahli vs Al Shorta",
-      "team_1": "Al-Ahli",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AAS@2x.png",
-      "team_2": "Al Shorta",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHR@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/prod-images/2024/09/108664_4475_AAS_SHR_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/wMa3FsVaT6-ZgSepqRET7w/master.m3u8"
+      "match_id": 108666,
+      "match_name": "Al-Hilal vs Esteghlal FC",
+      "team_1": "Al-Hilal",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AHS@2x.png",
+      "team_2": "Esteghlal FC",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ESG@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/prod-images/2024/09/108666_4475_AHS_ESG_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/xjsuetFeRxm7pO6VzS1GdA/master.m3u8"
     }
   ]
 }
