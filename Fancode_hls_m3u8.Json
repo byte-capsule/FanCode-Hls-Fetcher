@@ -1,69 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "05-11-2024 on 00:45:57 AM \ud83c\udf19",
+  "total_mathes": 1,
+  "last_upaded": "05-11-2024 on 01:19:11 AM \ud83c\udf19",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Qatar Pro League, 2024",
-      "match_id": 111803,
-      "match_name": "Asian CC vs CBCC",
-      "team_1": "Asian CC",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACI@2x.png",
-      "team_2": "CBCC",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CBC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111803_4593_ACC_CBC_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/7iP82_jXQKe9fwUoqMxHyw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "CG United Super50 Cup, 2024",
-      "match_id": 112015,
-      "match_name": "Combined Campuses and Colleges vs West Indies Academy",
-      "team_1": "Combined Campuses and Colleges",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CCCM@2x.png",
-      "team_2": "West Indies Academy",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112015_4596_CCC_WIC_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/u8SYX5-zS5OsH6ygldu4RA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Emirates D20, 2024",
-      "match_id": 111685,
-      "match_name": "Ajman vs Fujairah",
-      "team_1": "Ajman",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AJMN@2x.png",
-      "team_2": "Fujairah",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FUJA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111685_4589_AJM_FUJ_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/ARQW1UD5QzG5qUNi6TCVUQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "KCC T20 Elite Cup, 2024",
-      "match_id": 110515,
-      "match_name": "NCM Investment vs Al Hajery Team XI",
-      "team_1": "NCM Investment",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NIN@2x.png",
-      "team_2": "Al Hajery Team XI",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ALJH@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_01.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/YRpJ0ZB1QPKzylVC4EllVg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC CWC League 2, 2023-27",
-      "match_id": 110644,
-      "match_name": "Nepal vs Scotland",
-      "team_1": "Nepal",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
-      "team_2": "Scotland",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110644_3908_NEP_SCO_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/rzJIKvzHTGWcZyC8AHtvxw/master.m3u8"
-    },
     {
       "event_catagory": "football",
       "event_name": "AFC Champions League Elite 2024-25",
