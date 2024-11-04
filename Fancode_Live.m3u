@@ -1,7 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Asian CC vs CBCC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111803_4593_ACC_CBC_fc-web.jpg" tvg-id="111803" group-title="Qatar Pro League, 2024",Asian CC vs CBCC
+https://dai.google.com/linear/hls/event/7iP82_jXQKe9fwUoqMxHyw/master.m3u8
 #EXTINF:-1 tvg-name="Combined Campuses and Colleges vs West Indies Academy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112015_4596_CCC_WIC_fc-web.jpg" tvg-id="112015" group-title="CG United Super50 Cup, 2024",Combined Campuses and Colleges vs West Indies Academy
 https://dai.google.com/linear/hls/event/u8SYX5-zS5OsH6ygldu4RA/master.m3u8
 #EXTINF:-1 tvg-name="Abu Dhabi vs Sharjah" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111684_4589_SHA_ABD_fc-web.jpg" tvg-id="111684" group-title="Emirates D20, 2024",Abu Dhabi vs Sharjah
 https://dai.google.com/linear/hls/event/zg4hUFqERrGqkKpmslfg0g/master.m3u8
-#EXTINF:-1 tvg-name="Al Wasl vs Al Sadd" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/09/108663_4475_AWL_SDD_fc-web.jpg" tvg-id="108663" group-title="AFC Champions League Elite 2024-25",Al Wasl vs Al Sadd
-https://dai.google.com/linear/hls/event/biZycTTTRIa436QNh4DKNQ/master.m3u8
+#EXTINF:-1 tvg-name="Persepolis FC vs Al Gharafa" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/09/108665_4475_PPL_AGH_fc-web.jpg" tvg-id="108665" group-title="AFC Champions League Elite 2024-25",Persepolis FC vs Al Gharafa
+https://dai.google.com/linear/hls/event/Lg3j33-CT56DkAT0ZQNLJA/master.m3u8
+#EXTINF:-1 tvg-name="Al-Ahli vs Al Shorta" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/09/108664_4475_AAS_SHR_fc-web.jpg" tvg-id="108664" group-title="AFC Champions League Elite 2024-25",Al-Ahli vs Al Shorta
+https://dai.google.com/linear/hls/event/wMa3FsVaT6-ZgSepqRET7w/master.m3u8

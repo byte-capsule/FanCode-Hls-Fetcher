@@ -1,9 +1,21 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "04-11-2024 on 9:55:52 PM \ud83c\udf19",
+  "total_mathes": 5,
+  "last_upaded": "04-11-2024 on 10:28:32 PM \ud83c\udf19",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "Qatar Pro League, 2024",
+      "match_id": 111803,
+      "match_name": "Asian CC vs CBCC",
+      "team_1": "Asian CC",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACI@2x.png",
+      "team_2": "CBCC",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CBC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111803_4593_ACC_CBC_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/7iP82_jXQKe9fwUoqMxHyw/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "CG United Super50 Cup, 2024",
@@ -31,14 +43,26 @@
     {
       "event_catagory": "football",
       "event_name": "AFC Champions League Elite 2024-25",
-      "match_id": 108663,
-      "match_name": "Al Wasl vs Al Sadd",
-      "team_1": "Al Wasl",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AWL@2x.png",
-      "team_2": "Al Sadd",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALSAD@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/prod-images/2024/09/108663_4475_AWL_SDD_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/biZycTTTRIa436QNh4DKNQ/master.m3u8"
+      "match_id": 108665,
+      "match_name": "Persepolis FC vs Al Gharafa",
+      "team_1": "Persepolis FC",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PERSE@2x.png",
+      "team_2": "Al Gharafa",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AGH@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/prod-images/2024/09/108665_4475_PPL_AGH_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/Lg3j33-CT56DkAT0ZQNLJA/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "AFC Champions League Elite 2024-25",
+      "match_id": 108664,
+      "match_name": "Al-Ahli vs Al Shorta",
+      "team_1": "Al-Ahli",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AAS@2x.png",
+      "team_2": "Al Shorta",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHR@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/prod-images/2024/09/108664_4475_AAS_SHR_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/wMa3FsVaT6-ZgSepqRET7w/master.m3u8"
     }
   ]
 }
