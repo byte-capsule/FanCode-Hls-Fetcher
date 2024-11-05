@@ -1,11 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Titans vs CBCC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111804_4593_CBC_TTS_fc-web.jpg" tvg-id="111804" group-title="Qatar Pro League, 2024",Titans vs CBCC
-https://dai.google.com/linear/hls/event/iP8-dVWARl2Mbl6TtINKeA/master.m3u8
 #EXTINF:-1 tvg-name="Jamaica Scorpions vs Windward Islands Volcanoes" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112016_4596_JAM_WIS_fc-web.jpg" tvg-id="112016" group-title="CG United Super50 Cup, 2024",Jamaica Scorpions vs Windward Islands Volcanoes
 https://dai.google.com/linear/hls/event/Vnc3QNjLRJaqpYEI3ir1jg/master.m3u8
 #EXTINF:-1 tvg-name="Dubai vs Sharjah" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111686_4589_DUB_SHA_fc-web.jpg" tvg-id="111686" group-title="Emirates D20, 2024",Dubai vs Sharjah
 https://dai.google.com/linear/hls/event/tzi9UcxnS7KNa_v9Vd6M1A/master.m3u8
-#EXTINF:-1 tvg-name="Gozo Zalmi vs Red Stars" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_3_1729570461562.jpg" tvg-id="111585" group-title="ECS Malta, 2024",Gozo Zalmi vs Red Stars
-https://dai.google.com/linear/hls/event/qDas0JNgS8mXlBT1zECT6Q/master.m3u8
 #EXTINF:-1 tvg-name="Pakhtakor Tashkent vs Al Rayyan" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/09/108667_4475_PT_RAY_fc-web.jpg" tvg-id="108667" group-title="AFC Champions League Elite 2024-25",Pakhtakor Tashkent vs Al Rayyan
 https://dai.google.com/linear/hls/event/z7NnDuUyQYWDQVM9B1QQvQ/master.m3u8

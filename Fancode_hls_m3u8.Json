@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "05-11-2024 on 9:23:38 PM \ud83c\udf19",
+  "total_mathes": 3,
+  "last_upaded": "05-11-2024 on 9:41:16 PM \ud83c\udf19",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Qatar Pro League, 2024",
-      "match_id": 111804,
-      "match_name": "Titans vs CBCC",
-      "team_1": "Titans",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TTS@2x.png",
-      "team_2": "CBCC",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CBC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111804_4593_CBC_TTS_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/iP8-dVWARl2Mbl6TtINKeA/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "CG United Super50 Cup, 2024",
@@ -39,18 +27,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHRJ@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/111686_4589_DUB_SHA_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/tzi9UcxnS7KNa_v9Vd6M1A/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECS Malta, 2024",
-      "match_id": 111585,
-      "match_name": "Gozo Zalmi vs Red Stars",
-      "team_1": "Gozo Zalmi",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GOZ@2x.png",
-      "team_2": "Red Stars",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RS-CR2@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_3_1729570461562.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/qDas0JNgS8mXlBT1zECT6Q/master.m3u8"
     },
     {
       "event_catagory": "football",
