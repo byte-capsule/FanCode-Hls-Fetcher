@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 5,
-  "last_upaded": "05-11-2024 on 7:53:21 PM \ud83c\udf19",
+  "last_upaded": "05-11-2024 on 8:21:10 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -55,14 +55,14 @@
     {
       "event_catagory": "football",
       "event_name": "AFC Champions League Elite 2024-25",
-      "match_id": 108672,
-      "match_name": "Johor Darul Ta'zim vs Ulsan HD",
-      "team_1": "Johor Darul Ta'zim",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-JOHOR@2x.png",
-      "team_2": "Ulsan HD",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ULS@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/YEc3l8xYQqepS5swDFjGFQ/master.m3u8"
+      "match_id": 108667,
+      "match_name": "Pakhtakor Tashkent vs Al Rayyan",
+      "team_1": "Pakhtakor Tashkent",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PAKHTO@2x.png",
+      "team_2": "Al Rayyan",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RAY@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/prod-images/2024/09/108667_4475_PT_RAY_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/z7NnDuUyQYWDQVM9B1QQvQ/master.m3u8"
     }
   ]
 }
