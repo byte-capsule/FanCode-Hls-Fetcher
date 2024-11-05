@@ -1,32 +1,7 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 2,
-  "last_upaded": "06-11-2024 on 00:46:24 AM \ud83c\udf19",
-  "matches": [
-    {
-      "event_catagory": "football",
-      "event_name": "AFC Champions League Elite 2024-25",
-      "match_id": 108668,
-      "match_name": "Al-Nassr vs Al Ain",
-      "team_1": "Al-Nassr",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ANF@2x.png",
-      "team_2": "Al Ain",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALAIN@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/prod-images/2024/09/108668_4475_ANF_AAI_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/qAAsfRj7SxK5_iEDmu2zpQ/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "AFC Champions League Two 2024-25",
-      "match_id": 108753,
-      "match_name": "Sepahan vs Sharjah",
-      "team_1": "Sepahan",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SEPAH@2x.png",
-      "team_2": "Sharjah",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHARJ@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/108753_4476_SEP_SHJ_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/Vjz-oxPDTP-J7XESY1EQjw/master.m3u8"
-    }
-  ]
+  "total_mathes": 0,
+  "last_upaded": "06-11-2024 on 01:16:49 AM \ud83c\udf19",
+  "matches": []
 }
