@@ -1,11 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Phantom CC vs Fireox Unit CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111805_4593_PHC_FCC_fc-web.jpg" tvg-id="111805" group-title="Qatar Pro League, 2024",Phantom CC vs Fireox Unit CC
-https://dai.google.com/linear/hls/event/KN1dXhNIQ2yFZAPKoVW-Tg/master.m3u8
-#EXTINF:-1 tvg-name="Jamaica Scorpions vs Windward Islands Volcanoes" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112016_4596_JAM_WIS_fc-web.jpg" tvg-id="112016" group-title="CG United Super50 Cup, 2024",Jamaica Scorpions vs Windward Islands Volcanoes
-https://dai.google.com/linear/hls/event/Vnc3QNjLRJaqpYEI3ir1jg/master.m3u8
-#EXTINF:-1 tvg-name="Ajman vs Emirates Blues" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111687_4589_EMB_AJM_fc-web.jpg" tvg-id="111687" group-title="Emirates D20, 2024",Ajman vs Emirates Blues
-https://dai.google.com/linear/hls/event/A5qgbM75TXCrzIGevi632g/master.m3u8
-#EXTINF:-1 tvg-name="GAT vs Marafie Bengal Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112396_4616_MBT_GAT_fc-web.jpg" tvg-id="112396" group-title="KCC T20 Challengers A League, 2024-25",GAT vs Marafie Bengal Tigers
-https://dai.google.com/linear/hls/event/DbKTkuB-T56EdgPirSkI9w/master.m3u8
-#EXTINF:-1 tvg-name="Al Wehdat vs Istiklol" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108754_4476_ALW_ISK_fc-web.jpg" tvg-id="108754" group-title="AFC Champions League Two 2024-25",Al Wehdat vs Istiklol
-https://dai.google.com/linear/hls/event/uojB1glKRciVPui00SyhFA/master.m3u8
+#EXTINF:-1 tvg-name="Al-Nassr vs Al Ain" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/09/108668_4475_ANF_AAI_fc-web.jpg" tvg-id="108668" group-title="AFC Champions League Elite 2024-25",Al-Nassr vs Al Ain
+https://dai.google.com/linear/hls/event/qAAsfRj7SxK5_iEDmu2zpQ/master.m3u8
+#EXTINF:-1 tvg-name="Sepahan vs Sharjah" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108753_4476_SEP_SHJ_fc-web.jpg" tvg-id="108753" group-title="AFC Champions League Two 2024-25",Sepahan vs Sharjah
+https://dai.google.com/linear/hls/event/Vjz-oxPDTP-J7XESY1EQjw/master.m3u8

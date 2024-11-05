@@ -1,68 +1,32 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "05-11-2024 on 11:53:30 PM \ud83c\udf19",
+  "total_mathes": 2,
+  "last_upaded": "06-11-2024 on 00:46:24 AM \ud83c\udf19",
   "matches": [
     {
-      "event_catagory": "cricket",
-      "event_name": "Qatar Pro League, 2024",
-      "match_id": 111805,
-      "match_name": "Phantom CC vs Fireox Unit CC",
-      "team_1": "Phantom CC",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PHC@2x.png",
-      "team_2": "Fireox Unit CC",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FIR@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111805_4593_PHC_FCC_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/KN1dXhNIQ2yFZAPKoVW-Tg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "CG United Super50 Cup, 2024",
-      "match_id": 112016,
-      "match_name": "Jamaica Scorpions vs Windward Islands Volcanoes",
-      "team_1": "Jamaica Scorpions",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCOP@2x.png",
-      "team_2": "Windward Islands Volcanoes",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VOLC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112016_4596_JAM_WIS_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/Vnc3QNjLRJaqpYEI3ir1jg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Emirates D20, 2024",
-      "match_id": 111687,
-      "match_name": "Ajman vs Emirates Blues",
-      "team_1": "Ajman",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AJMN@2x.png",
-      "team_2": "Emirates Blues",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLUE@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111687_4589_EMB_AJM_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/A5qgbM75TXCrzIGevi632g/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "KCC T20 Challengers A League, 2024-25",
-      "match_id": 112396,
-      "match_name": "GAT vs Marafie Bengal Tigers",
-      "team_1": "GAT",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GAT@2x.png",
-      "team_2": "Marafie Bengal Tigers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MBT@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112396_4616_MBT_GAT_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/DbKTkuB-T56EdgPirSkI9w/master.m3u8"
+      "event_catagory": "football",
+      "event_name": "AFC Champions League Elite 2024-25",
+      "match_id": 108668,
+      "match_name": "Al-Nassr vs Al Ain",
+      "team_1": "Al-Nassr",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ANF@2x.png",
+      "team_2": "Al Ain",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALAIN@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/prod-images/2024/09/108668_4475_ANF_AAI_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/qAAsfRj7SxK5_iEDmu2zpQ/master.m3u8"
     },
     {
       "event_catagory": "football",
       "event_name": "AFC Champions League Two 2024-25",
-      "match_id": 108754,
-      "match_name": "Al Wehdat vs Istiklol",
-      "team_1": "Al Wehdat",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WEHD@2x.png",
-      "team_2": "Istiklol",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ISTIK@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/108754_4476_ALW_ISK_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/uojB1glKRciVPui00SyhFA/master.m3u8"
+      "match_id": 108753,
+      "match_name": "Sepahan vs Sharjah",
+      "team_1": "Sepahan",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SEPAH@2x.png",
+      "team_2": "Sharjah",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHARJ@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/108753_4476_SEP_SHJ_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/Vjz-oxPDTP-J7XESY1EQjw/master.m3u8"
     }
   ]
 }
