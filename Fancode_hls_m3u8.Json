@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 4,
-  "last_upaded": "05-11-2024 on 2:45:26 PM \ud83c\udf1e",
+  "last_upaded": "05-11-2024 on 3:23:01 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -31,14 +31,14 @@
     {
       "event_catagory": "cricket",
       "event_name": "ECS Malta, 2024",
-      "match_id": 111582,
-      "match_name": "Msida Warriors vs Mater Dei",
-      "team_1": "Msida Warriors",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MSD@2x.png",
-      "team_2": "Mater Dei",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MART@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_4_1729570461042.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/gvAciV_MQzKrMazTtY30BA/master.m3u8"
+      "match_id": 111583,
+      "match_name": "Red Stars vs Msida Warriors",
+      "team_1": "Red Stars",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RS-CR2@2x.png",
+      "team_2": "Msida Warriors",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MSD@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_1_1729570461679.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/xs5WwRu8RSG62k-wUS53-g/master.m3u8"
     },
     {
       "event_catagory": "football",
