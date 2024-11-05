@@ -1,9 +1,21 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "05-11-2024 on 9:54:14 PM \ud83c\udf19",
+  "total_mathes": 4,
+  "last_upaded": "05-11-2024 on 10:28:40 PM \ud83c\udf19",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "Qatar Pro League, 2024",
+      "match_id": 111805,
+      "match_name": "Phantom CC vs Fireox Unit CC",
+      "team_1": "Phantom CC",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PHC@2x.png",
+      "team_2": "Fireox Unit CC",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FIR@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111805_4593_PHC_FCC_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/KN1dXhNIQ2yFZAPKoVW-Tg/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "CG United Super50 Cup, 2024",
@@ -30,15 +42,15 @@
     },
     {
       "event_catagory": "football",
-      "event_name": "AFC Champions League Elite 2024-25",
-      "match_id": 108667,
-      "match_name": "Pakhtakor Tashkent vs Al Rayyan",
-      "team_1": "Pakhtakor Tashkent",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PAKHTO@2x.png",
-      "team_2": "Al Rayyan",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RAY@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/prod-images/2024/09/108667_4475_PT_RAY_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/z7NnDuUyQYWDQVM9B1QQvQ/master.m3u8"
+      "event_name": "AFC Champions League Two 2024-25",
+      "match_id": 108754,
+      "match_name": "Al Wehdat vs Istiklol",
+      "team_1": "Al Wehdat",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WEHD@2x.png",
+      "team_2": "Istiklol",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ISTIK@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/108754_4476_ALW_ISK_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/uojB1glKRciVPui00SyhFA/master.m3u8"
     }
   ]
 }
