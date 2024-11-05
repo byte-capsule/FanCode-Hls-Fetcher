@@ -1,7 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Titans vs CBCC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111804_4593_CBC_TTS_fc-web.jpg" tvg-id="111804" group-title="Qatar Pro League, 2024",Titans vs CBCC
+https://dai.google.com/linear/hls/event/iP8-dVWARl2Mbl6TtINKeA/master.m3u8
+#EXTINF:-1 tvg-name="Jamaica Scorpions vs Windward Islands Volcanoes" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112016_4596_JAM_WIS_fc-web.jpg" tvg-id="112016" group-title="CG United Super50 Cup, 2024",Jamaica Scorpions vs Windward Islands Volcanoes
+https://dai.google.com/linear/hls/event/Vnc3QNjLRJaqpYEI3ir1jg/master.m3u8
 #EXTINF:-1 tvg-name="Gozo Zalmi vs Mater Dei" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_2_1729570461132.jpg" tvg-id="111584" group-title="ECS Malta, 2024",Gozo Zalmi vs Mater Dei
 https://dai.google.com/linear/hls/event/v_RMCQtiT6O0Mem2Dp-cMQ/master.m3u8
-#EXTINF:-1 tvg-name="Vissel Kobe vs Gwangju" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/09/108671_4475_VIS_GWN_fc-web.jpg" tvg-id="108671" group-title="AFC Champions League Elite 2024-25",Vissel Kobe vs Gwangju
-https://dai.google.com/linear/hls/event/xRPHVJvUTtmiFo4SsTDt1g/master.m3u8
-#EXTINF:-1 tvg-name="Kawasaki Frontale vs Shanghai Port" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/09/108670_4475_KAW_SHG_fc-web.jpg" tvg-id="108670" group-title="AFC Champions League Elite 2024-25",Kawasaki Frontale vs Shanghai Port
-https://dai.google.com/linear/hls/event/JCVPIYw2SuqMPyuqx2rDzg/master.m3u8
+#EXTINF:-1 tvg-name="Johor Darul Ta'zim vs Ulsan HD" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="108672" group-title="AFC Champions League Elite 2024-25",Johor Darul Ta'zim vs Ulsan HD
+https://dai.google.com/linear/hls/event/YEc3l8xYQqepS5swDFjGFQ/master.m3u8
