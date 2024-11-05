@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Netherlands vs Oman" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111769_3908_OMN_NED_fc-web.jpg" tvg-id="111769" group-title="ICC CWC League 2, 2023-27",Netherlands vs Oman
-https://dai.google.com/linear/hls/event/RRzrCIH-QD6pGkBWP4J1PA/master.m3u8
-#EXTINF:-1 tvg-name="SDCA vs Recreation Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112312_4608_RCU_SCA_fc-app_fc-web_1730730017784.jpg" tvg-id="112312" group-title="Ecole T20 Cup, 2024",SDCA vs Recreation Club
-https://dai.google.com/linear/hls/event/yrb3TmFBQQ6cc1wpR_gNdw/master.m3u8
 #EXTINF:-1 tvg-name="Gozo Zalmi vs Mater Dei" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_2_1729570461132.jpg" tvg-id="111584" group-title="ECS Malta, 2024",Gozo Zalmi vs Mater Dei
 https://dai.google.com/linear/hls/event/v_RMCQtiT6O0Mem2Dp-cMQ/master.m3u8
 #EXTINF:-1 tvg-name="Vissel Kobe vs Gwangju" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/09/108671_4475_VIS_GWN_fc-web.jpg" tvg-id="108671" group-title="AFC Champions League Elite 2024-25",Vissel Kobe vs Gwangju

@@ -1,33 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "05-11-2024 on 5:39:08 PM \ud83c\udf1e",
+  "total_mathes": 3,
+  "last_upaded": "05-11-2024 on 5:52:59 PM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC CWC League 2, 2023-27",
-      "match_id": 111769,
-      "match_name": "Netherlands vs Oman",
-      "team_1": "Netherlands",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
-      "team_2": "Oman",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OMA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111769_3908_OMN_NED_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/RRzrCIH-QD6pGkBWP4J1PA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Ecole T20 Cup, 2024",
-      "match_id": 112312,
-      "match_name": "SDCA vs Recreation Club",
-      "team_1": "SDCA",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCDA@2x.png",
-      "team_2": "Recreation Club",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RCU@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112312_4608_RCU_SCA_fc-app_fc-web_1730730017784.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/yrb3TmFBQQ6cc1wpR_gNdw/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "ECS Malta, 2024",
