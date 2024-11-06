@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Galfar Al Misnad vs Fireox Unit CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111786_4593_GAM_FCC_fc-web.jpg" tvg-id="111807" group-title="Qatar Pro League, 2024",Galfar Al Misnad vs Fireox Unit CC
+https://dai.google.com/linear/hls/event/LUq30eSnTBCQBJnvn6-lZw/master.m3u8
 #EXTINF:-1 tvg-name="Fujairah vs Emirates Blues" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111688_4589_EMB_FUJ_fc-web.jpg" tvg-id="111688" group-title="Emirates D20, 2024",Fujairah vs Emirates Blues
 https://dai.google.com/linear/hls/event/XWMh_c0lTEinjaZFmydKOw/master.m3u8
 #EXTINF:-1 tvg-name="Afghanistan vs Bangladesh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-and-Bangladesh-tour-of-UAE,-2024-old-match-card-(1).png" tvg-id="110863" group-title="Afghanistan vs Bangladesh tour in UAE, 2024",Afghanistan vs Bangladesh
