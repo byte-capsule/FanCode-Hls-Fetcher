@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 6,
-  "last_upaded": "06-11-2024 on 11:19:33 PM \ud83c\udf19",
+  "last_upaded": "06-11-2024 on 11:40:35 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -18,15 +18,15 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Afghanistan vs Bangladesh tour in UAE, 2024",
-      "match_id": 110863,
-      "match_name": "Afghanistan vs Bangladesh",
-      "team_1": "Afghanistan",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFG@2x.png",
-      "team_2": "Bangladesh",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-and-Bangladesh-tour-of-UAE,-2024-old-match-card-(1).png",
-      "stream_link": "https://dai.google.com/linear/hls/event/1vUppoaARPK0tNcreJkfkQ/master.m3u8"
+      "event_name": "Emirates D20, 2024",
+      "match_id": 111689,
+      "match_name": "Ajman vs Dubai",
+      "team_1": "Ajman",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AJMN@2x.png",
+      "team_2": "Dubai",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EMDB@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111689_4589_DUB_AJM_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/Huc6NzEBRYm4tBv09Ni-Pg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
