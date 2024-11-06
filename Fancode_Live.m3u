@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Ashtapailu Sports vs Mavericks Academy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112313_4608_MVA_APS_fc-app_fc-web_1730730017787.jpg" tvg-id="112313" group-title="Ecole T20 Cup, 2024",Ashtapailu Sports vs Mavericks Academy
-https://dai.google.com/linear/hls/event/LGI2m0EoROecFmekAJk5Qg/master.m3u8
-#EXTINF:-1 tvg-name="Singapore vs Uganda" tvg-logo="https://www.fancode.com/aig/match/v1/112296_CASACARDS_APP.png" tvg-id="112296" group-title="ICC CWC Challenge League B, 2024-26",Singapore vs Uganda
-https://dai.google.com/linear/hls/event/KfJaKAf_R1CbKn6z6_Tbrg/master.m3u8
+#EXTINF:-1 tvg-name="Rajasthan Royals Academy vs Recreation Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112314_4608_RRC_RCU_fc-app_fc-web_1730730017774.jpg" tvg-id="112314" group-title="Ecole T20 Cup, 2024",Rajasthan Royals Academy vs Recreation Club
+https://dai.google.com/linear/hls/event/sLhcN6pATku8_JvXsixSNA/master.m3u8
 #EXTINF:-1 tvg-name="Southern Crusaders vs Bugibba Blasters" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_4_1729570461042.jpg" tvg-id="111586" group-title="ECS Malta, 2024",Southern Crusaders vs Bugibba Blasters
 https://dai.google.com/linear/hls/event/PR997q2LSuu5TdxiqPep5A/master.m3u8
+#EXTINF:-1 tvg-name="Singapore vs Uganda" tvg-logo="https://www.fancode.com/aig/match/v1/112296_CASACARDS_APP.png" tvg-id="112296" group-title="ICC CWC Challenge League B, 2024-26",Singapore vs Uganda
+https://dai.google.com/linear/hls/event/KfJaKAf_R1CbKn6z6_Tbrg/master.m3u8
