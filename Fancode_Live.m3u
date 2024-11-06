@@ -5,3 +5,5 @@ https://dai.google.com/linear/hls/event/sLhcN6pATku8_JvXsixSNA/master.m3u8
 https://dai.google.com/linear/hls/event/4hWss8GoSk-8Iv4ha5OarA/master.m3u8
 #EXTINF:-1 tvg-name="Singapore vs Uganda" tvg-logo="https://www.fancode.com/aig/match/v1/112296_CASACARDS_APP.png" tvg-id="112296" group-title="ICC CWC Challenge League B, 2024-26",Singapore vs Uganda
 https://dai.google.com/linear/hls/event/KfJaKAf_R1CbKn6z6_Tbrg/master.m3u8
+#EXTINF:-1 tvg-name="Afghanistan vs Bangladesh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-and-Bangladesh-tour-of-UAE,-2024-old-match-card-(1).png" tvg-id="110863" group-title="Afghanistan vs Bangladesh tour in UAE, 2024",Afghanistan vs Bangladesh
+https://dai.google.com/linear/hls/event/1vUppoaARPK0tNcreJkfkQ/master.m3u8
