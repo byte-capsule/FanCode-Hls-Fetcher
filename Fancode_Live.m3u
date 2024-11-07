@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Crvena Zvezda mts Belgrade vs Alba Berlin" tvg-logo="https://www.fancode.com/aig/match/v1/111745_CASACARDS_APP.png" tvg-id="111745" group-title="EuroLeague 2024-25",Crvena Zvezda mts Belgrade vs Alba Berlin
 https://dai.google.com/linear/hls/event/1d-r8E4DSiC9k2ByatDOAQ/master.m3u8
+#EXTINF:-1 tvg-name="Bayern Munich vs Zalgiris Kaunas" tvg-logo="https://www.fancode.com/aig/match/v1/111746_CASACARDS_APP.png" tvg-id="111746" group-title="EuroLeague 2024-25",Bayern Munich vs Zalgiris Kaunas
+https://dai.google.com/linear/hls/event/j-HnniJnT8SNS1j0YUE6jA/master.m3u8
