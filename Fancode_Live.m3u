@@ -3,9 +3,13 @@
 https://dai.google.com/linear/hls/event/2AaZyTuWSDWeCPf1AYB-Og/master.m3u8
 #EXTINF:-1 tvg-name="United Arab Emirates vs Oman" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111770_3908_UAE_OMN_fc-web.jpg" tvg-id="111770" group-title="ICC CWC League 2, 2023-27",United Arab Emirates vs Oman
 https://dai.google.com/linear/hls/event/pJMvxquASraXOXMmmZi6eg/master.m3u8
+#EXTINF:-1 tvg-name="Tanzania vs Italy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112298_4607_ITA_TAN_fc-web.jpg" tvg-id="112298" group-title="ICC CWC Challenge League B, 2024-26",Tanzania vs Italy
+https://dai.google.com/linear/hls/event/DKtl5oDeQaqoZIyEsuvmZg/master.m3u8
 #EXTINF:-1 tvg-name="Bahrain vs Hong Kong, China" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112297_4607_HK_BAH_fc-web.jpg" tvg-id="112297" group-title="ICC CWC Challenge League B, 2024-26",Bahrain vs Hong Kong, China
 https://dai.google.com/linear/hls/event/gTrdd5u5S9yexvOYqNtfOA/master.m3u8
-#EXTINF:-1 tvg-name="Featured Feed - Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship_Old_Match_card_1.jpg" tvg-id="112836" group-title="Abu Dhabi HSBC Championship",Featured Feed - Day 1
-https://dai.google.com/linear/hls/event/VMqSrMBESW2Bas7z0epveQ/master.m3u8
+#EXTINF:-1 tvg-name="American University of Malta vs Gzira United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_4_1729570461042.jpg" tvg-id="111590" group-title="ECS Malta, 2024",American University of Malta vs Gzira United
+https://dai.google.com/linear/hls/event/yAYN4EjwRkmmitAFvosqSA/master.m3u8
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship_Old_Match_card_1.jpg" tvg-id="112179" group-title="Abu Dhabi HSBC Championship",Day 1
 https://dai.google.com/linear/hls/event/yF_5tR6cQnK3n3rn2sWArA/master.m3u8
+#EXTINF:-1 tvg-name="Featured Feed - Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship_Old_Match_card_1.jpg" tvg-id="112836" group-title="Abu Dhabi HSBC Championship",Featured Feed - Day 1
+https://dai.google.com/linear/hls/event/VMqSrMBESW2Bas7z0epveQ/master.m3u8
