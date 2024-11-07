@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Abu Dhabi vs Fujairah" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111674_4589_ABD_FUJ_fc-web.jpg" tvg-id="111690" group-title="Emirates D20, 2024",Abu Dhabi vs Fujairah
 https://dai.google.com/linear/hls/event/GgKzWCGTR_GFmfEi16lCgg/master.m3u8
+#EXTINF:-1 tvg-name="Victoria Lions vs Red Stars" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_3_1729570461562.jpg" tvg-id="111593" group-title="ECS Malta, 2024",Victoria Lions vs Red Stars
+https://dai.google.com/linear/hls/event/NJ6Hd0O1RluvO-bLniXaPQ/master.m3u8
 #EXTINF:-1 tvg-name="Jamaica Scorpions vs Guyana Harpy Eagles" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112017_4596_GUY_JAM_fc-web.jpg" tvg-id="112017" group-title="CG United Super50 Cup, 2024",Jamaica Scorpions vs Guyana Harpy Eagles
 https://dai.google.com/linear/hls/event/-mW-t_2YQpq2yDck4I5Idw/master.m3u8
-#EXTINF:-1 tvg-name="Tanzania vs Italy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112298_4607_ITA_TAN_fc-web.jpg" tvg-id="112298" group-title="ICC CWC Challenge League B, 2024-26",Tanzania vs Italy
-https://dai.google.com/linear/hls/event/DKtl5oDeQaqoZIyEsuvmZg/master.m3u8
 #EXTINF:-1 tvg-name="Bahrain vs Hong Kong, China" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112297_4607_HK_BAH_fc-web.jpg" tvg-id="112297" group-title="ICC CWC Challenge League B, 2024-26",Bahrain vs Hong Kong, China
 https://dai.google.com/linear/hls/event/gTrdd5u5S9yexvOYqNtfOA/master.m3u8
 #EXTINF:-1 tvg-name="Zhejiang vs Port" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108790_4476_ZHP_POR_fc-web.jpg" tvg-id="108790" group-title="AFC Champions League Two 2024-25",Zhejiang vs Port
