@@ -2,19 +2,31 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 7,
-  "last_upaded": "07-11-2024 on 7:10:34 PM \ud83c\udf19",
+  "last_upaded": "07-11-2024 on 7:31:38 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
-      "event_name": "ECS Malta, 2024",
-      "match_id": 111592,
-      "match_name": "Gzira United vs Red Stars",
-      "team_1": "Gzira United",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/GZU-CR1@2x.png",
-      "team_2": "Red Stars",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RS-CR2@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_2_1729570461132.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/JVeM9hvxT--XNPxzrQ0ijA/master.m3u8"
+      "event_name": "Emirates D20, 2024",
+      "match_id": 111690,
+      "match_name": "Abu Dhabi vs Fujairah",
+      "team_1": "Abu Dhabi",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ABUD@2x.png",
+      "team_2": "Fujairah",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FUJA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111674_4589_ABD_FUJ_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/GgKzWCGTR_GFmfEi16lCgg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "CG United Super50 Cup, 2024",
+      "match_id": 112017,
+      "match_name": "Jamaica Scorpions vs Guyana Harpy Eagles",
+      "team_1": "Jamaica Scorpions",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCOP@2x.png",
+      "team_2": "Guyana Harpy Eagles",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HARP@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112017_4596_GUY_JAM_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/-mW-t_2YQpq2yDck4I5Idw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -39,18 +51,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HK@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/112297_4607_HK_BAH_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/gTrdd5u5S9yexvOYqNtfOA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "CG United Super50 Cup, 2024",
-      "match_id": 112017,
-      "match_name": "Jamaica Scorpions vs Guyana Harpy Eagles",
-      "team_1": "Jamaica Scorpions",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCOP@2x.png",
-      "team_2": "Guyana Harpy Eagles",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HARP@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112017_4596_GUY_JAM_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/-mW-t_2YQpq2yDck4I5Idw/master.m3u8"
     },
     {
       "event_catagory": "football",
