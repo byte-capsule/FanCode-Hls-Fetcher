@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "07-11-2024 on 7:53:23 PM \ud83c\udf19",
+  "total_mathes": 4,
+  "last_upaded": "07-11-2024 on 8:19:55 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -51,42 +51,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HK@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/112297_4607_HK_BAH_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/gTrdd5u5S9yexvOYqNtfOA/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "AFC Champions League Two 2024-25",
-      "match_id": 108790,
-      "match_name": "Zhejiang vs Port",
-      "team_1": "Zhejiang",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ZHEJ@2x.png",
-      "team_2": "Port",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/POR-FT3@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/108790_4476_ZHP_POR_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/J6xh50myRAe2s1wvNeE00w/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "AFC Champions League Two 2024-25",
-      "match_id": 108789,
-      "match_name": "Lion City Sailors vs Persib Bandung",
-      "team_1": "Lion City Sailors",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LIONC@2x.png",
-      "team_2": "Persib Bandung",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PER@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/108789_4476_LIO_PER_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/PnepqVbOTReELe7X1NdVHw/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "AFC Champions League Two 2024-25",
-      "match_id": 108778,
-      "match_name": "Eastern SC vs Kaya",
-      "team_1": "Eastern SC",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ECS@2x.png",
-      "team_2": "Kaya",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KAYA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/108778_4476_ESC_KAYA_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/dJKXi6R5Q1GzCpW_qDEn2w/master.m3u8"
     }
   ]
 }
