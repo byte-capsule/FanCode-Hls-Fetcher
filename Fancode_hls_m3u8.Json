@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "07-11-2024 on 0:46:46 PM \ud83c\udf1e",
+  "total_mathes": 5,
+  "last_upaded": "07-11-2024 on 1:19:38 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,6 +27,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OMA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/111770_3908_UAE_OMN_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/pJMvxquASraXOXMmmZi6eg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC CWC Challenge League B, 2024-26",
+      "match_id": 112297,
+      "match_name": "Bahrain vs Hong Kong, China",
+      "team_1": "Bahrain",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAH@2x.png",
+      "team_2": "Hong Kong, China",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HK@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112297_4607_HK_BAH_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/gTrdd5u5S9yexvOYqNtfOA/master.m3u8"
     },
     {
       "event_catagory": "golf",
