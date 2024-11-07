@@ -1,33 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "07-11-2024 on 1:53:07 PM \ud83c\udf1e",
+  "total_mathes": 8,
+  "last_upaded": "07-11-2024 on 2:27:29 PM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Ecole T20 Cup, 2024",
-      "match_id": 112315,
-      "match_name": "Solapur Stars XI vs SDCA",
-      "team_1": "Solapur Stars XI",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSX@2x.png",
-      "team_2": "SDCA",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCDA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112315_4608_SSX_SCA_fc-app_fc-web_1730730043357.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/2AaZyTuWSDWeCPf1AYB-Og/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC CWC League 2, 2023-27",
-      "match_id": 111770,
-      "match_name": "United Arab Emirates vs Oman",
-      "team_1": "United Arab Emirates",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UAE@2x.png",
-      "team_2": "Oman",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OMA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111770_3908_UAE_OMN_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/pJMvxquASraXOXMmmZi6eg/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "ICC CWC Challenge League B, 2024-26",
@@ -54,6 +30,30 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "Ecole T20 Cup, 2024",
+      "match_id": 112316,
+      "match_name": "Ashtapailu Sports vs Rajasthan Royals Academy",
+      "team_1": "Ashtapailu Sports",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-APC@2x.png",
+      "team_2": "Rajasthan Royals Academy",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RRCE@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112316_4608_RRC_APS_fc-app_fc-web_1730730043379.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/sEBLKwpLTHCAGt3VBTuB0Q/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC CWC League 2, 2023-27",
+      "match_id": 111770,
+      "match_name": "United Arab Emirates vs Oman",
+      "team_1": "United Arab Emirates",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UAE@2x.png",
+      "team_2": "Oman",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OMA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111770_3908_UAE_OMN_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/pJMvxquASraXOXMmmZi6eg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "ECS Malta, 2024",
       "match_id": 111590,
       "match_name": "American University of Malta vs Gzira United",
@@ -63,6 +63,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/GZU-CR1@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_4_1729570461042.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/yAYN4EjwRkmmitAFvosqSA/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "AFC Champions League Two 2024-25",
+      "match_id": 108777,
+      "match_name": "Sydney FC vs Sanfrecce Hiroshima",
+      "team_1": "Sydney FC",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYDA@2x.png",
+      "team_2": "Sanfrecce Hiroshima",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHI@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/108777_4476_SYD_HIR_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/5NVIg7IrT661gyU_0QHESQ/master.m3u8"
     },
     {
       "event_catagory": "golf",
