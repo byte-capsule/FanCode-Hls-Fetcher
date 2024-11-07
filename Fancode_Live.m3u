@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Fireox Unit CC vs Phantom CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111805_4593_PHC_FCC_fc-web.jpg" tvg-id="111808" group-title="Qatar Pro League, 2024",Fireox Unit CC vs Phantom CC
+#EXTINF:-1 tvg-name="Phantom CC vs Fireox Unit CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111805_4593_PHC_FCC_fc-web.jpg" tvg-id="111808" group-title="Qatar Pro League, 2024",Phantom CC vs Fireox Unit CC
 https://dai.google.com/linear/hls/event/mEy7wtV1STuA7dOLtwDcTw/master.m3u8
 #EXTINF:-1 tvg-name="Abu Dhabi vs Fujairah" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111674_4589_ABD_FUJ_fc-web.jpg" tvg-id="111690" group-title="Emirates D20, 2024",Abu Dhabi vs Fujairah
 https://dai.google.com/linear/hls/event/GgKzWCGTR_GFmfEi16lCgg/master.m3u8
-#EXTINF:-1 tvg-name="Victoria Lions vs Red Stars" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_3_1729570461562.jpg" tvg-id="111593" group-title="ECS Malta, 2024",Victoria Lions vs Red Stars
-https://dai.google.com/linear/hls/event/NJ6Hd0O1RluvO-bLniXaPQ/master.m3u8
 #EXTINF:-1 tvg-name="Jamaica Scorpions vs Guyana Harpy Eagles" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112017_4596_GUY_JAM_fc-web.jpg" tvg-id="112017" group-title="CG United Super50 Cup, 2024",Jamaica Scorpions vs Guyana Harpy Eagles
 https://dai.google.com/linear/hls/event/-mW-t_2YQpq2yDck4I5Idw/master.m3u8
