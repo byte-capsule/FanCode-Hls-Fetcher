@@ -5,3 +5,5 @@ https://dai.google.com/linear/hls/event/2AaZyTuWSDWeCPf1AYB-Og/master.m3u8
 https://dai.google.com/linear/hls/event/pJMvxquASraXOXMmmZi6eg/master.m3u8
 #EXTINF:-1 tvg-name="Featured Feed - Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship_Old_Match_card_1.jpg" tvg-id="112836" group-title="Abu Dhabi HSBC Championship",Featured Feed - Day 1
 https://dai.google.com/linear/hls/event/VMqSrMBESW2Bas7z0epveQ/master.m3u8
+#EXTINF:-1 tvg-name="Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship_Old_Match_card_1.jpg" tvg-id="112179" group-title="Abu Dhabi HSBC Championship",Day 1
+https://dai.google.com/linear/hls/event/yF_5tR6cQnK3n3rn2sWArA/master.m3u8
