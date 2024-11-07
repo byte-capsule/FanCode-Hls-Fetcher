@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Phantom CC vs Fireox Unit CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111805_4593_PHC_FCC_fc-web.jpg" tvg-id="111808" group-title="Qatar Pro League, 2024",Phantom CC vs Fireox Unit CC
 https://dai.google.com/linear/hls/event/mEy7wtV1STuA7dOLtwDcTw/master.m3u8
-#EXTINF:-1 tvg-name="Jamaica Scorpions vs Guyana Harpy Eagles" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112017_4596_GUY_JAM_fc-web.jpg" tvg-id="112017" group-title="CG United Super50 Cup, 2024",Jamaica Scorpions vs Guyana Harpy Eagles
-https://dai.google.com/linear/hls/event/-mW-t_2YQpq2yDck4I5Idw/master.m3u8
+#EXTINF:-1 tvg-name="Sharjah vs Emirates Blues" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111675_4589_EMB_SHA_fc-web.jpg" tvg-id="111691" group-title="Emirates D20, 2024",Sharjah vs Emirates Blues
+https://dai.google.com/linear/hls/event/TTUJtT6DSCidi3kljKTYYA/master.m3u8
 #EXTINF:-1 tvg-name="Ai Octopus Challengers vs Going Global" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112397_4616_GGL_SZN_fc-web.jpg" tvg-id="112397" group-title="KCC T20 Challengers A League, 2024-25",Ai Octopus Challengers vs Going Global
 https://dai.google.com/linear/hls/event/UzkJ-rLSQqS3RcF_2mqu-A/master.m3u8
+#EXTINF:-1 tvg-name="Jamaica Scorpions vs Guyana Harpy Eagles" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112017_4596_GUY_JAM_fc-web.jpg" tvg-id="112017" group-title="CG United Super50 Cup, 2024",Jamaica Scorpions vs Guyana Harpy Eagles
+https://dai.google.com/linear/hls/event/-mW-t_2YQpq2yDck4I5Idw/master.m3u8
