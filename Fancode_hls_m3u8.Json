@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 2,
-  "last_upaded": "07-11-2024 on 11:53:40 AM \ud83c\udf1e",
+  "total_mathes": 3,
+  "last_upaded": "07-11-2024 on 0:30:13 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,6 +15,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCDA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/112315_4608_SSX_SCA_fc-app_fc-web_1730730043357.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/2AaZyTuWSDWeCPf1AYB-Og/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC CWC League 2, 2023-27",
+      "match_id": 111770,
+      "match_name": "United Arab Emirates vs Oman",
+      "team_1": "United Arab Emirates",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UAE@2x.png",
+      "team_2": "Oman",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OMA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111770_3908_UAE_OMN_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/pJMvxquASraXOXMmmZi6eg/master.m3u8"
     },
     {
       "event_catagory": "golf",
