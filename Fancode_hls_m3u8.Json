@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 2,
-  "last_upaded": "08-11-2024 on 7:10:44 PM \ud83c\udf19",
+  "total_mathes": 3,
+  "last_upaded": "08-11-2024 on 7:31:57 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,6 +27,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SBCC@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/112400_4616_SBS_KMW_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/8p_J-QJRRHax9U6BldEYSA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "KCC T20 Challengers A League, 2024-25",
+      "match_id": 112401,
+      "match_name": "Afghan Stars vs Al Mulla Exchange",
+      "team_1": "Afghan Stars",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFS@2x.png",
+      "team_2": "Al Mulla Exchange",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AECX@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112401_4616_AS_AEC_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/M-wD9iY0TSWcuOPadY0Z6g/master.m3u8"
     }
   ]
 }
