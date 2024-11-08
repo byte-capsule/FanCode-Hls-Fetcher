@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 3,
-  "last_upaded": "08-11-2024 on 9:23:15 PM \ud83c\udf19",
+  "last_upaded": "08-11-2024 on 9:40:57 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -30,15 +30,15 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "KCC T20 Challengers A League, 2024-25",
-      "match_id": 112401,
-      "match_name": "Afghan Stars vs Al Mulla Exchange",
-      "team_1": "Afghan Stars",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFS@2x.png",
-      "team_2": "Al Mulla Exchange",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AECX@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112401_4616_AS_AEC_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/M-wD9iY0TSWcuOPadY0Z6g/master.m3u8"
+      "event_name": "Emirates D20, 2024",
+      "match_id": 111692,
+      "match_name": "Fujairah vs Sharjah",
+      "team_1": "Fujairah",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FUJA@2x.png",
+      "team_2": "Sharjah",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHRJ@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111663_4589_FUJ_SHA_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/WwI5RvCwTLaUh5WelJ65Fg/master.m3u8"
     }
   ]
 }
