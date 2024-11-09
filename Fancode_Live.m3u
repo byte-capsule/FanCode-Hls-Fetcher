@@ -1,15 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Mater Dei vs Royal Strikers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_2_1729570461132.jpg" tvg-id="111600" group-title="ECS Malta, 2024",Mater Dei vs Royal Strikers
-https://dai.google.com/linear/hls/event/zK2W6IASQ56x-4AvjWUCng/master.m3u8
-#EXTINF:-1 tvg-name="Netherlands vs United Arab Emirates" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111771_3908_UAE_NED_fc-web.jpg" tvg-id="111771" group-title="ICC CWC League 2, 2023-27",Netherlands vs United Arab Emirates
-https://dai.google.com/linear/hls/event/zNPUHgXxTOy-bZLeAYS9MA/master.m3u8
 #EXTINF:-1 tvg-name="Bangladesh vs Afghanistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-and-Bangladesh-tour-of-UAE,-2024-old-match-card-(1).png" tvg-id="110864" group-title="Afghanistan vs Bangladesh tour in UAE, 2024",Bangladesh vs Afghanistan
 https://dai.google.com/linear/hls/event/SIvHEfALTNysMyixGK24cA/master.m3u8
 #EXTINF:-1 tvg-name="Italy vs Hong Kong, China" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112300_4607_HK_ITA_fc-web.jpg" tvg-id="112300" group-title="ICC CWC Challenge League B, 2024-26",Italy vs Hong Kong, China
 https://dai.google.com/linear/hls/event/nVvksDE8RICiyTIbtBbIOw/master.m3u8
 #EXTINF:-1 tvg-name="Loyola Colts Cricket vs Unique Sports Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Siechem-Inter-District-T20-Tournament-2024_Old_match-card.jpg" tvg-id="113005" group-title="Bijay Kumar Saha Memorial T20",Loyola Colts Cricket vs Unique Sports Club
 https://dai.google.com/linear/hls/event/zVKXPfNqQUe3aKunzwn1WQ/master.m3u8
+#EXTINF:-1 tvg-name="New Zealand vs Sri Lanka" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SL_vs_NZ_2024_Old_match-card.jpg" tvg-id="112291" group-title="New Zealand tour of Sri Lanka, 2024",New Zealand vs Sri Lanka
+https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
 #EXTINF:-1 tvg-name="Cardiff City vs Blackburn Rovers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109833_4352_CAR_BLK_fc-web.jpg" tvg-id="109833" group-title="EFL Championship 2024-25",Cardiff City vs Blackburn Rovers
 https://dai.google.com/linear/hls/event/O1-QQrVAQeCurP48I1ZWjQ/master.m3u8
-#EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship_Old_Match_card_3.jpg" tvg-id="112181" group-title="Abu Dhabi HSBC Championship",Day 3
-https://dai.google.com/linear/hls/event/mu15X5_MTX2CehKEb3_fpg/master.m3u8

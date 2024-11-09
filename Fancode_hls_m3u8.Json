@@ -1,33 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "09-11-2024 on 7:02:27 PM \ud83c\udf19",
+  "total_mathes": 5,
+  "last_upaded": "09-11-2024 on 7:29:03 PM \ud83c\udf19",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECS Malta, 2024",
-      "match_id": 111600,
-      "match_name": "Mater Dei vs Royal Strikers",
-      "team_1": "Mater Dei",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MART@2x.png",
-      "team_2": "Royal Strikers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROYS@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_2_1729570461132.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/zK2W6IASQ56x-4AvjWUCng/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC CWC League 2, 2023-27",
-      "match_id": 111771,
-      "match_name": "Netherlands vs United Arab Emirates",
-      "team_1": "Netherlands",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
-      "team_2": "United Arab Emirates",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UAE@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111771_3908_UAE_NED_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/zNPUHgXxTOy-bZLeAYS9MA/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Afghanistan vs Bangladesh tour in UAE, 2024",
@@ -65,6 +41,18 @@
       "stream_link": "https://dai.google.com/linear/hls/event/zVKXPfNqQUe3aKunzwn1WQ/master.m3u8"
     },
     {
+      "event_catagory": "cricket",
+      "event_name": "New Zealand tour of Sri Lanka, 2024",
+      "match_id": 112291,
+      "match_name": "New Zealand vs Sri Lanka",
+      "team_1": "New Zealand",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
+      "team_2": "Sri Lanka",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/SL_vs_NZ_2024_Old_match-card.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8"
+    },
+    {
       "event_catagory": "football",
       "event_name": "EFL Championship 2024-25",
       "match_id": 109833,
@@ -75,18 +63,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BLKB@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/109833_4352_CAR_BLK_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/O1-QQrVAQeCurP48I1ZWjQ/master.m3u8"
-    },
-    {
-      "event_catagory": "golf",
-      "event_name": "Abu Dhabi HSBC Championship",
-      "match_id": 112181,
-      "match_name": "Day 3",
-      "team_1": "Day 3",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-ADB@2x.png",
-      "team_2": "Yas Links, Abu Dhabi",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship_Old_Match_card_3.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/mu15X5_MTX2CehKEb3_fpg/master.m3u8"
     }
   ]
 }
