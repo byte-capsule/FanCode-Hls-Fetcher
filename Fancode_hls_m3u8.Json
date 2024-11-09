@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 8,
-  "last_upaded": "09-11-2024 on 6:38:57 PM \ud83c\udf19",
+  "total_mathes": 7,
+  "last_upaded": "09-11-2024 on 7:02:27 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -51,18 +51,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HK@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/112300_4607_HK_ITA_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/nVvksDE8RICiyTIbtBbIOw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC CWC Challenge League B, 2024-26",
-      "match_id": 112299,
-      "match_name": "Uganda vs Tanzania",
-      "team_1": "Uganda",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UGN@2x.png",
-      "team_2": "Tanzania",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TNZN@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112299_4607_UGA_TAN_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/9dT4gt7RRBmEUMS5LLxZpA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
