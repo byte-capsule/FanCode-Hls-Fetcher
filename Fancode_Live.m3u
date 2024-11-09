@@ -1,9 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Mavericks Academy vs Rajasthan Royals Academy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112319_4608_RRC_MVA_fc-app_fc-web_1730730837636.jpg" tvg-id="112319" group-title="Ecole T20 Cup, 2024",Mavericks Academy vs Rajasthan Royals Academy
 https://dai.google.com/linear/hls/event/A41MIk3-SliUK7_hQaDrng/master.m3u8
+#EXTINF:-1 tvg-name="Netherlands vs United Arab Emirates" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111771_3908_UAE_NED_fc-web.jpg" tvg-id="111771" group-title="ICC CWC League 2, 2023-27",Netherlands vs United Arab Emirates
+https://dai.google.com/linear/hls/event/zNPUHgXxTOy-bZLeAYS9MA/master.m3u8
 #EXTINF:-1 tvg-name="Shonan Bellmare vs Consadole Sapporo" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shonan-Bellmare-VS-Consadole-Sapporo_fc-web.jpg" tvg-id="112472" group-title="J League 2024",Shonan Bellmare vs Consadole Sapporo
 https://liveauth.fancode.com/primary/112472_english_hls_5254adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Machida Zelvia vs FC Tokyo" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Machida-Zelvia-VS-FC-Tokyo_fc-web.jpg" tvg-id="112471" group-title="J League 2024",Machida Zelvia vs FC Tokyo
 https://liveauth.fancode.com/primary/112471_english_hls_8406adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Melbourne Victory vs Brisbane Roar" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110912_4567_MLV_BRB_fc-web_1728983127505.jpg" tvg-id="110912" group-title="A League 2024-25",Melbourne Victory vs Brisbane Roar
+https://dai.google.com/linear/hls/event/BGzXGEXjQSmno39sJBymMg/master.m3u8
 #EXTINF:-1 tvg-name="Featured Feed - Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship_Old_Match_card_3.jpg" tvg-id="112838" group-title="Abu Dhabi HSBC Championship",Featured Feed - Day 3
 https://dai.google.com/linear/hls/event/_tBYJ2ELTMqq3ecmXNipeA/master.m3u8
+#EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship_Old_Match_card_3.jpg" tvg-id="112181" group-title="Abu Dhabi HSBC Championship",Day 3
+https://dai.google.com/linear/hls/event/mu15X5_MTX2CehKEb3_fpg/master.m3u8

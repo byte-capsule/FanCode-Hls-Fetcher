@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "09-11-2024 on 11:52:57 AM \ud83c\udf1e",
+  "total_mathes": 7,
+  "last_upaded": "09-11-2024 on 0:44:22 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,6 +15,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RRCE@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/112319_4608_RRC_MVA_fc-app_fc-web_1730730837636.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/A41MIk3-SliUK7_hQaDrng/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC CWC League 2, 2023-27",
+      "match_id": 111771,
+      "match_name": "Netherlands vs United Arab Emirates",
+      "team_1": "Netherlands",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
+      "team_2": "United Arab Emirates",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UAE@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111771_3908_UAE_NED_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/zNPUHgXxTOy-bZLeAYS9MA/master.m3u8"
     },
     {
       "event_catagory": "football",
@@ -41,6 +53,18 @@
       "stream_link": "https://liveauth.fancode.com/primary/112471_english_hls_8406adfreeta-no/index.m3u8"
     },
     {
+      "event_catagory": "football",
+      "event_name": "A League 2024-25",
+      "match_id": 110912,
+      "match_name": "Melbourne Victory vs Brisbane Roar",
+      "team_1": "Melbourne Victory",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLVA@2x.png",
+      "team_2": "Brisbane Roar",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BRBI@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110912_4567_MLV_BRB_fc-web_1728983127505.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/BGzXGEXjQSmno39sJBymMg/master.m3u8"
+    },
+    {
       "event_catagory": "golf",
       "event_name": "Abu Dhabi HSBC Championship",
       "match_id": 112838,
@@ -51,6 +75,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship_Old_Match_card_3.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/_tBYJ2ELTMqq3ecmXNipeA/master.m3u8"
+    },
+    {
+      "event_catagory": "golf",
+      "event_name": "Abu Dhabi HSBC Championship",
+      "match_id": 112181,
+      "match_name": "Day 3",
+      "team_1": "Day 3",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-ADB@2x.png",
+      "team_2": "Yas Links, Abu Dhabi",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship_Old_Match_card_3.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/mu15X5_MTX2CehKEb3_fpg/master.m3u8"
     }
   ]
 }
