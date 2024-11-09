@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Trinidad & Tobago Red Force vs Guyana Harpy Eagles" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="112019" group-title="CG United Super50 Cup, 2024",Trinidad & Tobago Red Force vs Guyana Harpy Eagles
+https://dai.google.com/linear/hls/event/qnjTvbujTGyhRal0_SMEKg/master.m3u8
 #EXTINF:-1 tvg-name="Royal Strikers vs Overseas" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_3_1729570461562.jpg" tvg-id="111601" group-title="ECS Malta, 2024",Royal Strikers vs Overseas
 https://dai.google.com/linear/hls/event/qPOUBv_vRFqnWNul-WsLBw/master.m3u8
 #EXTINF:-1 tvg-name="Italy vs Hong Kong, China" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112300_4607_HK_ITA_fc-web.jpg" tvg-id="112300" group-title="ICC CWC Challenge League B, 2024-26",Italy vs Hong Kong, China
