@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Trinidad & Tobago Red Force vs Guyana Harpy Eagles" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="112019" group-title="CG United Super50 Cup, 2024",Trinidad & Tobago Red Force vs Guyana Harpy Eagles
 https://dai.google.com/linear/hls/event/qnjTvbujTGyhRal0_SMEKg/master.m3u8
-#EXTINF:-1 tvg-name="Royal Strikers vs Overseas" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_3_1729570461562.jpg" tvg-id="111601" group-title="ECS Malta, 2024",Royal Strikers vs Overseas
-https://dai.google.com/linear/hls/event/qPOUBv_vRFqnWNul-WsLBw/master.m3u8
 #EXTINF:-1 tvg-name="Loyola Colts Cricket vs Unique Sports Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Siechem-Inter-District-T20-Tournament-2024_Old_match-card.jpg" tvg-id="113005" group-title="Bijay Kumar Saha Memorial T20",Loyola Colts Cricket vs Unique Sports Club
 https://dai.google.com/linear/hls/event/zVKXPfNqQUe3aKunzwn1WQ/master.m3u8
 #EXTINF:-1 tvg-name="Bangladesh vs Afghanistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-and-Bangladesh-tour-of-UAE,-2024-old-match-card-(1).png" tvg-id="110864" group-title="Afghanistan vs Bangladesh tour in UAE, 2024",Bangladesh vs Afghanistan
 https://dai.google.com/linear/hls/event/SIvHEfALTNysMyixGK24cA/master.m3u8
 #EXTINF:-1 tvg-name="New Zealand vs Sri Lanka" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SL_vs_NZ_2024_Old_match-card.jpg" tvg-id="112291" group-title="New Zealand tour of Sri Lanka, 2024",New Zealand vs Sri Lanka
 https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
+#EXTINF:-1 tvg-name="Norwich City vs Bristol City" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109834_4352_NOR_BRI_fc-web.jpg" tvg-id="109834" group-title="EFL Championship 2024-25",Norwich City vs Bristol City
+https://dai.google.com/linear/hls/event/1l7oWLB-TX2jQncKdnE6MA/master.m3u8
