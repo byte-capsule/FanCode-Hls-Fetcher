@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 8,
-  "last_upaded": "09-11-2024 on 4:40:00 PM \ud83c\udf1e",
+  "total_mathes": 7,
+  "last_upaded": "09-11-2024 on 4:53:13 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -75,18 +75,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFG@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-and-Bangladesh-tour-of-UAE,-2024-old-match-card-(1).png",
       "stream_link": "https://dai.google.com/linear/hls/event/SIvHEfALTNysMyixGK24cA/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "A League 2024-25",
-      "match_id": 110914,
-      "match_name": "Adelaide United vs Western United",
-      "team_1": "Adelaide United",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ADLA@2x.png",
-      "team_2": "Western United",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WSTA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110914_4567_ADL_WST_fc-web_1728983128782.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/qO60agb3Sg6RrofNpPgXYQ/master.m3u8"
     },
     {
       "event_catagory": "golf",
