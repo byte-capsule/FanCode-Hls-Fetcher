@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="TCC Bhubneshwar vs U.P Shri Sahayak Cricket Academy" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="113010" group-title="Bijay Kumar Saha Memorial T20",TCC Bhubneshwar vs U.P Shri Sahayak Cricket Academy
+https://dai.google.com/linear/hls/event/qsKbChvLT820RhUmKLrryw/master.m3u8
 #EXTINF:-1 tvg-name="Mavericks Academy vs Recreation Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112321_4608_RCU_MVA_fc-app_fc-web_1730730990012.jpg" tvg-id="112321" group-title="Ecole T20 Cup, 2024",Mavericks Academy vs Recreation Club
 https://dai.google.com/linear/hls/event/4USbdNw5TfS7lkWonaL2Jw/master.m3u8
 #EXTINF:-1 tvg-name="Tokyo Verdy vs Vissel Kobe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tokyo-Verdy-VS-Vissel-Kobe_fc-web.jpg" tvg-id="112470" group-title="J League 2024",Tokyo Verdy vs Vissel Kobe
