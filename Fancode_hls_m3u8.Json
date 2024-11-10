@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "10-11-2024 on 0:57:17 PM \ud83c\udf1e",
+  "total_mathes": 7,
+  "last_upaded": "10-11-2024 on 1:19:42 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -17,6 +17,30 @@
       "stream_link": "https://dai.google.com/linear/hls/event/4USbdNw5TfS7lkWonaL2Jw/master.m3u8"
     },
     {
+      "event_catagory": "cricket",
+      "event_name": "ICC CWC Challenge League B, 2024-26",
+      "match_id": 112302,
+      "match_name": "Singapore vs Bahrain",
+      "team_1": "Singapore",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SING@2x.png",
+      "team_2": "Bahrain",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAH@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112302_4607_BAH_SIN_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/JP30TfsmTRa2IWckpTBldA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC CWC Challenge League B, 2024-26",
+      "match_id": 112301,
+      "match_name": "Uganda vs Hong Kong, China",
+      "team_1": "Uganda",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UGN@2x.png",
+      "team_2": "Hong Kong, China",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HK@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112301_4607_UGA_HK_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/cF-7y4NBRHeOGtKce5B3uw/master.m3u8"
+    },
+    {
       "event_catagory": "football",
       "event_name": "J League 2024",
       "match_id": 112469,
@@ -29,16 +53,16 @@
       "stream_link": "https://liveauth.fancode.com/primary/112469_english_hls_5383adfreeta-no/index.m3u8"
     },
     {
-      "event_catagory": "golf",
-      "event_name": "Abu Dhabi HSBC Championship",
-      "match_id": 112839,
-      "match_name": "Featured Feed - Day 4",
-      "team_1": "Featured Feed - Day 4",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-ADB@2x.png",
-      "team_2": "Yas Links, Abu Dhabi",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship_Old_Match_card_1.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/Dmhx8XgwTWOLX7rGvYoxPg/master.m3u8"
+      "event_catagory": "football",
+      "event_name": "A League 2024-25",
+      "match_id": 110913,
+      "match_name": "Sydney FC vs Macarthur",
+      "team_1": "Sydney FC",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYDA@2x.png",
+      "team_2": "Macarthur",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MACA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110913_4567_SYD_MAC_fc-web_1728983127094.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/4R_LxFv7Tf-r-9Yd3xYI2w/master.m3u8"
     },
     {
       "event_catagory": "golf",
@@ -51,6 +75,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship_Old_Match_card_1.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/g_DEYj_NRwiDEXDRNqxDnA/master.m3u8"
+    },
+    {
+      "event_catagory": "golf",
+      "event_name": "Abu Dhabi HSBC Championship",
+      "match_id": 112839,
+      "match_name": "Featured Feed - Day 4",
+      "team_1": "Featured Feed - Day 4",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-ADB@2x.png",
+      "team_2": "Yas Links, Abu Dhabi",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship_Old_Match_card_1.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/Dmhx8XgwTWOLX7rGvYoxPg/master.m3u8"
     }
   ]
 }
