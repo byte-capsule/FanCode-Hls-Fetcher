@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "10-11-2024 on 11:52:53 AM \ud83c\udf1e",
+  "total_mathes": 6,
+  "last_upaded": "10-11-2024 on 0:28:28 PM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Bijay Kumar Saha Memorial T20",
-      "match_id": 113010,
-      "match_name": "TCC Bhubneshwar vs U.P Shri Sahayak Cricket Academy",
-      "team_1": "TCC Bhubneshwar",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR2@2x.png",
-      "team_2": "U.P Shri Sahayak Cricket Academy",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR4@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/qsKbChvLT820RhUmKLrryw/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Ecole T20 Cup, 2024",
@@ -42,6 +30,18 @@
     },
     {
       "event_catagory": "football",
+      "event_name": "J League 2024",
+      "match_id": 112469,
+      "match_name": "Urawa Red Diamonds vs Sanfrecce Hiroshima",
+      "team_1": "Urawa Red Diamonds",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-URW@2x.png",
+      "team_2": "Sanfrecce Hiroshima",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHI@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Urawa-Red-Diamonds-VS-Sanfrecce-Hiroshima_fc-web.jpg",
+      "stream_link": "https://liveauth.fancode.com/primary/112469_english_hls_5383adfreeta-no/index.m3u8"
+    },
+    {
+      "event_catagory": "football",
       "event_name": "A League 2024-25",
       "match_id": 110915,
       "match_name": "Central Coast Mariners vs Wellington Phoenix",
@@ -63,6 +63,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship_Old_Match_card_1.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/Dmhx8XgwTWOLX7rGvYoxPg/master.m3u8"
+    },
+    {
+      "event_catagory": "golf",
+      "event_name": "Abu Dhabi HSBC Championship",
+      "match_id": 112182,
+      "match_name": "Day 4",
+      "team_1": "Day 4",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-ADB@2x.png",
+      "team_2": "Yas Links, Abu Dhabi",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship_Old_Match_card_1.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/g_DEYj_NRwiDEXDRNqxDnA/master.m3u8"
     }
   ]
 }
