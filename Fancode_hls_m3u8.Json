@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "10-11-2024 on 2:54:25 PM \ud83c\udf1e",
+  "total_mathes": 5,
+  "last_upaded": "10-11-2024 on 3:20:15 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -43,38 +43,14 @@
     {
       "event_catagory": "cricket",
       "event_name": "ECS Malta, 2024",
-      "match_id": 111602,
-      "match_name": "Southern Crusaders vs MMA Titans",
-      "team_1": "Southern Crusaders",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOUTHC@2x.png",
-      "team_2": "MMA Titans",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR14@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_4_1729570461042.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/CQ1UghLVQiSQTTTC7Ip_jA/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "A League 2024-25",
-      "match_id": 110913,
-      "match_name": "Sydney FC vs Macarthur",
-      "team_1": "Sydney FC",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYDA@2x.png",
-      "team_2": "Macarthur",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MACA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110913_4567_SYD_MAC_fc-web_1728983127094.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/4R_LxFv7Tf-r-9Yd3xYI2w/master.m3u8"
-    },
-    {
-      "event_catagory": "racing",
-      "event_name": "DSBK Racing Championship",
-      "match_id": 112849,
-      "match_name": "DSBK",
-      "team_1": "DSBK Superbikes Race 1",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-DS@2x.png",
-      "team_2": "Yas Marina (North Circuit)",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/DSBK-Racing-old-1.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/6ltBxsrRTYuKKVV9VByp5w/master.m3u8"
+      "match_id": 111603,
+      "match_name": "Marsa vs Overseas",
+      "team_1": "Marsa",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MARS@2x.png",
+      "team_2": "Overseas",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/OVR-CR1@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_1_1729570461679.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/HbPnuAWLToG2U8Z2C96y_g/master.m3u8"
     },
     {
       "event_catagory": "golf",
