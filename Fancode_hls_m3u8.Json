@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 8,
-  "last_upaded": "10-11-2024 on 1:38:23 PM \ud83c\udf1e",
+  "total_mathes": 9,
+  "last_upaded": "10-11-2024 on 1:53:11 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -75,6 +75,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MACA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110913_4567_SYD_MAC_fc-web_1728983127094.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/4R_LxFv7Tf-r-9Yd3xYI2w/master.m3u8"
+    },
+    {
+      "event_catagory": "racing",
+      "event_name": "DSBK Racing Championship",
+      "match_id": 112849,
+      "match_name": "DSBK",
+      "team_1": "DSBK Superbikes Race 1",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-DS@2x.png",
+      "team_2": "Yas Marina (North Circuit)",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/DSBK-Racing-old-1.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/6ltBxsrRTYuKKVV9VByp5w/master.m3u8"
     },
     {
       "event_catagory": "golf",

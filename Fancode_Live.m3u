@@ -11,6 +11,8 @@ https://dai.google.com/linear/hls/event/CQ1UghLVQiSQTTTC7Ip_jA/master.m3u8
 https://liveauth.fancode.com/primary/112469_english_hls_5383adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Sydney FC vs Macarthur" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110913_4567_SYD_MAC_fc-web_1728983127094.jpg" tvg-id="110913" group-title="A League 2024-25",Sydney FC vs Macarthur
 https://dai.google.com/linear/hls/event/4R_LxFv7Tf-r-9Yd3xYI2w/master.m3u8
+#EXTINF:-1 tvg-name="DSBK" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DSBK-Racing-old-1.jpg" tvg-id="112849" group-title="DSBK Racing Championship",DSBK
+https://dai.google.com/linear/hls/event/6ltBxsrRTYuKKVV9VByp5w/master.m3u8
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship_Old_Match_card_1.jpg" tvg-id="112182" group-title="Abu Dhabi HSBC Championship",Day 4
 https://dai.google.com/linear/hls/event/g_DEYj_NRwiDEXDRNqxDnA/master.m3u8
 #EXTINF:-1 tvg-name="Featured Feed - Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship_Old_Match_card_1.jpg" tvg-id="112839" group-title="Abu Dhabi HSBC Championship",Featured Feed - Day 4
