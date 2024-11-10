@@ -1,12 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Jamaica Scorpions vs Combined Campuses and Colleges" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112020_4596_JAM_CCC_fc-web.jpg" tvg-id="112020" group-title="CG United Super50 Cup, 2024",Jamaica Scorpions vs Combined Campuses and Colleges
 https://dai.google.com/linear/hls/event/xTfOJ7UXQuabLMolS42tIQ/master.m3u8
-#EXTINF:-1 tvg-name="Mater Dei vs Edex Knights" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_2_1729570461132.jpg" tvg-id="111604" group-title="ECS Malta, 2024",Mater Dei vs Edex Knights
-https://dai.google.com/linear/hls/event/pLl9mw5ZSe2MTRIicJgoOg/master.m3u8
+#EXTINF:-1 tvg-name="Katihar Sporting Club vs Unique Sports Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Siechem-Inter-District-T20-Tournament-2024_Old_match-card_01.jpg" tvg-id="113012" group-title="Bijay Kumar Saha Memorial T20",Katihar Sporting Club vs Unique Sports Club
+https://dai.google.com/linear/hls/event/r-CFb2mQR6aSKL4YjCGjRQ/master.m3u8
 #EXTINF:-1 tvg-name="Singapore vs Bahrain" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112302_4607_BAH_SIN_fc-web.jpg" tvg-id="112302" group-title="ICC CWC Challenge League B, 2024-26",Singapore vs Bahrain
 https://dai.google.com/linear/hls/event/JP30TfsmTRa2IWckpTBldA/master.m3u8
 #EXTINF:-1 tvg-name="Uganda vs Hong Kong, China" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112301_4607_UGA_HK_fc-web.jpg" tvg-id="112301" group-title="ICC CWC Challenge League B, 2024-26",Uganda vs Hong Kong, China
 https://dai.google.com/linear/hls/event/cF-7y4NBRHeOGtKce5B3uw/master.m3u8
+#EXTINF:-1 tvg-name="Sri Lanka vs New Zealand" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SL_vs_NZ_2024_Old_match-card.jpg" tvg-id="112292" group-title="New Zealand tour of Sri Lanka, 2024",Sri Lanka vs New Zealand
+https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
 #EXTINF:-1 tvg-name="Sheffield United vs Sheffield Wednesday" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109835_4352_SHF_SHFF_fc-web.jpg" tvg-id="109835" group-title="EFL Championship 2024-25",Sheffield United vs Sheffield Wednesday
 https://dai.google.com/linear/hls/event/JTAUgc3YT_C7kbIKV2wnSw/master.m3u8
 #EXTINF:-1 tvg-name="DSBK" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DSBK-Racing-old-1.jpg" tvg-id="112850" group-title="DSBK Racing Championship",DSBK
