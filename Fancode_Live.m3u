@@ -1,12 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Mavericks Academy vs Recreation Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112321_4608_RCU_MVA_fc-app_fc-web_1730730990012.jpg" tvg-id="112321" group-title="Ecole T20 Cup, 2024",Mavericks Academy vs Recreation Club
 https://dai.google.com/linear/hls/event/4USbdNw5TfS7lkWonaL2Jw/master.m3u8
-#EXTINF:-1 tvg-name="Tokyo Verdy vs Vissel Kobe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tokyo-Verdy-VS-Vissel-Kobe_fc-web.jpg" tvg-id="112470" group-title="J League 2024",Tokyo Verdy vs Vissel Kobe
-https://liveauth.fancode.com/primary/112470_english_hls_8135adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Urawa Red Diamonds vs Sanfrecce Hiroshima" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Urawa-Red-Diamonds-VS-Sanfrecce-Hiroshima_fc-web.jpg" tvg-id="112469" group-title="J League 2024",Urawa Red Diamonds vs Sanfrecce Hiroshima
 https://liveauth.fancode.com/primary/112469_english_hls_5383adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Central Coast Mariners vs Wellington Phoenix" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110915_4567_CCM_WEL_fc-web_1728983127905.jpg" tvg-id="110915" group-title="A League 2024-25",Central Coast Mariners vs Wellington Phoenix
-https://dai.google.com/linear/hls/event/kCcc7UUwSjmKlvegd8ts7g/master.m3u8
 #EXTINF:-1 tvg-name="Featured Feed - Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship_Old_Match_card_1.jpg" tvg-id="112839" group-title="Abu Dhabi HSBC Championship",Featured Feed - Day 4
 https://dai.google.com/linear/hls/event/Dmhx8XgwTWOLX7rGvYoxPg/master.m3u8
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship_Old_Match_card_1.jpg" tvg-id="112182" group-title="Abu Dhabi HSBC Championship",Day 4
