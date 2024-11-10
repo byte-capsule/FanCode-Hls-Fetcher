@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="SDCA vs Ashtapailu Sports" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112322_4608_SCA_APS_fc-app_fc-web_1730731027674.jpg" tvg-id="112322" group-title="Ecole T20 Cup, 2024",SDCA vs Ashtapailu Sports
 https://dai.google.com/linear/hls/event/3RHhXnYUTsm0QwNKMMSs6g/master.m3u8
-#EXTINF:-1 tvg-name="Marsa vs Overseas" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_1_1729570461679.jpg" tvg-id="111603" group-title="ECS Malta, 2024",Marsa vs Overseas
-https://dai.google.com/linear/hls/event/HbPnuAWLToG2U8Z2C96y_g/master.m3u8
 #EXTINF:-1 tvg-name="Singapore vs Bahrain" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112302_4607_BAH_SIN_fc-web.jpg" tvg-id="112302" group-title="ICC CWC Challenge League B, 2024-26",Singapore vs Bahrain
 https://dai.google.com/linear/hls/event/JP30TfsmTRa2IWckpTBldA/master.m3u8
 #EXTINF:-1 tvg-name="Uganda vs Hong Kong, China" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112301_4607_UGA_HK_fc-web.jpg" tvg-id="112301" group-title="ICC CWC Challenge League B, 2024-26",Uganda vs Hong Kong, China

@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "10-11-2024 on 4:53:12 PM \ud83c\udf1e",
+  "total_mathes": 5,
+  "last_upaded": "10-11-2024 on 5:16:30 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,18 +15,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-APC@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/112322_4608_SCA_APS_fc-app_fc-web_1730731027674.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/3RHhXnYUTsm0QwNKMMSs6g/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECS Malta, 2024",
-      "match_id": 111603,
-      "match_name": "Marsa vs Overseas",
-      "team_1": "Marsa",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MARS@2x.png",
-      "team_2": "Overseas",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/OVR-CR1@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_1_1729570461679.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/HbPnuAWLToG2U8Z2C96y_g/master.m3u8"
     },
     {
       "event_catagory": "cricket",
