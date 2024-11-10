@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 8,
-  "last_upaded": "10-11-2024 on 8:18:18 PM \ud83c\udf19",
+  "total_mathes": 4,
+  "last_upaded": "10-11-2024 on 8:38:35 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -51,54 +51,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/SL_vs_NZ_2024_Old_match-card.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC CWC Challenge League B, 2024-26",
-      "match_id": 112302,
-      "match_name": "Singapore vs Bahrain",
-      "team_1": "Singapore",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SING@2x.png",
-      "team_2": "Bahrain",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAH@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112302_4607_BAH_SIN_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/JP30TfsmTRa2IWckpTBldA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC CWC Challenge League B, 2024-26",
-      "match_id": 112301,
-      "match_name": "Uganda vs Hong Kong, China",
-      "team_1": "Uganda",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UGN@2x.png",
-      "team_2": "Hong Kong, China",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HK@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112301_4607_UGA_HK_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/cF-7y4NBRHeOGtKce5B3uw/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "EFL Championship 2024-25",
-      "match_id": 109835,
-      "match_name": "Sheffield United vs Sheffield Wednesday",
-      "team_1": "Sheffield United",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHFU@2x.png",
-      "team_2": "Sheffield Wednesday",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHFW@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/109835_4352_SHF_SHFF_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/JTAUgc3YT_C7kbIKV2wnSw/master.m3u8"
-    },
-    {
-      "event_catagory": "racing",
-      "event_name": "DSBK Racing Championship",
-      "match_id": 112850,
-      "match_name": "DSBK",
-      "team_1": "DSBK Superbikes Race 2",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-DS@2x.png",
-      "team_2": "Yas Marina (North Circuit)",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/DSBK-Racing-old-1.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/OU3rpxndQ5GfeGltHgP3oA/master.m3u8"
     }
   ]
 }
