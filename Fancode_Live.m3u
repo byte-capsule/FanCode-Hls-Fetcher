@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Rajasthan Royals Academy vs SDCA" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112324_4608_RRC_SCA_fc-app_fc-web_1730731117057.jpg" tvg-id="112324" group-title="Ecole T20 Cup, 2024",Rajasthan Royals Academy vs SDCA
 https://dai.google.com/linear/hls/event/8cZhcmPsRTSr5CLTjlFCTA/master.m3u8
+#EXTINF:-1 tvg-name="Royal Strikers vs Bugibba Blasters" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_2_1729570461132.jpg" tvg-id="111608" group-title="ECS Malta, 2024",Royal Strikers vs Bugibba Blasters
+https://dai.google.com/linear/hls/event/nlLiMz8SSNG4Lmm38RqtlA/master.m3u8
 #EXTINF:-1 tvg-name="Oman vs Netherlands" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111772_3908_OMN_NED_fc-web.jpg" tvg-id="111772" group-title="ICC CWC League 2, 2023-27",Oman vs Netherlands
 https://dai.google.com/linear/hls/event/vt-rAmbEQhO6CYfvd-V7sA/master.m3u8
 #EXTINF:-1 tvg-name="Bangladesh vs Afghanistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-and-Bangladesh-tour-of-UAE,-2024-old-match-card-(1).png" tvg-id="110865" group-title="Afghanistan vs Bangladesh tour in UAE, 2024",Bangladesh vs Afghanistan
