@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "11-11-2024 on 4:56:02 PM \ud83c\udf1e",
+  "total_mathes": 3,
+  "last_upaded": "11-11-2024 on 5:19:49 PM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Bijay Kumar Saha Memorial T20",
-      "match_id": 113013,
-      "match_name": "Sporting Union Calcutta vs Sabuj Sangha Bhabanipur",
-      "team_1": "Sporting Union Calcutta",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR7@2x.png",
-      "team_2": "Sabuj Sangha Bhabanipur",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR8@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Siechem-Inter-District-T20-Tournament-2024_Old_match-card_1731135450010.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/85y33rx8QdeiO8LW0RMkLA/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Ecole T20 Cup, 2024",
@@ -27,18 +15,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCDA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/112324_4608_RRC_SCA_fc-app_fc-web_1730731117057.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/8cZhcmPsRTSr5CLTjlFCTA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECS Malta, 2024",
-      "match_id": 111607,
-      "match_name": "Msida Warriors vs American University of Malta",
-      "team_1": "Msida Warriors",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MSD@2x.png",
-      "team_2": "American University of Malta",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUM@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_1_1729570461679.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/E9zNWro0R161A7fP4vKhPg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
