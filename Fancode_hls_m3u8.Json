@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "12-11-2024 on 4:23:32 PM \ud83c\udf1e",
+  "total_mathes": 4,
+  "last_upaded": "12-11-2024 on 4:42:46 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,18 +15,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RCU@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/112326_4608_RRC_RCU_fc-app_fc-web_1730731292281.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/k2ZIRl9ZQkeS18yE8HE2oQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECS Malta, 2024",
-      "match_id": 111611,
-      "match_name": "Bugibba Blasters vs MMA Titans",
-      "team_1": "Bugibba Blasters",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BUGB@2x.png",
-      "team_2": "MMA Titans",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR14@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_1_1729570461679.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/wg8Rj7buRkG0u8MSyGKchg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
