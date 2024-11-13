@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "13-11-2024 on 10:26:55 PM \ud83c\udf19",
+  "total_mathes": 4,
+  "last_upaded": "13-11-2024 on 10:46:46 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -39,6 +39,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/SL_vs_NZ_2024_Old_match-card_1731309004021.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8"
+    },
+    {
+      "event_catagory": "basketball",
+      "event_name": "EuroLeague 2024-25",
+      "match_id": 111749,
+      "match_name": "Partizan NIS Belgrade vs Barcelona",
+      "team_1": "Partizan NIS Belgrade",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-PARTZ@2x.png",
+      "team_2": "Barcelona",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-FCBR@2x.png",
+      "banner": "https://www.fancode.com/aig/match/v1/111749_CASACARDS_APP.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/bqoCrey1Qhi2A333nudxnA/master.m3u8"
     }
   ]
 }
