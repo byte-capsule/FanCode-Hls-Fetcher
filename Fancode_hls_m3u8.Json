@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "13-11-2024 on 2:46:37 PM \ud83c\udf1e",
+  "total_mathes": 4,
+  "last_upaded": "13-11-2024 on 3:23:01 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -31,14 +31,26 @@
     {
       "event_catagory": "cricket",
       "event_name": "ECS Malta, 2024",
-      "match_id": 111614,
-      "match_name": "Overseas vs American University of Malta",
-      "team_1": "Overseas",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/OVR-CR1@2x.png",
+      "match_id": 111615,
+      "match_name": "Marsa vs American University of Malta",
+      "team_1": "Marsa",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MARS@2x.png",
       "team_2": "American University of Malta",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUM@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_4_1729570461042.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/uLiSoPVYS7ijAAlx4Xpc4A/master.m3u8"
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_1_1729570461679.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/BUzs3cqESu6F9c2zxOif6Q/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "New Zealand tour of Sri Lanka, 2024",
+      "match_id": 112293,
+      "match_name": "Sri Lanka vs New Zealand",
+      "team_1": "Sri Lanka",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+      "team_2": "New Zealand",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/SL_vs_NZ_2024_Old_match-card_1731309004021.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8"
     }
   ]
 }
