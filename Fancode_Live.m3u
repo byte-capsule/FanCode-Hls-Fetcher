@@ -1,7 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="TCC Bhubneshwar vs Katihar Sporting Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Siechem-Inter-District-T20-Tournament-2024_Old_match-card_01.jpg" tvg-id="113017" group-title="Bijay Kumar Saha Memorial T20",TCC Bhubneshwar vs Katihar Sporting Club
+https://dai.google.com/linear/hls/event/UjKl1p9zSDy-BmzomtHJWQ/master.m3u8
 #EXTINF:-1 tvg-name="Uganda vs Italy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112306_4607_UGA_ITA_fc-web.jpg" tvg-id="112306" group-title="ICC CWC Challenge League B, 2024-26",Uganda vs Italy
 https://dai.google.com/linear/hls/event/TuRHCpKrQO6F_h2LcLIORw/master.m3u8
 #EXTINF:-1 tvg-name="Mavericks Academy vs Solapur Stars XI" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112328_4608_SSX_MVA_fc-app_fc-web_1730731418051.jpg" tvg-id="112328" group-title="Ecole T20 Cup, 2024",Mavericks Academy vs Solapur Stars XI
 https://dai.google.com/linear/hls/event/P_M13SHBSXa0cT4_O3Ybkg/master.m3u8
+#EXTINF:-1 tvg-name="Red Stars vs Overseas" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_2_1729570461132.jpg" tvg-id="111616" group-title="ECS Malta, 2024",Red Stars vs Overseas
+https://dai.google.com/linear/hls/event/EpIJ98YVQJGq_e7Ei9OLgQ/master.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka vs New Zealand" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SL_vs_NZ_2024_Old_match-card_1731309004021.jpg" tvg-id="112293" group-title="New Zealand tour of Sri Lanka, 2024",Sri Lanka vs New Zealand
 https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
