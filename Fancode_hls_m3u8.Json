@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "14-11-2024 on 5:53:12 PM \ud83c\udf1e",
+  "total_mathes": 4,
+  "last_upaded": "14-11-2024 on 6:45:33 PM \ud83c\udf19",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Ecole T20 Cup, 2024",
-      "match_id": 112330,
-      "match_name": "SDCA vs Ashtapailu Sports",
-      "team_1": "SDCA",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCDA@2x.png",
-      "team_2": "Ashtapailu Sports",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-APC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112330_4608_SCA_APS_fc-app_fc-web_1730731504870.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/d-Kcybu-T_GJnGVKnGy7zQ/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "ECS Malta, 2024",
@@ -27,6 +15,30 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/EDK-CR1@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_2_1729570461132.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/aT09XX9YR5mOjYRLG4E0fA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Emirates D50, 2024",
+      "match_id": 113023,
+      "match_name": "Fujairah vs Abu Dhabi",
+      "team_1": "Fujairah",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FUJA@2x.png",
+      "team_2": "Abu Dhabi",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ABUD@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113023_4635_ABD_FUJ_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/U_WOI071TIOBOe8tZLCkLQ/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "FIFA World Cup Asian Qualifiers",
+      "match_id": 112894,
+      "match_name": "DPR Korea vs IR Iran",
+      "team_1": "DPR Korea",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NK@2x.png",
+      "team_2": "IR Iran",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-IRN@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Corea-vs-Iran_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/XtYCJpKxRA6iwmvJbqj7AQ/master.m3u8"
     },
     {
       "event_catagory": "golf",
