@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "14-11-2024 on 11:54:34 PM \ud83c\udf19",
+  "total_mathes": 2,
+  "last_upaded": "15-11-2024 on 00:31:13 AM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,54 +27,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR2@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
       "stream_link": "https://dai.google.com/linear/hls/event/3WBxkySIT5Cklf4r8JrBvA/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "FIFA World Cup Asian Qualifiers",
-      "match_id": 112918,
-      "match_name": "Oman vs Palestine",
-      "team_1": "Oman",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/OMN-FT1@2x.png",
-      "team_2": "Palestine",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/PAL-FT1@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/112918_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/1kmiCxd7QveHiqK8rHWxdQ/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "FIFA World Cup Asian Qualifiers",
-      "match_id": 112895,
-      "match_name": "Qatar vs Uzbekistan",
-      "team_1": "Qatar",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-QAT@2x.png",
-      "team_2": "Uzbekistan",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-UB@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/112895_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/j-88OZbTQSiHramv5-M1-A/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "FIFA World Cup Asian Qualifiers",
-      "match_id": 112893,
-      "match_name": "United Arab Emirates vs Kyrgyz Republic",
-      "team_1": "United Arab Emirates",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-UAE@2x.png",
-      "team_2": "Kyrgyz Republic",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/KYG-FT1@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/112893_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/ISltxGWpScSJxvhPuJuL1A/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "FIFA World Cup Asian Qualifiers",
-      "match_id": 112919,
-      "match_name": "Iraq vs Jordan",
-      "team_1": "Iraq",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/IRQ-FT1@2x.png",
-      "team_2": "Jordan",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/JOR-FT1@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/112919_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/jOTldsWTQxGb0cvlvlaZvA/master.m3u8"
     }
   ]
 }
