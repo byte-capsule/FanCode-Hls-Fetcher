@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="A & S Cricket Academy Kolkata vs TCC Bhubneshwar" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="113019" group-title="Bijay Kumar Saha Memorial T20",A & S Cricket Academy Kolkata vs TCC Bhubneshwar
 https://dai.google.com/linear/hls/event/3WBxkySIT5Cklf4r8JrBvA/master.m3u8
-#EXTINF:-1 tvg-name="Royal Strikers vs Southern Crusaders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_3_1729570461562.jpg" tvg-id="111621" group-title="ECS Malta, 2024",Royal Strikers vs Southern Crusaders
-https://dai.google.com/linear/hls/event/jSahBr--Q9i3WpAMF6HKEA/master.m3u8
 #EXTINF:-1 tvg-name="Fujairah vs Abu Dhabi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113023_4635_ABD_FUJ_fc-web.jpg" tvg-id="113023" group-title="Emirates D50, 2024",Fujairah vs Abu Dhabi
 https://dai.google.com/linear/hls/event/U_WOI071TIOBOe8tZLCkLQ/master.m3u8
 #EXTINF:-1 tvg-name="Kuwait vs Korea Republic" tvg-logo="https://www.fancode.com/aig/match/v1/112896_CASACARDS_APP.png" tvg-id="112896" group-title="FIFA World Cup Asian Qualifiers",Kuwait vs Korea Republic
