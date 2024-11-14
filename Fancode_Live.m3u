@@ -5,5 +5,7 @@ https://dai.google.com/linear/hls/event/3WBxkySIT5Cklf4r8JrBvA/master.m3u8
 https://dai.google.com/linear/hls/event/jSahBr--Q9i3WpAMF6HKEA/master.m3u8
 #EXTINF:-1 tvg-name="Fujairah vs Abu Dhabi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113023_4635_ABD_FUJ_fc-web.jpg" tvg-id="113023" group-title="Emirates D50, 2024",Fujairah vs Abu Dhabi
 https://dai.google.com/linear/hls/event/U_WOI071TIOBOe8tZLCkLQ/master.m3u8
-#EXTINF:-1 tvg-name="DPR Korea vs IR Iran" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Corea-vs-Iran_fc-web.jpg" tvg-id="112894" group-title="FIFA World Cup Asian Qualifiers",DPR Korea vs IR Iran
-https://dai.google.com/linear/hls/event/XtYCJpKxRA6iwmvJbqj7AQ/master.m3u8
+#EXTINF:-1 tvg-name="Kuwait vs Korea Republic" tvg-logo="https://www.fancode.com/aig/match/v1/112896_CASACARDS_APP.png" tvg-id="112896" group-title="FIFA World Cup Asian Qualifiers",Kuwait vs Korea Republic
+https://dai.google.com/linear/hls/event/ToB3MWXaRC2yAKdU44sLBg/master.m3u8
+#EXTINF:-1 tvg-name="Bahrain vs China PR" tvg-logo="https://www.fancode.com/aig/match/v1/112921_CASACARDS_APP.png" tvg-id="112921" group-title="FIFA World Cup Asian Qualifiers",Bahrain vs China PR
+https://dai.google.com/linear/hls/event/x6Fsp9O5TjOjHmf7K5kxLw/master.m3u8
