@@ -1,9 +1,15 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Afghan Tigers vs Ai Octopus Challengers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112407_4616_AGT_SZN_fc-web_1731569489424.jpg" tvg-id="112407" group-title="KCC T20 Challengers A League, 2024-25",Afghan Tigers vs Ai Octopus Challengers
+https://dai.google.com/linear/hls/event/83HOELlgRbyRTWgyPXuhug/master.m3u8
 #EXTINF:-1 tvg-name="A & S Cricket Academy Kolkata vs TCC Bhubneshwar" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="113019" group-title="Bijay Kumar Saha Memorial T20",A & S Cricket Academy Kolkata vs TCC Bhubneshwar
 https://dai.google.com/linear/hls/event/3WBxkySIT5Cklf4r8JrBvA/master.m3u8
 #EXTINF:-1 tvg-name="Fujairah vs Abu Dhabi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113023_4635_ABD_FUJ_fc-web.jpg" tvg-id="113023" group-title="Emirates D50, 2024",Fujairah vs Abu Dhabi
 https://dai.google.com/linear/hls/event/U_WOI071TIOBOe8tZLCkLQ/master.m3u8
-#EXTINF:-1 tvg-name="Kuwait vs Korea Republic" tvg-logo="https://www.fancode.com/aig/match/v1/112896_CASACARDS_APP.png" tvg-id="112896" group-title="FIFA World Cup Asian Qualifiers",Kuwait vs Korea Republic
-https://dai.google.com/linear/hls/event/ToB3MWXaRC2yAKdU44sLBg/master.m3u8
-#EXTINF:-1 tvg-name="Bahrain vs China PR" tvg-logo="https://www.fancode.com/aig/match/v1/112921_CASACARDS_APP.png" tvg-id="112921" group-title="FIFA World Cup Asian Qualifiers",Bahrain vs China PR
-https://dai.google.com/linear/hls/event/x6Fsp9O5TjOjHmf7K5kxLw/master.m3u8
+#EXTINF:-1 tvg-name="Oman vs Palestine" tvg-logo="https://www.fancode.com/aig/match/v1/112918_CASACARDS_APP.png" tvg-id="112918" group-title="FIFA World Cup Asian Qualifiers",Oman vs Palestine
+https://dai.google.com/linear/hls/event/1kmiCxd7QveHiqK8rHWxdQ/master.m3u8
+#EXTINF:-1 tvg-name="Qatar vs Uzbekistan" tvg-logo="https://www.fancode.com/aig/match/v1/112895_CASACARDS_APP.png" tvg-id="112895" group-title="FIFA World Cup Asian Qualifiers",Qatar vs Uzbekistan
+https://dai.google.com/linear/hls/event/j-88OZbTQSiHramv5-M1-A/master.m3u8
+#EXTINF:-1 tvg-name="United Arab Emirates vs Kyrgyz Republic" tvg-logo="https://www.fancode.com/aig/match/v1/112893_CASACARDS_APP.png" tvg-id="112893" group-title="FIFA World Cup Asian Qualifiers",United Arab Emirates vs Kyrgyz Republic
+https://dai.google.com/linear/hls/event/ISltxGWpScSJxvhPuJuL1A/master.m3u8
+#EXTINF:-1 tvg-name="Iraq vs Jordan" tvg-logo="https://www.fancode.com/aig/match/v1/112919_CASACARDS_APP.png" tvg-id="112919" group-title="FIFA World Cup Asian Qualifiers",Iraq vs Jordan
+https://dai.google.com/linear/hls/event/jOTldsWTQxGb0cvlvlaZvA/master.m3u8
