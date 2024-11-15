@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="SDCA vs Rajasthan Royals Academy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112332_4608_RRC_SCA_fc-app_fc-web_1730731791062.jpg" tvg-id="112332" group-title="Ecole T20 Cup, 2024",SDCA vs Rajasthan Royals Academy
 https://dai.google.com/linear/hls/event/UK9ObWPORoewZ_6V3aqJ4w/master.m3u8
-#EXTINF:-1 tvg-name="Green Windhoek Jets vs Naankuse Lions" tvg-logo="https://www.fancode.com/aig/match/v1/112800_CASACARDS_APP.png" tvg-id="112800" group-title="Castle Lite T20, 2024",Green Windhoek Jets vs Naankuse Lions
-https://dai.google.com/linear/hls/event/56Q13pH5Q3Otz-F3PIoyeQ/master.m3u8
 #EXTINF:-1 tvg-name="Gozo Zalmi vs Royal Strikers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_1_1729570461679.jpg" tvg-id="111623" group-title="ECS Malta, 2024",Gozo Zalmi vs Royal Strikers
 https://dai.google.com/linear/hls/event/x1l5zgpGT8-pjLlZwSQD2A/master.m3u8
+#EXTINF:-1 tvg-name="Green Windhoek Jets vs Naankuse Lions" tvg-logo="https://www.fancode.com/aig/match/v1/112800_CASACARDS_APP.png" tvg-id="112800" group-title="Castle Lite T20, 2024",Green Windhoek Jets vs Naankuse Lions
+https://dai.google.com/linear/hls/event/56Q13pH5Q3Otz-F3PIoyeQ/master.m3u8
 #EXTINF:-1 tvg-name="Hong Kong, China vs Singapore" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112308_4607_SIN_HK_fc-web.jpg" tvg-id="112308" group-title="ICC CWC Challenge League B, 2024-26",Hong Kong, China vs Singapore
 https://dai.google.com/linear/hls/event/ajHPBAVnRkKAX3RhbqYqKQ/master.m3u8
 #EXTINF:-1 tvg-name="Bahrain vs Tanzania" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112307_4607_BAH_TAN_fc-web.jpg" tvg-id="112307" group-title="ICC CWC Challenge League B, 2024-26",Bahrain vs Tanzania
