@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="SDCA vs Rajasthan Royals Academy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112332_4608_RRC_SCA_fc-app_fc-web_1730731791062.jpg" tvg-id="112332" group-title="Ecole T20 Cup, 2024",SDCA vs Rajasthan Royals Academy
 https://dai.google.com/linear/hls/event/UK9ObWPORoewZ_6V3aqJ4w/master.m3u8
+#EXTINF:-1 tvg-name="CECC vs Kuwait Emerging Stars" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_01_1730875783702.jpg" tvg-id="112568" group-title="KCC T20 Elite Championship 2nd Edition, 2024",CECC vs Kuwait Emerging Stars
+https://dai.google.com/linear/hls/event/1i76CWo8T8C2jwHMhlZBCA/master.m3u8
 #EXTINF:-1 tvg-name="Hong Kong, China vs Singapore" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112308_4607_SIN_HK_fc-web.jpg" tvg-id="112308" group-title="ICC CWC Challenge League B, 2024-26",Hong Kong, China vs Singapore
 https://dai.google.com/linear/hls/event/ajHPBAVnRkKAX3RhbqYqKQ/master.m3u8
 #EXTINF:-1 tvg-name="Bahrain vs Tanzania" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112307_4607_BAH_TAN_fc-web.jpg" tvg-id="112307" group-title="ICC CWC Challenge League B, 2024-26",Bahrain vs Tanzania
 https://dai.google.com/linear/hls/event/_ui4fYBNQ9GsuXRrzt8qyQ/master.m3u8
-#EXTINF:-1 tvg-name="CECC vs Kuwait Emerging Stars" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_01_1730875783702.jpg" tvg-id="112568" group-title="KCC T20 Elite Championship 2nd Edition, 2024",CECC vs Kuwait Emerging Stars
-https://dai.google.com/linear/hls/event/1i76CWo8T8C2jwHMhlZBCA/master.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DP-world-tour-championship-old.png" tvg-id="113042" group-title="DP World Tour Championship",Day 2
 https://dai.google.com/linear/hls/event/wPbMWwGOR--oCd2Pv4qOUQ/master.m3u8
