@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 2,
-  "last_upaded": "15-11-2024 on 0:34:47 PM \ud83c\udf1e",
+  "total_mathes": 3,
+  "last_upaded": "15-11-2024 on 0:55:16 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,6 +27,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RCU@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/112331_4608_RCU_MVA_fc-app_fc-web_1730731547576.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/hexqmcldSx6u-ZYvBy_yCQ/master.m3u8"
+    },
+    {
+      "event_catagory": "golf",
+      "event_name": "DP World Tour Championship",
+      "match_id": 113042,
+      "match_name": "Day 2",
+      "team_1": "Day 2",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-DP@2x.png",
+      "team_2": "Jumeirah Golf Estates, Dubai",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/DP-world-tour-championship-old.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/wPbMWwGOR--oCd2Pv4qOUQ/master.m3u8"
     }
   ]
 }
