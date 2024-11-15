@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "15-11-2024 on 9:25:00 PM \ud83c\udf19",
+  "total_mathes": 2,
+  "last_upaded": "15-11-2024 on 9:41:48 PM \ud83c\udf19",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Castle Lite T20, 2024",
-      "match_id": 112801,
-      "match_name": "Fish River Eagles vs Etosha Wildcats",
-      "team_1": "Fish River Eagles",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FRE@2x.png",
-      "team_2": "Etosha Wildcats",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ETW@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112801_4626_FRE_ETW_fc-web_1731668240247.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/2aFPBzCMQZez4IpCFCKcdw/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Emirates D50, 2024",
