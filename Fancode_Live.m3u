@@ -1,9 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Fujairah vs Sharjah" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113027_4635_FUJ_SHA_fc-web.jpg" tvg-id="113027" group-title="Emirates D50, 2024",Fujairah vs Sharjah
 https://dai.google.com/linear/hls/event/wQpTU1wxTnm-ai0WgZZ2Lg/master.m3u8
-#EXTINF:-1 tvg-name="Trinidad & Tobago Red Force vs Barbados Pride" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="112025" group-title="CG United Super50 Cup, 2024",Trinidad & Tobago Red Force vs Barbados Pride
+#EXTINF:-1 tvg-name="Barbados Pride vs Trinidad & Tobago Red Force" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="112025" group-title="CG United Super50 Cup, 2024",Barbados Pride vs Trinidad & Tobago Red Force
 https://dai.google.com/linear/hls/event/Oi039t4fQTaSywA0d_LHSQ/master.m3u8
 #EXTINF:-1 tvg-name="Southern Crusaders vs Gzira United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_3_1729570461562.jpg" tvg-id="111629" group-title="ECS Malta, 2024",Southern Crusaders vs Gzira United
 https://dai.google.com/linear/hls/event/rKi2VkIoSxW3OHul0t0AhA/master.m3u8
-#EXTINF:-1 tvg-name="Green Windhoek Jets vs Fish River Eagles" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112803_4626_GWJ_FRE_fc-web_1731668240237.jpg" tvg-id="112803" group-title="Castle Lite T20, 2024",Green Windhoek Jets vs Fish River Eagles
-https://dai.google.com/linear/hls/event/L7JUt2RHTwSHfZQ7ZDMO1Q/master.m3u8
