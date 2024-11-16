@@ -1,5 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Recreation Club vs Solapur Stars XI" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112333_4608_SSX_RCU_fc-app_fc-web_1730731838875.jpg" tvg-id="112333" group-title="Ecole T20 Cup, 2024",Recreation Club vs Solapur Stars XI
 https://dai.google.com/linear/hls/event/a8O5XDZMS2uSzjO1AQXWXw/master.m3u8
+#EXTINF:-1 tvg-name="Uganda vs Bahrain" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112310_4607_UGA_BAH_fc-web.jpg" tvg-id="112310" group-title="ICC CWC Challenge League B, 2024-26",Uganda vs Bahrain
+https://dai.google.com/linear/hls/event/MV9Vz9dDTz6mEeZ73EQLqA/master.m3u8
+#EXTINF:-1 tvg-name="Singapore vs Italy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112309_4607_SIN_ITA_fc-web.jpg" tvg-id="112309" group-title="ICC CWC Challenge League B, 2024-26",Singapore vs Italy
+https://dai.google.com/linear/hls/event/tJuCR0hIQUC4FnjOGaiaTA/master.m3u8
+#EXTINF:-1 tvg-name="Etosha Wildcats vs Naankuse Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112802_4626_NL_ETW_fc-web_1731668240259.jpg" tvg-id="112802" group-title="Castle Lite T20, 2024",Etosha Wildcats vs Naankuse Lions
+https://dai.google.com/linear/hls/event/OIgI2_WLTf21XYcGoFr1eQ/master.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DP-world-tour-championship-old.png" tvg-id="113043" group-title="DP World Tour Championship",Day 3
 https://dai.google.com/linear/hls/event/Qhs8O7waTzG2U5H12OmPkw/master.m3u8
