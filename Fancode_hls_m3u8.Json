@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "16-11-2024 on 4:22:15 PM \ud83c\udf1e",
+  "total_mathes": 5,
+  "last_upaded": "16-11-2024 on 4:42:00 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -30,18 +30,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Castle Lite T20, 2024",
-      "match_id": 112802,
-      "match_name": "Etosha Wildcats vs Naankuse Lions",
-      "team_1": "Etosha Wildcats",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ETW@2x.png",
-      "team_2": "Naankuse Lions",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NDL@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112802_4626_NL_ETW_fc-web_1731668240259.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/OIgI2_WLTf21XYcGoFr1eQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "ICC CWC Challenge League B, 2024-26",
       "match_id": 112310,
       "match_name": "Uganda vs Bahrain",
@@ -51,18 +39,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAH@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/112310_4607_UGA_BAH_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/MV9Vz9dDTz6mEeZ73EQLqA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC CWC Challenge League B, 2024-26",
-      "match_id": 112309,
-      "match_name": "Singapore vs Italy",
-      "team_1": "Singapore",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SING@2x.png",
-      "team_2": "Italy",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ITA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112309_4607_SIN_ITA_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/tJuCR0hIQUC4FnjOGaiaTA/master.m3u8"
     },
     {
       "event_catagory": "racing",
