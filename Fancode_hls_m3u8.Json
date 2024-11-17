@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "17-11-2024 on 10:57:12 PM \ud83c\udf19",
+  "total_mathes": 4,
+  "last_upaded": "17-11-2024 on 11:21:21 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,6 +15,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EMDB@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/113028_4635_ABD_DUB_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/ce8RKYQ6RxWXQEah2-2K6g/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "KCC T20 Challengers A League, 2024-25",
+      "match_id": 112411,
+      "match_name": "Marafie Bengal Tigers vs Phoenix Riders",
+      "team_1": "Marafie Bengal Tigers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MBT@2x.png",
+      "team_2": "Phoenix Riders",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PHR@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112411_4616_MBT_PHR_fc-web_1731569489813.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/CUF2Q--cRFqxompdzzMHdA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
