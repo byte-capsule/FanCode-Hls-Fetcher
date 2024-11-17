@@ -2,8 +2,20 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 5,
-  "last_upaded": "17-11-2024 on 5:18:44 PM \ud83c\udf1e",
+  "last_upaded": "17-11-2024 on 5:38:48 PM \ud83c\udf1e",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "Emirates D50, 2024",
+      "match_id": 113028,
+      "match_name": "Abu Dhabi vs Dubai",
+      "team_1": "Abu Dhabi",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ABUD@2x.png",
+      "team_2": "Dubai",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EMDB@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113028_4635_ABD_DUB_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/ce8RKYQ6RxWXQEah2-2K6g/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "Ecole T20 Cup, 2024",
@@ -15,18 +27,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-APC@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/112336_4608_MVA_APS_fc-app_fc-web_1730731991145.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/dvDPIrvrTjiV44YU-aMtDQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECS Malta, 2024",
-      "match_id": 111631,
-      "match_name": "Msida Warriors vs Southern Crusaders",
-      "team_1": "Msida Warriors",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MSD@2x.png",
-      "team_2": "Southern Crusaders",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOUTHC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_1_1729570461679.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/FoWMCQQ-QYe4HU6jnZrj1A/master.m3u8"
     },
     {
       "event_catagory": "cricket",
