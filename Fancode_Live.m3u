@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Ajman vs Sharjah" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113029_4635_SHA_AJM_fc-web.jpg" tvg-id="113029" group-title="Emirates D50, 2024",Ajman vs Sharjah
 https://dai.google.com/linear/hls/event/wX71EzGLQv6HbiZyVD2pzg/master.m3u8
+#EXTINF:-1 tvg-name="Kuwait Emerging Stars vs NCM Investment" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_01_1730875783702.jpg" tvg-id="112571" group-title="KCC T20 Elite Championship 2nd Edition, 2024",Kuwait Emerging Stars vs NCM Investment
+https://dai.google.com/linear/hls/event/UIbxLoLFTUKNCYyi9ue4aw/master.m3u8
