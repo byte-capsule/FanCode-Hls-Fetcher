@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "19-11-2024 on 5:53:06 PM \ud83c\udf1e",
+  "total_mathes": 6,
+  "last_upaded": "19-11-2024 on 6:47:29 PM \ud83c\udf19",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Gujarat Women's Championship",
-      "match_id": 113673,
-      "match_name": "Rebel Queens Women vs Victorious 11 Women",
-      "team_1": "Rebel Queens Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR3@2x.png",
-      "team_2": "Victorious 11 Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR4@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/8waFv1htSASJr2tUE3j-Rg/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "ICC Men's T20 World Cup Asia Qualifier B, 2024",
@@ -51,6 +39,42 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/SL_vs_NZ_2024_Old_match-card_1731309004021.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "FIFA World Cup Asian Qualifiers",
+      "match_id": 112925,
+      "match_name": "DPR Korea vs Uzbekistan",
+      "team_1": "DPR Korea",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NK@2x.png",
+      "team_2": "Uzbekistan",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-UB@2x.png",
+      "banner": "https://www.fancode.com/aig/match/v1/112925_CASACARDS_APP.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/2EME-iuKTxy-4Atx7QDKdw/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "FIFA World Cup Asian Qualifiers",
+      "match_id": 112932,
+      "match_name": "China PR vs Japan",
+      "team_1": "China PR",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CHN@2x.png",
+      "team_2": "Japan",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-JPN@2x.png",
+      "banner": false,
+      "stream_link": "https://dai.google.com/linear/hls/event/0qmCe6ALTBGM3MHFoiOzsA/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "FIFA World Cup Asian Qualifiers",
+      "match_id": 112931,
+      "match_name": "Indonesia vs Saudi Arabia",
+      "team_1": "Indonesia",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-INDO@2x.png",
+      "team_2": "Saudi Arabia",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/SAU-FT1@2x.png",
+      "banner": "https://www.fancode.com/aig/match/v1/112931_CASACARDS_APP.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/k29ARFqhQr6_9zQKs6q9KQ/master.m3u8"
     }
   ]
 }

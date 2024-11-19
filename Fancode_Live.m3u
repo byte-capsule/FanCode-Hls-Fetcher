@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Rebel Queens Women vs Victorious 11 Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="113673" group-title="Gujarat Women's Championship",Rebel Queens Women vs Victorious 11 Women
-https://dai.google.com/linear/hls/event/8waFv1htSASJr2tUE3j-Rg/master.m3u8
 #EXTINF:-1 tvg-name="Bahrain vs Saudi Arabia" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="112365" group-title="ICC Men's T20 World Cup Asia Qualifier B, 2024",Bahrain vs Saudi Arabia
 https://dai.google.com/linear/hls/event/EyBa5MCyT6-zYj6aMXkwoQ/master.m3u8
 #EXTINF:-1 tvg-name="Barcelona International vs Men in Blue" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113107_4641_MIB_BI_fc-web.jpg" tvg-id="113107" group-title="ECS Spain, Encore, 2024",Barcelona International vs Men in Blue
 https://dai.google.com/linear/hls/event/5e1z-SKMSOCK7syAe4BBlA/master.m3u8
 #EXTINF:-1 tvg-name="New Zealand vs Sri Lanka" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SL_vs_NZ_2024_Old_match-card_1731309004021.jpg" tvg-id="112295" group-title="New Zealand tour of Sri Lanka, 2024",New Zealand vs Sri Lanka
 https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
+#EXTINF:-1 tvg-name="DPR Korea vs Uzbekistan" tvg-logo="https://www.fancode.com/aig/match/v1/112925_CASACARDS_APP.png" tvg-id="112925" group-title="FIFA World Cup Asian Qualifiers",DPR Korea vs Uzbekistan
+https://dai.google.com/linear/hls/event/2EME-iuKTxy-4Atx7QDKdw/master.m3u8
+#EXTINF:-1 tvg-name="China PR vs Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="112932" group-title="FIFA World Cup Asian Qualifiers",China PR vs Japan
+https://dai.google.com/linear/hls/event/0qmCe6ALTBGM3MHFoiOzsA/master.m3u8
+#EXTINF:-1 tvg-name="Indonesia vs Saudi Arabia" tvg-logo="https://www.fancode.com/aig/match/v1/112931_CASACARDS_APP.png" tvg-id="112931" group-title="FIFA World Cup Asian Qualifiers",Indonesia vs Saudi Arabia
+https://dai.google.com/linear/hls/event/k29ARFqhQr6_9zQKs6q9KQ/master.m3u8
