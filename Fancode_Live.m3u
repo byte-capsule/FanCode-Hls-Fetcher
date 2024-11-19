@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Barcelona International vs Catalunya Coalesce" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113108_4641_CCO_BI_fc-web.jpg" tvg-id="113108" group-title="ECS Spain, Encore, 2024",Barcelona International vs Catalunya Coalesce
 https://dai.google.com/linear/hls/event/aEcieC6xSwC6t1cfVYgWbw/master.m3u8
-#EXTINF:-1 tvg-name="New Zealand vs Sri Lanka" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SL_vs_NZ_2024_Old_match-card_1731309004021.jpg" tvg-id="112295" group-title="New Zealand tour of Sri Lanka, 2024",New Zealand vs Sri Lanka
-https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
 #EXTINF:-1 tvg-name="Palestine vs Korea Republic" tvg-logo="https://www.fancode.com/aig/match/v1/112926_CASACARDS_APP.png" tvg-id="112926" group-title="FIFA World Cup Asian Qualifiers",Palestine vs Korea Republic
 https://dai.google.com/linear/hls/event/vJw11REJQe2e7ZtfF8YJWA/master.m3u8
 #EXTINF:-1 tvg-name="Kyrgyz Republic vs IR Iran" tvg-logo="https://www.fancode.com/aig/match/v1/112923_CASACARDS_APP.png" tvg-id="112923" group-title="FIFA World Cup Asian Qualifiers",Kyrgyz Republic vs IR Iran
