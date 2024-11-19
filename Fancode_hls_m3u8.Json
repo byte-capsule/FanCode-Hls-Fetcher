@@ -2,20 +2,8 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 2,
-  "last_upaded": "19-11-2024 on 10:46:25 AM \ud83c\udf1e",
+  "last_upaded": "19-11-2024 on 11:22:23 AM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Gujarat Women's Championship",
-      "match_id": 113672,
-      "match_name": "Rising Royals Women vs Garvi Women",
-      "team_1": "Rising Royals Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR1@2x.png",
-      "team_2": "Garvi Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR2@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/X3Wj5TrpSbSXQZnVaOOZGA/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Ecole T20 Cup, 2024",
@@ -27,6 +15,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RRCE@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/112339_4608_RRC_MVA_fc-app_fc-web_1730732118050.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/XSZj6UnFR5-a4tyE5C9DJA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Gujarat Women's Championship",
+      "match_id": 113672,
+      "match_name": "Rising Royals Women vs Garvi Women",
+      "team_1": "Rising Royals Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR1@2x.png",
+      "team_2": "Garvi Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR2@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/X3Wj5TrpSbSXQZnVaOOZGA/master.m3u8"
     }
   ]
 }

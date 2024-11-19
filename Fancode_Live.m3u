@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Rising Royals Women vs Garvi Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="113672" group-title="Gujarat Women's Championship",Rising Royals Women vs Garvi Women
-https://dai.google.com/linear/hls/event/X3Wj5TrpSbSXQZnVaOOZGA/master.m3u8
 #EXTINF:-1 tvg-name="Mavericks Academy vs Rajasthan Royals Academy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112339_4608_RRC_MVA_fc-app_fc-web_1730732118050.jpg" tvg-id="112339" group-title="Ecole T20 Cup, 2024",Mavericks Academy vs Rajasthan Royals Academy
 https://dai.google.com/linear/hls/event/XSZj6UnFR5-a4tyE5C9DJA/master.m3u8
+#EXTINF:-1 tvg-name="Rising Royals Women vs Garvi Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="113672" group-title="Gujarat Women's Championship",Rising Royals Women vs Garvi Women
+https://dai.google.com/linear/hls/event/X3Wj5TrpSbSXQZnVaOOZGA/master.m3u8
