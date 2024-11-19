@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "19-11-2024 on 1:21:47 PM \ud83c\udf1e",
+  "total_mathes": 5,
+  "last_upaded": "19-11-2024 on 1:40:19 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -50,7 +50,19 @@
       "team_2": "Garvi Women",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR2@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/X3Wj5TrpSbSXQZnVaOOZGA/master.m3u8"
+      "stream_link": "https://liveauth.fancode.com/primary/113672_english_hls_8372adfreeta-no/index.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ECS Spain, Encore, 2024",
+      "match_id": 113105,
+      "match_name": "Catalunya Coalesce vs Men in Blue",
+      "team_1": "Catalunya Coalesce",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR15@2x.png",
+      "team_2": "Men in Blue",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MB@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113105_4641_CCO_MIB_fc-web.jpg",
+      "stream_link": "https://liveauth.fancode.com/primary/113105_english_hls_5433adfreeta-no/index.m3u8"
     }
   ]
 }
