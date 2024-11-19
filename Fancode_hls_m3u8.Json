@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 3,
-  "last_upaded": "19-11-2024 on 9:56:40 PM \ud83c\udf19",
+  "last_upaded": "19-11-2024 on 10:29:43 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -19,26 +19,26 @@
     {
       "event_catagory": "football",
       "event_name": "FIFA World Cup Asian Qualifiers",
-      "match_id": 112926,
-      "match_name": "Palestine vs Korea Republic",
-      "team_1": "Palestine",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/PAL-FT1@2x.png",
-      "team_2": "Korea Republic",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SOK@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/112926_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/vJw11REJQe2e7ZtfF8YJWA/master.m3u8"
+      "match_id": 112924,
+      "match_name": "United Arab Emirates vs Qatar",
+      "team_1": "United Arab Emirates",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-UAE@2x.png",
+      "team_2": "Qatar",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-QAT@2x.png",
+      "banner": "https://www.fancode.com/aig/match/v1/112924_CASACARDS_APP.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/DNaVNJkoR_uODoToL81uHw/master.m3u8"
     },
     {
       "event_catagory": "football",
       "event_name": "FIFA World Cup Asian Qualifiers",
-      "match_id": 112923,
-      "match_name": "Kyrgyz Republic vs IR Iran",
-      "team_1": "Kyrgyz Republic",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/KYG-FT1@2x.png",
-      "team_2": "IR Iran",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-IRN@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/112923_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/jGfn7ZXiRpGiPKoXWJdkOg/master.m3u8"
+      "match_id": 112927,
+      "match_name": "Oman vs Iraq",
+      "team_1": "Oman",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/OMN-FT1@2x.png",
+      "team_2": "Iraq",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/IRQ-FT1@2x.png",
+      "banner": "https://www.fancode.com/aig/match/v1/112927_CASACARDS_APP.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/HMkrF0ctQ0iKMQ8VOhDMbA/master.m3u8"
     }
   ]
 }
