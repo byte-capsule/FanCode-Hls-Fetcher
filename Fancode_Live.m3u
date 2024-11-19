@@ -1,11 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Mavericks Academy vs Rajasthan Royals Academy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112339_4608_RRC_MVA_fc-app_fc-web_1730732118050.jpg" tvg-id="112339" group-title="Ecole T20 Cup, 2024",Mavericks Academy vs Rajasthan Royals Academy
-https://dai.google.com/linear/hls/event/XSZj6UnFR5-a4tyE5C9DJA/master.m3u8
+#EXTINF:-1 tvg-name="Recreation Club vs SDCA" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112340_4608_RCU_SCA_fc-app_fc-web_1730732160158.jpg" tvg-id="112340" group-title="Ecole T20 Cup, 2024",Recreation Club vs SDCA
+https://liveauth.fancode.com/primary/112340_english_hls_5522adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="United Arab Emirates vs Bhutan" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="112364" group-title="ICC Men's T20 World Cup Asia Qualifier B, 2024",United Arab Emirates vs Bhutan
 https://dai.google.com/linear/hls/event/VBnQxm6BTPekzdY3W7Yrjg/master.m3u8
 #EXTINF:-1 tvg-name="Thailand vs Qatar" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="112363" group-title="ICC Men's T20 World Cup Asia Qualifier B, 2024",Thailand vs Qatar
 https://dai.google.com/linear/hls/event/MlF4Qa0kSVO5eokblE3GcA/master.m3u8
-#EXTINF:-1 tvg-name="Rising Royals Women vs Garvi Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="113672" group-title="Gujarat Women's Championship",Rising Royals Women vs Garvi Women
-https://liveauth.fancode.com/primary/113672_english_hls_8372adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Catalunya Coalesce vs Men in Blue" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113105_4641_CCO_MIB_fc-web.jpg" tvg-id="113105" group-title="ECS Spain, Encore, 2024",Catalunya Coalesce vs Men in Blue
 https://liveauth.fancode.com/primary/113105_english_hls_5433adfreeta-no/index.m3u8

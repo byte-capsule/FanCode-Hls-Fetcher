@@ -1,20 +1,20 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "19-11-2024 on 1:53:21 PM \ud83c\udf1e",
+  "total_mathes": 4,
+  "last_upaded": "19-11-2024 on 2:30:00 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
       "event_name": "Ecole T20 Cup, 2024",
-      "match_id": 112339,
-      "match_name": "Mavericks Academy vs Rajasthan Royals Academy",
-      "team_1": "Mavericks Academy",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MVA@2x.png",
-      "team_2": "Rajasthan Royals Academy",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RRCE@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112339_4608_RRC_MVA_fc-app_fc-web_1730732118050.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/XSZj6UnFR5-a4tyE5C9DJA/master.m3u8"
+      "match_id": 112340,
+      "match_name": "Recreation Club vs SDCA",
+      "team_1": "Recreation Club",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RCU@2x.png",
+      "team_2": "SDCA",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCDA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112340_4608_RCU_SCA_fc-app_fc-web_1730732160158.jpg",
+      "stream_link": "https://liveauth.fancode.com/primary/112340_english_hls_5522adfreeta-di/index.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -39,18 +39,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-QTR@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
       "stream_link": "https://dai.google.com/linear/hls/event/MlF4Qa0kSVO5eokblE3GcA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Gujarat Women's Championship",
-      "match_id": 113672,
-      "match_name": "Rising Royals Women vs Garvi Women",
-      "team_1": "Rising Royals Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR1@2x.png",
-      "team_2": "Garvi Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR2@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://liveauth.fancode.com/primary/113672_english_hls_8372adfreeta-no/index.m3u8"
     },
     {
       "event_catagory": "cricket",
