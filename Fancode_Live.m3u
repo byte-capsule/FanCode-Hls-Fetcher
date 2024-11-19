@@ -2,7 +2,9 @@
 #EXTINF:-1 tvg-name="Recreation Club vs SDCA" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112340_4608_RCU_SCA_fc-app_fc-web_1730732160158.jpg" tvg-id="112340" group-title="Ecole T20 Cup, 2024",Recreation Club vs SDCA
 https://liveauth.fancode.com/primary/112340_english_hls_5522adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Rebel Queens Women vs Victorious 11 Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="113673" group-title="Gujarat Women's Championship",Rebel Queens Women vs Victorious 11 Women
-https://liveauth.fancode.com/primary/113673_english_hls_8688adfreeta-di/index.m3u8
+https://dai.google.com/linear/hls/event/8waFv1htSASJr2tUE3j-Rg/master.m3u8
+#EXTINF:-1 tvg-name="Bahrain vs Saudi Arabia" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="112365" group-title="ICC Men's T20 World Cup Asia Qualifier B, 2024",Bahrain vs Saudi Arabia
+https://dai.google.com/linear/hls/event/EyBa5MCyT6-zYj6aMXkwoQ/master.m3u8
 #EXTINF:-1 tvg-name="Catalunya Coalesce vs Men in Blue" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113106_4641_CCO_MIB_fc-web.jpg" tvg-id="113106" group-title="ECS Spain, Encore, 2024",Catalunya Coalesce vs Men in Blue
 https://dai.google.com/linear/hls/event/gS2ohCYtST-aJMx0ksM_Yw/master.m3u8
 #EXTINF:-1 tvg-name="New Zealand vs Sri Lanka" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SL_vs_NZ_2024_Old_match-card_1731309004021.jpg" tvg-id="112295" group-title="New Zealand tour of Sri Lanka, 2024",New Zealand vs Sri Lanka
