@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="CECC vs Kuwait Swedish" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_02_1730875782922.jpg" tvg-id="112572" group-title="KCC T20 Elite Championship 2nd Edition, 2024",CECC vs Kuwait Swedish
 https://dai.google.com/linear/hls/event/QeJ-XOHST0qbOvaByXy2Yg/master.m3u8
-#EXTINF:-1 tvg-name="Barcelona International vs Catalunya Coalesce" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113109_4641_CCO_BI_fc-web.jpg" tvg-id="113109" group-title="ECS Spain, Encore, 2024",Barcelona International vs Catalunya Coalesce
-https://dai.google.com/linear/hls/event/XpKy5Co6R7u7L4_RXZc9yw/master.m3u8
 #EXTINF:-1 tvg-name="United Arab Emirates vs Qatar" tvg-logo="https://www.fancode.com/aig/match/v1/112924_CASACARDS_APP.png" tvg-id="112924" group-title="FIFA World Cup Asian Qualifiers",United Arab Emirates vs Qatar
 https://dai.google.com/linear/hls/event/DNaVNJkoR_uODoToL81uHw/master.m3u8
 #EXTINF:-1 tvg-name="Oman vs Iraq" tvg-logo="https://www.fancode.com/aig/match/v1/112927_CASACARDS_APP.png" tvg-id="112927" group-title="FIFA World Cup Asian Qualifiers",Oman vs Iraq
