@@ -1,3 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="United CC Olot vs Pak Barcelona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113114_4641_PKB_UCC_fc-web_1732092152252.jpg" tvg-id="113114" group-title="ECS Spain, Encore, 2024",United CC Olot vs Pak Barcelona
+https://dai.google.com/linear/hls/event/Rz3f7zlVSqGOGy2BtB2JUQ/master.m3u8
 #EXTINF:-1 tvg-name="Fujairah vs Dubai" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113031_4635_FUJ_DUB_fc-web.jpg" tvg-id="113031" group-title="Emirates D50, 2024",Fujairah vs Dubai
 https://dai.google.com/linear/hls/event/FLWeChNfRKqbXK7uy7PmKw/master.m3u8
