@@ -1,7 +1,20 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 0,
-  "last_upaded": "20-11-2024 on 05:53:08 AM \ud83c\udf1e",
-  "matches": []
+  "total_mathes": 1,
+  "last_upaded": "20-11-2024 on 07:49:39 AM \ud83c\udf1e",
+  "matches": [
+    {
+      "event_catagory": "football",
+      "event_name": "CONMEBOL World Cup Qualifiers",
+      "match_id": 112940,
+      "match_name": "Chile vs Venezuela",
+      "team_1": "Chile",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CHIL@2x.png",
+      "team_2": "Venezuela",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VEN@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/CHI-vs-VEN-conmebol-qualifiers-old.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/fHoIJXMqQkibeRZbKPvn-Q/master.m3u8"
+    }
+  ]
 }
