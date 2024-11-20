@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 2,
-  "last_upaded": "20-11-2024 on 1:21:31 PM \ud83c\udf1e",
+  "total_mathes": 3,
+  "last_upaded": "20-11-2024 on 1:40:39 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,6 +27,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAMB@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
       "stream_link": "https://dai.google.com/linear/hls/event/ReDxzuyrRyiUceITZqtDcA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ECS Spain, Encore, 2024",
+      "match_id": 113110,
+      "match_name": "Pak Barcelona vs Pak I Care Badalona",
+      "team_1": "Pak Barcelona",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PKB@2x.png",
+      "team_2": "Pak I Care Badalona",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PIC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113110_4641_PKB_PIC_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/8Vn7ww_0SnCDqR5EfSFvdQ/master.m3u8"
     }
   ]
 }
