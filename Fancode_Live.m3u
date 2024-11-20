@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="United Arab Emirates vs Saudi Arabia" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="112368" group-title="ICC Men's T20 World Cup Asia Qualifier B, 2024",United Arab Emirates vs Saudi Arabia
 https://dai.google.com/linear/hls/event/mZq9AyQxQaiwt_XU1YY7Bw/master.m3u8
+#EXTINF:-1 tvg-name="Pak I Care Badalona vs United CC Girona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113112_4641_PIC_UCC_fc-web_1732092142234.jpg" tvg-id="113112" group-title="ECS Spain, Encore, 2024",Pak I Care Badalona vs United CC Girona
+https://dai.google.com/linear/hls/event/d-goIlGaSRS8C3FxK_aPcQ/master.m3u8
+#EXTINF:-1 tvg-name="Fujairah vs Dubai" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113031_4635_FUJ_DUB_fc-web.jpg" tvg-id="113031" group-title="Emirates D50, 2024",Fujairah vs Dubai
+https://dai.google.com/linear/hls/event/FLWeChNfRKqbXK7uy7PmKw/master.m3u8
