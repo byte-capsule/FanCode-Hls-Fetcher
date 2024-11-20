@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="United CC Olot vs Pak Barcelona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113114_4641_PKB_UCC_fc-web_1732092152252.jpg" tvg-id="113114" group-title="ECS Spain, Encore, 2024",United CC Olot vs Pak Barcelona
-https://dai.google.com/linear/hls/event/Rz3f7zlVSqGOGy2BtB2JUQ/master.m3u8
+#EXTINF:-1 tvg-name="Stack CC vs Al Hajery Team XI" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_03_1730875782908.jpg" tvg-id="112573" group-title="KCC T20 Elite Championship 2nd Edition, 2024",Stack CC vs Al Hajery Team XI
+https://dai.google.com/linear/hls/event/IovjMCTPTCSNJ6snbwthJw/master.m3u8
 #EXTINF:-1 tvg-name="Fujairah vs Dubai" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113031_4635_FUJ_DUB_fc-web.jpg" tvg-id="113031" group-title="Emirates D50, 2024",Fujairah vs Dubai
 https://dai.google.com/linear/hls/event/FLWeChNfRKqbXK7uy7PmKw/master.m3u8
+#EXTINF:-1 tvg-name="Barbados Pride vs Trinidad & Tobago Red Force" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="112027" group-title="CG United Super50 Cup, 2024",Barbados Pride vs Trinidad & Tobago Red Force
+https://dai.google.com/linear/hls/event/_VWvnHHFSlWD5DCMlAJl6w/master.m3u8
