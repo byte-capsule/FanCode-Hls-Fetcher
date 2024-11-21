@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Mavericks Academy vs Rajasthan Royals Academy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112339_4608_RRC_MVA_fc-app_fc-web_1730732118050.jpg" tvg-id="112341" group-title="Ecole T20 Cup, 2024",Mavericks Academy vs Rajasthan Royals Academy
-https://dai.google.com/linear/hls/event/wHrQ12qZT_GReo0ZWS7upg/master.m3u8
 #EXTINF:-1 tvg-name="Garvi Women vs Rebel Queens Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="113678" group-title="Gujarat Women's Championship",Garvi Women vs Rebel Queens Women
 https://dai.google.com/linear/hls/event/pYVBjh_tQ-Gv-G3OPToHsw/master.m3u8
+#EXTINF:-1 tvg-name="Pak I Care Badalona vs Badalona Shaheen" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113115_4641_PIC_BSH_fc-web_1732092152256.jpg" tvg-id="113115" group-title="ECS Spain, Encore, 2024",Pak I Care Badalona vs Badalona Shaheen
+https://dai.google.com/linear/hls/event/c5M9fnZPQLmuWI5F25vKqw/master.m3u8

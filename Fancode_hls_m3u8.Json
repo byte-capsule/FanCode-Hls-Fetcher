@@ -2,20 +2,8 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 2,
-  "last_upaded": "21-11-2024 on 1:21:28 PM \ud83c\udf1e",
+  "last_upaded": "21-11-2024 on 1:53:21 PM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Ecole T20 Cup, 2024",
-      "match_id": 112341,
-      "match_name": "Mavericks Academy vs Rajasthan Royals Academy",
-      "team_1": "Mavericks Academy",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MVA@2x.png",
-      "team_2": "Rajasthan Royals Academy",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RRCE@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112339_4608_RRC_MVA_fc-app_fc-web_1730732118050.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/wHrQ12qZT_GReo0ZWS7upg/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Gujarat Women's Championship",
@@ -27,6 +15,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RQW@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
       "stream_link": "https://dai.google.com/linear/hls/event/pYVBjh_tQ-Gv-G3OPToHsw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ECS Spain, Encore, 2024",
+      "match_id": 113115,
+      "match_name": "Pak I Care Badalona vs Badalona Shaheen",
+      "team_1": "Pak I Care Badalona",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PIC@2x.png",
+      "team_2": "Badalona Shaheen",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/BSH-CR1@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113115_4641_PIC_BSH_fc-web_1732092152256.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/c5M9fnZPQLmuWI5F25vKqw/master.m3u8"
     }
   ]
 }
