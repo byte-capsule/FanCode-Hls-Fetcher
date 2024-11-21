@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Rising Royals Women vs Victorious 11 Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="113676" group-title="Gujarat Women's Championship",Rising Royals Women vs Victorious 11 Women
-https://dai.google.com/linear/hls/event/93baBfRwRTCj7KPUHA05bQ/master.m3u8
 #EXTINF:-1 tvg-name="Mavericks Academy vs Rajasthan Royals Academy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112339_4608_RRC_MVA_fc-app_fc-web_1730732118050.jpg" tvg-id="112341" group-title="Ecole T20 Cup, 2024",Mavericks Academy vs Rajasthan Royals Academy
 https://dai.google.com/linear/hls/event/wHrQ12qZT_GReo0ZWS7upg/master.m3u8
+#EXTINF:-1 tvg-name="Rising Royals Women vs Victorious 11 Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="113676" group-title="Gujarat Women's Championship",Rising Royals Women vs Victorious 11 Women
+https://dai.google.com/linear/hls/event/93baBfRwRTCj7KPUHA05bQ/master.m3u8
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-PGA-championship-old.jpg" tvg-id="113049" group-title="BMW Australian PGA Championship",Day 1
 https://dai.google.com/linear/hls/event/ggC8fQSCQC-yqwDkQCpZQA/master.m3u8
