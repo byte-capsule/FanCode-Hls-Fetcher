@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Garvi Women vs Rebel Queens Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="113678" group-title="Gujarat Women's Championship",Garvi Women vs Rebel Queens Women
-https://dai.google.com/linear/hls/event/pYVBjh_tQ-Gv-G3OPToHsw/master.m3u8
-#EXTINF:-1 tvg-name="Ashtapailu Sports vs SDCA" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112330_4608_SCA_APS_fc-app_fc-web_1730731504870.jpg" tvg-id="112342" group-title="Ecole T20 Cup, 2024",Ashtapailu Sports vs SDCA
-https://dai.google.com/linear/hls/event/ZA7Hgj6sRAeaROgiJ3dl_Q/master.m3u8
-#EXTINF:-1 tvg-name="Pak I Care Badalona vs Badalona Shaheen" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113116_4641_PIC_BSH_fc-web_1732092152262.jpg" tvg-id="113116" group-title="ECS Spain, Encore, 2024",Pak I Care Badalona vs Badalona Shaheen
-https://dai.google.com/linear/hls/event/gxU0F5EjSviOeOCTzPt9pw/master.m3u8
 #EXTINF:-1 tvg-name="Pak I Care Badalona vs United CC Olot" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113117_4641_PIC_UCC_fc-web_1732092152248.jpg" tvg-id="113117" group-title="ECS Spain, Encore, 2024",Pak I Care Badalona vs United CC Olot
 https://dai.google.com/linear/hls/event/yF0i0eUJTUSg3I9L_Ghp9g/master.m3u8
 #EXTINF:-1 tvg-name="Sharjah vs Abu Dhabi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113033_4635_ABD_SHA_fc-web.jpg" tvg-id="113033" group-title="Emirates D50, 2024",Sharjah vs Abu Dhabi
