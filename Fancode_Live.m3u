@@ -1,3 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="United CC Olot vs Barcelona International" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113119_4641_BI_UCC_fc-web_1732092153034.jpg" tvg-id="113119" group-title="ECS Spain, Encore, 2024",United CC Olot vs Barcelona International
+https://dai.google.com/linear/hls/event/K43ptYn9TXqzZ9pkZd4ULQ/master.m3u8
+#EXTINF:-1 tvg-name="Deccan Gladiators vs Chennai Braves" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112588_4620_DG_CB_fc-web.jpg" tvg-id="112588" group-title="Abu Dhabi T10 League, 2024",Deccan Gladiators vs Chennai Braves
+https://dai.google.com/linear/hls/event/7hQtc9cvSJ2CM51D3X0dJQ/master.m3u8
 #EXTINF:-1 tvg-name="Sharjah vs Abu Dhabi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113033_4635_ABD_SHA_fc-web.jpg" tvg-id="113033" group-title="Emirates D50, 2024",Sharjah vs Abu Dhabi
 https://dai.google.com/linear/hls/event/882bBFexRTaXDvc0mUIFXA/master.m3u8
