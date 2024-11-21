@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "21-11-2024 on 8:56:41 PM \ud83c\udf19",
+  "total_mathes": 2,
+  "last_upaded": "21-11-2024 on 9:26:11 PM \ud83c\udf19",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECS Spain, Encore, 2024",
-      "match_id": 113118,
-      "match_name": "Barcelona International vs United CC Olot",
-      "team_1": "Barcelona International",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BI@2x.png",
-      "team_2": "United CC Olot",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/UCC-CR3@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113118_4641_BI_UCC_fc-web_1732092152247.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/2tDUztPdS3-IFM2IhLRgxw/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Abu Dhabi T10 League, 2024",

@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Barcelona International vs United CC Olot" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113118_4641_BI_UCC_fc-web_1732092152247.jpg" tvg-id="113118" group-title="ECS Spain, Encore, 2024",Barcelona International vs United CC Olot
-https://dai.google.com/linear/hls/event/2tDUztPdS3-IFM2IhLRgxw/master.m3u8
 #EXTINF:-1 tvg-name="Bangla Tigers vs Morrisville Samp Army" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112587_4620_MSA_BT_fc-web.jpg" tvg-id="112587" group-title="Abu Dhabi T10 League, 2024",Bangla Tigers vs Morrisville Samp Army
 https://dai.google.com/linear/hls/event/9dXlpbz2Sau2cft87le-3w/master.m3u8
 #EXTINF:-1 tvg-name="Sharjah vs Abu Dhabi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113033_4635_ABD_SHA_fc-web.jpg" tvg-id="113033" group-title="Emirates D50, 2024",Sharjah vs Abu Dhabi
