@@ -1,10 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="A Four CC vs Ai Octopus Challengers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112448_4616_SZN_AF_fc-web_1731569490456.jpg" tvg-id="112448" group-title="KCC T20 Challengers A League, 2024-25",A Four CC vs Ai Octopus Challengers
+https://dai.google.com/linear/hls/event/vxPgBh3IRBalWvZPoHtG8w/master.m3u8
 #EXTINF:-1 tvg-name="Saudi Arabia vs Bhutan" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="112371" group-title="ICC Men's T20 World Cup Asia Qualifier B, 2024",Saudi Arabia vs Bhutan
 https://dai.google.com/linear/hls/event/zKyXACKRR5WUM_iRNgRIpQ/master.m3u8
 #EXTINF:-1 tvg-name="Men in Blue vs Pak Barcelona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113121_4641_MIB_PKB_fc-web_1732093368410.jpg" tvg-id="113121" group-title="ECS Spain, Encore, 2024",Men in Blue vs Pak Barcelona
 https://dai.google.com/linear/hls/event/aS0edK3JTFyZw_fZFvGoog/master.m3u8
-#EXTINF:-1 tvg-name="Etosha Wildcats vs Fish River Eagles" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112806_4626_FRE_ETW_fc-web_1731668240337.jpg" tvg-id="112806" group-title="Castle Lite T20, 2024",Etosha Wildcats vs Fish River Eagles
-https://dai.google.com/linear/hls/event/llJYVVJmTN-57Rscrp9N2A/master.m3u8
 #EXTINF:-1 tvg-name="Delhi Bulls vs Northern Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112589_4620_NW_DB_fc-web.jpg" tvg-id="112589" group-title="Abu Dhabi T10 League, 2024",Delhi Bulls vs Northern Warriors
 https://dai.google.com/linear/hls/event/AgCkRt2dR3GUcS9wn79Mkw/master.m3u8
 #EXTINF:-1 tvg-name="Newcastle Jets vs Central Coast Mariners" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110918_4567_NJ_CCM_fc-web_1728983127072.jpg" tvg-id="110918" group-title="A League 2024-25",Newcastle Jets vs Central Coast Mariners
