@@ -3,7 +3,9 @@
 https://dai.google.com/linear/hls/event/T9EC8s80QzyGrpJ5ADJ4fg/master.m3u8
 #EXTINF:-1 tvg-name="Ashtapailu Sports vs Rajasthan Royals Academy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112316_4608_RRC_APS_fc-app_fc-web_1730730043379.jpg" tvg-id="112343" group-title="Ecole T20 Cup, 2024",Ashtapailu Sports vs Rajasthan Royals Academy
 https://dai.google.com/linear/hls/event/PBdkN3nAQGqN0K5J9a7j-Q/master.m3u8
+#EXTINF:-1 tvg-name="Bahrain vs Thailand" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="112370" group-title="ICC Men's T20 World Cup Asia Qualifier B, 2024",Bahrain vs Thailand
+https://dai.google.com/linear/hls/event/SnQtRelZTcSW008rbL6iiw/master.m3u8
+#EXTINF:-1 tvg-name="Cambodia vs United Arab Emirates" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="112369" group-title="ICC Men's T20 World Cup Asia Qualifier B, 2024",Cambodia vs United Arab Emirates
+https://dai.google.com/linear/hls/event/qiHJk6OKQaS0zmEz6IIhkQ/master.m3u8
 #EXTINF:-1 tvg-name="Practice 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_LAS_Vegas_Old_match-card.jpg" tvg-id="95244" group-title="F1 HEINEKEN SILVER LAS VEGAS GRAND PRIX 2024",Practice 2
 https://d3kr2kd3juws4w.cloudfront.net/out/v1/bfdf278b12b544b2b7a77491906bd418/index.m3u8
-#EXTINF:-1 tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-PGA-championship-old.jpg" tvg-id="113050" group-title="BMW Australian PGA Championship",Day 2
-https://dai.google.com/linear/hls/event/iREgTMqERS6EKdoJTKZEyw/master.m3u8
