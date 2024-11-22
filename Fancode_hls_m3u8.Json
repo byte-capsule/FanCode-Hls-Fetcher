@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "22-11-2024 on 9:55:50 PM \ud83c\udf19",
+  "total_mathes": 5,
+  "last_upaded": "22-11-2024 on 10:29:28 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -39,18 +39,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PIC@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/113124_4641_BI_PIC_fc-web_1732093369197.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/FvghFu81RQ6bKVxnanluCQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Castle Lite T20, 2024",
-      "match_id": 112807,
-      "match_name": "Green Windhoek Jets vs Naankuse Lions",
-      "team_1": "Green Windhoek Jets",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIJ@2x.png",
-      "team_2": "Naankuse Lions",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NDL@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112807_4626_GWJ_NL_fc-web_1731668241108.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/qbdEsUSZQ56yna1HPFcScg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
