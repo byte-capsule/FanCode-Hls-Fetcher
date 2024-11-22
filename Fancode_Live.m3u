@@ -1,7 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Ajman vs Fujairah" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113035_4635_FUJ_AJM_fc-web.jpg" tvg-id="113035" group-title="Emirates D50, 2024",Ajman vs Fujairah
 https://dai.google.com/linear/hls/event/arwcS_3lSCqDuL8pKTiigA/master.m3u8
+#EXTINF:-1 tvg-name="Barcelona International vs Pak I Care Badalona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113123_4641_BI_PIC_fc-web_1732093368423.jpg" tvg-id="113123" group-title="ECS Spain, Encore, 2024",Barcelona International vs Pak I Care Badalona
+https://dai.google.com/linear/hls/event/IHRL1nLqQ82SonlMzEd_tA/master.m3u8
 #EXTINF:-1 tvg-name="Green Windhoek Jets vs Naankuse Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112807_4626_GWJ_NL_fc-web_1731668241108.jpg" tvg-id="112807" group-title="Castle Lite T20, 2024",Green Windhoek Jets vs Naankuse Lions
 https://dai.google.com/linear/hls/event/qbdEsUSZQ56yna1HPFcScg/master.m3u8
 #EXTINF:-1 tvg-name="UP Nawabs vs Team Abu Dhabi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112591_4620_UPN_TAD_fc-web.jpg" tvg-id="112591" group-title="Abu Dhabi T10 League, 2024",UP Nawabs vs Team Abu Dhabi
 https://dai.google.com/linear/hls/event/Z4L86lppSEK0jaGuk1NBwQ/master.m3u8
+#EXTINF:-1 tvg-name="West Indies vs Bangladesh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png" tvg-id="112344" group-title="Bangladesh tour of West Indies, 2024",West Indies vs Bangladesh
+https://dai.google.com/linear/hls/event/wVQlmsWJRpyn7oSfZFBe8g/master.m3u8
