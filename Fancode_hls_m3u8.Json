@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 5,
-  "last_upaded": "22-11-2024 on 4:58:02 PM \ud83c\udf1e",
+  "last_upaded": "22-11-2024 on 5:21:25 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -53,16 +53,16 @@
       "stream_link": "https://dai.google.com/linear/hls/event/AgCkRt2dR3GUcS9wn79Mkw/master.m3u8"
     },
     {
-      "event_catagory": "football",
-      "event_name": "A League 2024-25",
-      "match_id": 110918,
-      "match_name": "Newcastle Jets vs Central Coast Mariners",
-      "team_1": "Newcastle Jets",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NJA@2x.png",
-      "team_2": "Central Coast Mariners",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CENTA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110918_4567_NJ_CCM_fc-web_1728983127072.jpg",
-      "stream_link": "https://liveauth.fancode.com/primary/110918_english_hls_5609adfreeta-di/index.m3u8"
+      "event_catagory": "cricket",
+      "event_name": "Abu Dhabi T10 League, 2024",
+      "match_id": 112590,
+      "match_name": "Morrisville Samp Army vs New York Strikers",
+      "team_1": "Morrisville Samp Army",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MSAA@2x.png",
+      "team_2": "New York Strikers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NYS@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112590_4620_NYS_MSA_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/W1Clc23dRxqiXi8u8_nMiA/master.m3u8"
     }
   ]
 }
