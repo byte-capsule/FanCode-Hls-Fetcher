@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Men in Blue vs Pak Barcelona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113121_4641_MIB_PKB_fc-web_1732093368410.jpg" tvg-id="113121" group-title="ECS Spain, Encore, 2024",Men in Blue vs Pak Barcelona
+https://dai.google.com/linear/hls/event/aS0edK3JTFyZw_fZFvGoog/master.m3u8
 #EXTINF:-1 tvg-name="Etosha Wildcats vs Fish River Eagles" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112806_4626_FRE_ETW_fc-web_1731668240337.jpg" tvg-id="112806" group-title="Castle Lite T20, 2024",Etosha Wildcats vs Fish River Eagles
 https://dai.google.com/linear/hls/event/llJYVVJmTN-57Rscrp9N2A/master.m3u8
 #EXTINF:-1 tvg-name="Delhi Bulls vs Northern Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112589_4620_NW_DB_fc-web.jpg" tvg-id="112589" group-title="Abu Dhabi T10 League, 2024",Delhi Bulls vs Northern Warriors
@@ -7,3 +9,5 @@ https://dai.google.com/linear/hls/event/AgCkRt2dR3GUcS9wn79Mkw/master.m3u8
 https://liveauth.fancode.com/primary/110918_english_hls_5609adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="DBI vs Sports Authority of India" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1.jpg" tvg-id="113792" group-title="Guwahati Premier League 2024",DBI vs Sports Authority of India
 https://dai.google.com/linear/hls/event/0f0tzFYATcS5Wrw8Zwrt0Q/master.m3u8
+#EXTINF:-1 tvg-name="Urawa Red Diamonds vs Kawasaki Frontale" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Urawa-Red-Diamonds-VS-Kawasaki-Frontale_fc-web.jpg" tvg-id="105702" group-title="J League 2024",Urawa Red Diamonds vs Kawasaki Frontale
+Free Trial attempt unsuccessful......it requires Premium Account
