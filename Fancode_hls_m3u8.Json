@@ -1,45 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "22-11-2024 on 2:48:44 PM \ud83c\udf1e",
+  "total_mathes": 4,
+  "last_upaded": "22-11-2024 on 3:24:54 PM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Ecole T20 Cup, 2024",
-      "match_id": 112343,
-      "match_name": "Ashtapailu Sports vs Rajasthan Royals Academy",
-      "team_1": "Ashtapailu Sports",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-APC@2x.png",
-      "team_2": "Rajasthan Royals Academy",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RRCE@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112316_4608_RRC_APS_fc-app_fc-web_1730730043379.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/PBdkN3nAQGqN0K5J9a7j-Q/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC Men's T20 World Cup Asia Qualifier B, 2024",
-      "match_id": 112370,
-      "match_name": "Bahrain vs Thailand",
-      "team_1": "Bahrain",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAH@2x.png",
-      "team_2": "Thailand",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THL@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/SnQtRelZTcSW008rbL6iiw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC Men's T20 World Cup Asia Qualifier B, 2024",
-      "match_id": 112369,
-      "match_name": "Cambodia vs United Arab Emirates",
-      "team_1": "Cambodia",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAMB@2x.png",
-      "team_2": "United Arab Emirates",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UAE@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/qiHJk6OKQaS0zmEz6IIhkQ/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Castle Lite T20, 2024",
@@ -54,15 +18,27 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "ECS Spain, Encore, 2024",
-      "match_id": 113120,
-      "match_name": "Pak Barcelona vs Men in Blue",
-      "team_1": "Pak Barcelona",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PKB@2x.png",
-      "team_2": "Men in Blue",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MB@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113120_4641_MIB_PKB_fc-web_1732092152258.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/22fD0OD8SCOFoqxnVOS-MA/master.m3u8"
+      "event_name": "Abu Dhabi T10 League, 2024",
+      "match_id": 112589,
+      "match_name": "Delhi Bulls vs Northern Warriors",
+      "team_1": "Delhi Bulls",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEB-CR1@2x.png",
+      "team_2": "Northern Warriors",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NOR-CR3@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112589_4620_NW_DB_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/AgCkRt2dR3GUcS9wn79Mkw/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "A League 2024-25",
+      "match_id": 110918,
+      "match_name": "Newcastle Jets vs Central Coast Mariners",
+      "team_1": "Newcastle Jets",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NJA@2x.png",
+      "team_2": "Central Coast Mariners",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CENTA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110918_4567_NJ_CCM_fc-web_1728983127072.jpg",
+      "stream_link": "https://liveauth.fancode.com/primary/110918_english_hls_5609adfreeta-di/index.m3u8"
     },
     {
       "event_catagory": "football",

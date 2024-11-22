@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Ashtapailu Sports vs Rajasthan Royals Academy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112316_4608_RRC_APS_fc-app_fc-web_1730730043379.jpg" tvg-id="112343" group-title="Ecole T20 Cup, 2024",Ashtapailu Sports vs Rajasthan Royals Academy
-https://dai.google.com/linear/hls/event/PBdkN3nAQGqN0K5J9a7j-Q/master.m3u8
-#EXTINF:-1 tvg-name="Bahrain vs Thailand" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="112370" group-title="ICC Men's T20 World Cup Asia Qualifier B, 2024",Bahrain vs Thailand
-https://dai.google.com/linear/hls/event/SnQtRelZTcSW008rbL6iiw/master.m3u8
-#EXTINF:-1 tvg-name="Cambodia vs United Arab Emirates" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="112369" group-title="ICC Men's T20 World Cup Asia Qualifier B, 2024",Cambodia vs United Arab Emirates
-https://dai.google.com/linear/hls/event/qiHJk6OKQaS0zmEz6IIhkQ/master.m3u8
 #EXTINF:-1 tvg-name="Etosha Wildcats vs Fish River Eagles" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112806_4626_FRE_ETW_fc-web_1731668240337.jpg" tvg-id="112806" group-title="Castle Lite T20, 2024",Etosha Wildcats vs Fish River Eagles
 https://dai.google.com/linear/hls/event/llJYVVJmTN-57Rscrp9N2A/master.m3u8
-#EXTINF:-1 tvg-name="Pak Barcelona vs Men in Blue" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113120_4641_MIB_PKB_fc-web_1732092152258.jpg" tvg-id="113120" group-title="ECS Spain, Encore, 2024",Pak Barcelona vs Men in Blue
-https://dai.google.com/linear/hls/event/22fD0OD8SCOFoqxnVOS-MA/master.m3u8
+#EXTINF:-1 tvg-name="Delhi Bulls vs Northern Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112589_4620_NW_DB_fc-web.jpg" tvg-id="112589" group-title="Abu Dhabi T10 League, 2024",Delhi Bulls vs Northern Warriors
+https://dai.google.com/linear/hls/event/AgCkRt2dR3GUcS9wn79Mkw/master.m3u8
+#EXTINF:-1 tvg-name="Newcastle Jets vs Central Coast Mariners" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110918_4567_NJ_CCM_fc-web_1728983127072.jpg" tvg-id="110918" group-title="A League 2024-25",Newcastle Jets vs Central Coast Mariners
+https://liveauth.fancode.com/primary/110918_english_hls_5609adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="DBI vs Sports Authority of India" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1.jpg" tvg-id="113792" group-title="Guwahati Premier League 2024",DBI vs Sports Authority of India
 https://dai.google.com/linear/hls/event/0f0tzFYATcS5Wrw8Zwrt0Q/master.m3u8
