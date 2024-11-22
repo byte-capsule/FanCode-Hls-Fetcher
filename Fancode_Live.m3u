@@ -1,11 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Ajman vs Fujairah" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113035_4635_FUJ_AJM_fc-web.jpg" tvg-id="113035" group-title="Emirates D50, 2024",Ajman vs Fujairah
+https://dai.google.com/linear/hls/event/arwcS_3lSCqDuL8pKTiigA/master.m3u8
 #EXTINF:-1 tvg-name="A Four CC vs Ai Octopus Challengers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112448_4616_SZN_AF_fc-web_1731569490456.jpg" tvg-id="112448" group-title="KCC T20 Challengers A League, 2024-25",A Four CC vs Ai Octopus Challengers
 https://dai.google.com/linear/hls/event/vxPgBh3IRBalWvZPoHtG8w/master.m3u8
 #EXTINF:-1 tvg-name="Saudi Arabia vs Bhutan" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="112371" group-title="ICC Men's T20 World Cup Asia Qualifier B, 2024",Saudi Arabia vs Bhutan
 https://dai.google.com/linear/hls/event/zKyXACKRR5WUM_iRNgRIpQ/master.m3u8
-#EXTINF:-1 tvg-name="Men in Blue vs Pak Barcelona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113121_4641_MIB_PKB_fc-web_1732093368410.jpg" tvg-id="113121" group-title="ECS Spain, Encore, 2024",Men in Blue vs Pak Barcelona
-https://dai.google.com/linear/hls/event/aS0edK3JTFyZw_fZFvGoog/master.m3u8
-#EXTINF:-1 tvg-name="Delhi Bulls vs Northern Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112589_4620_NW_DB_fc-web.jpg" tvg-id="112589" group-title="Abu Dhabi T10 League, 2024",Delhi Bulls vs Northern Warriors
-https://dai.google.com/linear/hls/event/AgCkRt2dR3GUcS9wn79Mkw/master.m3u8
 #EXTINF:-1 tvg-name="Morrisville Samp Army vs New York Strikers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112590_4620_NYS_MSA_fc-web.jpg" tvg-id="112590" group-title="Abu Dhabi T10 League, 2024",Morrisville Samp Army vs New York Strikers
 https://dai.google.com/linear/hls/event/W1Clc23dRxqiXi8u8_nMiA/master.m3u8
+#EXTINF:-1 tvg-name="Assam Police vs North East Frontier Railways SA" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2.jpg" tvg-id="113793" group-title="Guwahati Premier League 2024",Assam Police vs North East Frontier Railways SA
+https://dai.google.com/linear/hls/event/1w6BIxIWTrSV9qvPIGkumw/master.m3u8
