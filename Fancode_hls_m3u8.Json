@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "22-11-2024 on 11:22:18 AM \ud83c\udf1e",
+  "total_mathes": 4,
+  "last_upaded": "22-11-2024 on 11:42:18 AM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,6 +27,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RRCE@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/112316_4608_RRC_APS_fc-app_fc-web_1730730043379.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/PBdkN3nAQGqN0K5J9a7j-Q/master.m3u8"
+    },
+    {
+      "event_catagory": "formula1",
+      "event_name": "F1 HEINEKEN SILVER LAS VEGAS GRAND PRIX 2024",
+      "match_id": 95244,
+      "match_name": "Practice 2",
+      "team_1": "Practice 2",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+      "team_2": "United States of America",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/F1_LAS_Vegas_Old_match-card.jpg",
+      "stream_link": "https://d3kr2kd3juws4w.cloudfront.net/out/v1/bfdf278b12b544b2b7a77491906bd418/index.m3u8"
     },
     {
       "event_catagory": "golf",
