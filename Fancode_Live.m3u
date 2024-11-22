@@ -1,11 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Ajman vs Fujairah" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113035_4635_FUJ_AJM_fc-web.jpg" tvg-id="113035" group-title="Emirates D50, 2024",Ajman vs Fujairah
 https://dai.google.com/linear/hls/event/arwcS_3lSCqDuL8pKTiigA/master.m3u8
-#EXTINF:-1 tvg-name="A Four CC vs Ai Octopus Challengers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112448_4616_SZN_AF_fc-web_1731569490456.jpg" tvg-id="112448" group-title="KCC T20 Challengers A League, 2024-25",A Four CC vs Ai Octopus Challengers
-https://dai.google.com/linear/hls/event/vxPgBh3IRBalWvZPoHtG8w/master.m3u8
-#EXTINF:-1 tvg-name="Saudi Arabia vs Bhutan" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="112371" group-title="ICC Men's T20 World Cup Asia Qualifier B, 2024",Saudi Arabia vs Bhutan
-https://dai.google.com/linear/hls/event/zKyXACKRR5WUM_iRNgRIpQ/master.m3u8
 #EXTINF:-1 tvg-name="Green Windhoek Jets vs Naankuse Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112807_4626_GWJ_NL_fc-web_1731668241108.jpg" tvg-id="112807" group-title="Castle Lite T20, 2024",Green Windhoek Jets vs Naankuse Lions
 https://dai.google.com/linear/hls/event/qbdEsUSZQ56yna1HPFcScg/master.m3u8
-#EXTINF:-1 tvg-name="Morrisville Samp Army vs New York Strikers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112590_4620_NYS_MSA_fc-web.jpg" tvg-id="112590" group-title="Abu Dhabi T10 League, 2024",Morrisville Samp Army vs New York Strikers
-https://dai.google.com/linear/hls/event/W1Clc23dRxqiXi8u8_nMiA/master.m3u8
+#EXTINF:-1 tvg-name="UP Nawabs vs Team Abu Dhabi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112591_4620_UPN_TAD_fc-web.jpg" tvg-id="112591" group-title="Abu Dhabi T10 League, 2024",UP Nawabs vs Team Abu Dhabi
+https://dai.google.com/linear/hls/event/Z4L86lppSEK0jaGuk1NBwQ/master.m3u8
