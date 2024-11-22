@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 6,
-  "last_upaded": "22-11-2024 on 0:54:04 PM \ud83c\udf1e",
+  "last_upaded": "22-11-2024 on 1:21:35 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -53,6 +53,18 @@
       "stream_link": "https://dai.google.com/linear/hls/event/qiHJk6OKQaS0zmEz6IIhkQ/master.m3u8"
     },
     {
+      "event_catagory": "cricket",
+      "event_name": "Castle Lite T20, 2024",
+      "match_id": 112806,
+      "match_name": "Etosha Wildcats vs Fish River Eagles",
+      "team_1": "Etosha Wildcats",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ETW@2x.png",
+      "team_2": "Fish River Eagles",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FRE@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112806_4626_FRE_ETW_fc-web_1731668240337.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/llJYVVJmTN-57Rscrp9N2A/master.m3u8"
+    },
+    {
       "event_catagory": "football",
       "event_name": "A League 2024-25",
       "match_id": 110917,
@@ -63,18 +75,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WSTA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110917_4567_PG_WST_fc-web_1728983127283.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/qZdRWvalTJ-feVwQ4xrrHg/master.m3u8"
-    },
-    {
-      "event_catagory": "formula1",
-      "event_name": "F1 HEINEKEN SILVER LAS VEGAS GRAND PRIX 2024",
-      "match_id": 95244,
-      "match_name": "Practice 2",
-      "team_1": "Practice 2",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
-      "team_2": "United States of America",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/F1_LAS_Vegas_Old_match-card.jpg",
-      "stream_link": "https://d3kr2kd3juws4w.cloudfront.net/out/v1/bfdf278b12b544b2b7a77491906bd418/index.m3u8"
     }
   ]
 }
