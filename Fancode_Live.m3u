@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Ajman vs Fujairah" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113035_4635_FUJ_AJM_fc-web.jpg" tvg-id="113035" group-title="Emirates D50, 2024",Ajman vs Fujairah
 https://dai.google.com/linear/hls/event/arwcS_3lSCqDuL8pKTiigA/master.m3u8
+#EXTINF:-1 tvg-name="GAT vs Phoenix Riders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112414_4616_GAT_PHR_fc-web_1731569489736.jpg" tvg-id="112414" group-title="KCC T20 Challengers A League, 2024-25",GAT vs Phoenix Riders
+https://dai.google.com/linear/hls/event/b7lDLGDRQOiVXECE8kZvzA/master.m3u8
 #EXTINF:-1 tvg-name="Barcelona International vs Pak I Care Badalona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113123_4641_BI_PIC_fc-web_1732093368423.jpg" tvg-id="113123" group-title="ECS Spain, Encore, 2024",Barcelona International vs Pak I Care Badalona
 https://dai.google.com/linear/hls/event/IHRL1nLqQ82SonlMzEd_tA/master.m3u8
 #EXTINF:-1 tvg-name="Green Windhoek Jets vs Naankuse Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112807_4626_GWJ_NL_fc-web_1731668241108.jpg" tvg-id="112807" group-title="Castle Lite T20, 2024",Green Windhoek Jets vs Naankuse Lions
