@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "22-11-2024 on 1:53:01 PM \ud83c\udf1e",
+  "total_mathes": 6,
+  "last_upaded": "22-11-2024 on 2:29:36 PM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "KCC T20 Challengers A League, 2024-25",
-      "match_id": 112447,
-      "match_name": "Cochin Hurricanes vs Marafie Bengal Tigers",
-      "team_1": "Cochin Hurricanes",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-COR@2x.png",
-      "team_2": "Marafie Bengal Tigers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MBT@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112447_4616_MBT_COH_fc-web_1731569490936.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/T9EC8s80QzyGrpJ5ADJ4fg/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Ecole T20 Cup, 2024",
@@ -78,15 +66,15 @@
     },
     {
       "event_catagory": "football",
-      "event_name": "A League 2024-25",
-      "match_id": 110917,
-      "match_name": "Perth Glory vs Western United",
-      "team_1": "Perth Glory",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PERTHGA@2x.png",
-      "team_2": "Western United",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WSTA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110917_4567_PG_WST_fc-web_1728983127283.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/qZdRWvalTJ-feVwQ4xrrHg/master.m3u8"
+      "event_name": "Guwahati Premier League 2024",
+      "match_id": 113792,
+      "match_name": "DBI vs Sports Authority of India",
+      "team_1": "DBI",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-DBI@2x.png",
+      "team_2": "Sports Authority of India",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEF-FT5@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/0f0tzFYATcS5Wrw8Zwrt0Q/master.m3u8"
     }
   ]
 }

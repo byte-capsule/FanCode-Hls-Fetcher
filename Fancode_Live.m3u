@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Cochin Hurricanes vs Marafie Bengal Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112447_4616_MBT_COH_fc-web_1731569490936.jpg" tvg-id="112447" group-title="KCC T20 Challengers A League, 2024-25",Cochin Hurricanes vs Marafie Bengal Tigers
-https://dai.google.com/linear/hls/event/T9EC8s80QzyGrpJ5ADJ4fg/master.m3u8
 #EXTINF:-1 tvg-name="Ashtapailu Sports vs Rajasthan Royals Academy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112316_4608_RRC_APS_fc-app_fc-web_1730730043379.jpg" tvg-id="112343" group-title="Ecole T20 Cup, 2024",Ashtapailu Sports vs Rajasthan Royals Academy
 https://dai.google.com/linear/hls/event/PBdkN3nAQGqN0K5J9a7j-Q/master.m3u8
 #EXTINF:-1 tvg-name="Bahrain vs Thailand" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="112370" group-title="ICC Men's T20 World Cup Asia Qualifier B, 2024",Bahrain vs Thailand
@@ -11,5 +9,5 @@ https://dai.google.com/linear/hls/event/qiHJk6OKQaS0zmEz6IIhkQ/master.m3u8
 https://dai.google.com/linear/hls/event/llJYVVJmTN-57Rscrp9N2A/master.m3u8
 #EXTINF:-1 tvg-name="Pak Barcelona vs Men in Blue" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113120_4641_MIB_PKB_fc-web_1732092152258.jpg" tvg-id="113120" group-title="ECS Spain, Encore, 2024",Pak Barcelona vs Men in Blue
 https://dai.google.com/linear/hls/event/22fD0OD8SCOFoqxnVOS-MA/master.m3u8
-#EXTINF:-1 tvg-name="Perth Glory vs Western United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110917_4567_PG_WST_fc-web_1728983127283.jpg" tvg-id="110917" group-title="A League 2024-25",Perth Glory vs Western United
-https://dai.google.com/linear/hls/event/qZdRWvalTJ-feVwQ4xrrHg/master.m3u8
+#EXTINF:-1 tvg-name="DBI vs Sports Authority of India" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1.jpg" tvg-id="113792" group-title="Guwahati Premier League 2024",DBI vs Sports Authority of India
+https://dai.google.com/linear/hls/event/0f0tzFYATcS5Wrw8Zwrt0Q/master.m3u8
