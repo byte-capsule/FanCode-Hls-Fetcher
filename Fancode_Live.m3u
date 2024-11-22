@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Ajman vs Fujairah" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113035_4635_FUJ_AJM_fc-web.jpg" tvg-id="113035" group-title="Emirates D50, 2024",Ajman vs Fujairah
-https://dai.google.com/linear/hls/event/arwcS_3lSCqDuL8pKTiigA/master.m3u8
-#EXTINF:-1 tvg-name="Deccan Gladiators vs Ajman Bolts" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112592_4620_AB_DG_fc-web.jpg" tvg-id="112592" group-title="Abu Dhabi T10 League, 2024",Deccan Gladiators vs Ajman Bolts
-https://dai.google.com/linear/hls/event/QUzkd-tKQd-iP4xDkHgEXQ/master.m3u8
 #EXTINF:-1 tvg-name="West Indies vs Bangladesh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png" tvg-id="112344" group-title="Bangladesh tour of West Indies, 2024",West Indies vs Bangladesh
 https://dai.google.com/linear/hls/event/wVQlmsWJRpyn7oSfZFBe8g/master.m3u8
 #EXTINF:-1 tvg-name="California Golden Eagles vs Carolina Eagles" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113195_4642_CAE_CGE_fc-web.jpg" tvg-id="113195" group-title="US Premier League, 2024",California Golden Eagles vs Carolina Eagles
