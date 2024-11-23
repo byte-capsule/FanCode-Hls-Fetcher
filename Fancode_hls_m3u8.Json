@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 8,
-  "last_upaded": "23-11-2024 on 9:40:29 PM \ud83c\udf19",
+  "total_mathes": 6,
+  "last_upaded": "23-11-2024 on 9:54:15 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -19,18 +19,6 @@
     {
       "event_catagory": "cricket",
       "event_name": "ECS Spain, Encore, 2024",
-      "match_id": 113128,
-      "match_name": "Catalunya Coalesce vs Pak Barcelona",
-      "team_1": "Catalunya Coalesce",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR15@2x.png",
-      "team_2": "Pak Barcelona",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PKB@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113128_4641_PKB_CCO_fc-web_1732093368452.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/-_9z0DXaTmyXylkV6CYvIg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECS Spain, Encore, 2024",
       "match_id": 113129,
       "match_name": "Pak Barcelona vs Catalunya Coalesce",
       "team_1": "Pak Barcelona",
@@ -43,14 +31,14 @@
     {
       "event_catagory": "cricket",
       "event_name": "Abu Dhabi T10 League, 2024",
-      "match_id": 112595,
-      "match_name": "Chennai Brave Jaguars vs Northern Warriors",
-      "team_1": "Chennai Brave Jaguars",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TCB-CR1@2x.png",
-      "team_2": "Northern Warriors",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NOR-CR3@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112595_4620_CB_NW_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/LlxBLX2KST-7ct94sGf_JA/master.m3u8"
+      "match_id": 112596,
+      "match_name": "Deccan Gladiators vs Team Abu Dhabi",
+      "team_1": "Deccan Gladiators",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEG-CR1@2x.png",
+      "team_2": "Team Abu Dhabi",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TAB-CR1@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112596_4620_DG_TAD_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/FNonMYlnTemH3SFU85U1yg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -63,18 +51,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SALH@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
       "stream_link": "https://dai.google.com/linear/hls/event/R3OG8_RiSei1SSkf3Ayq5w/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier C",
-      "match_id": 113772,
-      "match_name": "Sierra Leone vs Ivory Coast",
-      "team_1": "Sierra Leone",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SILN@2x.png",
-      "team_2": "Ivory Coast",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CIV@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/TWLUdp3ATwCqgHRor0YyfQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
