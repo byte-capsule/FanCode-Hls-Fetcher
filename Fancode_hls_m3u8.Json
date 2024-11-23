@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 9,
-  "last_upaded": "23-11-2024 on 3:53:02 PM \ud83c\udf1e",
+  "total_mathes": 8,
+  "last_upaded": "23-11-2024 on 4:23:25 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,6 +15,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VW@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
       "stream_link": "https://dai.google.com/linear/hls/event/9dAj-URtTCqYPBqkOkt5Yg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC Men's T20 World Cup Asia Qualifier B, 2024",
+      "match_id": 112374,
+      "match_name": "Qatar vs Cambodia",
+      "team_1": "Qatar",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-QTR@2x.png",
+      "team_2": "Cambodia",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAMB@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/IeA2Tc3KT6ekH0DeMiQD4Q/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -42,15 +54,15 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Castle Lite T20, 2024",
-      "match_id": 112808,
-      "match_name": "Green Windhoek Jets vs Fish River Eagles",
-      "team_1": "Green Windhoek Jets",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIJ@2x.png",
-      "team_2": "Fish River Eagles",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FRE@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112808_4626_GWJ_FRE_fc-web_1731668240430.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/k3xV8MtlRRSmjKgkBXDhmA/master.m3u8"
+      "event_name": "Abu Dhabi T10 League, 2024",
+      "match_id": 112593,
+      "match_name": "Morrisville Samp Army vs UP Nawabs",
+      "team_1": "Morrisville Samp Army",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MSAA@2x.png",
+      "team_2": "UP Nawabs",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UPN@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112593_4620_MSA_UPN_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/w3EY4ZPORimquKMHNUwH3g/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -65,18 +77,6 @@
       "stream_link": "https://dai.google.com/linear/hls/event/6A-nlSZqTdGyYFQn_IhYnA/master.m3u8"
     },
     {
-      "event_catagory": "cricket",
-      "event_name": "Abu Dhabi T10 League, 2024",
-      "match_id": 112593,
-      "match_name": "Morrisville Samp Army vs UP Nawabs",
-      "team_1": "Morrisville Samp Army",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MSAA@2x.png",
-      "team_2": "UP Nawabs",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UPN@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112593_4620_MSA_UPN_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/w3EY4ZPORimquKMHNUwH3g/master.m3u8"
-    },
-    {
       "event_catagory": "football",
       "event_name": "A League 2024-25",
       "match_id": 110920,
@@ -87,18 +87,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYWA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110920_4567_SYD_SYW_fc-web_1728983127314.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/pzRdLjqqSaOMjHoraRG9Xw/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "Guwahati Premier League 2024",
-      "match_id": 113794,
-      "match_name": "ASEB Sports Club vs Gauhati Town Club",
-      "team_1": "ASEB Sports Club",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ASEB@2x.png",
-      "team_2": "Gauhati Town Club",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GTC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/6uTf37YESc6mcxPVo9YSsw/master.m3u8"
     },
     {
       "event_catagory": "racing",
