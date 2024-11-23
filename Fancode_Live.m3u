@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="New York Cowboys vs NJ Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113197_4642_NYC_NJT_fc-web.jpg" tvg-id="113197" group-title="US Premier League, 2024",New York Cowboys vs NJ Titans
+https://dai.google.com/linear/hls/event/0Ii7_hseT6SkcjkBygmVZg/master.m3u8
 #EXTINF:-1 tvg-name="Catalunya Coalesce vs Pak Barcelona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113128_4641_PKB_CCO_fc-web_1732093368452.jpg" tvg-id="113128" group-title="ECS Spain, Encore, 2024",Catalunya Coalesce vs Pak Barcelona
 https://dai.google.com/linear/hls/event/-_9z0DXaTmyXylkV6CYvIg/master.m3u8
 #EXTINF:-1 tvg-name="Naankuse Lions vs Etosha Wildcats" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112809_4626_NL_ETW_fc-web_1731668240294.jpg" tvg-id="112809" group-title="Castle Lite T20, 2024",Naankuse Lions vs Etosha Wildcats
