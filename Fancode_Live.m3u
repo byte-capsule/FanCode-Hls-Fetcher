@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Garvi Women vs Victorious 11 Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="113680" group-title="Gujarat Women's Championship",Garvi Women vs Victorious 11 Women
-https://dai.google.com/linear/hls/event/9dAj-URtTCqYPBqkOkt5Yg/master.m3u8
 #EXTINF:-1 tvg-name="Qatar vs Cambodia" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="112374" group-title="ICC Men's T20 World Cup Asia Qualifier B, 2024",Qatar vs Cambodia
 https://dai.google.com/linear/hls/event/IeA2Tc3KT6ekH0DeMiQD4Q/master.m3u8
 #EXTINF:-1 tvg-name="Badalona Shaheen vs Catalunya Coalesce" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113127_4641_BSH_CCO_fc-web_1732093368419.jpg" tvg-id="113127" group-title="ECS Spain, Encore, 2024",Badalona Shaheen vs Catalunya Coalesce
@@ -11,5 +9,7 @@ https://dai.google.com/linear/hls/event/wVQlmsWJRpyn7oSfZFBe8g/master.m3u8
 https://dai.google.com/linear/hls/event/QI23tIOgRrqt_HSBrXgxNw/master.m3u8
 #EXTINF:-1 tvg-name="Botswana vs Eswatini" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="113771" group-title="ICC Men's T20 WC Africa Sub Regional Qualifier C",Botswana vs Eswatini
 https://dai.google.com/linear/hls/event/6A-nlSZqTdGyYFQn_IhYnA/master.m3u8
+#EXTINF:-1 tvg-name="Pride East Entertainment vs Sunrise Athletic Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2.jpg" tvg-id="113795" group-title="Guwahati Premier League 2024",Pride East Entertainment vs Sunrise Athletic Club
+https://dai.google.com/linear/hls/event/uoT4CekHRsGlMYZ9UZlJXg/master.m3u8
 #EXTINF:-1 tvg-name="DSBK" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/05/FC_Sports_Default_Motorsports-1440-x-360.jpg" tvg-id="113395" group-title="DSBK Racing Championship",DSBK
 https://dai.google.com/linear/hls/event/yMZUJ8FtRkaqbSnirO3VSg/master.m3u8
