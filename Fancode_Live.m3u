@@ -11,5 +11,11 @@ https://dai.google.com/linear/hls/event/S_Wh-jBnT9i3PHbJYWfTIg/master.m3u8
 https://dai.google.com/linear/hls/event/k3xV8MtlRRSmjKgkBXDhmA/master.m3u8
 #EXTINF:-1 tvg-name="Badalona Shaheen vs Pak Barcelona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113125_4641_PKB_BSH_fc-web_1732093368463.jpg" tvg-id="113125" group-title="ECS Spain, Encore, 2024",Badalona Shaheen vs Pak Barcelona
 https://dai.google.com/linear/hls/event/8iNlWTZMSFKPxpUlKOC68g/master.m3u8
+#EXTINF:-1 tvg-name="Botswana vs Eswatini" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="113771" group-title="ICC Men's T20 WC Africa Sub Regional Qualifier C",Botswana vs Eswatini
+https://dai.google.com/linear/hls/event/6A-nlSZqTdGyYFQn_IhYnA/master.m3u8
+#EXTINF:-1 tvg-name="Sydney FC vs Western Sydney Wanderers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110920_4567_SYD_SYW_fc-web_1728983127314.jpg" tvg-id="110920" group-title="A League 2024-25",Sydney FC vs Western Sydney Wanderers
+https://dai.google.com/linear/hls/event/pzRdLjqqSaOMjHoraRG9Xw/master.m3u8
 #EXTINF:-1 tvg-name="ASEB Sports Club vs Gauhati Town Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1.jpg" tvg-id="113794" group-title="Guwahati Premier League 2024",ASEB Sports Club vs Gauhati Town Club
 https://dai.google.com/linear/hls/event/6uTf37YESc6mcxPVo9YSsw/master.m3u8
+#EXTINF:-1 tvg-name="DSBK" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/05/FC_Sports_Default_Motorsports-1440-x-360.jpg" tvg-id="113394" group-title="DSBK Racing Championship",DSBK
+https://dai.google.com/linear/hls/event/WMAC3iuOQ2ahOxb9Ti7JVQ/master.m3u8
