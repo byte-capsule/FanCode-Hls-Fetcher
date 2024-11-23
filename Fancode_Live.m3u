@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="New York Cowboys vs NJ Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113197_4642_NYC_NJT_fc-web.jpg" tvg-id="113197" group-title="US Premier League, 2024",New York Cowboys vs NJ Titans
 https://dai.google.com/linear/hls/event/0Ii7_hseT6SkcjkBygmVZg/master.m3u8
-#EXTINF:-1 tvg-name="Pak Barcelona vs Catalunya Coalesce" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113129_4641_PKB_CCO_fc-web_1732094236724.jpg" tvg-id="113129" group-title="ECS Spain, Encore, 2024",Pak Barcelona vs Catalunya Coalesce
-https://dai.google.com/linear/hls/event/dsyZi3UgQ4S-yIpLrRHykQ/master.m3u8
 #EXTINF:-1 tvg-name="Deccan Gladiators vs Team Abu Dhabi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112596_4620_DG_TAD_fc-web.jpg" tvg-id="112596" group-title="Abu Dhabi T10 League, 2024",Deccan Gladiators vs Team Abu Dhabi
 https://dai.google.com/linear/hls/event/FNonMYlnTemH3SFU85U1yg/master.m3u8
 #EXTINF:-1 tvg-name="West Indies vs Bangladesh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png" tvg-id="112344" group-title="Bangladesh tour of West Indies, 2024",West Indies vs Bangladesh
 https://dai.google.com/linear/hls/event/wVQlmsWJRpyn7oSfZFBe8g/master.m3u8
+#EXTINF:-1 tvg-name="Kuwait Emerging Stars vs Al Hajery Team XI" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_01_1730875783702.jpg" tvg-id="112574" group-title="KCC T20 Elite Championship 2nd Edition, 2024",Kuwait Emerging Stars vs Al Hajery Team XI
+https://dai.google.com/linear/hls/event/QBIOOIhaQ8eMf0nHeqjPXQ/master.m3u8
