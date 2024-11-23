@@ -3,11 +3,13 @@
 https://dai.google.com/linear/hls/event/9dAj-URtTCqYPBqkOkt5Yg/master.m3u8
 #EXTINF:-1 tvg-name="Qatar vs Cambodia" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="112374" group-title="ICC Men's T20 World Cup Asia Qualifier B, 2024",Qatar vs Cambodia
 https://dai.google.com/linear/hls/event/IeA2Tc3KT6ekH0DeMiQD4Q/master.m3u8
-#EXTINF:-1 tvg-name="Pak Barcelona vs Badalona Shaheen" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113126_4641_PKB_BSH_fc-web_1732093368414.jpg" tvg-id="113126" group-title="ECS Spain, Encore, 2024",Pak Barcelona vs Badalona Shaheen
-https://dai.google.com/linear/hls/event/CbgYJbweQKCI_SVZx5gHMA/master.m3u8
+#EXTINF:-1 tvg-name="Badalona Shaheen vs Catalunya Coalesce" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113127_4641_BSH_CCO_fc-web_1732093368419.jpg" tvg-id="113127" group-title="ECS Spain, Encore, 2024",Badalona Shaheen vs Catalunya Coalesce
+https://dai.google.com/linear/hls/event/WEdQmV2UQcqfYN1kOCTCFw/master.m3u8
 #EXTINF:-1 tvg-name="West Indies vs Bangladesh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png" tvg-id="112344" group-title="Bangladesh tour of West Indies, 2024",West Indies vs Bangladesh
 https://dai.google.com/linear/hls/event/wVQlmsWJRpyn7oSfZFBe8g/master.m3u8
-#EXTINF:-1 tvg-name="Morrisville Samp Army vs UP Nawabs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112593_4620_MSA_UPN_fc-web.jpg" tvg-id="112593" group-title="Abu Dhabi T10 League, 2024",Morrisville Samp Army vs UP Nawabs
-https://dai.google.com/linear/hls/event/w3EY4ZPORimquKMHNUwH3g/master.m3u8
+#EXTINF:-1 tvg-name="Bangla Tigers vs New York Strikers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112594_4620_BT_NYS_fc-web.jpg" tvg-id="112594" group-title="Abu Dhabi T10 League, 2024",Bangla Tigers vs New York Strikers
+https://dai.google.com/linear/hls/event/QI23tIOgRrqt_HSBrXgxNw/master.m3u8
 #EXTINF:-1 tvg-name="Botswana vs Eswatini" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="113771" group-title="ICC Men's T20 WC Africa Sub Regional Qualifier C",Botswana vs Eswatini
 https://dai.google.com/linear/hls/event/6A-nlSZqTdGyYFQn_IhYnA/master.m3u8
+#EXTINF:-1 tvg-name="DSBK" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/05/FC_Sports_Default_Motorsports-1440-x-360.jpg" tvg-id="113395" group-title="DSBK Racing Championship",DSBK
+https://dai.google.com/linear/hls/event/yMZUJ8FtRkaqbSnirO3VSg/master.m3u8
