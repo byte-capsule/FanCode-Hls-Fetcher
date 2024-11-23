@@ -1,20 +1,20 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 8,
-  "last_upaded": "23-11-2024 on 7:31:35 PM \ud83c\udf19",
+  "total_mathes": 7,
+  "last_upaded": "23-11-2024 on 7:54:19 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
-      "event_name": "ICC Men's T20 World Cup Asia Qualifier B, 2024",
-      "match_id": 112374,
-      "match_name": "Qatar vs Cambodia",
-      "team_1": "Qatar",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-QTR@2x.png",
-      "team_2": "Cambodia",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAMB@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/IeA2Tc3KT6ekH0DeMiQD4Q/master.m3u8"
+      "event_name": "ECS Spain, Encore, 2024",
+      "match_id": 113128,
+      "match_name": "Catalunya Coalesce vs Pak Barcelona",
+      "team_1": "Catalunya Coalesce",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR15@2x.png",
+      "team_2": "Pak Barcelona",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PKB@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113128_4641_PKB_CCO_fc-web_1732093368452.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/-_9z0DXaTmyXylkV6CYvIg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -27,6 +27,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ETW@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/112809_4626_NL_ETW_fc-web_1731668240294.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/3VUR-2AJRYySJ8bTKpmOzg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Abu Dhabi T10 League, 2024",
+      "match_id": 112595,
+      "match_name": "Chennai Brave Jaguars vs Northern Warriors",
+      "team_1": "Chennai Brave Jaguars",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TCB-CR1@2x.png",
+      "team_2": "Northern Warriors",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NOR-CR3@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112595_4620_CB_NW_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/LlxBLX2KST-7ct94sGf_JA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -65,18 +77,6 @@
       "stream_link": "https://dai.google.com/linear/hls/event/TWLUdp3ATwCqgHRor0YyfQ/master.m3u8"
     },
     {
-      "event_catagory": "cricket",
-      "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier C",
-      "match_id": 113771,
-      "match_name": "Botswana vs Eswatini",
-      "team_1": "Botswana",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BOTS@2x.png",
-      "team_2": "Eswatini",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESTW@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/6A-nlSZqTdGyYFQn_IhYnA/master.m3u8"
-    },
-    {
       "event_catagory": "football",
       "event_name": "EFL Championship 2024-25",
       "match_id": 109837,
@@ -87,18 +87,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHFU@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/109837_4352_CVC_SHF_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/7W9_6MAdS4qDzrXfivKOWQ/master.m3u8"
-    },
-    {
-      "event_catagory": "racing",
-      "event_name": "DSBK Racing Championship",
-      "match_id": 113395,
-      "match_name": "DSBK",
-      "team_1": "DSBK Racing Championship",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-DS@2x.png",
-      "team_2": "Yas Marina (North Circuit)",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/DSBK-Racing-old-1.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/yMZUJ8FtRkaqbSnirO3VSg/master.m3u8"
     }
   ]
 }
