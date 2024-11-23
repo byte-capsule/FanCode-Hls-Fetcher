@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Garvi Women vs Victorious 11 Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="113680" group-title="Gujarat Women's Championship",Garvi Women vs Victorious 11 Women
+https://dai.google.com/linear/hls/event/9dAj-URtTCqYPBqkOkt5Yg/master.m3u8
 #EXTINF:-1 tvg-name="West Indies vs Bangladesh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png" tvg-id="112344" group-title="Bangladesh tour of West Indies, 2024",West Indies vs Bangladesh
 https://dai.google.com/linear/hls/event/wVQlmsWJRpyn7oSfZFBe8g/master.m3u8
 #EXTINF:-1 tvg-name="United Arab Emirates vs Thailand" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="112373" group-title="ICC Men's T20 World Cup Asia Qualifier B, 2024",United Arab Emirates vs Thailand
@@ -7,5 +9,5 @@ https://dai.google.com/linear/hls/event/arBHeIaXQp-NWa77d0hu2A/master.m3u8
 https://dai.google.com/linear/hls/event/S_Wh-jBnT9i3PHbJYWfTIg/master.m3u8
 #EXTINF:-1 tvg-name="Green Windhoek Jets vs Fish River Eagles" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112808_4626_GWJ_FRE_fc-web_1731668240430.jpg" tvg-id="112808" group-title="Castle Lite T20, 2024",Green Windhoek Jets vs Fish River Eagles
 https://dai.google.com/linear/hls/event/k3xV8MtlRRSmjKgkBXDhmA/master.m3u8
-#EXTINF:-1 tvg-name="Brisbane Roar vs Adelaide United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110919_4567_BRB_ADL_fc-web_1728983127321.jpg" tvg-id="110919" group-title="A League 2024-25",Brisbane Roar vs Adelaide United
-https://dai.google.com/linear/hls/event/dcE_iC6QSSGJW-dIseCQLQ/master.m3u8
+#EXTINF:-1 tvg-name="ASEB Sports Club vs Gauhati Town Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1.jpg" tvg-id="113794" group-title="Guwahati Premier League 2024",ASEB Sports Club vs Gauhati Town Club
+https://dai.google.com/linear/hls/event/6uTf37YESc6mcxPVo9YSsw/master.m3u8
