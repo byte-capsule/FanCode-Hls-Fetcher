@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "23-11-2024 on 1:38:37 PM \ud83c\udf1e",
+  "total_mathes": 5,
+  "last_upaded": "23-11-2024 on 1:53:15 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -63,18 +63,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ADLA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110919_4567_BRB_ADL_fc-web_1728983127321.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/dcE_iC6QSSGJW-dIseCQLQ/master.m3u8"
-    },
-    {
-      "event_catagory": "formula1",
-      "event_name": "F1 HEINEKEN SILVER LAS VEGAS GRAND PRIX 2024",
-      "match_id": 95246,
-      "match_name": "Qualifying",
-      "team_1": "Qualifying",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
-      "team_2": "United States of America",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/F1_LAS_Vegas_Old_match-card.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/MhjhEVpASv6Ahbczs6043A/master.m3u8"
     }
   ]
 }
