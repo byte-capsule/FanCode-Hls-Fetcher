@@ -3,8 +3,6 @@
 https://dai.google.com/linear/hls/event/0Ii7_hseT6SkcjkBygmVZg/master.m3u8
 #EXTINF:-1 tvg-name="Catalunya Coalesce vs Pak Barcelona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113128_4641_PKB_CCO_fc-web_1732093368452.jpg" tvg-id="113128" group-title="ECS Spain, Encore, 2024",Catalunya Coalesce vs Pak Barcelona
 https://dai.google.com/linear/hls/event/-_9z0DXaTmyXylkV6CYvIg/master.m3u8
-#EXTINF:-1 tvg-name="Naankuse Lions vs Etosha Wildcats" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112809_4626_NL_ETW_fc-web_1731668240294.jpg" tvg-id="112809" group-title="Castle Lite T20, 2024",Naankuse Lions vs Etosha Wildcats
-https://dai.google.com/linear/hls/event/3VUR-2AJRYySJ8bTKpmOzg/master.m3u8
 #EXTINF:-1 tvg-name="Chennai Brave Jaguars vs Northern Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112595_4620_CB_NW_fc-web.jpg" tvg-id="112595" group-title="Abu Dhabi T10 League, 2024",Chennai Brave Jaguars vs Northern Warriors
 https://dai.google.com/linear/hls/event/LlxBLX2KST-7ct94sGf_JA/master.m3u8
 #EXTINF:-1 tvg-name="Nigeria vs Saint Helena" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="113773" group-title="ICC Men's T20 WC Africa Sub Regional Qualifier C",Nigeria vs Saint Helena
@@ -13,3 +11,5 @@ https://dai.google.com/linear/hls/event/R3OG8_RiSei1SSkf3Ayq5w/master.m3u8
 https://dai.google.com/linear/hls/event/TWLUdp3ATwCqgHRor0YyfQ/master.m3u8
 #EXTINF:-1 tvg-name="West Indies vs Bangladesh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png" tvg-id="112344" group-title="Bangladesh tour of West Indies, 2024",West Indies vs Bangladesh
 https://dai.google.com/linear/hls/event/wVQlmsWJRpyn7oSfZFBe8g/master.m3u8
+#EXTINF:-1 tvg-name="Oxford United vs Middlesbrough" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109838_4352_OU_MIDD_fc-web.jpg" tvg-id="109838" group-title="EFL Championship 2024-25",Oxford United vs Middlesbrough
+https://dai.google.com/linear/hls/event/RKbP1mwCSFWZdIB-29Qh3A/master.m3u8
