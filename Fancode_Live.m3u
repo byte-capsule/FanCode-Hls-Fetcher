@@ -1,12 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Pak I Care Badalona vs Catalunya Coalesce" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113133_4641_CCO_PIC_fc-web_1732094530346.jpg" tvg-id="113133" group-title="ECS Spain, Encore, 2024",Pak I Care Badalona vs Catalunya Coalesce
+https://dai.google.com/linear/hls/event/EgwMg6BISeaFU_jijw2Q2Q/master.m3u8
 #EXTINF:-1 tvg-name="Etosha Wildcats vs Green Windhoek Jets" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112811_4626_GWJ_ETW_fc-web_1731668240312.jpg" tvg-id="112811" group-title="Castle Lite T20, 2024",Etosha Wildcats vs Green Windhoek Jets
 https://dai.google.com/linear/hls/event/RTg-LnF7SnOiK9Mce2AqPw/master.m3u8
 #EXTINF:-1 tvg-name="West Indies vs Bangladesh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png" tvg-id="112344" group-title="Bangladesh tour of West Indies, 2024",West Indies vs Bangladesh
 https://dai.google.com/linear/hls/event/wVQlmsWJRpyn7oSfZFBe8g/master.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-PAK_Old_match-card.jpg" tvg-id="112355" group-title="Pakistan tour of Zimbabwe, 2024",Zimbabwe vs Pakistan
 https://dai.google.com/linear/hls/event/CHkQAlqbT6quj-yEiNpy4g/master.m3u8
-#EXTINF:-1 tvg-name="Delhi Bulls vs Ajman Bolts" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112598_4620_DB_AB_fc-web.jpg" tvg-id="112598" group-title="Abu Dhabi T10 League, 2024",Delhi Bulls vs Ajman Bolts
-https://dai.google.com/linear/hls/event/3pe71w_XQhSWSbNcEe7uNg/master.m3u8
+#EXTINF:-1 tvg-name="Deccan Gladiators vs New York Strikers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112599_4620_NYS_DG_fc-web.jpg" tvg-id="112599" group-title="Abu Dhabi T10 League, 2024",Deccan Gladiators vs New York Strikers
+https://dai.google.com/linear/hls/event/8nu88b__R36TS5dM1j02DQ/master.m3u8
 #EXTINF:-1 tvg-name="Eswatini vs Saint Helena" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="113785" group-title="ICC Men's T20 WC Africa Sub Regional Qualifier C",Eswatini vs Saint Helena
 https://dai.google.com/linear/hls/event/-J5RoLqkRfy1PGoSqxDFWA/master.m3u8
 #EXTINF:-1 tvg-name="Nigeria vs Ivory Coast" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="113784" group-title="ICC Men's T20 WC Africa Sub Regional Qualifier C",Nigeria vs Ivory Coast
