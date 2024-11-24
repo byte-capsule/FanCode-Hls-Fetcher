@@ -1,20 +1,20 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 8,
-  "last_upaded": "24-11-2024 on 3:23:50 PM \ud83c\udf1e",
+  "total_mathes": 7,
+  "last_upaded": "24-11-2024 on 3:39:07 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
       "event_name": "ECS Spain, Encore, 2024",
-      "match_id": 113130,
+      "match_id": 113131,
       "match_name": "Men in Blue vs United CC Olot",
       "team_1": "Men in Blue",
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MB@2x.png",
       "team_2": "United CC Olot",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/UCC-CR3@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113130_4641_MIB_UCC_fc-web_1732093368460.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/r3TjhDg5RW-5OklnftZEOQ/master.m3u8"
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113131_4641_MIB_UCC_fc-web_1732094530291.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/0Rw-ObjOQbiqDWg3L0AUEQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -39,18 +39,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-PAK_Old_match-card.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/CHkQAlqbT6quj-yEiNpy4g/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Gujarat Women's Championship",
-      "match_id": 113681,
-      "match_name": "Rebel Queens Women vs Garvi Women",
-      "team_1": "Rebel Queens Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RQW@2x.png",
-      "team_2": "Garvi Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GRW@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/i_7SrceYSVSxAIwgh2ATKg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -90,7 +78,7 @@
     },
     {
       "event_catagory": "football",
-      "event_name": "Guwahati Premier League 2024",
+      "event_name": "2nd Protech Guwahati Premier League 2024",
       "match_id": 113796,
       "match_name": "G Plus Athletic vs Sports Authority of India",
       "team_1": "G Plus Athletic",
