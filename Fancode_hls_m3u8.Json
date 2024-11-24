@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "24-11-2024 on 0:53:54 PM \ud83c\udf1e",
+  "total_mathes": 5,
+  "last_upaded": "24-11-2024 on 1:22:37 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -29,16 +29,28 @@
       "stream_link": "https://dai.google.com/linear/hls/event/wVQlmsWJRpyn7oSfZFBe8g/master.m3u8"
     },
     {
-      "event_catagory": "football",
-      "event_name": "A League 2024-25",
-      "match_id": 110922,
-      "match_name": "Macarthur vs Auckland",
-      "team_1": "Macarthur",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MACA@2x.png",
-      "team_2": "Auckland",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AUCK@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110922_4567_MAC_AFC_fc-web_1728983128335.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/eiR6tGsvS4WpBgMCc_Io4w/master.m3u8"
+      "event_catagory": "cricket",
+      "event_name": "Castle Lite T20, 2024",
+      "match_id": 112810,
+      "match_name": "Fish River Eagles vs Naankuse Lions",
+      "team_1": "Fish River Eagles",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FRE@2x.png",
+      "team_2": "Naankuse Lions",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NDL@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112810_4626_NL_FRE_fc-web_1731668240437.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/rjk_b6ARSbSKJfPw1REs4A/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Pakistan tour of Zimbabwe, 2024",
+      "match_id": 112355,
+      "match_name": "Zimbabwe vs Pakistan",
+      "team_1": "Zimbabwe",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
+      "team_2": "Pakistan",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-PAK_Old_match-card.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/CHkQAlqbT6quj-yEiNpy4g/master.m3u8"
     },
     {
       "event_catagory": "formula1",
