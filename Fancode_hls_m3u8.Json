@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "24-11-2024 on 9:53:02 PM \ud83c\udf19",
+  "total_mathes": 5,
+  "last_upaded": "24-11-2024 on 10:45:58 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -31,18 +31,6 @@
     {
       "event_catagory": "cricket",
       "event_name": "Abu Dhabi T10 League, 2024",
-      "match_id": 112599,
-      "match_name": "Deccan Gladiators vs New York Strikers",
-      "team_1": "Deccan Gladiators",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEG-CR1@2x.png",
-      "team_2": "New York Strikers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NYS@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112599_4620_NYS_DG_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/8nu88b__R36TS5dM1j02DQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Abu Dhabi T10 League, 2024",
       "match_id": 112600,
       "match_name": "Chennai Brave Jaguars vs Morrisville Samp Army",
       "team_1": "Chennai Brave Jaguars",
@@ -51,18 +39,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MSAA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/112600_4620_MSA_CB_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/xbr_rh01SpK0Lg1S_Dn9bA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier C",
-      "match_id": 113785,
-      "match_name": "Eswatini vs Saint Helena",
-      "team_1": "Eswatini",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESTW@2x.png",
-      "team_2": "Saint Helena",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SALH@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/-J5RoLqkRfy1PGoSqxDFWA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
