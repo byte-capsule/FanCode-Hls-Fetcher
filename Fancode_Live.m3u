@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="West Indies vs Bangladesh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png" tvg-id="112344" group-title="Bangladesh tour of West Indies, 2024",West Indies vs Bangladesh
 https://dai.google.com/linear/hls/event/wVQlmsWJRpyn7oSfZFBe8g/master.m3u8
-#EXTINF:-1 tvg-name="Wellington Phoenix vs Melbourne Victory" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110921_4567_WEL_MLV_fc-web_1728983127415.jpg" tvg-id="110921" group-title="A League 2024-25",Wellington Phoenix vs Melbourne Victory
-https://dai.google.com/linear/hls/event/qzx7T-6bRZe9Xtq_HJuqiw/master.m3u8
+#EXTINF:-1 tvg-name="Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_LAS_Vegas_Old_match-card.jpg" tvg-id="95247" group-title="F1 HEINEKEN SILVER LAS VEGAS GRAND PRIX 2024",Race
+https://dai.google.com/linear/hls/event/haaPIqC7SB2AGh_Ew6m5mQ/master.m3u8
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-PGA-championship-old.jpg" tvg-id="113052" group-title="BMW Australian PGA Championship",Day 4
 https://dai.google.com/linear/hls/event/RzqLxdp4T8-H5HbD3T16AA/master.m3u8
