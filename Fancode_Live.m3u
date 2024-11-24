@@ -1,13 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Men in Blue vs United CC Olot" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113131_4641_MIB_UCC_fc-web_1732094530291.jpg" tvg-id="113131" group-title="ECS Spain, Encore, 2024",Men in Blue vs United CC Olot
 https://dai.google.com/linear/hls/event/0Rw-ObjOQbiqDWg3L0AUEQ/master.m3u8
+#EXTINF:-1 tvg-name="Pak I Care Badalona vs Men in Blue" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113132_4641_MIB_PIC_fc-web_1732094530327.jpg" tvg-id="113132" group-title="ECS Spain, Encore, 2024",Pak I Care Badalona vs Men in Blue
+https://dai.google.com/linear/hls/event/Winmc3ukS6KdKgIMl2dssA/master.m3u8
 #EXTINF:-1 tvg-name="West Indies vs Bangladesh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png" tvg-id="112344" group-title="Bangladesh tour of West Indies, 2024",West Indies vs Bangladesh
 https://dai.google.com/linear/hls/event/wVQlmsWJRpyn7oSfZFBe8g/master.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-PAK_Old_match-card.jpg" tvg-id="112355" group-title="Pakistan tour of Zimbabwe, 2024",Zimbabwe vs Pakistan
 https://dai.google.com/linear/hls/event/CHkQAlqbT6quj-yEiNpy4g/master.m3u8
+#EXTINF:-1 tvg-name="Delhi Bulls vs Ajman Bolts" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112598_4620_DB_AB_fc-web.jpg" tvg-id="112598" group-title="Abu Dhabi T10 League, 2024",Delhi Bulls vs Ajman Bolts
+https://dai.google.com/linear/hls/event/3pe71w_XQhSWSbNcEe7uNg/master.m3u8
 #EXTINF:-1 tvg-name="Sierra Leone vs Botswana" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="113783" group-title="ICC Men's T20 WC Africa Sub Regional Qualifier C",Sierra Leone vs Botswana
 https://dai.google.com/linear/hls/event/rbQTp1FGS-OlYAZeircs3g/master.m3u8
-#EXTINF:-1 tvg-name="Northern Warriors vs UP Nawabs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112597_4620_UPN_NW_fc-web.jpg" tvg-id="112597" group-title="Abu Dhabi T10 League, 2024",Northern Warriors vs UP Nawabs
-https://dai.google.com/linear/hls/event/BjNVRmTCRISXXRoKeEr0tQ/master.m3u8
 #EXTINF:-1 tvg-name="North East Frontier Railways SA vs Red Bees Inc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2.jpg" tvg-id="113797" group-title="2nd Protech Guwahati Premier League 2024",North East Frontier Railways SA vs Red Bees Inc
 https://dai.google.com/linear/hls/event/Vc9rS9jZQ76s91HcZQ44og/master.m3u8
