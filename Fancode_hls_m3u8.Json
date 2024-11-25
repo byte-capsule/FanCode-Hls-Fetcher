@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "25-11-2024 on 7:53:27 PM \ud83c\udf19",
+  "total_mathes": 6,
+  "last_upaded": "25-11-2024 on 8:44:26 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -63,6 +63,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TCB-CR1@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/112602_4620_CB_AB_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/CebZTFxTTyiXrPDU1zLYPw/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "AFC Champions League Elite 2024-25",
+      "match_id": 108675,
+      "match_name": "Al Ain vs Al-Ahli",
+      "team_1": "Al Ain",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALAIN@2x.png",
+      "team_2": "Al-Ahli",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AAS@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/prod-images/2024/09/108675_4475_AAI_AAS_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/Mi6yTABGSJ-l_Fo7QrfZCA/master.m3u8"
     }
   ]
 }
