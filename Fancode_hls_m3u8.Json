@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 8,
-  "last_upaded": "25-11-2024 on 10:55:15 PM \ud83c\udf19",
+  "total_mathes": 7,
+  "last_upaded": "25-11-2024 on 11:21:17 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -18,27 +18,15 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "ECS Spain, Encore, 2024",
-      "match_id": 113139,
-      "match_name": "Catalunya Coalesce vs United CC Olot",
-      "team_1": "Catalunya Coalesce",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR15@2x.png",
-      "team_2": "United CC Olot",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/UCC-CR3@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113139_4641_UCC_CCO_fc-web_1732094531844.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/pzVGgO-VTbOwVxRi14OAJQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Emirates D50, 2024",
-      "match_id": 113038,
-      "match_name": "Abu Dhabi vs Fujairah",
-      "team_1": "Abu Dhabi",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ABUD@2x.png",
-      "team_2": "Fujairah",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FUJA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113023_4635_ABD_FUJ_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/7pP9UxFqTW-Nn3jHXH9rRg/master.m3u8"
+      "event_name": "Abu Dhabi T10 League, 2024",
+      "match_id": 112603,
+      "match_name": "Delhi Bulls vs Bangla Tigers",
+      "team_1": "Delhi Bulls",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEB-CR1@2x.png",
+      "team_2": "Bangla Tigers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/BAT-CR1@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/DB-vs-BT_old.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/8EsAZ2RGSFmZcg8xoPhjtg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -54,18 +42,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Abu Dhabi T10 League, 2024",
-      "match_id": 112603,
-      "match_name": "Delhi Bulls vs Bangla Tigers",
-      "team_1": "Delhi Bulls",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEB-CR1@2x.png",
-      "team_2": "Bangla Tigers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/BAT-CR1@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/DB-vs-BT_old.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/8EsAZ2RGSFmZcg8xoPhjtg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "Dream11 Trinidad T10 Blast, 6th Edition, 2024",
       "match_id": 113553,
       "match_name": "Trillions System Ltd Strikers vs Blue Devils",
@@ -75,6 +51,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLUD@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/113553_4653_TLS_BLD_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/a01jwOIuTGixP4-0pqtxJA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "KCC T20 Elite Championship 2nd Edition, 2024",
+      "match_id": 112575,
+      "match_name": "Kuwait Swedish vs Kuwait Emerging Stars",
+      "team_1": "Kuwait Swedish",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUSW@2x.png",
+      "team_2": "Kuwait Emerging Stars",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR1@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_02_1730875782922.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/hDYv-EjzQBO6jCEOPZYW8A/master.m3u8"
     },
     {
       "event_catagory": "football",
