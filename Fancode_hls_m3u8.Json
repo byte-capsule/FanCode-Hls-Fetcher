@@ -2,8 +2,20 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 3,
-  "last_upaded": "25-11-2024 on 3:56:17 PM \ud83c\udf1e",
+  "last_upaded": "25-11-2024 on 4:27:44 PM \ud83c\udf1e",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC Men's T20 World Cup Asia Qualifier B, 2024",
+      "match_id": 112377,
+      "match_name": "Thailand vs Bhutan",
+      "team_1": "Thailand",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THL@2x.png",
+      "team_2": "Bhutan",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BHU@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/fgUvYM5_Qxe0jv87HrYZRw/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "ECS Spain, Encore, 2024",
@@ -27,18 +39,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png",
       "stream_link": "https://dai.google.com/linear/hls/event/wVQlmsWJRpyn7oSfZFBe8g/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "2nd Protech Guwahati Premier League 2024",
-      "match_id": 113798,
-      "match_name": "Gauhati Town Club vs FC Green Valley",
-      "team_1": "Gauhati Town Club",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GTC@2x.png",
-      "team_2": "FC Green Valley",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEF-FT1@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/eZ3bCA-KSb6TDblffVPACA/master.m3u8"
     }
   ]
 }
