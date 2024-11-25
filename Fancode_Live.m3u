@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Maryland Mavericks vs California Golden Eagles" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113203_4642_MAV_CGE_fc-web.jpg" tvg-id="113203" group-title="US Premier League, 2024",Maryland Mavericks vs California Golden Eagles
-https://dai.google.com/linear/hls/event/9DQVMwNuQuG2ZZu4o-TcxA/master.m3u8
 #EXTINF:-1 tvg-name="Delhi Bulls vs Bangla Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DB-vs-BT_old.jpg" tvg-id="112603" group-title="Abu Dhabi T10 League, 2024",Delhi Bulls vs Bangla Tigers
 https://dai.google.com/linear/hls/event/8EsAZ2RGSFmZcg8xoPhjtg/master.m3u8
 #EXTINF:-1 tvg-name="West Indies vs Bangladesh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png" tvg-id="112344" group-title="Bangladesh tour of West Indies, 2024",West Indies vs Bangladesh
