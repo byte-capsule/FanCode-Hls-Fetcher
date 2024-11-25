@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "25-11-2024 on 2:55:12 PM \ud83c\udf1e",
+  "total_mathes": 3,
+  "last_upaded": "25-11-2024 on 3:26:15 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -19,18 +19,6 @@
     {
       "event_catagory": "cricket",
       "event_name": "ICC Men's T20 World Cup Asia Qualifier B, 2024",
-      "match_id": 112376,
-      "match_name": "Cambodia vs Saudi Arabia",
-      "team_1": "Cambodia",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAMB@2x.png",
-      "team_2": "Saudi Arabia",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KSA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/mWb3RdeBS3SHFgTwQz7GSA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC Men's T20 World Cup Asia Qualifier B, 2024",
       "match_id": 112375,
       "match_name": "Qatar vs Bahrain",
       "team_1": "Qatar",
@@ -39,18 +27,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAH@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
       "stream_link": "https://dai.google.com/linear/hls/event/8yCszVyhTT-AD4MaQhqE1A/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECS Spain, Encore, 2024",
-      "match_id": 113135,
-      "match_name": "United CC Olot vs Badalona Shaheen",
-      "team_1": "United CC Olot",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/UCC-CR3@2x.png",
-      "team_2": "Badalona Shaheen",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/BSH-CR1@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113135_4641_UCC_BSH_fc-web_1732095063022.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/E6e1L0KZTBm2b4Ux8kFq1g/master.m3u8"
     },
     {
       "event_catagory": "football",
