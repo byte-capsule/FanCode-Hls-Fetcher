@@ -1,9 +1,21 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "25-11-2024 on 11:41:54 PM \ud83c\udf19",
+  "total_mathes": 7,
+  "last_upaded": "25-11-2024 on 11:54:54 PM \ud83c\udf19",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "US Premier League, 2024",
+      "match_id": 113204,
+      "match_name": "NJ Titans vs Carolina Eagles",
+      "team_1": "NJ Titans",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NJT@2x.png",
+      "team_2": "Carolina Eagles",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAE@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113204_4642_CAE_NJT_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/lRpyCrdNQzaec8NjLV93Cw/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "Abu Dhabi T10 League, 2024",
