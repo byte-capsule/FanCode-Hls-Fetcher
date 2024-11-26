@@ -1,7 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Soca Kings vs Scarlet Ibis Scorchers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113555_4653_SCK_SLS_fc-web.jpg" tvg-id="113555" group-title="Dream11 Trinidad T10 Blast, 6th Edition, 2024",Soca Kings vs Scarlet Ibis Scorchers
+https://dai.google.com/linear/hls/event/mFV52mq5Sge1D5DE8RPyYQ/master.m3u8
 #EXTINF:-1 tvg-name="Atlanta Blackcaps vs NJ Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113206_4642_AB_NJT_fc-web.jpg" tvg-id="113206" group-title="US Premier League, 2024",Atlanta Blackcaps vs NJ Titans
 https://dai.google.com/linear/hls/event/omw1GGWCTQG-h1ncHNOxuA/master.m3u8
 #EXTINF:-1 tvg-name="Morrisville Samp Army vs Delhi Bulls" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112606_4620_MSA_DB_fc-web.jpg" tvg-id="112606" group-title="Abu Dhabi T10 League, 2024",Morrisville Samp Army vs Delhi Bulls
 https://dai.google.com/linear/hls/event/XjMUVnUQSzytRcxPUY7_LQ/master.m3u8
-#EXTINF:-1 tvg-name="Sharjah vs Istiklol" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108755_4476_SHJ_ISK_fc-web.jpg" tvg-id="108755" group-title="AFC Champions League Two 2024-25",Sharjah vs Istiklol
-https://dai.google.com/linear/hls/event/gFkIDEn-RVSZpP6yjGA0QQ/master.m3u8
+#EXTINF:-1 tvg-name="Al Sadd vs Al-Hilal" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/09/108680_4475_SDD_AHS_fc-web.jpg" tvg-id="108680" group-title="AFC Champions League Elite 2024-25",Al Sadd vs Al-Hilal
+https://dai.google.com/linear/hls/event/09b2Jl2GRHWDqlcdOdvClg/master.m3u8
+#EXTINF:-1 tvg-name="Al Shorta vs Al Wasl" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/09/108679_4475_SHR_AWL_fc-web.jpg" tvg-id="108679" group-title="AFC Champions League Elite 2024-25",Al Shorta vs Al Wasl
+https://dai.google.com/linear/hls/event/2-Ibk_5OS1GoplhI29zOIw/master.m3u8
+#EXTINF:-1 tvg-name="Sepahan vs Al Wehdat" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108756_4476_SEP_ALW_fc-web.jpg" tvg-id="108756" group-title="AFC Champions League Two 2024-25",Sepahan vs Al Wehdat
+https://dai.google.com/linear/hls/event/j4hldfV4QV6jW3xlGVwDIw/master.m3u8
