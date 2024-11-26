@@ -1,11 +1,15 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Barcelona International vs Pak Barcelona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113140_4641_PKB_BI_fc-web_1732094530304.jpg" tvg-id="113140" group-title="ECS Spain, Encore, 2024",Barcelona International vs Pak Barcelona
+https://dai.google.com/linear/hls/event/deXSstBBSt6X1qx6AmWygQ/master.m3u8
 #EXTINF:-1 tvg-name="West Indies vs Bangladesh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png" tvg-id="112344" group-title="Bangladesh tour of West Indies, 2024",West Indies vs Bangladesh
 https://dai.google.com/linear/hls/event/wVQlmsWJRpyn7oSfZFBe8g/master.m3u8
+#EXTINF:-1 tvg-name="Zimbabwe vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-PAK_Old_match-card.jpg" tvg-id="112356" group-title="Pakistan tour of Zimbabwe, 2024",Zimbabwe vs Pakistan
+https://dai.google.com/linear/hls/event/nDGYUTQMQwOMHfwMzMppdQ/master.m3u8
 #EXTINF:-1 tvg-name="Bahrain vs Cambodia" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="112379" group-title="ICC Men's T20 World Cup Asia Qualifier B, 2024",Bahrain vs Cambodia
 https://dai.google.com/linear/hls/event/VKKNQdjtSsaxrOLbOIgrrg/master.m3u8
 #EXTINF:-1 tvg-name="Thailand vs Saudi Arabia" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="112378" group-title="ICC Men's T20 World Cup Asia Qualifier B, 2024",Thailand vs Saudi Arabia
 https://dai.google.com/linear/hls/event/EAHwYxnKQWGDMBPfwgaWOg/master.m3u8
-#EXTINF:-1 tvg-name="Zimbabwe vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-PAK_Old_match-card.jpg" tvg-id="112356" group-title="Pakistan tour of Zimbabwe, 2024",Zimbabwe vs Pakistan
-https://dai.google.com/linear/hls/event/nDGYUTQMQwOMHfwMzMppdQ/master.m3u8
-#EXTINF:-1 tvg-name="Barcelona International vs Pak Barcelona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113140_4641_PKB_BI_fc-web_1732094530304.jpg" tvg-id="113140" group-title="ECS Spain, Encore, 2024",Barcelona International vs Pak Barcelona
-https://dai.google.com/linear/hls/event/deXSstBBSt6X1qx6AmWygQ/master.m3u8
+#EXTINF:-1 tvg-name="Saint Helena vs Sierra Leone" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="113777" group-title="ICC Men's T20 WC Africa Sub Regional Qualifier C",Saint Helena vs Sierra Leone
+https://dai.google.com/linear/hls/event/RqZD6Q4YShedhAur8SmPww/master.m3u8
+#EXTINF:-1 tvg-name="Oil India Limited vs G Plus Athletic" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg" tvg-id="113803" group-title="2nd Protech Guwahati Premier League 2024",Oil India Limited vs G Plus Athletic
+https://dai.google.com/linear/hls/event/X9QYfp3rRJK3_EeJ71fAXw/master.m3u8
