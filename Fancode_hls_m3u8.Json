@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 8,
-  "last_upaded": "26-11-2024 on 4:46:27 PM \ud83c\udf1e",
+  "total_mathes": 7,
+  "last_upaded": "26-11-2024 on 5:19:11 PM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECS Spain, Encore, 2024",
-      "match_id": 113141,
-      "match_name": "Barcelona International vs Pak Barcelona",
-      "team_1": "Barcelona International",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BI@2x.png",
-      "team_2": "Pak Barcelona",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PKB@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113141_4641_PKB_BI_fc-web_1732095501980.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/645wuo8sT462Zx11lx3SuA/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "ICC Men's T20 World Cup Asia Qualifier B, 2024",
