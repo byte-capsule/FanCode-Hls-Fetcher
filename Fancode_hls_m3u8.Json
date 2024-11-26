@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "26-11-2024 on 3:55:38 PM \ud83c\udf1e",
+  "total_mathes": 8,
+  "last_upaded": "26-11-2024 on 4:46:27 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,6 +15,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PKB@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/113141_4641_PKB_BI_fc-web_1732095501980.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/645wuo8sT462Zx11lx3SuA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC Men's T20 World Cup Asia Qualifier B, 2024",
+      "match_id": 112380,
+      "match_name": "United Arab Emirates vs Qatar",
+      "team_1": "United Arab Emirates",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UAE@2x.png",
+      "team_2": "Qatar",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-QTR@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/KyFJaJGkQCq56s44oYgJ_A/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -54,15 +66,39 @@
     },
     {
       "event_catagory": "football",
+      "event_name": "AFC Champions League Elite 2024-25",
+      "match_id": 108682,
+      "match_name": "Ulsan HD vs Shanghai Port",
+      "team_1": "Ulsan HD",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ULS@2x.png",
+      "team_2": "Shanghai Port",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHANGP@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/prod-images/2024/09/108682_4475_ULS_SHG_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/m6nMz-oiSpCfi7KNyQssGQ/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "AFC Champions League Elite 2024-25",
+      "match_id": 108681,
+      "match_name": "Vissel Kobe vs Central Coast Mariners",
+      "team_1": "Vissel Kobe",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VKO@2x.png",
+      "team_2": "Central Coast Mariners",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CENTA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/prod-images/2024/09/108681_4475_VIS_CCM_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/K-QdNr7XRw-t4s_IMO2H_g/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
       "event_name": "2nd Protech Guwahati Premier League 2024",
-      "match_id": 113803,
-      "match_name": "Oil India Limited vs G Plus Athletic",
-      "team_1": "Oil India Limited",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-OIL@2x.png",
-      "team_2": "G Plus Athletic",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GLPS@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/X9QYfp3rRJK3_EeJ71fAXw/master.m3u8"
+      "match_id": 113804,
+      "match_name": "North East Frontier Railways SA vs Numaligarh Refinery Limited",
+      "team_1": "North East Frontier Railways SA",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NEFR@2x.png",
+      "team_2": "Numaligarh Refinery Limited",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NRL@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/UKqD8Js6Q0aL7l_8IJHmWQ/master.m3u8"
     }
   ]
 }

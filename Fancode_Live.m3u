@@ -1,11 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Barcelona International vs Pak Barcelona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113141_4641_PKB_BI_fc-web_1732095501980.jpg" tvg-id="113141" group-title="ECS Spain, Encore, 2024",Barcelona International vs Pak Barcelona
 https://dai.google.com/linear/hls/event/645wuo8sT462Zx11lx3SuA/master.m3u8
+#EXTINF:-1 tvg-name="United Arab Emirates vs Qatar" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="112380" group-title="ICC Men's T20 World Cup Asia Qualifier B, 2024",United Arab Emirates vs Qatar
+https://dai.google.com/linear/hls/event/KyFJaJGkQCq56s44oYgJ_A/master.m3u8
 #EXTINF:-1 tvg-name="West Indies vs Bangladesh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png" tvg-id="112344" group-title="Bangladesh tour of West Indies, 2024",West Indies vs Bangladesh
 https://dai.google.com/linear/hls/event/wVQlmsWJRpyn7oSfZFBe8g/master.m3u8
 #EXTINF:-1 tvg-name="Saint Helena vs Sierra Leone" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="113777" group-title="ICC Men's T20 WC Africa Sub Regional Qualifier C",Saint Helena vs Sierra Leone
 https://dai.google.com/linear/hls/event/RqZD6Q4YShedhAur8SmPww/master.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-PAK_Old_match-card.jpg" tvg-id="112356" group-title="Pakistan tour of Zimbabwe, 2024",Zimbabwe vs Pakistan
 https://dai.google.com/linear/hls/event/nDGYUTQMQwOMHfwMzMppdQ/master.m3u8
-#EXTINF:-1 tvg-name="Oil India Limited vs G Plus Athletic" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg" tvg-id="113803" group-title="2nd Protech Guwahati Premier League 2024",Oil India Limited vs G Plus Athletic
-https://dai.google.com/linear/hls/event/X9QYfp3rRJK3_EeJ71fAXw/master.m3u8
+#EXTINF:-1 tvg-name="Ulsan HD vs Shanghai Port" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/09/108682_4475_ULS_SHG_fc-web.jpg" tvg-id="108682" group-title="AFC Champions League Elite 2024-25",Ulsan HD vs Shanghai Port
+https://dai.google.com/linear/hls/event/m6nMz-oiSpCfi7KNyQssGQ/master.m3u8
+#EXTINF:-1 tvg-name="Vissel Kobe vs Central Coast Mariners" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/09/108681_4475_VIS_CCM_fc-web.jpg" tvg-id="108681" group-title="AFC Champions League Elite 2024-25",Vissel Kobe vs Central Coast Mariners
+https://dai.google.com/linear/hls/event/K-QdNr7XRw-t4s_IMO2H_g/master.m3u8
+#EXTINF:-1 tvg-name="North East Frontier Railways SA vs Numaligarh Refinery Limited" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2.jpg" tvg-id="113804" group-title="2nd Protech Guwahati Premier League 2024",North East Frontier Railways SA vs Numaligarh Refinery Limited
+https://dai.google.com/linear/hls/event/UKqD8Js6Q0aL7l_8IJHmWQ/master.m3u8
