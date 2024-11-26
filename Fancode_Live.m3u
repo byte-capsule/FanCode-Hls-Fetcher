@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="West Indies vs Bangladesh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png" tvg-id="112344" group-title="Bangladesh tour of West Indies, 2024",West Indies vs Bangladesh
 https://dai.google.com/linear/hls/event/wVQlmsWJRpyn7oSfZFBe8g/master.m3u8
+#EXTINF:-1 tvg-name="Bahrain vs Cambodia" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="112379" group-title="ICC Men's T20 World Cup Asia Qualifier B, 2024",Bahrain vs Cambodia
+https://dai.google.com/linear/hls/event/VKKNQdjtSsaxrOLbOIgrrg/master.m3u8
+#EXTINF:-1 tvg-name="Thailand vs Saudi Arabia" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="112378" group-title="ICC Men's T20 World Cup Asia Qualifier B, 2024",Thailand vs Saudi Arabia
+https://dai.google.com/linear/hls/event/EAHwYxnKQWGDMBPfwgaWOg/master.m3u8
