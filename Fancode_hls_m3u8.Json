@@ -1,20 +1,20 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "26-11-2024 on 2:55:18 PM \ud83c\udf1e",
+  "total_mathes": 5,
+  "last_upaded": "26-11-2024 on 3:42:56 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
       "event_name": "ECS Spain, Encore, 2024",
-      "match_id": 113140,
+      "match_id": 113141,
       "match_name": "Barcelona International vs Pak Barcelona",
       "team_1": "Barcelona International",
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BI@2x.png",
       "team_2": "Pak Barcelona",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PKB@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113140_4641_PKB_BI_fc-web_1732094530304.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/deXSstBBSt6X1qx6AmWygQ/master.m3u8"
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113141_4641_PKB_BI_fc-web_1732095501980.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/645wuo8sT462Zx11lx3SuA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -30,42 +30,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Pakistan tour of Zimbabwe, 2024",
-      "match_id": 112356,
-      "match_name": "Zimbabwe vs Pakistan",
-      "team_1": "Zimbabwe",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
-      "team_2": "Pakistan",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-PAK_Old_match-card.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/nDGYUTQMQwOMHfwMzMppdQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC Men's T20 World Cup Asia Qualifier B, 2024",
-      "match_id": 112379,
-      "match_name": "Bahrain vs Cambodia",
-      "team_1": "Bahrain",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAH@2x.png",
-      "team_2": "Cambodia",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAMB@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/VKKNQdjtSsaxrOLbOIgrrg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC Men's T20 World Cup Asia Qualifier B, 2024",
-      "match_id": 112378,
-      "match_name": "Thailand vs Saudi Arabia",
-      "team_1": "Thailand",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THL@2x.png",
-      "team_2": "Saudi Arabia",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KSA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/EAHwYxnKQWGDMBPfwgaWOg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier C",
       "match_id": 113777,
       "match_name": "Saint Helena vs Sierra Leone",
@@ -75,6 +39,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SILN@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
       "stream_link": "https://dai.google.com/linear/hls/event/RqZD6Q4YShedhAur8SmPww/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Pakistan tour of Zimbabwe, 2024",
+      "match_id": 112356,
+      "match_name": "Zimbabwe vs Pakistan",
+      "team_1": "Zimbabwe",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
+      "team_2": "Pakistan",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-PAK_Old_match-card.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/nDGYUTQMQwOMHfwMzMppdQ/master.m3u8"
     },
     {
       "event_catagory": "football",
