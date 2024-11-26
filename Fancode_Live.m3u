@@ -1,15 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Hawks XI Catalunya vs Royal Barcelona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113143_4641_HAW_RB_fc-web_1732095501976.jpg" tvg-id="113143" group-title="ECS Spain, Encore, 2024",Hawks XI Catalunya vs Royal Barcelona
 https://dai.google.com/linear/hls/event/mGyyt7e4QqKCOO3rP0f3DQ/master.m3u8
-#EXTINF:-1 tvg-name="West Indies vs Bangladesh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png" tvg-id="112344" group-title="Bangladesh tour of West Indies, 2024",West Indies vs Bangladesh
-https://dai.google.com/linear/hls/event/wVQlmsWJRpyn7oSfZFBe8g/master.m3u8
-#EXTINF:-1 tvg-name="Ivory Coast vs Botswana" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="113779" group-title="ICC Men's T20 WC Africa Sub Regional Qualifier C",Ivory Coast vs Botswana
-https://dai.google.com/linear/hls/event/fh6p4IlJRFqrmowQ_kdb0A/master.m3u8
 #EXTINF:-1 tvg-name="Eswatini vs Nigeria" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="113778" group-title="ICC Men's T20 WC Africa Sub Regional Qualifier C",Eswatini vs Nigeria
 https://dai.google.com/linear/hls/event/BenKEVjoSEC8h9DaMqqDmA/master.m3u8
+#EXTINF:-1 tvg-name="West Indies vs Bangladesh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png" tvg-id="112344" group-title="Bangladesh tour of West Indies, 2024",West Indies vs Bangladesh
+https://dai.google.com/linear/hls/event/wVQlmsWJRpyn7oSfZFBe8g/master.m3u8
 #EXTINF:-1 tvg-name="Northern Warriors vs Bangla Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112605_4620_BT_NW_fc-web.jpg" tvg-id="112605" group-title="Abu Dhabi T10 League, 2024",Northern Warriors vs Bangla Tigers
 https://dai.google.com/linear/hls/event/BMLS8zwOSEueXTvjOhLh0Q/master.m3u8
-#EXTINF:-1 tvg-name="Buriram United vs Kawasaki Frontale" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/09/108684_4475_BU_KAW_fc-web.jpg" tvg-id="108684" group-title="AFC Champions League Elite 2024-25",Buriram United vs Kawasaki Frontale
-https://dai.google.com/linear/hls/event/LCFFZTFaSAap0RC33_13Vw/master.m3u8
-#EXTINF:-1 tvg-name="Shandong Taishan vs Johor Darul Ta'zim" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="108683" group-title="AFC Champions League Elite 2024-25",Shandong Taishan vs Johor Darul Ta'zim
-https://dai.google.com/linear/hls/event/mdY-dsoUTJWXb0LjyFnl3g/master.m3u8
+#EXTINF:-1 tvg-name="Sharjah vs Istiklol" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108755_4476_SHJ_ISK_fc-web.jpg" tvg-id="108755" group-title="AFC Champions League Two 2024-25",Sharjah vs Istiklol
+https://dai.google.com/linear/hls/event/gFkIDEn-RVSZpP6yjGA0QQ/master.m3u8
