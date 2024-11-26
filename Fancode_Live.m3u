@@ -1,9 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Atlanta Blackcaps vs NJ Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113206_4642_AB_NJT_fc-web.jpg" tvg-id="113206" group-title="US Premier League, 2024",Atlanta Blackcaps vs NJ Titans
 https://dai.google.com/linear/hls/event/omw1GGWCTQG-h1ncHNOxuA/master.m3u8
-#EXTINF:-1 tvg-name="Hawks XI Catalunya vs Royal Barcelona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113143_4641_HAW_RB_fc-web_1732095501976.jpg" tvg-id="113143" group-title="ECS Spain, Encore, 2024",Hawks XI Catalunya vs Royal Barcelona
-https://dai.google.com/linear/hls/event/mGyyt7e4QqKCOO3rP0f3DQ/master.m3u8
-#EXTINF:-1 tvg-name="Eswatini vs Nigeria" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="113778" group-title="ICC Men's T20 WC Africa Sub Regional Qualifier C",Eswatini vs Nigeria
-https://dai.google.com/linear/hls/event/BenKEVjoSEC8h9DaMqqDmA/master.m3u8
 #EXTINF:-1 tvg-name="Sharjah vs Istiklol" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108755_4476_SHJ_ISK_fc-web.jpg" tvg-id="108755" group-title="AFC Champions League Two 2024-25",Sharjah vs Istiklol
 https://dai.google.com/linear/hls/event/gFkIDEn-RVSZpP6yjGA0QQ/master.m3u8
