@@ -1,9 +1,21 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "26-11-2024 on 5:19:11 PM \ud83c\udf1e",
+  "total_mathes": 9,
+  "last_upaded": "26-11-2024 on 5:39:31 PM \ud83c\udf1e",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "ECS Spain, Encore, 2024",
+      "match_id": 113142,
+      "match_name": "Hawks XI Catalunya vs Royal Barcelona",
+      "team_1": "Hawks XI Catalunya",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR13@2x.png",
+      "team_2": "Royal Barcelona",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RB@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113142_4641_HAW_RB_fc-web_1732095502010.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/3GcQ0RhsRwqXaa5QumSPmA/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "ICC Men's T20 World Cup Asia Qualifier B, 2024",
@@ -51,6 +63,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-PAK_Old_match-card.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/nDGYUTQMQwOMHfwMzMppdQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Abu Dhabi T10 League, 2024",
+      "match_id": 112604,
+      "match_name": "Deccan Gladiators vs UP Nawabs",
+      "team_1": "Deccan Gladiators",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEG-CR1@2x.png",
+      "team_2": "UP Nawabs",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UPN@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112604_4620_UPN_DG_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/kdIHhLbXQBiG313ZwZBGJg/master.m3u8"
     },
     {
       "event_catagory": "football",
