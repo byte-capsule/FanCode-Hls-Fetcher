@@ -7,3 +7,5 @@ https://dai.google.com/linear/hls/event/VKKNQdjtSsaxrOLbOIgrrg/master.m3u8
 https://dai.google.com/linear/hls/event/EAHwYxnKQWGDMBPfwgaWOg/master.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-PAK_Old_match-card.jpg" tvg-id="112356" group-title="Pakistan tour of Zimbabwe, 2024",Zimbabwe vs Pakistan
 https://dai.google.com/linear/hls/event/nDGYUTQMQwOMHfwMzMppdQ/master.m3u8
+#EXTINF:-1 tvg-name="Barcelona International vs Pak Barcelona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113140_4641_PKB_BI_fc-web_1732094530304.jpg" tvg-id="113140" group-title="ECS Spain, Encore, 2024",Barcelona International vs Pak Barcelona
+https://dai.google.com/linear/hls/event/deXSstBBSt6X1qx6AmWygQ/master.m3u8
