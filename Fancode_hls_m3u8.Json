@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 6,
-  "last_upaded": "27-11-2024 on 5:53:22 PM \ud83c\udf1e",
+  "last_upaded": "27-11-2024 on 6:48:26 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -18,18 +18,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier C",
-      "match_id": 113780,
-      "match_name": "Nigeria vs Sierra Leone",
-      "team_1": "Nigeria",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NIGE@2x.png",
-      "team_2": "Sierra Leone",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SILN@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/7wsFbx22RrOp1zcB2f4OZw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "Abu Dhabi T10 League, 2024",
       "match_id": 112607,
       "match_name": "Ajman Bolts vs Bangla Tigers",
@@ -41,40 +29,52 @@
       "stream_link": "https://dai.google.com/linear/hls/event/pxmV-_VyTdW33hcbV7H3Kw/master.m3u8"
     },
     {
-      "event_catagory": "football",
-      "event_name": "2nd Protech Guwahati Premier League 2024",
-      "match_id": 113806,
-      "match_name": "Assam Police vs NorthEast United",
-      "team_1": "Assam Police",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ASMP@2x.png",
-      "team_2": "NorthEast United",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NUFC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2_1732617283192.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/GaH7X9cgTq67DGMZMSs3cA/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "AFC Champions League Elite 2024-25",
-      "match_id": 108686,
-      "match_name": "Yokohama F. Marinos vs Pohang Steelers",
-      "team_1": "Yokohama F. Marinos",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-YKM@2x.png",
-      "team_2": "Pohang Steelers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-POHAN@2x.png",
+      "event_catagory": "cricket",
+      "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier C",
+      "match_id": 113782,
+      "match_name": "Ivory Coast vs Eswatini",
+      "team_1": "Ivory Coast",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CIV@2x.png",
+      "team_2": "Eswatini",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESTW@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/C-3j3qgnQpCA2Mf-PColsA/master.m3u8"
+      "stream_link": "https://dai.google.com/linear/hls/event/SGhNwxMQSV2cXC98bV8TuA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier C",
+      "match_id": 113781,
+      "match_name": "Saint Helena vs Botswana",
+      "team_1": "Saint Helena",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SALH@2x.png",
+      "team_2": "Botswana",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BOTS@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/hKxbAZSmSDiMKFD6_4i4qQ/master.m3u8"
     },
     {
       "event_catagory": "football",
-      "event_name": "AFC Champions League Elite 2024-25",
-      "match_id": 108685,
-      "match_name": "Gwangju vs Shanghai Shenhua",
-      "team_1": "Gwangju",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GWN@2x.png",
-      "team_2": "Shanghai Shenhua",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHENUA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/prod-images/2024/09/108685_4475_GWN_SHN_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/CyZ_l2qdQxKSzeIrppGpNQ/master.m3u8"
+      "event_name": "AFC Champions League Two 2024-25",
+      "match_id": 108804,
+      "match_name": "Tampines Rovers FC vs Bangkok United",
+      "team_1": "Tampines Rovers FC",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-TAMR@2x.png",
+      "team_2": "Bangkok United",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BANGK@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/108804_4476_TAM_BU_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/w32USxu1R7W-jINperF71Q/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "AFC Champions League Two 2024-25",
+      "match_id": 108803,
+      "match_name": "Nam Dinh vs Lee Man",
+      "team_1": "Nam Dinh",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ND@2x.png",
+      "team_2": "Lee Man",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LM@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/108803_4476_ND_LM_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/aSVyC1XySa2nDDV-bYOqtw/master.m3u8"
     }
   ]
 }
