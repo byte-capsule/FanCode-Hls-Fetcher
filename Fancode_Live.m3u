@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Raval Sporting vs Barcelona Qalandar" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113145_4641_RAS_BQL_fc-web_1732095502006.jpg" tvg-id="113145" group-title="ECS Spain, Encore, 2024",Raval Sporting vs Barcelona Qalandar
+https://dai.google.com/linear/hls/event/LhNGLSkqSDGh9i5rWft3bw/master.m3u8
 #EXTINF:-1 tvg-name="Bangladesh Women vs Ireland Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Women-Tour-of-Bangladesh,-T20Is-2024-old-match-card--(1).png" tvg-id="113500" group-title="Ireland Women tour of Bangladesh, 2024",Bangladesh Women vs Ireland Women
 https://dai.google.com/linear/hls/event/2YgzxJNKSMWyJwn5Z4eBgg/master.m3u8
 #EXTINF:-1 tvg-name="Nigeria vs Sierra Leone" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="113780" group-title="ICC Men's T20 WC Africa Sub Regional Qualifier C",Nigeria vs Sierra Leone
