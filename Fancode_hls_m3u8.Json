@@ -1,9 +1,21 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "27-11-2024 on 9:57:09 PM \ud83c\udf19",
+  "total_mathes": 6,
+  "last_upaded": "27-11-2024 on 10:32:17 PM \ud83c\udf19",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "Dream11 Trinidad T10 Blast, 6th Edition, 2024",
+      "match_id": 113557,
+      "match_name": "Soca Kings vs Blue Devils",
+      "team_1": "Soca Kings",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOCA@2x.png",
+      "team_2": "Blue Devils",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLUD@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113557_4653_SCK_BLD_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/JmVCc_P8RO2r3rIJQfrY2Q/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "US Premier League, 2024",
@@ -39,6 +51,30 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UPN@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/112609_4620_UPN_NYS_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/NXfSmXubSOaeisC8yGp2ew/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "AFC Champions League Two 2024-25",
+      "match_id": 108768,
+      "match_name": "Al Hussein vs Shabab Al Ahli",
+      "team_1": "Al Hussein",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-HUS@2x.png",
+      "team_2": "Shabab Al Ahli",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SAA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/108768_4476_HUS_SAA_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/ve4-_aexQ-a3mZQmG6cdjg/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "AFC Champions League Two 2024-25",
+      "match_id": 108732,
+      "match_name": "Tractor vs Al Wakrah",
+      "team_1": "Tractor",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-TFC@2x.png",
+      "team_2": "Al Wakrah",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WAK@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/108732_4476_TFC_WAK_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/MW5_3SSDQr67kuYo5MZQwQ/master.m3u8"
     }
   ]
 }
