@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Maryland Mavericks vs NJ Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113208_4642_MAV_NJT_fc-web.jpg" tvg-id="113208" group-title="US Premier League, 2024",Maryland Mavericks vs NJ Titans
 https://dai.google.com/linear/hls/event/wze_ajVvS16sO7fLGYfBnw/master.m3u8
-#EXTINF:-1 tvg-name="Chennai Brave Jaguars vs Team Abu Dhabi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112608_4620_TAD_CB_fc-web.jpg" tvg-id="112608" group-title="Abu Dhabi T10 League, 2024",Chennai Brave Jaguars vs Team Abu Dhabi
-https://dai.google.com/linear/hls/event/ijayECBpT2SmrL_P6ZWNMw/master.m3u8
+#EXTINF:-1 tvg-name="Ripoll Warriors vs Raval Sporting" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113148_4641_RAS_RIW_fc-web_1732095502010.jpg" tvg-id="113148" group-title="ECS Spain, Encore, 2024",Ripoll Warriors vs Raval Sporting
+https://dai.google.com/linear/hls/event/1AZ6Xc_PRnKUEzUB2B2dUQ/master.m3u8
 #EXTINF:-1 tvg-name="Nasaf vs Kuwait SC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108767_4476_NQ_KSC_fc-web.jpg" tvg-id="108767" group-title="AFC Champions League Two 2024-25",Nasaf vs Kuwait SC
 https://dai.google.com/linear/hls/event/OBiZ3pfATb2xTkijV-3k-g/master.m3u8
 #EXTINF:-1 tvg-name="Altyn Asyr vs Al Quwa Al Jawiya" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108743_4476_AA_AFC_fc-web.jpg" tvg-id="108743" group-title="AFC Champions League Two 2024-25",Altyn Asyr vs Al Quwa Al Jawiya
