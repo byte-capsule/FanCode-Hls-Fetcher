@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Maryland Mavericks vs NJ Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113208_4642_MAV_NJT_fc-web.jpg" tvg-id="113208" group-title="US Premier League, 2024",Maryland Mavericks vs NJ Titans
 https://dai.google.com/linear/hls/event/wze_ajVvS16sO7fLGYfBnw/master.m3u8
-#EXTINF:-1 tvg-name="Raval Sporting vs Ripoll Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113147_4641_RAS_RIW_fc-web_1732095502001.jpg" tvg-id="113147" group-title="ECS Spain, Encore, 2024",Raval Sporting vs Ripoll Warriors
-https://dai.google.com/linear/hls/event/aojgu1ttTaK0jvbxXXvTOQ/master.m3u8
-#EXTINF:-1 tvg-name="Ivory Coast vs Eswatini" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="113782" group-title="ICC Men's T20 WC Africa Sub Regional Qualifier C",Ivory Coast vs Eswatini
-https://dai.google.com/linear/hls/event/SGhNwxMQSV2cXC98bV8TuA/master.m3u8
-#EXTINF:-1 tvg-name="Saint Helena vs Botswana" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="113781" group-title="ICC Men's T20 WC Africa Sub Regional Qualifier C",Saint Helena vs Botswana
-https://dai.google.com/linear/hls/event/hKxbAZSmSDiMKFD6_4i4qQ/master.m3u8
 #EXTINF:-1 tvg-name="Chennai Brave Jaguars vs Team Abu Dhabi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112608_4620_TAD_CB_fc-web.jpg" tvg-id="112608" group-title="Abu Dhabi T10 League, 2024",Chennai Brave Jaguars vs Team Abu Dhabi
 https://dai.google.com/linear/hls/event/ijayECBpT2SmrL_P6ZWNMw/master.m3u8
 #EXTINF:-1 tvg-name="Nasaf vs Kuwait SC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108767_4476_NQ_KSC_fc-web.jpg" tvg-id="108767" group-title="AFC Champions League Two 2024-25",Nasaf vs Kuwait SC
