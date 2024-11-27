@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 2,
-  "last_upaded": "27-11-2024 on 1:53:37 PM \ud83c\udf1e",
+  "total_mathes": 4,
+  "last_upaded": "27-11-2024 on 2:31:18 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,6 +27,30 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RSCC-CR1@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/113144_4641_RAS_BQL_fc-web_1732095501974.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/hMK4UTfnSA2Y83SJuBxKNw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier C",
+      "match_id": 113780,
+      "match_name": "Nigeria vs Sierra Leone",
+      "team_1": "Nigeria",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NIGE@2x.png",
+      "team_2": "Sierra Leone",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SILN@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/7wsFbx22RrOp1zcB2f4OZw/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "2nd Protech Guwahati Premier League 2024",
+      "match_id": 113805,
+      "match_name": "ASEB Sports Club vs FC Green Valley",
+      "team_1": "ASEB Sports Club",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ASEB@2x.png",
+      "team_2": "FC Green Valley",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEF-FT1@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/d8wrGRITSKqlPzNkykCMdQ/master.m3u8"
     }
   ]
 }
