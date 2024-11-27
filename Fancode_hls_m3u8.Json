@@ -1,9 +1,33 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "27-11-2024 on 7:32:09 PM \ud83c\udf19",
+  "total_mathes": 6,
+  "last_upaded": "27-11-2024 on 7:53:25 PM \ud83c\udf19",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "US Premier League, 2024",
+      "match_id": 113208,
+      "match_name": "Maryland Mavericks vs NJ Titans",
+      "team_1": "Maryland Mavericks",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAVE@2x.png",
+      "team_2": "NJ Titans",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NJT@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113208_4642_MAV_NJT_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/wze_ajVvS16sO7fLGYfBnw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ECS Spain, Encore, 2024",
+      "match_id": 113147,
+      "match_name": "Raval Sporting vs Ripoll Warriors",
+      "team_1": "Raval Sporting",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RSCC-CR1@2x.png",
+      "team_2": "Ripoll Warriors",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RW-CR3@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113147_4641_RAS_RIW_fc-web_1732095502001.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/aojgu1ttTaK0jvbxXXvTOQ/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier C",
@@ -29,16 +53,16 @@
       "stream_link": "https://dai.google.com/linear/hls/event/hKxbAZSmSDiMKFD6_4i4qQ/master.m3u8"
     },
     {
-      "event_catagory": "football",
-      "event_name": "AFC Champions League Two 2024-25",
-      "match_id": 108804,
-      "match_name": "Tampines Rovers FC vs Bangkok United",
-      "team_1": "Tampines Rovers FC",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-TAMR@2x.png",
-      "team_2": "Bangkok United",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BANGK@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/108804_4476_TAM_BU_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/w32USxu1R7W-jINperF71Q/master.m3u8"
+      "event_catagory": "cricket",
+      "event_name": "Abu Dhabi T10 League, 2024",
+      "match_id": 112608,
+      "match_name": "Chennai Brave Jaguars vs Team Abu Dhabi",
+      "team_1": "Chennai Brave Jaguars",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TCB-CR1@2x.png",
+      "team_2": "Team Abu Dhabi",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TAB-CR1@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112608_4620_TAD_CB_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/ijayECBpT2SmrL_P6ZWNMw/master.m3u8"
     },
     {
       "event_catagory": "football",
