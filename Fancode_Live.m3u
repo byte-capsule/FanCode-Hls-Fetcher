@@ -1,6 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Barcelona Qalandar vs Ripoll Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113146_4641_BQL_RIW_fc-web_1732095501978.jpg" tvg-id="113146" group-title="ECS Spain, Encore, 2024",Barcelona Qalandar vs Ripoll Warriors
+https://dai.google.com/linear/hls/event/Dl5f2IZjTF6Gk_Jct8j-dg/master.m3u8
 #EXTINF:-1 tvg-name="Nigeria vs Sierra Leone" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="113780" group-title="ICC Men's T20 WC Africa Sub Regional Qualifier C",Nigeria vs Sierra Leone
 https://dai.google.com/linear/hls/event/7wsFbx22RrOp1zcB2f4OZw/master.m3u8
+#EXTINF:-1 tvg-name="Ajman Bolts vs Bangla Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112607_4620_AB_BT_fc-web.jpg" tvg-id="112607" group-title="Abu Dhabi T10 League, 2024",Ajman Bolts vs Bangla Tigers
+https://dai.google.com/linear/hls/event/pxmV-_VyTdW33hcbV7H3Kw/master.m3u8
 #EXTINF:-1 tvg-name="Assam Police vs NorthEast United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2_1732617283192.jpg" tvg-id="113806" group-title="2nd Protech Guwahati Premier League 2024",Assam Police vs NorthEast United
 https://dai.google.com/linear/hls/event/GaH7X9cgTq67DGMZMSs3cA/master.m3u8
 #EXTINF:-1 tvg-name="Yokohama F. Marinos vs Pohang Steelers" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="108686" group-title="AFC Champions League Elite 2024-25",Yokohama F. Marinos vs Pohang Steelers
