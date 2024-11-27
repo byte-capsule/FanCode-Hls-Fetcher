@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Barcelona Qalandar vs Ripoll Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113146_4641_BQL_RIW_fc-web_1732095501978.jpg" tvg-id="113146" group-title="ECS Spain, Encore, 2024",Barcelona Qalandar vs Ripoll Warriors
-https://dai.google.com/linear/hls/event/Dl5f2IZjTF6Gk_Jct8j-dg/master.m3u8
-#EXTINF:-1 tvg-name="Ajman Bolts vs Bangla Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112607_4620_AB_BT_fc-web.jpg" tvg-id="112607" group-title="Abu Dhabi T10 League, 2024",Ajman Bolts vs Bangla Tigers
-https://dai.google.com/linear/hls/event/pxmV-_VyTdW33hcbV7H3Kw/master.m3u8
 #EXTINF:-1 tvg-name="Ivory Coast vs Eswatini" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="113782" group-title="ICC Men's T20 WC Africa Sub Regional Qualifier C",Ivory Coast vs Eswatini
 https://dai.google.com/linear/hls/event/SGhNwxMQSV2cXC98bV8TuA/master.m3u8
 #EXTINF:-1 tvg-name="Saint Helena vs Botswana" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="113781" group-title="ICC Men's T20 WC Africa Sub Regional Qualifier C",Saint Helena vs Botswana
