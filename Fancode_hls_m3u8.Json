@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "28-11-2024 on 2:31:18 PM \ud83c\udf1e",
+  "total_mathes": 7,
+  "last_upaded": "28-11-2024 on 2:54:46 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -44,11 +44,11 @@
       "event_catagory": "cricket",
       "event_name": "ECS Spain, Encore, 2024",
       "match_id": 113149,
-      "match_name": "Ripoll Warriors vs Magic Badalona",
-      "team_1": "Ripoll Warriors",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RW-CR3@2x.png",
-      "team_2": "Magic Badalona",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MGC@2x.png",
+      "match_name": "Magic CC Badalona vs Ripoll Warriors",
+      "team_1": "Magic CC Badalona",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MGC@2x.png",
+      "team_2": "Ripoll Warriors",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RW-CR3@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/113149_4641_RIW_MGC_fc-web_1732095502006.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/ahjp0ORkSyiIwdrXoDZdvg/master.m3u8"
     },
@@ -63,6 +63,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SALH@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
       "stream_link": "https://dai.google.com/linear/hls/event/SmM23fTiQeW7D_4WAzbMpg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier C",
+      "match_id": 113775,
+      "match_name": "Sierra Leone vs Eswatini",
+      "team_1": "Sierra Leone",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SILN@2x.png",
+      "team_2": "Eswatini",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESTW@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://mls3.fancode.com/83dca97f-06b9-4020-9ae6-01a5d9bdf2ae/master.m3u8"
     },
     {
       "event_catagory": "football",
