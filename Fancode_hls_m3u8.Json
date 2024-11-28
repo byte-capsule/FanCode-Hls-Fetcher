@@ -1,9 +1,21 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "28-11-2024 on 9:55:57 PM \ud83c\udf19",
+  "total_mathes": 4,
+  "last_upaded": "28-11-2024 on 10:30:30 PM \ud83c\udf19",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "Dream11 Trinidad T10 Blast, 6th Edition, 2024",
+      "match_id": 113559,
+      "match_name": "Blue Devils vs Samp Army Cocrico Cavaliers",
+      "team_1": "Blue Devils",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLUD@2x.png",
+      "team_2": "Samp Army Cocrico Cavaliers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAMPC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113559_4653_CCL_BLD_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/UKj7V_SXRaeWvxoOPxQKOw/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "ECS Spain, Encore, 2024",
@@ -18,18 +30,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier C",
-      "match_id": 113776,
-      "match_name": "Nigeria vs Botswana",
-      "team_1": "Nigeria",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NIGE@2x.png",
-      "team_2": "Botswana",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BOTS@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/vnwrIp5WRjiakFfcUlgQuA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "Abu Dhabi T10 League, 2024",
       "match_id": 112612,
       "match_name": "Northern Warriors vs New York Strikers",
@@ -41,28 +41,16 @@
       "stream_link": "https://dai.google.com/linear/hls/event/3G41dhaLS8aObSS2vLLUuA/master.m3u8"
     },
     {
-      "event_catagory": "football",
-      "event_name": "AFC Champions League Two 2024-25",
-      "match_id": 108792,
-      "match_name": "Port vs Persib Bandung",
-      "team_1": "Port",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/POR-FT3@2x.png",
-      "team_2": "Persib Bandung",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PER@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/108792_4476_POR_PER_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/34SJ9E7ITlSQw-p9xbh3DQ/master.m3u8"
-    },
-    {
-      "event_catagory": "golf",
-      "event_name": "Andalucia Costa Del Sol Open De Espana",
-      "match_id": 113813,
-      "match_name": "Day 1",
-      "team_1": "Day 1",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-ADC@2x.png",
-      "team_2": "Spain",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Andalucia-Costa-Del-Sol-Open-de-Espana_FC-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/j45zJTreTCKRoa8JOQRQmw/master.m3u8"
+      "event_catagory": "cricket",
+      "event_name": "KCC T20 Elite Championship 2nd Edition, 2024",
+      "match_id": 112577,
+      "match_name": "Kuwait Swedish vs Al Hajery Team XI",
+      "team_1": "Kuwait Swedish",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUSW@2x.png",
+      "team_2": "Al Hajery Team XI",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ALJH@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_01_1730875783702.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/kwCa1CyqQresTOfOB7LNLw/master.m3u8"
     }
   ]
 }
