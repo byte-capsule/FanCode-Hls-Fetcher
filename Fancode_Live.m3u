@@ -1,8 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Magic CC Badalona vs Royal Barcelona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113151_4641_MGC_RB_fc-web_1732094664348.jpg" tvg-id="113151" group-title="ECS Spain, Encore, 2024",Magic CC Badalona vs Royal Barcelona
+https://dai.google.com/linear/hls/event/lsBTKkkuQSGmtCHMH6WaDw/master.m3u8
 #EXTINF:-1 tvg-name="Bahrain vs United Arab Emirates" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="112383" group-title="ICC Men's T20 World Cup Asia Qualifier B, 2024",Bahrain vs United Arab Emirates
 https://dai.google.com/linear/hls/event/m_wZ1hLVRl2W3a9jbutuAg/master.m3u8
 #EXTINF:-1 tvg-name="Pakistan vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-PAK_Old_match-card.jpg" tvg-id="112357" group-title="Pakistan tour of Zimbabwe, 2024",Pakistan vs Zimbabwe
 https://dai.google.com/linear/hls/event/vc72BGEySqmZPs_uoyIKWg/master.m3u8
+#EXTINF:-1 tvg-name="Bangla Tigers vs Deccan Gladiators" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112610_4620_DG_BT_fc-web.jpg" tvg-id="112610" group-title="Abu Dhabi T10 League, 2024",Bangla Tigers vs Deccan Gladiators
+https://dai.google.com/linear/hls/event/0iGEJdUUTvKqLYY7Ii6khg/master.m3u8
 #EXTINF:-1 tvg-name="Jeonbuk Motors vs Dynamic Herb Cebu" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108815_4476_JNB_DHC_fc-web.jpg" tvg-id="108815" group-title="AFC Champions League Two 2024-25",Jeonbuk Motors vs Dynamic Herb Cebu
 https://dai.google.com/linear/hls/event/EPXaOAS8RjuPa6Ne9j_e8g/master.m3u8
 #EXTINF:-1 tvg-name="Eastern SC vs Sydney FC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108779_4476_ESC_SYD_fc-web.jpg" tvg-id="108779" group-title="AFC Champions League Two 2024-25",Eastern SC vs Sydney FC
