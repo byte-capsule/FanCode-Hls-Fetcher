@@ -1,20 +1,20 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "28-11-2024 on 9:26:07 PM \ud83c\udf19",
+  "total_mathes": 4,
+  "last_upaded": "28-11-2024 on 9:43:07 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
       "event_name": "ECS Spain, Encore, 2024",
-      "match_id": 113152,
+      "match_id": 113153,
       "match_name": "Ripoll Warriors vs Royal Barcelona",
       "team_1": "Ripoll Warriors",
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RW-CR3@2x.png",
       "team_2": "Royal Barcelona",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RB@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113152_4641_RIW_RB_fc-web_1732094728794.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/tD5bkpGMQhKVEVOhHN2Pdw/master.m3u8"
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113153_4641_RIW_RB_fc-web_1732094776544.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/tfG1NrvBRleE4zt6tv0bKQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -27,18 +27,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BOTS@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
       "stream_link": "https://dai.google.com/linear/hls/event/vnwrIp5WRjiakFfcUlgQuA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Abu Dhabi T10 League, 2024",
-      "match_id": 112611,
-      "match_name": "Chennai Brave Jaguars vs Delhi Bulls",
-      "team_1": "Chennai Brave Jaguars",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TCB-CR1@2x.png",
-      "team_2": "Delhi Bulls",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEB-CR1@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112611_4620_DB_CB_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/ulioWm8ZTvGLCV17rbB9Zw/master.m3u8"
     },
     {
       "event_catagory": "football",

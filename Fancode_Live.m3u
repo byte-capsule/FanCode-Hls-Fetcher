@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Ripoll Warriors vs Royal Barcelona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113152_4641_RIW_RB_fc-web_1732094728794.jpg" tvg-id="113152" group-title="ECS Spain, Encore, 2024",Ripoll Warriors vs Royal Barcelona
-https://dai.google.com/linear/hls/event/tD5bkpGMQhKVEVOhHN2Pdw/master.m3u8
+#EXTINF:-1 tvg-name="Ripoll Warriors vs Royal Barcelona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113153_4641_RIW_RB_fc-web_1732094776544.jpg" tvg-id="113153" group-title="ECS Spain, Encore, 2024",Ripoll Warriors vs Royal Barcelona
+https://dai.google.com/linear/hls/event/tfG1NrvBRleE4zt6tv0bKQ/master.m3u8
 #EXTINF:-1 tvg-name="Nigeria vs Botswana" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="113776" group-title="ICC Men's T20 WC Africa Sub Regional Qualifier C",Nigeria vs Botswana
 https://dai.google.com/linear/hls/event/vnwrIp5WRjiakFfcUlgQuA/master.m3u8
-#EXTINF:-1 tvg-name="Chennai Brave Jaguars vs Delhi Bulls" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112611_4620_DB_CB_fc-web.jpg" tvg-id="112611" group-title="Abu Dhabi T10 League, 2024",Chennai Brave Jaguars vs Delhi Bulls
-https://dai.google.com/linear/hls/event/ulioWm8ZTvGLCV17rbB9Zw/master.m3u8
 #EXTINF:-1 tvg-name="Port vs Persib Bandung" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108792_4476_POR_PER_fc-web.jpg" tvg-id="108792" group-title="AFC Champions League Two 2024-25",Port vs Persib Bandung
 https://dai.google.com/linear/hls/event/34SJ9E7ITlSQw-p9xbh3DQ/master.m3u8
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Andalucia-Costa-Del-Sol-Open-de-Espana_FC-web.jpg" tvg-id="113813" group-title="Andalucia Costa Del Sol Open De Espana",Day 1
