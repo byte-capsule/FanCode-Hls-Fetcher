@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Blue Devils vs Samp Army Cocrico Cavaliers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113559_4653_CCL_BLD_fc-web.jpg" tvg-id="113559" group-title="Dream11 Trinidad T10 Blast, 6th Edition, 2024",Blue Devils vs Samp Army Cocrico Cavaliers
 https://dai.google.com/linear/hls/event/UKj7V_SXRaeWvxoOPxQKOw/master.m3u8
-#EXTINF:-1 tvg-name="Northern Warriors vs New York Strikers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112612_4620_NW_NYS_fc-web.jpg" tvg-id="112612" group-title="Abu Dhabi T10 League, 2024",Northern Warriors vs New York Strikers
-https://dai.google.com/linear/hls/event/3G41dhaLS8aObSS2vLLUuA/master.m3u8
 #EXTINF:-1 tvg-name="Kuwait Swedish vs Al Hajery Team XI" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_01_1730875783702.jpg" tvg-id="112577" group-title="KCC T20 Elite Championship 2nd Edition, 2024",Kuwait Swedish vs Al Hajery Team XI
 https://dai.google.com/linear/hls/event/kwCa1CyqQresTOfOB7LNLw/master.m3u8
 #EXTINF:-1 tvg-name="Zalgiris Kaunas vs Vitoria Gasteiz Baskonia" tvg-logo="https://www.fancode.com/aig/match/v1/113550_CASACARDS_APP.png" tvg-id="113550" group-title="EuroLeague 2024-25",Zalgiris Kaunas vs Vitoria Gasteiz Baskonia
