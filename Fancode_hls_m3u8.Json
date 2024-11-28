@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "28-11-2024 on 4:27:34 PM \ud83c\udf1e",
+  "total_mathes": 5,
+  "last_upaded": "28-11-2024 on 5:19:22 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -29,30 +29,6 @@
       "stream_link": "https://dai.google.com/linear/hls/event/vc72BGEySqmZPs_uoyIKWg/master.m3u8"
     },
     {
-      "event_catagory": "cricket",
-      "event_name": "ECS Spain, Encore, 2024",
-      "match_id": 113150,
-      "match_name": "Magic CC Badalona vs Ripoll Warriors",
-      "team_1": "Magic CC Badalona",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MGC@2x.png",
-      "team_2": "Ripoll Warriors",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RW-CR3@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113150_4641_RIW_MGC_fc-web_1732094570089.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/7V0-U7EmQYGvwXWek4c26A/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier C",
-      "match_id": 113775,
-      "match_name": "Sierra Leone vs Eswatini",
-      "team_1": "Sierra Leone",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SILN@2x.png",
-      "team_2": "Eswatini",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESTW@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://mls3.fancode.com/83dca97f-06b9-4020-9ae6-01a5d9bdf2ae/master.m3u8"
-    },
-    {
       "event_catagory": "football",
       "event_name": "AFC Champions League Two 2024-25",
       "match_id": 108815,
@@ -75,6 +51,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYDA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/108779_4476_ESC_SYD_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/RfAVdZygSpCbQi9VNFoPmQ/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "2nd Protech Guwahati Premier League 2024",
+      "match_id": 113808,
+      "match_name": "Pride East Mavericks vs Red Bees Inc",
+      "team_1": "Pride East Mavericks",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PRDG@2x.png",
+      "team_2": "Red Bees Inc",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEF-FT3@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2_1732617283192.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/2WcQ5Uw9SnK52w6yJ9JhPg/master.m3u8"
     }
   ]
 }
