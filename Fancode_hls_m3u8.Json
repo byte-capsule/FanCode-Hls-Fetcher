@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "28-11-2024 on 1:53:32 PM \ud83c\udf1e",
+  "total_mathes": 6,
+  "last_upaded": "28-11-2024 on 2:31:18 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -51,6 +51,30 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MGC@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/113149_4641_RIW_MGC_fc-web_1732095502006.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/ahjp0ORkSyiIwdrXoDZdvg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier C",
+      "match_id": 113774,
+      "match_name": "Ivory Coast vs Saint Helena",
+      "team_1": "Ivory Coast",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CIV@2x.png",
+      "team_2": "Saint Helena",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SALH@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/SmM23fTiQeW7D_4WAzbMpg/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "2nd Protech Guwahati Premier League 2024",
+      "match_id": 113807,
+      "match_name": "Oil India Limited vs Gauhati Town Club",
+      "team_1": "Oil India Limited",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-OIL@2x.png",
+      "team_2": "Gauhati Town Club",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GTC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/sztbf0sRQVScrygRc3zMiw/master.m3u8"
     }
   ]
 }
