@@ -1,3 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Saudi Arabia vs Qatar" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="112382" group-title="ICC Men's T20 World Cup Asia Qualifier B, 2024",Saudi Arabia vs Qatar
+https://dai.google.com/linear/hls/event/apVC3ZIlQiC8Dxdg5XJfyg/master.m3u8
+#EXTINF:-1 tvg-name="Bhutan vs Cambodia" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="112381" group-title="ICC Men's T20 World Cup Asia Qualifier B, 2024",Bhutan vs Cambodia
+https://dai.google.com/linear/hls/event/7zVYOcDxRCyBujSXEO1B3A/master.m3u8
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ISPS-Handa-Australian-Open_OLD.jpg" tvg-id="114053" group-title="ISPS Handa Australian Open",Day 1
 https://dai.google.com/linear/hls/event/dJK3808RSTeavJfblZ0jZQ/master.m3u8
