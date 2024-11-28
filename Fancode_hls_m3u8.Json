@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "28-11-2024 on 5:39:26 PM \ud83c\udf1e",
+  "total_mathes": 6,
+  "last_upaded": "28-11-2024 on 5:53:19 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -51,18 +51,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEG-CR1@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/112610_4620_DG_BT_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/0iGEJdUUTvKqLYY7Ii6khg/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "AFC Champions League Two 2024-25",
-      "match_id": 108815,
-      "match_name": "Jeonbuk Motors vs Dynamic Herb Cebu",
-      "team_1": "Jeonbuk Motors",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-JNB@2x.png",
-      "team_2": "Dynamic Herb Cebu",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-DYH@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/108815_4476_JNB_DHC_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/EPXaOAS8RjuPa6Ne9j_e8g/master.m3u8"
     },
     {
       "event_catagory": "football",
