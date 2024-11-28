@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Pakistan vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-PAK_Old_match-card.jpg" tvg-id="112357" group-title="Pakistan tour of Zimbabwe, 2024",Pakistan vs Zimbabwe
 https://dai.google.com/linear/hls/event/vc72BGEySqmZPs_uoyIKWg/master.m3u8
+#EXTINF:-1 tvg-name="Magic CC Badalona vs Ripoll Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113150_4641_RIW_MGC_fc-web_1732094570089.jpg" tvg-id="113150" group-title="ECS Spain, Encore, 2024",Magic CC Badalona vs Ripoll Warriors
+https://dai.google.com/linear/hls/event/7V0-U7EmQYGvwXWek4c26A/master.m3u8
 #EXTINF:-1 tvg-name="Ivory Coast vs Saint Helena" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="113774" group-title="ICC Men's T20 WC Africa Sub Regional Qualifier C",Ivory Coast vs Saint Helena
 https://dai.google.com/linear/hls/event/SmM23fTiQeW7D_4WAzbMpg/master.m3u8
 #EXTINF:-1 tvg-name="Sierra Leone vs Eswatini" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="113775" group-title="ICC Men's T20 WC Africa Sub Regional Qualifier C",Sierra Leone vs Eswatini
