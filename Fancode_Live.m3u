@@ -5,9 +5,15 @@ https://dai.google.com/linear/hls/event/lsBTKkkuQSGmtCHMH6WaDw/master.m3u8
 https://dai.google.com/linear/hls/event/m_wZ1hLVRl2W3a9jbutuAg/master.m3u8
 #EXTINF:-1 tvg-name="Pakistan vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-PAK_Old_match-card.jpg" tvg-id="112357" group-title="Pakistan tour of Zimbabwe, 2024",Pakistan vs Zimbabwe
 https://dai.google.com/linear/hls/event/vc72BGEySqmZPs_uoyIKWg/master.m3u8
+#EXTINF:-1 tvg-name="Nigeria vs Botswana" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="113776" group-title="ICC Men's T20 WC Africa Sub Regional Qualifier C",Nigeria vs Botswana
+https://dai.google.com/linear/hls/event/vnwrIp5WRjiakFfcUlgQuA/master.m3u8
 #EXTINF:-1 tvg-name="Bangla Tigers vs Deccan Gladiators" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112610_4620_DG_BT_fc-web.jpg" tvg-id="112610" group-title="Abu Dhabi T10 League, 2024",Bangla Tigers vs Deccan Gladiators
 https://dai.google.com/linear/hls/event/0iGEJdUUTvKqLYY7Ii6khg/master.m3u8
-#EXTINF:-1 tvg-name="Eastern SC vs Sydney FC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108779_4476_ESC_SYD_fc-web.jpg" tvg-id="108779" group-title="AFC Champions League Two 2024-25",Eastern SC vs Sydney FC
-https://dai.google.com/linear/hls/event/RfAVdZygSpCbQi9VNFoPmQ/master.m3u8
-#EXTINF:-1 tvg-name="Pride East Mavericks vs Red Bees Inc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2_1732617283192.jpg" tvg-id="113808" group-title="2nd Protech Guwahati Premier League 2024",Pride East Mavericks vs Red Bees Inc
-https://dai.google.com/linear/hls/event/2WcQ5Uw9SnK52w6yJ9JhPg/master.m3u8
+#EXTINF:-1 tvg-name="Selangor vs Muangthong United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108816_4476_SEL_MUA_fc-web.jpg" tvg-id="108816" group-title="AFC Champions League Two 2024-25",Selangor vs Muangthong United
+https://dai.google.com/linear/hls/event/6SZZMF5CSi6IsKSKT6llmg/master.m3u8
+#EXTINF:-1 tvg-name="Zhejiang vs Lion City Sailors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108791_4476_ZHP_LIO_fc-web.jpg" tvg-id="108791" group-title="AFC Champions League Two 2024-25",Zhejiang vs Lion City Sailors
+https://dai.google.com/linear/hls/event/OFrmPhyFRy-SF39rKmm8hQ/master.m3u8
+#EXTINF:-1 tvg-name="Kaya vs Sanfrecce Hiroshima" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108780_4476_KAYA_HIR_fc-web.jpg" tvg-id="108780" group-title="AFC Champions League Two 2024-25",Kaya vs Sanfrecce Hiroshima
+https://dai.google.com/linear/hls/event/5faYXeY-RTeHw-YxVBv8OA/master.m3u8
+#EXTINF:-1 tvg-name="Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Andalucia-Costa-Del-Sol-Open-de-Espana_FC-web.jpg" tvg-id="113813" group-title="Andalucia Costa Del Sol Open De Espana",Day 1
+https://dai.google.com/linear/hls/event/j45zJTreTCKRoa8JOQRQmw/master.m3u8
