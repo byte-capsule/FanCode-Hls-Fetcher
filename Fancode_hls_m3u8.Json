@@ -1,9 +1,21 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "28-11-2024 on 3:56:05 PM \ud83c\udf1e",
+  "total_mathes": 6,
+  "last_upaded": "28-11-2024 on 4:27:34 PM \ud83c\udf1e",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC Men's T20 World Cup Asia Qualifier B, 2024",
+      "match_id": 112383,
+      "match_name": "Bahrain vs United Arab Emirates",
+      "team_1": "Bahrain",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAH@2x.png",
+      "team_2": "United Arab Emirates",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UAE@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/m_wZ1hLVRl2W3a9jbutuAg/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "Pakistan tour of Zimbabwe, 2024",
@@ -31,18 +43,6 @@
     {
       "event_catagory": "cricket",
       "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier C",
-      "match_id": 113774,
-      "match_name": "Ivory Coast vs Saint Helena",
-      "team_1": "Ivory Coast",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CIV@2x.png",
-      "team_2": "Saint Helena",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SALH@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/SmM23fTiQeW7D_4WAzbMpg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier C",
       "match_id": 113775,
       "match_name": "Sierra Leone vs Eswatini",
       "team_1": "Sierra Leone",
@@ -54,15 +54,27 @@
     },
     {
       "event_catagory": "football",
-      "event_name": "2nd Protech Guwahati Premier League 2024",
-      "match_id": 113807,
-      "match_name": "Oil India Limited vs Gauhati Town Club",
-      "team_1": "Oil India Limited",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-OIL@2x.png",
-      "team_2": "Gauhati Town Club",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GTC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/sztbf0sRQVScrygRc3zMiw/master.m3u8"
+      "event_name": "AFC Champions League Two 2024-25",
+      "match_id": 108815,
+      "match_name": "Jeonbuk Motors vs Dynamic Herb Cebu",
+      "team_1": "Jeonbuk Motors",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-JNB@2x.png",
+      "team_2": "Dynamic Herb Cebu",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-DYH@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/108815_4476_JNB_DHC_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/EPXaOAS8RjuPa6Ne9j_e8g/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "AFC Champions League Two 2024-25",
+      "match_id": 108779,
+      "match_name": "Eastern SC vs Sydney FC",
+      "team_1": "Eastern SC",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ECS@2x.png",
+      "team_2": "Sydney FC",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYDA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/108779_4476_ESC_SYD_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/RfAVdZygSpCbQi9VNFoPmQ/master.m3u8"
     }
   ]
 }
