@@ -1,14 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Hawks XI Catalunya vs Raval Sporting" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113158_4641_HAW_RAS_fc-web_1732095283596.jpg" tvg-id="113158" group-title="ECS Spain, Encore, 2024",Hawks XI Catalunya vs Raval Sporting
 https://dai.google.com/linear/hls/event/7zKaaJEtTva-odjIBrejdQ/master.m3u8
+#EXTINF:-1 tvg-name="Ajman Bolts vs Northern Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112616_4620_NW_AB_fc-web.jpg" tvg-id="112616" group-title="Abu Dhabi T10 League, 2024",Ajman Bolts vs Northern Warriors
+https://dai.google.com/linear/hls/event/5vDyYUghTg-j6l4ZGrMq7g/master.m3u8
 #EXTINF:-1 tvg-name="Afghan Tigers vs GAT" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112419_4616_AGT_GAT_fc-web_1731569489836.jpg" tvg-id="112419" group-title="KCC T20 Challengers A League, 2024-25",Afghan Tigers vs GAT
 https://dai.google.com/linear/hls/event/nu1qKnVMRACMu8zoza79tA/master.m3u8
 #EXTINF:-1 tvg-name="NJ Titans vs Maryland Mavericks" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113208_4642_MAV_NJT_fc-web.jpg" tvg-id="113210" group-title="US Premier League, 2024",NJ Titans vs Maryland Mavericks
 https://dai.google.com/linear/hls/event/onlB6lukTLqpluedJctC0A/master.m3u8
 #EXTINF:-1 tvg-name="FC Green Valley vs G Plus Athletic" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg" tvg-id="113809" group-title="2nd Protech Guwahati Premier League 2024",FC Green Valley vs G Plus Athletic
 https://dai.google.com/linear/hls/event/PCIJ6wQkTwGb-8g6eMr3qA/master.m3u8
-#EXTINF:-1 tvg-name="First Practice" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Qatar-Fc_web.jpg" tvg-id="114113" group-title="F1 ACADEMY QATAR 2024",First Practice
-https://liveauth.fancode.com/primary/114113_english_hls_8405adfreeta-no/index.m3u8
+#EXTINF:-1 tvg-name="Qualifying Session" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Formula2_Sporty_Match_card_4_Old_match-card.jpg" tvg-id="95371" group-title="F2 QATAR 2024",Qualifying Session
+https://liveauth.fancode.com/primary/95371_english_hls_4848adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="PFL World Championship" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PFL-Championship_OLD.jpg" tvg-id="113787" group-title="Professional Fighters League",PFL World Championship
 https://liveauth.fancode.com/primary/113787_english_hls_5257adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Andalucia-Costa-Del-Sol-Open-de-Espana_FC-web.jpg" tvg-id="113814" group-title="Andalucia Costa Del Sol Open De Espana",Day 2
