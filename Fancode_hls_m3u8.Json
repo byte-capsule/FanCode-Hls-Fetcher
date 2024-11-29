@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 8,
-  "last_upaded": "29-11-2024 on 10:30:14 PM \ud83c\udf19",
+  "total_mathes": 7,
+  "last_upaded": "29-11-2024 on 10:49:47 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -75,18 +75,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GLPS@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/PCIJ6wQkTwGb-8g6eMr3qA/master.m3u8"
-    },
-    {
-      "event_catagory": "racing",
-      "event_name": "F2 QATAR 2024",
-      "match_id": 95371,
-      "match_name": "Qualifying Session",
-      "team_1": "Qualifying Session",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR2@2x.png",
-      "team_2": "Qatar",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Sporty_Match_card_4_Old_match-card.jpg",
-      "stream_link": "https://liveauth.fancode.com/primary/95371_english_hls_4848adfreeta-no/index.m3u8"
     },
     {
       "event_catagory": "mma",
