@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Kuwait Swedish vs NCM Investment" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_03_1730875782908.jpg" tvg-id="112579" group-title="KCC T20 Elite Championship 2nd Edition, 2024",Kuwait Swedish vs NCM Investment
-https://dai.google.com/linear/hls/event/weCD943VQhy_HYO8uPIFEw/master.m3u8
 #EXTINF:-1 tvg-name="Girona vs Hawks XI Catalunya" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113154_4641_HAW_GIR_fc-web_1732094836767.jpg" tvg-id="113154" group-title="ECS Spain, Encore, 2024",Girona vs Hawks XI Catalunya
 https://dai.google.com/linear/hls/event/xUEZrN0FSJOMDI-ENXOY_w/master.m3u8
 #EXTINF:-1 tvg-name="FC Green Valley vs G Plus Athletic" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg" tvg-id="113809" group-title="2nd Protech Guwahati Premier League 2024",FC Green Valley vs G Plus Athletic
 https://dai.google.com/linear/hls/event/PCIJ6wQkTwGb-8g6eMr3qA/master.m3u8
+#EXTINF:-1 tvg-name="Adelaide United vs Perth Glory" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110923_4567_ADL_PG_fc-web_1728983128330.jpg" tvg-id="110923" group-title="A League 2024-25",Adelaide United vs Perth Glory
+https://dai.google.com/linear/hls/event/nAAsp7PnS6iuoh0-dYrq6g/master.m3u8
