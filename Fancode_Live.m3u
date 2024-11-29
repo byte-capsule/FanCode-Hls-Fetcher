@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Raval Sporting vs Hawks XI Catalunya" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113157_4641_HAW_RAS_fc-web_1732095235116.jpg" tvg-id="113157" group-title="ECS Spain, Encore, 2024",Raval Sporting vs Hawks XI Catalunya
-https://dai.google.com/linear/hls/event/GlntXdjPSRKFlmnsdcCbJw/master.m3u8
-#EXTINF:-1 tvg-name="UP Nawabs vs Chennai Brave Jaguars" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112615_4620_CB_UPN_fc-web.jpg" tvg-id="112615" group-title="Abu Dhabi T10 League, 2024",UP Nawabs vs Chennai Brave Jaguars
-https://dai.google.com/linear/hls/event/X9_rmB-3SHKy62D32eD7jw/master.m3u8
+#EXTINF:-1 tvg-name="Hawks XI Catalunya vs Raval Sporting" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113158_4641_HAW_RAS_fc-web_1732095283596.jpg" tvg-id="113158" group-title="ECS Spain, Encore, 2024",Hawks XI Catalunya vs Raval Sporting
+https://dai.google.com/linear/hls/event/7zKaaJEtTva-odjIBrejdQ/master.m3u8
 #EXTINF:-1 tvg-name="Afghan Tigers vs GAT" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112419_4616_AGT_GAT_fc-web_1731569489836.jpg" tvg-id="112419" group-title="KCC T20 Challengers A League, 2024-25",Afghan Tigers vs GAT
 https://dai.google.com/linear/hls/event/nu1qKnVMRACMu8zoza79tA/master.m3u8
 #EXTINF:-1 tvg-name="NJ Titans vs Maryland Mavericks" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113208_4642_MAV_NJT_fc-web.jpg" tvg-id="113210" group-title="US Premier League, 2024",NJ Titans vs Maryland Mavericks
