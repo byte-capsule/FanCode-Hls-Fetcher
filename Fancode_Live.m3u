@@ -1,1 +1,3 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ISPS-Handa-Australian-Open_OLD.jpg" tvg-id="114054" group-title="ISPS Handa Australian Open",Day 2
+https://dai.google.com/linear/hls/event/7VE_TnB9Tsmd3CfZ2jboNA/master.m3u8

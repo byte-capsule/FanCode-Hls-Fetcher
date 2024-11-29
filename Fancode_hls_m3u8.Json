@@ -1,7 +1,20 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 0,
-  "last_upaded": "29-11-2024 on 05:53:28 AM \ud83c\udf1e",
-  "matches": []
+  "total_mathes": 1,
+  "last_upaded": "29-11-2024 on 07:52:54 AM \ud83c\udf1e",
+  "matches": [
+    {
+      "event_catagory": "golf",
+      "event_name": "ISPS Handa Australian Open",
+      "match_id": 114054,
+      "match_name": "Day 2",
+      "team_1": "Day 2",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-IHA@2x.png",
+      "team_2": "Kingston Heath GC, Melbourne",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/ISPS-Handa-Australian-Open_OLD.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/7VE_TnB9Tsmd3CfZ2jboNA/master.m3u8"
+    }
+  ]
 }
