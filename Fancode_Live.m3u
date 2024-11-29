@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="New York Strikers vs Delhi Bulls" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112614_4620_NYS_DB_fc-web.jpg" tvg-id="112614" group-title="Abu Dhabi T10 League, 2024",New York Strikers vs Delhi Bulls
-https://dai.google.com/linear/hls/event/Lam6g_q0Ss-6GapF7qYPzA/master.m3u8
-#EXTINF:-1 tvg-name="Cochin Hurricanes vs Phoenix Riders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112418_4616_PHR_COH_fc-web_1731569489917.jpg" tvg-id="112418" group-title="KCC T20 Challengers A League, 2024-25",Cochin Hurricanes vs Phoenix Riders
-https://dai.google.com/linear/hls/event/EMT6ojrqTqqqelgCUZcjnA/master.m3u8
+#EXTINF:-1 tvg-name="Raval Sporting vs Hawks XI Catalunya" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113157_4641_HAW_RAS_fc-web_1732095235116.jpg" tvg-id="113157" group-title="ECS Spain, Encore, 2024",Raval Sporting vs Hawks XI Catalunya
+https://dai.google.com/linear/hls/event/GlntXdjPSRKFlmnsdcCbJw/master.m3u8
+#EXTINF:-1 tvg-name="UP Nawabs vs Chennai Brave Jaguars" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112615_4620_CB_UPN_fc-web.jpg" tvg-id="112615" group-title="Abu Dhabi T10 League, 2024",UP Nawabs vs Chennai Brave Jaguars
+https://dai.google.com/linear/hls/event/X9_rmB-3SHKy62D32eD7jw/master.m3u8
 #EXTINF:-1 tvg-name="FC Green Valley vs G Plus Athletic" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg" tvg-id="113809" group-title="2nd Protech Guwahati Premier League 2024",FC Green Valley vs G Plus Athletic
 https://dai.google.com/linear/hls/event/PCIJ6wQkTwGb-8g6eMr3qA/master.m3u8
 #EXTINF:-1 tvg-name="Practice 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-QATAR-AIRWAYS-QATAR-GRAND-PRIX-2024-old-match-card-.png" tvg-id="95248" group-title="F1 QATAR AIRWAYS QATAR GRAND PRIX 2024",Practice 1
