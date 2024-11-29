@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 2,
-  "last_upaded": "29-11-2024 on 1:41:19 PM \ud83c\udf1e",
+  "total_mathes": 3,
+  "last_upaded": "29-11-2024 on 1:54:13 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,6 +27,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR13@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/113154_4641_HAW_GIR_fc-web_1732094836767.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/xUEZrN0FSJOMDI-ENXOY_w/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "2nd Protech Guwahati Premier League 2024",
+      "match_id": 113809,
+      "match_name": "FC Green Valley vs G Plus Athletic",
+      "team_1": "FC Green Valley",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEF-FT1@2x.png",
+      "team_2": "G Plus Athletic",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GLPS@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/PCIJ6wQkTwGb-8g6eMr3qA/master.m3u8"
     }
   ]
 }
