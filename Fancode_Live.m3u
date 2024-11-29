@@ -1,9 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Raval Sporting vs Girona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113156_4641_GIR_RAS_fc-web_1732095154896.jpg" tvg-id="113156" group-title="ECS Spain, Encore, 2024",Raval Sporting vs Girona
+https://dai.google.com/linear/hls/event/Vg3HrSMWR9igTvW7_NEVHA/master.m3u8
 #EXTINF:-1 tvg-name="Cochin Hurricanes vs Phoenix Riders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112418_4616_PHR_COH_fc-web_1731569489917.jpg" tvg-id="112418" group-title="KCC T20 Challengers A League, 2024-25",Cochin Hurricanes vs Phoenix Riders
 https://dai.google.com/linear/hls/event/EMT6ojrqTqqqelgCUZcjnA/master.m3u8
-#EXTINF:-1 tvg-name="Morrisville Samp Army vs Team Abu Dhabi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112613_4620_TAD_MSA_fc-web.jpg" tvg-id="112613" group-title="Abu Dhabi T10 League, 2024",Morrisville Samp Army vs Team Abu Dhabi
-https://dai.google.com/linear/hls/event/HjnPPVmwQc6vXVVCvFiSfg/master.m3u8
+#EXTINF:-1 tvg-name="New York Strikers vs Delhi Bulls" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112614_4620_NYS_DB_fc-web.jpg" tvg-id="112614" group-title="Abu Dhabi T10 League, 2024",New York Strikers vs Delhi Bulls
+https://dai.google.com/linear/hls/event/Lam6g_q0Ss-6GapF7qYPzA/master.m3u8
+#EXTINF:-1 tvg-name="North East Frontier Railways SA vs NorthEast United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2_1732617283192.jpg" tvg-id="113810" group-title="2nd Protech Guwahati Premier League 2024",North East Frontier Railways SA vs NorthEast United
+https://dai.google.com/linear/hls/event/jJsyR6OnSkiP8eWc4N9AJg/master.m3u8
 #EXTINF:-1 tvg-name="FC Green Valley vs G Plus Athletic" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg" tvg-id="113809" group-title="2nd Protech Guwahati Premier League 2024",FC Green Valley vs G Plus Athletic
 https://dai.google.com/linear/hls/event/PCIJ6wQkTwGb-8g6eMr3qA/master.m3u8
-#EXTINF:-1 tvg-name="Free Practice" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/05/FC_Sports_Default_Motorsports-1440-x-360.jpg" tvg-id="95370" group-title="F2 QATAR 2024",Free Practice
+#EXTINF:-1 tvg-name="Free Practice" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Formula2_Sporty_Match_card_4_Old_match-card.jpg" tvg-id="95370" group-title="F2 QATAR 2024",Free Practice
 https://liveauth.fancode.com/primary/95370_english_hls_5489adfreeta-di/index.m3u8
