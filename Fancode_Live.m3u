@@ -1,3 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Kuwait Swedish vs NCM Investment" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_03_1730875782908.jpg" tvg-id="112579" group-title="KCC T20 Elite Championship 2nd Edition, 2024",Kuwait Swedish vs NCM Investment
+https://dai.google.com/linear/hls/event/weCD943VQhy_HYO8uPIFEw/master.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ISPS-Handa-Australian-Open_OLD.jpg" tvg-id="114054" group-title="ISPS Handa Australian Open",Day 2
 https://dai.google.com/linear/hls/event/7VE_TnB9Tsmd3CfZ2jboNA/master.m3u8
