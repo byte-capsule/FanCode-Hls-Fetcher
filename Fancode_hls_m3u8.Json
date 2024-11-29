@@ -1,20 +1,20 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "29-11-2024 on 4:45:54 PM \ud83c\udf1e",
+  "total_mathes": 4,
+  "last_upaded": "29-11-2024 on 5:19:19 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
-      "event_name": "ECS Spain, Encore, 2024",
-      "match_id": 113155,
-      "match_name": "Hawks XI Catalunya vs Girona",
-      "team_1": "Hawks XI Catalunya",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR13@2x.png",
-      "team_2": "Girona",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR18@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113155_4641_HAW_GIR_fc-web_1732095086676.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/3cqcMTy1RbKMYfqTeX7ODg/master.m3u8"
+      "event_name": "KCC T20 Challengers A League, 2024-25",
+      "match_id": 112418,
+      "match_name": "Cochin Hurricanes vs Phoenix Riders",
+      "team_1": "Cochin Hurricanes",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-COR@2x.png",
+      "team_2": "Phoenix Riders",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PHR@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112418_4616_PHR_COH_fc-web_1731569489917.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/EMT6ojrqTqqqelgCUZcjnA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -27,18 +27,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TAB-CR1@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/112613_4620_TAD_MSA_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/HjnPPVmwQc6vXVVCvFiSfg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "KCC T20 Challengers A League, 2024-25",
-      "match_id": 112418,
-      "match_name": "Cochin Hurricanes vs Phoenix Riders",
-      "team_1": "Cochin Hurricanes",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-COR@2x.png",
-      "team_2": "Phoenix Riders",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PHR@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112418_4616_PHR_COH_fc-web_1731569489917.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/EMT6ojrqTqqqelgCUZcjnA/master.m3u8"
     },
     {
       "event_catagory": "football",
@@ -54,15 +42,15 @@
     },
     {
       "event_catagory": "racing",
-      "event_name": "F1 ACADEMY QATAR 2024",
-      "match_id": 96859,
-      "match_name": "First Practice",
-      "team_1": "Free Practice 1",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FA@2x.png",
+      "event_name": "F2 QATAR 2024",
+      "match_id": 95370,
+      "match_name": "Free Practice",
+      "team_1": "Free Practice",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR2@2x.png",
       "team_2": "Qatar",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Qatar-Fc_web.jpg",
-      "stream_link": "https://liveauth.fancode.com/primary/96859_english_hls_5411adfreeta-no/index.m3u8"
+      "banner": "https://www.fancode.com/skillup-uploads/prod-images/2024/05/FC_Sports_Default_Motorsports-1440-x-360.jpg",
+      "stream_link": "https://liveauth.fancode.com/primary/95370_english_hls_5489adfreeta-di/index.m3u8"
     }
   ]
 }
