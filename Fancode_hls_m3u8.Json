@@ -2,8 +2,20 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 8,
-  "last_upaded": "29-11-2024 on 9:55:40 PM \ud83c\udf19",
+  "last_upaded": "29-11-2024 on 10:30:14 PM \ud83c\udf19",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "Dream11 Trinidad T10 Blast, 6th Edition, 2024",
+      "match_id": 113561,
+      "match_name": "Trillions System Ltd Strikers vs Soca Kings",
+      "team_1": "Trillions System Ltd Strikers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TLS@2x.png",
+      "team_2": "Soca Kings",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOCA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113561_4653_SCK_TLS_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/dn2KHBh7QM-DDQ9_eUSzbQ/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "ECS Spain, Encore, 2024",
@@ -87,18 +99,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/mma-flags/FC-LOC@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/PFL-Championship_OLD.jpg",
       "stream_link": "https://liveauth.fancode.com/primary/113787_english_hls_5257adfreeta-di/index.m3u8"
-    },
-    {
-      "event_catagory": "golf",
-      "event_name": "Andalucia Costa Del Sol Open De Espana",
-      "match_id": 113814,
-      "match_name": "Day 2",
-      "team_1": "Day 2",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-ADC@2x.png",
-      "team_2": "Spain",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Andalucia-Costa-Del-Sol-Open-de-Espana_FC-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/mnOkUHy6SS6yr92hU-RCSA/master.m3u8"
     }
   ]
 }
