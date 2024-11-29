@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "29-11-2024 on 7:53:25 PM \ud83c\udf19",
+  "total_mathes": 7,
+  "last_upaded": "29-11-2024 on 8:22:08 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,6 +27,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TCB-CR1@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/112615_4620_CB_UPN_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/X9_rmB-3SHKy62D32eD7jw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "KCC T20 Challengers A League, 2024-25",
+      "match_id": 112419,
+      "match_name": "Afghan Tigers vs GAT",
+      "team_1": "Afghan Tigers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AGT@2x.png",
+      "team_2": "GAT",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GAT@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112419_4616_AGT_GAT_fc-web_1731569489836.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/nu1qKnVMRACMu8zoza79tA/master.m3u8"
     },
     {
       "event_catagory": "football",
