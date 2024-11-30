@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="India B vs India C" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg" tvg-id="114197" group-title="DCCI Challenger Trophy 2024",India B vs India C
-https://dai.google.com/linear/hls/event/CHL07HSbQIKRrK_7Vm09aw/master.m3u8
 #EXTINF:-1 tvg-name="Ireland Women vs Bangladesh Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Women-Tour-of-Bangladesh,-T20Is-2024-old-match-card--(1).png" tvg-id="113501" group-title="Ireland Women tour of Bangladesh, 2024",Ireland Women vs Bangladesh Women
 https://dai.google.com/linear/hls/event/2QDjqlN4SQqDoNDgcE7MKA/master.m3u8
-#EXTINF:-1 tvg-name="Auckland vs Newcastle Jets" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110924_4567_AFC_NJ_fc-web_1728983128202.jpg" tvg-id="110924" group-title="A League 2024-25",Auckland vs Newcastle Jets
-https://dai.google.com/linear/hls/event/6NSV9x91S4mDgJq4W4fZcA/master.m3u8
+#EXTINF:-1 tvg-name="India B vs India C" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg" tvg-id="114197" group-title="DCCI Challenger Trophy 2024",India B vs India C
+https://dai.google.com/linear/hls/event/CHL07HSbQIKRrK_7Vm09aw/master.m3u8
+#EXTINF:-1 tvg-name="Melbourne City vs Western Sydney Wanderers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110925_4567_MLC_SYW_fc-web_1728983128205.jpg" tvg-id="110925" group-title="A League 2024-25",Melbourne City vs Western Sydney Wanderers
+https://dai.google.com/linear/hls/event/e43MsHXVQASdsXxtAAVY9A/master.m3u8
 #EXTINF:-1 tvg-name="Avispa Fukuoka vs Urawa Red Diamonds" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113512_3921_FKK_URW_fc-web.jpg" tvg-id="113512" group-title="J League 2024",Avispa Fukuoka vs Urawa Red Diamonds
 https://liveauth.fancode.com/primary/113512_english_hls_5373adfreeta-no/index.m3u8
 #EXTINF:-1 tvg-name="Machida Zelvia vs Kyoto Sanga" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113510_3921_MZ_KYS_fc-web.jpg" tvg-id="113510" group-title="J League 2024",Machida Zelvia vs Kyoto Sanga

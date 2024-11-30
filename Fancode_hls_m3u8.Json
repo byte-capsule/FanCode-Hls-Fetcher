@@ -2,20 +2,8 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 7,
-  "last_upaded": "30-11-2024 on 11:54:21 AM \ud83c\udf1e",
+  "last_upaded": "30-11-2024 on 0:30:37 PM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "DCCI Challenger Trophy 2024",
-      "match_id": 114197,
-      "match_name": "India B vs India C",
-      "team_1": "India B",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IND@2x.png",
-      "team_2": "India C",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IND@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/CHL07HSbQIKRrK_7Vm09aw/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Ireland Women tour of Bangladesh, 2024",
@@ -29,16 +17,28 @@
       "stream_link": "https://dai.google.com/linear/hls/event/2QDjqlN4SQqDoNDgcE7MKA/master.m3u8"
     },
     {
+      "event_catagory": "cricket",
+      "event_name": "DCCI Challenger Trophy 2024",
+      "match_id": 114197,
+      "match_name": "India B vs India C",
+      "team_1": "India B",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IND@2x.png",
+      "team_2": "India C",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IND@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/CHL07HSbQIKRrK_7Vm09aw/master.m3u8"
+    },
+    {
       "event_catagory": "football",
       "event_name": "A League 2024-25",
-      "match_id": 110924,
-      "match_name": "Auckland vs Newcastle Jets",
-      "team_1": "Auckland",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AUCK@2x.png",
-      "team_2": "Newcastle Jets",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NJA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110924_4567_AFC_NJ_fc-web_1728983128202.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/6NSV9x91S4mDgJq4W4fZcA/master.m3u8"
+      "match_id": 110925,
+      "match_name": "Melbourne City vs Western Sydney Wanderers",
+      "team_1": "Melbourne City",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLCA@2x.png",
+      "team_2": "Western Sydney Wanderers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYWA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110925_4567_MLC_SYW_fc-web_1728983128205.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/e43MsHXVQASdsXxtAAVY9A/master.m3u8"
     },
     {
       "event_catagory": "football",
