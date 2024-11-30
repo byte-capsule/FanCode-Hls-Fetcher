@@ -3,6 +3,8 @@
 https://dai.google.com/linear/hls/event/2QDjqlN4SQqDoNDgcE7MKA/master.m3u8
 #EXTINF:-1 tvg-name="India B vs India C" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg" tvg-id="114197" group-title="DCCI Challenger Trophy 2024",India B vs India C
 https://dai.google.com/linear/hls/event/CHL07HSbQIKRrK_7Vm09aw/master.m3u8
+#EXTINF:-1 tvg-name="Biratnagar Kings vs Janakpur Bolts" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113724_4657_BK_JKB_fc-Web.jpg" tvg-id="113724" group-title="Nepal Premier League, 2024",Biratnagar Kings vs Janakpur Bolts
+https://dai.google.com/linear/hls/event/42_WvOMpQdGucyQM8ZRWEA/master.m3u8
 #EXTINF:-1 tvg-name="Melbourne City vs Western Sydney Wanderers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110925_4567_MLC_SYW_fc-web_1728983128205.jpg" tvg-id="110925" group-title="A League 2024-25",Melbourne City vs Western Sydney Wanderers
 https://dai.google.com/linear/hls/event/e43MsHXVQASdsXxtAAVY9A/master.m3u8
 #EXTINF:-1 tvg-name="Avispa Fukuoka vs Urawa Red Diamonds" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113512_3921_FKK_URW_fc-web.jpg" tvg-id="113512" group-title="J League 2024",Avispa Fukuoka vs Urawa Red Diamonds
@@ -11,5 +13,3 @@ https://liveauth.fancode.com/primary/113512_english_hls_5373adfreeta-no/index.m3
 https://liveauth.fancode.com/primary/113510_english_hls_8257adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Kashiwa Reysol vs Vissel Kobe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113509_3921_REY_VIS_fc-web.jpg" tvg-id="113509" group-title="J League 2024",Kashiwa Reysol vs Vissel Kobe
 https://liveauth.fancode.com/primary/113509_english_hls_2084adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ISPS-Handa-Australian-Open_OLD.jpg" tvg-id="114055" group-title="ISPS Handa Australian Open",Day 3
-https://dai.google.com/linear/hls/event/4cRJfq8EQi6o7ivlsSBimQ/master.m3u8
