@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="India A vs India Seniors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DCCI-Challenger-Trophy-2024_Old_match-card_Old_match-card1.jpg" tvg-id="114198" group-title="DCCI Challenger Trophy 2024",India A vs India Seniors
 https://dai.google.com/linear/hls/event/zPFqaF9NR6Ovl1-ta2CC4A/master.m3u8
-#EXTINF:-1 tvg-name="Barcelona Qalandar vs Girona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113160_4641_GIR_BQL_fc-web_1732095387840.jpg" tvg-id="113160" group-title="ECS Spain, Encore, 2024",Barcelona Qalandar vs Girona
-https://dai.google.com/linear/hls/event/_6879KIMRJapE7JLn6-B6w/master.m3u8
+#EXTINF:-1 tvg-name="Raval Sporting vs Girona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113161_4641_GIR_RAS_fc-web_1732095436130.jpg" tvg-id="113161" group-title="ECS Spain, Encore, 2024",Raval Sporting vs Girona
+https://dai.google.com/linear/hls/event/EObxmrrER2i_2QyBlEvJRw/master.m3u8
+#EXTINF:-1 tvg-name="Northern Warriors vs Team Abu Dhabi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112618_4620_NW_TAD_fc-web.jpg" tvg-id="112618" group-title="Abu Dhabi T10 League, 2024",Northern Warriors vs Team Abu Dhabi
+https://dai.google.com/linear/hls/event/gOBFYSHOSh-GhjFy9DJLJQ/master.m3u8
