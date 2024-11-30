@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "30-11-2024 on 0:53:07 PM \ud83c\udf1e",
+  "total_mathes": 4,
+  "last_upaded": "30-11-2024 on 1:22:05 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -51,42 +51,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYWA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110925_4567_MLC_SYW_fc-web_1728983128205.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/e43MsHXVQASdsXxtAAVY9A/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "J League 2024",
-      "match_id": 113512,
-      "match_name": "Avispa Fukuoka vs Urawa Red Diamonds",
-      "team_1": "Avispa Fukuoka",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AFK@2x.png",
-      "team_2": "Urawa Red Diamonds",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-URW@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113512_3921_FKK_URW_fc-web.jpg",
-      "stream_link": "https://liveauth.fancode.com/primary/113512_english_hls_5373adfreeta-no/index.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "J League 2024",
-      "match_id": 113510,
-      "match_name": "Machida Zelvia vs Kyoto Sanga",
-      "team_1": "Machida Zelvia",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MZ@2x.png",
-      "team_2": "Kyoto Sanga",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KSN@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113510_3921_MZ_KYS_fc-web.jpg",
-      "stream_link": "https://liveauth.fancode.com/primary/113510_english_hls_8257adfreeta-di/index.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "J League 2024",
-      "match_id": 113509,
-      "match_name": "Kashiwa Reysol vs Vissel Kobe",
-      "team_1": "Kashiwa Reysol",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KRE@2x.png",
-      "team_2": "Vissel Kobe",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VKO@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113509_3921_REY_VIS_fc-web.jpg",
-      "stream_link": "https://liveauth.fancode.com/primary/113509_english_hls_2084adfreeta-di/index.m3u8"
     }
   ]
 }

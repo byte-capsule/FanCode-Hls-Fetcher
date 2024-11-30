@@ -7,9 +7,3 @@ https://dai.google.com/linear/hls/event/CHL07HSbQIKRrK_7Vm09aw/master.m3u8
 https://dai.google.com/linear/hls/event/42_WvOMpQdGucyQM8ZRWEA/master.m3u8
 #EXTINF:-1 tvg-name="Melbourne City vs Western Sydney Wanderers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110925_4567_MLC_SYW_fc-web_1728983128205.jpg" tvg-id="110925" group-title="A League 2024-25",Melbourne City vs Western Sydney Wanderers
 https://dai.google.com/linear/hls/event/e43MsHXVQASdsXxtAAVY9A/master.m3u8
-#EXTINF:-1 tvg-name="Avispa Fukuoka vs Urawa Red Diamonds" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113512_3921_FKK_URW_fc-web.jpg" tvg-id="113512" group-title="J League 2024",Avispa Fukuoka vs Urawa Red Diamonds
-https://liveauth.fancode.com/primary/113512_english_hls_5373adfreeta-no/index.m3u8
-#EXTINF:-1 tvg-name="Machida Zelvia vs Kyoto Sanga" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113510_3921_MZ_KYS_fc-web.jpg" tvg-id="113510" group-title="J League 2024",Machida Zelvia vs Kyoto Sanga
-https://liveauth.fancode.com/primary/113510_english_hls_8257adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Kashiwa Reysol vs Vissel Kobe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113509_3921_REY_VIS_fc-web.jpg" tvg-id="113509" group-title="J League 2024",Kashiwa Reysol vs Vissel Kobe
-https://liveauth.fancode.com/primary/113509_english_hls_2084adfreeta-di/index.m3u8
