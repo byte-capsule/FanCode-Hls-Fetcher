@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "30-11-2024 on 1:53:01 PM \ud83c\udf1e",
+  "total_mathes": 7,
+  "last_upaded": "30-11-2024 on 2:45:31 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -42,6 +42,18 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "DCCI Challenger Trophy 2024",
+      "match_id": 114198,
+      "match_name": "India A vs India Seniors",
+      "team_1": "India A",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IND@2x.png",
+      "team_2": "India Seniors",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IND@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/zPFqaF9NR6Ovl1-ta2CC4A/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "ECS Spain, Encore, 2024",
       "match_id": 113159,
       "match_name": "Barcelona Qalandar vs Girona",
@@ -54,15 +66,27 @@
     },
     {
       "event_catagory": "football",
+      "event_name": "2nd Protech Guwahati Premier League 2024",
+      "match_id": 113811,
+      "match_name": "ASEB Sports Club vs Oil India Limited",
+      "team_1": "ASEB Sports Club",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ASEB@2x.png",
+      "team_2": "Oil India Limited",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-OIL@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg",
+      "stream_link": "Free Trial attempt unsuccessful......it requires Premium Account"
+    },
+    {
+      "event_catagory": "football",
       "event_name": "A League 2024-25",
-      "match_id": 110925,
-      "match_name": "Melbourne City vs Western Sydney Wanderers",
-      "team_1": "Melbourne City",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLCA@2x.png",
-      "team_2": "Western Sydney Wanderers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYWA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110925_4567_MLC_SYW_fc-web_1728983128205.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/e43MsHXVQASdsXxtAAVY9A/master.m3u8"
+      "match_id": 110927,
+      "match_name": "Macarthur vs Brisbane Roar",
+      "team_1": "Macarthur",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MACA@2x.png",
+      "team_2": "Brisbane Roar",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BRBI@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110927_4567_MAC_BRB_fc-web_1728983127566.jpg",
+      "stream_link": "Free Trial attempt unsuccessful......it requires Premium Account"
     }
   ]
 }
