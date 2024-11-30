@@ -1,11 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="India A vs India Seniors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DCCI-Challenger-Trophy-2024_Old_match-card_Old_match-card1.jpg" tvg-id="114198" group-title="DCCI Challenger Trophy 2024",India A vs India Seniors
-https://dai.google.com/linear/hls/event/zPFqaF9NR6Ovl1-ta2CC4A/master.m3u8
-#EXTINF:-1 tvg-name="Raval Sporting vs Girona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113161_4641_GIR_RAS_fc-web_1732095436130.jpg" tvg-id="113161" group-title="ECS Spain, Encore, 2024",Raval Sporting vs Girona
-https://dai.google.com/linear/hls/event/EObxmrrER2i_2QyBlEvJRw/master.m3u8
-#EXTINF:-1 tvg-name="Northern Warriors vs Team Abu Dhabi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112618_4620_NW_TAD_fc-web.jpg" tvg-id="112618" group-title="Abu Dhabi T10 League, 2024",Northern Warriors vs Team Abu Dhabi
-https://dai.google.com/linear/hls/event/gOBFYSHOSh-GhjFy9DJLJQ/master.m3u8
+#EXTINF:-1 tvg-name="Lahore Qalandars vs Hampshire" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113492_4648_HAM_LAH_fc-web.jpg" tvg-id="113492" group-title="Global Super League, 2024",Lahore Qalandars vs Hampshire
+https://dai.google.com/linear/hls/event/jK9ECXp0QXGj7WZDia2qsQ/master.m3u8
+#EXTINF:-1 tvg-name="Raval Sporting vs Royal Barcelona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113162_4641_RB_RAS_fc-web_1732095488805.jpg" tvg-id="113162" group-title="ECS Spain, Encore, 2024",Raval Sporting vs Royal Barcelona
+https://dai.google.com/linear/hls/event/m93FVkmnRumYCunF9rF3ZA/master.m3u8
+#EXTINF:-1 tvg-name="Morrisville Samp Army vs Ajman Bolts" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112619_4620_AB_MSA_fc-web.jpg" tvg-id="112619" group-title="Abu Dhabi T10 League, 2024",Morrisville Samp Army vs Ajman Bolts
+https://dai.google.com/linear/hls/event/nOpr8K8lQ4SAiijuJ1wAvA/master.m3u8
 #EXTINF:-1 tvg-name="Watford vs Queens Park Rangers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109845_4352_WAT_QPR_fc-web.jpg" tvg-id="109845" group-title="EFL Championship 2024-25",Watford vs Queens Park Rangers
 https://dai.google.com/linear/hls/event/vHJwwDTYRZCq4P65X3N4cQ/master.m3u8
+#EXTINF:-1 tvg-name="Sprint" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-QATAR-AIRWAYS-QATAR-GRAND-PRIX-2024-old-match-card-_1728394338513.png" tvg-id="95251" group-title="F1 QATAR AIRWAYS QATAR GRAND PRIX 2024",Sprint
+https://dai.google.com/linear/hls/event/E2iD4BQXRqafLqYYZTCdLw/master.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Andalucia-Costa-Del-Sol-Open-de-Espana_FC-web.jpg" tvg-id="113815" group-title="Andalucia Costa Del Sol Open De Espana",Day 3
 https://dai.google.com/linear/hls/event/5sCiDT3_Sia9RIgYo9BTuA/master.m3u8
