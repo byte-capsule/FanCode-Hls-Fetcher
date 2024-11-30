@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 8,
-  "last_upaded": "30-11-2024 on 9:40:11 PM \ud83c\udf19",
+  "total_mathes": 9,
+  "last_upaded": "30-11-2024 on 10:26:57 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -13,8 +13,20 @@
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NYCO@2x.png",
       "team_2": "NJ Titans",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NJT@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113197_4642_NYC_NJT_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/g5875tzERH-_jK2H0rc6Iw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Dream11 Trinidad T10 Blast, 6th Edition, 2024",
+      "match_id": 113563,
+      "match_name": "Scarlet Ibis Scorchers vs Woodland Steelpan Players",
+      "team_1": "Scarlet Ibis Scorchers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCARIB@2x.png",
+      "team_2": "Woodland Steelpan Players",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-STEELP@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113563_4653_SPK_SLS_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/pWG-HW6GT9-ifLqYwYvihQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -43,14 +55,14 @@
     {
       "event_catagory": "cricket",
       "event_name": "Abu Dhabi T10 League, 2024",
-      "match_id": 112619,
-      "match_name": "Morrisville Samp Army vs Ajman Bolts",
-      "team_1": "Morrisville Samp Army",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MSAA@2x.png",
-      "team_2": "Ajman Bolts",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AB@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112619_4620_AB_MSA_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/nOpr8K8lQ4SAiijuJ1wAvA/master.m3u8"
+      "match_id": 112620,
+      "match_name": "Deccan Gladiators vs Delhi Bulls",
+      "team_1": "Deccan Gladiators",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEG-CR1@2x.png",
+      "team_2": "Delhi Bulls",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEB-CR1@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112620_4620_DG_DB_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/wYM6PrklR6qXhtyytAyB4w/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -89,16 +101,16 @@
       "stream_link": "https://dai.google.com/linear/hls/event/E2iD4BQXRqafLqYYZTCdLw/master.m3u8"
     },
     {
-      "event_catagory": "golf",
-      "event_name": "Andalucia Costa Del Sol Open De Espana",
-      "match_id": 113815,
-      "match_name": "Day 3",
-      "team_1": "Day 3",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-ADC@2x.png",
-      "team_2": "Spain",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Andalucia-Costa-Del-Sol-Open-de-Espana_FC-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/5sCiDT3_Sia9RIgYo9BTuA/master.m3u8"
+      "event_catagory": "racing",
+      "event_name": "F2 QATAR 2024",
+      "match_id": 95372,
+      "match_name": "Sprint Race",
+      "team_1": "Sprint Race",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR2@2x.png",
+      "team_2": "Qatar",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Sporty_Match_card_4_Old_match-card.jpg",
+      "stream_link": "https://liveauth.fancode.com/primary/95372_english_hls_4527adfreeta-no/index.m3u8"
     }
   ]
 }

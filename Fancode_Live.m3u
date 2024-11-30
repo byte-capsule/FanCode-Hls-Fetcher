@@ -1,17 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="New York Cowboys vs NJ Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg" tvg-id="113213" group-title="US Premier League, 2024",New York Cowboys vs NJ Titans
+#EXTINF:-1 tvg-name="New York Cowboys vs NJ Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113197_4642_NYC_NJT_fc-web.jpg" tvg-id="113213" group-title="US Premier League, 2024",New York Cowboys vs NJ Titans
 https://dai.google.com/linear/hls/event/g5875tzERH-_jK2H0rc6Iw/master.m3u8
+#EXTINF:-1 tvg-name="Scarlet Ibis Scorchers vs Woodland Steelpan Players" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113563_4653_SPK_SLS_fc-web.jpg" tvg-id="113563" group-title="Dream11 Trinidad T10 Blast, 6th Edition, 2024",Scarlet Ibis Scorchers vs Woodland Steelpan Players
+https://dai.google.com/linear/hls/event/pWG-HW6GT9-ifLqYwYvihQ/master.m3u8
 #EXTINF:-1 tvg-name="Lahore Qalandars vs Hampshire" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113492_4648_HAM_LAH_fc-web.jpg" tvg-id="113492" group-title="Global Super League, 2024",Lahore Qalandars vs Hampshire
 https://dai.google.com/linear/hls/event/jK9ECXp0QXGj7WZDia2qsQ/master.m3u8
 #EXTINF:-1 tvg-name="Royal Barcelona vs Raval Sporting" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113163_4641_RB_RAS_fc-web_1732095584526.jpg" tvg-id="113163" group-title="ECS Spain, Encore, 2024",Royal Barcelona vs Raval Sporting
 https://dai.google.com/linear/hls/event/0jJCJblvTCST4V8zsvsEqA/master.m3u8
-#EXTINF:-1 tvg-name="Morrisville Samp Army vs Ajman Bolts" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112619_4620_AB_MSA_fc-web.jpg" tvg-id="112619" group-title="Abu Dhabi T10 League, 2024",Morrisville Samp Army vs Ajman Bolts
-https://dai.google.com/linear/hls/event/nOpr8K8lQ4SAiijuJ1wAvA/master.m3u8
+#EXTINF:-1 tvg-name="Deccan Gladiators vs Delhi Bulls" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112620_4620_DG_DB_fc-web.jpg" tvg-id="112620" group-title="Abu Dhabi T10 League, 2024",Deccan Gladiators vs Delhi Bulls
+https://dai.google.com/linear/hls/event/wYM6PrklR6qXhtyytAyB4w/master.m3u8
 #EXTINF:-1 tvg-name="West Indies vs Bangladesh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png" tvg-id="112345" group-title="Bangladesh tour of West Indies, 2024",West Indies vs Bangladesh
 https://dai.google.com/linear/hls/event/Z_fYZfUMTkW_Mp-4QblStA/master.m3u8
 #EXTINF:-1 tvg-name="Norwich City vs Luton Town" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109843_4352_NOR_LUT_fc-web.jpg" tvg-id="109843" group-title="EFL Championship 2024-25",Norwich City vs Luton Town
 https://dai.google.com/linear/hls/event/u50LOdLAT72EYJkKwZ94oQ/master.m3u8
 #EXTINF:-1 tvg-name="Sprint" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-QATAR-AIRWAYS-QATAR-GRAND-PRIX-2024-old-match-card-_1728394338513.png" tvg-id="95251" group-title="F1 QATAR AIRWAYS QATAR GRAND PRIX 2024",Sprint
 https://dai.google.com/linear/hls/event/E2iD4BQXRqafLqYYZTCdLw/master.m3u8
-#EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Andalucia-Costa-Del-Sol-Open-de-Espana_FC-web.jpg" tvg-id="113815" group-title="Andalucia Costa Del Sol Open De Espana",Day 3
-https://dai.google.com/linear/hls/event/5sCiDT3_Sia9RIgYo9BTuA/master.m3u8
+#EXTINF:-1 tvg-name="Sprint Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Formula2_Sporty_Match_card_4_Old_match-card.jpg" tvg-id="95372" group-title="F2 QATAR 2024",Sprint Race
+https://liveauth.fancode.com/primary/95372_english_hls_4527adfreeta-no/index.m3u8
