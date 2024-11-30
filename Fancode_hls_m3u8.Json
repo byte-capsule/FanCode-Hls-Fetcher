@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "30-11-2024 on 9:22:24 PM \ud83c\udf19",
+  "total_mathes": 8,
+  "last_upaded": "30-11-2024 on 9:40:11 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,6 +27,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HAMP@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/113492_4648_HAM_LAH_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/jK9ECXp0QXGj7WZDia2qsQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ECS Spain, Encore, 2024",
+      "match_id": 113163,
+      "match_name": "Royal Barcelona vs Raval Sporting",
+      "team_1": "Royal Barcelona",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RB@2x.png",
+      "team_2": "Raval Sporting",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RSCC-CR1@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113163_4641_RB_RAS_fc-web_1732095584526.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/0jJCJblvTCST4V8zsvsEqA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
