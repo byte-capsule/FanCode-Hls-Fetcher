@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "30-11-2024 on 1:22:05 PM \ud83c\udf1e",
+  "total_mathes": 5,
+  "last_upaded": "30-11-2024 on 1:39:49 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -18,6 +18,18 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "Nepal Premier League, 2024",
+      "match_id": 113724,
+      "match_name": "Biratnagar Kings vs Janakpur Bolts",
+      "team_1": "Biratnagar Kings",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BKN@2x.png",
+      "team_2": "Janakpur Bolts",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JKB@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113724_4657_BK_JKB_fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/42_WvOMpQdGucyQM8ZRWEA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "DCCI Challenger Trophy 2024",
       "match_id": 114197,
       "match_name": "India B vs India C",
@@ -30,15 +42,15 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Nepal Premier League, 2024",
-      "match_id": 113724,
-      "match_name": "Biratnagar Kings vs Janakpur Bolts",
-      "team_1": "Biratnagar Kings",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BKN@2x.png",
-      "team_2": "Janakpur Bolts",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JKB@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113724_4657_BK_JKB_fc-Web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/42_WvOMpQdGucyQM8ZRWEA/master.m3u8"
+      "event_name": "ECS Spain, Encore, 2024",
+      "match_id": 113159,
+      "match_name": "Barcelona Qalandar vs Girona",
+      "team_1": "Barcelona Qalandar",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR16@2x.png",
+      "team_2": "Girona",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR18@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113159_4641_GIR_BQL_fc-web_1732095327624.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/e8CgRdUfTCGCMRqOeeNrJg/master.m3u8"
     },
     {
       "event_catagory": "football",
