@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Magic CC Badalona vs Girona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113166_4641_MGC_GIR_fc-web_1732095862412.jpg" tvg-id="113166" group-title="ECS Spain, Encore, 2024",Magic CC Badalona vs Girona
-https://dai.google.com/linear/hls/event/R98ZU6WmQt-u_uc4Fz_dBQ/master.m3u8
 #EXTINF:-1 tvg-name="Bangladesh vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png" tvg-id="112345" group-title="Bangladesh tour of West Indies, 2024",Bangladesh vs West Indies
 https://dai.google.com/linear/hls/event/Z_fYZfUMTkW_Mp-4QblStA/master.m3u8
 #EXTINF:-1 tvg-name="Pakistan vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-PAK_Old_match-card.jpg" tvg-id="112358" group-title="Pakistan tour of Zimbabwe, 2024",Pakistan vs Zimbabwe
