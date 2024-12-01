@@ -1,16 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Ripoll Warriors vs Girona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113167_4641_RIW_GIR_fc-web_1732095957163.jpg" tvg-id="113167" group-title="ECS Spain, Encore, 2024",Ripoll Warriors vs Girona
-https://dai.google.com/linear/hls/event/sjhxXME_R7a97UCaTOBJJQ/master.m3u8
 #EXTINF:-1 tvg-name="UP Nawabs vs Delhi Bulls" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/UP-Nawabs-VS-Delhi-Bulls_old.jpg" tvg-id="112622" group-title="Abu Dhabi T10 League, 2024",UP Nawabs vs Delhi Bulls
 https://dai.google.com/linear/hls/event/3DjIOelqRw2Xlc4ki7n4Cw/master.m3u8
 #EXTINF:-1 tvg-name="Bangladesh vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png" tvg-id="112345" group-title="Bangladesh tour of West Indies, 2024",Bangladesh vs West Indies
 https://dai.google.com/linear/hls/event/Z_fYZfUMTkW_Mp-4QblStA/master.m3u8
-#EXTINF:-1 tvg-name="Pakistan vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-PAK_Old_match-card.jpg" tvg-id="112358" group-title="Pakistan tour of Zimbabwe, 2024",Pakistan vs Zimbabwe
-https://dai.google.com/linear/hls/event/grd-0vMNSU-0gHX8yAm-sg/master.m3u8
 #EXTINF:-1 tvg-name="Victoria vs Rangpur Riders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113493_4648_RAN_VCT_fc-web.jpg" tvg-id="113493" group-title="Global Super League, 2024",Victoria vs Rangpur Riders
 https://dai.google.com/linear/hls/event/5GYbGgycQxilH-8kEnXMMg/master.m3u8
 #EXTINF:-1 tvg-name="Maryland Mavericks vs New York Cowboys" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113200_4642_MAV_NYC_fc-web.jpg" tvg-id="113212" group-title="US Premier League, 2024",Maryland Mavericks vs New York Cowboys
 https://dai.google.com/linear/hls/event/4JvcPXajTlCmwzVQAiziKQ/master.m3u8
+#EXTINF:-1 tvg-name="Derby County vs Sheffield Wednesday" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109889_4352_DER_SHFF_fc-web.jpg" tvg-id="109889" group-title="EFL Championship 2024-25",Derby County vs Sheffield Wednesday
+https://dai.google.com/linear/hls/event/Jha2uqwWT96exhOHQ6LcHw/master.m3u8
 #EXTINF:-1 tvg-name="Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-QATAR-AIRWAYS-QATAR-GRAND-PRIX-2024-old-match-card-_1728394338513.png" tvg-id="95252" group-title="F1 QATAR AIRWAYS QATAR GRAND PRIX 2024",Race
 https://dai.google.com/linear/hls/event/VOcZkkksTqy_EUzbo0LgMA/master.m3u8
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Andalucia-Costa-Del-Sol-Open-de-Espana_FC-web.jpg" tvg-id="113816" group-title="Andalucia Costa Del Sol Open De Espana",Day 4
