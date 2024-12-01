@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "01-12-2024 on 0:32:33 PM \ud83c\udf1e",
+  "total_mathes": 4,
+  "last_upaded": "01-12-2024 on 0:53:44 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -39,18 +39,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CSA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/113511_3921_HIR_SAP_fc-web.jpg",
       "stream_link": "https://liveauth.fancode.com/primary/113511_english_hls_8261adfreeta-di/index.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "A League 2024-25",
-      "match_id": 110926,
-      "match_name": "Western United vs Melbourne Victory",
-      "team_1": "Western United",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WSTA@2x.png",
-      "team_2": "Melbourne Victory",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLVA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110926_4567_WST_MLV_fc-web_1728983127260.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/4L4B5KImQ9ygY_0zs4tmhA/master.m3u8"
     },
     {
       "event_catagory": "golf",
