@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Bangladesh vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png" tvg-id="112345" group-title="Bangladesh tour of West Indies, 2024",Bangladesh vs West Indies
 https://dai.google.com/linear/hls/event/Z_fYZfUMTkW_Mp-4QblStA/master.m3u8
-#EXTINF:-1 tvg-name="India A vs India B" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DCCI-Challenger-Trophy-2024_Old_match-card_Old_match-card1.jpg" tvg-id="114199" group-title="DCCI Challenger Trophy 2024",India A vs India B
-https://dai.google.com/linear/hls/event/6UL51M8JQFi98aVI6lnFsA/master.m3u8
+#EXTINF:-1 tvg-name="India C vs India Seniors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DCCI-Challenger-Trophy-2024_Old_match-card_Old_match-card1.jpg" tvg-id="114200" group-title="DCCI Challenger Trophy 2024",India C vs India Seniors
+https://dai.google.com/linear/hls/event/KgTLURgnSsCzyDwmJX4wKA/master.m3u8
 #EXTINF:-1 tvg-name="Raval Sporting vs Magic CC Badalona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113164_4641_MGC_RAS_fc-web_1732095659557.jpg" tvg-id="113164" group-title="ECS Spain, Encore, 2024",Raval Sporting vs Magic CC Badalona
 https://dai.google.com/linear/hls/event/MJA9XUn6StuXgEB2AJWT5A/master.m3u8
+#EXTINF:-1 tvg-name="North East Frontier Railways SA vs Sunrise Athletic Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg" tvg-id="113821" group-title="2nd Protech Guwahati Premier League 2024",North East Frontier Railways SA vs Sunrise Athletic Club
+https://dai.google.com/linear/hls/event/90fFpa7TSjW7b57dCu4tJw/master.m3u8
