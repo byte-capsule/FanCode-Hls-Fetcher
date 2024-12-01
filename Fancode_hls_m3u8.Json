@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 4,
-  "last_upaded": "01-12-2024 on 4:56:11 PM \ud83c\udf1e",
+  "last_upaded": "01-12-2024 on 5:19:10 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -18,18 +18,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "ECS Spain, Encore, 2024",
-      "match_id": 113165,
-      "match_name": "Raval Sporting vs Magic CC Badalona",
-      "team_1": "Raval Sporting",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RSCC-CR1@2x.png",
-      "team_2": "Magic CC Badalona",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MGC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113165_4641_MGC_RAS_fc-web_1732095862394.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/55RW0MGMQ2iDNhWGWk9hdg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "Bangladesh tour of West Indies, 2024",
       "match_id": 112345,
       "match_name": "Bangladesh vs West Indies",
@@ -39,6 +27,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png",
       "stream_link": "https://dai.google.com/linear/hls/event/Z_fYZfUMTkW_Mp-4QblStA/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "2nd Protech Guwahati Premier League 2024",
+      "match_id": 113822,
+      "match_name": "Numaligarh Refinery Limited vs NorthEast United",
+      "team_1": "Numaligarh Refinery Limited",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NRL@2x.png",
+      "team_2": "NorthEast United",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NUFC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2_1732617283192.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/tsUQoXuuSEucxLUIZwrJ3A/master.m3u8"
     },
     {
       "event_catagory": "racing",
