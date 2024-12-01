@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="India C vs India Seniors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DCCI-Challenger-Trophy-2024_Old_match-card_Old_match-card1.jpg" tvg-id="114200" group-title="DCCI Challenger Trophy 2024",India C vs India Seniors
-https://dai.google.com/linear/hls/event/KgTLURgnSsCzyDwmJX4wKA/master.m3u8
 #EXTINF:-1 tvg-name="Magic CC Badalona vs Girona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113166_4641_MGC_GIR_fc-web_1732095862412.jpg" tvg-id="113166" group-title="ECS Spain, Encore, 2024",Magic CC Badalona vs Girona
 https://dai.google.com/linear/hls/event/R98ZU6WmQt-u_uc4Fz_dBQ/master.m3u8
 #EXTINF:-1 tvg-name="Bangladesh vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png" tvg-id="112345" group-title="Bangladesh tour of West Indies, 2024",Bangladesh vs West Indies
@@ -9,7 +7,7 @@ https://dai.google.com/linear/hls/event/Z_fYZfUMTkW_Mp-4QblStA/master.m3u8
 https://dai.google.com/linear/hls/event/grd-0vMNSU-0gHX8yAm-sg/master.m3u8
 #EXTINF:-1 tvg-name="Deccan Gladiators vs Morrisville Samp Army" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Deccan-Gladiators-VS-Morrisville-Samp-Army_old.jpg" tvg-id="112621" group-title="Abu Dhabi T10 League, 2024",Deccan Gladiators vs Morrisville Samp Army
 Free Trial attempt unsuccessful......it requires Premium Account
-#EXTINF:-1 tvg-name="Numaligarh Refinery Limited vs NorthEast United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2_1732617283192.jpg" tvg-id="113822" group-title="2nd Protech Guwahati Premier League 2024",Numaligarh Refinery Limited vs NorthEast United
-https://dai.google.com/linear/hls/event/tsUQoXuuSEucxLUIZwrJ3A/master.m3u8
+#EXTINF:-1 tvg-name="Feature Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Formula2_Sporty_Match_card_4_Old_match-card.jpg" tvg-id="95373" group-title="F2 QATAR 2024",Feature Race
+https://liveauth.fancode.com/primary/95373_english_hls_4619adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Andalucia-Costa-Del-Sol-Open-de-Espana_FC-web.jpg" tvg-id="113816" group-title="Andalucia Costa Del Sol Open De Espana",Day 4
 https://dai.google.com/linear/hls/event/ur7v3igaS--64XffHwfVpg/master.m3u8
