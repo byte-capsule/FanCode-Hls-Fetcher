@@ -5,3 +5,5 @@ https://dai.google.com/linear/hls/event/KgTLURgnSsCzyDwmJX4wKA/master.m3u8
 https://dai.google.com/linear/hls/event/55RW0MGMQ2iDNhWGWk9hdg/master.m3u8
 #EXTINF:-1 tvg-name="Bangladesh vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png" tvg-id="112345" group-title="Bangladesh tour of West Indies, 2024",Bangladesh vs West Indies
 https://dai.google.com/linear/hls/event/Z_fYZfUMTkW_Mp-4QblStA/master.m3u8
+#EXTINF:-1 tvg-name="Second Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Qatar-Fc_web.jpg" tvg-id="96862" group-title="F1 ACADEMY QATAR 2024",Second Race
+https://liveauth.fancode.com/primary/96862_english_hls_4675adfreeta-di/index.m3u8
