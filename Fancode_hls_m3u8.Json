@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "01-12-2024 on 7:53:10 PM \ud83c\udf19",
+  "total_mathes": 7,
+  "last_upaded": "01-12-2024 on 8:20:02 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -63,6 +63,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RANG@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/113493_4648_RAN_VCT_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/5GYbGgycQxilH-8kEnXMMg/master.m3u8"
+    },
+    {
+      "event_catagory": "formula1",
+      "event_name": "F1 QATAR AIRWAYS QATAR GRAND PRIX 2024",
+      "match_id": 95252,
+      "match_name": "Race",
+      "team_1": "Race",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+      "team_2": "Qatar",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/F1-QATAR-AIRWAYS-QATAR-GRAND-PRIX-2024-old-match-card-_1728394338513.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/VOcZkkksTqy_EUzbo0LgMA/master.m3u8"
     },
     {
       "event_catagory": "golf",

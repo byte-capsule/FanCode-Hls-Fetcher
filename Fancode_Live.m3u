@@ -9,5 +9,7 @@ https://dai.google.com/linear/hls/event/grd-0vMNSU-0gHX8yAm-sg/master.m3u8
 https://dai.google.com/linear/hls/event/3DjIOelqRw2Xlc4ki7n4Cw/master.m3u8
 #EXTINF:-1 tvg-name="Victoria vs Rangpur Riders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113493_4648_RAN_VCT_fc-web.jpg" tvg-id="113493" group-title="Global Super League, 2024",Victoria vs Rangpur Riders
 https://dai.google.com/linear/hls/event/5GYbGgycQxilH-8kEnXMMg/master.m3u8
+#EXTINF:-1 tvg-name="Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-QATAR-AIRWAYS-QATAR-GRAND-PRIX-2024-old-match-card-_1728394338513.png" tvg-id="95252" group-title="F1 QATAR AIRWAYS QATAR GRAND PRIX 2024",Race
+https://dai.google.com/linear/hls/event/VOcZkkksTqy_EUzbo0LgMA/master.m3u8
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Andalucia-Costa-Del-Sol-Open-de-Espana_FC-web.jpg" tvg-id="113816" group-title="Andalucia Costa Del Sol Open De Espana",Day 4
 https://dai.google.com/linear/hls/event/ur7v3igaS--64XffHwfVpg/master.m3u8
