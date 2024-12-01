@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 2,
-  "last_upaded": "01-12-2024 on 1:23:08 PM \ud83c\udf1e",
+  "total_mathes": 3,
+  "last_upaded": "01-12-2024 on 1:40:56 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,6 +27,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IND@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/DCCI-Challenger-Trophy-2024_Old_match-card_Old_match-card1.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/6UL51M8JQFi98aVI6lnFsA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ECS Spain, Encore, 2024",
+      "match_id": 113164,
+      "match_name": "Raval Sporting vs Magic CC Badalona",
+      "team_1": "Raval Sporting",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RSCC-CR1@2x.png",
+      "team_2": "Magic CC Badalona",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MGC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113164_4641_MGC_RAS_fc-web_1732095659557.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/MJA9XUn6StuXgEB2AJWT5A/master.m3u8"
     }
   ]
 }
