@@ -1,20 +1,20 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "02-12-2024 on 9:57:55 PM \ud83c\udf19",
+  "total_mathes": 6,
+  "last_upaded": "02-12-2024 on 10:33:16 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
       "event_name": "Dream11 Trinidad T10 Blast, 6th Edition, 2024",
-      "match_id": 113567,
-      "match_name": "Woodland Steelpan Players vs Soca Kings",
-      "team_1": "Woodland Steelpan Players",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-STEELP@2x.png",
-      "team_2": "Soca Kings",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOCA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113567_4653_SPK_SCK_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/2OIbLY8KSyu0K0rWLloKjg/master.m3u8"
+      "match_id": 113568,
+      "match_name": "Scarlet Ibis Scorchers vs Blue Devils",
+      "team_1": "Scarlet Ibis Scorchers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCARIB@2x.png",
+      "team_2": "Blue Devils",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLUD@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113568_4653_SLS_BLD_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/NqUPJtvcS2KnRNGq3tayLQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -55,14 +55,26 @@
     {
       "event_catagory": "football",
       "event_name": "AFC Champions League Elite 2024-25",
-      "match_id": 108687,
-      "match_name": "Persepolis FC vs Al Shorta",
-      "team_1": "Persepolis FC",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PERSE@2x.png",
-      "team_2": "Al Shorta",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHR@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/prod-images/2024/09/108687_4475_PPL_SHR_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/X6VDv3lETRGz4EKHwsn1eA/master.m3u8"
+      "match_id": 108689,
+      "match_name": "Al Wasl vs Al Rayyan",
+      "team_1": "Al Wasl",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AWL@2x.png",
+      "team_2": "Al Rayyan",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RAY@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/prod-images/2024/09/108689_4475_AWL_RAY_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/ws4MVIV8Rhud2CJWy8kvlA/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "AFC Champions League Elite 2024-25",
+      "match_id": 108688,
+      "match_name": "Al-Ahli vs Esteghlal FC",
+      "team_1": "Al-Ahli",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AAS@2x.png",
+      "team_2": "Esteghlal FC",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ESG@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/prod-images/2024/09/108688_4475_AAS_ESG_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/OcPwpZ69R7yOxHM43UQgFw/master.m3u8"
     }
   ]
 }
