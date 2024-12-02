@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "02-12-2024 on 1:43:03 PM \ud83c\udf1e",
+  "total_mathes": 6,
+  "last_upaded": "02-12-2024 on 1:56:00 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -51,6 +51,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IND@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/DCCI-Challenger-Trophy-2024_Old_match-card_Old_match-card1.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/17mHgr9UQdC26VGSQUUJHA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "DCCI Challenger Trophy 2024",
+      "match_id": 114202,
+      "match_name": "India B vs India Seniors",
+      "team_1": "India B",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IND@2x.png",
+      "team_2": "India Seniors",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IND@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/DCCI-Challenger-Trophy-2024_Old_match-card_Old_match-card1.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/9UBpRd98SBOf70uJXx4fvg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
