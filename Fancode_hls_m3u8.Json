@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "02-12-2024 on 3:57:11 PM \ud83c\udf1e",
+  "total_mathes": 4,
+  "last_upaded": "02-12-2024 on 4:29:35 PM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Nepal Premier League, 2024",
-      "match_id": 113726,
-      "match_name": "Karnali Yaks vs Janakpur Bolts",
-      "team_1": "Karnali Yaks",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KNYN@2x.png",
-      "team_2": "Janakpur Bolts",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JKB@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113726_4657_JKB_KNY_fc-Web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/9SsopLehQlK4KxkTt5mTew/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "DCCI Challenger Trophy 2024",
@@ -63,18 +51,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-Women-Tour-of-Bangladesh,-T20Is-2024-old-match-card--(1).png",
       "stream_link": "https://dai.google.com/linear/hls/event/5atS9w4nRuCTASqJyUkf6A/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "2nd Protech Guwahati Premier League 2024",
-      "match_id": 113823,
-      "match_name": "DBI vs Oil India Limited",
-      "team_1": "DBI",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-DBI@2x.png",
-      "team_2": "Oil India Limited",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-OIL@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/OguHkr4uTKe8iNxPB_LvXg/master.m3u8"
     }
   ]
 }
