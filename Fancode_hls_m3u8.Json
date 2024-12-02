@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 4,
-  "last_upaded": "02-12-2024 on 5:19:54 PM \ud83c\udf1e",
+  "last_upaded": "02-12-2024 on 5:39:36 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -19,14 +19,14 @@
     {
       "event_catagory": "cricket",
       "event_name": "ECS Spain, Encore, 2024",
-      "match_id": 113170,
-      "match_name": "Barcelona Qalandar vs Hawks XI Catalunya",
+      "match_id": 113171,
+      "match_name": "Barcelona Qalandar vs Ripoll Warriors",
       "team_1": "Barcelona Qalandar",
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR16@2x.png",
-      "team_2": "Hawks XI Catalunya",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR13@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113170_4641_HAW_BQL_fc-web_1732096031031.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/x9kkv_YtSQCYOiNU_V560Q/master.m3u8"
+      "team_2": "Ripoll Warriors",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RW-CR3@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113171_4641_BQL_RIW_fc-web_1732096157528.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/KOIO7zyTRDWCqcHw7dsVkQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
