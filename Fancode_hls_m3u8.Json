@@ -1,68 +1,20 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "02-12-2024 on 11:55:13 PM \ud83c\udf19",
+  "total_mathes": 1,
+  "last_upaded": "03-12-2024 on 00:32:56 AM \ud83c\udf19",
   "matches": [
     {
-      "event_catagory": "cricket",
-      "event_name": "Dream11 Trinidad T10 Blast, 6th Edition, 2024",
-      "match_id": 113568,
-      "match_name": "Scarlet Ibis Scorchers vs Blue Devils",
-      "team_1": "Scarlet Ibis Scorchers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCARIB@2x.png",
-      "team_2": "Blue Devils",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLUD@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113568_4653_SLS_BLD_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/NqUPJtvcS2KnRNGq3tayLQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "KCC T20 Elite Championship 2nd Edition, 2024",
-      "match_id": 112582,
-      "match_name": "Kuwait Emerging Stars vs Stack CC",
-      "team_1": "Kuwait Emerging Stars",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR1@2x.png",
-      "team_2": "Stack CC",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-STAX@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_03_1730875782908.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/eUe9HxzjTRO7kB2P7XDMuQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Bangladesh tour of West Indies, 2024",
-      "match_id": 112345,
-      "match_name": "Bangladesh vs West Indies",
-      "team_1": "Bangladesh",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
-      "team_2": "West Indies",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/Z_fYZfUMTkW_Mp-4QblStA/master.m3u8"
-    },
-    {
       "event_catagory": "football",
       "event_name": "AFC Champions League Elite 2024-25",
-      "match_id": 108689,
-      "match_name": "Al Wasl vs Al Rayyan",
-      "team_1": "Al Wasl",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AWL@2x.png",
-      "team_2": "Al Rayyan",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RAY@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/prod-images/2024/09/108689_4475_AWL_RAY_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/ws4MVIV8Rhud2CJWy8kvlA/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "AFC Champions League Elite 2024-25",
-      "match_id": 108688,
-      "match_name": "Al-Ahli vs Esteghlal FC",
-      "team_1": "Al-Ahli",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AAS@2x.png",
-      "team_2": "Esteghlal FC",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ESG@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/prod-images/2024/09/108688_4475_AAS_ESG_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/OcPwpZ69R7yOxHM43UQgFw/master.m3u8"
+      "match_id": 108690,
+      "match_name": "Al-Nassr vs Al Sadd",
+      "team_1": "Al-Nassr",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ANF@2x.png",
+      "team_2": "Al Sadd",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALSAD@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/prod-images/2024/09/108690_4475_ANF_SDD_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/S5H5i5ZpTgWlz8t8z1zZYw/master.m3u8"
     }
   ]
 }
