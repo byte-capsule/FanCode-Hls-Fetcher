@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Scarlet Ibis Scorchers vs Trillions System Ltd Strikers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113571_4653_TLS_SLS_fc-web_1732283784341.jpg" tvg-id="113571" group-title="Dream11 Trinidad T10 Blast, 6th Edition, 2024",Scarlet Ibis Scorchers vs Trillions System Ltd Strikers
 https://dai.google.com/linear/hls/event/0kVGLXeNTgakrcgioERScA/master.m3u8
-#EXTINF:-1 tvg-name="Royal Barcelona vs Barcelona Qalandar" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113177_4641_BQL_RB_fc-web_1733231886134.jpg" tvg-id="113178" group-title="ECS Spain, Encore, 2024",Royal Barcelona vs Barcelona Qalandar
-https://dai.google.com/linear/hls/event/ermKo_BPSdqMb4o_4lAmCA/master.m3u8
 #EXTINF:-1 tvg-name="Bangladesh vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png" tvg-id="112345" group-title="Bangladesh tour of West Indies, 2024",Bangladesh vs West Indies
 https://dai.google.com/linear/hls/event/Z_fYZfUMTkW_Mp-4QblStA/master.m3u8
 #EXTINF:-1 tvg-name="Kuwait Mavericks vs CECC-B" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112421_4616_CEC-B_KMW_fc-web_1731569489774.jpg" tvg-id="112421" group-title="KCC T20 Challengers A League, 2024-25",Kuwait Mavericks vs CECC-B
