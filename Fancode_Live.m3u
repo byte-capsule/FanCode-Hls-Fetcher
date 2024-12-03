@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Magic CC Badalona vs Royal Barcelona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113176_4641_MGC_RB_fc-web_1732096157557.jpg" tvg-id="113176" group-title="ECS Spain, Encore, 2024",Magic CC Badalona vs Royal Barcelona
-https://dai.google.com/linear/hls/event/GIM9wokpStiLTVfQf8lNKA/master.m3u8
 #EXTINF:-1 tvg-name="Bangladesh vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png" tvg-id="112345" group-title="Bangladesh tour of West Indies, 2024",Bangladesh vs West Indies
 https://dai.google.com/linear/hls/event/Z_fYZfUMTkW_Mp-4QblStA/master.m3u8
-#EXTINF:-1 tvg-name="Zimbabwe vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-PAK_Old_match-card.jpg" tvg-id="112359" group-title="Pakistan tour of Zimbabwe, 2024",Zimbabwe vs Pakistan
-https://dai.google.com/linear/hls/event/XQtZQ-O1TZG61sjjuC8vnw/master.m3u8
 #EXTINF:-1 tvg-name="Shanghai Port vs Gwangju" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/09/108696_4475_SHG_GWN_fc-web.jpg" tvg-id="108696" group-title="AFC Champions League Elite 2024-25",Shanghai Port vs Gwangju
 https://dai.google.com/linear/hls/event/gHOsFmeMQeqcMd4s9kJK8Q/master.m3u8
 #EXTINF:-1 tvg-name="Johor Darul Ta'zim vs Buriram United" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="108695" group-title="AFC Champions League Elite 2024-25",Johor Darul Ta'zim vs Buriram United
