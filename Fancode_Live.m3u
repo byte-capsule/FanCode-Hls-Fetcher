@@ -1,8 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Barcelona Qalandar vs Magic CC Badalona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113175_4641_BQL_MGC_fc-web_1732096157548.jpg" tvg-id="113175" group-title="ECS Spain, Encore, 2024",Barcelona Qalandar vs Magic CC Badalona
 https://dai.google.com/linear/hls/event/Tb2-s1PjTWW9MlFs9SJDbA/master.m3u8
+#EXTINF:-1 tvg-name="Magic CC Badalona vs Royal Barcelona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113176_4641_MGC_RB_fc-web_1732096157557.jpg" tvg-id="113176" group-title="ECS Spain, Encore, 2024",Magic CC Badalona vs Royal Barcelona
+https://dai.google.com/linear/hls/event/GIM9wokpStiLTVfQf8lNKA/master.m3u8
 #EXTINF:-1 tvg-name="Bangladesh vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png" tvg-id="112345" group-title="Bangladesh tour of West Indies, 2024",Bangladesh vs West Indies
 https://dai.google.com/linear/hls/event/Z_fYZfUMTkW_Mp-4QblStA/master.m3u8
+#EXTINF:-1 tvg-name="Zimbabwe vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-PAK_Old_match-card.jpg" tvg-id="112359" group-title="Pakistan tour of Zimbabwe, 2024",Zimbabwe vs Pakistan
+https://dai.google.com/linear/hls/event/XQtZQ-O1TZG61sjjuC8vnw/master.m3u8
 #EXTINF:-1 tvg-name="Pohang Steelers vs Vissel Kobe" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/09/108694_4475_PHG_VIS_fc-web.jpg" tvg-id="108694" group-title="AFC Champions League Elite 2024-25",Pohang Steelers vs Vissel Kobe
 https://dai.google.com/linear/hls/event/kTzF2MbeT6myK8R-sxsk1w/master.m3u8
 #EXTINF:-1 tvg-name="Barekuri FC vs Numaligarh Refinery Limited" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2_1732617283192.jpg" tvg-id="113826" group-title="2nd Protech Guwahati Premier League 2024",Barekuri FC vs Numaligarh Refinery Limited
