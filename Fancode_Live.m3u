@@ -1,15 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Chitwan Rhinos vs Pokhara Avengers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113728_4657_CWR_PKA_fc-Web.jpg" tvg-id="113728" group-title="Nepal Premier League, 2024",Chitwan Rhinos vs Pokhara Avengers
-https://dai.google.com/linear/hls/event/8YGHHU29SrixQNTMdm3NXQ/master.m3u8
+#EXTINF:-1 tvg-name="Barcelona Qalandar vs Magic CC Badalona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113175_4641_BQL_MGC_fc-web_1732096157548.jpg" tvg-id="113175" group-title="ECS Spain, Encore, 2024",Barcelona Qalandar vs Magic CC Badalona
+https://dai.google.com/linear/hls/event/Tb2-s1PjTWW9MlFs9SJDbA/master.m3u8
 #EXTINF:-1 tvg-name="Bangladesh vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png" tvg-id="112345" group-title="Bangladesh tour of West Indies, 2024",Bangladesh vs West Indies
 https://dai.google.com/linear/hls/event/Z_fYZfUMTkW_Mp-4QblStA/master.m3u8
 #EXTINF:-1 tvg-name="Queensland vs Tasmania" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109150_4492_TAS_QUN_fc-web.jpg" tvg-id="109150" group-title="One Day Cup, 2024-25",Queensland vs Tasmania
 https://dai.google.com/linear/hls/event/pzp1-kD4TQytHpsQb-BDAw/master.m3u8
 #EXTINF:-1 tvg-name="India Seniors vs India A" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DCCI-Challenger-Trophy-2024_Old_match-card_Old_match-card1.jpg" tvg-id="114211" group-title="DCCI Challenger Trophy 2024",India Seniors vs India A
 https://dai.google.com/linear/hls/event/Y9ZGkYSKTna17JVQpnWi7g/master.m3u8
-#EXTINF:-1 tvg-name="Barcelona Qalandar vs Magic CC Badalona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113175_4641_BQL_MGC_fc-web_1732096157548.jpg" tvg-id="113175" group-title="ECS Spain, Encore, 2024",Barcelona Qalandar vs Magic CC Badalona
-https://dai.google.com/linear/hls/event/Tb2-s1PjTWW9MlFs9SJDbA/master.m3u8
-#EXTINF:-1 tvg-name="Central Coast Mariners vs Yokohama F. Marinos" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="108693" group-title="AFC Champions League Elite 2024-25",Central Coast Mariners vs Yokohama F. Marinos
-https://dai.google.com/linear/hls/event/VJS7SHz2ToGXVGwvThZjzw/master.m3u8
-#EXTINF:-1 tvg-name="Pride East Mavericks vs NorthEast United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg" tvg-id="113825" group-title="2nd Protech Guwahati Premier League 2024",Pride East Mavericks vs NorthEast United
-https://dai.google.com/linear/hls/event/PUQIiVy5SbKVBc7i6RZi5g/master.m3u8
+#EXTINF:-1 tvg-name="Pohang Steelers vs Vissel Kobe" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/09/108694_4475_PHG_VIS_fc-web.jpg" tvg-id="108694" group-title="AFC Champions League Elite 2024-25",Pohang Steelers vs Vissel Kobe
+https://dai.google.com/linear/hls/event/kTzF2MbeT6myK8R-sxsk1w/master.m3u8
