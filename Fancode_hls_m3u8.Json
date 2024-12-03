@@ -1,9 +1,21 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "03-12-2024 on 0:55:36 PM \ud83c\udf1e",
+  "total_mathes": 4,
+  "last_upaded": "03-12-2024 on 1:25:21 PM \ud83c\udf1e",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "Nepal Premier League, 2024",
+      "match_id": 113728,
+      "match_name": "Chitwan Rhinos vs Pokhara Avengers",
+      "team_1": "Chitwan Rhinos",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CWR@2x.png",
+      "team_2": "Pokhara Avengers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PKA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113728_4657_CWR_PKA_fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/8YGHHU29SrixQNTMdm3NXQ/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "Bangladesh tour of West Indies, 2024",
