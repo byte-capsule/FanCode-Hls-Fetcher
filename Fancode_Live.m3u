@@ -1,8 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Cyro Maviricks vs ACE KRM Panthers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112422_4616_KRM_RGD_fc-web_1731569489810.jpg" tvg-id="112422" group-title="KCC T20 Challengers A League, 2024-25",Cyro Maviricks vs ACE KRM Panthers
+https://dai.google.com/linear/hls/event/768g-2feTyS4uo7gy3sTMw/master.m3u8
 #EXTINF:-1 tvg-name="Scarlet Ibis Scorchers vs Samp Army Cocrico Cavaliers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113574_4653_CCL_SLS_fc-web.jpg" tvg-id="113574" group-title="Dream11 Trinidad T10 Blast, 6th Edition, 2024",Scarlet Ibis Scorchers vs Samp Army Cocrico Cavaliers
 https://dai.google.com/linear/hls/event/YBgK5LsNRq6cjnZKddu_KQ/master.m3u8
-#EXTINF:-1 tvg-name="Royal Barcelona vs Girona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113183_4641_RB_GIR_fc-web_1733232712795.jpg" tvg-id="113183" group-title="ECS Spain, Encore, 2024",Royal Barcelona vs Girona
-https://dai.google.com/linear/hls/event/VXlqgXd-QUiJlLgkr6bRkg/master.m3u8
+#EXTINF:-1 tvg-name="VfL Wolfsburg vs TSG Hoffenheim" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/VFL-Wolfsburg-vs-TSG-Hoffenheim-old.jpg" tvg-id="114214" group-title="DFB Pokal",VfL Wolfsburg vs TSG Hoffenheim
+https://dai.google.com/linear/hls/event/m0xkiDCaSgC7H2prsT_51g/master.m3u8
 #EXTINF:-1 tvg-name="Kuwait SC vs Al Hussein" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108770_4476_KSC_HUS_fc-web.jpg" tvg-id="108770" group-title="AFC Champions League Two 2024-25",Kuwait SC vs Al Hussein
 https://dai.google.com/linear/hls/event/8sudeb37S4ir39eEOGO7fQ/master.m3u8
 #EXTINF:-1 tvg-name="Shabab Al Ahli vs Nasaf" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108769_4476_SAA_NQ_fc-web.jpg" tvg-id="108769" group-title="AFC Champions League Two 2024-25",Shabab Al Ahli vs Nasaf
