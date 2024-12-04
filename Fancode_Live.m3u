@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Soca Kings vs Trillions System Ltd Strikers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113573_4653_TLS_SCK_fc-web.jpg" tvg-id="113573" group-title="Dream11 Trinidad T10 Blast, 6th Edition, 2024",Soca Kings vs Trillions System Ltd Strikers
 https://dai.google.com/linear/hls/event/PoUv3z3jTZuMcIEc2na9tQ/master.m3u8
-#EXTINF:-1 tvg-name="Girona vs Royal Barcelona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113182_4641_RB_GIR_fc-web_1733232712809.jpg" tvg-id="113182" group-title="ECS Spain, Encore, 2024",Girona vs Royal Barcelona
-https://dai.google.com/linear/hls/event/X4CeF1i4S2S0281KzKMoOA/master.m3u8
-#EXTINF:-1 tvg-name="Rwanda vs Nigeria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114450_4675_RWA_NIG_fc-web_1733285454212.jpg" tvg-id="114449" group-title="Africa T20I Continent Cup, 2024",Rwanda vs Nigeria
-https://dai.google.com/linear/hls/event/Y-Pvv5-zRHe6td_0RD6ZvA/master.m3u8
 #EXTINF:-1 tvg-name="Al Quwa Al Jawiya vs Al Taawoun" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108746_4476_AFC_ALTW_fc-web.jpg" tvg-id="108746" group-title="AFC Champions League Two 2024-25",Al Quwa Al Jawiya vs Al Taawoun
 https://dai.google.com/linear/hls/event/dZcJ7z0IRBikxTrnnW3VIA/master.m3u8
 #EXTINF:-1 tvg-name="Khaldiya vs Altyn Asyr" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108745_4476_KHA_AA_fc-web.jpg" tvg-id="108745" group-title="AFC Champions League Two 2024-25",Khaldiya vs Altyn Asyr
