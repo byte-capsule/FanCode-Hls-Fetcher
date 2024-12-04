@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "04-12-2024 on 9:43:23 PM \ud83c\udf19",
+  "total_mathes": 3,
+  "last_upaded": "04-12-2024 on 9:56:23 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -39,18 +39,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALTW@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/108746_4476_AFC_ALTW_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/dZcJ7z0IRBikxTrnnW3VIA/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "AFC Champions League Two 2024-25",
-      "match_id": 108745,
-      "match_name": "Khaldiya vs Altyn Asyr",
-      "team_1": "Khaldiya",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KH@2x.png",
-      "team_2": "Altyn Asyr",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALTN@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/108745_4476_KHA_AA_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/mlMHvYWtSPuSlewEw9tqAw/master.m3u8"
     }
   ]
 }
