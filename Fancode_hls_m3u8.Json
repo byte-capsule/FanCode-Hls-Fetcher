@@ -1,9 +1,33 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "04-12-2024 on 7:32:47 PM \ud83c\udf19",
+  "total_mathes": 5,
+  "last_upaded": "04-12-2024 on 7:54:29 PM \ud83c\udf19",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "Dream11 Trinidad T10 Blast, 6th Edition, 2024",
+      "match_id": 113573,
+      "match_name": "Soca Kings vs Trillions System Ltd Strikers",
+      "team_1": "Soca Kings",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOCA@2x.png",
+      "team_2": "Trillions System Ltd Strikers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TLS@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113573_4653_TLS_SCK_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/PoUv3z3jTZuMcIEc2na9tQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ECS Spain, Encore, 2024",
+      "match_id": 113182,
+      "match_name": "Girona vs Royal Barcelona",
+      "team_1": "Girona",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR18@2x.png",
+      "team_2": "Royal Barcelona",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RB@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113182_4641_RB_GIR_fc-web_1733232712809.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/X4CeF1i4S2S0281KzKMoOA/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "Africa T20I Continent Cup, 2024",
@@ -39,18 +63,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ND@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/108806_4476_BU_ND_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/1fj4i6YUQQW9piq8nd9aQw/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "AFC Champions League Two 2024-25",
-      "match_id": 108805,
-      "match_name": "Lee Man vs Tampines Rovers FC",
-      "team_1": "Lee Man",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LM@2x.png",
-      "team_2": "Tampines Rovers FC",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-TAMR@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/108805_4476_LM_TAM_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/2CwIH7rRS_u_-oBJxfz0DA/master.m3u8"
     }
   ]
 }
