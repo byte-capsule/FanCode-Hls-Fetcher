@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Lumbini Lions vs Biratnagar Kings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113730_4657_BK_LBL_fc-Web.jpg" tvg-id="113730" group-title="Nepal Premier League, 2024",Lumbini Lions vs Biratnagar Kings
 https://dai.google.com/linear/hls/event/OxBmuh-1RCOpfvviYx33ew/master.m3u8
+#EXTINF:-1 tvg-name="Hawks XI Catalunya vs Magic CC Badalona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113179_4641_MGC_HAW_fc-web_1733232483208.jpg" tvg-id="113180" group-title="ECS Spain, Encore, 2024",Hawks XI Catalunya vs Magic CC Badalona
+https://dai.google.com/linear/hls/event/_24BMFAtSGaBXCr8j8g3cw/master.m3u8
 #EXTINF:-1 tvg-name="Uganda vs Botswana" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114449_4675_UGA_BOT_fc-web_1733285486304.jpg" tvg-id="114450" group-title="Africa T20I Continent Cup, 2024",Uganda vs Botswana
 https://dai.google.com/linear/hls/event/IgTUIXqwR6aVkrwc5OS1fA/master.m3u8
-#EXTINF:-1 tvg-name="Hawks XI Catalunya vs Magic CC Badalona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113179_4641_MGC_HAW_fc-web_1733232483208.jpg" tvg-id="113179" group-title="ECS Spain, Encore, 2024",Hawks XI Catalunya vs Magic CC Badalona
-https://dai.google.com/linear/hls/event/bMAkJtSbRVK5r_LbGJSOAQ/master.m3u8
 #EXTINF:-1 tvg-name="FC Green Valley vs United Chirang Duar FC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg" tvg-id="113827" group-title="2nd Protech Guwahati Premier League 2024",FC Green Valley vs United Chirang Duar FC
 https://liveauth.fancode.com/primary/113827_english_hls_6496adfreeta-no/index.m3u8
