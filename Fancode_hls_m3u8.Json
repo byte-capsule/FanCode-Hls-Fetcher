@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 4,
-  "last_upaded": "04-12-2024 on 4:28:50 PM \ud83c\udf1e",
+  "last_upaded": "04-12-2024 on 4:47:28 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -29,18 +29,6 @@
       "stream_link": "https://dai.google.com/linear/hls/event/_24BMFAtSGaBXCr8j8g3cw/master.m3u8"
     },
     {
-      "event_catagory": "cricket",
-      "event_name": "Africa T20I Continent Cup, 2024",
-      "match_id": 114450,
-      "match_name": "Uganda vs Botswana",
-      "team_1": "Uganda",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UGN@2x.png",
-      "team_2": "Botswana",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BOTS@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114449_4675_UGA_BOT_fc-web_1733285486304.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/IgTUIXqwR6aVkrwc5OS1fA/master.m3u8"
-    },
-    {
       "event_catagory": "football",
       "event_name": "AFC Champions League Elite 2024-25",
       "match_id": 108697,
@@ -51,6 +39,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHANDON@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/prod-images/2024/09/108697_4475_KAW_SHD_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/a_w17g8ySNSBD-w952bfFw/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "2nd Protech Guwahati Premier League 2024",
+      "match_id": 113828,
+      "match_name": "ASEB Sports Club vs Sports Authority of India",
+      "team_1": "ASEB Sports Club",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ASEB@2x.png",
+      "team_2": "Sports Authority of India",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEF-FT5@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2_1732617283192.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/97-ZA5vFRRmOytMAxk6e9g/master.m3u8"
     }
   ]
 }
