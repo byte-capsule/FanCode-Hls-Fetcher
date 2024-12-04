@@ -1,20 +1,20 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "04-12-2024 on 9:56:23 PM \ud83c\udf19",
+  "total_mathes": 5,
+  "last_upaded": "04-12-2024 on 10:33:06 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
       "event_name": "Dream11 Trinidad T10 Blast, 6th Edition, 2024",
-      "match_id": 113573,
-      "match_name": "Soca Kings vs Trillions System Ltd Strikers",
-      "team_1": "Soca Kings",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOCA@2x.png",
-      "team_2": "Trillions System Ltd Strikers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TLS@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113573_4653_TLS_SCK_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/PoUv3z3jTZuMcIEc2na9tQ/master.m3u8"
+      "match_id": 113574,
+      "match_name": "Scarlet Ibis Scorchers vs Samp Army Cocrico Cavaliers",
+      "team_1": "Scarlet Ibis Scorchers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCARIB@2x.png",
+      "team_2": "Samp Army Cocrico Cavaliers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAMPC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113574_4653_CCL_SLS_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/YBgK5LsNRq6cjnZKddu_KQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -31,14 +31,38 @@
     {
       "event_catagory": "football",
       "event_name": "AFC Champions League Two 2024-25",
-      "match_id": 108746,
-      "match_name": "Al Quwa Al Jawiya vs Al Taawoun",
-      "team_1": "Al Quwa Al Jawiya",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AIRF@2x.png",
-      "team_2": "Al Taawoun",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALTW@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/108746_4476_AFC_ALTW_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/dZcJ7z0IRBikxTrnnW3VIA/master.m3u8"
+      "match_id": 108770,
+      "match_name": "Kuwait SC vs Al Hussein",
+      "team_1": "Kuwait SC",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KUSC@2x.png",
+      "team_2": "Al Hussein",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-HUS@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/108770_4476_KSC_HUS_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/8sudeb37S4ir39eEOGO7fQ/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "AFC Champions League Two 2024-25",
+      "match_id": 108769,
+      "match_name": "Shabab Al Ahli vs Nasaf",
+      "team_1": "Shabab Al Ahli",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SAA@2x.png",
+      "team_2": "Nasaf",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NASAF@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/108769_4476_SAA_NQ_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/IkrgKa4UTqSSnh92prrCWA/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "AFC Champions League Two 2024-25",
+      "match_id": 108734,
+      "match_name": "Al Wakrah vs Ravshan Kulob",
+      "team_1": "Al Wakrah",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WAK@2x.png",
+      "team_2": "Ravshan Kulob",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RAVS@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/108734_4476_WAK_RK_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/i4uBigGWQIOD1cirr19NeQ/master.m3u8"
     }
   ]
 }
