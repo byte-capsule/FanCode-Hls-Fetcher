@@ -1,20 +1,32 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 1,
-  "last_upaded": "04-12-2024 on 0:55:00 PM \ud83c\udf1e",
+  "total_mathes": 2,
+  "last_upaded": "04-12-2024 on 1:24:47 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
       "event_name": "Nepal Premier League, 2024",
-      "match_id": 113729,
-      "match_name": "Karnali Yaks vs Kathmandu Gurkhas",
-      "team_1": "Karnali Yaks",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KNYN@2x.png",
-      "team_2": "Kathmandu Gurkhas",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KMG@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113729_4657_KNY_KMG_fc-Web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/dbOZctZ5SMK0xsCZs-s9ow/master.m3u8"
+      "match_id": 113730,
+      "match_name": "Lumbini Lions vs Biratnagar Kings",
+      "team_1": "Lumbini Lions",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LBL@2x.png",
+      "team_2": "Biratnagar Kings",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BKN@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113730_4657_BK_LBL_fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/OxBmuh-1RCOpfvviYx33ew/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Africa T20I Continent Cup, 2024",
+      "match_id": 114450,
+      "match_name": "Uganda vs Botswana",
+      "team_1": "Uganda",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UGN@2x.png",
+      "team_2": "Botswana",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BOTS@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114449_4675_UGA_BOT_fc-web_1733285486304.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/IgTUIXqwR6aVkrwc5OS1fA/master.m3u8"
     }
   ]
 }
