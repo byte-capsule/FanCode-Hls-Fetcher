@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "04-12-2024 on 1:54:11 PM \ud83c\udf1e",
+  "total_mathes": 4,
+  "last_upaded": "04-12-2024 on 2:31:59 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -39,6 +39,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MGC@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/113179_4641_MGC_HAW_fc-web_1733232483208.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/bMAkJtSbRVK5r_LbGJSOAQ/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "2nd Protech Guwahati Premier League 2024",
+      "match_id": 113827,
+      "match_name": "FC Green Valley vs United Chirang Duar FC",
+      "team_1": "FC Green Valley",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEF-FT1@2x.png",
+      "team_2": "United Chirang Duar FC",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-UCD@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg",
+      "stream_link": "https://liveauth.fancode.com/primary/113827_english_hls_6496adfreeta-no/index.m3u8"
     }
   ]
 }
