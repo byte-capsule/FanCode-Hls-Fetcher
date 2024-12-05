@@ -1,15 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Pak I Care Badalona vs Royal Barcelona" tvg-logo="https://www.fancode.com/aig/match/v1/113186_CASACARDS_APP.png" tvg-id="113186" group-title="ECS Spain, Encore, 2024",Pak I Care Badalona vs Royal Barcelona
+https://dai.google.com/linear/hls/event/03mlF8tWT4iMvalipaz17g/master.m3u8
 #EXTINF:-1 tvg-name="Uganda vs Rwanda" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114451_4675_RWA_UGA_fc-web.jpg" tvg-id="114451" group-title="Africa T20I Continent Cup, 2024",Uganda vs Rwanda
 https://dai.google.com/linear/hls/event/v3DGP1qASyWQP559LbzHFQ/master.m3u8
-#EXTINF:-1 tvg-name="Ireland Women vs Bangladesh Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Women-Tour-of-Bangladesh,-T20Is-2024-old-match-card--(1).png" tvg-id="113503" group-title="Ireland Women tour of Bangladesh, 2024",Ireland Women vs Bangladesh Women
-https://dai.google.com/linear/hls/event/n2gRVRlqRFaAyZtQa84G3A/master.m3u8
 #EXTINF:-1 tvg-name="Pakistan vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-PAK_Old_match-card.jpg" tvg-id="112360" group-title="Pakistan tour of Zimbabwe, 2024",Pakistan vs Zimbabwe
 https://dai.google.com/linear/hls/event/UH1Mtv8jRyOQUSruBTfGEw/master.m3u8
-#EXTINF:-1 tvg-name="Barekuri FC vs Red Bees Inc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2_1732617283192.jpg" tvg-id="113830" group-title="2nd Protech Guwahati Premier League 2024",Barekuri FC vs Red Bees Inc
-https://dai.google.com/linear/hls/event/iVNb2OoBSFq-WScr4owDMg/master.m3u8
-#EXTINF:-1 tvg-name="Muangthong United vs Jeonbuk Motors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108818_4476_MUA_JNB_fc-web.jpg" tvg-id="108818" group-title="AFC Champions League Two 2024-25",Muangthong United vs Jeonbuk Motors
-https://dai.google.com/linear/hls/event/Xrn1Q3WfQda85iyGi-Yv9g/master.m3u8
-#EXTINF:-1 tvg-name="Dynamic Herb Cebu vs Selangor" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108817_4476_DHC_SEL_fc-web.jpg" tvg-id="108817" group-title="AFC Champions League Two 2024-25",Dynamic Herb Cebu vs Selangor
-https://dai.google.com/linear/hls/event/cV1FXVzGQlmENqgdebAS-w/master.m3u8
+#EXTINF:-1 tvg-name="Lion City Sailors vs Port" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108794_4476_LIO_POR_fc-web.jpg" tvg-id="108794" group-title="AFC Champions League Two 2024-25",Lion City Sailors vs Port
+https://dai.google.com/linear/hls/event/jL8hW0LMTz6PIFbwsOVKdg/master.m3u8
+#EXTINF:-1 tvg-name="Persib Bandung vs Zhejiang" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108793_4476_PER_ZHP_fc-web.jpg" tvg-id="108793" group-title="AFC Champions League Two 2024-25",Persib Bandung vs Zhejiang
+https://dai.google.com/linear/hls/event/X9FmzsLOSQqCfNA6x7tRzA/master.m3u8
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/nedbank-golf-challenge_match-card.jpg" tvg-id="114572" group-title="NedBank Golf Challenge",Day 1
 https://dai.google.com/linear/hls/event/d1IhmfpaQVGXGIxXaBkrEA/master.m3u8
