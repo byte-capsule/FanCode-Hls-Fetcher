@@ -1,7 +1,32 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 0,
-  "last_upaded": "05-12-2024 on 0:55:00 PM \ud83c\udf1e",
-  "matches": []
+  "total_mathes": 2,
+  "last_upaded": "05-12-2024 on 1:24:59 PM \ud83c\udf1e",
+  "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "Nepal Premier League, 2024",
+      "match_id": 113732,
+      "match_name": "Sudurpaschim Royals vs Kathmandu Gurkhas",
+      "team_1": "Sudurpaschim Royals",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SPR@2x.png",
+      "team_2": "Kathmandu Gurkhas",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KMG@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113732_4657_KMG_SPR_fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/LZkUv_1MToaBWq9ASrZsKw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Africa T20I Continent Cup, 2024",
+      "match_id": 114452,
+      "match_name": "Nigeria vs Botswana",
+      "team_1": "Nigeria",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NIGE@2x.png",
+      "team_2": "Botswana",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BOTS@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114452_4675_NIG_BOT_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/nILQztRXT7K9cdYbbo5O6g/master.m3u8"
+    }
+  ]
 }
