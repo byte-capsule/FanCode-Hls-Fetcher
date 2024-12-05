@@ -1,5 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Samp Army Cocrico Cavaliers vs Scarlet Ibis Scorchers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113576_4653_SLS_CCL_fc-web.jpg" tvg-id="113576" group-title="Dream11 Trinidad T10 Blast, 6th Edition, 2024",Samp Army Cocrico Cavaliers vs Scarlet Ibis Scorchers
 https://dai.google.com/linear/hls/event/3m55trLsRHuDi57ltp0E3A/master.m3u8
+#EXTINF:-1 tvg-name="Blue Devils vs Soca Kings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113577_4653_BLD_SCK_fc-web.jpg" tvg-id="113577" group-title="Dream11 Trinidad T10 Blast, 6th Edition, 2024",Blue Devils vs Soca Kings
+https://dai.google.com/linear/hls/event/DlRybgyNSBOp79Edb5jxIw/master.m3u8
 #EXTINF:-1 tvg-name="Victoria vs Hampshire" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113498_4648_HAM_VCT_fc-web.jpg" tvg-id="113498" group-title="Global Super League, 2024",Victoria vs Hampshire
 https://dai.google.com/linear/hls/event/b-6BVaG5Qau_NR3pyw91DA/master.m3u8
+#EXTINF:-1 tvg-name="Kuwait Swedish vs CECC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_01_1730875783702.jpg" tvg-id="112583" group-title="KCC T20 Elite Championship 2nd Edition, 2024",Kuwait Swedish vs CECC
+https://dai.google.com/linear/hls/event/RTr5cFpmSpSj0gS_psUmSA/master.m3u8
