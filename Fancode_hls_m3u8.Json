@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "05-12-2024 on 8:57:24 PM \ud83c\udf19",
+  "total_mathes": 2,
+  "last_upaded": "05-12-2024 on 9:28:02 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,42 +27,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HAMP@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/113498_4648_HAM_VCT_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/b-6BVaG5Qau_NR3pyw91DA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECS Spain, Encore, 2024",
-      "match_id": 113187,
-      "match_name": "Barcelona Qalandar vs United CC Olot",
-      "team_1": "Barcelona Qalandar",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR16@2x.png",
-      "team_2": "United CC Olot",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/UCC-CR3@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/113187_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/mWxtKc6AR8ymkgpKJCqQDg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Africa T20I Continent Cup, 2024",
-      "match_id": 114451,
-      "match_name": "Uganda vs Rwanda",
-      "team_1": "Uganda",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UGN@2x.png",
-      "team_2": "Rwanda",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RWA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114451_4675_RWA_UGA_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/v3DGP1qASyWQP559LbzHFQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Pakistan tour of Zimbabwe, 2024",
-      "match_id": 112360,
-      "match_name": "Pakistan vs Zimbabwe",
-      "team_1": "Pakistan",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png",
-      "team_2": "Zimbabwe",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-PAK_Old_match-card.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/UH1Mtv8jRyOQUSruBTfGEw/master.m3u8"
     }
   ]
 }
