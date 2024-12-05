@@ -3,7 +3,7 @@
 https://dai.google.com/linear/hls/event/LZkUv_1MToaBWq9ASrZsKw/master.m3u8
 #EXTINF:-1 tvg-name="Nigeria vs Botswana" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114452_4675_NIG_BOT_fc-web.jpg" tvg-id="114452" group-title="Africa T20I Continent Cup, 2024",Nigeria vs Botswana
 https://dai.google.com/linear/hls/event/nILQztRXT7K9cdYbbo5O6g/master.m3u8
-#EXTINF:-1 tvg-name="Badalona Shaheen vs Hawks XI Catalunya" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg" tvg-id="113184" group-title="ECS Spain, Encore, 2024",Badalona Shaheen vs Hawks XI Catalunya
+#EXTINF:-1 tvg-name="Badalona Shaheen vs Hawks XI Catalunya" tvg-logo="https://www.fancode.com/aig/match/v1/113184_CASACARDS_APP.png" tvg-id="113184" group-title="ECS Spain, Encore, 2024",Badalona Shaheen vs Hawks XI Catalunya
 https://dai.google.com/linear/hls/event/g_TwnZlARfG6kLVBULkWXQ/master.m3u8
 #EXTINF:-1 tvg-name="Ireland Women vs Bangladesh Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Women-Tour-of-Bangladesh,-T20Is-2024-old-match-card--(1).png" tvg-id="113503" group-title="Ireland Women tour of Bangladesh, 2024",Ireland Women vs Bangladesh Women
 https://dai.google.com/linear/hls/event/n2gRVRlqRFaAyZtQa84G3A/master.m3u8
@@ -13,3 +13,5 @@ https://dai.google.com/linear/hls/event/sYH2u-pqTgiaUUoY4giVbg/master.m3u8
 https://dai.google.com/linear/hls/event/cq7uPZKZRG2DwshgMfOY0A/master.m3u8
 #EXTINF:-1 tvg-name="Sanfrecce Hiroshima vs Eastern SC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108781_4476_HIR_ESC_fc-web.jpg" tvg-id="108781" group-title="AFC Champions League Two 2024-25",Sanfrecce Hiroshima vs Eastern SC
 https://dai.google.com/linear/hls/event/EJ5DPrruRXWBeKaW-79W4g/master.m3u8
+#EXTINF:-1 tvg-name="Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/nedbank-golf-challenge_match-card.jpg" tvg-id="114572" group-title="NedBank Golf Challenge",Day 1
+https://dai.google.com/linear/hls/event/d1IhmfpaQVGXGIxXaBkrEA/master.m3u8
