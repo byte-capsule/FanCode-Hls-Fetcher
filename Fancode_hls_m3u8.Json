@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "05-12-2024 on 4:45:55 PM \ud83c\udf1e",
+  "total_mathes": 7,
+  "last_upaded": "05-12-2024 on 5:19:45 PM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Africa T20I Continent Cup, 2024",
-      "match_id": 114452,
-      "match_name": "Nigeria vs Botswana",
-      "team_1": "Nigeria",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NIGE@2x.png",
-      "team_2": "Botswana",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BOTS@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114452_4675_NIG_BOT_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/nILQztRXT7K9cdYbbo5O6g/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "ECS Spain, Encore, 2024",
@@ -30,6 +18,18 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "Africa T20I Continent Cup, 2024",
+      "match_id": 114451,
+      "match_name": "Uganda vs Rwanda",
+      "team_1": "Uganda",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UGN@2x.png",
+      "team_2": "Rwanda",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RWA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114451_4675_RWA_UGA_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/v3DGP1qASyWQP559LbzHFQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "Ireland Women tour of Bangladesh, 2024",
       "match_id": 113503,
       "match_name": "Ireland Women vs Bangladesh Women",
@@ -39,6 +39,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-Women-Tour-of-Bangladesh,-T20Is-2024-old-match-card--(1).png",
       "stream_link": "https://dai.google.com/linear/hls/event/n2gRVRlqRFaAyZtQa84G3A/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "2nd Protech Guwahati Premier League 2024",
+      "match_id": 113830,
+      "match_name": "Barekuri FC vs Red Bees Inc",
+      "team_1": "Barekuri FC",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BARE@2x.png",
+      "team_2": "Red Bees Inc",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEF-FT3@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2_1732617283192.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/iVNb2OoBSFq-WScr4owDMg/master.m3u8"
     },
     {
       "event_catagory": "football",
