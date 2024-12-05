@@ -1,20 +1,44 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "05-12-2024 on 7:32:34 PM \ud83c\udf19",
+  "total_mathes": 8,
+  "last_upaded": "05-12-2024 on 7:53:03 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
+      "event_name": "Dream11 Trinidad T10 Blast, 6th Edition, 2024",
+      "match_id": 113576,
+      "match_name": "Scarlet Ibis Scorchers vs Samp Army Cocrico Cavaliers",
+      "team_1": "Scarlet Ibis Scorchers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCARIB@2x.png",
+      "team_2": "Samp Army Cocrico Cavaliers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAMPC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113576_4653_SLS_CCL_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/3m55trLsRHuDi57ltp0E3A/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Global Super League, 2024",
+      "match_id": 113498,
+      "match_name": "Victoria vs Hampshire",
+      "team_1": "Victoria",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VCT@2x.png",
+      "team_2": "Hampshire",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HAMP@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113498_4648_HAM_VCT_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/b-6BVaG5Qau_NR3pyw91DA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "ECS Spain, Encore, 2024",
-      "match_id": 113186,
-      "match_name": "Pak I Care Badalona vs Royal Barcelona",
-      "team_1": "Pak I Care Badalona",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PIC@2x.png",
-      "team_2": "Royal Barcelona",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RB@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/113186_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/03mlF8tWT4iMvalipaz17g/master.m3u8"
+      "match_id": 113187,
+      "match_name": "Barcelona Qalandar vs United CC Olot",
+      "team_1": "Barcelona Qalandar",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR16@2x.png",
+      "team_2": "United CC Olot",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/UCC-CR3@2x.png",
+      "banner": "https://www.fancode.com/aig/match/v1/113187_CASACARDS_APP.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/mWxtKc6AR8ymkgpKJCqQDg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
