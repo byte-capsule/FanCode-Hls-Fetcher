@@ -1,44 +1,7 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "05-12-2024 on 11:54:55 PM \ud83c\udf19",
-  "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Dream11 Trinidad T10 Blast, 6th Edition, 2024",
-      "match_id": 113577,
-      "match_name": "Soca Kings vs Blue Devils",
-      "team_1": "Soca Kings",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOCA@2x.png",
-      "team_2": "Blue Devils",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLUD@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113577_4653_BLD_SCK_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/DlRybgyNSBOp79Edb5jxIw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "KCC T20 Elite Championship 2nd Edition, 2024",
-      "match_id": 112583,
-      "match_name": "Kuwait Swedish vs CECC",
-      "team_1": "Kuwait Swedish",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUSW@2x.png",
-      "team_2": "CECC",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CECT@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_01_1730875783702.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/RTr5cFpmSpSj0gS_psUmSA/master.m3u8"
-    },
-    {
-      "event_catagory": "basketball",
-      "event_name": "EuroLeague 2024-25",
-      "match_id": 113595,
-      "match_name": "Zalgiris Kaunas vs Anadolu Efes Istanbul",
-      "team_1": "Zalgiris Kaunas",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-ZALR@2x.png",
-      "team_2": "Anadolu Efes Istanbul",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-ANAD@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/113595_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/f7a2T2nTR2aQs8HwUhgj0A/master.m3u8"
-    }
-  ]
+  "total_mathes": 0,
+  "last_upaded": "06-12-2024 on 00:31:22 AM \ud83c\udf19",
+  "matches": []
 }
