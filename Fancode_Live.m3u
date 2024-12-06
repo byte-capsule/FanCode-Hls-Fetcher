@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Woodland Steelpan Players vs Samp Army Cocrico Cavaliers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113579_4653_SPK_CCL_fc-web.jpg" tvg-id="113579" group-title="Dream11 Trinidad T10 Blast, 6th Edition, 2024",Woodland Steelpan Players vs Samp Army Cocrico Cavaliers
+https://dai.google.com/linear/hls/event/vsHgzxM-RrquWfqT3XLavg/master.m3u8
 #EXTINF:-1 tvg-name="Girona vs Barcelona Qalandar" tvg-logo="https://www.fancode.com/aig/match/v1/113190_CASACARDS_APP.png" tvg-id="113190" group-title="ECS Spain, Encore, 2024",Girona vs Barcelona Qalandar
 https://dai.google.com/linear/hls/event/7z3WvcFkReia2uoS3O_7FQ/master.m3u8
 #EXTINF:-1 tvg-name="Nigeria vs Uganda" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114454_4675_NIG_UGA_fc-web.jpg" tvg-id="114454" group-title="Africa T20I Continent Cup, 2024",Nigeria vs Uganda
