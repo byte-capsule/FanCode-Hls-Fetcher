@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 8,
-  "last_upaded": "06-12-2024 on 7:53:27 PM \ud83c\udf19",
+  "total_mathes": 9,
+  "last_upaded": "06-12-2024 on 8:22:14 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -18,15 +18,15 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "ECS Spain, Encore, 2024",
-      "match_id": 113190,
-      "match_name": "Girona vs Barcelona Qalandar",
-      "team_1": "Girona",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR18@2x.png",
-      "team_2": "Barcelona Qalandar",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR16@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/113190_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/7z3WvcFkReia2uoS3O_7FQ/master.m3u8"
+      "event_name": "KCC T20 Elite Championship 2nd Edition, 2024",
+      "match_id": 112585,
+      "match_name": "Kuwait Swedish vs Al Hajery Team XI",
+      "team_1": "Kuwait Swedish",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUSW@2x.png",
+      "team_2": "Al Hajery Team XI",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ALJH@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_03_1730875782908.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/NL9x_XHuRwy_sALMaENKJQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -77,16 +77,28 @@
       "stream_link": "https://dai.google.com/linear/hls/event/dYPtgjf6THWIpOxFeOPajw/master.m3u8"
     },
     {
-      "event_catagory": "formula1",
-      "event_name": "F1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2024",
-      "match_id": 95254,
-      "match_name": "Practice 2",
-      "team_1": "Practice 2",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
-      "team_2": "United Arab Emirates",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/F1-Abu-Dhabi-GP-OLD.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/P02WfK6XTQuBGiwj_xPRlA/master.m3u8"
+      "event_catagory": "cricket",
+      "event_name": "ICC Men's T20 WC Sub Regional Americas Qualifier",
+      "match_id": 114015,
+      "match_name": "Suriname vs Panama",
+      "team_1": "Suriname",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SRN-CR1@2x.png",
+      "team_2": "Panama",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PANA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/_4ODGkpmSLqPHcL5HZLv4g/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC Men's T20 WC Sub Regional Americas Qualifier",
+      "match_id": 114014,
+      "match_name": "Argentina vs Bermuda",
+      "team_1": "Argentina",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ARGT@2x.png",
+      "team_2": "Bermuda",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRM@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/O7ZaMyZuS_u16ixlCtM86A/master.m3u8"
     },
     {
       "event_catagory": "golf",
