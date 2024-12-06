@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 8,
-  "last_upaded": "06-12-2024 on 6:48:05 PM \ud83c\udf19",
+  "total_mathes": 7,
+  "last_upaded": "06-12-2024 on 7:31:54 PM \ud83c\udf19",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "KCC T20 Challengers A League, 2024-25",
-      "match_id": 112424,
-      "match_name": "Cochin Hurricanes vs Going Global",
-      "team_1": "Cochin Hurricanes",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-COR@2x.png",
-      "team_2": "Going Global",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GGL@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112424_4616_GGL_COH_fc-web_1731569491217.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/dIKzljS7SnSof2wC8LSLIQ/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "ECS Spain, Encore, 2024",
