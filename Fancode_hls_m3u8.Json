@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 9,
-  "last_upaded": "06-12-2024 on 1:53:17 PM \ud83c\udf1e",
+  "total_mathes": 7,
+  "last_upaded": "06-12-2024 on 2:30:37 PM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "KCC T20 Challengers A League, 2024-25",
-      "match_id": 112423,
-      "match_name": "ACE KRM Panthers vs CECC-B",
-      "team_1": "ACE KRM Panthers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AK@2x.png",
-      "team_2": "CECC-B",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CECT@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112423_4616_CEC-B_KRM_fc-web_1731569489969.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/kdXCSERRQ1eNg0BrKYMeBg/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Nepal Premier League, 2024",
@@ -99,18 +87,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PRDG@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/PZSqgngGQGWHZLcar5RGVg/master.m3u8"
-    },
-    {
-      "event_catagory": "racing",
-      "event_name": "F2 ABU DHABI 2024",
-      "match_id": 96149,
-      "match_name": "Free Practice",
-      "team_1": "Free Practice",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR2@2x.png",
-      "team_2": "United Arab Emirates",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_UAE_Sporty_Match_card_4_Old_match-card-(1).jpg",
-      "stream_link": "https://dc2whgm572ae0.cloudfront.net/out/v1/7af092fc5f934217861f95d8a774f26d/index.m3u8"
     }
   ]
 }
