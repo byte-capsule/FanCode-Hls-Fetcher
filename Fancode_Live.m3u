@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Rangpur Riders vs Lahore Qalandars" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113497_4648_LAH_RAN_fc-web.jpg" tvg-id="113497" group-title="Global Super League, 2024",Rangpur Riders vs Lahore Qalandars
-https://dai.google.com/linear/hls/event/d3XwNRVvSAmTpVNeHIm23Q/master.m3u8
 #EXTINF:-1 tvg-name="South Australia vs Tasmania" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110408_4543_TAS_SAU_fc-Web.jpg" tvg-id="110408" group-title="Sheffield Shield, 2024-25",South Australia vs Tasmania
 https://dai.google.com/linear/hls/event/3dHDb3YvRSGq_WCIXUJDIw/master.m3u8
 #EXTINF:-1 tvg-name="Queensland vs Victoria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110407_4543_VCT_QUN_fc-Web.jpg" tvg-id="110407" group-title="Sheffield Shield, 2024-25",Queensland vs Victoria
 https://dai.google.com/linear/hls/event/TTjmr_2hS9Cw7YqK1XHakA/master.m3u8
 #EXTINF:-1 tvg-name="Western Australia vs New South Wales" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110406_4543_NSW_WAU_fc-Web.jpg" tvg-id="110406" group-title="Sheffield Shield, 2024-25",Western Australia vs New South Wales
 https://dai.google.com/linear/hls/event/dYPtgjf6THWIpOxFeOPajw/master.m3u8
+#EXTINF:-1 tvg-name="Chitwan Rhinos vs Karnali Yaks" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113733_4657_KNY_CWR_fc-Web.jpg" tvg-id="113733" group-title="Nepal Premier League, 2024",Chitwan Rhinos vs Karnali Yaks
+https://dai.google.com/linear/hls/event/7eDoDydsT4S2TCcHZH4EDw/master.m3u8

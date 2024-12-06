@@ -2,20 +2,8 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 4,
-  "last_upaded": "06-12-2024 on 09:04:57 AM \ud83c\udf1e",
+  "last_upaded": "06-12-2024 on 09:45:18 AM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Global Super League, 2024",
-      "match_id": 113497,
-      "match_name": "Rangpur Riders vs Lahore Qalandars",
-      "team_1": "Rangpur Riders",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RANG@2x.png",
-      "team_2": "Lahore Qalandars",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LAQ@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113497_4648_LAH_RAN_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/d3XwNRVvSAmTpVNeHIm23Q/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Sheffield Shield, 2024-25",
@@ -51,6 +39,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSW@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110406_4543_NSW_WAU_fc-Web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/dYPtgjf6THWIpOxFeOPajw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Nepal Premier League, 2024",
+      "match_id": 113733,
+      "match_name": "Chitwan Rhinos vs Karnali Yaks",
+      "team_1": "Chitwan Rhinos",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CWR@2x.png",
+      "team_2": "Karnali Yaks",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KNYN@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113733_4657_KNY_CWR_fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/7eDoDydsT4S2TCcHZH4EDw/master.m3u8"
     }
   ]
 }
