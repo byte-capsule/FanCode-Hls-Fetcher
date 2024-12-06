@@ -15,5 +15,7 @@ https://dai.google.com/linear/hls/event/4D4IF8KfRFavC4HMCdJOvA/master.m3u8
 https://dai.google.com/linear/hls/event/PZSqgngGQGWHZLcar5RGVg/master.m3u8
 #EXTINF:-1 tvg-name="Brisbane Roar vs Melbourne City" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110928_4567_BRB_MLC_fc-web_1728983126872.jpg" tvg-id="110928" group-title="A League 2024-25",Brisbane Roar vs Melbourne City
 https://dai.google.com/linear/hls/event/7YTjc2DrSyC78kxo12SdvQ/master.m3u8
+#EXTINF:-1 tvg-name="Practice 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-Abu-Dhabi-GP-OLD.jpg" tvg-id="95253" group-title="F1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2024",Practice 1
+https://dai.google.com/linear/hls/event/58LkZN1STK-_8pKNm80dZA/master.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/nedbank-golf-challenge_match-card.jpg" tvg-id="114573" group-title="NedBank Golf Challenge",Day 2
 https://dai.google.com/linear/hls/event/i6b09k4oT5O3ipbE_uKQuQ/master.m3u8
