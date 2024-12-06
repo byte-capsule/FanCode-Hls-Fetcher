@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Cochin Hurricanes vs Going Global" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112424_4616_GGL_COH_fc-web_1731569491217.jpg" tvg-id="112424" group-title="KCC T20 Challengers A League, 2024-25",Cochin Hurricanes vs Going Global
 https://dai.google.com/linear/hls/event/dIKzljS7SnSof2wC8LSLIQ/master.m3u8
-#EXTINF:-1 tvg-name="Pak I Care Badalona vs Girona" tvg-logo="https://www.fancode.com/aig/match/v1/113189_CASACARDS_APP.png" tvg-id="113189" group-title="ECS Spain, Encore, 2024",Pak I Care Badalona vs Girona
-https://dai.google.com/linear/hls/event/vybhGH8oT-mdj2nEg_pXsg/master.m3u8
 #EXTINF:-1 tvg-name="Nigeria vs Uganda" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114454_4675_NIG_UGA_fc-web.jpg" tvg-id="114454" group-title="Africa T20I Continent Cup, 2024",Nigeria vs Uganda
 https://dai.google.com/linear/hls/event/zr4n72c-SHSUW7DnWQwhwA/master.m3u8
 #EXTINF:-1 tvg-name="South Australia vs Tasmania" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110408_4543_TAS_SAU_fc-Web.jpg" tvg-id="110408" group-title="Sheffield Shield, 2024-25",South Australia vs Tasmania
@@ -13,7 +11,5 @@ https://dai.google.com/linear/hls/event/TTjmr_2hS9Cw7YqK1XHakA/master.m3u8
 https://dai.google.com/linear/hls/event/dYPtgjf6THWIpOxFeOPajw/master.m3u8
 #EXTINF:-1 tvg-name="United Chirang Duar FC vs Sports Authority of India" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2_1732617283192.jpg" tvg-id="113832" group-title="2nd Protech Guwahati Premier League 2024",United Chirang Duar FC vs Sports Authority of India
 https://dai.google.com/linear/hls/event/fzgPdt-OR3KMS6MMkrRpUQ/master.m3u8
-#EXTINF:-1 tvg-name="Qualifying Session" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Formula2_UAE_Sporty_Match_card_4_Old_match-card-(1).jpg" tvg-id="96150" group-title="F2 ABU DHABI 2024",Qualifying Session
-https://d3kob4wg7sbbz4.cloudfront.net/out/v1/4d5a71c057154b4b994bd17993348d64/index.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/nedbank-golf-challenge_match-card.jpg" tvg-id="114573" group-title="NedBank Golf Challenge",Day 2
 https://dai.google.com/linear/hls/event/i6b09k4oT5O3ipbE_uKQuQ/master.m3u8
