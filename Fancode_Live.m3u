@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="ACE KRM Panthers vs CECC-B" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112423_4616_CEC-B_KRM_fc-web_1731569489969.jpg" tvg-id="112423" group-title="KCC T20 Challengers A League, 2024-25",ACE KRM Panthers vs CECC-B
+https://dai.google.com/linear/hls/event/kdXCSERRQ1eNg0BrKYMeBg/master.m3u8
 #EXTINF:-1 tvg-name="Chitwan Rhinos vs Karnali Yaks" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113733_4657_KNY_CWR_fc-Web.jpg" tvg-id="113733" group-title="Nepal Premier League, 2024",Chitwan Rhinos vs Karnali Yaks
 https://dai.google.com/linear/hls/event/7eDoDydsT4S2TCcHZH4EDw/master.m3u8
 #EXTINF:-1 tvg-name="South Australia vs Tasmania" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110408_4543_TAS_SAU_fc-Web.jpg" tvg-id="110408" group-title="Sheffield Shield, 2024-25",South Australia vs Tasmania
@@ -7,5 +9,3 @@ https://dai.google.com/linear/hls/event/3dHDb3YvRSGq_WCIXUJDIw/master.m3u8
 https://dai.google.com/linear/hls/event/TTjmr_2hS9Cw7YqK1XHakA/master.m3u8
 #EXTINF:-1 tvg-name="Western Australia vs New South Wales" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110406_4543_NSW_WAU_fc-Web.jpg" tvg-id="110406" group-title="Sheffield Shield, 2024-25",Western Australia vs New South Wales
 https://dai.google.com/linear/hls/event/dYPtgjf6THWIpOxFeOPajw/master.m3u8
-#EXTINF:-1 tvg-name="ACE KRM Panthers vs CECC-B" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112423_4616_CEC-B_KRM_fc-web_1731569489969.jpg" tvg-id="112423" group-title="KCC T20 Challengers A League, 2024-25",ACE KRM Panthers vs CECC-B
-https://dai.google.com/linear/hls/event/kdXCSERRQ1eNg0BrKYMeBg/master.m3u8
