@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 6,
-  "last_upaded": "06-12-2024 on 11:55:12 PM \ud83c\udf19",
+  "last_upaded": "07-12-2024 on 00:32:33 AM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -18,27 +18,27 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "KCC T20 Elite Championship 2nd Edition, 2024",
-      "match_id": 112585,
-      "match_name": "Kuwait Swedish vs Al Hajery Team XI",
-      "team_1": "Kuwait Swedish",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUSW@2x.png",
-      "team_2": "Al Hajery Team XI",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ALJH@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_03_1730875782908.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/NL9x_XHuRwy_sALMaENKJQ/master.m3u8"
+      "event_name": "ICC Men's T20 WC Sub Regional Americas Qualifier",
+      "match_id": 114017,
+      "match_name": "Mexico vs Belize",
+      "team_1": "Mexico",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MEX@2x.png",
+      "team_2": "Belize",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BEZ@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/zEL9l--bTCiDTfIoua7GGQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
       "event_name": "ICC Men's T20 WC Sub Regional Americas Qualifier",
-      "match_id": 114017,
-      "match_name": "Belize vs Mexico",
-      "team_1": "Belize",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BEZ@2x.png",
-      "team_2": "Mexico",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MEX@2x.png",
+      "match_id": 114016,
+      "match_name": "Bahamas vs Brazil",
+      "team_1": "Bahamas",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BH@2x.png",
+      "team_2": "Brazil",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/zEL9l--bTCiDTfIoua7GGQ/master.m3u8"
+      "stream_link": "https://dai.google.com/linear/hls/event/_dFgLVuBQR-RFycW8vPB8Q/master.m3u8"
     },
     {
       "event_catagory": "cricket",
