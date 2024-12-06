@@ -11,5 +11,9 @@ https://dai.google.com/linear/hls/event/TTjmr_2hS9Cw7YqK1XHakA/master.m3u8
 https://dai.google.com/linear/hls/event/dYPtgjf6THWIpOxFeOPajw/master.m3u8
 #EXTINF:-1 tvg-name="Botswana vs Rwanda" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114453_4675_BOT_RWA_fc-web.jpg" tvg-id="114453" group-title="Africa T20I Continent Cup, 2024",Botswana vs Rwanda
 https://dai.google.com/linear/hls/event/8ikrDg_CTXCLVpRRyG8AXQ/master.m3u8
+#EXTINF:-1 tvg-name="Barcelona Qalandar vs Badalona Shaheen" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg" tvg-id="113188" group-title="ECS Spain, Encore, 2024",Barcelona Qalandar vs Badalona Shaheen
+https://dai.google.com/linear/hls/event/4D4IF8KfRFavC4HMCdJOvA/master.m3u8
+#EXTINF:-1 tvg-name="Numaligarh Refinery Limited vs Pride East Mavericks" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg" tvg-id="113831" group-title="2nd Protech Guwahati Premier League 2024",Numaligarh Refinery Limited vs Pride East Mavericks
+https://dai.google.com/linear/hls/event/PZSqgngGQGWHZLcar5RGVg/master.m3u8
 #EXTINF:-1 tvg-name="Free Practice" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Formula2_UAE_Sporty_Match_card_4_Old_match-card-(1).jpg" tvg-id="96149" group-title="F2 ABU DHABI 2024",Free Practice
 https://dc2whgm572ae0.cloudfront.net/out/v1/7af092fc5f934217861f95d8a774f26d/index.m3u8
