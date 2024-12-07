@@ -1,20 +1,32 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 9,
-  "last_upaded": "07-12-2024 on 6:43:26 PM \ud83c\udf19",
+  "total_mathes": 10,
+  "last_upaded": "07-12-2024 on 7:33:50 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
-      "event_name": "ECI Spain, 2024",
-      "match_id": 114614,
-      "match_name": "Spain vs Italy",
-      "team_1": "Spain",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESP@2x.png",
-      "team_2": "Italy",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ITA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114614_4682_SPA_ITA_fc-Web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/oet1S92uScaqDycu4jOnig/master.m3u8"
+      "event_name": "ICC Men's T20 WC Sub Regional Americas Qualifier",
+      "match_id": 114019,
+      "match_name": "Argentina vs Belize",
+      "team_1": "Argentina",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ARGT@2x.png",
+      "team_2": "Belize",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BEZ@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/tb9GPXMZTXO5XklASgFmAA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC Men's T20 WC Sub Regional Americas Qualifier",
+      "match_id": 114018,
+      "match_name": "Mexico vs Brazil",
+      "team_1": "Mexico",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MEX@2x.png",
+      "team_2": "Brazil",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/GTKqkuwiSeefsu4mcuDi7g/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -77,6 +89,18 @@
       "stream_link": "https://dai.google.com/linear/hls/event/dYPtgjf6THWIpOxFeOPajw/master.m3u8"
     },
     {
+      "event_catagory": "cricket",
+      "event_name": "Dream11 Nature Isle T10, 6th Edition, 2024",
+      "match_id": 114142,
+      "match_name": "Sari Sari Sunrisers vs Indian River Rowers",
+      "team_1": "Sari Sari Sunrisers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSUN@2x.png",
+      "team_2": "Indian River Rowers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROWE@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v1.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/VeX0fb0zTaGdR_b19l4wHA/master.m3u8"
+    },
+    {
       "event_catagory": "football",
       "event_name": "EFL Championship 2024-25",
       "match_id": 109892,
@@ -87,18 +111,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-DERBC@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/109892_4352_LU_DER_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/dSVLrdpXQg6MUE7j0J6HKw/master.m3u8"
-    },
-    {
-      "event_catagory": "racing",
-      "event_name": "F2 ABU DHABI 2024",
-      "match_id": 96151,
-      "match_name": "Sprint Race",
-      "team_1": "Sprint Race",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR2@2x.png",
-      "team_2": "United Arab Emirates",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_UAE_Sporty_Match_card_4_Old_match-card-(1).jpg",
-      "stream_link": "https://d1xh36r6z96uad.cloudfront.net/out/v1/8f7bb58cdcb44061ac2cb3b743a70351/index.m3u8"
     },
     {
       "event_catagory": "golf",
