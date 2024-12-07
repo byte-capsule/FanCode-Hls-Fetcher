@@ -1,10 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Nigeria vs Botswana" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114456_4675_BOT_NIG_fc-web.jpg" tvg-id="114456" group-title="Africa T20I Continent Cup, 2024",Nigeria vs Botswana
+https://dai.google.com/linear/hls/event/tl7R6l92TwuHBd9aM8aZRw/master.m3u8
 #EXTINF:-1 tvg-name="ABL Stallions vs Lake City Panthers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114591_4681_AST_LCP_fc-web.jpg" tvg-id="114591" group-title="Champions T20 Cup, 2024",ABL Stallions vs Lake City Panthers
 https://dai.google.com/linear/hls/event/knrxLK6dS82UpXKWRQRVRQ/master.m3u8
-#EXTINF:-1 tvg-name="Ireland Women vs Bangladesh Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Women-Tour-of-Bangladesh,-T20Is-2024-old-match-card--(1).png" tvg-id="113504" group-title="Ireland Women tour of Bangladesh, 2024",Ireland Women vs Bangladesh Women
-https://dai.google.com/linear/hls/event/3S44avP9TWapm3keOxICIQ/master.m3u8
-#EXTINF:-1 tvg-name="Spain vs Croatia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114613_4682_CRO_SPA_fc-Web.jpg" tvg-id="114613" group-title="ECI Spain, 2024",Spain vs Croatia
-https://dai.google.com/linear/hls/event/gcPSMOV5Ri2Q4ynLyuyYKg/master.m3u8
+#EXTINF:-1 tvg-name="Spain vs Italy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114614_4682_SPA_ITA_fc-Web.jpg" tvg-id="114614" group-title="ECI Spain, 2024",Spain vs Italy
+https://dai.google.com/linear/hls/event/oet1S92uScaqDycu4jOnig/master.m3u8
 #EXTINF:-1 tvg-name="South Australia vs Tasmania" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110408_4543_TAS_SAU_fc-Web.jpg" tvg-id="110408" group-title="Sheffield Shield, 2024-25",South Australia vs Tasmania
 https://dai.google.com/linear/hls/event/3dHDb3YvRSGq_WCIXUJDIw/master.m3u8
 #EXTINF:-1 tvg-name="Queensland vs Victoria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110407_4543_VCT_QUN_fc-Web.jpg" tvg-id="110407" group-title="Sheffield Shield, 2024-25",Queensland vs Victoria
