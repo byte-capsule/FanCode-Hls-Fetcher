@@ -1,8 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Soca Kings vs Samp Army Cocrico Cavaliers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113582_4653_CCL_SCK_fc-web.jpg" tvg-id="113582" group-title="Dream11 Trinidad T10 Blast, 6th Edition, 2024",Soca Kings vs Samp Army Cocrico Cavaliers
+https://dai.google.com/linear/hls/event/f1wzWBFETfmQYk0VX1umow/master.m3u8
 #EXTINF:-1 tvg-name="Argentina vs Belize" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="114019" group-title="ICC Men's T20 WC Sub Regional Americas Qualifier",Argentina vs Belize
 https://dai.google.com/linear/hls/event/tb9GPXMZTXO5XklASgFmAA/master.m3u8
 #EXTINF:-1 tvg-name="Mexico vs Brazil" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="114018" group-title="ICC Men's T20 WC Sub Regional Americas Qualifier",Mexico vs Brazil
 https://dai.google.com/linear/hls/event/GTKqkuwiSeefsu4mcuDi7g/master.m3u8
+#EXTINF:-1 tvg-name="Italy vs Croatia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114615_4682_CRO_ITA_fc-Web.jpg" tvg-id="114615" group-title="ECI Spain, 2024",Italy vs Croatia
+https://dai.google.com/linear/hls/event/_DYRPtNCTA-7zh1AW_o5UQ/master.m3u8
 #EXTINF:-1 tvg-name="ABL Stallions vs Lake City Panthers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114591_4681_AST_LCP_fc-web.jpg" tvg-id="114591" group-title="Champions T20 Cup, 2024",ABL Stallions vs Lake City Panthers
 https://dai.google.com/linear/hls/event/knrxLK6dS82UpXKWRQRVRQ/master.m3u8
 #EXTINF:-1 tvg-name="Nigeria vs Botswana" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114456_4675_BOT_NIG_fc-web.jpg" tvg-id="114456" group-title="Africa T20I Continent Cup, 2024",Nigeria vs Botswana
@@ -17,5 +21,7 @@ https://dai.google.com/linear/hls/event/dYPtgjf6THWIpOxFeOPajw/master.m3u8
 https://dai.google.com/linear/hls/event/VeX0fb0zTaGdR_b19l4wHA/master.m3u8
 #EXTINF:-1 tvg-name="Leeds United vs Derby County" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109892_4352_LU_DER_fc-web.jpg" tvg-id="109892" group-title="EFL Championship 2024-25",Leeds United vs Derby County
 https://dai.google.com/linear/hls/event/dSVLrdpXQg6MUE7j0J6HKw/master.m3u8
+#EXTINF:-1 tvg-name="Qualifying" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-Abu-Dhabi-GP-OLD.jpg" tvg-id="95277" group-title="F1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2024",Qualifying
+https://dai.google.com/linear/hls/event/rtxFu6ThQneRwrtxLZs3cw/master.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/nedbank-golf-challenge_match-card.jpg" tvg-id="114574" group-title="NedBank Golf Challenge",Day 3
 https://dai.google.com/linear/hls/event/LPoQS7fSRraayJAgrNE55Q/master.m3u8
