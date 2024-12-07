@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Argentina vs Belize" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="114019" group-title="ICC Men's T20 WC Sub Regional Americas Qualifier",Argentina vs Belize
-https://dai.google.com/linear/hls/event/tb9GPXMZTXO5XklASgFmAA/master.m3u8
-#EXTINF:-1 tvg-name="Croatia vs Spain" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114616_4682_CRO_SPA_fc-Web.jpg" tvg-id="114616" group-title="ECI Spain, 2024",Croatia vs Spain
-https://dai.google.com/linear/hls/event/ZFRHS0cPTuaIY19Qs94Nuw/master.m3u8
+#EXTINF:-1 tvg-name="Woodland Steelpan Players vs Soca Kings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg" tvg-id="113583" group-title="Dream11 Trinidad T10 Blast, 6th Edition, 2024",Woodland Steelpan Players vs Soca Kings
+https://dai.google.com/linear/hls/event/GB5qP4rYTSS6soXGOaCtwg/master.m3u8
 #EXTINF:-1 tvg-name="Titou Gorge Splashers vs Champagne Reef Divers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v2.jpg" tvg-id="114143" group-title="Dream11 Nature Isle T10, 6th Edition, 2024",Titou Gorge Splashers vs Champagne Reef Divers
 https://dai.google.com/linear/hls/event/yDmS2EO1TyG7ZELgwXhbWg/master.m3u8
 #EXTINF:-1 tvg-name="South Australia vs Tasmania" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110408_4543_TAS_SAU_fc-Web.jpg" tvg-id="110408" group-title="Sheffield Shield, 2024-25",South Australia vs Tasmania
@@ -11,9 +9,5 @@ https://dai.google.com/linear/hls/event/3dHDb3YvRSGq_WCIXUJDIw/master.m3u8
 https://dai.google.com/linear/hls/event/TTjmr_2hS9Cw7YqK1XHakA/master.m3u8
 #EXTINF:-1 tvg-name="Western Australia vs New South Wales" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110406_4543_NSW_WAU_fc-Web.jpg" tvg-id="110406" group-title="Sheffield Shield, 2024-25",Western Australia vs New South Wales
 https://dai.google.com/linear/hls/event/dYPtgjf6THWIpOxFeOPajw/master.m3u8
-#EXTINF:-1 tvg-name="Hull City vs Blackburn Rovers" tvg-logo="https://www.fancode.com/aig/match/v1/114836_CASACARDS_APP.png" tvg-id="114836" group-title="EFL Championship 2024-25",Hull City vs Blackburn Rovers
-https://dai.google.com/linear/hls/event/Y-2LAUO1RTSkBLgjKuFZMg/master.m3u8
-#EXTINF:-1 tvg-name="Second Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_UAE_Old_match-card.jpg" tvg-id="96866" group-title="F1 ACADEMY ABU DHABI 2024",Second Race
-https://d1ito796a50zaw.cloudfront.net/out/v1/8bf74bb5eabc48c78da12c92d0293102/index.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hero-World-Challenga_FC-web.jpg" tvg-id="114623" group-title="Hero World Challenge",Day 3
 https://dai.google.com/linear/hls/event/xBMMW3IjS3SEdKOiNd0EBg/master.m3u8
