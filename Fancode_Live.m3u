@@ -7,15 +7,15 @@ https://dai.google.com/linear/hls/event/tb9GPXMZTXO5XklASgFmAA/master.m3u8
 https://dai.google.com/linear/hls/event/GTKqkuwiSeefsu4mcuDi7g/master.m3u8
 #EXTINF:-1 tvg-name="Croatia vs Spain" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114616_4682_CRO_SPA_fc-Web.jpg" tvg-id="114616" group-title="ECI Spain, 2024",Croatia vs Spain
 https://dai.google.com/linear/hls/event/ZFRHS0cPTuaIY19Qs94Nuw/master.m3u8
-#EXTINF:-1 tvg-name="Nigeria vs Botswana" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114456_4675_BOT_NIG_fc-web.jpg" tvg-id="114456" group-title="Africa T20I Continent Cup, 2024",Nigeria vs Botswana
-https://dai.google.com/linear/hls/event/tl7R6l92TwuHBd9aM8aZRw/master.m3u8
 #EXTINF:-1 tvg-name="Sari Sari Sunrisers vs Indian River Rowers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v1.jpg" tvg-id="114142" group-title="Dream11 Nature Isle T10, 6th Edition, 2024",Sari Sari Sunrisers vs Indian River Rowers
 https://dai.google.com/linear/hls/event/VeX0fb0zTaGdR_b19l4wHA/master.m3u8
+#EXTINF:-1 tvg-name="Champagne Reef Divers vs Titou Gorge Splashers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v2.jpg" tvg-id="114143" group-title="Dream11 Nature Isle T10, 6th Edition, 2024",Champagne Reef Divers vs Titou Gorge Splashers
+https://dai.google.com/linear/hls/event/yDmS2EO1TyG7ZELgwXhbWg/master.m3u8
 #EXTINF:-1 tvg-name="South Australia vs Tasmania" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110408_4543_TAS_SAU_fc-Web.jpg" tvg-id="110408" group-title="Sheffield Shield, 2024-25",South Australia vs Tasmania
 https://dai.google.com/linear/hls/event/3dHDb3YvRSGq_WCIXUJDIw/master.m3u8
 #EXTINF:-1 tvg-name="Queensland vs Victoria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110407_4543_VCT_QUN_fc-Web.jpg" tvg-id="110407" group-title="Sheffield Shield, 2024-25",Queensland vs Victoria
 https://dai.google.com/linear/hls/event/TTjmr_2hS9Cw7YqK1XHakA/master.m3u8
 #EXTINF:-1 tvg-name="Western Australia vs New South Wales" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110406_4543_NSW_WAU_fc-Web.jpg" tvg-id="110406" group-title="Sheffield Shield, 2024-25",Western Australia vs New South Wales
 https://dai.google.com/linear/hls/event/dYPtgjf6THWIpOxFeOPajw/master.m3u8
-#EXTINF:-1 tvg-name="Hull City vs Blackburn Rovers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg" tvg-id="114836" group-title="EFL Championship 2024-25",Hull City vs Blackburn Rovers
+#EXTINF:-1 tvg-name="Hull City vs Blackburn Rovers" tvg-logo="https://www.fancode.com/aig/match/v1/114836_CASACARDS_APP.png" tvg-id="114836" group-title="EFL Championship 2024-25",Hull City vs Blackburn Rovers
 https://dai.google.com/linear/hls/event/Y-2LAUO1RTSkBLgjKuFZMg/master.m3u8

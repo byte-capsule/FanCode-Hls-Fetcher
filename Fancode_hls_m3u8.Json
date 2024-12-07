@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 10,
-  "last_upaded": "07-12-2024 on 9:40:10 PM \ud83c\udf19",
+  "last_upaded": "07-12-2024 on 9:53:10 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -54,18 +54,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Africa T20I Continent Cup, 2024",
-      "match_id": 114456,
-      "match_name": "Nigeria vs Botswana",
-      "team_1": "Nigeria",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NIGE@2x.png",
-      "team_2": "Botswana",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BOTS@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114456_4675_BOT_NIG_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/tl7R6l92TwuHBd9aM8aZRw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "Dream11 Nature Isle T10, 6th Edition, 2024",
       "match_id": 114142,
       "match_name": "Sari Sari Sunrisers vs Indian River Rowers",
@@ -75,6 +63,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROWE@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v1.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/VeX0fb0zTaGdR_b19l4wHA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Dream11 Nature Isle T10, 6th Edition, 2024",
+      "match_id": 114143,
+      "match_name": "Champagne Reef Divers vs Titou Gorge Splashers",
+      "team_1": "Champagne Reef Divers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CHRD@2x.png",
+      "team_2": "Titou Gorge Splashers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TSPL@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v2.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/yDmS2EO1TyG7ZELgwXhbWg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -121,7 +121,7 @@
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-HLC@2x.png",
       "team_2": "Blackburn Rovers",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BLKB@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "banner": "https://www.fancode.com/aig/match/v1/114836_CASACARDS_APP.png",
       "stream_link": "https://dai.google.com/linear/hls/event/Y-2LAUO1RTSkBLgjKuFZMg/master.m3u8"
     }
   ]
