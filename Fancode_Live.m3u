@@ -5,6 +5,8 @@ https://dai.google.com/linear/hls/event/f1wzWBFETfmQYk0VX1umow/master.m3u8
 https://dai.google.com/linear/hls/event/tb9GPXMZTXO5XklASgFmAA/master.m3u8
 #EXTINF:-1 tvg-name="Mexico vs Brazil" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="114018" group-title="ICC Men's T20 WC Sub Regional Americas Qualifier",Mexico vs Brazil
 https://dai.google.com/linear/hls/event/GTKqkuwiSeefsu4mcuDi7g/master.m3u8
+#EXTINF:-1 tvg-name="Croatia vs Spain" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114616_4682_CRO_SPA_fc-Web.jpg" tvg-id="114616" group-title="ECI Spain, 2024",Croatia vs Spain
+https://dai.google.com/linear/hls/event/ZFRHS0cPTuaIY19Qs94Nuw/master.m3u8
 #EXTINF:-1 tvg-name="Nigeria vs Botswana" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114456_4675_BOT_NIG_fc-web.jpg" tvg-id="114456" group-title="Africa T20I Continent Cup, 2024",Nigeria vs Botswana
 https://dai.google.com/linear/hls/event/tl7R6l92TwuHBd9aM8aZRw/master.m3u8
 #EXTINF:-1 tvg-name="Sari Sari Sunrisers vs Indian River Rowers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v1.jpg" tvg-id="114142" group-title="Dream11 Nature Isle T10, 6th Edition, 2024",Sari Sari Sunrisers vs Indian River Rowers
@@ -17,5 +19,3 @@ https://dai.google.com/linear/hls/event/TTjmr_2hS9Cw7YqK1XHakA/master.m3u8
 https://dai.google.com/linear/hls/event/dYPtgjf6THWIpOxFeOPajw/master.m3u8
 #EXTINF:-1 tvg-name="Hull City vs Blackburn Rovers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg" tvg-id="114836" group-title="EFL Championship 2024-25",Hull City vs Blackburn Rovers
 https://dai.google.com/linear/hls/event/Y-2LAUO1RTSkBLgjKuFZMg/master.m3u8
-#EXTINF:-1 tvg-name="Qualifying" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-Abu-Dhabi-GP-OLD.jpg" tvg-id="95277" group-title="F1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2024",Qualifying
-https://dai.google.com/linear/hls/event/rtxFu6ThQneRwrtxLZs3cw/master.m3u8
