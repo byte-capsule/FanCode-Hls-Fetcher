@@ -1,7 +1,56 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 0,
-  "last_upaded": "07-12-2024 on 05:40:35 AM \ud83c\udf1e",
-  "matches": []
+  "total_mathes": 4,
+  "last_upaded": "07-12-2024 on 07:53:07 AM \ud83c\udf1e",
+  "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "Global Super League, 2024",
+      "match_id": 113499,
+      "match_name": "Rangpur Riders vs Victoria",
+      "team_1": "Rangpur Riders",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RANG@2x.png",
+      "team_2": "Victoria",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VCT@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113493_4648_RAN_VCT_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/lPWLdmXdTPe6LSGoyTxYlw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Sheffield Shield, 2024-25",
+      "match_id": 110408,
+      "match_name": "South Australia vs Tasmania",
+      "team_1": "South Australia",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAUS@2x.png",
+      "team_2": "Tasmania",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TAS@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110408_4543_TAS_SAU_fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/3dHDb3YvRSGq_WCIXUJDIw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Sheffield Shield, 2024-25",
+      "match_id": 110407,
+      "match_name": "Queensland vs Victoria",
+      "team_1": "Queensland",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-QUN@2x.png",
+      "team_2": "Victoria",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VCT@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110407_4543_VCT_QUN_fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/TTjmr_2hS9Cw7YqK1XHakA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Sheffield Shield, 2024-25",
+      "match_id": 110406,
+      "match_name": "Western Australia vs New South Wales",
+      "team_1": "Western Australia",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAU@2x.png",
+      "team_2": "New South Wales",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSW@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110406_4543_NSW_WAU_fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/dYPtgjf6THWIpOxFeOPajw/master.m3u8"
+    }
+  ]
 }
