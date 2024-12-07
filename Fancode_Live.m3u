@@ -1,18 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Nurpur Lions vs UMT Markhors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114590_4681_NUR_UMA_fc-web.jpg" tvg-id="114590" group-title="Champions T20 Cup, 2024",Nurpur Lions vs UMT Markhors
-https://dai.google.com/linear/hls/event/ZRIfmO0pTymmRWsnw2uYhA/master.m3u8
 #EXTINF:-1 tvg-name="Karnali Yaks vs Biratnagar Kings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113736_4657_KNY_BK_fc-Web.jpg" tvg-id="113736" group-title="Nepal Premier League, 2024",Karnali Yaks vs Biratnagar Kings
 https://dai.google.com/linear/hls/event/x07DsfHjTGeZAR-o7oj_wg/master.m3u8
+#EXTINF:-1 tvg-name="Uganda vs Rwanda" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114455_4675_UGA_RWA_fc-web.jpg" tvg-id="114455" group-title="Africa T20I Continent Cup, 2024",Uganda vs Rwanda
+https://dai.google.com/linear/hls/event/O8vvvrsQR5upUT2KbM74wQ/master.m3u8
+#EXTINF:-1 tvg-name="Nurpur Lions vs UMT Markhors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114590_4681_NUR_UMA_fc-web.jpg" tvg-id="114590" group-title="Champions T20 Cup, 2024",Nurpur Lions vs UMT Markhors
+https://dai.google.com/linear/hls/event/ZRIfmO0pTymmRWsnw2uYhA/master.m3u8
+#EXTINF:-1 tvg-name="Ireland Women vs Bangladesh Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Women-Tour-of-Bangladesh,-T20Is-2024-old-match-card--(1).png" tvg-id="113504" group-title="Ireland Women tour of Bangladesh, 2024",Ireland Women vs Bangladesh Women
+https://dai.google.com/linear/hls/event/3S44avP9TWapm3keOxICIQ/master.m3u8
+#EXTINF:-1 tvg-name="Spain vs Croatia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114613_4682_CRO_SPA_fc-Web.jpg" tvg-id="114613" group-title="ECI Spain, 2024",Spain vs Croatia
+https://dai.google.com/linear/hls/event/gcPSMOV5Ri2Q4ynLyuyYKg/master.m3u8
 #EXTINF:-1 tvg-name="South Australia vs Tasmania" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110408_4543_TAS_SAU_fc-Web.jpg" tvg-id="110408" group-title="Sheffield Shield, 2024-25",South Australia vs Tasmania
 https://dai.google.com/linear/hls/event/3dHDb3YvRSGq_WCIXUJDIw/master.m3u8
 #EXTINF:-1 tvg-name="Queensland vs Victoria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110407_4543_VCT_QUN_fc-Web.jpg" tvg-id="110407" group-title="Sheffield Shield, 2024-25",Queensland vs Victoria
 https://dai.google.com/linear/hls/event/TTjmr_2hS9Cw7YqK1XHakA/master.m3u8
 #EXTINF:-1 tvg-name="Western Australia vs New South Wales" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110406_4543_NSW_WAU_fc-Web.jpg" tvg-id="110406" group-title="Sheffield Shield, 2024-25",Western Australia vs New South Wales
 https://dai.google.com/linear/hls/event/dYPtgjf6THWIpOxFeOPajw/master.m3u8
-#EXTINF:-1 tvg-name="Uganda vs Rwanda" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114455_4675_UGA_RWA_fc-web.jpg" tvg-id="114455" group-title="Africa T20I Continent Cup, 2024",Uganda vs Rwanda
-https://dai.google.com/linear/hls/event/O8vvvrsQR5upUT2KbM74wQ/master.m3u8
-#EXTINF:-1 tvg-name="Ireland Women vs Bangladesh Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Women-Tour-of-Bangladesh,-T20Is-2024-old-match-card--(1).png" tvg-id="113504" group-title="Ireland Women tour of Bangladesh, 2024",Ireland Women vs Bangladesh Women
-https://dai.google.com/linear/hls/event/3S44avP9TWapm3keOxICIQ/master.m3u8
 #EXTINF:-1 tvg-name="DBI vs FC Green Valley" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg" tvg-id="113833" group-title="2nd Protech Guwahati Premier League 2024",DBI vs FC Green Valley
 https://dai.google.com/linear/hls/event/VavVU113Qtyy6PySJ4sW4A/master.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/nedbank-golf-challenge_match-card.jpg" tvg-id="114574" group-title="NedBank Golf Challenge",Day 3
