@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 10,
-  "last_upaded": "07-12-2024 on 8:54:17 PM \ud83c\udf19",
+  "last_upaded": "07-12-2024 on 9:22:29 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -39,18 +39,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
       "stream_link": "https://dai.google.com/linear/hls/event/GTKqkuwiSeefsu4mcuDi7g/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECI Spain, 2024",
-      "match_id": 114615,
-      "match_name": "Italy vs Croatia",
-      "team_1": "Italy",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ITA@2x.png",
-      "team_2": "Croatia",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CROA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114615_4682_CRO_ITA_fc-Web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/_DYRPtNCTA-7zh1AW_o5UQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -111,6 +99,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSW@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110406_4543_NSW_WAU_fc-Web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/dYPtgjf6THWIpOxFeOPajw/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "EFL Championship 2024-25",
+      "match_id": 114836,
+      "match_name": "Hull City vs Blackburn Rovers",
+      "team_1": "Hull City",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-HLC@2x.png",
+      "team_2": "Blackburn Rovers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BLKB@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/Y-2LAUO1RTSkBLgjKuFZMg/master.m3u8"
     },
     {
       "event_catagory": "formula1",
