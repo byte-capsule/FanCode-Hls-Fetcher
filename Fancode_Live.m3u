@@ -15,3 +15,5 @@ https://liveauth.fancode.com/primary/114684_english_hls_8144adfreeta-di/index.m3
 https://liveauth.fancode.com/primary/114691_english_hls_2022adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Gamba Osaka vs Sanfrecce Hiroshima" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg" tvg-id="114228" group-title="J League 2024",Gamba Osaka vs Sanfrecce Hiroshima
 https://liveauth.fancode.com/primary/114228_english_hls_7110adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Melbourne Victory vs Perth Glory" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110933_4567_MLV_PG_fc-web_1728983127404.jpg" tvg-id="110933" group-title="A League 2024-25",Melbourne Victory vs Perth Glory
+https://dai.google.com/linear/hls/event/nkT-64aWRZ6qti-gZdExWQ/master.m3u8
