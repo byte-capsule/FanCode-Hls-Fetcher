@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 8,
-  "last_upaded": "08-12-2024 on 1:22:36 PM \ud83c\udf1e",
+  "last_upaded": "08-12-2024 on 1:53:05 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -65,16 +65,16 @@
       "stream_link": "https://dai.google.com/linear/hls/event/wwiCekraQTKXVaNxIVajbw/master.m3u8"
     },
     {
-      "event_catagory": "football",
-      "event_name": "A League 2024-25",
-      "match_id": 110933,
-      "match_name": "Melbourne Victory vs Perth Glory",
-      "team_1": "Melbourne Victory",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLVA@2x.png",
-      "team_2": "Perth Glory",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PERTHGA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110933_4567_MLV_PG_fc-web_1728983127404.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/nkT-64aWRZ6qti-gZdExWQ/master.m3u8"
+      "event_catagory": "cricket",
+      "event_name": "ECI Spain, 2024",
+      "match_id": 114617,
+      "match_name": "Spain vs Italy",
+      "team_1": "Spain",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESP@2x.png",
+      "team_2": "Italy",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ITA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114617_4682_ITA_SPA_fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/F2uyKAhsTb6HIrqVDDndjQ/master.m3u8"
     },
     {
       "event_catagory": "football",
