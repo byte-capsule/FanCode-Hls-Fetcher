@@ -1,9 +1,17 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Janakpur Bolts vs Lumbini Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113737_4657_JKB_LBL_fc-Web.jpg" tvg-id="113737" group-title="Nepal Premier League, 2024",Janakpur Bolts vs Lumbini Lions
+https://dai.google.com/linear/hls/event/TqyzOR4yRS-cUEc61TvhmQ/master.m3u8
 #EXTINF:-1 tvg-name="South Australia vs Tasmania" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110408_4543_TAS_SAU_fc-Web.jpg" tvg-id="110408" group-title="Sheffield Shield, 2024-25",South Australia vs Tasmania
 https://dai.google.com/linear/hls/event/3dHDb3YvRSGq_WCIXUJDIw/master.m3u8
 #EXTINF:-1 tvg-name="Queensland vs Victoria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110407_4543_VCT_QUN_fc-Web.jpg" tvg-id="110407" group-title="Sheffield Shield, 2024-25",Queensland vs Victoria
 https://dai.google.com/linear/hls/event/TTjmr_2hS9Cw7YqK1XHakA/master.m3u8
 #EXTINF:-1 tvg-name="Western Australia vs New South Wales" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110406_4543_NSW_WAU_fc-Web.jpg" tvg-id="110406" group-title="Sheffield Shield, 2024-25",Western Australia vs New South Wales
 https://dai.google.com/linear/hls/event/dYPtgjf6THWIpOxFeOPajw/master.m3u8
-#EXTINF:-1 tvg-name="Janakpur Bolts vs Lumbini Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113737_4657_JKB_LBL_fc-Web.jpg" tvg-id="113737" group-title="Nepal Premier League, 2024",Janakpur Bolts vs Lumbini Lions
-https://dai.google.com/linear/hls/event/TqyzOR4yRS-cUEc61TvhmQ/master.m3u8
+#EXTINF:-1 tvg-name="Urawa Red Diamonds vs Albirex Niigata" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg" tvg-id="114685" group-title="J League 2024",Urawa Red Diamonds vs Albirex Niigata
+https://liveauth.fancode.com/primary/114685_english_hls_5007adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Kashima Antlers vs Machida Zelvia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg" tvg-id="114684" group-title="J League 2024",Kashima Antlers vs Machida Zelvia
+https://liveauth.fancode.com/primary/114684_english_hls_8144adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Vissel Kobe vs Shonan Bellmare" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg" tvg-id="114691" group-title="J League 2024",Vissel Kobe vs Shonan Bellmare
+https://liveauth.fancode.com/primary/114691_english_hls_2022adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Gamba Osaka vs Sanfrecce Hiroshima" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg" tvg-id="114228" group-title="J League 2024",Gamba Osaka vs Sanfrecce Hiroshima
+https://liveauth.fancode.com/primary/114228_english_hls_7110adfreeta-di/index.m3u8
