@@ -1,15 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Sari Sari Sunrisers vs The Valley Hikers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v2.jpg" tvg-id="114145" group-title="Dream11 Nature Isle T10, 6th Edition, 2024",Sari Sari Sunrisers vs The Valley Hikers
 https://dai.google.com/linear/hls/event/nkWva3Y-QG-3x-xKDVGChw/master.m3u8
-#EXTINF:-1 tvg-name="Woodland Steelpan Players vs Scarlet Ibis Scorchers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113560_4653_SLS_SPK_fc-web.jpg" tvg-id="113585" group-title="Dream11 Trinidad T10 Blast, 6th Edition, 2024",Woodland Steelpan Players vs Scarlet Ibis Scorchers
-https://dai.google.com/linear/hls/event/tgmD0Cj5TO-XhgAsvoH0lQ/master.m3u8
+#EXTINF:-1 tvg-name="A Four CC vs Phoenix Riders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112427_4616_AF_PHR_fc-web_1731569489950.jpg" tvg-id="112427" group-title="KCC T20 Challengers A League, 2024-25",A Four CC vs Phoenix Riders
+https://dai.google.com/linear/hls/event/Sm8J7WbzTSmMV1LAdBHDfQ/master.m3u8
 #EXTINF:-1 tvg-name="South Australia vs Tasmania" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110408_4543_TAS_SAU_fc-Web.jpg" tvg-id="110408" group-title="Sheffield Shield, 2024-25",South Australia vs Tasmania
 https://dai.google.com/linear/hls/event/3dHDb3YvRSGq_WCIXUJDIw/master.m3u8
 #EXTINF:-1 tvg-name="Western Australia vs New South Wales" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110406_4543_NSW_WAU_fc-Web.jpg" tvg-id="110406" group-title="Sheffield Shield, 2024-25",Western Australia vs New South Wales
 https://dai.google.com/linear/hls/event/dYPtgjf6THWIpOxFeOPajw/master.m3u8
 #EXTINF:-1 tvg-name="Bangladesh vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-ODI--old-match-card.png" tvg-id="112346" group-title="Bangladesh tour of West Indies, 2024",Bangladesh vs West Indies
 https://dai.google.com/linear/hls/event/zbBdIh3gQjqsHgPqOw_T8g/master.m3u8
-#EXTINF:-1 tvg-name="West Bromwich Albion vs Sheffield United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109893_4352_WBA_SHF_fc-web.jpg" tvg-id="109893" group-title="EFL Championship 2024-25",West Bromwich Albion vs Sheffield United
-https://dai.google.com/linear/hls/event/bYapoKDUQC-xKDPlJdm_XA/master.m3u8
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hero-World-Challenga_FC-web.jpg" tvg-id="114624" group-title="Hero World Challenge",Day 4
 https://dai.google.com/linear/hls/event/m3zATW8XRDKfnhQHNoww4g/master.m3u8
