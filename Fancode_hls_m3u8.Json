@@ -2,20 +2,8 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 9,
-  "last_upaded": "08-12-2024 on 0:31:54 PM \ud83c\udf1e",
+  "last_upaded": "08-12-2024 on 0:53:10 PM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Nepal Premier League, 2024",
-      "match_id": 113737,
-      "match_name": "Janakpur Bolts vs Lumbini Lions",
-      "team_1": "Janakpur Bolts",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JKB@2x.png",
-      "team_2": "Lumbini Lions",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LBL@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113737_4657_JKB_LBL_fc-Web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/TqyzOR4yRS-cUEc61TvhmQ/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Sheffield Shield, 2024-25",
@@ -51,6 +39,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSW@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110406_4543_NSW_WAU_fc-Web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/dYPtgjf6THWIpOxFeOPajw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Champions T20 Cup, 2024",
+      "match_id": 114592,
+      "match_name": "Engro Dolphins vs Lake City Panthers",
+      "team_1": "Engro Dolphins",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-END@2x.png",
+      "team_2": "Lake City Panthers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LCP@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114592_4681_LCP_END_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/v-M8YgCtSWyc99jkE6f5Kw/master.m3u8"
     },
     {
       "event_catagory": "football",
