@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 6,
-  "last_upaded": "08-12-2024 on 5:18:40 PM \ud83c\udf1e",
+  "last_upaded": "08-12-2024 on 5:39:07 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -30,15 +30,15 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "ECI Spain, 2024",
-      "match_id": 114618,
-      "match_name": "Italy vs Croatia",
-      "team_1": "Italy",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ITA@2x.png",
-      "team_2": "Croatia",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CROA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114618_4682_ITA_CRO_fc-Web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/XeBohgdjQ9KADc4ks6U3bQ/master.m3u8"
+      "event_name": "Africa T20I Continent Cup, 2024",
+      "match_id": 114458,
+      "match_name": "Rwanda vs Botswana",
+      "team_1": "Rwanda",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RWA@2x.png",
+      "team_2": "Botswana",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BOTS@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114458_4675_RWA_BOT_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/YJtNv7rMSKSRYfcR1P0wmg/master.m3u8"
     },
     {
       "event_catagory": "football",
