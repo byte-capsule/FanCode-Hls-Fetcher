@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 8,
-  "last_upaded": "08-12-2024 on 10:26:55 PM \ud83c\udf19",
+  "total_mathes": 7,
+  "last_upaded": "08-12-2024 on 10:45:20 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,18 +27,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCARIB@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/113560_4653_SLS_SPK_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/tgmD0Cj5TO-XhgAsvoH0lQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC Men's T20 WC Sub Regional Americas Qualifier",
-      "match_id": 114023,
-      "match_name": "Bahamas vs Argentina",
-      "team_1": "Bahamas",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BH@2x.png",
-      "team_2": "Argentina",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ARGT@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/eaERc6DSTPWHX_BgrjwVOg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
