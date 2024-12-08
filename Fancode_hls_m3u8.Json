@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 9,
-  "last_upaded": "08-12-2024 on 2:46:28 PM \ud83c\udf1e",
+  "last_upaded": "08-12-2024 on 3:22:47 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -78,18 +78,6 @@
     },
     {
       "event_catagory": "football",
-      "event_name": "A League 2024-25",
-      "match_id": 110932,
-      "match_name": "Central Coast Mariners vs Sydney FC",
-      "team_1": "Central Coast Mariners",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CENTA@2x.png",
-      "team_2": "Sydney FC",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYDA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110932_4567_CCM_SYD_fc-web_1728983126820.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/lBmlvYrbQWqAQYbupIqVAA/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
       "event_name": "2nd Protech Guwahati Premier League 2024",
       "match_id": 113835,
       "match_name": "Barekuri FC vs North East Frontier Railways SA",
@@ -99,6 +87,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NEFR@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/4MbitF3LRUiwfBboV5ID_w/master.m3u8"
+    },
+    {
+      "event_catagory": "racing",
+      "event_name": "F2 ABU DHABI 2024",
+      "match_id": 96152,
+      "match_name": "Feature Race",
+      "team_1": "Feature Race",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR2@2x.png",
+      "team_2": "United Arab Emirates",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_UAE_Sporty_Match_card_4_Old_match-card-(1).jpg",
+      "stream_link": "https://d335y6azl2ryaf.cloudfront.net/out/v1/3ed2c23ea14844d2b72d96e43c2c90f6/index.m3u8"
     },
     {
       "event_catagory": "golf",
