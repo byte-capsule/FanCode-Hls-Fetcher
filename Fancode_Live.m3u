@@ -3,6 +3,10 @@
 https://dai.google.com/linear/hls/event/nkWva3Y-QG-3x-xKDVGChw/master.m3u8
 #EXTINF:-1 tvg-name="A Four CC vs Phoenix Riders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112427_4616_AF_PHR_fc-web_1731569489950.jpg" tvg-id="112427" group-title="KCC T20 Challengers A League, 2024-25",A Four CC vs Phoenix Riders
 https://dai.google.com/linear/hls/event/Sm8J7WbzTSmMV1LAdBHDfQ/master.m3u8
+#EXTINF:-1 tvg-name="Cayman Islands vs Belize" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="114025" group-title="ICC Men's T20 WC Sub Regional Americas Qualifier",Cayman Islands vs Belize
+https://dai.google.com/linear/hls/event/AS6lYu7WQBeIkM66iOJs9g/master.m3u8
+#EXTINF:-1 tvg-name="Suriname vs Brazil" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="114024" group-title="ICC Men's T20 WC Sub Regional Americas Qualifier",Suriname vs Brazil
+https://dai.google.com/linear/hls/event/kSDMSBFfTyahvTWCahr1sQ/master.m3u8
 #EXTINF:-1 tvg-name="South Australia vs Tasmania" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110408_4543_TAS_SAU_fc-Web.jpg" tvg-id="110408" group-title="Sheffield Shield, 2024-25",South Australia vs Tasmania
 https://dai.google.com/linear/hls/event/3dHDb3YvRSGq_WCIXUJDIw/master.m3u8
 #EXTINF:-1 tvg-name="Western Australia vs New South Wales" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110406_4543_NSW_WAU_fc-Web.jpg" tvg-id="110406" group-title="Sheffield Shield, 2024-25",Western Australia vs New South Wales
