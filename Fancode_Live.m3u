@@ -1,19 +1,17 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Chitwan Rhinos vs Sudurpaschim Royals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113738_4657_SPR_CWR_fc-Web.jpg" tvg-id="113738" group-title="Nepal Premier League, 2024",Chitwan Rhinos vs Sudurpaschim Royals
+https://dai.google.com/linear/hls/event/LjX9K6vwRb-liOsecz3-dg/master.m3u8
 #EXTINF:-1 tvg-name="South Australia vs Tasmania" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110408_4543_TAS_SAU_fc-Web.jpg" tvg-id="110408" group-title="Sheffield Shield, 2024-25",South Australia vs Tasmania
 https://dai.google.com/linear/hls/event/3dHDb3YvRSGq_WCIXUJDIw/master.m3u8
-#EXTINF:-1 tvg-name="Queensland vs Victoria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110407_4543_VCT_QUN_fc-Web.jpg" tvg-id="110407" group-title="Sheffield Shield, 2024-25",Queensland vs Victoria
-https://dai.google.com/linear/hls/event/TTjmr_2hS9Cw7YqK1XHakA/master.m3u8
 #EXTINF:-1 tvg-name="Western Australia vs New South Wales" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110406_4543_NSW_WAU_fc-Web.jpg" tvg-id="110406" group-title="Sheffield Shield, 2024-25",Western Australia vs New South Wales
 https://dai.google.com/linear/hls/event/dYPtgjf6THWIpOxFeOPajw/master.m3u8
 #EXTINF:-1 tvg-name="Engro Dolphins vs Lake City Panthers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114592_4681_LCP_END_fc-web.jpg" tvg-id="114592" group-title="Champions T20 Cup, 2024",Engro Dolphins vs Lake City Panthers
 https://dai.google.com/linear/hls/event/v-M8YgCtSWyc99jkE6f5Kw/master.m3u8
-#EXTINF:-1 tvg-name="Urawa Red Diamonds vs Albirex Niigata" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg" tvg-id="114685" group-title="J League 2024",Urawa Red Diamonds vs Albirex Niigata
-https://liveauth.fancode.com/primary/114685_english_hls_5007adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Kashima Antlers vs Machida Zelvia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg" tvg-id="114684" group-title="J League 2024",Kashima Antlers vs Machida Zelvia
-https://liveauth.fancode.com/primary/114684_english_hls_8144adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Vissel Kobe vs Shonan Bellmare" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg" tvg-id="114691" group-title="J League 2024",Vissel Kobe vs Shonan Bellmare
-https://liveauth.fancode.com/primary/114691_english_hls_2022adfreeta-di/index.m3u8
-#EXTINF:-1 tvg-name="Gamba Osaka vs Sanfrecce Hiroshima" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg" tvg-id="114228" group-title="J League 2024",Gamba Osaka vs Sanfrecce Hiroshima
-https://liveauth.fancode.com/primary/114228_english_hls_7110adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-name="Nigeria vs Uganda" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114457_4675_UGA_NIG_fc-web.jpg" tvg-id="114457" group-title="Africa T20I Continent Cup, 2024",Nigeria vs Uganda
+https://dai.google.com/linear/hls/event/wwiCekraQTKXVaNxIVajbw/master.m3u8
 #EXTINF:-1 tvg-name="Melbourne Victory vs Perth Glory" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110933_4567_MLV_PG_fc-web_1728983127404.jpg" tvg-id="110933" group-title="A League 2024-25",Melbourne Victory vs Perth Glory
 https://dai.google.com/linear/hls/event/nkT-64aWRZ6qti-gZdExWQ/master.m3u8
+#EXTINF:-1 tvg-name="Central Coast Mariners vs Sydney FC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110932_4567_CCM_SYD_fc-web_1728983126820.jpg" tvg-id="110932" group-title="A League 2024-25",Central Coast Mariners vs Sydney FC
+https://dai.google.com/linear/hls/event/lBmlvYrbQWqAQYbupIqVAA/master.m3u8
+#EXTINF:-1 tvg-name="Third Race" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/03/F1_Academy_match-card_Old_match-card.jpg" tvg-id="114679" group-title="F1 ACADEMY ABU DHABI 2024",Third Race
+https://d3j81p19iqpews.cloudfront.net/out/v1/32b750c2bab64f26b9959e703e12aba0/index.m3u8
