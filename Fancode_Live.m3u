@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Woodland Steelpan Players vs Scarlet Ibis Scorchers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113560_4653_SLS_SPK_fc-web.jpg" tvg-id="113585" group-title="Dream11 Trinidad T10 Blast, 6th Edition, 2024",Woodland Steelpan Players vs Scarlet Ibis Scorchers
+https://dai.google.com/linear/hls/event/tgmD0Cj5TO-XhgAsvoH0lQ/master.m3u8
 #EXTINF:-1 tvg-name="Bahamas vs Argentina" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="114023" group-title="ICC Men's T20 WC Sub Regional Americas Qualifier",Bahamas vs Argentina
 https://dai.google.com/linear/hls/event/eaERc6DSTPWHX_BgrjwVOg/master.m3u8
 #EXTINF:-1 tvg-name="Panama vs Bermuda" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="114022" group-title="ICC Men's T20 WC Sub Regional Americas Qualifier",Panama vs Bermuda
@@ -7,11 +9,7 @@ https://dai.google.com/linear/hls/event/nXXQ1IONSSm2sAAzYVQuxQ/master.m3u8
 https://dai.google.com/linear/hls/event/3dHDb3YvRSGq_WCIXUJDIw/master.m3u8
 #EXTINF:-1 tvg-name="Western Australia vs New South Wales" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110406_4543_NSW_WAU_fc-Web.jpg" tvg-id="110406" group-title="Sheffield Shield, 2024-25",Western Australia vs New South Wales
 https://dai.google.com/linear/hls/event/dYPtgjf6THWIpOxFeOPajw/master.m3u8
-#EXTINF:-1 tvg-name="Rwanda vs Botswana" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114458_4675_RWA_BOT_fc-web.jpg" tvg-id="114458" group-title="Africa T20I Continent Cup, 2024",Rwanda vs Botswana
-https://dai.google.com/linear/hls/event/YJtNv7rMSKSRYfcR1P0wmg/master.m3u8
-#EXTINF:-1 tvg-name="Italy vs Spain" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114620_4682_ITA_SPA_fc-Web.jpg" tvg-id="114620" group-title="ECI Spain, 2024",Italy vs Spain
-https://dai.google.com/linear/hls/event/DPJVQ8sTT_i2yOkobcUMag/master.m3u8
 #EXTINF:-1 tvg-name="Bangladesh vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-ODI--old-match-card.png" tvg-id="112346" group-title="Bangladesh tour of West Indies, 2024",Bangladesh vs West Indies
 https://dai.google.com/linear/hls/event/zbBdIh3gQjqsHgPqOw_T8g/master.m3u8
-#EXTINF:-1 tvg-name="Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-Abu-Dhabi-GP-OLD.jpg" tvg-id="95278" group-title="F1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2024",Race
-https://dai.google.com/linear/hls/event/s6bMVy-uTgm2IM97EHoq4w/master.m3u8
+#EXTINF:-1 tvg-name="West Bromwich Albion vs Sheffield United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109893_4352_WBA_SHF_fc-web.jpg" tvg-id="109893" group-title="EFL Championship 2024-25",West Bromwich Albion vs Sheffield United
+https://dai.google.com/linear/hls/event/bYapoKDUQC-xKDPlJdm_XA/master.m3u8
