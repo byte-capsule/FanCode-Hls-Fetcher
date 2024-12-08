@@ -5,13 +5,15 @@ https://dai.google.com/linear/hls/event/LjX9K6vwRb-liOsecz3-dg/master.m3u8
 https://dai.google.com/linear/hls/event/3dHDb3YvRSGq_WCIXUJDIw/master.m3u8
 #EXTINF:-1 tvg-name="Western Australia vs New South Wales" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110406_4543_NSW_WAU_fc-Web.jpg" tvg-id="110406" group-title="Sheffield Shield, 2024-25",Western Australia vs New South Wales
 https://dai.google.com/linear/hls/event/dYPtgjf6THWIpOxFeOPajw/master.m3u8
-#EXTINF:-1 tvg-name="Engro Dolphins vs Lake City Panthers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114592_4681_LCP_END_fc-web.jpg" tvg-id="114592" group-title="Champions T20 Cup, 2024",Engro Dolphins vs Lake City Panthers
-https://dai.google.com/linear/hls/event/v-M8YgCtSWyc99jkE6f5Kw/master.m3u8
 #EXTINF:-1 tvg-name="Nigeria vs Uganda" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114457_4675_UGA_NIG_fc-web.jpg" tvg-id="114457" group-title="Africa T20I Continent Cup, 2024",Nigeria vs Uganda
 https://dai.google.com/linear/hls/event/wwiCekraQTKXVaNxIVajbw/master.m3u8
+#EXTINF:-1 tvg-name="Engro Dolphins vs Lake City Panthers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114592_4681_LCP_END_fc-web.jpg" tvg-id="114592" group-title="Champions T20 Cup, 2024",Engro Dolphins vs Lake City Panthers
+https://dai.google.com/linear/hls/event/v-M8YgCtSWyc99jkE6f5Kw/master.m3u8
 #EXTINF:-1 tvg-name="Spain vs Italy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114617_4682_ITA_SPA_fc-Web.jpg" tvg-id="114617" group-title="ECI Spain, 2024",Spain vs Italy
 https://dai.google.com/linear/hls/event/F2uyKAhsTb6HIrqVDDndjQ/master.m3u8
 #EXTINF:-1 tvg-name="Central Coast Mariners vs Sydney FC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110932_4567_CCM_SYD_fc-web_1728983126820.jpg" tvg-id="110932" group-title="A League 2024-25",Central Coast Mariners vs Sydney FC
 https://dai.google.com/linear/hls/event/lBmlvYrbQWqAQYbupIqVAA/master.m3u8
 #EXTINF:-1 tvg-name="Barekuri FC vs North East Frontier Railways SA" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg" tvg-id="113835" group-title="2nd Protech Guwahati Premier League 2024",Barekuri FC vs North East Frontier Railways SA
 https://dai.google.com/linear/hls/event/4MbitF3LRUiwfBboV5ID_w/master.m3u8
+#EXTINF:-1 tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/nedbank-golf-challenge_match-card.jpg" tvg-id="114575" group-title="NedBank Golf Challenge",Day 4
+https://dai.google.com/linear/hls/event/JjJwyoZHQ1O1Iwg800SUuQ/master.m3u8

@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 8,
-  "last_upaded": "08-12-2024 on 2:28:30 PM \ud83c\udf1e",
+  "total_mathes": 9,
+  "last_upaded": "08-12-2024 on 2:46:28 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -42,18 +42,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Champions T20 Cup, 2024",
-      "match_id": 114592,
-      "match_name": "Engro Dolphins vs Lake City Panthers",
-      "team_1": "Engro Dolphins",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-END@2x.png",
-      "team_2": "Lake City Panthers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LCP@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114592_4681_LCP_END_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/v-M8YgCtSWyc99jkE6f5Kw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "Africa T20I Continent Cup, 2024",
       "match_id": 114457,
       "match_name": "Nigeria vs Uganda",
@@ -63,6 +51,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UGN@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/114457_4675_UGA_NIG_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/wwiCekraQTKXVaNxIVajbw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Champions T20 Cup, 2024",
+      "match_id": 114592,
+      "match_name": "Engro Dolphins vs Lake City Panthers",
+      "team_1": "Engro Dolphins",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-END@2x.png",
+      "team_2": "Lake City Panthers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LCP@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114592_4681_LCP_END_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/v-M8YgCtSWyc99jkE6f5Kw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -99,6 +99,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NEFR@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/4MbitF3LRUiwfBboV5ID_w/master.m3u8"
+    },
+    {
+      "event_catagory": "golf",
+      "event_name": "NedBank Golf Challenge",
+      "match_id": 114575,
+      "match_name": "Day 4",
+      "team_1": "Day 4",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-NGC@2x.png",
+      "team_2": "Gary Player CC, Sun City, South Africa",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/nedbank-golf-challenge_match-card.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/JjJwyoZHQ1O1Iwg800SUuQ/master.m3u8"
     }
   ]
 }
