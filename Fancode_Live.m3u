@@ -1,10 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Panama vs Bermuda" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="114022" group-title="ICC Men's T20 WC Sub Regional Americas Qualifier",Panama vs Bermuda
+https://dai.google.com/linear/hls/event/nXXQ1IONSSm2sAAzYVQuxQ/master.m3u8
 #EXTINF:-1 tvg-name="South Australia vs Tasmania" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110408_4543_TAS_SAU_fc-Web.jpg" tvg-id="110408" group-title="Sheffield Shield, 2024-25",South Australia vs Tasmania
 https://dai.google.com/linear/hls/event/3dHDb3YvRSGq_WCIXUJDIw/master.m3u8
 #EXTINF:-1 tvg-name="Western Australia vs New South Wales" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110406_4543_NSW_WAU_fc-Web.jpg" tvg-id="110406" group-title="Sheffield Shield, 2024-25",Western Australia vs New South Wales
 https://dai.google.com/linear/hls/event/dYPtgjf6THWIpOxFeOPajw/master.m3u8
 #EXTINF:-1 tvg-name="Rwanda vs Botswana" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114458_4675_RWA_BOT_fc-web.jpg" tvg-id="114458" group-title="Africa T20I Continent Cup, 2024",Rwanda vs Botswana
 https://dai.google.com/linear/hls/event/YJtNv7rMSKSRYfcR1P0wmg/master.m3u8
+#EXTINF:-1 tvg-name="Bangladesh vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-ODI--old-match-card.png" tvg-id="112346" group-title="Bangladesh tour of West Indies, 2024",Bangladesh vs West Indies
+https://dai.google.com/linear/hls/event/zbBdIh3gQjqsHgPqOw_T8g/master.m3u8
 #EXTINF:-1 tvg-name="Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-Abu-Dhabi-GP-OLD.jpg" tvg-id="95278" group-title="F1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2024",Race
 https://dai.google.com/linear/hls/event/s6bMVy-uTgm2IM97EHoq4w/master.m3u8
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/nedbank-golf-challenge_match-card.jpg" tvg-id="114575" group-title="NedBank Golf Challenge",Day 4

@@ -1,9 +1,21 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "08-12-2024 on 7:13:44 PM \ud83c\udf19",
+  "total_mathes": 7,
+  "last_upaded": "08-12-2024 on 7:35:27 PM \ud83c\udf19",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC Men's T20 WC Sub Regional Americas Qualifier",
+      "match_id": 114022,
+      "match_name": "Panama vs Bermuda",
+      "team_1": "Panama",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PANA@2x.png",
+      "team_2": "Bermuda",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRM@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/nXXQ1IONSSm2sAAzYVQuxQ/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "Sheffield Shield, 2024-25",
@@ -39,6 +51,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BOTS@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/114458_4675_RWA_BOT_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/YJtNv7rMSKSRYfcR1P0wmg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Bangladesh tour of West Indies, 2024",
+      "match_id": 112346,
+      "match_name": "Bangladesh vs West Indies",
+      "team_1": "Bangladesh",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
+      "team_2": "West Indies",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-ODI--old-match-card.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/zbBdIh3gQjqsHgPqOw_T8g/master.m3u8"
     },
     {
       "event_catagory": "formula1",
