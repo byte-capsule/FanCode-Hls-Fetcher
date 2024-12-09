@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "09-12-2024 on 0:55:55 PM \ud83c\udf1e",
+  "total_mathes": 3,
+  "last_upaded": "09-12-2024 on 1:26:44 PM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Ireland Women tour of Bangladesh, 2024",
-      "match_id": 113505,
-      "match_name": "Bangladesh Women vs Ireland Women",
-      "team_1": "Bangladesh Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
-      "team_2": "Ireland Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-Women-Tour-of-Bangladesh,-T20Is-2024-old-match-card--(1).png",
-      "stream_link": "https://dai.google.com/linear/hls/event/c7c87-xNSKC00guwEgjBbg/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Sheffield Shield, 2024-25",
@@ -30,18 +18,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Sheffield Shield, 2024-25",
-      "match_id": 110406,
-      "match_name": "Western Australia vs New South Wales",
-      "team_1": "Western Australia",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAU@2x.png",
-      "team_2": "New South Wales",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSW@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110406_4543_NSW_WAU_fc-Web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/dYPtgjf6THWIpOxFeOPajw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "Champions T20 Cup, 2024",
       "match_id": 114593,
       "match_name": "ABL Stallions vs Nurpur Lions",
@@ -51,6 +27,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NUR@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/114593_4681_AST_NUR_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/6JbpE9biQF6dMBfgJWzhGQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Africa T20I Continent Cup, 2024",
+      "match_id": 114459,
+      "match_name": "Uganda vs Botswana",
+      "team_1": "Uganda",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UGN@2x.png",
+      "team_2": "Botswana",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BOTS@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114459_4675_BOT_UGA_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/6HRgBx0HSeq5ZRzPjcrtLQ/master.m3u8"
     }
   ]
 }
