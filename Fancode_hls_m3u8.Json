@@ -2,20 +2,8 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 3,
-  "last_upaded": "09-12-2024 on 7:53:12 PM \ud83c\udf19",
+  "last_upaded": "09-12-2024 on 8:23:43 PM \ud83c\udf19",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "European Cricket Championship-W, 2024",
-      "match_id": 114638,
-      "match_name": "Austria Women vs Germany Women",
-      "team_1": "Austria Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUST@2x.png",
-      "team_2": "Germany Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GER@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114638_4684_GER-W_AUT-W_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/1_0AEwkKSHC7liBT4gqr1w/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Africa T20I Continent Cup, 2024",
@@ -39,6 +27,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RBS@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/SB-Memorial-Cup-old-match-card-op-2.png",
       "stream_link": "https://dai.google.com/linear/hls/event/l1p65R48Rsu3iayQiioXlw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "SB Memorial Cup",
+      "match_id": 115073,
+      "match_name": "Phoenix vs Red Wings",
+      "team_1": "Phoenix",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PNS@2x.png",
+      "team_2": "Red Wings",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RW@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/SB-Memorial-Cup-old-match-card.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/cmqD85_XRcyjrpDazpVl8Q/master.m3u8"
     }
   ]
 }

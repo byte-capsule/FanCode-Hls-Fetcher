@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Austria Women vs Germany Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114638_4684_GER-W_AUT-W_fc-web.jpg" tvg-id="114638" group-title="European Cricket Championship-W, 2024",Austria Women vs Germany Women
-https://dai.google.com/linear/hls/event/1_0AEwkKSHC7liBT4gqr1w/master.m3u8
 #EXTINF:-1 tvg-name="Nigeria vs Rwanda" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114460_4675_NIG_RWA_fc-web.jpg" tvg-id="114460" group-title="Africa T20I Continent Cup, 2024",Nigeria vs Rwanda
 https://dai.google.com/linear/hls/event/bNKTkyw0RKWP_iVoic9bUw/master.m3u8
 #EXTINF:-1 tvg-name="Avenida Titans vs Raghubansh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SB-Memorial-Cup-old-match-card-op-2.png" tvg-id="115072" group-title="SB Memorial Cup",Avenida Titans vs Raghubansh
 https://dai.google.com/linear/hls/event/l1p65R48Rsu3iayQiioXlw/master.m3u8
+#EXTINF:-1 tvg-name="Phoenix vs Red Wings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SB-Memorial-Cup-old-match-card.png" tvg-id="115073" group-title="SB Memorial Cup",Phoenix vs Red Wings
+https://dai.google.com/linear/hls/event/cmqD85_XRcyjrpDazpVl8Q/master.m3u8
