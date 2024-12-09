@@ -2,20 +2,8 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 3,
-  "last_upaded": "09-12-2024 on 6:50:23 PM \ud83c\udf19",
+  "last_upaded": "09-12-2024 on 7:33:11 PM \ud83c\udf19",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Africa T20I Continent Cup, 2024",
-      "match_id": 114460,
-      "match_name": "Nigeria vs Rwanda",
-      "team_1": "Nigeria",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NIGE@2x.png",
-      "team_2": "Rwanda",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RWA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114460_4675_NIG_RWA_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/bNKTkyw0RKWP_iVoic9bUw/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "European Cricket Championship-W, 2024",
@@ -27,6 +15,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GER@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/114638_4684_GER-W_AUT-W_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/1_0AEwkKSHC7liBT4gqr1w/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Africa T20I Continent Cup, 2024",
+      "match_id": 114460,
+      "match_name": "Nigeria vs Rwanda",
+      "team_1": "Nigeria",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NIGE@2x.png",
+      "team_2": "Rwanda",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RWA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114460_4675_NIG_RWA_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/bNKTkyw0RKWP_iVoic9bUw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
