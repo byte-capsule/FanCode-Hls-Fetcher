@@ -1,9 +1,21 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 2,
-  "last_upaded": "09-12-2024 on 1:55:00 PM \ud83c\udf1e",
+  "total_mathes": 4,
+  "last_upaded": "09-12-2024 on 2:32:59 PM \ud83c\udf1e",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "Africa T20I Continent Cup, 2024",
+      "match_id": 114459,
+      "match_name": "Uganda vs Botswana",
+      "team_1": "Uganda",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UGN@2x.png",
+      "team_2": "Botswana",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BOTS@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114459_4675_BOT_UGA_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/6HRgBx0HSeq5ZRzPjcrtLQ/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "Champions T20 Cup, 2024",
@@ -18,15 +30,27 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Africa T20I Continent Cup, 2024",
-      "match_id": 114459,
-      "match_name": "Uganda vs Botswana",
-      "team_1": "Uganda",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UGN@2x.png",
-      "team_2": "Botswana",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BOTS@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114459_4675_BOT_UGA_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/6HRgBx0HSeq5ZRzPjcrtLQ/master.m3u8"
+      "event_name": "European Cricket Championship-W, 2024",
+      "match_id": 114629,
+      "match_name": "Austria Women vs Spain Women",
+      "team_1": "Austria Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUST@2x.png",
+      "team_2": "Spain Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESP@2x.png",
+      "banner": "https://www.fancode.com/aig/match/v1/114629_CASACARDS_APP.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/VjlLG8_GT5mjDQ1NtUtQmQ/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "2nd Protech Guwahati Premier League 2024",
+      "match_id": 113837,
+      "match_name": "FC Green Valley vs Sports Authority of India",
+      "team_1": "FC Green Valley",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEF-FT1@2x.png",
+      "team_2": "Sports Authority of India",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEF-FT5@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/7QgEylknR9Ot8hLUFez2NQ/master.m3u8"
     }
   ]
 }
