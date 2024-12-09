@@ -1,9 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Titou Gorge Splashers vs Barana Aute Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v2.jpg" tvg-id="114147" group-title="Dream11 Nature Isle T10, 6th Edition, 2024",Titou Gorge Splashers vs Barana Aute Warriors
 https://dai.google.com/linear/hls/event/Te4Rk3D-TcmPF3K2SnFICw/master.m3u8
-#EXTINF:-1 tvg-name="Spain Women vs Czechia Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114632_4684_ESP-W_CZE-W_fc-web.jpg" tvg-id="114632" group-title="European Cricket Championship-W, 2024",Spain Women vs Czechia Women
-https://dai.google.com/linear/hls/event/gPlBE7MJT6yIa41Us4NYcg/master.m3u8
-#EXTINF:-1 tvg-name="Avenida Titans vs Raghubansh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SB-Memorial-Cup-old-match-card-op-2.png" tvg-id="115072" group-title="SB Memorial Cup",Avenida Titans vs Raghubansh
-https://dai.google.com/linear/hls/event/l1p65R48Rsu3iayQiioXlw/master.m3u8
 #EXTINF:-1 tvg-name="Phoenix vs Red Wings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SB-Memorial-Cup-old-match-card.png" tvg-id="115073" group-title="SB Memorial Cup",Phoenix vs Red Wings
 https://dai.google.com/linear/hls/event/cmqD85_XRcyjrpDazpVl8Q/master.m3u8
+#EXTINF:-1 tvg-name="Avenida Titans vs Raghubansh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SB-Memorial-Cup-old-match-card-op-2.png" tvg-id="115072" group-title="SB Memorial Cup",Avenida Titans vs Raghubansh
+https://dai.google.com/linear/hls/event/l1p65R48Rsu3iayQiioXlw/master.m3u8
