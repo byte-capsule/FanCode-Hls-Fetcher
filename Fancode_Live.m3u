@@ -1,7 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Bangladesh Women vs Ireland Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Women-Tour-of-Bangladesh,-T20Is-2024-old-match-card--(1).png" tvg-id="113505" group-title="Ireland Women tour of Bangladesh, 2024",Bangladesh Women vs Ireland Women
+https://dai.google.com/linear/hls/event/c7c87-xNSKC00guwEgjBbg/master.m3u8
 #EXTINF:-1 tvg-name="South Australia vs Tasmania" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110408_4543_TAS_SAU_fc-Web.jpg" tvg-id="110408" group-title="Sheffield Shield, 2024-25",South Australia vs Tasmania
 https://dai.google.com/linear/hls/event/3dHDb3YvRSGq_WCIXUJDIw/master.m3u8
 #EXTINF:-1 tvg-name="Western Australia vs New South Wales" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110406_4543_NSW_WAU_fc-Web.jpg" tvg-id="110406" group-title="Sheffield Shield, 2024-25",Western Australia vs New South Wales
 https://dai.google.com/linear/hls/event/dYPtgjf6THWIpOxFeOPajw/master.m3u8
-#EXTINF:-1 tvg-name="Bangladesh Women vs Ireland Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Women-Tour-of-Bangladesh,-T20Is-2024-old-match-card--(1).png" tvg-id="113505" group-title="Ireland Women tour of Bangladesh, 2024",Bangladesh Women vs Ireland Women
-https://dai.google.com/linear/hls/event/c7c87-xNSKC00guwEgjBbg/master.m3u8
