@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Seven United vs Madora" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SB-Memorial-Cup-old-match-card.png" tvg-id="115075" group-title="SB Memorial Cup",Seven United vs Madora
 https://dai.google.com/linear/hls/event/V5FmmTH5QFips1eMzjhIQA/master.m3u8
-#EXTINF:-1 tvg-name="Czechia Women vs Jersey Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114636_4684_JER-W_CZE-W_fc-web.jpg" tvg-id="114636" group-title="European Cricket Championship-W, 2024",Czechia Women vs Jersey Women
-https://dai.google.com/linear/hls/event/qvSoOCRwSz-NpC9ADObA7Q/master.m3u8
 #EXTINF:-1 tvg-name="Bangladesh vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-ODI--old-match-card.png" tvg-id="112347" group-title="Bangladesh tour of West Indies, 2024",Bangladesh vs West Indies
 https://dai.google.com/linear/hls/event/qH6T413WRemL0BlwPzJLow/master.m3u8
 #EXTINF:-1 tvg-name="Bahamas vs Belize" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="114027" group-title="ICC Men's T20 WC Sub Regional Americas Qualifier",Bahamas vs Belize
