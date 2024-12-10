@@ -1,13 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Afghan Tigers vs Cochin Hurricanes" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112429_4616_AGT_COH_fc-web_1731569490099.jpg" tvg-id="112429" group-title="KCC T20 Challengers A League, 2024-25",Afghan Tigers vs Cochin Hurricanes
+https://dai.google.com/linear/hls/event/aBgVHU9MSe27XqmsFwRiYA/master.m3u8
 #EXTINF:-1 tvg-name="Barana Aute Warriors vs Sari Sari Sunrisers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v2.jpg" tvg-id="114149" group-title="Dream11 Nature Isle T10, 6th Edition, 2024",Barana Aute Warriors vs Sari Sari Sunrisers
 https://dai.google.com/linear/hls/event/8DNd8R0QTVCuvL36MVuByg/master.m3u8
 #EXTINF:-1 tvg-name="Seven United vs Madora" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SB-Memorial-Cup-old-match-card.png" tvg-id="115075" group-title="SB Memorial Cup",Seven United vs Madora
 https://dai.google.com/linear/hls/event/V5FmmTH5QFips1eMzjhIQA/master.m3u8
 #EXTINF:-1 tvg-name="Bangladesh vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-ODI--old-match-card.png" tvg-id="112347" group-title="Bangladesh tour of West Indies, 2024",Bangladesh vs West Indies
 https://dai.google.com/linear/hls/event/qH6T413WRemL0BlwPzJLow/master.m3u8
-#EXTINF:-1 tvg-name="Bahamas vs Belize" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="114027" group-title="ICC Men's T20 WC Sub Regional Americas Qualifier",Bahamas vs Belize
-https://dai.google.com/linear/hls/event/jXzvVFtLRsi0oSMrtiHwHg/master.m3u8
-#EXTINF:-1 tvg-name="Cayman Islands vs Suriname" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="114026" group-title="ICC Men's T20 WC Sub Regional Americas Qualifier",Cayman Islands vs Suriname
-https://dai.google.com/linear/hls/event/0vqQV4HoSP-Vl_aYQYi0JA/master.m3u8
 #EXTINF:-1 tvg-name="Foolad Sirjan Iranian vs Cucine Lube Civitanova" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115090" group-title="Men's Club World Champs 2024",Foolad Sirjan Iranian vs Cucine Lube Civitanova
 https://dai.google.com/linear/hls/event/c-Aunq7DSBWSKrLvcAnYuw/master.m3u8
