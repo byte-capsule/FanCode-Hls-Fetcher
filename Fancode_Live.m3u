@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Afghan Tigers vs Cochin Hurricanes" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112429_4616_AGT_COH_fc-web_1731569490099.jpg" tvg-id="112429" group-title="KCC T20 Challengers A League, 2024-25",Afghan Tigers vs Cochin Hurricanes
 https://dai.google.com/linear/hls/event/aBgVHU9MSe27XqmsFwRiYA/master.m3u8
-#EXTINF:-1 tvg-name="Barana Aute Warriors vs Sari Sari Sunrisers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v2.jpg" tvg-id="114149" group-title="Dream11 Nature Isle T10, 6th Edition, 2024",Barana Aute Warriors vs Sari Sari Sunrisers
-https://dai.google.com/linear/hls/event/8DNd8R0QTVCuvL36MVuByg/master.m3u8
 #EXTINF:-1 tvg-name="Panama vs Argentina" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="114029" group-title="ICC Men's T20 WC Sub Regional Americas Qualifier",Panama vs Argentina
 https://dai.google.com/linear/hls/event/O-2BeunLRQ-H-bOotYsyrA/master.m3u8
 #EXTINF:-1 tvg-name="Mexico vs Bermuda" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="114028" group-title="ICC Men's T20 WC Sub Regional Americas Qualifier",Mexico vs Bermuda
