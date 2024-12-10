@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 2,
-  "last_upaded": "10-12-2024 on 1:41:06 PM \ud83c\udf1e",
+  "total_mathes": 3,
+  "last_upaded": "10-12-2024 on 1:53:51 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,6 +27,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UMA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/114594_4681_END_UMA_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/90LpoBRpQ2aCU3LYfrwGOA/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "2nd Protech Guwahati Premier League 2024",
+      "match_id": 113839,
+      "match_name": "DBI SC vs Gplus Athletic",
+      "team_1": "DBI SC",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-DBI@2x.png",
+      "team_2": "Gplus Athletic",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GLPS@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/O9IZk7wYTLSVf3nn2rY4-w/master.m3u8"
     }
   ]
 }
