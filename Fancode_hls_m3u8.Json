@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "10-12-2024 on 3:57:27 PM \ud83c\udf1e",
+  "total_mathes": 2,
+  "last_upaded": "10-12-2024 on 4:29:07 PM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Nepal Premier League, 2024",
-      "match_id": 113740,
-      "match_name": "Pokhara Avengers vs Karnali Yaks",
-      "team_1": "Pokhara Avengers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PKA@2x.png",
-      "team_2": "Karnali Yaks",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KNYN@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113740_4657_KNY_PKA_fc-Web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/9TjB8p7ZSq6xViuM4bjb1Q/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Champions T20 Cup, 2024",
@@ -31,26 +19,14 @@
     {
       "event_catagory": "cricket",
       "event_name": "European Cricket Championship-W, 2024",
-      "match_id": 114633,
-      "match_name": "Germany Women vs Jersey Women",
-      "team_1": "Germany Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GER@2x.png",
-      "team_2": "Jersey Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JERSE@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114633_4684_GER-W_JER-W_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/DZlyxtR6TuOwFx9XDbjeLQ/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "2nd Protech Guwahati Premier League 2024",
-      "match_id": 113839,
-      "match_name": "DBI SC vs Gplus Athletic",
-      "team_1": "DBI SC",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-DBI@2x.png",
-      "team_2": "Gplus Athletic",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GLPS@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/O9IZk7wYTLSVf3nn2rY4-w/master.m3u8"
+      "match_id": 114634,
+      "match_name": "Czechia Women vs Austria Women",
+      "team_1": "Czechia Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CZR@2x.png",
+      "team_2": "Austria Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUST@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114634_4684_AUT-W_CZE-W_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/-HpDOiHKSpuBxp8KH8CkqA/master.m3u8"
     }
   ]
 }
