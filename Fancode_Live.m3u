@@ -1,3 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Sada Cruzeiro vs Ciudad Voley" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115092" group-title="Men's Club World Champs 2024",Sada Cruzeiro vs Ciudad Voley
-https://dai.google.com/linear/hls/event/m9CKTXzzRDqK-YOXC5hYNA/master.m3u8
+#EXTINF:-1 tvg-name="Namibia Women vs Malaysia Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Namibia-Women's-tour-of-Malaysia-old-match-card.png" tvg-id="114915" group-title="Namibia Women tour of Malaysia, 2024",Namibia Women vs Malaysia Women
+https://dai.google.com/linear/hls/event/UFpvqTmxSum2RxsJLKPhEg/master.m3u8
+#EXTINF:-1 tvg-name="Dhaka Metropolis vs Barisal Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114918_4691_DM_BD_fc-web_1733857501914.jpg" tvg-id="114918" group-title="National Cricket League T20, 2024",Dhaka Metropolis vs Barisal Division
+https://dai.google.com/linear/hls/event/2xnNIdxcTgCMpYAhZSoo8g/master.m3u8
+#EXTINF:-1 tvg-name="Sylhet Division vs Dhaka Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114917_4691_DD_SD_fc-web_1733857501943.jpg" tvg-id="114917" group-title="National Cricket League T20, 2024",Sylhet Division vs Dhaka Division
+Free Trial attempt unsuccessful......it requires Premium Account
+#EXTINF:-1 tvg-name="Sudurpaschim Royals vs Janakpur Bolts" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113741_4657_JKB_SPR_fc-Web.jpg" tvg-id="113741" group-title="Nepal Premier League, 2024",Sudurpaschim Royals vs Janakpur Bolts
+https://dai.google.com/linear/hls/event/5BLvuKMtQxGYHAIOfa0F5Q/master.m3u8
