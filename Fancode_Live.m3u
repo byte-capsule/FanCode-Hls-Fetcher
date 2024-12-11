@@ -1,11 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Kathmandu Gurkhas vs Lumbini Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113742_4657_KMG_LBL_fc-Web.jpg" tvg-id="113742" group-title="Nepal Premier League, 2024",Kathmandu Gurkhas vs Lumbini Lions
-https://dai.google.com/linear/hls/event/M8J6ccg3Q9-EOnUVBo0myg/master.m3u8
 #EXTINF:-1 tvg-name="Chattogram Division vs Rangpur Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114920_4691_RD_CD_fc-web_1733857501957.jpg" tvg-id="114920" group-title="National Cricket League T20, 2024",Chattogram Division vs Rangpur Division
 https://dai.google.com/linear/hls/event/MDc6aBlsQw-AlVxreIIAoQ/master.m3u8
-#EXTINF:-1 tvg-name="Khulna Division vs Rajshahi Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114919_4691_KD_RAD_fc-web_1733857501979.jpg" tvg-id="114919" group-title="National Cricket League T20, 2024",Khulna Division vs Rajshahi Division
-https://dai.google.com/linear/hls/event/hSK1b5-RTf-_4s96OJDzIA/master.m3u8
-#EXTINF:-1 tvg-name="Rwanda vs Botswana" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114461_4675_RWA_BOT_fc-web.jpg" tvg-id="114461" group-title="Africa T20I Continent Cup, 2024",Rwanda vs Botswana
-https://dai.google.com/linear/hls/event/sVfp7271SsmHinHMYFYJIg/master.m3u8
 #EXTINF:-1 tvg-name="Austria Women vs Jersey Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114631_4684_JER-W_AUT-W_fc-web_1733736411919.jpg" tvg-id="114631" group-title="European Cricket Championship-W, 2024",Austria Women vs Jersey Women
 https://dai.google.com/linear/hls/event/7mT-PfWdR-m4WSkELmFX6Q/master.m3u8
+#EXTINF:-1 tvg-name="Hambantota Bangla Tigers vs Jaffna Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113989_4663_JT_HBT_fc-web_1733813070495.jpg" tvg-id="113989" group-title="Lanka T10 Super League, 2024",Hambantota Bangla Tigers vs Jaffna Titans
+https://dai.google.com/linear/hls/event/seV9KEnKSZ6Tkalba31unA/master.m3u8
+#EXTINF:-1 tvg-name="Oil India Limited vs Sports Authority of India" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2_1732617283192.jpg" tvg-id="113842" group-title="2nd Protech Guwahati Premier League 2024",Oil India Limited vs Sports Authority of India
+https://dai.google.com/linear/hls/event/3zO4lx7TSSqwq_TjZEd_oQ/master.m3u8
