@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 8,
-  "last_upaded": "11-12-2024 on 8:57:43 PM \ud83c\udf19",
+  "total_mathes": 7,
+  "last_upaded": "11-12-2024 on 10:33:27 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -30,51 +30,27 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "European Cricket Championship-W, 2024",
-      "match_id": 114640,
-      "match_name": "Czechia Women vs Germany Women",
-      "team_1": "Czechia Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CZR@2x.png",
-      "team_2": "Germany Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GER@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114640_4684_CZE-W_GER-W_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/s0MJN87TT4WlATtm7hVm5w/master.m3u8"
+      "event_name": "Dream11 Nature Isle T10, 6th Edition, 2024",
+      "match_id": 114151,
+      "match_name": "Titou Gorge Splashers vs The Valley Hikers",
+      "team_1": "Titou Gorge Splashers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TSPL@2x.png",
+      "team_2": "The Valley Hikers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VHIK@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v2.jpg",
+      "stream_link": "Free Trial attempt unsuccessful......it requires Premium Account"
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Africa T20I Continent Cup, 2024",
-      "match_id": 114462,
-      "match_name": "Uganda vs Nigeria",
-      "team_1": "Uganda",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UGN@2x.png",
-      "team_2": "Nigeria",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NIGE@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114462_4675_UGA_NIG_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/6l__UgEpQ7es3QaWpIsV5w/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Afghanistan tour of Zimbabwe, 2024-25",
-      "match_id": 113539,
-      "match_name": "Afghanistan vs Zimbabwe",
-      "team_1": "Afghanistan",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFG@2x.png",
-      "team_2": "Zimbabwe",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_old.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/QDifOVLUQri0fdjSVPRDXQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "SB Memorial Cup",
-      "match_id": 115076,
-      "match_name": "Avenida Titans vs Seven United",
-      "team_1": "Avenida Titans",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ATS@2x.png",
-      "team_2": "Seven United",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SU@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/SB-Memorial-Cup-old-match-card-op-2.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/frITCReqRxuDVFW5nQVulg/master.m3u8"
+      "event_name": "Lanka T10 Super League, 2024",
+      "match_id": 113991,
+      "match_name": "Kandy Bolts vs Galle Marvels",
+      "team_1": "Kandy Bolts",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBL@2x.png",
+      "team_2": "Galle Marvels",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GM@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113991_4663_KB_GM_fc-web_1733813070483.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/RrxMCG0cSDGbTR8kb1t6mw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -89,16 +65,28 @@
       "stream_link": "https://dai.google.com/linear/hls/event/e24HDvhOTwuyHMv9O1Ciog/master.m3u8"
     },
     {
+      "event_catagory": "cricket",
+      "event_name": "SB Memorial Cup",
+      "match_id": 115076,
+      "match_name": "Avenida Titans vs Seven United",
+      "team_1": "Avenida Titans",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ATS@2x.png",
+      "team_2": "Seven United",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SU@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/SB-Memorial-Cup-old-match-card-op-2.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/frITCReqRxuDVFW5nQVulg/master.m3u8"
+    },
+    {
       "event_catagory": "volleyball",
       "event_name": "Men's Club World Champs 2024",
-      "match_id": 115093,
-      "match_name": "Foolad Sirjan Iranian vs Al Ahly SC",
-      "team_1": "Foolad Sirjan Iranian",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-FSI@2x.png",
-      "team_2": "Al Ahly SC",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-AHL@2x.png",
+      "match_id": 115094,
+      "match_name": "Trentino Itas vs Ciudad Voley",
+      "team_1": "Trentino Itas",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-TISV@2x.png",
+      "team_2": "Ciudad Voley",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-CV@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/7SImFeWuQRiF9hN8yiltow/master.m3u8"
+      "stream_link": "https://dai.google.com/linear/hls/event/b_DFAk-JRl-zQNxJ53C7-Q/master.m3u8"
     }
   ]
 }
