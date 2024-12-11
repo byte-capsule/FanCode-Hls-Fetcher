@@ -1,9 +1,33 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "11-12-2024 on 6:49:18 PM \ud83c\udf19",
+  "total_mathes": 8,
+  "last_upaded": "11-12-2024 on 7:32:27 PM \ud83c\udf19",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC Men's T20 WC Sub Regional Americas Qualifier",
+      "match_id": 114031,
+      "match_name": "Bahamas vs Panama",
+      "team_1": "Bahamas",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BH@2x.png",
+      "team_2": "Panama",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PANA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/qZIUCaD4QnGppJNUdV_FGQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC Men's T20 WC Sub Regional Americas Qualifier",
+      "match_id": 114030,
+      "match_name": "Mexico vs Cayman Islands",
+      "team_1": "Mexico",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MEX@2x.png",
+      "team_2": "Cayman Islands",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CYIS@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/mE0qqDgFQTOcob9woR5EuA/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "European Cricket Championship-W, 2024",
@@ -30,18 +54,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Afghanistan tour of Zimbabwe, 2024-25",
-      "match_id": 113539,
-      "match_name": "Afghanistan vs Zimbabwe",
-      "team_1": "Afghanistan",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFG@2x.png",
-      "team_2": "Zimbabwe",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_old.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/QDifOVLUQri0fdjSVPRDXQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "Lanka T10 Super League, 2024",
       "match_id": 113990,
       "match_name": "Nuwara Eliya Kings vs Colombo Jaguars",
@@ -51,6 +63,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CJ@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/113990_4663_NEK_CJ_fc-web_1733813070590.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/fFHw02fJQ4ycnwOoOkA9wg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Afghanistan tour of Zimbabwe, 2024-25",
+      "match_id": 113539,
+      "match_name": "Afghanistan vs Zimbabwe",
+      "team_1": "Afghanistan",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFG@2x.png",
+      "team_2": "Zimbabwe",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_old.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/QDifOVLUQri0fdjSVPRDXQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
