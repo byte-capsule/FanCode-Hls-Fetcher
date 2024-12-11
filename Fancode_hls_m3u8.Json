@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "11-12-2024 on 3:56:08 PM \ud83c\udf1e",
+  "total_mathes": 5,
+  "last_upaded": "11-12-2024 on 4:27:51 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -54,39 +54,15 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Champions T20 Cup, 2024",
-      "match_id": 114595,
-      "match_name": "Lake City Panthers vs Nurpur Lions",
-      "team_1": "Lake City Panthers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LCP@2x.png",
-      "team_2": "Nurpur Lions",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NUR@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114595_4681_NUR_LCP_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/Rv_suwTYRmK5hYNzoi7x2A/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "European Cricket Championship-W, 2024",
-      "match_id": 114637,
-      "match_name": "Czechia Women vs Spain Women",
-      "team_1": "Czechia Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CZR@2x.png",
-      "team_2": "Spain Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESP@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114637_4684_CZE-W_ESP-W_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/uQxTQMfbSiis-eKHcpzzIg/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "2nd Protech Guwahati Premier League 2024",
-      "match_id": 113841,
-      "match_name": "ASEB Sports Club vs United Chirangduar FC",
-      "team_1": "ASEB Sports Club",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ASEB@2x.png",
-      "team_2": "United Chirangduar FC",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-UCD@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/a2-PucT_Qli9qFuNiU4c_w/master.m3u8"
+      "match_id": 114631,
+      "match_name": "Austria Women vs Jersey Women",
+      "team_1": "Austria Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUST@2x.png",
+      "team_2": "Jersey Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JERSE@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114631_4684_JER-W_AUT-W_fc-web_1733736411919.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/7mT-PfWdR-m4WSkELmFX6Q/master.m3u8"
     }
   ]
 }
