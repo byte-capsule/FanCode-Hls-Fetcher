@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Austria Women vs Jersey Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114631_4684_JER-W_AUT-W_fc-web_1733736411919.jpg" tvg-id="114631" group-title="European Cricket Championship-W, 2024",Austria Women vs Jersey Women
-https://dai.google.com/linear/hls/event/7mT-PfWdR-m4WSkELmFX6Q/master.m3u8
+#EXTINF:-1 tvg-name="Spain Women vs Jersey Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114639_4684_ESP-W_JER-W_fc-web.jpg" tvg-id="114639" group-title="European Cricket Championship-W, 2024",Spain Women vs Jersey Women
+https://dai.google.com/linear/hls/event/VMGoT-fzRY6LwT-v19nWpA/master.m3u8
 #EXTINF:-1 tvg-name="Uganda vs Nigeria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114462_4675_UGA_NIG_fc-web.jpg" tvg-id="114462" group-title="Africa T20I Continent Cup, 2024",Uganda vs Nigeria
 https://dai.google.com/linear/hls/event/6l__UgEpQ7es3QaWpIsV5w/master.m3u8
-#EXTINF:-1 tvg-name="Hambantota Bangla Tigers vs Jaffna Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113989_4663_JT_HBT_fc-web_1733813070495.jpg" tvg-id="113989" group-title="Lanka T10 Super League, 2024",Hambantota Bangla Tigers vs Jaffna Titans
-https://dai.google.com/linear/hls/event/seV9KEnKSZ6Tkalba31unA/master.m3u8
-#EXTINF:-1 tvg-name="Avenida Titans vs Seven United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SB-Memorial-Cup-old-match-card-op-2.png" tvg-id="115076" group-title="SB Memorial Cup",Avenida Titans vs Seven United
-https://dai.google.com/linear/hls/event/frITCReqRxuDVFW5nQVulg/master.m3u8
 #EXTINF:-1 tvg-name="Afghanistan vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_old.jpg" tvg-id="113539" group-title="Afghanistan tour of Zimbabwe, 2024-25",Afghanistan vs Zimbabwe
 https://dai.google.com/linear/hls/event/QDifOVLUQri0fdjSVPRDXQ/master.m3u8
-#EXTINF:-1 tvg-name="Oil India Limited vs Sports Authority of India" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2_1732617283192.jpg" tvg-id="113842" group-title="2nd Protech Guwahati Premier League 2024",Oil India Limited vs Sports Authority of India
-https://dai.google.com/linear/hls/event/3zO4lx7TSSqwq_TjZEd_oQ/master.m3u8
+#EXTINF:-1 tvg-name="Nuwara Eliya Kings vs Colombo Jaguars" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113990_4663_NEK_CJ_fc-web_1733813070590.jpg" tvg-id="113990" group-title="Lanka T10 Super League, 2024",Nuwara Eliya Kings vs Colombo Jaguars
+https://dai.google.com/linear/hls/event/fFHw02fJQ4ycnwOoOkA9wg/master.m3u8
+#EXTINF:-1 tvg-name="Avenida Titans vs Seven United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SB-Memorial-Cup-old-match-card-op-2.png" tvg-id="115076" group-title="SB Memorial Cup",Avenida Titans vs Seven United
+https://dai.google.com/linear/hls/event/frITCReqRxuDVFW5nQVulg/master.m3u8
+#EXTINF:-1 tvg-name="Foolad Sirjan Iranian vs Al Ahly SC" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115093" group-title="Men's Club World Champs 2024",Foolad Sirjan Iranian vs Al Ahly SC
+https://dai.google.com/linear/hls/event/7SImFeWuQRiF9hN8yiltow/master.m3u8
