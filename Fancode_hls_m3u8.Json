@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "11-12-2024 on 11:55:04 PM \ud83c\udf19",
+  "total_mathes": 4,
+  "last_upaded": "12-12-2024 on 00:33:42 AM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -30,15 +30,15 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Dream11 Nature Isle T10, 6th Edition, 2024",
-      "match_id": 114151,
-      "match_name": "Titou Gorge Splashers vs The Valley Hikers",
-      "team_1": "Titou Gorge Splashers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TSPL@2x.png",
-      "team_2": "The Valley Hikers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VHIK@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v2.jpg",
-      "stream_link": "Free Trial attempt unsuccessful......it requires Premium Account"
+      "event_name": "ICC Men's T20 WC Sub Regional Americas Qualifier",
+      "match_id": 114032,
+      "match_name": "Bermuda vs Brazil",
+      "team_1": "Bermuda",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRM@2x.png",
+      "team_2": "Brazil",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/ZvkCUNfhSDeS33k_GhaFjQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -51,30 +51,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RW@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/SB-Memorial-Cup-old-match-card.png",
       "stream_link": "https://dai.google.com/linear/hls/event/e24HDvhOTwuyHMv9O1Ciog/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "SB Memorial Cup",
-      "match_id": 115076,
-      "match_name": "Avenida Titans vs Seven United",
-      "team_1": "Avenida Titans",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ATS@2x.png",
-      "team_2": "Seven United",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SU@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/SB-Memorial-Cup-old-match-card-op-2.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/frITCReqRxuDVFW5nQVulg/master.m3u8"
-    },
-    {
-      "event_catagory": "volleyball",
-      "event_name": "Men's Club World Champs 2024",
-      "match_id": 115094,
-      "match_name": "Trentino Itas vs Ciudad Voley",
-      "team_1": "Trentino Itas",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-TISV@2x.png",
-      "team_2": "Ciudad Voley",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/FC-CV@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/b_DFAk-JRl-zQNxJ53C7-Q/master.m3u8"
     }
   ]
 }
