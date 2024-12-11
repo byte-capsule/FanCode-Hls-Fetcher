@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 8,
-  "last_upaded": "11-12-2024 on 7:53:20 PM \ud83c\udf19",
+  "last_upaded": "11-12-2024 on 8:23:21 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,18 +27,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CYIS@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
       "stream_link": "https://dai.google.com/linear/hls/event/mE0qqDgFQTOcob9woR5EuA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "European Cricket Championship-W, 2024",
-      "match_id": 114639,
-      "match_name": "Spain Women vs Jersey Women",
-      "team_1": "Spain Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESP@2x.png",
-      "team_2": "Jersey Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JERSE@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114639_4684_ESP-W_JER-W_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/VMGoT-fzRY6LwT-v19nWpA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -87,6 +75,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SU@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/SB-Memorial-Cup-old-match-card-op-2.png",
       "stream_link": "https://dai.google.com/linear/hls/event/frITCReqRxuDVFW5nQVulg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "SB Memorial Cup",
+      "match_id": 115077,
+      "match_name": "Nirwana vs Red Wings",
+      "team_1": "Nirwana",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NW@2x.png",
+      "team_2": "Red Wings",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RW@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/SB-Memorial-Cup-old-match-card.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/e24HDvhOTwuyHMv9O1Ciog/master.m3u8"
     },
     {
       "event_catagory": "volleyball",

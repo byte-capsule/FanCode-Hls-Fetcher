@@ -3,8 +3,6 @@
 https://dai.google.com/linear/hls/event/qZIUCaD4QnGppJNUdV_FGQ/master.m3u8
 #EXTINF:-1 tvg-name="Mexico vs Cayman Islands" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="114030" group-title="ICC Men's T20 WC Sub Regional Americas Qualifier",Mexico vs Cayman Islands
 https://dai.google.com/linear/hls/event/mE0qqDgFQTOcob9woR5EuA/master.m3u8
-#EXTINF:-1 tvg-name="Spain Women vs Jersey Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114639_4684_ESP-W_JER-W_fc-web.jpg" tvg-id="114639" group-title="European Cricket Championship-W, 2024",Spain Women vs Jersey Women
-https://dai.google.com/linear/hls/event/VMGoT-fzRY6LwT-v19nWpA/master.m3u8
 #EXTINF:-1 tvg-name="Uganda vs Nigeria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114462_4675_UGA_NIG_fc-web.jpg" tvg-id="114462" group-title="Africa T20I Continent Cup, 2024",Uganda vs Nigeria
 https://dai.google.com/linear/hls/event/6l__UgEpQ7es3QaWpIsV5w/master.m3u8
 #EXTINF:-1 tvg-name="Nuwara Eliya Kings vs Colombo Jaguars" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113990_4663_NEK_CJ_fc-web_1733813070590.jpg" tvg-id="113990" group-title="Lanka T10 Super League, 2024",Nuwara Eliya Kings vs Colombo Jaguars
@@ -13,5 +11,7 @@ https://dai.google.com/linear/hls/event/fFHw02fJQ4ycnwOoOkA9wg/master.m3u8
 https://dai.google.com/linear/hls/event/QDifOVLUQri0fdjSVPRDXQ/master.m3u8
 #EXTINF:-1 tvg-name="Avenida Titans vs Seven United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SB-Memorial-Cup-old-match-card-op-2.png" tvg-id="115076" group-title="SB Memorial Cup",Avenida Titans vs Seven United
 https://dai.google.com/linear/hls/event/frITCReqRxuDVFW5nQVulg/master.m3u8
+#EXTINF:-1 tvg-name="Nirwana vs Red Wings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SB-Memorial-Cup-old-match-card.png" tvg-id="115077" group-title="SB Memorial Cup",Nirwana vs Red Wings
+https://dai.google.com/linear/hls/event/e24HDvhOTwuyHMv9O1Ciog/master.m3u8
 #EXTINF:-1 tvg-name="Foolad Sirjan Iranian vs Al Ahly SC" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115093" group-title="Men's Club World Champs 2024",Foolad Sirjan Iranian vs Al Ahly SC
 https://dai.google.com/linear/hls/event/7SImFeWuQRiF9hN8yiltow/master.m3u8
