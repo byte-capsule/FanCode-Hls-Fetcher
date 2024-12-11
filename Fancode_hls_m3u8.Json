@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 2,
-  "last_upaded": "11-12-2024 on 0:34:58 PM \ud83c\udf1e",
+  "total_mathes": 4,
+  "last_upaded": "11-12-2024 on 0:55:09 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,6 +27,30 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DD-CR5@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/114917_4691_DD_SD_fc-web_1733857501943.jpg",
       "stream_link": "Free Trial attempt unsuccessful......it requires Premium Account"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "National Cricket League T20, 2024",
+      "match_id": 114919,
+      "match_name": "Khulna Division vs Rajshahi Division",
+      "team_1": "Khulna Division",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/KD-CR1@2x.png",
+      "team_2": "Rajshahi Division",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RAD-CR1@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114919_4691_KD_RAD_fc-web_1733857501979.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/hSK1b5-RTf-_4s96OJDzIA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Champions T20 Cup, 2024",
+      "match_id": 114595,
+      "match_name": "Nurpur Lions vs Lake City Panthers",
+      "team_1": "Nurpur Lions",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NUR@2x.png",
+      "team_2": "Lake City Panthers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LCP@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114595_4681_NUR_LCP_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/Rv_suwTYRmK5hYNzoi7x2A/master.m3u8"
     }
   ]
 }
