@@ -1,20 +1,20 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "11-12-2024 on 1:40:52 PM \ud83c\udf1e",
+  "total_mathes": 7,
+  "last_upaded": "11-12-2024 on 2:31:55 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
-      "event_name": "National Cricket League T20, 2024",
-      "match_id": 114919,
-      "match_name": "Khulna Division vs Rajshahi Division",
-      "team_1": "Khulna Division",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/KD-CR1@2x.png",
-      "team_2": "Rajshahi Division",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RAD-CR1@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114919_4691_KD_RAD_fc-web_1733857501979.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/hSK1b5-RTf-_4s96OJDzIA/master.m3u8"
+      "event_name": "Nepal Premier League, 2024",
+      "match_id": 113742,
+      "match_name": "Kathmandu Gurkhas vs Lumbini Lions",
+      "team_1": "Kathmandu Gurkhas",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KMG@2x.png",
+      "team_2": "Lumbini Lions",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LBL@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113742_4657_KMG_LBL_fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/M8J6ccg3Q9-EOnUVBo0myg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -30,15 +30,27 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Nepal Premier League, 2024",
-      "match_id": 113742,
-      "match_name": "Kathmandu Gurkhas vs Lumbini Lions",
-      "team_1": "Kathmandu Gurkhas",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KMG@2x.png",
-      "team_2": "Lumbini Lions",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LBL@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113742_4657_KMG_LBL_fc-Web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/M8J6ccg3Q9-EOnUVBo0myg/master.m3u8"
+      "event_name": "National Cricket League T20, 2024",
+      "match_id": 114919,
+      "match_name": "Khulna Division vs Rajshahi Division",
+      "team_1": "Khulna Division",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/KD-CR1@2x.png",
+      "team_2": "Rajshahi Division",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RAD-CR1@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114919_4691_KD_RAD_fc-web_1733857501979.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/hSK1b5-RTf-_4s96OJDzIA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Africa T20I Continent Cup, 2024",
+      "match_id": 114461,
+      "match_name": "Rwanda vs Botswana",
+      "team_1": "Rwanda",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RWA@2x.png",
+      "team_2": "Botswana",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BOTS@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114461_4675_RWA_BOT_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/sVfp7271SsmHinHMYFYJIg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -54,15 +66,27 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Africa T20I Continent Cup, 2024",
-      "match_id": 114461,
-      "match_name": "Rwanda vs Botswana",
-      "team_1": "Rwanda",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RWA@2x.png",
-      "team_2": "Botswana",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BOTS@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114461_4675_RWA_BOT_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/sVfp7271SsmHinHMYFYJIg/master.m3u8"
+      "event_name": "European Cricket Championship-W, 2024",
+      "match_id": 114637,
+      "match_name": "Czechia Women vs Spain Women",
+      "team_1": "Czechia Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CZR@2x.png",
+      "team_2": "Spain Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESP@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114637_4684_CZE-W_ESP-W_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/uQxTQMfbSiis-eKHcpzzIg/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "2nd Protech Guwahati Premier League 2024",
+      "match_id": 113841,
+      "match_name": "ASEB Sports Club vs United Chirangduar FC",
+      "team_1": "ASEB Sports Club",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ASEB@2x.png",
+      "team_2": "United Chirangduar FC",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-UCD@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/a2-PucT_Qli9qFuNiU4c_w/master.m3u8"
     }
   ]
 }
