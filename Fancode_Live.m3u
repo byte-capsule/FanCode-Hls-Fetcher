@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Dhaka Metropolis vs Barisal Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114918_4691_DM_BD_fc-web_1733857501914.jpg" tvg-id="114918" group-title="National Cricket League T20, 2024",Dhaka Metropolis vs Barisal Division
-https://dai.google.com/linear/hls/event/2xnNIdxcTgCMpYAhZSoo8g/master.m3u8
 #EXTINF:-1 tvg-name="Sylhet Division vs Dhaka Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114917_4691_DD_SD_fc-web_1733857501943.jpg" tvg-id="114917" group-title="National Cricket League T20, 2024",Sylhet Division vs Dhaka Division
 Free Trial attempt unsuccessful......it requires Premium Account
 #EXTINF:-1 tvg-name="Khulna Division vs Rajshahi Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114919_4691_KD_RAD_fc-web_1733857501979.jpg" tvg-id="114919" group-title="National Cricket League T20, 2024",Khulna Division vs Rajshahi Division
 https://dai.google.com/linear/hls/event/hSK1b5-RTf-_4s96OJDzIA/master.m3u8
-#EXTINF:-1 tvg-name="Nurpur Lions vs Lake City Panthers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114595_4681_NUR_LCP_fc-web.jpg" tvg-id="114595" group-title="Champions T20 Cup, 2024",Nurpur Lions vs Lake City Panthers
+#EXTINF:-1 tvg-name="Rangpur Division vs Chattogram Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114920_4691_RD_CD_fc-web_1733857501957.jpg" tvg-id="114920" group-title="National Cricket League T20, 2024",Rangpur Division vs Chattogram Division
+https://dai.google.com/linear/hls/event/MDc6aBlsQw-AlVxreIIAoQ/master.m3u8
+#EXTINF:-1 tvg-name="Kathmandu Gurkhas vs Lumbini Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113742_4657_KMG_LBL_fc-Web.jpg" tvg-id="113742" group-title="Nepal Premier League, 2024",Kathmandu Gurkhas vs Lumbini Lions
+https://dai.google.com/linear/hls/event/M8J6ccg3Q9-EOnUVBo0myg/master.m3u8
+#EXTINF:-1 tvg-name="Lake City Panthers vs Nurpur Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114595_4681_NUR_LCP_fc-web.jpg" tvg-id="114595" group-title="Champions T20 Cup, 2024",Lake City Panthers vs Nurpur Lions
 https://dai.google.com/linear/hls/event/Rv_suwTYRmK5hYNzoi7x2A/master.m3u8
+#EXTINF:-1 tvg-name="Rwanda vs Botswana" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114461_4675_RWA_BOT_fc-web.jpg" tvg-id="114461" group-title="Africa T20I Continent Cup, 2024",Rwanda vs Botswana
+https://dai.google.com/linear/hls/event/sVfp7271SsmHinHMYFYJIg/master.m3u8
