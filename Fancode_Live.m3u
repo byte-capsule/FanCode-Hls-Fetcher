@@ -1,14 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Kathmandu Gurkhas vs Janakpur Bolts" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113744_4657_JKB_KMG_fc-Web.jpg" tvg-id="113744" group-title="Nepal Premier League, 2024",Kathmandu Gurkhas vs Janakpur Bolts
-https://dai.google.com/linear/hls/event/gwE3YNF8QXu9wvtp3Nb7BQ/master.m3u8
 #EXTINF:-1 tvg-name="Dhaka Metropolis vs Rajshahi Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114924_4691_DM_RAD_fc-web_1733857502030.jpg" tvg-id="114924" group-title="National Cricket League T20, 2024",Dhaka Metropolis vs Rajshahi Division
 https://dai.google.com/linear/hls/event/cqEH_QikRBW-4BJZxuEGMw/master.m3u8
 #EXTINF:-1 tvg-name="Rangpur Division vs Dhaka Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114923_4691_DD_RD_fc-web_1733857501933.jpg" tvg-id="114923" group-title="National Cricket League T20, 2024",Rangpur Division vs Dhaka Division
 https://dai.google.com/linear/hls/event/bxURgxjSQO-nlGycexGocQ/master.m3u8
 #EXTINF:-1 tvg-name="Uganda vs Rwanda" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114463_4675_RWA_UGA_fc-web.jpg" tvg-id="114463" group-title="Africa T20I Continent Cup, 2024",Uganda vs Rwanda
 https://dai.google.com/linear/hls/event/rtRoSJWfRyig-x-gLoCuIQ/master.m3u8
-#EXTINF:-1 tvg-name="UMT Markhors vs ABL Stallions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114596_4681_AST_UMA_fc-web.jpg" tvg-id="114596" group-title="Champions T20 Cup, 2024",UMT Markhors vs ABL Stallions
-https://dai.google.com/linear/hls/event/Q6J0npXXSdO6qsGs95Ig1g/master.m3u8
+#EXTINF:-1 tvg-name="Nurpur Lions vs Engro Dolphins" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114597_4681_END_NUR_fc-web.jpg" tvg-id="114597" group-title="Champions T20 Cup, 2024",Nurpur Lions vs Engro Dolphins
+https://dai.google.com/linear/hls/event/uoYC0Xn5RjmGJ1CYka3I0w/master.m3u8
 #EXTINF:-1 tvg-name="Assam Police vs Sunrise Athletic Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg" tvg-id="113843" group-title="2nd Protech Guwahati Premier League 2024",Assam Police vs Sunrise Athletic Club
 https://dai.google.com/linear/hls/event/gdw0iGp9S_elbZoOkLkfkg/master.m3u8
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Estrella-Damm-N_1733812704575.A.-Andaluc%C3%ADa-Masters--old-match-card.jpg" tvg-id="114576" group-title="Alfred Dunhill Championship",Day 1
