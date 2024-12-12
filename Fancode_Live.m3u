@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="UMT Markhors vs ABL Stallions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114596_4681_AST_UMA_fc-web.jpg" tvg-id="114596" group-title="Champions T20 Cup, 2024",UMT Markhors vs ABL Stallions
 https://dai.google.com/linear/hls/event/Q6J0npXXSdO6qsGs95Ig1g/master.m3u8
-#EXTINF:-1 tvg-name="Biratnagar Kings vs Pokhara Avengers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113743_4657_PKA_BK_fc-Web.jpg" tvg-id="113743" group-title="Nepal Premier League, 2024",Biratnagar Kings vs Pokhara Avengers
-https://dai.google.com/linear/hls/event/TePdqSM4T5WAzsMwa04nmQ/master.m3u8
-#EXTINF:-1 tvg-name="Khulna Division vs Barisal Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114922_4691_KD_BD_fc-web_1733857501976.jpg" tvg-id="114922" group-title="National Cricket League T20, 2024",Khulna Division vs Barisal Division
-https://dai.google.com/linear/hls/event/xYcgTRcWRgaq5q1Z7l6Z8A/master.m3u8
-#EXTINF:-1 tvg-name="Chattogram Division vs Sylhet Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114921_4691_SD_CD_fc-web_1733857501970.jpg" tvg-id="114921" group-title="National Cricket League T20, 2024",Chattogram Division vs Sylhet Division
-https://dai.google.com/linear/hls/event/bE2stRxLRCCCXTy9Zp5BVA/master.m3u8
+#EXTINF:-1 tvg-name="Kathmandu Gurkhas vs Janakpur Bolts" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113744_4657_JKB_KMG_fc-Web.jpg" tvg-id="113744" group-title="Nepal Premier League, 2024",Kathmandu Gurkhas vs Janakpur Bolts
+https://dai.google.com/linear/hls/event/gwE3YNF8QXu9wvtp3Nb7BQ/master.m3u8
 #EXTINF:-1 tvg-name="Dhaka Division vs Rangpur Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114923_4691_DD_RD_fc-web_1733857501933.jpg" tvg-id="114923" group-title="National Cricket League T20, 2024",Dhaka Division vs Rangpur Division
 https://dai.google.com/linear/hls/event/bxURgxjSQO-nlGycexGocQ/master.m3u8
+#EXTINF:-1 tvg-name="Dhaka Metropolis vs Rajshahi Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114924_4691_DM_RAD_fc-web_1733857502030.jpg" tvg-id="114924" group-title="National Cricket League T20, 2024",Dhaka Metropolis vs Rajshahi Division
+https://dai.google.com/linear/hls/event/cqEH_QikRBW-4BJZxuEGMw/master.m3u8
+#EXTINF:-1 tvg-name="Uganda vs Rwanda" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114463_4675_RWA_UGA_fc-web.jpg" tvg-id="114463" group-title="Africa T20I Continent Cup, 2024",Uganda vs Rwanda
+https://dai.google.com/linear/hls/event/rtRoSJWfRyig-x-gLoCuIQ/master.m3u8
