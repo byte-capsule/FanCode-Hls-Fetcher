@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 2,
-  "last_upaded": "12-12-2024 on 09:05:39 AM \ud83c\udf1e",
+  "total_mathes": 4,
+  "last_upaded": "12-12-2024 on 09:46:08 AM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,6 +27,30 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/CD-CR3@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/114921_4691_SD_CD_fc-web_1733857501970.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/bE2stRxLRCCCXTy9Zp5BVA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "National Cricket League T20, 2024",
+      "match_id": 114922,
+      "match_name": "Khulna Division vs Barisal Division",
+      "team_1": "Khulna Division",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/KD-CR1@2x.png",
+      "team_2": "Barisal Division",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/BD-CR2@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114922_4691_KD_BD_fc-web_1733857501976.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/xYcgTRcWRgaq5q1Z7l6Z8A/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Nepal Premier League, 2024",
+      "match_id": 113743,
+      "match_name": "Biratnagar Kings vs Pokhara Avengers",
+      "team_1": "Biratnagar Kings",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BKN@2x.png",
+      "team_2": "Pokhara Avengers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PKA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113743_4657_PKA_BK_fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/TePdqSM4T5WAzsMwa04nmQ/master.m3u8"
     }
   ]
 }
