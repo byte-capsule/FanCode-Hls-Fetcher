@@ -1,32 +1,20 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 8,
-  "last_upaded": "12-12-2024 on 9:58:08 PM \ud83c\udf19",
+  "total_mathes": 7,
+  "last_upaded": "12-12-2024 on 10:57:27 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
-      "event_name": "ICC Men's T20 WC Sub Regional Americas Qualifier",
-      "match_id": 114035,
-      "match_name": "Suriname vs Mexico",
-      "team_1": "Suriname",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SRN-CR1@2x.png",
-      "team_2": "Mexico",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MEX@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/EmVfXr7QTJm3-2dazTkUVg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC Men's T20 WC Sub Regional Americas Qualifier",
-      "match_id": 114034,
-      "match_name": "Panama vs Brazil",
-      "team_1": "Panama",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PANA@2x.png",
-      "team_2": "Brazil",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/E2EngSZ5SdC0aAoC1-TssA/master.m3u8"
+      "event_name": "KCC T20 Challengers A League, 2024-25",
+      "match_id": 112431,
+      "match_name": "Going Global vs GAT",
+      "team_1": "Going Global",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GGL@2x.png",
+      "team_2": "GAT",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GAT@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112431_4616_GGL_GAT_fc-web_1731569489679.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/RKwH3_iQT6-JIG6rHEunNA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
