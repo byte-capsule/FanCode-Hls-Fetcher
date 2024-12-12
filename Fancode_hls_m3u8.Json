@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 9,
-  "last_upaded": "12-12-2024 on 11:55:11 PM \ud83c\udf19",
+  "total_mathes": 7,
+  "last_upaded": "13-12-2024 on 00:33:19 AM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -32,25 +32,13 @@
       "event_catagory": "cricket",
       "event_name": "ICC Men's T20 WC Sub Regional Americas Qualifier",
       "match_id": 114036,
-      "match_name": "Cayman Islands vs Bahamas",
-      "team_1": "Cayman Islands",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CYIS@2x.png",
-      "team_2": "Bahamas",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BH@2x.png",
+      "match_name": "Bahamas vs Cayman Islands",
+      "team_1": "Bahamas",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BH@2x.png",
+      "team_2": "Cayman Islands",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CYIS@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
       "stream_link": "https://dai.google.com/linear/hls/event/7vXO-4oXRjaLBnwdeNS-SQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Dream11 Nature Isle T10, 6th Edition, 2024",
-      "match_id": 114153,
-      "match_name": "Barana Aute Warriors vs Indian River Rowers",
-      "team_1": "Barana Aute Warriors",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAWA@2x.png",
-      "team_2": "Indian River Rowers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROWE@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v2.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/cSB6JfV3R568JVG0wKVLVQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -75,18 +63,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-ODI--old-match-card.png",
       "stream_link": "https://dai.google.com/linear/hls/event/qP_1DosVTM-UZib4fSEEFA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Big Cricket League, 2024",
-      "match_id": 114837,
-      "match_name": "Southern Spartans vs Northern Challengers",
-      "team_1": "Southern Spartans",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SS-CR6@2x.png",
-      "team_2": "Northern Challengers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NC-CR2@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114837_4688_SS_NC_fc-Web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/9FWdUOtES6yjc3i9mkFt1Q/master.m3u8"
     },
     {
       "event_catagory": "football",
