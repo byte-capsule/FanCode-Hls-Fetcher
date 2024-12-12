@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "12-12-2024 on 10:48:09 AM \ud83c\udf1e",
+  "total_mathes": 3,
+  "last_upaded": "12-12-2024 on 11:23:52 AM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Namibia Women tour of Malaysia, 2024",
-      "match_id": 114916,
-      "match_name": "Malaysia Women vs Namibia Women",
-      "team_1": "Malaysia Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALY@2x.png",
-      "team_2": "Namibia Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAM@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-Women's-tour-of-Malaysia-old-match-card.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/bkjnLXSaQP2LTqEOp84CSg/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "National Cricket League T20, 2024",
