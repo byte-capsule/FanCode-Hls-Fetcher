@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Dhaka Metropolis vs Rajshahi Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114924_4691_DM_RAD_fc-web_1733857502030.jpg" tvg-id="114924" group-title="National Cricket League T20, 2024",Dhaka Metropolis vs Rajshahi Division
-https://dai.google.com/linear/hls/event/cqEH_QikRBW-4BJZxuEGMw/master.m3u8
-#EXTINF:-1 tvg-name="Rangpur Division vs Dhaka Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114923_4691_DD_RD_fc-web_1733857501933.jpg" tvg-id="114923" group-title="National Cricket League T20, 2024",Rangpur Division vs Dhaka Division
-https://dai.google.com/linear/hls/event/bxURgxjSQO-nlGycexGocQ/master.m3u8
+#EXTINF:-1 tvg-name="Seven United vs Nirwana" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SB-Memorial-Cup-old-match-card-op-2.png" tvg-id="115078" group-title="SB Memorial Cup",Seven United vs Nirwana
+https://dai.google.com/linear/hls/event/rJ-XX_m4SkGS-lGWN33mCQ/master.m3u8
+#EXTINF:-1 tvg-name="Botswana vs Nigeria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114464_4675_BOT_NIG_fc-web.jpg" tvg-id="114464" group-title="Africa T20I Continent Cup, 2024",Botswana vs Nigeria
+https://dai.google.com/linear/hls/event/8q4YniT-RC6UumuTJcWtOQ/master.m3u8
 #EXTINF:-1 tvg-name="Nurpur Lions vs Engro Dolphins" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114597_4681_END_NUR_fc-web.jpg" tvg-id="114597" group-title="Champions T20 Cup, 2024",Nurpur Lions vs Engro Dolphins
 https://dai.google.com/linear/hls/event/uoYC0Xn5RjmGJ1CYka3I0w/master.m3u8
 #EXTINF:-1 tvg-name="Kandy Bolts vs Nuwara Eliya Kings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113992_4663_KB_NEK_fc-web_1733813071598.jpg" tvg-id="113992" group-title="Lanka T10 Super League, 2024",Kandy Bolts vs Nuwara Eliya Kings
 https://dai.google.com/linear/hls/event/pK2d1_bEQJiUv3o_90bARA/master.m3u8
-#EXTINF:-1 tvg-name="Assam Police vs Sunrise Athletic Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg" tvg-id="113843" group-title="2nd Protech Guwahati Premier League 2024",Assam Police vs Sunrise Athletic Club
-https://dai.google.com/linear/hls/event/gdw0iGp9S_elbZoOkLkfkg/master.m3u8
-#EXTINF:-1 tvg-name="Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Estrella-Damm-N_1733812704575.A.-Andaluc%C3%ADa-Masters--old-match-card.jpg" tvg-id="114576" group-title="Alfred Dunhill Championship",Day 1
+#EXTINF:-1 tvg-name="Numaligarh Refinery Limited vs Red Bees Inc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2_1732617283192.jpg" tvg-id="113844" group-title="2nd Protech Guwahati Premier League 2024",Numaligarh Refinery Limited vs Red Bees Inc
+https://dai.google.com/linear/hls/event/ym4iBhO1Rm6yN-X9Cn8QIQ/master.m3u8
+#EXTINF:-1 tvg-name="Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/EstrellaDammNAAndaluciaMastersoldmatchcard.jpg" tvg-id="114576" group-title="Alfred Dunhill Championship",Day 1
 https://dai.google.com/linear/hls/event/MvbgM3ZTSs-hD412rwGzdg/master.m3u8
