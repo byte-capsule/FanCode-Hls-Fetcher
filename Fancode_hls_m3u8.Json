@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 6,
-  "last_upaded": "12-12-2024 on 4:27:41 PM \ud83c\udf1e",
+  "last_upaded": "12-12-2024 on 4:47:09 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -30,18 +30,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Africa T20I Continent Cup, 2024",
-      "match_id": 114463,
-      "match_name": "Uganda vs Rwanda",
-      "team_1": "Uganda",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UGN@2x.png",
-      "team_2": "Rwanda",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RWA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114463_4675_RWA_UGA_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/rtRoSJWfRyig-x-gLoCuIQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "Champions T20 Cup, 2024",
       "match_id": 114597,
       "match_name": "Nurpur Lions vs Engro Dolphins",
@@ -51,6 +39,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-END@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/114597_4681_END_NUR_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/uoYC0Xn5RjmGJ1CYka3I0w/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Lanka T10 Super League, 2024",
+      "match_id": 113992,
+      "match_name": "Kandy Bolts vs Nuwara Eliya Kings",
+      "team_1": "Kandy Bolts",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBL@2x.png",
+      "team_2": "Nuwara Eliya Kings",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEK@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113992_4663_KB_NEK_fc-web_1733813071598.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/pK2d1_bEQJiUv3o_90bARA/master.m3u8"
     },
     {
       "event_catagory": "football",
