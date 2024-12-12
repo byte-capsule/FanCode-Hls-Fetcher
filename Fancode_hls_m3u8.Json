@@ -1,69 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "13-12-2024 on 00:54:50 AM \ud83c\udf19",
+  "total_mathes": 2,
+  "last_upaded": "13-12-2024 on 01:19:08 AM \ud83c\udf19",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "KCC T20 Challengers A League, 2024-25",
-      "match_id": 112431,
-      "match_name": "Going Global vs GAT",
-      "team_1": "Going Global",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GGL@2x.png",
-      "team_2": "GAT",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GAT@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112431_4616_GGL_GAT_fc-web_1731569489679.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/RKwH3_iQT6-JIG6rHEunNA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC Men's T20 WC Sub Regional Americas Qualifier",
-      "match_id": 114037,
-      "match_name": "Bermuda vs Belize",
-      "team_1": "Bermuda",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRM@2x.png",
-      "team_2": "Belize",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BEZ@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/RPLt_JevRmuzcV5FdVHa-Q/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC Men's T20 WC Sub Regional Americas Qualifier",
-      "match_id": 114036,
-      "match_name": "Bahamas vs Cayman Islands",
-      "team_1": "Bahamas",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BH@2x.png",
-      "team_2": "Cayman Islands",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CYIS@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/7vXO-4oXRjaLBnwdeNS-SQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "SB Memorial Cup",
-      "match_id": 115078,
-      "match_name": "Seven United vs Nirwana",
-      "team_1": "Seven United",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SU@2x.png",
-      "team_2": "Nirwana",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NW@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/SB-Memorial-Cup-old-match-card-op-2.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/rJ-XX_m4SkGS-lGWN33mCQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Bangladesh tour of West Indies, 2024",
-      "match_id": 112348,
-      "match_name": "Bangladesh vs West Indies",
-      "team_1": "Bangladesh",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
-      "team_2": "West Indies",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-ODI--old-match-card.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/qP_1DosVTM-UZib4fSEEFA/master.m3u8"
-    },
     {
       "event_catagory": "football",
       "event_name": "2nd Protech Guwahati Premier League 2024",
