@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 8,
-  "last_upaded": "13-12-2024 on 7:31:28 PM \ud83c\udf19",
+  "total_mathes": 9,
+  "last_upaded": "13-12-2024 on 7:53:10 PM \ud83c\udf19",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "KCC T20 Challengers A League, 2024-25",
-      "match_id": 112434,
-      "match_name": "Cyro Maviricks vs Afghan Stars",
-      "team_1": "Cyro Maviricks",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CM@2x.png",
-      "team_2": "Afghan Stars",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFS@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112434_4616_AS_RGD_fc-web_1731569490189.jpg",
-      "stream_link": "Free Trial attempt unsuccessful......it requires Premium Account"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Dream11 Nature Isle T10, 6th Edition, 2024",
@@ -75,6 +63,30 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JERSE@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/114647_4684_JER-W_CZE-W_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/WxuCRhUBRtqpTacUeKj0ow/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Big Cricket League, 2024",
+      "match_id": 114839,
+      "match_name": "UP Brij Stars vs Mumbai Marines",
+      "team_1": "UP Brij Stars",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/UBS-CR1@2x.png",
+      "team_2": "Mumbai Marines",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/MM-CR2@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114839_4688_UPBS_MM_fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/snpwBZlkTfqVbUXlcttA2Q/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Lanka T10 Super League, 2024",
+      "match_id": 113995,
+      "match_name": "Kandy Bolts vs Jaffna Titans",
+      "team_1": "Kandy Bolts",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBL@2x.png",
+      "team_2": "Jaffna Titans",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JT@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113995_4663_KB_JT_fc-web_1733813070465.jpg",
+      "stream_link": "Free Trial attempt unsuccessful......it requires Premium Account"
     },
     {
       "event_catagory": "cricket",
