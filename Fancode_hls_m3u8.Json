@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 8,
-  "last_upaded": "13-12-2024 on 8:56:40 PM \ud83c\udf19",
+  "total_mathes": 5,
+  "last_upaded": "13-12-2024 on 9:26:38 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -18,18 +18,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Dream11 Nature Isle T10, 6th Edition, 2024",
-      "match_id": 114155,
-      "match_name": "Titou Gorge Splashers vs Barana Aute Warriors",
-      "team_1": "Titou Gorge Splashers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TSPL@2x.png",
-      "team_2": "Barana Aute Warriors",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAWA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v2.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/k7blvwAhSDayHNJ-D10Fpg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "European Cricket Championship-W, 2024",
       "match_id": 114648,
       "match_name": "Austria Women vs Spain Women",
@@ -39,18 +27,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESP@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/114648_4684_ESP-W_AUT-W_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/2qZpqsgZQ5qaazaBWGJb1g/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Africa T20I Continent Cup, 2024",
-      "match_id": 114465,
-      "match_name": "Uganda vs Botswana",
-      "team_1": "Uganda",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UGN@2x.png",
-      "team_2": "Botswana",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BOTS@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114465_4675_UGA_BOT_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/GXpcziwIQKWbZdKrtl697g/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -75,18 +51,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR4@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/MP-Development-League_old.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/WPjyrQoNTDWaOiPOttpG2g/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Afghanistan tour of Zimbabwe, 2024-25",
-      "match_id": 113540,
-      "match_name": "Afghanistan vs Zimbabwe",
-      "team_1": "Afghanistan",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFG@2x.png",
-      "team_2": "Zimbabwe",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_old.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/xd-c9-RcSRKaC6GrfRr3_Q/master.m3u8"
     },
     {
       "event_catagory": "golf",
