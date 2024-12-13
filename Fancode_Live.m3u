@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Afghan Tigers vs Marafie Bengal Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112433_4616_MBT_AGT_fc-web_1731569490168.jpg" tvg-id="112433" group-title="KCC T20 Challengers A League, 2024-25",Afghan Tigers vs Marafie Bengal Tigers
 https://dai.google.com/linear/hls/event/V2wzU2KbTHueZ0_lm-g24w/master.m3u8
-#EXTINF:-1 tvg-name="Mumbai Suburban vs Thane" tvg-logo="https://www.fancode.com/aig/match/v1/115323_CASACARDS_APP.png" tvg-id="115323" group-title="Mumbai University Women Cricket Tournament",Mumbai Suburban vs Thane
-https://dai.google.com/linear/hls/event/ZTKXkoxdSDCUwUgtzl5-Yw/master.m3u8
 #EXTINF:-1 tvg-name="Karnali Yaks vs Lumbini Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113745_4657_LBL_KNY_fc-Web.jpg" tvg-id="113745" group-title="Nepal Premier League, 2024",Karnali Yaks vs Lumbini Lions
 https://dai.google.com/linear/hls/event/rjSso5k8TYWZB8V_HvZH_Q/master.m3u8
 #EXTINF:-1 tvg-name="Bahrain vs United Arab Emirates" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115011" group-title="Men's Gulf Cricket T20I Championship 2024",Bahrain vs United Arab Emirates
