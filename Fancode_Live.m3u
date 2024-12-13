@@ -1,13 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Afghan Tigers vs Marafie Bengal Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112433_4616_MBT_AGT_fc-web_1731569490168.jpg" tvg-id="112433" group-title="KCC T20 Challengers A League, 2024-25",Afghan Tigers vs Marafie Bengal Tigers
-https://dai.google.com/linear/hls/event/V2wzU2KbTHueZ0_lm-g24w/master.m3u8
-#EXTINF:-1 tvg-name="Mumbai City vs Konkan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mumbai-University-Women-Cricket-Tournament_old.jpg" tvg-id="115324" group-title="Mumbai University Women Cricket Tournament",Mumbai City vs Konkan
-https://dai.google.com/linear/hls/event/kx2g9C2aQWOqi8efOxutdA/master.m3u8
 #EXTINF:-1 tvg-name="Biratnagar Kings vs Chitwan Rhinos" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113746_4657_BK_CWR_fc-Web.jpg" tvg-id="113746" group-title="Nepal Premier League, 2024",Biratnagar Kings vs Chitwan Rhinos
 https://dai.google.com/linear/hls/event/yLBrqtF1SX2_2roG7tKyOg/master.m3u8
-#EXTINF:-1 tvg-name="Bahrain vs United Arab Emirates" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115011" group-title="Men's Gulf Cricket T20I Championship 2024",Bahrain vs United Arab Emirates
-https://dai.google.com/linear/hls/event/xol6UnYEQjm7F9WlZ-A5ew/master.m3u8
 #EXTINF:-1 tvg-name="ABL Stallions vs Engro Dolphins" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114598_4681_AST_END_fc-web.jpg" tvg-id="114598" group-title="Champions T20 Cup, 2024",ABL Stallions vs Engro Dolphins
 https://dai.google.com/linear/hls/event/i1uFfcuQROOde8zWOi2ogg/master.m3u8
 #EXTINF:-1 tvg-name="Nigeria vs Rwanda" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114466_4675_NIG_RWA_fc-web.jpg" tvg-id="114466" group-title="Africa T20I Continent Cup, 2024",Nigeria vs Rwanda
 https://dai.google.com/linear/hls/event/jj0d32AzSdasV50C8QM1EQ/master.m3u8
+#EXTINF:-1 tvg-name="Spain Women vs Jersey Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114645_4684_ESP-W_JER-W_fc-web.jpg" tvg-id="114645" group-title="European Cricket Championship-W, 2024",Spain Women vs Jersey Women
+https://dai.google.com/linear/hls/event/ye7cYvrDRlSHm1UaqoVU-A/master.m3u8
+#EXTINF:-1 tvg-name="DBI SC vs ASEB Sports Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg" tvg-id="113845" group-title="2nd Protech Guwahati Premier League 2024",DBI SC vs ASEB Sports Club
+https://dai.google.com/linear/hls/event/KafzvfqvS2yZ5n1SVoye-g/master.m3u8
