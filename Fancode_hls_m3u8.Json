@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "13-12-2024 on 11:43:13 AM \ud83c\udf1e",
+  "total_mathes": 5,
+  "last_upaded": "13-12-2024 on 11:56:08 AM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -51,6 +51,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UAE@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
       "stream_link": "https://dai.google.com/linear/hls/event/xol6UnYEQjm7F9WlZ-A5ew/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Champions T20 Cup, 2024",
+      "match_id": 114598,
+      "match_name": "ABL Stallions vs Engro Dolphins",
+      "team_1": "ABL Stallions",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ASN@2x.png",
+      "team_2": "Engro Dolphins",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-END@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114598_4681_AST_END_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/i1uFfcuQROOde8zWOi2ogg/master.m3u8"
     }
   ]
 }
