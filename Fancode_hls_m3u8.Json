@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 9,
-  "last_upaded": "13-12-2024 on 5:53:20 PM \ud83c\udf1e",
+  "total_mathes": 8,
+  "last_upaded": "13-12-2024 on 6:48:28 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -54,6 +54,18 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "European Cricket Championship-W, 2024",
+      "match_id": 114647,
+      "match_name": "Czechia Women vs Jersey Women",
+      "team_1": "Czechia Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CZR@2x.png",
+      "team_2": "Jersey Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JERSE@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114647_4684_JER-W_CZE-W_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/WxuCRhUBRtqpTacUeKj0ow/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "Big Cricket League, 2024",
       "match_id": 114838,
       "match_name": "Rajasthan Regals vs Southern Spartans",
@@ -66,18 +78,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Lanka T10 Super League, 2024",
-      "match_id": 113994,
-      "match_name": "Galle Marvels vs Nuwara Eliya Kings",
-      "team_1": "Galle Marvels",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GM@2x.png",
-      "team_2": "Nuwara Eliya Kings",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEK@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113994_4663_NEK_GM_fc-web_1733813071563.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/d3TJHaz0QfamnCDtfzXZFQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "Afghanistan tour of Zimbabwe, 2024-25",
       "match_id": 113540,
       "match_name": "Afghanistan vs Zimbabwe",
@@ -87,18 +87,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_old.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/xd-c9-RcSRKaC6GrfRr3_Q/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "2nd Protech Guwahati Premier League 2024",
-      "match_id": 113846,
-      "match_name": "Oil India Limited vs United Chirangduar FC",
-      "team_1": "Oil India Limited",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-OIL@2x.png",
-      "team_2": "United Chirangduar FC",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-UCD@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2_1732617283192.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/WXs2oC1HQPWZw7EIaInE0w/master.m3u8"
     },
     {
       "event_catagory": "golf",
