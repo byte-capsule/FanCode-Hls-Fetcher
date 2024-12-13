@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Karnali Yaks vs Lumbini Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113745_4657_LBL_KNY_fc-Web.jpg" tvg-id="113745" group-title="Nepal Premier League, 2024",Karnali Yaks vs Lumbini Lions
 https://dai.google.com/linear/hls/event/rjSso5k8TYWZB8V_HvZH_Q/master.m3u8
+#EXTINF:-1 tvg-name="Mumbai Suburban vs Thane" tvg-logo="https://www.fancode.com/aig/match/v1/115323_CASACARDS_APP.png" tvg-id="115323" group-title="Inter Zonal Cricket Women Tournament",Mumbai Suburban vs Thane
+https://dai.google.com/linear/hls/event/ZTKXkoxdSDCUwUgtzl5-Yw/master.m3u8
