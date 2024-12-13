@@ -1,10 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Biratnagar Kings vs Chitwan Rhinos" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113746_4657_BK_CWR_fc-Web.jpg" tvg-id="113746" group-title="Nepal Premier League, 2024",Biratnagar Kings vs Chitwan Rhinos
 https://dai.google.com/linear/hls/event/yLBrqtF1SX2_2roG7tKyOg/master.m3u8
+#EXTINF:-1 tvg-name="Saudi Arabia vs Kuwait" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115012" group-title="Men's Gulf Cricket T20I Championship 2024",Saudi Arabia vs Kuwait
+https://dai.google.com/linear/hls/event/7PRMDO7iRUiNJzha2kndRw/master.m3u8
 #EXTINF:-1 tvg-name="ABL Stallions vs Engro Dolphins" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114598_4681_AST_END_fc-web.jpg" tvg-id="114598" group-title="Champions T20 Cup, 2024",ABL Stallions vs Engro Dolphins
 https://dai.google.com/linear/hls/event/i1uFfcuQROOde8zWOi2ogg/master.m3u8
 #EXTINF:-1 tvg-name="Nigeria vs Rwanda" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114466_4675_NIG_RWA_fc-web.jpg" tvg-id="114466" group-title="Africa T20I Continent Cup, 2024",Nigeria vs Rwanda
 https://dai.google.com/linear/hls/event/jj0d32AzSdasV50C8QM1EQ/master.m3u8
+#EXTINF:-1 tvg-name="Rajasthan Regals vs Southern Spartans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114838_4688_RR_SS_fc-Web.jpg" tvg-id="114838" group-title="Big Cricket League, 2024",Rajasthan Regals vs Southern Spartans
+https://dai.google.com/linear/hls/event/T6Q2ouahQ4OOUDWr2nlPYA/master.m3u8
 #EXTINF:-1 tvg-name="DBI SC vs ASEB Sports Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg" tvg-id="113845" group-title="2nd Protech Guwahati Premier League 2024",DBI SC vs ASEB Sports Club
 https://dai.google.com/linear/hls/event/KafzvfqvS2yZ5n1SVoye-g/master.m3u8
 #EXTINF:-1 tvg-name="Central Coast Mariners vs Adelaide United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110934_4567_CCM_ADL_fc-web_1728983128254.jpg" tvg-id="110934" group-title="A League 2024-25",Central Coast Mariners vs Adelaide United
