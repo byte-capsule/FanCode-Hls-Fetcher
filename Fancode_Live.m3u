@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Al Mulla Exchange vs SBS CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112435_4616_AEC_SBS_fc-web_1731569490498.jpg" tvg-id="112435" group-title="KCC T20 Challengers A League, 2024-25",Al Mulla Exchange vs SBS CC
 https://dai.google.com/linear/hls/event/MRAp35rDQJeh4NHqwkdjCA/master.m3u8
+#EXTINF:-1 tvg-name="Sari Sari Sunrisers vs The Valley Hikers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v1.jpg" tvg-id="114156" group-title="Dream11 Nature Isle T10, 6th Edition, 2024",Sari Sari Sunrisers vs The Valley Hikers
+https://dai.google.com/linear/hls/event/-1lZlW2NRle67r2fSRsfrQ/master.m3u8
 #EXTINF:-1 tvg-name="Austria Women vs Spain Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114648_4684_ESP-W_AUT-W_fc-web.jpg" tvg-id="114648" group-title="European Cricket Championship-W, 2024",Austria Women vs Spain Women
 https://dai.google.com/linear/hls/event/2qZpqsgZQ5qaazaBWGJb1g/master.m3u8
 #EXTINF:-1 tvg-name="UP Brij Stars vs Mumbai Marines" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114839_4688_UPBS_MM_fc-Web.jpg" tvg-id="114839" group-title="Big Cricket League, 2024",UP Brij Stars vs Mumbai Marines
