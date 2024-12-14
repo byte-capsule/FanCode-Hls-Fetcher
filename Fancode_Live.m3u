@@ -1,16 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Sylhet Division vs Rangpur Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114928_4691_SD_RD_fc-web_1733857502021.jpg" tvg-id="114928" group-title="National Cricket League T20, 2024",Sylhet Division vs Rangpur Division
-https://dai.google.com/linear/hls/event/EMiYq6GAROKkzFtzTDXUog/master.m3u8
 #EXTINF:-1 tvg-name="Rajshahi Division vs Barisal Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114927_4691_RAD_BD_fc-web_1733857502270.jpg" tvg-id="114927" group-title="National Cricket League T20, 2024",Rajshahi Division vs Barisal Division
 https://dai.google.com/linear/hls/event/lMJIc04UTQi3BmPlwUAvTQ/master.m3u8
-#EXTINF:-1 tvg-name="Chitwan Rhinos vs Janakpur Bolts" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113748_4657_CWR_JKB_fc-Web.jpg" tvg-id="113748" group-title="Nepal Premier League, 2024",Chitwan Rhinos vs Janakpur Bolts
-https://dai.google.com/linear/hls/event/2JTnhY7NQh2U4WL6DjJiVA/master.m3u8
 #EXTINF:-1 tvg-name="Oman vs Qatar" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115014" group-title="Men's Gulf Cricket T20I Championship 2024",Oman vs Qatar
 https://dai.google.com/linear/hls/event/__B-FFUAQribHIjD6v5crQ/master.m3u8
 #EXTINF:-1 tvg-name="Northern Challengers vs Mumbai Marines" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114840_4688_NC_MM_fc-Web.jpg" tvg-id="114840" group-title="Big Cricket League, 2024",Northern Challengers vs Mumbai Marines
 https://dai.google.com/linear/hls/event/mZAQhGp7R-uHkRxFQF2DyQ/master.m3u8
-#EXTINF:-1 tvg-name="Western Sydney Wanderers vs Brisbane Roar" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110937_4567_SYW_BRB_fc-web_1728983127073.jpg" tvg-id="110937" group-title="A League 2024-25",Western Sydney Wanderers vs Brisbane Roar
-https://dai.google.com/linear/hls/event/6eAfE1AkSKeTojqrA8Vsqw/master.m3u8
 #EXTINF:-1 tvg-name="Assam Police vs Numaligarh Refinery Limited" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2_1732617283192.jpg" tvg-id="113848" group-title="2nd Protech Guwahati Premier League 2024",Assam Police vs Numaligarh Refinery Limited
 https://dai.google.com/linear/hls/event/2F7pybP2RnuQzZwtVTrA9Q/master.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/EstrellaDammNAAndaluciaMastersoldmatchcard.jpg" tvg-id="114578" group-title="Alfred Dunhill Championship",Day 3

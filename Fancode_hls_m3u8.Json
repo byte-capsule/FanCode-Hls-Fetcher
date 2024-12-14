@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 9,
-  "last_upaded": "14-12-2024 on 4:22:56 PM \ud83c\udf1e",
+  "total_mathes": 6,
+  "last_upaded": "14-12-2024 on 4:42:19 PM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "National Cricket League T20, 2024",
-      "match_id": 114928,
-      "match_name": "Sylhet Division vs Rangpur Division",
-      "team_1": "Sylhet Division",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SD-CR2@2x.png",
-      "team_2": "Rangpur Division",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RD-CR2@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114928_4691_SD_RD_fc-web_1733857502021.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/EMiYq6GAROKkzFtzTDXUog/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "National Cricket League T20, 2024",
@@ -27,18 +15,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/BD-CR2@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/114927_4691_RAD_BD_fc-web_1733857502270.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/lMJIc04UTQi3BmPlwUAvTQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Nepal Premier League, 2024",
-      "match_id": 113748,
-      "match_name": "Chitwan Rhinos vs Janakpur Bolts",
-      "team_1": "Chitwan Rhinos",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CWR@2x.png",
-      "team_2": "Janakpur Bolts",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JKB@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113748_4657_CWR_JKB_fc-Web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/2JTnhY7NQh2U4WL6DjJiVA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -63,18 +39,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/MM-CR2@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/114840_4688_NC_MM_fc-Web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/mZAQhGp7R-uHkRxFQF2DyQ/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "A League 2024-25",
-      "match_id": 110937,
-      "match_name": "Western Sydney Wanderers vs Brisbane Roar",
-      "team_1": "Western Sydney Wanderers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYWA@2x.png",
-      "team_2": "Brisbane Roar",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BRBI@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110937_4567_SYW_BRB_fc-web_1728983127073.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/6eAfE1AkSKeTojqrA8Vsqw/master.m3u8"
     },
     {
       "event_catagory": "football",
