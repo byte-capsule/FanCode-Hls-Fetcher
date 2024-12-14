@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "14-12-2024 on 4:42:19 PM \ud83c\udf1e",
+  "total_mathes": 7,
+  "last_upaded": "14-12-2024 on 4:55:12 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -39,6 +39,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/MM-CR2@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/114840_4688_NC_MM_fc-Web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/mZAQhGp7R-uHkRxFQF2DyQ/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "A League 2024-25",
+      "match_id": 110938,
+      "match_name": "Perth Glory vs Newcastle Jets",
+      "team_1": "Perth Glory",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PERTHGA@2x.png",
+      "team_2": "Newcastle Jets",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NJA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110938_4567_PG_NJ_fc-web_1728983128319.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/CsJ5G8d4TG6yLqj_DUJSOA/master.m3u8"
     },
     {
       "event_catagory": "football",
