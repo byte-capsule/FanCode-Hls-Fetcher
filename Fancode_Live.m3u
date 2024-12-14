@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Champagne Reef Divers vs Titou Gorge Splashers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v2.jpg" tvg-id="114159" group-title="Dream11 Nature Isle T10, 6th Edition, 2024",Champagne Reef Divers vs Titou Gorge Splashers
+https://dai.google.com/linear/hls/event/C4f3L2MiQRGgHz0Hd0GFjQ/master.m3u8
 #EXTINF:-1 tvg-name="Moira Titans vs Moira Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MP-Development-League_old.jpg" tvg-id="115321" group-title="MPL Player Development Program",Moira Titans vs Moira Warriors
 https://dai.google.com/linear/hls/event/uaqFw5fUR62kd_ecl9gy4g/master.m3u8
 #EXTINF:-1 tvg-name="Jersey Women vs Germany Women" tvg-logo="https://www.fancode.com/aig/match/v1/114651_CASACARDS_APP.png" tvg-id="114651" group-title="European Cricket Championship-W, 2024",Jersey Women vs Germany Women
@@ -13,3 +15,5 @@ https://dai.google.com/linear/hls/event/TmX-VpaiSJeu_7xC0KAk1w/master.m3u8
 https://dai.google.com/linear/hls/event/7kBbli9_Q9adgQSXc70JIA/master.m3u8
 #EXTINF:-1 tvg-name="Middlesbrough vs Millwall" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109897_4352_MIDD_MLW_fc-web.jpg" tvg-id="109897" group-title="EFL Championship 2024-25",Middlesbrough vs Millwall
 https://dai.google.com/linear/hls/event/DK9YP-IoSLW3zHX44F21sg/master.m3u8
+#EXTINF:-1 tvg-name="Professional Fighters League" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PFL_Europe_old-match-card.png" tvg-id="115085" group-title="Professional Fighters League",Professional Fighters League
+https://liveauth.fancode.com/primary/115085_english_hls_9171adfreeta-di/index.m3u8

@@ -1,9 +1,21 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "14-12-2024 on 9:40:33 PM \ud83c\udf19",
+  "total_mathes": 9,
+  "last_upaded": "14-12-2024 on 9:53:45 PM \ud83c\udf19",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "Dream11 Nature Isle T10, 6th Edition, 2024",
+      "match_id": 114159,
+      "match_name": "Champagne Reef Divers vs Titou Gorge Splashers",
+      "team_1": "Champagne Reef Divers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CHRD@2x.png",
+      "team_2": "Titou Gorge Splashers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TSPL@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v2.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/C4f3L2MiQRGgHz0Hd0GFjQ/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "MPL Player Development Program",
@@ -87,6 +99,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MILW@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/109897_4352_MIDD_MLW_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/DK9YP-IoSLW3zHX44F21sg/master.m3u8"
+    },
+    {
+      "event_catagory": "mma",
+      "event_name": "Professional Fighters League",
+      "match_id": 115085,
+      "match_name": "Professional Fighters League",
+      "team_1": "Professional Fighters League",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/mma-flags/FC-PE@2x.png",
+      "team_2": "Lyon, France",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/mma-flags/FC-LOC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/PFL_Europe_old-match-card.png",
+      "stream_link": "https://liveauth.fancode.com/primary/115085_english_hls_9171adfreeta-di/index.m3u8"
     }
   ]
 }
