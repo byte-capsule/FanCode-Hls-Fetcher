@@ -2,19 +2,19 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 6,
-  "last_upaded": "14-12-2024 on 1:53:21 PM \ud83c\udf1e",
+  "last_upaded": "14-12-2024 on 2:27:36 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
-      "event_name": "Nepal Premier League, 2024",
-      "match_id": 113748,
-      "match_name": "Chitwan Rhinos vs Janakpur Bolts",
-      "team_1": "Chitwan Rhinos",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CWR@2x.png",
-      "team_2": "Janakpur Bolts",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JKB@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113748_4657_CWR_JKB_fc-Web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/2JTnhY7NQh2U4WL6DjJiVA/master.m3u8"
+      "event_name": "National Cricket League T20, 2024",
+      "match_id": 114928,
+      "match_name": "Sylhet Division vs Rangpur Division",
+      "team_1": "Sylhet Division",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SD-CR2@2x.png",
+      "team_2": "Rangpur Division",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RD-CR2@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114928_4691_SD_RD_fc-web_1733857502021.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/EMiYq6GAROKkzFtzTDXUog/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -30,15 +30,27 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "National Cricket League T20, 2024",
-      "match_id": 114928,
-      "match_name": "Sylhet Division vs Rangpur Division",
-      "team_1": "Sylhet Division",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SD-CR2@2x.png",
-      "team_2": "Rangpur Division",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RD-CR2@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114928_4691_SD_RD_fc-web_1733857502021.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/EMiYq6GAROKkzFtzTDXUog/master.m3u8"
+      "event_name": "Nepal Premier League, 2024",
+      "match_id": 113748,
+      "match_name": "Chitwan Rhinos vs Janakpur Bolts",
+      "team_1": "Chitwan Rhinos",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CWR@2x.png",
+      "team_2": "Janakpur Bolts",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JKB@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113748_4657_CWR_JKB_fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/2JTnhY7NQh2U4WL6DjJiVA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "SCINDIA Cup MP Development League",
+      "match_id": 115320,
+      "match_name": "Moira Royals vs Moira Superkings",
+      "team_1": "Moira Royals",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR3@2x.png",
+      "team_2": "Moira Superkings",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR1@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/MP-Development-League_old.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/xyn4w8roSEqAnxGp55YamQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -54,27 +66,15 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "SCINDIA Cup MP Development League",
-      "match_id": 115320,
-      "match_name": "Moira Royals vs Moira Superkings",
-      "team_1": "Moira Royals",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR3@2x.png",
-      "team_2": "Moira Superkings",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR1@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/MP-Development-League_old.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/xyn4w8roSEqAnxGp55YamQ/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "A League 2024-25",
-      "match_id": 110936,
-      "match_name": "Sydney FC vs Western United",
-      "team_1": "Sydney FC",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYDA@2x.png",
-      "team_2": "Western United",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WSTA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110936_4567_SYD_WST_fc-web_1728983127739.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/reO-NsVFTXe_gkc7sPzx2Q/master.m3u8"
+      "event_name": "European Cricket Championship-W, 2024",
+      "match_id": 114649,
+      "match_name": "Austria Women vs Spain Women",
+      "team_1": "Austria Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUST@2x.png",
+      "team_2": "Spain Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESP@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114629_4684_ESP-W_AUT-W_fc-web_1733735800992.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/I_Sz9fPQRGOe721f7FG2sQ/master.m3u8"
     }
   ]
 }

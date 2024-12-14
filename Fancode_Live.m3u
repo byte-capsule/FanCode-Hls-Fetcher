@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Chitwan Rhinos vs Janakpur Bolts" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113748_4657_CWR_JKB_fc-Web.jpg" tvg-id="113748" group-title="Nepal Premier League, 2024",Chitwan Rhinos vs Janakpur Bolts
-https://dai.google.com/linear/hls/event/2JTnhY7NQh2U4WL6DjJiVA/master.m3u8
-#EXTINF:-1 tvg-name="Rajshahi Division vs Barisal Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114927_4691_RAD_BD_fc-web_1733857502270.jpg" tvg-id="114927" group-title="National Cricket League T20, 2024",Rajshahi Division vs Barisal Division
-https://dai.google.com/linear/hls/event/lMJIc04UTQi3BmPlwUAvTQ/master.m3u8
 #EXTINF:-1 tvg-name="Sylhet Division vs Rangpur Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114928_4691_SD_RD_fc-web_1733857502021.jpg" tvg-id="114928" group-title="National Cricket League T20, 2024",Sylhet Division vs Rangpur Division
 https://dai.google.com/linear/hls/event/EMiYq6GAROKkzFtzTDXUog/master.m3u8
-#EXTINF:-1 tvg-name="Bahrain vs Kuwait" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115013" group-title="Men's Gulf Cricket T20I Championship 2024",Bahrain vs Kuwait
-https://dai.google.com/linear/hls/event/8KatE3wtQ_qyVXyUqw_GxA/master.m3u8
+#EXTINF:-1 tvg-name="Rajshahi Division vs Barisal Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114927_4691_RAD_BD_fc-web_1733857502270.jpg" tvg-id="114927" group-title="National Cricket League T20, 2024",Rajshahi Division vs Barisal Division
+https://dai.google.com/linear/hls/event/lMJIc04UTQi3BmPlwUAvTQ/master.m3u8
+#EXTINF:-1 tvg-name="Chitwan Rhinos vs Janakpur Bolts" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113748_4657_CWR_JKB_fc-Web.jpg" tvg-id="113748" group-title="Nepal Premier League, 2024",Chitwan Rhinos vs Janakpur Bolts
+https://dai.google.com/linear/hls/event/2JTnhY7NQh2U4WL6DjJiVA/master.m3u8
 #EXTINF:-1 tvg-name="Moira Royals vs Moira Superkings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MP-Development-League_old.jpg" tvg-id="115320" group-title="SCINDIA Cup MP Development League",Moira Royals vs Moira Superkings
 https://dai.google.com/linear/hls/event/xyn4w8roSEqAnxGp55YamQ/master.m3u8
-#EXTINF:-1 tvg-name="Sydney FC vs Western United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110936_4567_SYD_WST_fc-web_1728983127739.jpg" tvg-id="110936" group-title="A League 2024-25",Sydney FC vs Western United
-https://dai.google.com/linear/hls/event/reO-NsVFTXe_gkc7sPzx2Q/master.m3u8
+#EXTINF:-1 tvg-name="Bahrain vs Kuwait" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115013" group-title="Men's Gulf Cricket T20I Championship 2024",Bahrain vs Kuwait
+https://dai.google.com/linear/hls/event/8KatE3wtQ_qyVXyUqw_GxA/master.m3u8
+#EXTINF:-1 tvg-name="Austria Women vs Spain Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114629_4684_ESP-W_AUT-W_fc-web_1733735800992.jpg" tvg-id="114649" group-title="European Cricket Championship-W, 2024",Austria Women vs Spain Women
+https://dai.google.com/linear/hls/event/I_Sz9fPQRGOe721f7FG2sQ/master.m3u8
