@@ -1,20 +1,20 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "14-12-2024 on 10:28:33 AM \ud83c\udf1e",
+  "total_mathes": 7,
+  "last_upaded": "14-12-2024 on 11:21:18 AM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
-      "event_name": "National Cricket League T20, 2024",
-      "match_id": 114925,
-      "match_name": "Dhaka Metropolis vs Khulna Division",
-      "team_1": "Dhaka Metropolis",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DM-CR1@2x.png",
-      "team_2": "Khulna Division",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/KD-CR1@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114925_4691_DM_KD_fc-web_1733857502035.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/MdQb4zXrS4eUuQCMUIaayw/master.m3u8"
+      "event_name": "Nepal Premier League, 2024",
+      "match_id": 113747,
+      "match_name": "Pokhara Avengers vs Kathmandu Gurkhas",
+      "team_1": "Pokhara Avengers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PKA@2x.png",
+      "team_2": "Kathmandu Gurkhas",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KMG@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113747_4657_PKA_KMG_fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/8ez2l_1_SqmYCI6JJEFUgw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -30,6 +30,18 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "National Cricket League T20, 2024",
+      "match_id": 114925,
+      "match_name": "Dhaka Metropolis vs Khulna Division",
+      "team_1": "Dhaka Metropolis",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DM-CR1@2x.png",
+      "team_2": "Khulna Division",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/KD-CR1@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114925_4691_DM_KD_fc-web_1733857502035.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/MdQb4zXrS4eUuQCMUIaayw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "WNCL, 2024-25",
       "match_id": 109393,
       "match_name": "Tasmania Women vs New South Wales Breakers",
@@ -42,15 +54,15 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Nepal Premier League, 2024",
-      "match_id": 113747,
-      "match_name": "Pokhara Avengers vs Kathmandu Gurkhas",
-      "team_1": "Pokhara Avengers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PKA@2x.png",
-      "team_2": "Kathmandu Gurkhas",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KMG@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113747_4657_PKA_KMG_fc-Web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/8ez2l_1_SqmYCI6JJEFUgw/master.m3u8"
+      "event_name": "Men's Gulf Cricket T20I Championship 2024",
+      "match_id": 115013,
+      "match_name": "Bahrain vs Kuwait",
+      "team_1": "Bahrain",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAH@2x.png",
+      "team_2": "Kuwait",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUW@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/8KatE3wtQ_qyVXyUqw_GxA/master.m3u8"
     },
     {
       "event_catagory": "football",
@@ -63,6 +75,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MACA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110935_4567_WEL_MAC_fc-web_1728983127285.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/HBk9hhCTTTi6yJrqgtcGPg/master.m3u8"
+    },
+    {
+      "event_catagory": "kabaddi",
+      "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
+      "match_id": 114740,
+      "match_name": "Himalayan Tahrs vs Ladakh Wolves",
+      "team_1": "Himalayan Tahrs",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-HIMT@2x.png",
+      "team_2": "Ladakh Wolves",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/LW-KB1@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114740_4687_HIM_LWS_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/PhdiDp_mS0GnQ2HQPiNvnw/master.m3u8"
     }
   ]
 }
