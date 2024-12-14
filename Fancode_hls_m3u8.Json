@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 9,
-  "last_upaded": "14-12-2024 on 3:53:08 PM \ud83c\udf1e",
+  "last_upaded": "14-12-2024 on 4:22:56 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -54,18 +54,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "European Cricket Championship-W, 2024",
-      "match_id": 114649,
-      "match_name": "Austria Women vs Spain Women",
-      "team_1": "Austria Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUST@2x.png",
-      "team_2": "Spain Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESP@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114629_4684_ESP-W_AUT-W_fc-web_1733735800992.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/I_Sz9fPQRGOe721f7FG2sQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "Big Cricket League, 2024",
       "match_id": 114840,
       "match_name": "Northern Challengers vs Mumbai Marines",
@@ -91,14 +79,14 @@
     {
       "event_catagory": "football",
       "event_name": "2nd Protech Guwahati Premier League 2024",
-      "match_id": 113847,
-      "match_name": "Barekuri FC vs Sunrise Athletic Club",
-      "team_1": "Barekuri FC",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BARE@2x.png",
-      "team_2": "Sunrise Athletic Club",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEF-FT2@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/JFOL3TWGQ8CbWIJFqrkjSA/master.m3u8"
+      "match_id": 113848,
+      "match_name": "Assam Police vs Numaligarh Refinery Limited",
+      "team_1": "Assam Police",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ASMP@2x.png",
+      "team_2": "Numaligarh Refinery Limited",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NRL@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2_1732617283192.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/2F7pybP2RnuQzZwtVTrA9Q/master.m3u8"
     },
     {
       "event_catagory": "golf",
@@ -111,6 +99,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/EstrellaDammNAAndaluciaMastersoldmatchcard.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/HuosabOYQceXz6TGkHJ3GA/master.m3u8"
+    },
+    {
+      "event_catagory": "kabaddi",
+      "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
+      "match_id": 114742,
+      "match_name": "Chambal Challengers vs Indore Invincibles",
+      "team_1": "Chambal Challengers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-CHA@2x.png",
+      "team_2": "Indore Invincibles",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/II-KB1@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114742_4687_CHA_IIS_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/As9tNxBtQZiyzgi9r76vjw/master.m3u8"
     }
   ]
 }
