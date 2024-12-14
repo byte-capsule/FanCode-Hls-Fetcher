@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Tasmania Women vs New South Wales Breakers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109393_4508_TASW_NSWB_fc-web.jpg" tvg-id="109393" group-title="WNCL, 2024-25",Tasmania Women vs New South Wales Breakers
+https://dai.google.com/linear/hls/event/U3lKAJzhQsyCR2VVSsgmHQ/master.m3u8
+#EXTINF:-1 tvg-name="Cucine Lube Civitanova vs Al Ahly SC" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115100" group-title="Men's Club World Champs 2024",Cucine Lube Civitanova vs Al Ahly SC
+https://dai.google.com/linear/hls/event/1krCWDOWSsaSgBEKygIPlA/master.m3u8
