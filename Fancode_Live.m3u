@@ -1,14 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Champagne Reef Divers vs Titou Gorge Splashers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v2.jpg" tvg-id="114159" group-title="Dream11 Nature Isle T10, 6th Edition, 2024",Champagne Reef Divers vs Titou Gorge Splashers
-https://dai.google.com/linear/hls/event/C4f3L2MiQRGgHz0Hd0GFjQ/master.m3u8
-#EXTINF:-1 tvg-name="Nuwara Eliya Kings vs Hambantota Bangla Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113999_4663_HBT_NEK_fc-web_1733813070545.jpg" tvg-id="113999" group-title="Lanka T10 Super League, 2024",Nuwara Eliya Kings vs Hambantota Bangla Tigers
-https://dai.google.com/linear/hls/event/KD6JwiuqSfaPfojIpKugDw/master.m3u8
-#EXTINF:-1 tvg-name="MP Tigers vs Rajasthan Regals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114841_4688_RR_MPT_fc-Web.jpg" tvg-id="114841" group-title="Big Cricket League, 2024",MP Tigers vs Rajasthan Regals
-https://dai.google.com/linear/hls/event/f0QMBiVsRFKPVHQ1WSmiRg/master.m3u8
-#EXTINF:-1 tvg-name="Bahamas vs Suriname" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="114039" group-title="ICC Men's T20 WC Sub Regional Americas Qualifier",Bahamas vs Suriname
-https://dai.google.com/linear/hls/event/TmX-VpaiSJeu_7xC0KAk1w/master.m3u8
-#EXTINF:-1 tvg-name="Middlesbrough vs Millwall" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109897_4352_MIDD_MLW_fc-web.jpg" tvg-id="109897" group-title="EFL Championship 2024-25",Middlesbrough vs Millwall
-https://dai.google.com/linear/hls/event/DK9YP-IoSLW3zHX44F21sg/master.m3u8
+#EXTINF:-1 tvg-name="Phoenix Riders vs Going Global" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112437_4616_GGL_PHR_fc-web_1731569490580.jpg" tvg-id="112437" group-title="KCC T20 Challengers A League, 2024-25",Phoenix Riders vs Going Global
+https://dai.google.com/linear/hls/event/gTqzhEXxQpK1XKtMBfrSHg/master.m3u8
+#EXTINF:-1 tvg-name="Mexico vs Argentina" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="114041" group-title="ICC Men's T20 WC Sub Regional Americas Qualifier",Mexico vs Argentina
+https://dai.google.com/linear/hls/event/ChbcjE3MQqSJy03PC7YHSg/master.m3u8
+#EXTINF:-1 tvg-name="Panama vs Belize" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="114040" group-title="ICC Men's T20 WC Sub Regional Americas Qualifier",Panama vs Belize
+https://dai.google.com/linear/hls/event/P-eKOoqJT5eUerVD6a-Tfw/master.m3u8
 #EXTINF:-1 tvg-name="Professional Fighters League" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PFL_Europe_old-match-card.png" tvg-id="115085" group-title="Professional Fighters League",Professional Fighters League
 https://liveauth.fancode.com/primary/115085_english_hls_9171adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Foolad Sirjan Iranian vs Sada Cruzeiro" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115101" group-title="Men's Club World Champs 2024",Foolad Sirjan Iranian vs Sada Cruzeiro
