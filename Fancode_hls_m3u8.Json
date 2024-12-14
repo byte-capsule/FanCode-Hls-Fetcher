@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "14-12-2024 on 2:27:36 PM \ud83c\udf1e",
+  "total_mathes": 7,
+  "last_upaded": "14-12-2024 on 2:46:07 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -54,18 +54,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Men's Gulf Cricket T20I Championship 2024",
-      "match_id": 115013,
-      "match_name": "Bahrain vs Kuwait",
-      "team_1": "Bahrain",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAH@2x.png",
-      "team_2": "Kuwait",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUW@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/8KatE3wtQ_qyVXyUqw_GxA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "European Cricket Championship-W, 2024",
       "match_id": 114649,
       "match_name": "Austria Women vs Spain Women",
@@ -75,6 +63,30 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESP@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/114629_4684_ESP-W_AUT-W_fc-web_1733735800992.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/I_Sz9fPQRGOe721f7FG2sQ/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "A League 2024-25",
+      "match_id": 110937,
+      "match_name": "Western Sydney Wanderers vs Brisbane Roar",
+      "team_1": "Western Sydney Wanderers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYWA@2x.png",
+      "team_2": "Brisbane Roar",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BRBI@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110937_4567_SYW_BRB_fc-web_1728983127073.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/6eAfE1AkSKeTojqrA8Vsqw/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "2nd Protech Guwahati Premier League 2024",
+      "match_id": 113847,
+      "match_name": "Barekuri FC vs Sunrise Athletic Club",
+      "team_1": "Barekuri FC",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BARE@2x.png",
+      "team_2": "Sunrise Athletic Club",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEF-FT2@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/JFOL3TWGQ8CbWIJFqrkjSA/master.m3u8"
     }
   ]
 }
