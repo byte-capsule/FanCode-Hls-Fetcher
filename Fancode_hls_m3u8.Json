@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 8,
-  "last_upaded": "14-12-2024 on 9:22:40 PM \ud83c\udf19",
+  "total_mathes": 7,
+  "last_upaded": "14-12-2024 on 9:40:33 PM \ud83c\udf19",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Dream11 Nature Isle T10, 6th Edition, 2024",
-      "match_id": 114158,
-      "match_name": "Indian River Rowers vs Sari Sari Sunrisers",
-      "team_1": "Indian River Rowers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROWE@2x.png",
-      "team_2": "Sari Sari Sunrisers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSUN@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v1.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/sxCJ-lr0TOOwTVuWGU1yIQ/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "MPL Player Development Program",
@@ -42,6 +30,18 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "Lanka T10 Super League, 2024",
+      "match_id": 113999,
+      "match_name": "Nuwara Eliya Kings vs Hambantota Bangla Tigers",
+      "team_1": "Nuwara Eliya Kings",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEK@2x.png",
+      "team_2": "Hambantota Bangla Tigers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HBTL@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113999_4663_HBT_NEK_fc-web_1733813070545.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/KD6JwiuqSfaPfojIpKugDw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "Big Cricket League, 2024",
       "match_id": 114841,
       "match_name": "MP Tigers vs Rajasthan Regals",
@@ -51,18 +51,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RR-CR4@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/114841_4688_RR_MPT_fc-Web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/f0QMBiVsRFKPVHQ1WSmiRg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Afghanistan tour of Zimbabwe, 2024-25",
-      "match_id": 113541,
-      "match_name": "Zimbabwe vs Afghanistan",
-      "team_1": "Zimbabwe",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
-      "team_2": "Afghanistan",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFG@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_old.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/7U_d6IKSSqG0J8mD7RhsvQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
