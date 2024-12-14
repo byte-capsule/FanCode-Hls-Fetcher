@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Tasmania Women vs New South Wales Breakers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109393_4508_TASW_NSWB_fc-web.jpg" tvg-id="109393" group-title="WNCL, 2024-25",Tasmania Women vs New South Wales Breakers
-https://dai.google.com/linear/hls/event/U3lKAJzhQsyCR2VVSsgmHQ/master.m3u8
 #EXTINF:-1 tvg-name="Dhaka Metropolis vs Khulna Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114925_4691_DM_KD_fc-web_1733857502035.jpg" tvg-id="114925" group-title="National Cricket League T20, 2024",Dhaka Metropolis vs Khulna Division
 https://dai.google.com/linear/hls/event/MdQb4zXrS4eUuQCMUIaayw/master.m3u8
+#EXTINF:-1 tvg-name="Dhaka Division vs Chattogram Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114926_4691_DD_CD_fc-web_1733857501962.jpg" tvg-id="114926" group-title="National Cricket League T20, 2024",Dhaka Division vs Chattogram Division
+https://dai.google.com/linear/hls/event/KJ6EurwJQbCmH5hC87hJjA/master.m3u8
+#EXTINF:-1 tvg-name="Tasmania Women vs New South Wales Breakers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109393_4508_TASW_NSWB_fc-web.jpg" tvg-id="109393" group-title="WNCL, 2024-25",Tasmania Women vs New South Wales Breakers
+https://dai.google.com/linear/hls/event/U3lKAJzhQsyCR2VVSsgmHQ/master.m3u8
+#EXTINF:-1 tvg-name="Pokhara Avengers vs Kathmandu Gurkhas" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113747_4657_PKA_KMG_fc-Web.jpg" tvg-id="113747" group-title="Nepal Premier League, 2024",Pokhara Avengers vs Kathmandu Gurkhas
+https://dai.google.com/linear/hls/event/8ez2l_1_SqmYCI6JJEFUgw/master.m3u8

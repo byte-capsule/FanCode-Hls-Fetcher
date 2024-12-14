@@ -1,9 +1,33 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 2,
-  "last_upaded": "14-12-2024 on 09:00:30 AM \ud83c\udf1e",
+  "total_mathes": 4,
+  "last_upaded": "14-12-2024 on 09:43:15 AM \ud83c\udf1e",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "National Cricket League T20, 2024",
+      "match_id": 114925,
+      "match_name": "Dhaka Metropolis vs Khulna Division",
+      "team_1": "Dhaka Metropolis",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DM-CR1@2x.png",
+      "team_2": "Khulna Division",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/KD-CR1@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114925_4691_DM_KD_fc-web_1733857502035.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/MdQb4zXrS4eUuQCMUIaayw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "National Cricket League T20, 2024",
+      "match_id": 114926,
+      "match_name": "Dhaka Division vs Chattogram Division",
+      "team_1": "Dhaka Division",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DD-CR5@2x.png",
+      "team_2": "Chattogram Division",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/CD-CR3@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114926_4691_DD_CD_fc-web_1733857501962.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/KJ6EurwJQbCmH5hC87hJjA/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "WNCL, 2024-25",
@@ -18,15 +42,15 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "National Cricket League T20, 2024",
-      "match_id": 114925,
-      "match_name": "Dhaka Metropolis vs Khulna Division",
-      "team_1": "Dhaka Metropolis",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DM-CR1@2x.png",
-      "team_2": "Khulna Division",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/KD-CR1@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114925_4691_DM_KD_fc-web_1733857502035.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/MdQb4zXrS4eUuQCMUIaayw/master.m3u8"
+      "event_name": "Nepal Premier League, 2024",
+      "match_id": 113747,
+      "match_name": "Pokhara Avengers vs Kathmandu Gurkhas",
+      "team_1": "Pokhara Avengers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PKA@2x.png",
+      "team_2": "Kathmandu Gurkhas",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KMG@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113747_4657_PKA_KMG_fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/8ez2l_1_SqmYCI6JJEFUgw/master.m3u8"
     }
   ]
 }
