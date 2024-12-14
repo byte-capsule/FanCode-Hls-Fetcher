@@ -1,16 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Indian River Rowers vs Sari Sari Sunrisers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v1.jpg" tvg-id="114158" group-title="Dream11 Nature Isle T10, 6th Edition, 2024",Indian River Rowers vs Sari Sari Sunrisers
+https://dai.google.com/linear/hls/event/sxCJ-lr0TOOwTVuWGU1yIQ/master.m3u8
 #EXTINF:-1 tvg-name="Moira Titans vs Moira Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MP-Development-League_old.jpg" tvg-id="115321" group-title="MPL Player Development Program",Moira Titans vs Moira Warriors
 https://dai.google.com/linear/hls/event/uaqFw5fUR62kd_ecl9gy4g/master.m3u8
-#EXTINF:-1 tvg-name="Oman vs Qatar" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115014" group-title="Men's Gulf Cricket T20I Championship 2024",Oman vs Qatar
-https://dai.google.com/linear/hls/event/__B-FFUAQribHIjD6v5crQ/master.m3u8
-#EXTINF:-1 tvg-name="Germany Women vs Spain Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114635_4684_ESP-W_GER-W_fc-web.jpg" tvg-id="114650" group-title="European Cricket Championship-W, 2024",Germany Women vs Spain Women
-https://dai.google.com/linear/hls/event/S6Qsr0ImQEG7_vCxDj6zIg/master.m3u8
 #EXTINF:-1 tvg-name="Galle Marvels vs Jaffna Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113998_4663_GM_JT_fc-web_1733813070756.jpg" tvg-id="113998" group-title="Lanka T10 Super League, 2024",Galle Marvels vs Jaffna Titans
 https://dai.google.com/linear/hls/event/FXA8UuhlRtCNgWROnLHk-w/master.m3u8
 #EXTINF:-1 tvg-name="Nigeria vs Uganda" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114457_4675_UGA_NIG_fc-web.jpg" tvg-id="114469" group-title="Africa T20I Continent Cup, 2024",Nigeria vs Uganda
 https://dai.google.com/linear/hls/event/j5VrEK90TACg3w0ee-dIiw/master.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe vs Afghanistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_old.jpg" tvg-id="113541" group-title="Afghanistan tour of Zimbabwe, 2024-25",Zimbabwe vs Afghanistan
 https://dai.google.com/linear/hls/event/7U_d6IKSSqG0J8mD7RhsvQ/master.m3u8
+#EXTINF:-1 tvg-name="Bahamas vs Suriname" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="114039" group-title="ICC Men's T20 WC Sub Regional Americas Qualifier",Bahamas vs Suriname
+https://dai.google.com/linear/hls/event/TmX-VpaiSJeu_7xC0KAk1w/master.m3u8
+#EXTINF:-1 tvg-name="Cayman Islands vs Brazil" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="114038" group-title="ICC Men's T20 WC Sub Regional Americas Qualifier",Cayman Islands vs Brazil
+https://dai.google.com/linear/hls/event/7kBbli9_Q9adgQSXc70JIA/master.m3u8
 #EXTINF:-1 tvg-name="Preston North End vs Leeds United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109899_4352_PST_LU_fc-web.jpg" tvg-id="109899" group-title="EFL Championship 2024-25",Preston North End vs Leeds United
 https://dai.google.com/linear/hls/event/2ohIfLSdTU6V1HOnONgHDQ/master.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/EstrellaDammNAAndaluciaMastersoldmatchcard.jpg" tvg-id="114578" group-title="Alfred Dunhill Championship",Day 3
