@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "14-12-2024 on 5:39:02 PM \ud83c\udf1e",
+  "total_mathes": 8,
+  "last_upaded": "14-12-2024 on 5:53:22 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -25,7 +25,7 @@
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GER@2x.png",
       "team_2": "Spain Women",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESP@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114635_4684_ESP-W_GER-W_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/S6Qsr0ImQEG7_vCxDj6zIg/master.m3u8"
     },
     {
@@ -87,6 +87,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/EstrellaDammNAAndaluciaMastersoldmatchcard.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/HuosabOYQceXz6TGkHJ3GA/master.m3u8"
+    },
+    {
+      "event_catagory": "kabaddi",
+      "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
+      "match_id": 114743,
+      "match_name": "Tadoba Tigers vs Vasco Vipers",
+      "team_1": "Tadoba Tigers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-TAT@2x.png",
+      "team_2": "Vasco Vipers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/VV-KB1@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114743_4687_TTS_VVS_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/iMitnv41StiT7QStddEQFg/master.m3u8"
     }
   ]
 }
