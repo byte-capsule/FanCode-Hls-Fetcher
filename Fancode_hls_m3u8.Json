@@ -2,19 +2,19 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 6,
-  "last_upaded": "14-12-2024 on 0:53:11 PM \ud83c\udf1e",
+  "last_upaded": "14-12-2024 on 1:21:01 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
-      "event_name": "National Cricket League T20, 2024",
-      "match_id": 114925,
-      "match_name": "Dhaka Metropolis vs Khulna Division",
-      "team_1": "Dhaka Metropolis",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DM-CR1@2x.png",
-      "team_2": "Khulna Division",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/KD-CR1@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114925_4691_DM_KD_fc-web_1733857502035.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/MdQb4zXrS4eUuQCMUIaayw/master.m3u8"
+      "event_name": "Nepal Premier League, 2024",
+      "match_id": 113748,
+      "match_name": "Chitwan Rhinos vs Janakpur Bolts",
+      "team_1": "Chitwan Rhinos",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CWR@2x.png",
+      "team_2": "Janakpur Bolts",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JKB@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113748_4657_CWR_JKB_fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/2JTnhY7NQh2U4WL6DjJiVA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -27,6 +27,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/BD-CR2@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/114927_4691_RAD_BD_fc-web_1733857502270.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/lMJIc04UTQi3BmPlwUAvTQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "National Cricket League T20, 2024",
+      "match_id": 114928,
+      "match_name": "Sylhet Division vs Rangpur Division",
+      "team_1": "Sylhet Division",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SD-CR2@2x.png",
+      "team_2": "Rangpur Division",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RD-CR2@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114928_4691_SD_RD_fc-web_1733857502021.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/EMiYq6GAROKkzFtzTDXUog/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -63,18 +75,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WSTA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110936_4567_SYD_WST_fc-web_1728983127739.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/reO-NsVFTXe_gkc7sPzx2Q/master.m3u8"
-    },
-    {
-      "event_catagory": "kabaddi",
-      "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
-      "match_id": 114741,
-      "match_name": "Dehradun Dynamos vs Konark Kings",
-      "team_1": "Dehradun Dynamos",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/DD-KB1@2x.png",
-      "team_2": "Konark Kings",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/KK-KB2@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114741_4687_DDS_KKS_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/apODbQSjTnaHRgfWwrY3Ww/master.m3u8"
     }
   ]
 }
