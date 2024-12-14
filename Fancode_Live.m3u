@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Phoenix Riders vs Going Global" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112437_4616_GGL_PHR_fc-web_1731569490580.jpg" tvg-id="112437" group-title="KCC T20 Challengers A League, 2024-25",Phoenix Riders vs Going Global
-https://dai.google.com/linear/hls/event/gTqzhEXxQpK1XKtMBfrSHg/master.m3u8
-#EXTINF:-1 tvg-name="Mexico vs Argentina" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="114041" group-title="ICC Men's T20 WC Sub Regional Americas Qualifier",Mexico vs Argentina
-https://dai.google.com/linear/hls/event/ChbcjE3MQqSJy03PC7YHSg/master.m3u8
-#EXTINF:-1 tvg-name="Panama vs Belize" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="114040" group-title="ICC Men's T20 WC Sub Regional Americas Qualifier",Panama vs Belize
-https://dai.google.com/linear/hls/event/P-eKOoqJT5eUerVD6a-Tfw/master.m3u8
 #EXTINF:-1 tvg-name="Professional Fighters League" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PFL_Europe_old-match-card.png" tvg-id="115085" group-title="Professional Fighters League",Professional Fighters League
 https://liveauth.fancode.com/primary/115085_english_hls_9171adfreeta-di/index.m3u8
 #EXTINF:-1 tvg-name="Foolad Sirjan Iranian vs Sada Cruzeiro" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115101" group-title="Men's Club World Champs 2024",Foolad Sirjan Iranian vs Sada Cruzeiro
