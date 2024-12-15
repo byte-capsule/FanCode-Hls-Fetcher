@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "15-12-2024 on 11:55:18 AM \ud83c\udf1e",
+  "total_mathes": 7,
+  "last_upaded": "15-12-2024 on 0:31:47 PM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Mumbai University Women Cricket Tournament",
-      "match_id": 115325,
-      "match_name": "Mumbai Suburban vs Konkan",
-      "team_1": "Mumbai Suburban",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR6@2x.png",
-      "team_2": "Konkan",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR9@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Mumbai-University-Women-Cricket-Tournament_old.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/qGn6Vz9nRDaUY-ped5hw4A/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Nepal Premier League, 2024",
@@ -75,6 +63,30 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ASN@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/114600_4681_AST_LCP_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/RN3Vp__fQPiJCnz3yLwCKg/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "A League 2024-25",
+      "match_id": 110939,
+      "match_name": "Melbourne City vs Auckland",
+      "team_1": "Melbourne City",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLCA@2x.png",
+      "team_2": "Auckland",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AUCK@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110939_4567_MLC_AFC_fc-web_1728983127433.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/7r8yuOBwQkiLug_6xPH0SQ/master.m3u8"
+    },
+    {
+      "event_catagory": "kabaddi",
+      "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
+      "match_id": 114745,
+      "match_name": "Himalayan Tahrs vs Vasco Vipers",
+      "team_1": "Himalayan Tahrs",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-HIMT@2x.png",
+      "team_2": "Vasco Vipers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/VV-KB1@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114745_4687_HIM_VVS_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/pjHWRXoESr689j8V6PYCOw/master.m3u8"
     }
   ]
 }
