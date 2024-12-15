@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 11,
-  "last_upaded": "15-12-2024 on 4:43:14 PM \ud83c\udf1e",
+  "total_mathes": 9,
+  "last_upaded": "15-12-2024 on 5:18:36 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -51,18 +51,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UMA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/114601_4681_NUR_UMA_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/9RbHSs9nQd66yxT17IGukw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "MPL Player Development Program",
-      "match_id": 115322,
-      "match_name": "Moira Superkings vs Moira Titans",
-      "team_1": "Moira Superkings",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR1@2x.png",
-      "team_2": "Moira Titans",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR4@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/MP-Development-League_old.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/wu-2y1XlS4uwX9vIc2_qVg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -123,18 +111,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/EstrellaDammNAndaluciaMastersoldmatchcard2.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/NqLru0kDR7-UX3HrDRRAAA/master.m3u8"
-    },
-    {
-      "event_catagory": "kabaddi",
-      "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
-      "match_id": 114746,
-      "match_name": "Indore Invincibles vs Ranchi Rangers",
-      "team_1": "Indore Invincibles",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/II-KB1@2x.png",
-      "team_2": "Ranchi Rangers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/RR-KB2@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114746_4687_IIS_RRS_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/9iAFiEZgTY6bytnW3B17dg/master.m3u8"
     }
   ]
 }
