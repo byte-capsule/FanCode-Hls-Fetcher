@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Chattogram Division vs Barisal Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114932_4691_CD_BD_fc-web_1733857502038.jpg" tvg-id="114932" group-title="National Cricket League T20, 2024",Chattogram Division vs Barisal Division
-https://dai.google.com/linear/hls/event/XJs7qNzAS2WGw3vaYpP7lQ/master.m3u8
-#EXTINF:-1 tvg-name="Khulna Division vs Sylhet Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114931_4691_SD_KD_fc-web_1733857501972.jpg" tvg-id="114931" group-title="National Cricket League T20, 2024",Khulna Division vs Sylhet Division
-https://dai.google.com/linear/hls/event/ys9-BPNvQqi1wmfRgkZdiw/master.m3u8
 #EXTINF:-1 tvg-name="Qatar vs Saudi Arabia" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115016" group-title="Men's Gulf Cricket T20I Championship 2024",Qatar vs Saudi Arabia
 https://dai.google.com/linear/hls/event/GU9zIQuKRJSYna3wJh_Fig/master.m3u8
 #EXTINF:-1 tvg-name="Nurpur Lions vs UMT Markhors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114601_4681_NUR_UMA_fc-web.jpg" tvg-id="114601" group-title="Champions T20 Cup, 2024",Nurpur Lions vs UMT Markhors
