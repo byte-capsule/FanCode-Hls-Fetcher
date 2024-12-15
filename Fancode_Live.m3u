@@ -1,11 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="GAT vs Ai Octopus Challengers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112438_4616_SZN_GAT_fc-web_1731569490761.jpg" tvg-id="112438" group-title="KCC T20 Challengers A League, 2024-25",GAT vs Ai Octopus Challengers
+https://dai.google.com/linear/hls/event/XJhI8ByYQx2BTdLYHDORqw/master.m3u8
 #EXTINF:-1 tvg-name="Champagne Reef Divers vs Barana Aute Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v2.jpg" tvg-id="114161" group-title="Dream11 Nature Isle T10, 6th Edition, 2024",Champagne Reef Divers vs Barana Aute Warriors
 https://dai.google.com/linear/hls/event/otyunZQQQZOvvy1avGY2GA/master.m3u8
-#EXTINF:-1 tvg-name="Jaffna Titans vs Nuwara Eliya Kings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114002_4663_JT_NEK_fc-web_1733813070427.jpg" tvg-id="114002" group-title="Lanka T10 Super League, 2024",Jaffna Titans vs Nuwara Eliya Kings
-https://dai.google.com/linear/hls/event/dDb4AkEYRiuBF9tJD3FSzQ/master.m3u8
 #EXTINF:-1 tvg-name="Mumbai Marines vs Rajasthan Regals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114843_4688_MM_RR_fc-Web.jpg" tvg-id="114843" group-title="Big Cricket League, 2024",Mumbai Marines vs Rajasthan Regals
 https://dai.google.com/linear/hls/event/rdsPpngIR2G43kumgfsoSg/master.m3u8
-#EXTINF:-1 tvg-name="Norwich City vs Burnley" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109898_4352_NOR_BUR_fc-web.jpg" tvg-id="109898" group-title="EFL Championship 2024-25",Norwich City vs Burnley
-https://dai.google.com/linear/hls/event/_RChFsz2TmSZ3yebVjNroQ/master.m3u8
-#EXTINF:-1 tvg-name="Foolad Sirjan Iranian vs Cucine Lube Civitanova" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115103" group-title="Men's Club World Champs 2024",Foolad Sirjan Iranian vs Cucine Lube Civitanova
-https://dai.google.com/linear/hls/event/GQI9dg_aS6uDDaFjnn3oWA/master.m3u8
+#EXTINF:-1 tvg-name="Sada Cruzeiro vs Trentino Itas" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115104" group-title="Men's Club World Champs 2024",Sada Cruzeiro vs Trentino Itas
+https://dai.google.com/linear/hls/event/6InOpAKdSOKlLDtQYsDDHQ/master.m3u8
