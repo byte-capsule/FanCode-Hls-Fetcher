@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Dhaka Metropolis vs Dhaka Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114929_4691_DD_DM_fc-web_1733857501963.jpg" tvg-id="114929" group-title="National Cricket League T20, 2024",Dhaka Metropolis vs Dhaka Division
-https://dai.google.com/linear/hls/event/qKAUY2-gQ66nH8VT6uh_xA/master.m3u8
-#EXTINF:-1 tvg-name="Rajshahi Division vs Rangpur Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114930_4691_RD_RAD_fc-web_1733857502265.jpg" tvg-id="114930" group-title="National Cricket League T20, 2024",Rajshahi Division vs Rangpur Division
-https://dai.google.com/linear/hls/event/BiZOpPOPTxCMGKaUQYC5XA/master.m3u8
-#EXTINF:-1 tvg-name="Biratnagar Kings vs Kathmandu Gurkhas" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113749_4657_BK_KMG_fc-Web.jpg" tvg-id="113749" group-title="Nepal Premier League, 2024",Biratnagar Kings vs Kathmandu Gurkhas
-https://dai.google.com/linear/hls/event/wKR_HmCzRmuS0Eqmn1IrCQ/master.m3u8
 #EXTINF:-1 tvg-name="Mumbai Suburban vs Konkan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mumbai-University-Women-Cricket-Tournament_old.jpg" tvg-id="115325" group-title="Mumbai University Women Cricket Tournament",Mumbai Suburban vs Konkan
 https://dai.google.com/linear/hls/event/qGn6Vz9nRDaUY-ped5hw4A/master.m3u8
+#EXTINF:-1 tvg-name="Biratnagar Kings vs Kathmandu Gurkhas" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113749_4657_BK_KMG_fc-Web.jpg" tvg-id="113749" group-title="Nepal Premier League, 2024",Biratnagar Kings vs Kathmandu Gurkhas
+https://dai.google.com/linear/hls/event/wKR_HmCzRmuS0Eqmn1IrCQ/master.m3u8
+#EXTINF:-1 tvg-name="Rajshahi Division vs Rangpur Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114930_4691_RD_RAD_fc-web_1733857502265.jpg" tvg-id="114930" group-title="National Cricket League T20, 2024",Rajshahi Division vs Rangpur Division
+https://dai.google.com/linear/hls/event/BiZOpPOPTxCMGKaUQYC5XA/master.m3u8
+#EXTINF:-1 tvg-name="Dhaka Metropolis vs Dhaka Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114929_4691_DD_DM_fc-web_1733857501963.jpg" tvg-id="114929" group-title="National Cricket League T20, 2024",Dhaka Metropolis vs Dhaka Division
+https://dai.google.com/linear/hls/event/qKAUY2-gQ66nH8VT6uh_xA/master.m3u8
 #EXTINF:-1 tvg-name="United Arab Emirates vs Oman" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115015" group-title="Men's Gulf Cricket T20I Championship 2024",United Arab Emirates vs Oman
 https://dai.google.com/linear/hls/event/83PXx0SyTXCrNZg0t5ymiw/master.m3u8
 #EXTINF:-1 tvg-name="Chambal Challengers vs Konark Kings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114744_4687_CHA_KKS_fc-web.jpg" tvg-id="114744" group-title="Yuva Kabaddi Series Edition 11 - Division Rounds",Chambal Challengers vs Konark Kings
