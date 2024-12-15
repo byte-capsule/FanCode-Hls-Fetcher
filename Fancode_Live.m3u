@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Mumbai City vs Thane" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mumbai-University-Women-Cricket-Tournament_old.jpg" tvg-id="115326" group-title="Mumbai University Women Cricket Tournament",Mumbai City vs Thane
-https://dai.google.com/linear/hls/event/wMZ6VD9dT8WrQjNsL0cmcA/master.m3u8
 #EXTINF:-1 tvg-name="Sudurpaschim Royals vs Pokhara Avengers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113750_4657_PKA_SPR_fc-Web.jpg" tvg-id="113750" group-title="Nepal Premier League, 2024",Sudurpaschim Royals vs Pokhara Avengers
 https://dai.google.com/linear/hls/event/mMYYUYkqRciDDObZYtvaQg/master.m3u8
 #EXTINF:-1 tvg-name="Chattogram Division vs Barisal Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114932_4691_CD_BD_fc-web_1733857502038.jpg" tvg-id="114932" group-title="National Cricket League T20, 2024",Chattogram Division vs Barisal Division
