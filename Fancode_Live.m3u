@@ -1,18 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Sudurpaschim Royals vs Pokhara Avengers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113750_4657_PKA_SPR_fc-Web.jpg" tvg-id="113750" group-title="Nepal Premier League, 2024",Sudurpaschim Royals vs Pokhara Avengers
-https://dai.google.com/linear/hls/event/mMYYUYkqRciDDObZYtvaQg/master.m3u8
 #EXTINF:-1 tvg-name="Chattogram Division vs Barisal Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114932_4691_CD_BD_fc-web_1733857502038.jpg" tvg-id="114932" group-title="National Cricket League T20, 2024",Chattogram Division vs Barisal Division
 https://dai.google.com/linear/hls/event/XJs7qNzAS2WGw3vaYpP7lQ/master.m3u8
 #EXTINF:-1 tvg-name="Khulna Division vs Sylhet Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114931_4691_SD_KD_fc-web_1733857501972.jpg" tvg-id="114931" group-title="National Cricket League T20, 2024",Khulna Division vs Sylhet Division
 https://dai.google.com/linear/hls/event/ys9-BPNvQqi1wmfRgkZdiw/master.m3u8
-#EXTINF:-1 tvg-name="Moira Superkings vs Moira Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MP-Development-League_old.jpg" tvg-id="115322" group-title="MPL Player Development Program",Moira Superkings vs Moira Titans
-https://dai.google.com/linear/hls/event/wu-2y1XlS4uwX9vIc2_qVg/master.m3u8
-#EXTINF:-1 tvg-name="Nurpur Lions vs UMT Markhors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114601_4681_NUR_UMA_fc-web.jpg" tvg-id="114601" group-title="Champions T20 Cup, 2024",Nurpur Lions vs UMT Markhors
-https://dai.google.com/linear/hls/event/9RbHSs9nQd66yxT17IGukw/master.m3u8
 #EXTINF:-1 tvg-name="Qatar vs Saudi Arabia" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115016" group-title="Men's Gulf Cricket T20I Championship 2024",Qatar vs Saudi Arabia
 https://dai.google.com/linear/hls/event/GU9zIQuKRJSYna3wJh_Fig/master.m3u8
+#EXTINF:-1 tvg-name="Nurpur Lions vs UMT Markhors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114601_4681_NUR_UMA_fc-web.jpg" tvg-id="114601" group-title="Champions T20 Cup, 2024",Nurpur Lions vs UMT Markhors
+https://dai.google.com/linear/hls/event/9RbHSs9nQd66yxT17IGukw/master.m3u8
+#EXTINF:-1 tvg-name="Moira Superkings vs Moira Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MP-Development-League_old.jpg" tvg-id="115322" group-title="MPL Player Development Program",Moira Superkings vs Moira Titans
+https://dai.google.com/linear/hls/event/wu-2y1XlS4uwX9vIc2_qVg/master.m3u8
+#EXTINF:-1 tvg-name="Scotland XI-W vs Ireland XI-W" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114653_4684_SCXI-W_IRXI-W_fc-web.jpg" tvg-id="114653" group-title="European Cricket Championship-W, 2024",Scotland XI-W vs Ireland XI-W
+https://dai.google.com/linear/hls/event/wwK95M4lSvull8txO_h2fw/master.m3u8
 #EXTINF:-1 tvg-name="MP Tigers vs UP Brij Stars" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114842_4688_UPBS_MPT_fc-Web.jpg" tvg-id="114842" group-title="Big Cricket League, 2024",MP Tigers vs UP Brij Stars
 https://dai.google.com/linear/hls/event/QiYRN7UBTJGqk3sCVIFrZQ/master.m3u8
+#EXTINF:-1 tvg-name="Hambantota Bangla Tigers vs Kandy Bolts" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114000_4663_HBT_KB_fc-web_1733813070797.jpg" tvg-id="114000" group-title="Lanka T10 Super League, 2024",Hambantota Bangla Tigers vs Kandy Bolts
+https://dai.google.com/linear/hls/event/t38RhJ11TUSoC0OjxDllBw/master.m3u8
 #EXTINF:-1 tvg-name="Oil India Limited vs FC Green Valley" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2_1732617283192.jpg" tvg-id="113850" group-title="2nd Protech Guwahati Premier League 2024",Oil India Limited vs FC Green Valley
 https://dai.google.com/linear/hls/event/zOzZYJP2Qdu5IMUZVZ6a7A/master.m3u8
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/EstrellaDammNAndaluciaMastersoldmatchcard2.jpg" tvg-id="114579" group-title="Alfred Dunhill Championship",Day 4

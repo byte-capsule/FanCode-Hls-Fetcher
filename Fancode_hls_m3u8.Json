@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 10,
-  "last_upaded": "15-12-2024 on 4:23:53 PM \ud83c\udf1e",
+  "total_mathes": 11,
+  "last_upaded": "15-12-2024 on 4:43:14 PM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Nepal Premier League, 2024",
-      "match_id": 113750,
-      "match_name": "Sudurpaschim Royals vs Pokhara Avengers",
-      "team_1": "Sudurpaschim Royals",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SPR@2x.png",
-      "team_2": "Pokhara Avengers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PKA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113750_4657_PKA_SPR_fc-Web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/mMYYUYkqRciDDObZYtvaQg/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "National Cricket League T20, 2024",
@@ -42,15 +30,15 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "MPL Player Development Program",
-      "match_id": 115322,
-      "match_name": "Moira Superkings vs Moira Titans",
-      "team_1": "Moira Superkings",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR1@2x.png",
-      "team_2": "Moira Titans",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR4@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/MP-Development-League_old.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/wu-2y1XlS4uwX9vIc2_qVg/master.m3u8"
+      "event_name": "Men's Gulf Cricket T20I Championship 2024",
+      "match_id": 115016,
+      "match_name": "Qatar vs Saudi Arabia",
+      "team_1": "Qatar",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-QTR@2x.png",
+      "team_2": "Saudi Arabia",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KSA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/GU9zIQuKRJSYna3wJh_Fig/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -66,15 +54,27 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Men's Gulf Cricket T20I Championship 2024",
-      "match_id": 115016,
-      "match_name": "Qatar vs Saudi Arabia",
-      "team_1": "Qatar",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-QTR@2x.png",
-      "team_2": "Saudi Arabia",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KSA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/GU9zIQuKRJSYna3wJh_Fig/master.m3u8"
+      "event_name": "MPL Player Development Program",
+      "match_id": 115322,
+      "match_name": "Moira Superkings vs Moira Titans",
+      "team_1": "Moira Superkings",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR1@2x.png",
+      "team_2": "Moira Titans",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR4@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/MP-Development-League_old.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/wu-2y1XlS4uwX9vIc2_qVg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "European Cricket Championship-W, 2024",
+      "match_id": 114653,
+      "match_name": "Scotland XI-W vs Ireland XI-W",
+      "team_1": "Scotland XI-W",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SCO-CR1@2x.png",
+      "team_2": "Ireland XI-W",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/IRE-CR1@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114653_4684_SCXI-W_IRXI-W_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/wwK95M4lSvull8txO_h2fw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -87,6 +87,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/UBS-CR1@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/114842_4688_UPBS_MPT_fc-Web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/QiYRN7UBTJGqk3sCVIFrZQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Lanka T10 Super League, 2024",
+      "match_id": 114000,
+      "match_name": "Hambantota Bangla Tigers vs Kandy Bolts",
+      "team_1": "Hambantota Bangla Tigers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HBTL@2x.png",
+      "team_2": "Kandy Bolts",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBL@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114000_4663_HBT_KB_fc-web_1733813070797.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/t38RhJ11TUSoC0OjxDllBw/master.m3u8"
     },
     {
       "event_catagory": "football",
