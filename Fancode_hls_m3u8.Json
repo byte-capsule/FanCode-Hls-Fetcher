@@ -1,9 +1,33 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "15-12-2024 on 7:13:02 PM \ud83c\udf19",
+  "total_mathes": 6,
+  "last_upaded": "15-12-2024 on 7:33:58 PM \ud83c\udf19",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC Men's T20 WC Sub Regional Americas Qualifier",
+      "match_id": 114043,
+      "match_name": "Cayman Islands vs Argentina",
+      "team_1": "Cayman Islands",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CYIS@2x.png",
+      "team_2": "Argentina",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ARGT@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/9QgMU4zuT-iFpJmss169rg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC Men's T20 WC Sub Regional Americas Qualifier",
+      "match_id": 114042,
+      "match_name": "Brazil vs Belize",
+      "team_1": "Brazil",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRA@2x.png",
+      "team_2": "Belize",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BEZ@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/JZP5zSqBSHimANmiUNu-IA/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "Champions T20 Cup, 2024",
@@ -27,18 +51,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ITA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/114654_4684_ITA-W_NDXI-W_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/eexupH87S8yiVwX6Bv2U2A/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Big Cricket League, 2024",
-      "match_id": 114842,
-      "match_name": "MP Tigers vs UP Brij Stars",
-      "team_1": "MP Tigers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/MPT-CR1@2x.png",
-      "team_2": "UP Brij Stars",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/UBS-CR1@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114842_4688_UPBS_MPT_fc-Web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/QiYRN7UBTJGqk3sCVIFrZQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
