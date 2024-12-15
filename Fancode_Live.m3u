@@ -1,15 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Biratnagar Kings vs Kathmandu Gurkhas" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113749_4657_BK_KMG_fc-Web.jpg" tvg-id="113749" group-title="Nepal Premier League, 2024",Biratnagar Kings vs Kathmandu Gurkhas
-https://dai.google.com/linear/hls/event/wKR_HmCzRmuS0Eqmn1IrCQ/master.m3u8
+#EXTINF:-1 tvg-name="Mumbai City vs Thane" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mumbai-University-Women-Cricket-Tournament_old.jpg" tvg-id="115326" group-title="Mumbai University Women Cricket Tournament",Mumbai City vs Thane
+https://dai.google.com/linear/hls/event/wMZ6VD9dT8WrQjNsL0cmcA/master.m3u8
 #EXTINF:-1 tvg-name="Rajshahi Division vs Rangpur Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114930_4691_RD_RAD_fc-web_1733857502265.jpg" tvg-id="114930" group-title="National Cricket League T20, 2024",Rajshahi Division vs Rangpur Division
 https://dai.google.com/linear/hls/event/BiZOpPOPTxCMGKaUQYC5XA/master.m3u8
-#EXTINF:-1 tvg-name="Dhaka Metropolis vs Dhaka Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114929_4691_DD_DM_fc-web_1733857501963.jpg" tvg-id="114929" group-title="National Cricket League T20, 2024",Dhaka Metropolis vs Dhaka Division
-https://dai.google.com/linear/hls/event/qKAUY2-gQ66nH8VT6uh_xA/master.m3u8
+#EXTINF:-1 tvg-name="Sylhet Division vs Khulna Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114931_4691_SD_KD_fc-web_1733857501972.jpg" tvg-id="114931" group-title="National Cricket League T20, 2024",Sylhet Division vs Khulna Division
+https://dai.google.com/linear/hls/event/ys9-BPNvQqi1wmfRgkZdiw/master.m3u8
 #EXTINF:-1 tvg-name="United Arab Emirates vs Oman" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115015" group-title="Men's Gulf Cricket T20I Championship 2024",United Arab Emirates vs Oman
 https://dai.google.com/linear/hls/event/83PXx0SyTXCrNZg0t5ymiw/master.m3u8
 #EXTINF:-1 tvg-name="Lake City Panthers vs ABL Stallions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114600_4681_AST_LCP_fc-web.jpg" tvg-id="114600" group-title="Champions T20 Cup, 2024",Lake City Panthers vs ABL Stallions
 https://dai.google.com/linear/hls/event/RN3Vp__fQPiJCnz3yLwCKg/master.m3u8
 #EXTINF:-1 tvg-name="Melbourne City vs Auckland" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110939_4567_MLC_AFC_fc-web_1728983127433.jpg" tvg-id="110939" group-title="A League 2024-25",Melbourne City vs Auckland
 https://dai.google.com/linear/hls/event/7r8yuOBwQkiLug_6xPH0SQ/master.m3u8
-#EXTINF:-1 tvg-name="Himalayan Tahrs vs Vasco Vipers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114745_4687_HIM_VVS_fc-web.jpg" tvg-id="114745" group-title="Yuva Kabaddi Series Edition 11 - Division Rounds",Himalayan Tahrs vs Vasco Vipers
-https://dai.google.com/linear/hls/event/pjHWRXoESr689j8V6PYCOw/master.m3u8
