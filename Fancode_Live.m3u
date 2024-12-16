@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="New South Wales Breakers vs Tasmania Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109394_4508_TASW_NSWB_fc-web.jpg" tvg-id="109394" group-title="WNCL, 2024-25",New South Wales Breakers vs Tasmania Women
-https://dai.google.com/linear/hls/event/oAZ3fyiaSNS5VHh5hiVkdw/master.m3u8
 #EXTINF:-1 tvg-name="Karnali Yaks vs Sudurpaschim Royals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113751_4657_SPR_KNY_fc-Web.jpg" tvg-id="113751" group-title="Nepal Premier League, 2024",Karnali Yaks vs Sudurpaschim Royals
 https://dai.google.com/linear/hls/event/YtcrbE3IRh2xrvvOQYVGqg/master.m3u8
 #EXTINF:-1 tvg-name="Thane vs Konkan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mumbai-University-Women-Cricket-Tournament_old.jpg" tvg-id="115327" group-title="Mumbai University Women Cricket Tournament",Thane vs Konkan
@@ -9,5 +7,3 @@ https://dai.google.com/linear/hls/event/62Lhn6TRR1uGt4T8-0bP2Q/master.m3u8
 https://dai.google.com/linear/hls/event/_t3RK-fnR_OLfLL0fWzASQ/master.m3u8
 #EXTINF:-1 tvg-name="Saudi Arabia vs Bahrain" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115017" group-title="Men's Gulf Cricket T20I Championship 2024",Saudi Arabia vs Bahrain
 https://dai.google.com/linear/hls/event/e8mb_I-7QQGx2W2hWY8mMQ/master.m3u8
-#EXTINF:-1 tvg-name="Chambal Challengers vs Himalayan Tahrs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114748_4687_CHA_HIM_fc-web.jpg" tvg-id="114748" group-title="Yuva Kabaddi Series Edition 11 - Division Rounds",Chambal Challengers vs Himalayan Tahrs
-https://dai.google.com/linear/hls/event/klKLgD13R-ilXa8PvKiiXQ/master.m3u8
