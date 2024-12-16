@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "16-12-2024 on 11:41:03 PM \ud83c\udf19",
+  "total_mathes": 5,
+  "last_upaded": "16-12-2024 on 11:54:00 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,6 +27,30 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSUN@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v2.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/D6H-Syl2Q2mvLmmGyuqdcQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC Men's T20 WC Sub Regional Americas Qualifier",
+      "match_id": 114049,
+      "match_name": "Argentina vs Brazil",
+      "team_1": "Argentina",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ARGT@2x.png",
+      "team_2": "Brazil",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/DiEs6VD2TfCcg1H1POTCdg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC Men's T20 WC Sub Regional Americas Qualifier",
+      "match_id": 114048,
+      "match_name": "Belize vs Suriname",
+      "team_1": "Belize",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BEZ@2x.png",
+      "team_2": "Suriname",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SRN-CR1@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/SL_tZShMTxCdDyqFLPtXBg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
