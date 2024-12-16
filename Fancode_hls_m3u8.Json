@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "16-12-2024 on 4:29:18 PM \ud83c\udf1e",
+  "total_mathes": 8,
+  "last_upaded": "16-12-2024 on 4:48:04 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -63,6 +63,30 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NC-CR2@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/114844_4688_NC_MPT_fc-Web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/JEaeYSZoSuy_rJ2wWgJwBQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Lanka T10 Super League, 2024",
+      "match_id": 114003,
+      "match_name": "Nuwara Eliya Kings vs Galle Marvels",
+      "team_1": "Nuwara Eliya Kings",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEK@2x.png",
+      "team_2": "Galle Marvels",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GM@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114003_4663_NEK_GM_fc-web_1733813071108.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/sufln4F1SByfLWPlnv1nCg/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "2nd Protech Guwahati Premier League 2024",
+      "match_id": 113852,
+      "match_name": "DBI SC vs United Chirangduar FC",
+      "team_1": "DBI SC",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-DBI@2x.png",
+      "team_2": "United Chirangduar FC",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-UCD@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2_1732617283192.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/onoNLdEWQPiqUYOOxssh1w/master.m3u8"
     },
     {
       "event_catagory": "kabaddi",
