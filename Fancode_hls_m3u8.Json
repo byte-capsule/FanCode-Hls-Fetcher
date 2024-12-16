@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "16-12-2024 on 10:47:22 AM \ud83c\udf1e",
+  "total_mathes": 6,
+  "last_upaded": "16-12-2024 on 11:24:22 AM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -51,6 +51,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DTA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-Mavericks-Vs-Delhi-Titans_OLD_1734109340198.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/_t3RK-fnR_OLfLL0fWzASQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Men's Gulf Cricket T20I Championship 2024",
+      "match_id": 115017,
+      "match_name": "Saudi Arabia vs Bahrain",
+      "team_1": "Saudi Arabia",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KSA@2x.png",
+      "team_2": "Bahrain",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAH@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/e8mb_I-7QQGx2W2hWY8mMQ/master.m3u8"
     },
     {
       "event_catagory": "kabaddi",
