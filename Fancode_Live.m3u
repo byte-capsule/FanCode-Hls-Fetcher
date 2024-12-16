@@ -1,17 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Chennai Marvels vs Varanasi Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chennai-Marvels-Vs-Varanasi-Warriors_OLD_1734109662300.jpg" tvg-id="115340" group-title="Actors Cricket Bash",Chennai Marvels vs Varanasi Warriors
 https://dai.google.com/linear/hls/event/PW9bGhpYTT-bL5QXxpeAmQ/master.m3u8
-#EXTINF:-1 tvg-name="Mumbai Aces vs Ahmedabad Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mumbai-Aces-Vs-Ahmedabad-Lions_OLD_1734109487215.jpg" tvg-id="115339" group-title="Actors Cricket Bash",Mumbai Aces vs Ahmedabad Lions
-https://dai.google.com/linear/hls/event/OLN9J_HjSUGAWC1jx3lg5Q/master.m3u8
 #EXTINF:-1 tvg-name="Thane vs Konkan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mumbai-University-Women-Cricket-Tournament_old.jpg" tvg-id="115328" group-title="Mumbai University Women Cricket Tournament",Thane vs Konkan
 https://dai.google.com/linear/hls/event/cBoO8P6zQUmadJ7OpIA42w/master.m3u8
 #EXTINF:-1 tvg-name="United Arab Emirates vs Kuwait" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115018" group-title="Men's Gulf Cricket T20I Championship 2024",United Arab Emirates vs Kuwait
 https://dai.google.com/linear/hls/event/FV_BCgYdRwqtPCmAzHjQ2Q/master.m3u8
-#EXTINF:-1 tvg-name="Engro Dolphins vs Lake City Panthers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114602_4681_LCP_END_fc-web.jpg" tvg-id="114602" group-title="Champions T20 Cup, 2024",Engro Dolphins vs Lake City Panthers
-https://dai.google.com/linear/hls/event/cfJnK7l-Ra2CbjvWMBLoqw/master.m3u8
-#EXTINF:-1 tvg-name="Ireland XI-W vs Italy Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114656_4684_IRXI-W_ITA-W_fc-web.jpg" tvg-id="114656" group-title="European Cricket Championship-W, 2024",Ireland XI-W vs Italy Women
-https://dai.google.com/linear/hls/event/07FgXIfdTlK0v4K9dfB73g/master.m3u8
+#EXTINF:-1 tvg-name="Netherlands XI-W vs Scotland XI-W" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114657_4684_NDXI-W_SCXI-W_fc-web.jpg" tvg-id="114657" group-title="European Cricket Championship-W, 2024",Netherlands XI-W vs Scotland XI-W
+https://dai.google.com/linear/hls/event/PlfSc_pwTzqvCZf4qyGgIg/master.m3u8
 #EXTINF:-1 tvg-name="MP Tigers vs Northern Challengers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114844_4688_NC_MPT_fc-Web.jpg" tvg-id="114844" group-title="Big Cricket League, 2024",MP Tigers vs Northern Challengers
 https://dai.google.com/linear/hls/event/JEaeYSZoSuy_rJ2wWgJwBQ/master.m3u8
-#EXTINF:-1 tvg-name="Barekuri FC vs NorthEast United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg" tvg-id="113851" group-title="2nd Protech Guwahati Premier League 2024",Barekuri FC vs NorthEast United
-https://dai.google.com/linear/hls/event/PS7ZTiQSS2uuiL6u_sqYmw/master.m3u8
+#EXTINF:-1 tvg-name="Konark Kings vs Ranchi Rangers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114750_4687_KKS_RRS_fc-web.jpg" tvg-id="114750" group-title="Yuva Kabaddi Series Edition 11 - Division Rounds",Konark Kings vs Ranchi Rangers
+https://dai.google.com/linear/hls/event/9c5c8loYSWGObGFupI9aKA/master.m3u8
