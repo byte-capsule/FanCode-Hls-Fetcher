@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "16-12-2024 on 10:29:01 AM \ud83c\udf1e",
+  "total_mathes": 5,
+  "last_upaded": "16-12-2024 on 10:47:22 AM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -51,6 +51,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DTA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-Mavericks-Vs-Delhi-Titans_OLD_1734109340198.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/_t3RK-fnR_OLfLL0fWzASQ/master.m3u8"
+    },
+    {
+      "event_catagory": "kabaddi",
+      "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
+      "match_id": 114748,
+      "match_name": "Chambal Challengers vs Himalayan Tahrs",
+      "team_1": "Chambal Challengers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-CHA@2x.png",
+      "team_2": "Himalayan Tahrs",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-HIMT@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114748_4687_CHA_HIM_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/klKLgD13R-ilXa8PvKiiXQ/master.m3u8"
     }
   ]
 }
