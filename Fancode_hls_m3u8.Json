@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 2,
-  "last_upaded": "18-12-2024 on 01:53:11 AM \ud83c\udf19",
+  "total_mathes": 1,
+  "last_upaded": "18-12-2024 on 02:24:57 AM \ud83c\udf19",
   "matches": [
-    {
-      "event_catagory": "basketball",
-      "event_name": "EuroLeague 2024-25",
-      "match_id": 113669,
-      "match_name": "Monaco vs Bayern Munich",
-      "team_1": "Monaco",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-MNCO@2x.png",
-      "team_2": "Bayern Munich",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-BYRN@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/113669_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/-LXs0v9qQJSn1HoPHntdig/master.m3u8"
-    },
     {
       "event_catagory": "basketball",
       "event_name": "EuroLeague 2024-25",
