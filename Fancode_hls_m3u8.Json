@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "17-12-2024 on 7:53:20 PM \ud83c\udf19",
+  "total_mathes": 2,
+  "last_upaded": "17-12-2024 on 8:23:10 PM \ud83c\udf19",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "European Cricket Championship-W, 2024",
-      "match_id": 114662,
-      "match_name": "Italy Women vs England XI-W",
-      "team_1": "Italy Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ITA@2x.png",
-      "team_2": "England XI-W",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114662_4684_EXI-W_ITA-W_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/cKk9rgG4TYqFTHg6evKG8Q/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Lanka T10 Super League, 2024",
