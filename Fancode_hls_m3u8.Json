@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "17-12-2024 on 10:28:34 AM \ud83c\udf1e",
+  "total_mathes": 5,
+  "last_upaded": "17-12-2024 on 10:46:44 AM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -39,6 +39,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CMB@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Ahmedabad-Lions-Vs-Chennai-Marvels_OLD_1734109766246.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/Fam8uE26QOG9lnM9zai1FQ/master.m3u8"
+    },
+    {
+      "event_catagory": "kabaddi",
+      "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
+      "match_id": 114752,
+      "match_name": "Himalayan Tahrs vs Konark Kings",
+      "team_1": "Himalayan Tahrs",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-HIMT@2x.png",
+      "team_2": "Konark Kings",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/KK-KB2@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114752_4687_HIM_KKS_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/vGCvB1TOR7evNRFOJ6D2rA/master.m3u8"
     },
     {
       "event_catagory": "volleyball",
