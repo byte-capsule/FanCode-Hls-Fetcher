@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "17-12-2024 on 1:40:19 PM \ud83c\udf1e",
+  "total_mathes": 8,
+  "last_upaded": "17-12-2024 on 2:31:38 PM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "National Cricket League T20, 2024",
-      "match_id": 114935,
-      "match_name": "Chattogram Division vs Rajshahi Division",
-      "team_1": "Chattogram Division",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/CD-CR3@2x.png",
-      "team_2": "Rajshahi Division",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RAD-CR1@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114935_4691_CD_RAD_fc-web_1733857502335.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/JwVSTEweSheISXKL4ptdDA/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "National Cricket League T20, 2024",
@@ -30,6 +18,18 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "National Cricket League T20, 2024",
+      "match_id": 114935,
+      "match_name": "Chattogram Division vs Rajshahi Division",
+      "team_1": "Chattogram Division",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/CD-CR3@2x.png",
+      "team_2": "Rajshahi Division",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RAD-CR1@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114935_4691_CD_RAD_fc-web_1733857502335.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/JwVSTEweSheISXKL4ptdDA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "Actors Cricket Bash",
       "match_id": 115342,
       "match_name": "Chandigarh Mavericks vs Varanasi Warriors",
@@ -39,18 +39,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VWA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-Mavericks-Vs-Varanasi-Warriors_OLD_1734417498223.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/p9sIomxqQwyhda5OMQu6Eg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Men's Gulf Cricket T20I Championship 2024",
-      "match_id": 115019,
-      "match_name": "Qatar vs Kuwait",
-      "team_1": "Qatar",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-QTR@2x.png",
-      "team_2": "Kuwait",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUW@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/gfW0UhuZSpG-vHk-cReN2g/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -75,6 +63,42 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFG@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_ODIs_old.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/Ad6-e5h9ReCcs0iDbVIbog/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "European Cricket Championship-W, 2024",
+      "match_id": 114660,
+      "match_name": "England XI-W vs Scotland XI-W",
+      "team_1": "England XI-W",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
+      "team_2": "Scotland XI-W",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SCO-CR1@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114660_4684_SCXI-W_EXI-W_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/s6pmWqazSWKTE2BlKd2-1A/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "2nd Protech Guwahati Premier League 2024",
+      "match_id": 113853,
+      "match_name": "North East Frontier Railways SA vs Pride East Mavericks",
+      "team_1": "North East Frontier Railways SA",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NEFR@2x.png",
+      "team_2": "Pride East Mavericks",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PRDG@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/PSec9YH9QIC8kCDaU_Cd0A/master.m3u8"
+    },
+    {
+      "event_catagory": "volleyball",
+      "event_name": "Women's Club World Champs 2024",
+      "match_id": 115152,
+      "match_name": "Nec Red Rockets Kawasaki vs LP Bank Ninh Binh",
+      "team_1": "Nec Red Rockets Kawasaki",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/DEF-VB8@2x.png",
+      "team_2": "LP Bank Ninh Binh",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/DEF-VB1@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/mfEw2fF5S5yeZP91qAJxbA/master.m3u8"
     }
   ]
 }
