@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 9,
-  "last_upaded": "17-12-2024 on 2:55:41 PM \ud83c\udf1e",
+  "total_mathes": 10,
+  "last_upaded": "17-12-2024 on 3:26:53 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -31,14 +31,14 @@
     {
       "event_catagory": "cricket",
       "event_name": "Actors Cricket Bash",
-      "match_id": 115342,
-      "match_name": "Chandigarh Mavericks vs Varanasi Warriors",
-      "team_1": "Chandigarh Mavericks",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CMA@2x.png",
-      "team_2": "Varanasi Warriors",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VWA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-Mavericks-Vs-Varanasi-Warriors_OLD_1734417498223.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/p9sIomxqQwyhda5OMQu6Eg/master.m3u8"
+      "match_id": 115343,
+      "match_name": "Mumbai Aces vs Delhi Titans",
+      "team_1": "Mumbai Aces",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MA@2x.png",
+      "team_2": "Delhi Titans",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DTA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115343_4711_MA_DTA_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/b7V1JX0SRaKuN9Xzu5Kdow/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -66,6 +66,18 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "Men's Gulf Cricket T20I Championship 2024",
+      "match_id": 115020,
+      "match_name": "Oman vs Bahrain",
+      "team_1": "Oman",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OMA@2x.png",
+      "team_2": "Bahrain",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAH@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/wdAwu_XqT6qvxSjPuTP0FA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "European Cricket Championship-W, 2024",
       "match_id": 114660,
       "match_name": "England XI-W vs Scotland XI-W",
@@ -75,6 +87,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SCO-CR1@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/114660_4684_SCXI-W_EXI-W_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/s6pmWqazSWKTE2BlKd2-1A/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Big Cricket League, 2024",
+      "match_id": 114846,
+      "match_name": "Northern Challengers vs UP Brij Stars",
+      "team_1": "Northern Challengers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NC-CR2@2x.png",
+      "team_2": "UP Brij Stars",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/UBS-CR1@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114846_4688_NC_UPBS_fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/ESdSE57ZR7m5d6kDIudYcg/master.m3u8"
     },
     {
       "event_catagory": "football",
@@ -99,18 +123,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/II-KB1@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/114735_4687_HIM_IIS_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/lJSyC6EdSjCCWvzdSylXTw/master.m3u8"
-    },
-    {
-      "event_catagory": "volleyball",
-      "event_name": "Women's Club World Champs 2024",
-      "match_id": 115152,
-      "match_name": "Nec Red Rockets Kawasaki vs LP Bank Ninh Binh",
-      "team_1": "Nec Red Rockets Kawasaki",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/DEF-VB8@2x.png",
-      "team_2": "LP Bank Ninh Binh",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/DEF-VB1@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/mfEw2fF5S5yeZP91qAJxbA/master.m3u8"
     }
   ]
 }
