@@ -1,11 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Chandigarh Mavericks vs Varanasi Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-Mavericks-Vs-Varanasi-Warriors_OLD_1734417498223.jpg" tvg-id="115342" group-title="Actors Cricket Bash",Chandigarh Mavericks vs Varanasi Warriors
-https://dai.google.com/linear/hls/event/p9sIomxqQwyhda5OMQu6Eg/master.m3u8
-#EXTINF:-1 tvg-name="Khulna Division vs Dhaka Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114934_4691_DD_KD_fc-web_1733857501939.jpg" tvg-id="114934" group-title="National Cricket League T20, 2024",Khulna Division vs Dhaka Division
-https://dai.google.com/linear/hls/event/zgf1mASRTAKszZmt4f8HVw/master.m3u8
 #EXTINF:-1 tvg-name="Chattogram Division vs Rajshahi Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114935_4691_CD_RAD_fc-web_1733857502335.jpg" tvg-id="114935" group-title="National Cricket League T20, 2024",Chattogram Division vs Rajshahi Division
 https://dai.google.com/linear/hls/event/JwVSTEweSheISXKL4ptdDA/master.m3u8
+#EXTINF:-1 tvg-name="Dhaka Metropolis vs Sylhet Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114936_4691_SD_DM_fc-web_1733857502052.jpg" tvg-id="114936" group-title="National Cricket League T20, 2024",Dhaka Metropolis vs Sylhet Division
+https://dai.google.com/linear/hls/event/e8wmBtgqSJeW6xf34vCzVg/master.m3u8
+#EXTINF:-1 tvg-name="Chandigarh Mavericks vs Varanasi Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-Mavericks-Vs-Varanasi-Warriors_OLD_1734417498223.jpg" tvg-id="115342" group-title="Actors Cricket Bash",Chandigarh Mavericks vs Varanasi Warriors
+https://dai.google.com/linear/hls/event/p9sIomxqQwyhda5OMQu6Eg/master.m3u8
 #EXTINF:-1 tvg-name="Qatar vs Kuwait" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115019" group-title="Men's Gulf Cricket T20I Championship 2024",Qatar vs Kuwait
 https://dai.google.com/linear/hls/event/gfW0UhuZSpG-vHk-cReN2g/master.m3u8
 #EXTINF:-1 tvg-name="ABL Stallions vs Nurpur Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114603_4681_AST_NUR_fc-web.jpg" tvg-id="114603" group-title="Champions T20 Cup, 2024",ABL Stallions vs Nurpur Lions
 https://dai.google.com/linear/hls/event/_S-pmye7QyaPoCAIOiWXFQ/master.m3u8
+#EXTINF:-1 tvg-name="Zimbabwe vs Afghanistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_ODIs_old.jpg" tvg-id="113542" group-title="Afghanistan tour of Zimbabwe, 2024-25",Zimbabwe vs Afghanistan
+https://dai.google.com/linear/hls/event/Ad6-e5h9ReCcs0iDbVIbog/master.m3u8
