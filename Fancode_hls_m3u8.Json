@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 9,
-  "last_upaded": "17-12-2024 on 3:56:24 PM \ud83c\udf1e",
+  "total_mathes": 10,
+  "last_upaded": "17-12-2024 on 4:27:47 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -79,14 +79,14 @@
     {
       "event_catagory": "cricket",
       "event_name": "European Cricket Championship-W, 2024",
-      "match_id": 114660,
-      "match_name": "England XI-W vs Scotland XI-W",
-      "team_1": "England XI-W",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
-      "team_2": "Scotland XI-W",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SCO-CR1@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114660_4684_SCXI-W_EXI-W_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/s6pmWqazSWKTE2BlKd2-1A/master.m3u8"
+      "match_id": 114661,
+      "match_name": "Netherlands XI-W vs Ireland XI-W",
+      "team_1": "Netherlands XI-W",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NED-CR1@2x.png",
+      "team_2": "Ireland XI-W",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/IRE-CR1@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114661_4684_IRXI-W_NDXI-W_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/0n0dvQNDS3S6bXcK0LKHaw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -101,16 +101,28 @@
       "stream_link": "https://dai.google.com/linear/hls/event/ESdSE57ZR7m5d6kDIudYcg/master.m3u8"
     },
     {
-      "event_catagory": "football",
-      "event_name": "2nd Protech Guwahati Premier League 2024",
-      "match_id": 113853,
-      "match_name": "North East Frontier Railways SA vs Pride East Mavericks",
-      "team_1": "North East Frontier Railways SA",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NEFR@2x.png",
-      "team_2": "Pride East Mavericks",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PRDG@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/PSec9YH9QIC8kCDaU_Cd0A/master.m3u8"
+      "event_catagory": "cricket",
+      "event_name": "Lanka T10 Super League, 2024",
+      "match_id": 114006,
+      "match_name": "Colombo Jaguars vs Jaffna Titans",
+      "team_1": "Colombo Jaguars",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CJ@2x.png",
+      "team_2": "Jaffna Titans",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JT@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114006_4663_CJ_JT_fc-web_1733813070590.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/JA2gsLXXQzmwVVTAaoiH7A/master.m3u8"
+    },
+    {
+      "event_catagory": "kabaddi",
+      "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
+      "match_id": 114754,
+      "match_name": "Ladakh Wolves vs Ranchi Rangers",
+      "team_1": "Ladakh Wolves",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/LW-KB1@2x.png",
+      "team_2": "Ranchi Rangers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/RR-KB2@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114754_4687_LWS_RRS_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/-IUnkc9-QZ6LPR4q5PBJ9g/master.m3u8"
     }
   ]
 }
