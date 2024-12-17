@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "17-12-2024 on 8:56:38 PM \ud83c\udf19",
+  "total_mathes": 3,
+  "last_upaded": "17-12-2024 on 9:27:11 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,18 +15,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/IRE-CR1@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/114663_4684_SCXI-W_IRXI-W_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/P6rs_GjTTOyhlC1TdeHe6g/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Lanka T10 Super League, 2024",
-      "match_id": 114007,
-      "match_name": "Kandy Bolts vs Nuwara Eliya Kings",
-      "team_1": "Kandy Bolts",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBL@2x.png",
-      "team_2": "Nuwara Eliya Kings",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEK@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114007_4663_KB_NEK_fc-web_1733813071303.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/xcvw8PPsQ5iNKL64aClnaQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
