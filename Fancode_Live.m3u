@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Dhaka Metropolis vs Sylhet Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114936_4691_SD_DM_fc-web_1733857502052.jpg" tvg-id="114936" group-title="National Cricket League T20, 2024",Dhaka Metropolis vs Sylhet Division
-https://dai.google.com/linear/hls/event/e8wmBtgqSJeW6xf34vCzVg/master.m3u8
 #EXTINF:-1 tvg-name="Mumbai Aces vs Delhi Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115343_4711_MA_DTA_fc-web.jpg" tvg-id="115343" group-title="Actors Cricket Bash",Mumbai Aces vs Delhi Titans
 https://dai.google.com/linear/hls/event/b7V1JX0SRaKuN9Xzu5Kdow/master.m3u8
 #EXTINF:-1 tvg-name="Oman vs Bahrain" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115020" group-title="Men's Gulf Cricket T20I Championship 2024",Oman vs Bahrain
 https://dai.google.com/linear/hls/event/wdAwu_XqT6qvxSjPuTP0FA/master.m3u8
-#EXTINF:-1 tvg-name="ABL Stallions vs Nurpur Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114603_4681_AST_NUR_fc-web.jpg" tvg-id="114603" group-title="Champions T20 Cup, 2024",ABL Stallions vs Nurpur Lions
-https://dai.google.com/linear/hls/event/_S-pmye7QyaPoCAIOiWXFQ/master.m3u8
 #EXTINF:-1 tvg-name="Netherlands XI-W vs Ireland XI-W" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114661_4684_IRXI-W_NDXI-W_fc-web.jpg" tvg-id="114661" group-title="European Cricket Championship-W, 2024",Netherlands XI-W vs Ireland XI-W
 https://dai.google.com/linear/hls/event/0n0dvQNDS3S6bXcK0LKHaw/master.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe vs Afghanistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_ODIs_old.jpg" tvg-id="113542" group-title="Afghanistan tour of Zimbabwe, 2024-25",Zimbabwe vs Afghanistan
@@ -15,5 +11,7 @@ https://dai.google.com/linear/hls/event/Ad6-e5h9ReCcs0iDbVIbog/master.m3u8
 https://dai.google.com/linear/hls/event/ESdSE57ZR7m5d6kDIudYcg/master.m3u8
 #EXTINF:-1 tvg-name="Colombo Jaguars vs Jaffna Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114006_4663_CJ_JT_fc-web_1733813070590.jpg" tvg-id="114006" group-title="Lanka T10 Super League, 2024",Colombo Jaguars vs Jaffna Titans
 https://dai.google.com/linear/hls/event/JA2gsLXXQzmwVVTAaoiH7A/master.m3u8
-#EXTINF:-1 tvg-name="Ladakh Wolves vs Ranchi Rangers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114754_4687_LWS_RRS_fc-web.jpg" tvg-id="114754" group-title="Yuva Kabaddi Series Edition 11 - Division Rounds",Ladakh Wolves vs Ranchi Rangers
-https://dai.google.com/linear/hls/event/-IUnkc9-QZ6LPR4q5PBJ9g/master.m3u8
+#EXTINF:-1 tvg-name="Red Bees Inc vs Sunrise Athletic Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2_1732617283192.jpg" tvg-id="113854" group-title="2nd Protech Guwahati Premier League 2024",Red Bees Inc vs Sunrise Athletic Club
+https://dai.google.com/linear/hls/event/xNkSffuFTRisipGFt2oilw/master.m3u8
+#EXTINF:-1 tvg-name="Tianjin Bohai Bank vs Zamalek Sporting Club" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115153" group-title="Women's Club World Champs 2024",Tianjin Bohai Bank vs Zamalek Sporting Club
+https://dai.google.com/linear/hls/event/0Vg0ZzpDR6Cv5mFHoqDfYg/master.m3u8
