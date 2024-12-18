@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "18-12-2024 on 10:54:20 PM \ud83c\udf19",
+  "total_mathes": 4,
+  "last_upaded": "18-12-2024 on 11:20:24 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -30,18 +30,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Lanka T10 Super League, 2024",
-      "match_id": 114011,
-      "match_name": "Galle Marvels vs Hambantota Bangla Tigers",
-      "team_1": "Galle Marvels",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GM@2x.png",
-      "team_2": "Hambantota Bangla Tigers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HBTL@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114008_4663_GM_HBT_fc-web_1733813071160.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/hgVecllWSFGuM_q3dSfPVA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "Emirates D10 2024",
       "match_id": 115451,
       "match_name": "Dubai vs Emirates Red",
@@ -53,16 +41,16 @@
       "stream_link": "https://dai.google.com/linear/hls/event/brkbcPeiTJKHYxfBI-Qw_g/master.m3u8"
     },
     {
-      "event_catagory": "cricket",
-      "event_name": "Big Cricket League, 2024",
-      "match_id": 114849,
-      "match_name": "Rajasthan Regals vs Northern Challengers",
-      "team_1": "Rajasthan Regals",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RR-CR4@2x.png",
-      "team_2": "Northern Challengers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NC-CR2@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114849_4688_NC_RR_fc-Web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/FxwQE3dWQfWwBW2njn999A/master.m3u8"
+      "event_catagory": "basketball",
+      "event_name": "EuroLeague 2024-25",
+      "match_id": 113671,
+      "match_name": "Anadolu Efes Istanbul vs Crvena Zvezda mts Belgrade",
+      "team_1": "Anadolu Efes Istanbul",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-ANAD@2x.png",
+      "team_2": "Crvena Zvezda mts Belgrade",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-CRVZ@2x.png",
+      "banner": "https://www.fancode.com/aig/match/v1/113671_CASACARDS_APP.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/-fiOUFbQTkmz2OwPINTYKg/master.m3u8"
     }
   ]
 }
