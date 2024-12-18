@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 3,
-  "last_upaded": "18-12-2024 on 07:51:00 AM \ud83c\udf1e",
+  "last_upaded": "18-12-2024 on 08:59:32 AM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -29,16 +29,16 @@
       "stream_link": "https://dai.google.com/linear/hls/event/T2oJFsvvRYqi9Pt0fcTdIg/master.m3u8"
     },
     {
-      "event_catagory": "volleyball",
-      "event_name": "Women's Club World Champs 2024",
-      "match_id": 115154,
-      "match_name": "Prosecco Doc Imoco Conegliano vs LP Bank Ninh Binh",
-      "team_1": "Prosecco Doc Imoco Conegliano",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/DEF-VB2@2x.png",
-      "team_2": "LP Bank Ninh Binh",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/DEF-VB1@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/evHzgtv1RuuV-GxHDFmr6w/master.m3u8"
+      "event_catagory": "cricket",
+      "event_name": "National Cricket League T20, 2024",
+      "match_id": 114937,
+      "match_name": "Sylhet Division vs Barisal Division",
+      "team_1": "Sylhet Division",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SD-CR2@2x.png",
+      "team_2": "Barisal Division",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/BD-CR2@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114937_4691_SD_BD_fc-web_1733857502741.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/YJQduG5IQTOjwpWUFAnSYQ/master.m3u8"
     }
   ]
 }
