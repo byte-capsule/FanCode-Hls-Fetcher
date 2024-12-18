@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 9,
-  "last_upaded": "18-12-2024 on 5:53:21 PM \ud83c\udf1e",
+  "total_mathes": 6,
+  "last_upaded": "18-12-2024 on 6:46:52 PM \ud83c\udf19",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Actors Cricket Bash",
-      "match_id": 115346,
-      "match_name": "Chandigarh Mavericks vs Chennai Marvels",
-      "team_1": "Chandigarh Mavericks",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CMA@2x.png",
-      "team_2": "Chennai Marvels",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CMB@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-Mavericks-Vs-Chennai-Marvels_OLD_1734426188351.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/atb_RU6wRD2itKHvPAOrEw/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Men's Gulf Cricket T20I Championship 2024",
@@ -31,14 +19,26 @@
     {
       "event_catagory": "cricket",
       "event_name": "European Cricket Championship-W, 2024",
-      "match_id": 114665,
-      "match_name": "England XI-W vs Ireland XI-W",
-      "team_1": "England XI-W",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
-      "team_2": "Ireland XI-W",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/IRE-CR1@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114665_4684_EXI-W_IRXI-W_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/nrYxUsMJSBKLOrCa5TxNLg/master.m3u8"
+      "match_id": 114666,
+      "match_name": "Netherlands XI-W vs Scotland XI-W",
+      "team_1": "Netherlands XI-W",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NED-CR1@2x.png",
+      "team_2": "Scotland XI-W",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SCO-CR1@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114666_4684_SCXI-W_NDXI-W_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/7iwY8NoGRrCtvsNy-ibgKQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Emirates D10 2024",
+      "match_id": 115450,
+      "match_name": "Dubai vs Fujairah",
+      "team_1": "Dubai",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EMDB@2x.png",
+      "team_2": "Fujairah",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FUJA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115450_4713_FUJ_DUB_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/vvjQr0taSQujVvXMMoLjdQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -55,50 +55,14 @@
     {
       "event_catagory": "cricket",
       "event_name": "Lanka T10 Super League, 2024",
-      "match_id": 114009,
-      "match_name": "Jaffna Titans vs Hambantota Bangla Tigers",
-      "team_1": "Jaffna Titans",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JT@2x.png",
-      "team_2": "Hambantota Bangla Tigers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HBTL@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113989_4663_JT_HBT_fc-web_1733813070495.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/fRBaX3haTni2O54DKesOkQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Emirates D10 2024",
-      "match_id": 115450,
-      "match_name": "Dubai vs Fujairah",
-      "team_1": "Dubai",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EMDB@2x.png",
-      "team_2": "Fujairah",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FUJA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115450_4713_FUJ_DUB_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/vvjQr0taSQujVvXMMoLjdQ/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "2nd Protech Guwahati Premier League 2024",
-      "match_id": 113856,
-      "match_name": "Gplus Athletic vs United Chirangduar FC",
-      "team_1": "Gplus Athletic",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GLPS@2x.png",
-      "team_2": "United Chirangduar FC",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-UCD@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2_1732617283192.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/lbsWDLDhQ_Cql5PBKnhjNQ/master.m3u8"
-    },
-    {
-      "event_catagory": "kabaddi",
-      "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
-      "match_id": 114759,
-      "match_name": "Konark Kings vs Tadoba Tigers",
-      "team_1": "Konark Kings",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/KK-KB2@2x.png",
-      "team_2": "Tadoba Tigers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-TAT@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114759_4687_KKS_TTS_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/g1rVBPutQkOx5rsHsJKtjg/master.m3u8"
+      "match_id": 114010,
+      "match_name": "Kandy Bolts vs Galle Marvels",
+      "team_1": "Kandy Bolts",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBL@2x.png",
+      "team_2": "Galle Marvels",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GM@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113991_4663_KB_GM_fc-web_1733813070483.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/PnOtqxW4Q1SB0W9wJwNEPA/master.m3u8"
     },
     {
       "event_catagory": "volleyball",

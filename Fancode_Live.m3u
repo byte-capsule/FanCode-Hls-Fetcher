@@ -1,19 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Chandigarh Mavericks vs Chennai Marvels" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-Mavericks-Vs-Chennai-Marvels_OLD_1734426188351.jpg" tvg-id="115346" group-title="Actors Cricket Bash",Chandigarh Mavericks vs Chennai Marvels
-https://dai.google.com/linear/hls/event/atb_RU6wRD2itKHvPAOrEw/master.m3u8
 #EXTINF:-1 tvg-name="United Arab Emirates vs Qatar" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115022" group-title="Men's Gulf Cricket T20I Championship 2024",United Arab Emirates vs Qatar
 https://dai.google.com/linear/hls/event/Vk3cXuKzQ0WmSPdVW6FrSg/master.m3u8
-#EXTINF:-1 tvg-name="England XI-W vs Ireland XI-W" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114665_4684_EXI-W_IRXI-W_fc-web.jpg" tvg-id="114665" group-title="European Cricket Championship-W, 2024",England XI-W vs Ireland XI-W
-https://dai.google.com/linear/hls/event/nrYxUsMJSBKLOrCa5TxNLg/master.m3u8
-#EXTINF:-1 tvg-name="MP Tigers vs Southern Spartans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114848_4688_SS_MPT_fc-Web.jpg" tvg-id="114848" group-title="Big Cricket League, 2024",MP Tigers vs Southern Spartans
-https://dai.google.com/linear/hls/event/XopN97cbQlemeNd5-H7ipQ/master.m3u8
-#EXTINF:-1 tvg-name="Jaffna Titans vs Hambantota Bangla Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113989_4663_JT_HBT_fc-web_1733813070495.jpg" tvg-id="114009" group-title="Lanka T10 Super League, 2024",Jaffna Titans vs Hambantota Bangla Tigers
-https://dai.google.com/linear/hls/event/fRBaX3haTni2O54DKesOkQ/master.m3u8
+#EXTINF:-1 tvg-name="Netherlands XI-W vs Scotland XI-W" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114666_4684_SCXI-W_NDXI-W_fc-web.jpg" tvg-id="114666" group-title="European Cricket Championship-W, 2024",Netherlands XI-W vs Scotland XI-W
+https://dai.google.com/linear/hls/event/7iwY8NoGRrCtvsNy-ibgKQ/master.m3u8
 #EXTINF:-1 tvg-name="Dubai vs Fujairah" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115450_4713_FUJ_DUB_fc-web.jpg" tvg-id="115450" group-title="Emirates D10 2024",Dubai vs Fujairah
 https://dai.google.com/linear/hls/event/vvjQr0taSQujVvXMMoLjdQ/master.m3u8
-#EXTINF:-1 tvg-name="Gplus Athletic vs United Chirangduar FC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2_1732617283192.jpg" tvg-id="113856" group-title="2nd Protech Guwahati Premier League 2024",Gplus Athletic vs United Chirangduar FC
-https://dai.google.com/linear/hls/event/lbsWDLDhQ_Cql5PBKnhjNQ/master.m3u8
-#EXTINF:-1 tvg-name="Konark Kings vs Tadoba Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114759_4687_KKS_TTS_fc-web.jpg" tvg-id="114759" group-title="Yuva Kabaddi Series Edition 11 - Division Rounds",Konark Kings vs Tadoba Tigers
-https://dai.google.com/linear/hls/event/g1rVBPutQkOx5rsHsJKtjg/master.m3u8
+#EXTINF:-1 tvg-name="MP Tigers vs Southern Spartans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114848_4688_SS_MPT_fc-Web.jpg" tvg-id="114848" group-title="Big Cricket League, 2024",MP Tigers vs Southern Spartans
+https://dai.google.com/linear/hls/event/XopN97cbQlemeNd5-H7ipQ/master.m3u8
+#EXTINF:-1 tvg-name="Kandy Bolts vs Galle Marvels" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113991_4663_KB_GM_fc-web_1733813070483.jpg" tvg-id="114010" group-title="Lanka T10 Super League, 2024",Kandy Bolts vs Galle Marvels
+https://dai.google.com/linear/hls/event/PnOtqxW4Q1SB0W9wJwNEPA/master.m3u8
 #EXTINF:-1 tvg-name="Tianjin Bohai Bank vs Numia Vero Volley Milano" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115157" group-title="Women's Club World Champs 2024",Tianjin Bohai Bank vs Numia Vero Volley Milano
 https://dai.google.com/linear/hls/event/Td263aNeSkqe1dNERKfiow/master.m3u8
