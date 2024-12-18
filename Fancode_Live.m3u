@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Karnali Yaks vs Chitwan Rhinos" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113733_4657_KNY_CWR_fc-Web.jpg" tvg-id="113752" group-title="Nepal Premier League, 2024",Karnali Yaks vs Chitwan Rhinos
-https://dai.google.com/linear/hls/event/AAKpnDKtQjuoXZt0Mn78Tw/master.m3u8
-#EXTINF:-1 tvg-name="Chattogram Division vs Khulna Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114938_4691_CD_KD_fc-web_1733857502086.jpg" tvg-id="114938" group-title="National Cricket League T20, 2024",Chattogram Division vs Khulna Division
-https://dai.google.com/linear/hls/event/34DVzxBWRGyxO3ctNLzhlg/master.m3u8
+#EXTINF:-1 tvg-name="Ahmedabad Lions vs Delhi Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ahmedabad-Lions-Vs-Delhi-Titans_OLD_1734453755264.jpg" tvg-id="115345" group-title="Actors Cricket Bash",Ahmedabad Lions vs Delhi Titans
+https://dai.google.com/linear/hls/event/yeAw7L1bS7iuGuQgu1yYEw/master.m3u8
+#EXTINF:-1 tvg-name="Janakpur Bolts vs Sudurpaschim Royals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113741_4657_JKB_SPR_fc-Web.jpg" tvg-id="113753" group-title="Nepal Premier League, 2024",Janakpur Bolts vs Sudurpaschim Royals
+https://dai.google.com/linear/hls/event/QOP5loiLRvSb-Mdr-54Psg/master.m3u8
 #EXTINF:-1 tvg-name="Dhaka Division vs Rajshahi Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114939_4691_DD_RAD_fc-web_1733857502226.jpg" tvg-id="114939" group-title="National Cricket League T20, 2024",Dhaka Division vs Rajshahi Division
 https://dai.google.com/linear/hls/event/4ajX9ZNTTV6sRgDDb1Zn0w/master.m3u8
+#EXTINF:-1 tvg-name="Rangpur Division vs Dhaka Metropolis" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114940_4691_RD_DM_fc-web_1733857502066.jpg" tvg-id="114940" group-title="National Cricket League T20, 2024",Rangpur Division vs Dhaka Metropolis
+https://dai.google.com/linear/hls/event/XbOhbkzESMqQoPJZFp3AJQ/master.m3u8
 #EXTINF:-1 tvg-name="Oman vs Saudi Arabia" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115021" group-title="Men's Gulf Cricket T20I Championship 2024",Oman vs Saudi Arabia
 https://dai.google.com/linear/hls/event/-mSliwlNTSSWSqQ2-QUKlQ/master.m3u8
 #EXTINF:-1 tvg-name="Engro Dolphins vs UMT Markhors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114604_4681_END_UMA_fc-web.jpg" tvg-id="114604" group-title="Champions T20 Cup, 2024",Engro Dolphins vs UMT Markhors
 https://dai.google.com/linear/hls/event/Qly6MM7MS-K-oKjCKzTq_w/master.m3u8
-#EXTINF:-1 tvg-name="Chambal Challengers vs Ranchi Rangers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114757_4687_CHA_RRS_fc-web.jpg" tvg-id="114757" group-title="Yuva Kabaddi Series Edition 11 - Division Rounds",Chambal Challengers vs Ranchi Rangers
-https://dai.google.com/linear/hls/event/BDvleR9WQEGvYypEDHpeFw/master.m3u8
