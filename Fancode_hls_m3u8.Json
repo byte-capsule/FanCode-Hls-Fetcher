@@ -1,32 +1,20 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "18-12-2024 on 4:25:13 PM \ud83c\udf1e",
+  "total_mathes": 6,
+  "last_upaded": "18-12-2024 on 4:44:08 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
-      "event_name": "Nepal Premier League, 2024",
-      "match_id": 113753,
-      "match_name": "Janakpur Bolts vs Sudurpaschim Royals",
-      "team_1": "Janakpur Bolts",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JKB@2x.png",
-      "team_2": "Sudurpaschim Royals",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SPR@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113741_4657_JKB_SPR_fc-Web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/QOP5loiLRvSb-Mdr-54Psg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "National Cricket League T20, 2024",
-      "match_id": 114940,
-      "match_name": "Rangpur Division vs Dhaka Metropolis",
-      "team_1": "Rangpur Division",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RD-CR2@2x.png",
-      "team_2": "Dhaka Metropolis",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DM-CR1@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114940_4691_RD_DM_fc-web_1733857502066.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/XbOhbkzESMqQoPJZFp3AJQ/master.m3u8"
+      "event_name": "Actors Cricket Bash",
+      "match_id": 115346,
+      "match_name": "Chandigarh Mavericks vs Chennai Marvels",
+      "team_1": "Chandigarh Mavericks",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CMA@2x.png",
+      "team_2": "Chennai Marvels",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CMB@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-Mavericks-Vs-Chennai-Marvels_OLD_1734426188351.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/atb_RU6wRD2itKHvPAOrEw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -43,14 +31,14 @@
     {
       "event_catagory": "cricket",
       "event_name": "European Cricket Championship-W, 2024",
-      "match_id": 114664,
-      "match_name": "Netherlands XI-W vs Italy Women",
-      "team_1": "Netherlands XI-W",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NED-CR1@2x.png",
-      "team_2": "Italy Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ITA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114664_4684_NDXI-W_ITA-W_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/yhqJMbMBTB2hEkVsRcWmTA/master.m3u8"
+      "match_id": 114665,
+      "match_name": "England XI-W vs Ireland XI-W",
+      "team_1": "England XI-W",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
+      "team_2": "Ireland XI-W",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/IRE-CR1@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114665_4684_EXI-W_IRXI-W_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/nrYxUsMJSBKLOrCa5TxNLg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
