@@ -1,13 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="United Arab Emirates vs Qatar" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115022" group-title="Men's Gulf Cricket T20I Championship 2024",United Arab Emirates vs Qatar
-https://dai.google.com/linear/hls/event/Vk3cXuKzQ0WmSPdVW6FrSg/master.m3u8
-#EXTINF:-1 tvg-name="Netherlands XI-W vs Scotland XI-W" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114666_4684_SCXI-W_NDXI-W_fc-web.jpg" tvg-id="114666" group-title="European Cricket Championship-W, 2024",Netherlands XI-W vs Scotland XI-W
+#EXTINF:-1 tvg-name="Netherlands XI-W vs Scotland XI-W" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="114666" group-title="European Cricket Championship-W, 2024",Netherlands XI-W vs Scotland XI-W
 https://dai.google.com/linear/hls/event/7iwY8NoGRrCtvsNy-ibgKQ/master.m3u8
-#EXTINF:-1 tvg-name="Dubai vs Fujairah" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115450_4713_FUJ_DUB_fc-web.jpg" tvg-id="115450" group-title="Emirates D10 2024",Dubai vs Fujairah
-https://dai.google.com/linear/hls/event/vvjQr0taSQujVvXMMoLjdQ/master.m3u8
-#EXTINF:-1 tvg-name="MP Tigers vs Southern Spartans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114848_4688_SS_MPT_fc-Web.jpg" tvg-id="114848" group-title="Big Cricket League, 2024",MP Tigers vs Southern Spartans
-https://dai.google.com/linear/hls/event/XopN97cbQlemeNd5-H7ipQ/master.m3u8
+#EXTINF:-1 tvg-name="Emirates Blues vs Sharjah" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115448_4713_EMB_SHA_fc-web.jpg" tvg-id="115448" group-title="Emirates D10 2024",Emirates Blues vs Sharjah
+https://dai.google.com/linear/hls/event/R_68dvWRSlCAAvJMXaEtSQ/master.m3u8
 #EXTINF:-1 tvg-name="Kandy Bolts vs Galle Marvels" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113991_4663_KB_GM_fc-web_1733813070483.jpg" tvg-id="114010" group-title="Lanka T10 Super League, 2024",Kandy Bolts vs Galle Marvels
 https://dai.google.com/linear/hls/event/PnOtqxW4Q1SB0W9wJwNEPA/master.m3u8
-#EXTINF:-1 tvg-name="Tianjin Bohai Bank vs Numia Vero Volley Milano" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115157" group-title="Women's Club World Champs 2024",Tianjin Bohai Bank vs Numia Vero Volley Milano
-https://dai.google.com/linear/hls/event/Td263aNeSkqe1dNERKfiow/master.m3u8

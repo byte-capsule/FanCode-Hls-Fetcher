@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "18-12-2024 on 6:46:52 PM \ud83c\udf19",
+  "total_mathes": 3,
+  "last_upaded": "18-12-2024 on 7:30:14 PM \ud83c\udf19",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Men's Gulf Cricket T20I Championship 2024",
-      "match_id": 115022,
-      "match_name": "United Arab Emirates vs Qatar",
-      "team_1": "United Arab Emirates",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UAE@2x.png",
-      "team_2": "Qatar",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-QTR@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/Vk3cXuKzQ0WmSPdVW6FrSg/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "European Cricket Championship-W, 2024",
@@ -25,32 +13,20 @@
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NED-CR1@2x.png",
       "team_2": "Scotland XI-W",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SCO-CR1@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114666_4684_SCXI-W_NDXI-W_fc-web.jpg",
+      "banner": false,
       "stream_link": "https://dai.google.com/linear/hls/event/7iwY8NoGRrCtvsNy-ibgKQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
       "event_name": "Emirates D10 2024",
-      "match_id": 115450,
-      "match_name": "Dubai vs Fujairah",
-      "team_1": "Dubai",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EMDB@2x.png",
-      "team_2": "Fujairah",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FUJA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115450_4713_FUJ_DUB_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/vvjQr0taSQujVvXMMoLjdQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Big Cricket League, 2024",
-      "match_id": 114848,
-      "match_name": "MP Tigers vs Southern Spartans",
-      "team_1": "MP Tigers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/MPT-CR1@2x.png",
-      "team_2": "Southern Spartans",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SS-CR6@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114848_4688_SS_MPT_fc-Web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/XopN97cbQlemeNd5-H7ipQ/master.m3u8"
+      "match_id": 115448,
+      "match_name": "Emirates Blues vs Sharjah",
+      "team_1": "Emirates Blues",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLUE@2x.png",
+      "team_2": "Sharjah",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHRJ@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115448_4713_EMB_SHA_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/R_68dvWRSlCAAvJMXaEtSQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -63,18 +39,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GM@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/113991_4663_KB_GM_fc-web_1733813070483.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/PnOtqxW4Q1SB0W9wJwNEPA/master.m3u8"
-    },
-    {
-      "event_catagory": "volleyball",
-      "event_name": "Women's Club World Champs 2024",
-      "match_id": 115157,
-      "match_name": "Tianjin Bohai Bank vs Numia Vero Volley Milano",
-      "team_1": "Tianjin Bohai Bank",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/DEF-VB1@2x.png",
-      "team_2": "Numia Vero Volley Milano",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/DEF-VB5@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/Td263aNeSkqe1dNERKfiow/master.m3u8"
     }
   ]
 }
