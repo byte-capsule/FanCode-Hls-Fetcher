@@ -1,1 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="South Australian Scorpions vs Victoria Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109398_4508_VCTW_SASC_fc-web.jpg" tvg-id="109398" group-title="WNCL, 2024-25",South Australian Scorpions vs Victoria Women
+https://dai.google.com/linear/hls/event/rd2cimlvQJK-MkS4ixC5DQ/master.m3u8
+#EXTINF:-1 tvg-name="Bangladesh vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-T20-old-match-card.png" tvg-id="112350" group-title="Bangladesh tour of West Indies, 2024",Bangladesh vs West Indies
+https://dai.google.com/linear/hls/event/T2oJFsvvRYqi9Pt0fcTdIg/master.m3u8
+#EXTINF:-1 tvg-name="Prosecco Doc Imoco Conegliano vs LP Bank Ninh Binh" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115154" group-title="Women's Club World Champs 2024",Prosecco Doc Imoco Conegliano vs LP Bank Ninh Binh
+https://dai.google.com/linear/hls/event/evHzgtv1RuuV-GxHDFmr6w/master.m3u8
