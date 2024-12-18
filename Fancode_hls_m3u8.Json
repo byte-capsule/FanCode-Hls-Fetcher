@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 8,
-  "last_upaded": "18-12-2024 on 2:54:19 PM \ud83c\udf1e",
+  "total_mathes": 9,
+  "last_upaded": "18-12-2024 on 3:24:59 PM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Actors Cricket Bash",
-      "match_id": 115345,
-      "match_name": "Ahmedabad Lions vs Delhi Titans",
-      "team_1": "Ahmedabad Lions",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ALA@2x.png",
-      "team_2": "Delhi Titans",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DTA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Ahmedabad-Lions-Vs-Delhi-Titans_OLD_1734453755264.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/yeAw7L1bS7iuGuQgu1yYEw/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Nepal Premier League, 2024",
@@ -66,6 +54,18 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "Men's Gulf Cricket T20I Championship 2024",
+      "match_id": 115022,
+      "match_name": "United Arab Emirates vs Qatar",
+      "team_1": "United Arab Emirates",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UAE@2x.png",
+      "team_2": "Qatar",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-QTR@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/Vk3cXuKzQ0WmSPdVW6FrSg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "European Cricket Championship-W, 2024",
       "match_id": 114664,
       "match_name": "Netherlands XI-W vs Italy Women",
@@ -75,6 +75,30 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ITA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/114664_4684_NDXI-W_ITA-W_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/yhqJMbMBTB2hEkVsRcWmTA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Big Cricket League, 2024",
+      "match_id": 114848,
+      "match_name": "MP Tigers vs Southern Spartans",
+      "team_1": "MP Tigers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/MPT-CR1@2x.png",
+      "team_2": "Southern Spartans",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SS-CR6@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114848_4688_SS_MPT_fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/XopN97cbQlemeNd5-H7ipQ/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "2nd Protech Guwahati Premier League 2024",
+      "match_id": 113855,
+      "match_name": "Barekuri FC vs Assam Police",
+      "team_1": "Barekuri FC",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BARE@2x.png",
+      "team_2": "Assam Police",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ASMP@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/I9ChHQD7S9iPCUBW3jrRjA/master.m3u8"
     },
     {
       "event_catagory": "kabaddi",
@@ -87,18 +111,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-HIMT@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/114737_4687_DDS_HIM_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/KlKlSKXFShm4uG3NkjpJbg/master.m3u8"
-    },
-    {
-      "event_catagory": "volleyball",
-      "event_name": "Women's Club World Champs 2024",
-      "match_id": 115156,
-      "match_name": "Nec Red Rockets Kawasaki vs Dentil Praia Clube",
-      "team_1": "Nec Red Rockets Kawasaki",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/DEF-VB8@2x.png",
-      "team_2": "Dentil Praia Clube",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/DEF-VB7@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/KYBGOfJWR_W6cQ3Xxd-yxw/master.m3u8"
     }
   ]
 }
