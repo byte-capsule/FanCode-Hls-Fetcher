@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "18-12-2024 on 7:45:06 PM \ud83c\udf19",
+  "total_mathes": 4,
+  "last_upaded": "18-12-2024 on 7:57:49 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,6 +27,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHRJ@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/115448_4713_EMB_SHA_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/R_68dvWRSlCAAvJMXaEtSQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Big Cricket League, 2024",
+      "match_id": 114849,
+      "match_name": "Rajasthan Regals vs Northern Challengers",
+      "team_1": "Rajasthan Regals",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RR-CR4@2x.png",
+      "team_2": "Northern Challengers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NC-CR2@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114849_4688_NC_RR_fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/FxwQE3dWQfWwBW2njn999A/master.m3u8"
     },
     {
       "event_catagory": "cricket",
