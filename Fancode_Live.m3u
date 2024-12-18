@@ -1,11 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="South Australian Scorpions vs Victoria Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109398_4508_VCTW_SASC_fc-web.jpg" tvg-id="109398" group-title="WNCL, 2024-25",South Australian Scorpions vs Victoria Women
 https://dai.google.com/linear/hls/event/rd2cimlvQJK-MkS4ixC5DQ/master.m3u8
-#EXTINF:-1 tvg-name="Bangladesh vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-T20-old-match-card.png" tvg-id="112350" group-title="Bangladesh tour of West Indies, 2024",Bangladesh vs West Indies
-https://dai.google.com/linear/hls/event/T2oJFsvvRYqi9Pt0fcTdIg/master.m3u8
 #EXTINF:-1 tvg-name="Barisal Division vs Sylhet Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114937_4691_SD_BD_fc-web_1733857502741.jpg" tvg-id="114937" group-title="National Cricket League T20, 2024",Barisal Division vs Sylhet Division
 https://dai.google.com/linear/hls/event/YJQduG5IQTOjwpWUFAnSYQ/master.m3u8
 #EXTINF:-1 tvg-name="Chattogram Division vs Khulna Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114938_4691_CD_KD_fc-web_1733857502086.jpg" tvg-id="114938" group-title="National Cricket League T20, 2024",Chattogram Division vs Khulna Division
 https://dai.google.com/linear/hls/event/34DVzxBWRGyxO3ctNLzhlg/master.m3u8
 #EXTINF:-1 tvg-name="Karnali Yaks vs Chitwan Rhinos" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113733_4657_KNY_CWR_fc-Web.jpg" tvg-id="113752" group-title="Nepal Premier League, 2024",Karnali Yaks vs Chitwan Rhinos
 https://dai.google.com/linear/hls/event/AAKpnDKtQjuoXZt0Mn78Tw/master.m3u8
+#EXTINF:-1 tvg-name="Mumbai Aces vs Varanasi Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mumbai-Aces-Vs-Varanasi-Warriors_OLD_1734427267485.jpg" tvg-id="115344" group-title="Actors Cricket Bash",Mumbai Aces vs Varanasi Warriors
+https://dai.google.com/linear/hls/event/gLjcYCYNSzec32ulDJDvhg/master.m3u8
+#EXTINF:-1 tvg-name="Gerdau Minas vs Zamalek Sporting Club" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115155" group-title="Women's Club World Champs 2024",Gerdau Minas vs Zamalek Sporting Club
+https://dai.google.com/linear/hls/event/_VAqPdrvT3-aumnPLEeRHA/master.m3u8
