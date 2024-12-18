@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "18-12-2024 on 8:43:30 PM \ud83c\udf19",
+  "total_mathes": 4,
+  "last_upaded": "18-12-2024 on 8:56:27 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,6 +15,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ITA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/114667_4684_ITA-W_IRXI-W_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/VB1DkykyQ8OoR2F6iBFMFg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Lanka T10 Super League, 2024",
+      "match_id": 114011,
+      "match_name": "Hambantota Bangla Tigers vs TBC",
+      "team_1": "Hambantota Bangla Tigers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HBTL@2x.png",
+      "team_2": "TBC",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/hgVecllWSFGuM_q3dSfPVA/master.m3u8"
     },
     {
       "event_catagory": "cricket",

@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Ireland XI-W vs Italy Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114667_4684_ITA-W_IRXI-W_fc-web.jpg" tvg-id="114667" group-title="European Cricket Championship-W, 2024",Ireland XI-W vs Italy Women
 https://dai.google.com/linear/hls/event/VB1DkykyQ8OoR2F6iBFMFg/master.m3u8
+#EXTINF:-1 tvg-name="Hambantota Bangla Tigers vs TBC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg" tvg-id="114011" group-title="Lanka T10 Super League, 2024",Hambantota Bangla Tigers vs TBC
+https://dai.google.com/linear/hls/event/hgVecllWSFGuM_q3dSfPVA/master.m3u8
 #EXTINF:-1 tvg-name="Emirates Blues vs Sharjah" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115448_4713_EMB_SHA_fc-web.jpg" tvg-id="115448" group-title="Emirates D10 2024",Emirates Blues vs Sharjah
 https://dai.google.com/linear/hls/event/R_68dvWRSlCAAvJMXaEtSQ/master.m3u8
 #EXTINF:-1 tvg-name="Rajasthan Regals vs Northern Challengers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114849_4688_NC_RR_fc-Web.jpg" tvg-id="114849" group-title="Big Cricket League, 2024",Rajasthan Regals vs Northern Challengers
