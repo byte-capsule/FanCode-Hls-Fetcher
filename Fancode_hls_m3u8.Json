@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 9,
-  "last_upaded": "18-12-2024 on 3:41:22 PM \ud83c\udf1e",
+  "total_mathes": 8,
+  "last_upaded": "18-12-2024 on 3:54:11 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -99,18 +99,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ASMP@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/I9ChHQD7S9iPCUBW3jrRjA/master.m3u8"
-    },
-    {
-      "event_catagory": "kabaddi",
-      "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
-      "match_id": 115358,
-      "match_name": "Dehradun Dynamos vs Himalayan Tahrs",
-      "team_1": "Dehradun Dynamos",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/DD-KB1@2x.png",
-      "team_2": "Himalayan Tahrs",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-HIMT@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114737_4687_DDS_HIM_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/KlKlSKXFShm4uG3NkjpJbg/master.m3u8"
     }
   ]
 }
