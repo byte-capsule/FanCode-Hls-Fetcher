@@ -1,21 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Sharjah vs Abu Dhabi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115452_4713_ABD_SHA_fc-web.jpg" tvg-id="115452" group-title="Emirates D10 2024",Sharjah vs Abu Dhabi
-https://dai.google.com/linear/hls/event/X7VzIGarQ9CMT5wSuCde_A/master.m3u8
-#EXTINF:-1 tvg-name="Ahmedabad Lions vs Chandigarh Mavericks" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ahmedabad-Lions-Vs-Chandigarh-Mavericks_OLD_1734426582829.jpg" tvg-id="115349" group-title="Actors Cricket Bash",Ahmedabad Lions vs Chandigarh Mavericks
-https://dai.google.com/linear/hls/event/HZ8dSAzTQki6SKwzN1pZLw/master.m3u8
+#EXTINF:-1 tvg-name="Ajman vs Fujairah" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115453_4713_FUJ_AJM_fc-web.jpg" tvg-id="115453" group-title="Emirates D10 2024",Ajman vs Fujairah
+https://dai.google.com/linear/hls/event/XZzWDMe4T4-ujnfl0CWYOQ/master.m3u8
+#EXTINF:-1 tvg-name="Champagne Reef Divers vs Barana Aute Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v2.jpg" tvg-id="114169" group-title="Dream11 Nature Isle T10, 6th Edition, 2024",Champagne Reef Divers vs Barana Aute Warriors
+https://dai.google.com/linear/hls/event/kcWmKN_PR1mm9do3SHidfA/master.m3u8
 #EXTINF:-1 tvg-name="Scotland XI-W vs Italy Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114670_4684_ITA-W_SCXI-W_fc-web.jpg" tvg-id="114670" group-title="European Cricket Championship-W, 2024",Scotland XI-W vs Italy Women
 https://dai.google.com/linear/hls/event/mXezHE4jT5SYemrriJ4oGg/master.m3u8
-#EXTINF:-1 tvg-name="Afghanistan vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_ODIs_old.jpg" tvg-id="113543" group-title="Afghanistan tour of Zimbabwe, 2024-25",Afghanistan vs Zimbabwe
-https://dai.google.com/linear/hls/event/esnfAoecTCCy5UCjm1u6-A/master.m3u8
-#EXTINF:-1 tvg-name="UP Brij Stars vs Rajasthan Regals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114850_4688_UPBS_RR_fc-Web.jpg" tvg-id="114850" group-title="Big Cricket League, 2024",UP Brij Stars vs Rajasthan Regals
-https://dai.google.com/linear/hls/event/8iJ5kAzPQ8a-by9ulZJ50g/master.m3u8
-#EXTINF:-1 tvg-name="Saudi Arabia vs United Arab Emirates" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115023" group-title="Men's Gulf Cricket T20I Championship 2024",Saudi Arabia vs United Arab Emirates
-https://dai.google.com/linear/hls/event/os2YCAxKRMWiydBqZGzdoQ/master.m3u8
 #EXTINF:-1 tvg-name="Hambantota Bangla Tigers vs Jaffna Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113989_4663_JT_HBT_fc-web_1733813070495.jpg" tvg-id="114012" group-title="Lanka T10 Super League, 2024",Hambantota Bangla Tigers vs Jaffna Titans
 https://dai.google.com/linear/hls/event/2Cr7q31fTvayCsH4SqrD_w/master.m3u8
-#EXTINF:-1 tvg-name="NorthEast United vs Red Bees Inc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2_1732617283192.jpg" tvg-id="113858" group-title="2nd Protech Guwahati Premier League 2024",NorthEast United vs Red Bees Inc
-https://dai.google.com/linear/hls/event/vUJ1B-uSTx2GbiBSYIR-Rw/master.m3u8
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AfrAsia-Bank-Mauritius-open-old.jpg" tvg-id="114580" group-title="AfrAsia Bank Mauritius Open",Day 1
 https://dai.google.com/linear/hls/event/ZZFlwQSFSIyflG5HorZuvA/master.m3u8
-#EXTINF:-1 tvg-name="Numia Vero Volley Milano vs Zamalek Sporting Club" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115159" group-title="Women's Club World Champs 2024",Numia Vero Volley Milano vs Zamalek Sporting Club
-https://dai.google.com/linear/hls/event/QLvNskKYSLyuYb0ZWfgP7A/master.m3u8
