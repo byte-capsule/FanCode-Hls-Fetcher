@@ -1,11 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Emirates Blues vs Abu Dhabi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115454_4713_ABD_EMB_fc-web.jpg" tvg-id="115454" group-title="Emirates D10 2024",Emirates Blues vs Abu Dhabi
 https://dai.google.com/linear/hls/event/83NtJZDDS2OqG6xj6RkajA/master.m3u8
-#EXTINF:-1 tvg-name="Champagne Reef Divers vs Barana Aute Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v2.jpg" tvg-id="114169" group-title="Dream11 Nature Isle T10, 6th Edition, 2024",Champagne Reef Divers vs Barana Aute Warriors
-https://dai.google.com/linear/hls/event/kcWmKN_PR1mm9do3SHidfA/master.m3u8
+#EXTINF:-1 tvg-name="Al Mulla Exchange vs Kuwait Mavericks" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112441_4616_AEC_KMW_fc-web_1731569490379.jpg" tvg-id="112441" group-title="KCC T20 Challengers A League, 2024-25",Al Mulla Exchange vs Kuwait Mavericks
+https://dai.google.com/linear/hls/event/s96gAM7xSg6VJ34D3H7RBA/master.m3u8
 #EXTINF:-1 tvg-name="The Valley Hikers vs Indian River Rowers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v1.jpg" tvg-id="114170" group-title="Dream11 Nature Isle T10, 6th Edition, 2024",The Valley Hikers vs Indian River Rowers
 https://dai.google.com/linear/hls/event/gWB9V76hSyWfkXy0lbCqkQ/master.m3u8
-#EXTINF:-1 tvg-name="England XI-W vs Netherlands XI-W" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114671_4684_EXI-W_NDXI-W_fc-web.jpg" tvg-id="114671" group-title="European Cricket Championship-W, 2024",England XI-W vs Netherlands XI-W
-https://dai.google.com/linear/hls/event/qU1nkDOZTJeV9Uipi9vYlQ/master.m3u8
 #EXTINF:-1 tvg-name="Mumbai Marines vs MP Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114851_4688_MM_MPT_fc-Web.jpg" tvg-id="114851" group-title="Big Cricket League, 2024",Mumbai Marines vs MP Tigers
 https://dai.google.com/linear/hls/event/h_7fd0VYSWuG9thUWpe0dA/master.m3u8
