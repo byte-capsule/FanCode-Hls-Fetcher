@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 9,
-  "last_upaded": "19-12-2024 on 5:39:20 PM \ud83c\udf1e",
+  "total_mathes": 11,
+  "last_upaded": "19-12-2024 on 5:53:20 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -77,6 +77,18 @@
       "stream_link": "https://dai.google.com/linear/hls/event/os2YCAxKRMWiydBqZGzdoQ/master.m3u8"
     },
     {
+      "event_catagory": "cricket",
+      "event_name": "Lanka T10 Super League, 2024",
+      "match_id": 114012,
+      "match_name": "Hambantota Bangla Tigers vs Jaffna Titans",
+      "team_1": "Hambantota Bangla Tigers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HBTL@2x.png",
+      "team_2": "Jaffna Titans",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JT@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113989_4663_JT_HBT_fc-web_1733813070495.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/2Cr7q31fTvayCsH4SqrD_w/master.m3u8"
+    },
+    {
       "event_catagory": "football",
       "event_name": "2nd Protech Guwahati Premier League 2024",
       "match_id": 113858,
@@ -99,6 +111,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/AfrAsia-Bank-Mauritius-open-old.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/ZZFlwQSFSIyflG5HorZuvA/master.m3u8"
+    },
+    {
+      "event_catagory": "kabaddi",
+      "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
+      "match_id": 114763,
+      "match_name": "Indore Invincibles vs Konark Kings",
+      "team_1": "Indore Invincibles",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/II-KB1@2x.png",
+      "team_2": "Konark Kings",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/KK-KB2@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114763_4687_IIS_KKS_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/PT0U_ZjcTOenSPPWVTmC1w/master.m3u8"
     },
     {
       "event_catagory": "volleyball",
