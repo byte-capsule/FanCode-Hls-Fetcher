@@ -1,17 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Varanasi Warriors vs Delhi Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Varanasi-Warriors-Vs-Delhi-Titans_OLD_1734426305603.jpg" tvg-id="115347" group-title="Actors Cricket Bash",Varanasi Warriors vs Delhi Titans
-https://dai.google.com/linear/hls/event/HzDvJq7rTQO0hnLJHmGGWA/master.m3u8
 #EXTINF:-1 tvg-name="Mumbai Aces vs Chennai Marvels" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mumbai-Aces-Vs-Chennai-Marvels_OLD.jpg" tvg-id="115348" group-title="Actors Cricket Bash",Mumbai Aces vs Chennai Marvels
 https://dai.google.com/linear/hls/event/VickeX_tTAuO3wpD740-ug/master.m3u8
-#EXTINF:-1 tvg-name="Rajshahi Division vs Sylhet Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114942_4691_SD_RAD_fc-web_1733857502376.jpg" tvg-id="114942" group-title="National Cricket League T20, 2024",Rajshahi Division vs Sylhet Division
-https://dai.google.com/linear/hls/event/0crkoztgSHWSYl4aJwn9Ug/master.m3u8
 #EXTINF:-1 tvg-name="Rangpur Division vs Khulna Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114943_4691_RD_KD_fc-web_1733857502380.jpg" tvg-id="114943" group-title="National Cricket League T20, 2024",Rangpur Division vs Khulna Division
 https://dai.google.com/linear/hls/event/7Ga5smcPTJmNjwtQEtigBg/master.m3u8
+#EXTINF:-1 tvg-name="Dhaka Division vs Barisal Division" tvg-logo="https://www.fancode.com/aig/match/v1/115627_CASACARDS_APP.png" tvg-id="115627" group-title="National Cricket League T20, 2024",Dhaka Division vs Barisal Division
+https://dai.google.com/linear/hls/event/niNOWxiYRJCDtv_8U9Imzw/master.m3u8
 #EXTINF:-1 tvg-name="Karnali Yaks vs Janakpur Bolts" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113726_4657_JKB_KNY_fc-Web.jpg" tvg-id="113754" group-title="Nepal Premier League, 2024",Karnali Yaks vs Janakpur Bolts
 https://dai.google.com/linear/hls/event/WRth0ltrTqilmTUJnGGtPQ/master.m3u8
 #EXTINF:-1 tvg-name="Nurpur Lions vs Lake City Panthers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114605_4681_NUR_LCP_fc-web.jpg" tvg-id="114605" group-title="Champions T20 Cup, 2024",Nurpur Lions vs Lake City Panthers
 https://dai.google.com/linear/hls/event/qMBKmX8TQO-Y4tUQQPEyVw/master.m3u8
-#EXTINF:-1 tvg-name="Himalayan Tahrs vs Ranchi Rangers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114760_4687_HIM_RRS_fc-web.jpg" tvg-id="114760" group-title="Yuva Kabaddi Series Edition 11 - Division Rounds",Himalayan Tahrs vs Ranchi Rangers
-https://dai.google.com/linear/hls/event/1Ctvyu8RRQ6ZzBq4rp7Oew/master.m3u8
+#EXTINF:-1 tvg-name="Afghanistan vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_ODIs_old.jpg" tvg-id="113543" group-title="Afghanistan tour of Zimbabwe, 2024-25",Afghanistan vs Zimbabwe
+https://dai.google.com/linear/hls/event/esnfAoecTCCy5UCjm1u6-A/master.m3u8
 #EXTINF:-1 tvg-name="LP Bank Ninh Binh vs Dentil Praia Clube" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115158" group-title="Women's Club World Champs 2024",LP Bank Ninh Binh vs Dentil Praia Clube
 https://dai.google.com/linear/hls/event/ZYxjm6_5QNWep6ffs6IEuA/master.m3u8
