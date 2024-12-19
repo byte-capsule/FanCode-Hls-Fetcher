@@ -1,12 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Sharjah vs Abu Dhabi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115452_4713_ABD_SHA_fc-web.jpg" tvg-id="115452" group-title="Emirates D10 2024",Sharjah vs Abu Dhabi
+https://dai.google.com/linear/hls/event/X7VzIGarQ9CMT5wSuCde_A/master.m3u8
 #EXTINF:-1 tvg-name="Ahmedabad Lions vs Chandigarh Mavericks" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ahmedabad-Lions-Vs-Chandigarh-Mavericks_OLD_1734426582829.jpg" tvg-id="115349" group-title="Actors Cricket Bash",Ahmedabad Lions vs Chandigarh Mavericks
 https://dai.google.com/linear/hls/event/HZ8dSAzTQki6SKwzN1pZLw/master.m3u8
-#EXTINF:-1 tvg-name="Rangpur Division vs Khulna Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114943_4691_RD_KD_fc-web_1733857502380.jpg" tvg-id="114943" group-title="National Cricket League T20, 2024",Rangpur Division vs Khulna Division
-https://dai.google.com/linear/hls/event/7Ga5smcPTJmNjwtQEtigBg/master.m3u8
 #EXTINF:-1 tvg-name="Dhaka Division vs Barisal Division" tvg-logo="https://www.fancode.com/aig/match/v1/115627_CASACARDS_APP.png" tvg-id="115627" group-title="National Cricket League T20, 2024",Dhaka Division vs Barisal Division
 https://dai.google.com/linear/hls/event/niNOWxiYRJCDtv_8U9Imzw/master.m3u8
-#EXTINF:-1 tvg-name="Nurpur Lions vs Lake City Panthers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114605_4681_NUR_LCP_fc-web.jpg" tvg-id="114605" group-title="Champions T20 Cup, 2024",Nurpur Lions vs Lake City Panthers
-https://dai.google.com/linear/hls/event/qMBKmX8TQO-Y4tUQQPEyVw/master.m3u8
+#EXTINF:-1 tvg-name="Netherlands XI-W vs Ireland XI-W" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114669_4684_NDXI-W_IRXI-W_fc-web.jpg" tvg-id="114669" group-title="European Cricket Championship-W, 2024",Netherlands XI-W vs Ireland XI-W
+https://dai.google.com/linear/hls/event/pQ15DFQmSTCFUaT2x1a5BA/master.m3u8
 #EXTINF:-1 tvg-name="Afghanistan vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_ODIs_old.jpg" tvg-id="113543" group-title="Afghanistan tour of Zimbabwe, 2024-25",Afghanistan vs Zimbabwe
 https://dai.google.com/linear/hls/event/esnfAoecTCCy5UCjm1u6-A/master.m3u8
 #EXTINF:-1 tvg-name="UP Brij Stars vs Rajasthan Regals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114850_4688_UPBS_RR_fc-Web.jpg" tvg-id="114850" group-title="Big Cricket League, 2024",UP Brij Stars vs Rajasthan Regals

@@ -2,8 +2,20 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 10,
-  "last_upaded": "19-12-2024 on 4:25:16 PM \ud83c\udf1e",
+  "last_upaded": "19-12-2024 on 4:57:42 PM \ud83c\udf1e",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "Emirates D10 2024",
+      "match_id": 115452,
+      "match_name": "Sharjah vs Abu Dhabi",
+      "team_1": "Sharjah",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHRJ@2x.png",
+      "team_2": "Abu Dhabi",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ABUD@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115452_4713_ABD_SHA_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/X7VzIGarQ9CMT5wSuCde_A/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "Actors Cricket Bash",
@@ -19,18 +31,6 @@
     {
       "event_catagory": "cricket",
       "event_name": "National Cricket League T20, 2024",
-      "match_id": 114943,
-      "match_name": "Rangpur Division vs Khulna Division",
-      "team_1": "Rangpur Division",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RD-CR2@2x.png",
-      "team_2": "Khulna Division",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/KD-CR1@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114943_4691_RD_KD_fc-web_1733857502380.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/7Ga5smcPTJmNjwtQEtigBg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "National Cricket League T20, 2024",
       "match_id": 115627,
       "match_name": "Dhaka Division vs Barisal Division",
       "team_1": "Dhaka Division",
@@ -42,15 +42,15 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Champions T20 Cup, 2024",
-      "match_id": 114605,
-      "match_name": "Nurpur Lions vs Lake City Panthers",
-      "team_1": "Nurpur Lions",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NUR@2x.png",
-      "team_2": "Lake City Panthers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LCP@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114605_4681_NUR_LCP_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/qMBKmX8TQO-Y4tUQQPEyVw/master.m3u8"
+      "event_name": "European Cricket Championship-W, 2024",
+      "match_id": 114669,
+      "match_name": "Netherlands XI-W vs Ireland XI-W",
+      "team_1": "Netherlands XI-W",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NED-CR1@2x.png",
+      "team_2": "Ireland XI-W",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/IRE-CR1@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114669_4684_NDXI-W_IRXI-W_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/pQ15DFQmSTCFUaT2x1a5BA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
