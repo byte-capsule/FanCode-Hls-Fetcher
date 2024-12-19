@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Dhaka Metropolis vs Chattogram Division" tvg-logo="https://www.fancode.com/aig/match/v1/115626_CASACARDS_APP.png" tvg-id="115626" group-title="National Cricket League T20, 2024",Dhaka Metropolis vs Chattogram Division
-https://dai.google.com/linear/hls/event/TwbtVyFVRB2LCmvfDQcGMg/master.m3u8
 #EXTINF:-1 tvg-name="Rajshahi Division vs Sylhet Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114942_4691_SD_RAD_fc-web_1733857502376.jpg" tvg-id="114942" group-title="National Cricket League T20, 2024",Rajshahi Division vs Sylhet Division
 https://dai.google.com/linear/hls/event/0crkoztgSHWSYl4aJwn9Ug/master.m3u8
+#EXTINF:-1 tvg-name="Dhaka Metropolis vs Chattogram Division" tvg-logo="https://www.fancode.com/aig/match/v1/115626_CASACARDS_APP.png" tvg-id="115626" group-title="National Cricket League T20, 2024",Dhaka Metropolis vs Chattogram Division
+https://dai.google.com/linear/hls/event/TwbtVyFVRB2LCmvfDQcGMg/master.m3u8
+#EXTINF:-1 tvg-name="Varanasi Warriors vs Delhi Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Varanasi-Warriors-Vs-Delhi-Titans_OLD_1734426305603.jpg" tvg-id="115347" group-title="Actors Cricket Bash",Varanasi Warriors vs Delhi Titans
+https://dai.google.com/linear/hls/event/HzDvJq7rTQO0hnLJHmGGWA/master.m3u8
