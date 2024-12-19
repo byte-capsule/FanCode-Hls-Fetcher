@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "19-12-2024 on 0:32:46 PM \ud83c\udf1e",
+  "total_mathes": 8,
+  "last_upaded": "19-12-2024 on 0:53:51 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,6 +15,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DTA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Varanasi-Warriors-Vs-Delhi-Titans_OLD_1734426305603.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/HzDvJq7rTQO0hnLJHmGGWA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Actors Cricket Bash",
+      "match_id": 115348,
+      "match_name": "Mumbai Aces vs Chennai Marvels",
+      "team_1": "Mumbai Aces",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MA@2x.png",
+      "team_2": "Chennai Marvels",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CMB@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Mumbai-Aces-Vs-Chennai-Marvels_OLD.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/VickeX_tTAuO3wpD740-ug/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -31,14 +43,38 @@
     {
       "event_catagory": "cricket",
       "event_name": "National Cricket League T20, 2024",
-      "match_id": 115626,
-      "match_name": "Dhaka Metropolis vs Chattogram Division",
-      "team_1": "Dhaka Metropolis",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DM-CR1@2x.png",
-      "team_2": "Chattogram Division",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/CD-CR3@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/115626_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/TwbtVyFVRB2LCmvfDQcGMg/master.m3u8"
+      "match_id": 114943,
+      "match_name": "Rangpur Division vs Khulna Division",
+      "team_1": "Rangpur Division",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RD-CR2@2x.png",
+      "team_2": "Khulna Division",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/KD-CR1@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114943_4691_RD_KD_fc-web_1733857502380.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/7Ga5smcPTJmNjwtQEtigBg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Nepal Premier League, 2024",
+      "match_id": 113754,
+      "match_name": "Karnali Yaks vs Janakpur Bolts",
+      "team_1": "Karnali Yaks",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KNYN@2x.png",
+      "team_2": "Janakpur Bolts",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JKB@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113726_4657_JKB_KNY_fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/WRth0ltrTqilmTUJnGGtPQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Champions T20 Cup, 2024",
+      "match_id": 114605,
+      "match_name": "Nurpur Lions vs Lake City Panthers",
+      "team_1": "Nurpur Lions",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NUR@2x.png",
+      "team_2": "Lake City Panthers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LCP@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114605_4681_NUR_LCP_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/qMBKmX8TQO-Y4tUQQPEyVw/master.m3u8"
     },
     {
       "event_catagory": "kabaddi",
@@ -51,6 +87,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/RR-KB2@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/114760_4687_HIM_RRS_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/1Ctvyu8RRQ6ZzBq4rp7Oew/master.m3u8"
+    },
+    {
+      "event_catagory": "volleyball",
+      "event_name": "Women's Club World Champs 2024",
+      "match_id": 115158,
+      "match_name": "LP Bank Ninh Binh vs Dentil Praia Clube",
+      "team_1": "LP Bank Ninh Binh",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/DEF-VB1@2x.png",
+      "team_2": "Dentil Praia Clube",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/DEF-VB7@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/ZYxjm6_5QNWep6ffs6IEuA/master.m3u8"
     }
   ]
 }
