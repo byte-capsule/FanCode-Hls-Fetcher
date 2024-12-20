@@ -1,7 +1,44 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 0,
-  "last_upaded": "20-12-2024 on 05:53:17 AM \ud83c\udf1e",
-  "matches": []
+  "total_mathes": 3,
+  "last_upaded": "20-12-2024 on 07:46:17 AM \ud83c\udf1e",
+  "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "Bangladesh tour of West Indies, 2024",
+      "match_id": 112351,
+      "match_name": "Bangladesh vs West Indies",
+      "team_1": "Bangladesh",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
+      "team_2": "West Indies",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-T20-old-match-card.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/YGSTa2ZxSsyTnpr5ldIlcA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "WNCL, 2024-25",
+      "match_id": 109396,
+      "match_name": "Victoria Women vs South Australian Scorpions",
+      "team_1": "Victoria Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VCT@2x.png",
+      "team_2": "South Australian Scorpions",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SACO@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/109396_4508_VCTW_SASC_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/Bug0pU0zSUaNQd2Cbx5Amg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "WNCL, 2024-25",
+      "match_id": 109395,
+      "match_name": "ACT Meteors vs Queensland Fire",
+      "team_1": "ACT Meteors",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACTM@2x.png",
+      "team_2": "Queensland Fire",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-QUF@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/109395_4508_ACTM_QLF_fc-web_1734014502899.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/kqs-nA-VR86kbe2Rs5c6cA/master.m3u8"
+    }
+  ]
 }
