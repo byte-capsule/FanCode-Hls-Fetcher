@@ -1,11 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Sharjah vs Emirates Red" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115458_4713_SHA_EMR_fc-web.jpg" tvg-id="115458" group-title="Emirates D10 2024",Sharjah vs Emirates Red
-https://dai.google.com/linear/hls/event/ImdE5KzKTUGvLhVgoYckYg/master.m3u8
-#EXTINF:-1 tvg-name="Abu Dhabi vs Ajman" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="115459" group-title="Emirates D10 2024",Abu Dhabi vs Ajman
+#EXTINF:-1 tvg-name="Abu Dhabi vs Ajman" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115459_4713_ABD_AJM_fc-web.jpg" tvg-id="115459" group-title="Emirates D10 2024",Abu Dhabi vs Ajman
 https://dai.google.com/linear/hls/event/PpIaPDlpS4O7JW6uPiZPqA/master.m3u8
-#EXTINF:-1 tvg-name="Going Global vs Afghan Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112445_4616_AGT_GGL_fc-web_1731569490030.jpg" tvg-id="112445" group-title="KCC T20 Challengers A League, 2024-25",Going Global vs Afghan Tigers
-https://dai.google.com/linear/hls/event/HRxN80_SRKuA8ZUfN7vpug/master.m3u8
 #EXTINF:-1 tvg-name="Barana Aute Warriors vs Champagne Reef Divers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v1.jpg" tvg-id="114172" group-title="Dream11 Nature Isle T10, 6th Edition, 2024",Barana Aute Warriors vs Champagne Reef Divers
 https://dai.google.com/linear/hls/event/E3NVg6izSb-E1OnFgZr9Mg/master.m3u8
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PNC-Championship-old-Match-card.png" tvg-id="115086" group-title="PNC Championship",Day 1
 https://dai.google.com/linear/hls/event/av5IF7ooTjOK0GL_frAOvQ/master.m3u8
+#EXTINF:-1 tvg-name="Zalgiris Kaunas vs LDLC ASVEL Villeurbanne" tvg-logo="https://www.fancode.com/aig/match/v1/115587_CASACARDS_APP.png" tvg-id="115587" group-title="EuroLeague 2024-25",Zalgiris Kaunas vs LDLC ASVEL Villeurbanne
+https://dai.google.com/linear/hls/event/kmzFv3REQI26vHFwW3Eozg/master.m3u8

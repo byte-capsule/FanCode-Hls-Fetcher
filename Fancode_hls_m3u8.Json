@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "20-12-2024 on 11:39:22 PM \ud83c\udf19",
+  "total_mathes": 4,
+  "last_upaded": "20-12-2024 on 11:53:17 PM \ud83c\udf19",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Emirates D10 2024",
-      "match_id": 115458,
-      "match_name": "Sharjah vs Emirates Red",
-      "team_1": "Sharjah",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHRJ@2x.png",
-      "team_2": "Emirates Red",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EMRD@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115458_4713_SHA_EMR_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/ImdE5KzKTUGvLhVgoYckYg/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Emirates D10 2024",
@@ -25,20 +13,8 @@
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ABUD@2x.png",
       "team_2": "Ajman",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AJMN@2x.png",
-      "banner": false,
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115459_4713_ABD_AJM_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/PpIaPDlpS4O7JW6uPiZPqA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "KCC T20 Challengers A League, 2024-25",
-      "match_id": 112445,
-      "match_name": "Going Global vs Afghan Tigers",
-      "team_1": "Going Global",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GGL@2x.png",
-      "team_2": "Afghan Tigers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AGT@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112445_4616_AGT_GGL_fc-web_1731569490030.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/HRxN80_SRKuA8ZUfN7vpug/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -63,6 +39,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/PNC-Championship-old-Match-card.png",
       "stream_link": "https://dai.google.com/linear/hls/event/av5IF7ooTjOK0GL_frAOvQ/master.m3u8"
+    },
+    {
+      "event_catagory": "basketball",
+      "event_name": "EuroLeague 2024-25",
+      "match_id": 115587,
+      "match_name": "Zalgiris Kaunas vs LDLC ASVEL Villeurbanne",
+      "team_1": "Zalgiris Kaunas",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-ZALR@2x.png",
+      "team_2": "LDLC ASVEL Villeurbanne",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-ASVL@2x.png",
+      "banner": "https://www.fancode.com/aig/match/v1/115587_CASACARDS_APP.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/kmzFv3REQI26vHFwW3Eozg/master.m3u8"
     }
   ]
 }
