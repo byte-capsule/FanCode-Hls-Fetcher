@@ -1,7 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="ACE KRM Panthers vs Strikers Afghan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112443_4616_STX_KRM_fc-web_1731569490322.jpg" tvg-id="112443" group-title="KCC T20 Challengers A League, 2024-25",ACE KRM Panthers vs Strikers Afghan
+https://dai.google.com/linear/hls/event/Pq6N5aRpSnSWhMLwDJvNww/master.m3u8
 #EXTINF:-1 tvg-name="Victoria Women vs South Australian Scorpions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109396_4508_VCTW_SASC_fc-web.jpg" tvg-id="109396" group-title="WNCL, 2024-25",Victoria Women vs South Australian Scorpions
 https://dai.google.com/linear/hls/event/Bug0pU0zSUaNQd2Cbx5Amg/master.m3u8
 #EXTINF:-1 tvg-name="Mumbai Aces vs Chandigarh Mavericks" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mumbai-Aces-Vs-Chandigarh-Mavericks_OLD_1734454469869.jpg" tvg-id="115350" group-title="Actors Cricket Bash",Mumbai Aces vs Chandigarh Mavericks
 https://dai.google.com/linear/hls/event/bPT1E0GKT3-Ap7EpM_P4Iw/master.m3u8
+#EXTINF:-1 tvg-name="Bahrain vs Qatar" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115024" group-title="Men's Gulf Cricket T20I Championship 2024",Bahrain vs Qatar
+https://dai.google.com/linear/hls/event/zWwdtqeMTgKuZiMuOBe42Q/master.m3u8
 #EXTINF:-1 tvg-name="Indore Invincibles vs Ladakh Wolves" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114766_4687_IIS_LWS_fc-web.jpg" tvg-id="114766" group-title="Yuva Kabaddi Series Edition 11 - Division Rounds",Indore Invincibles vs Ladakh Wolves
 https://dai.google.com/linear/hls/event/-ya8TLr0SWmE-EMNTzLmVg/master.m3u8
