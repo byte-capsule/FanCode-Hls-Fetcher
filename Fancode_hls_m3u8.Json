@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 10,
-  "last_upaded": "20-12-2024 on 5:53:20 PM \ud83c\udf1e",
+  "total_mathes": 8,
+  "last_upaded": "20-12-2024 on 6:42:49 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,18 +27,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACO@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/112444_4616_SZN_PHR_fc-web_1731569490136.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/arIgtvzhRJ6fCiSQWby0Fw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Actors Cricket Bash",
-      "match_id": 115352,
-      "match_name": "Chennai Marvels vs Delhi Titans",
-      "team_1": "Chennai Marvels",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CMB@2x.png",
-      "team_2": "Delhi Titans",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DTA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115352_4711_CMA_DTA_fc-web-(1).jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/ho5d19KjSgO8sh65NKTlIg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -79,14 +67,14 @@
     {
       "event_catagory": "football",
       "event_name": "2nd Protech Guwahati Premier League 2024",
-      "match_id": 113859,
-      "match_name": "United Chirangduar FC vs North East Frontier Railways SA",
-      "team_1": "United Chirangduar FC",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-UCD@2x.png",
-      "team_2": "North East Frontier Railways SA",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NEFR@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1.jpg",
-      "stream_link": "https://dth5bcmetf2hk.cloudfront.net/out/v1/f07e2b8c97fb49138504edadc2f87db1/index.m3u8"
+      "match_id": 113860,
+      "match_name": "Pride East Mavericks vs FC Green Valley",
+      "team_1": "Pride East Mavericks",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PRDG@2x.png",
+      "team_2": "FC Green Valley",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEF-FT1@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2.jpg",
+      "stream_link": "https://d31ml5r7pok5df.cloudfront.net/out/v1/548cd24168454a3a960b7ca2cbc8441b/index.m3u8"
     },
     {
       "event_catagory": "golf",
@@ -99,18 +87,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/AfrAsia-Bank-Mauritius-open-old.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/0IH0qtLyT6O_2lAxcwWMgQ/master.m3u8"
-    },
-    {
-      "event_catagory": "kabaddi",
-      "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
-      "match_id": 114733,
-      "match_name": "Konark Kings vs Ladakh Wolves",
-      "team_1": "Konark Kings",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/KK-KB2@2x.png",
-      "team_2": "Ladakh Wolves",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/LW-KB1@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114733_4687_KKS_LWS_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/iCBnwWU-Qqim6UAHfD9byA/master.m3u8"
     },
     {
       "event_catagory": "volleyball",
