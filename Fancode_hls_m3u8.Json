@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "20-12-2024 on 3:39:46 PM \ud83c\udf1e",
+  "total_mathes": 6,
+  "last_upaded": "20-12-2024 on 3:53:24 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -75,18 +75,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/AfrAsia-Bank-Mauritius-open-old.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/0IH0qtLyT6O_2lAxcwWMgQ/master.m3u8"
-    },
-    {
-      "event_catagory": "kabaddi",
-      "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
-      "match_id": 114767,
-      "match_name": "Himalayan Tahrs vs Tadoba Tigers",
-      "team_1": "Himalayan Tahrs",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-HIMT@2x.png",
-      "team_2": "Tadoba Tigers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-TAT@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114767_4687_HIM_TTS_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/ybbkSZaITlisZ7JbA15X2A/master.m3u8"
     }
   ]
 }
