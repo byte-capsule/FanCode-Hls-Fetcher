@@ -1,11 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Ahmedabad Lions vs Varanasi Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ahmedabad-Lions-VS-Varanasi-Warriors_old_1734426929873.jpg" tvg-id="115351" group-title="Actors Cricket Bash",Ahmedabad Lions vs Varanasi Warriors
 https://dai.google.com/linear/hls/event/kpIBR6lOQOSPFUJD_pXlpQ/master.m3u8
+#EXTINF:-1 tvg-name="Chennai Marvels vs Delhi Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115352_4711_CMA_DTA_fc-web-(1).jpg" tvg-id="115352" group-title="Actors Cricket Bash",Chennai Marvels vs Delhi Titans
+https://dai.google.com/linear/hls/event/ho5d19KjSgO8sh65NKTlIg/master.m3u8
+#EXTINF:-1 tvg-name="Oman vs Kuwait" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115025" group-title="Men's Gulf Cricket T20I Championship 2024",Oman vs Kuwait
+https://dai.google.com/linear/hls/event/FsjUXX5PQJmjbj3ljQAWng/master.m3u8
 #EXTINF:-1 tvg-name="ABL Stallions vs UMT Markhors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114606_4681_AST_UMA_fc-web.jpg" tvg-id="114606" group-title="Champions T20 Cup, 2024",ABL Stallions vs UMT Markhors
 https://dai.google.com/linear/hls/event/8Qm45pRTRqqA5KA0lUSQ6A/master.m3u8
-#EXTINF:-1 tvg-name="Scotland XI-W vs Ireland XI-W" tvg-logo="https://www.fancode.com/aig/match/v1/114672_CASACARDS_APP.png" tvg-id="114672" group-title="European Cricket Championship-W, 2024",Scotland XI-W vs Ireland XI-W
+#EXTINF:-1 tvg-name="Scotland XI-W vs Ireland XI-W" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114653_4684_SCXI-W_IRXI-W_fc-web.jpg" tvg-id="114672" group-title="European Cricket Championship-W, 2024",Scotland XI-W vs Ireland XI-W
 https://dai.google.com/linear/hls/event/6bK7hDORTPumJXdapC2g3w/master.m3u8
 #EXTINF:-1 tvg-name="Adelaide United vs Sydney FC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110940_4567_ADL_SYD_fc-web_1728983128913.jpg" tvg-id="110940" group-title="A League 2024-25",Adelaide United vs Sydney FC
 https://dai.google.com/linear/hls/event/3-NrNXamRRq_BqIvHXjhHA/master.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AfrAsia-Bank-Mauritius-open-old.jpg" tvg-id="114581" group-title="AfrAsia Bank Mauritius Open",Day 2
 https://dai.google.com/linear/hls/event/0IH0qtLyT6O_2lAxcwWMgQ/master.m3u8
+#EXTINF:-1 tvg-name="Himalayan Tahrs vs Tadoba Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114767_4687_HIM_TTS_fc-web.jpg" tvg-id="114767" group-title="Yuva Kabaddi Series Edition 11 - Division Rounds",Himalayan Tahrs vs Tadoba Tigers
+https://dai.google.com/linear/hls/event/ybbkSZaITlisZ7JbA15X2A/master.m3u8

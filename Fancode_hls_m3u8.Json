@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "20-12-2024 on 2:45:47 PM \ud83c\udf1e",
+  "total_mathes": 8,
+  "last_upaded": "20-12-2024 on 3:22:50 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,6 +15,30 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VWA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Ahmedabad-Lions-VS-Varanasi-Warriors_old_1734426929873.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/kpIBR6lOQOSPFUJD_pXlpQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Actors Cricket Bash",
+      "match_id": 115352,
+      "match_name": "Chennai Marvels vs Delhi Titans",
+      "team_1": "Chennai Marvels",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CMB@2x.png",
+      "team_2": "Delhi Titans",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DTA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115352_4711_CMA_DTA_fc-web-(1).jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/ho5d19KjSgO8sh65NKTlIg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Men's Gulf Cricket T20I Championship 2024",
+      "match_id": 115025,
+      "match_name": "Oman vs Kuwait",
+      "team_1": "Oman",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OMA@2x.png",
+      "team_2": "Kuwait",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUW@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/FsjUXX5PQJmjbj3ljQAWng/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -37,7 +61,7 @@
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SCO-CR1@2x.png",
       "team_2": "Ireland XI-W",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/IRE-CR1@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/114672_CASACARDS_APP.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114653_4684_SCXI-W_IRXI-W_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/6bK7hDORTPumJXdapC2g3w/master.m3u8"
     },
     {
@@ -63,6 +87,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/AfrAsia-Bank-Mauritius-open-old.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/0IH0qtLyT6O_2lAxcwWMgQ/master.m3u8"
+    },
+    {
+      "event_catagory": "kabaddi",
+      "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
+      "match_id": 114767,
+      "match_name": "Himalayan Tahrs vs Tadoba Tigers",
+      "team_1": "Himalayan Tahrs",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-HIMT@2x.png",
+      "team_2": "Tadoba Tigers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-TAT@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114767_4687_HIM_TTS_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/ybbkSZaITlisZ7JbA15X2A/master.m3u8"
     }
   ]
 }
