@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 2,
-  "last_upaded": "20-12-2024 on 10:26:50 PM \ud83c\udf19",
+  "total_mathes": 4,
+  "last_upaded": "20-12-2024 on 10:44:43 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,6 +27,30 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AGT@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/112445_4616_AGT_GGL_fc-web_1731569490030.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/HRxN80_SRKuA8ZUfN7vpug/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Dream11 Nature Isle T10, 6th Edition, 2024",
+      "match_id": 114172,
+      "match_name": "Barana Aute Warriors vs Champagne Reef Divers",
+      "team_1": "Barana Aute Warriors",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAWA@2x.png",
+      "team_2": "Champagne Reef Divers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CHRD@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v1.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/E3NVg6izSb-E1OnFgZr9Mg/master.m3u8"
+    },
+    {
+      "event_catagory": "golf",
+      "event_name": "PNC Championship",
+      "match_id": 115086,
+      "match_name": "Day 1",
+      "team_1": "Day 1",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PNC@2x.png",
+      "team_2": "Orlando, FL",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/PNC-Championship-old-Match-card.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/av5IF7ooTjOK0GL_frAOvQ/master.m3u8"
     }
   ]
 }
