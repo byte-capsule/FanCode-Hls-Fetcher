@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "20-12-2024 on 7:31:48 PM \ud83c\udf19",
+  "total_mathes": 2,
+  "last_upaded": "20-12-2024 on 7:53:12 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,18 +15,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ABUD@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/115457_4713_FUJ_ABD_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/pjLYwYACQeiOoxMgumhhNw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "KCC T20 Challengers A League, 2024-25",
-      "match_id": 112444,
-      "match_name": "Phoenix Riders vs Ai Octopus Challengers",
-      "team_1": "Phoenix Riders",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PHR@2x.png",
-      "team_2": "Ai Octopus Challengers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACO@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112444_4616_SZN_PHR_fc-web_1731569490136.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/arIgtvzhRJ6fCiSQWby0Fw/master.m3u8"
     },
     {
       "event_catagory": "football",

@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Fujairah vs Abu Dhabi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115457_4713_FUJ_ABD_fc-web.jpg" tvg-id="115457" group-title="Emirates D10 2024",Fujairah vs Abu Dhabi
 https://dai.google.com/linear/hls/event/pjLYwYACQeiOoxMgumhhNw/master.m3u8
-#EXTINF:-1 tvg-name="Phoenix Riders vs Ai Octopus Challengers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112444_4616_SZN_PHR_fc-web_1731569490136.jpg" tvg-id="112444" group-title="KCC T20 Challengers A League, 2024-25",Phoenix Riders vs Ai Octopus Challengers
-https://dai.google.com/linear/hls/event/arIgtvzhRJ6fCiSQWby0Fw/master.m3u8
 #EXTINF:-1 tvg-name="Pride East Mavericks vs FC Green Valley" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2.jpg" tvg-id="113860" group-title="2nd Protech Guwahati Premier League 2024",Pride East Mavericks vs FC Green Valley
 https://d31ml5r7pok5df.cloudfront.net/out/v1/548cd24168454a3a960b7ca2cbc8441b/index.m3u8
