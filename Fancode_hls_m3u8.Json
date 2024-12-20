@@ -1,9 +1,21 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "20-12-2024 on 3:53:24 PM \ud83c\udf1e",
+  "total_mathes": 8,
+  "last_upaded": "20-12-2024 on 4:23:14 PM \ud83c\udf1e",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "KCC T20 Challengers A League, 2024-25",
+      "match_id": 112444,
+      "match_name": "Phoenix Riders vs Ai Octopus Challengers",
+      "team_1": "Phoenix Riders",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PHR@2x.png",
+      "team_2": "Ai Octopus Challengers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACO@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112444_4616_SZN_PHR_fc-web_1731569490136.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/arIgtvzhRJ6fCiSQWby0Fw/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "Actors Cricket Bash",
@@ -31,26 +43,14 @@
     {
       "event_catagory": "cricket",
       "event_name": "Champions T20 Cup, 2024",
-      "match_id": 114606,
-      "match_name": "ABL Stallions vs UMT Markhors",
-      "team_1": "ABL Stallions",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ASN@2x.png",
-      "team_2": "UMT Markhors",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UMA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114606_4681_AST_UMA_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/8Qm45pRTRqqA5KA0lUSQ6A/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "European Cricket Championship-W, 2024",
-      "match_id": 114672,
-      "match_name": "Scotland XI-W vs Ireland XI-W",
-      "team_1": "Scotland XI-W",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SCO-CR1@2x.png",
-      "team_2": "Ireland XI-W",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/IRE-CR1@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114653_4684_SCXI-W_IRXI-W_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/6bK7hDORTPumJXdapC2g3w/master.m3u8"
+      "match_id": 114607,
+      "match_name": "Engro Dolphins vs Nurpur Lions",
+      "team_1": "Engro Dolphins",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-END@2x.png",
+      "team_2": "Nurpur Lions",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NUR@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114607_4681_END_NUR_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/KMoAyvn5SlqZMtQjUUwBog/master.m3u8"
     },
     {
       "event_catagory": "football",
@@ -65,6 +65,18 @@
       "stream_link": "https://dai.google.com/linear/hls/event/3-NrNXamRRq_BqIvHXjhHA/master.m3u8"
     },
     {
+      "event_catagory": "football",
+      "event_name": "2nd Protech Guwahati Premier League 2024",
+      "match_id": 113859,
+      "match_name": "United Chirangduar FC vs North East Frontier Railways SA",
+      "team_1": "United Chirangduar FC",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-UCD@2x.png",
+      "team_2": "North East Frontier Railways SA",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NEFR@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1.jpg",
+      "stream_link": "https://dth5bcmetf2hk.cloudfront.net/out/v1/f07e2b8c97fb49138504edadc2f87db1/index.m3u8"
+    },
+    {
       "event_catagory": "golf",
       "event_name": "AfrAsia Bank Mauritius Open",
       "match_id": 114581,
@@ -75,6 +87,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/AfrAsia-Bank-Mauritius-open-old.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/0IH0qtLyT6O_2lAxcwWMgQ/master.m3u8"
+    },
+    {
+      "event_catagory": "kabaddi",
+      "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
+      "match_id": 114764,
+      "match_name": "Dehradun Dynamos vs Ranchi Rangers",
+      "team_1": "Dehradun Dynamos",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/DD-KB1@2x.png",
+      "team_2": "Ranchi Rangers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/RR-KB2@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114764_4687_DDS_RRS_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/i0B0O23VS4CMXK74yDgd0g/master.m3u8"
     }
   ]
 }
