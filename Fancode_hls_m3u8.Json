@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "20-12-2024 on 9:53:26 PM \ud83c\udf19",
+  "total_mathes": 2,
+  "last_upaded": "20-12-2024 on 10:26:50 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,18 +27,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AGT@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/112445_4616_AGT_GGL_fc-web_1731569490030.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/HRxN80_SRKuA8ZUfN7vpug/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "European Cricket Championship-W, 2024",
-      "match_id": 114674,
-      "match_name": "Netherlands XI-W vs England XI-W",
-      "team_1": "Netherlands XI-W",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NED-CR1@2x.png",
-      "team_2": "England XI-W",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114652_4684_EXI-W_NDXI-W_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/9zvnfWeDSH2BZgrwHLK94w/master.m3u8"
     }
   ]
 }
