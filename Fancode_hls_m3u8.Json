@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "21-12-2024 on 4:20:51 PM \ud83c\udf1e",
+  "total_mathes": 6,
+  "last_upaded": "21-12-2024 on 4:40:00 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -63,18 +63,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFG@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_ODIs_old.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/S4zci_ocRNWj1XlnO0i1pw/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "A League 2024-25",
-      "match_id": 110943,
-      "match_name": "Melbourne Victory vs Melbourne City",
-      "team_1": "Melbourne Victory",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLVA@2x.png",
-      "team_2": "Melbourne City",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLCA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110943_4567_MLV_MLC_fc-web_1728983127736.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/MBLrk-2cQfeXjJbyS0p98A/master.m3u8"
     },
     {
       "event_catagory": "golf",
