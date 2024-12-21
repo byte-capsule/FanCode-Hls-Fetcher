@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Dubai vs Ajman" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115461_4713_AJM_DUB_fc-web.jpg" tvg-id="115461" group-title="Emirates D10 2024",Dubai vs Ajman
 https://dai.google.com/linear/hls/event/JjZXDWHeRdmn8s8XCZ21ww/master.m3u8
-#EXTINF:-1 tvg-name="Engro Dolphins vs ABL Stallions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114609_4681_AST_END_fc-web.jpg" tvg-id="114609" group-title="Champions T20 Cup, 2024",Engro Dolphins vs ABL Stallions
-https://dai.google.com/linear/hls/event/5xx_PX1SRBCFEG8zHKMDGg/master.m3u8
+#EXTINF:-1 tvg-name="Northern Challengers vs Southern Spartans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114837_4688_SS_NC_fc-Web.jpg" tvg-id="114853" group-title="Big Cricket League, 2024",Northern Challengers vs Southern Spartans
+https://dai.google.com/linear/hls/event/4ore2di3RtSOf4W9UcPrJA/master.m3u8
 #EXTINF:-1 tvg-name="United Arab Emirates vs Kuwait" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115026" group-title="Men's Gulf Cricket T20I Championship 2024",United Arab Emirates vs Kuwait
 https://dai.google.com/linear/hls/event/KWo7dn18SsGF-pdTocjJxg/master.m3u8
 #EXTINF:-1 tvg-name="Portsmouth vs Coventry City" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109901_4352_PRM_CVC_fc-web.jpg" tvg-id="109901" group-title="EFL Championship 2024-25",Portsmouth vs Coventry City
