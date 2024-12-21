@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "21-12-2024 on 10:55:47 PM \ud83c\udf19",
+  "total_mathes": 3,
+  "last_upaded": "21-12-2024 on 11:19:19 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -39,18 +39,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUW@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
       "stream_link": "https://dai.google.com/linear/hls/event/KWo7dn18SsGF-pdTocjJxg/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "EFL Championship 2024-25",
-      "match_id": 109902,
-      "match_name": "Queens Park Rangers vs Preston North End",
-      "team_1": "Queens Park Rangers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-QPRN@2x.png",
-      "team_2": "Preston North End",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PREST@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/109902_4352_QPR_PST_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/07DScK_SQdGTQX44rFaxgA/master.m3u8"
     }
   ]
 }
