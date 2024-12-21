@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "21-12-2024 on 1:53:20 PM \ud83c\udf1e",
+  "total_mathes": 6,
+  "last_upaded": "21-12-2024 on 2:25:40 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -18,30 +18,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Champions T20 Cup, 2024",
-      "match_id": 114608,
-      "match_name": "Lake City Panthers vs UMT Markhors",
-      "team_1": "Lake City Panthers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LCP@2x.png",
-      "team_2": "UMT Markhors",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UMA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114608_4681_LCP_UMA_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/BeUALypITQe-r-hZluQDYA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Nepal Premier League, 2024",
-      "match_id": 113755,
-      "match_name": "Sudurpaschim Royals vs Janakpur Bolts",
-      "team_1": "Sudurpaschim Royals",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SPR@2x.png",
-      "team_2": "Janakpur Bolts",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JKB@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Nepal-Premier-League-Final-old-match-card.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/blAChkEkQyaMEoUVQ30Cfw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "National Cricket League T20, 2024",
       "match_id": 114946,
       "match_name": "Dhaka Metropolis vs Rangpur Division",
@@ -51,6 +27,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RD-CR2@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/114940_4691_RD_DM_fc-web_1733857502066.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/NmQBl6LMREqj2AR-ZL3ggw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Champions T20 Cup, 2024",
+      "match_id": 114608,
+      "match_name": "Lake City Panthers vs UMT Markhors",
+      "team_1": "Lake City Panthers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LCP@2x.png",
+      "team_2": "UMT Markhors",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UMA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114608_4681_LCP_UMA_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/BeUALypITQe-r-hZluQDYA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -65,16 +53,16 @@
       "stream_link": "https://dai.google.com/linear/hls/event/S4zci_ocRNWj1XlnO0i1pw/master.m3u8"
     },
     {
-      "event_catagory": "football",
-      "event_name": "A League 2024-25",
-      "match_id": 110942,
-      "match_name": "Brisbane Roar vs Perth Glory",
-      "team_1": "Brisbane Roar",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BRBI@2x.png",
-      "team_2": "Perth Glory",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PERTHGA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110942_4567_BRB_PG_fc-web_1728983128175.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/dG4ZoRkaRr-WfIg4sU5WNQ/master.m3u8"
+      "event_catagory": "cricket",
+      "event_name": "Nepal Premier League, 2024",
+      "match_id": 113755,
+      "match_name": "Sudurpaschim Royals vs Janakpur Bolts",
+      "team_1": "Sudurpaschim Royals",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SPR@2x.png",
+      "team_2": "Janakpur Bolts",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JKB@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Nepal-Premier-League-Final-old-match-card.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/blAChkEkQyaMEoUVQ30Cfw/master.m3u8"
     },
     {
       "event_catagory": "volleyball",
