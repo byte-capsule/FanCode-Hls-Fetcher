@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Ahmedabad Lions vs Chandigarh Mavericks" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ahmedabad-Lions-Vs-Chandigarh-Mavericks_OLD_1734426582829.jpg" tvg-id="115353" group-title="Actors Cricket Bash",Ahmedabad Lions vs Chandigarh Mavericks
-https://dai.google.com/linear/hls/event/GbfF9M4-RaueTbRG_jZ-bA/master.m3u8
 #EXTINF:-1 tvg-name="Khulna Division vs Chattogram Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114938_4691_CD_KD_fc-web_1733857502086.jpg" tvg-id="114945" group-title="National Cricket League T20, 2024",Khulna Division vs Chattogram Division
 https://dai.google.com/linear/hls/event/JG723sxFQq-pqAM8H0WYfQ/master.m3u8
 #EXTINF:-1 tvg-name="Lake City Panthers vs UMT Markhors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114608_4681_LCP_UMA_fc-web.jpg" tvg-id="114608" group-title="Champions T20 Cup, 2024",Lake City Panthers vs UMT Markhors
 https://dai.google.com/linear/hls/event/BeUALypITQe-r-hZluQDYA/master.m3u8
+#EXTINF:-1 tvg-name="Brisbane Roar vs Perth Glory" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110942_4567_BRB_PG_fc-web_1728983128175.jpg" tvg-id="110942" group-title="A League 2024-25",Brisbane Roar vs Perth Glory
+https://dai.google.com/linear/hls/event/dG4ZoRkaRr-WfIg4sU5WNQ/master.m3u8
