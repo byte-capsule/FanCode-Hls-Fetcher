@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Ajman vs Sharjah" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115463_4713_AJM_SHA_fc-web.jpg" tvg-id="115463" group-title="Emirates D10 2024",Ajman vs Sharjah
 https://dai.google.com/linear/hls/event/GGDRYaFHRumKhgZWUkSw5g/master.m3u8
-#EXTINF:-1 tvg-name="United Arab Emirates vs Kuwait" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115026" group-title="Men's Gulf Cricket T20I Championship 2024",United Arab Emirates vs Kuwait
-https://dai.google.com/linear/hls/event/KWo7dn18SsGF-pdTocjJxg/master.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PNC-Championship-old-Match-card.png" tvg-id="115087" group-title="PNC Championship",Day 2
 https://dai.google.com/linear/hls/event/sPQrkct9TgyiwByeXWgV1Q/master.m3u8
