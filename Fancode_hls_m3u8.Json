@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 4,
-  "last_upaded": "22-12-2024 on 4:53:04 PM \ud83c\udf1e",
+  "last_upaded": "22-12-2024 on 5:15:57 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -41,16 +41,16 @@
       "stream_link": "https://dai.google.com/linear/hls/event/DOj2EwaZSomULyeWbjI36A/master.m3u8"
     },
     {
-      "event_catagory": "golf",
-      "event_name": "AfrAsia Bank Mauritius Open",
-      "match_id": 114583,
-      "match_name": "Day 4",
-      "team_1": "Day 4",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-ABMO@2x.png",
-      "team_2": "Heritage La R\u00e9serve GC, Heritage Bel Ombre, Maurit",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/AfrAsia-Bank-Mauritius-open-old.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/zkX0fDFmTISiiT_O6zvZLw/master.m3u8"
+      "event_catagory": "volleyball",
+      "event_name": "Women's Club World Champs 2024",
+      "match_id": 115166,
+      "match_name": "Tianjin Bohai Bank vs Prosecco Doc Imoco Conegliano",
+      "team_1": "Tianjin Bohai Bank",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/DEF-VB1@2x.png",
+      "team_2": "Prosecco Doc Imoco Conegliano",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/DEF-VB2@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/XWsfklVLTPmQNOikf-XQ1g/master.m3u8"
     }
   ]
 }
