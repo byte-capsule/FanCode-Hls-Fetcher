@@ -1,3 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Dhaka Metropolis vs Khulna Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114925_4691_DM_KD_fc-web_1733857502035.jpg" tvg-id="114947" group-title="National Cricket League T20, 2024",Dhaka Metropolis vs Khulna Division
+https://dai.google.com/linear/hls/event/GFEoj7hWQ2u--5_JrvSkGw/master.m3u8
+#EXTINF:-1 tvg-name="Western Sydney Wanderers vs Wellington Phoenix" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110944_4567_SYW_WEL_fc-web_1728983127111.jpg" tvg-id="110944" group-title="A League 2024-25",Western Sydney Wanderers vs Wellington Phoenix
+https://dai.google.com/linear/hls/event/NIPZNgsYSc2eECWPxUmz_Q/master.m3u8
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AfrAsia-Bank-Mauritius-open-old.jpg" tvg-id="114583" group-title="AfrAsia Bank Mauritius Open",Day 4
 https://dai.google.com/linear/hls/event/zkX0fDFmTISiiT_O6zvZLw/master.m3u8
