@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Dhaka Metropolis vs Khulna Division" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114925_4691_DM_KD_fc-web_1733857502035.jpg" tvg-id="114947" group-title="National Cricket League T20, 2024",Dhaka Metropolis vs Khulna Division
-https://dai.google.com/linear/hls/event/GFEoj7hWQ2u--5_JrvSkGw/master.m3u8
 #EXTINF:-1 tvg-name="Chandigarh Mavericks vs Delhi Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-Mavericks-Vs-Delhi-Titans_OLD_1734109340198.jpg" tvg-id="115356" group-title="Actors Cricket Bash",Chandigarh Mavericks vs Delhi Titans
 https://dai.google.com/linear/hls/event/9iuwnFVuQIqjCohDJ9YC5Q/master.m3u8
+#EXTINF:-1 tvg-name="Pride East Mavericks vs North East Frontier Railways SA" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg" tvg-id="113861" group-title="2nd Protech Guwahati Premier League 2024",Pride East Mavericks vs North East Frontier Railways SA
+https://dai.google.com/linear/hls/event/DOj2EwaZSomULyeWbjI36A/master.m3u8
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AfrAsia-Bank-Mauritius-open-old.jpg" tvg-id="114583" group-title="AfrAsia Bank Mauritius Open",Day 4
 https://dai.google.com/linear/hls/event/zkX0fDFmTISiiT_O6zvZLw/master.m3u8
