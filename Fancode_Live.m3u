@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Fujairah vs Sharjah" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115467_4713_FUJ_SHA_fc-web.jpg" tvg-id="115467" group-title="Emirates D10 2024",Fujairah vs Sharjah
 https://dai.google.com/linear/hls/event/tB5Q4KeJRN6CmMJ1k0jkvA/master.m3u8
-#EXTINF:-1 tvg-name="Southern Spartans vs Mumbai Marines" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114847_4688_SS_MM_fc-Web.jpg" tvg-id="114854" group-title="Big Cricket League, 2024",Southern Spartans vs Mumbai Marines
-https://dai.google.com/linear/hls/event/U75Ey9WXQZO3AiXJeQ6Iig/master.m3u8
 #EXTINF:-1 tvg-name="Chandigarh Mavericks vs Delhi Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-Mavericks-Vs-Delhi-Titans_OLD_1734109340198.jpg" tvg-id="115356" group-title="Actors Cricket Bash",Chandigarh Mavericks vs Delhi Titans
 https://dai.google.com/linear/hls/event/9iuwnFVuQIqjCohDJ9YC5Q/master.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PNC-Championship-old-Match-card.png" tvg-id="115088" group-title="PNC Championship",Day 3
