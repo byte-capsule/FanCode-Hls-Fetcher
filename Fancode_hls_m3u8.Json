@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "22-12-2024 on 6:39:26 PM \ud83c\udf19",
+  "total_mathes": 3,
+  "last_upaded": "22-12-2024 on 7:02:01 PM \ud83c\udf19",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Emirates D10 2024",
-      "match_id": 115464,
-      "match_name": "Abu Dhabi vs Emirates Red",
-      "team_1": "Abu Dhabi",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ABUD@2x.png",
-      "team_2": "Emirates Red",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EMRD@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115464_4713_ABD_EMR_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/HdNdi4v1RNWAd-Kz7jvQoQ/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Actors Cricket Bash",
