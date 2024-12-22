@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 4,
-  "last_upaded": "22-12-2024 on 7:29:23 PM \ud83c\udf19",
+  "last_upaded": "22-12-2024 on 7:42:15 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -29,6 +29,18 @@
       "stream_link": "https://dai.google.com/linear/hls/event/9iuwnFVuQIqjCohDJ9YC5Q/master.m3u8"
     },
     {
+      "event_catagory": "cricket",
+      "event_name": "Dream11 Nature Isle T10, 6th Edition, 2024",
+      "match_id": 114174,
+      "match_name": "Indian River Rowers vs Barana Aute Warriors",
+      "team_1": "Indian River Rowers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROWE@2x.png",
+      "team_2": "Barana Aute Warriors",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAWA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v2.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/wDO1I7fdTL2G5zUm0rq7lQ/master.m3u8"
+    },
+    {
       "event_catagory": "football",
       "event_name": "2nd Protech Guwahati Premier League 2024",
       "match_id": 113861,
@@ -39,18 +51,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NEFR@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/DOj2EwaZSomULyeWbjI36A/master.m3u8"
-    },
-    {
-      "event_catagory": "volleyball",
-      "event_name": "Women's Club World Champs 2024",
-      "match_id": 115166,
-      "match_name": "Tianjin Bohai Bank vs Prosecco Doc Imoco Conegliano",
-      "team_1": "Tianjin Bohai Bank",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/DEF-VB1@2x.png",
-      "team_2": "Prosecco Doc Imoco Conegliano",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/vb-flags/DEF-VB2@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/XWsfklVLTPmQNOikf-XQ1g/master.m3u8"
     }
   ]
 }
