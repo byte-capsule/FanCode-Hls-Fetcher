@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Fujairah vs Emirates Blues" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115465_4713_FUJ_EMB_fc-web.jpg" tvg-id="115465" group-title="Emirates D10 2024",Fujairah vs Emirates Blues
-https://mls3.fancode.com/c902ec31-9257-4a33-bf02-2b5416787c4e/master.m3u8
+#EXTINF:-1 tvg-name="Dubai vs Abu Dhabi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115466_4713_ABD_DUB_fc-web.jpg" tvg-id="115466" group-title="Emirates D10 2024",Dubai vs Abu Dhabi
+https://dai.google.com/linear/hls/event/q71lu2SlTo6i8iGTFYFJHQ/master.m3u8
 #EXTINF:-1 tvg-name="Southern Spartans vs Mumbai Marines" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114847_4688_SS_MM_fc-Web.jpg" tvg-id="114854" group-title="Big Cricket League, 2024",Southern Spartans vs Mumbai Marines
 https://dai.google.com/linear/hls/event/U75Ey9WXQZO3AiXJeQ6Iig/master.m3u8
-#EXTINF:-1 tvg-name="Chandigarh Mavericks vs Delhi Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-Mavericks-Vs-Delhi-Titans_OLD_1734109340198.jpg" tvg-id="115356" group-title="Actors Cricket Bash",Chandigarh Mavericks vs Delhi Titans
+#EXTINF:-1 tvg-name="Chandigarh Mavericks vs Delhi Titans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="115356" group-title="Actors Cricket Bash",Chandigarh Mavericks vs Delhi Titans
 https://dai.google.com/linear/hls/event/9iuwnFVuQIqjCohDJ9YC5Q/master.m3u8
 #EXTINF:-1 tvg-name="Indian River Rowers vs Barana Aute Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v2.jpg" tvg-id="114174" group-title="Dream11 Nature Isle T10, 6th Edition, 2024",Indian River Rowers vs Barana Aute Warriors
 https://dai.google.com/linear/hls/event/wDO1I7fdTL2G5zUm0rq7lQ/master.m3u8
