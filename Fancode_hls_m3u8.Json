@@ -1,7 +1,32 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 0,
-  "last_upaded": "23-12-2024 on 1:53:14 PM \ud83c\udf1e",
-  "matches": []
+  "total_mathes": 2,
+  "last_upaded": "23-12-2024 on 2:46:20 PM \ud83c\udf1e",
+  "matches": [
+    {
+      "event_catagory": "football",
+      "event_name": "A League 2024-25",
+      "match_id": 110945,
+      "match_name": "Macarthur vs Central Coast Mariners",
+      "team_1": "Macarthur",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MACA@2x.png",
+      "team_2": "Central Coast Mariners",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CENTA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110945_4567_MAC_CCM_fc-web_1728983127237.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/KtuQrjUESDavwxpgkGmGBQ/master.m3u8"
+    },
+    {
+      "event_catagory": "kabaddi",
+      "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
+      "match_id": 114769,
+      "match_name": "Delhi Dhurandhars vs Hampi Heroes",
+      "team_1": "Delhi Dhurandhars",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-DDD@2x.png",
+      "team_2": "Hampi Heroes",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-HER@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114769_4687_DDD_HMH_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/3AANvCLPQD2chnb9cXCczQ/master.m3u8"
+    }
+  ]
 }
