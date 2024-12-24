@@ -1,7 +1,20 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 0,
-  "last_upaded": "24-12-2024 on 3:53:05 PM \ud83c\udf1e",
-  "matches": []
+  "total_mathes": 1,
+  "last_upaded": "24-12-2024 on 4:22:57 PM \ud83c\udf1e",
+  "matches": [
+    {
+      "event_catagory": "kabaddi",
+      "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
+      "match_id": 114775,
+      "match_name": "Hyderabad Hurricanes vs Sindh Sonics",
+      "team_1": "Hyderabad Hurricanes",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-HH@2x.png",
+      "team_2": "Sindh Sonics",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-SSO@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114775_4687_HH_SS_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/XXTNxxWfRBKPyaDf-ziiSQ/master.m3u8"
+    }
+  ]
 }
