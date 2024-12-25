@@ -1,32 +1,7 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 2,
-  "last_upaded": "26-12-2024 on 00:28:51 AM \ud83c\udf19",
-  "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "KCC T20 Challengers A League, 2024-25",
-      "match_id": 112451,
-      "match_name": "ACE KRM Panthers vs Cochin Hurricanes",
-      "team_1": "ACE KRM Panthers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AK@2x.png",
-      "team_2": "Cochin Hurricanes",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-COR@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/112451_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/lglNWnGQSa2d0ikCPTP_wg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Emirates D10 2024",
-      "match_id": 115475,
-      "match_name": "Dubai vs Fujairah",
-      "team_1": "Dubai",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EMDB@2x.png",
-      "team_2": "Fujairah",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FUJA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115475_4713_FUJ_DUB_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/6kTJOKq6Q2-CweMD62ylzg/master.m3u8"
-    }
-  ]
+  "total_mathes": 0,
+  "last_upaded": "26-12-2024 on 00:44:47 AM \ud83c\udf19",
+  "matches": []
 }
