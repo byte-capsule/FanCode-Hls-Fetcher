@@ -3,5 +3,9 @@
 https://dai.google.com/linear/hls/event/99SgUm9ISlaM52d60g8vUw/master.m3u8
 #EXTINF:-1 tvg-name="Emirates Red vs Ajman" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115478_4713_AJM_EMR_fc-web.jpg" tvg-id="115478" group-title="Emirates D10 2024",Emirates Red vs Ajman
 https://dai.google.com/linear/hls/event/KSwfhOXLSJyI-xydxnx6uA/master.m3u8
+#EXTINF:-1 tvg-name="Abu Dhabi vs Emirates Blues" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115479_4713_ABD_EMB_fc-web.jpg" tvg-id="115479" group-title="Emirates D10 2024",Abu Dhabi vs Emirates Blues
+https://dai.google.com/linear/hls/event/rJvUkGftRTWutZ2srZ22cw/master.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe vs Afghanistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg" tvg-id="113545" group-title="Afghanistan tour of Zimbabwe, 2024-25",Zimbabwe vs Afghanistan
 https://dai.google.com/linear/hls/event/ywWXxndBSCqCYCrMhhAc5g/master.m3u8
+#EXTINF:-1 tvg-name="Derby County vs West Bromwich Albion" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111991_4352_DER_WBA_fc-web.jpg" tvg-id="111991" group-title="EFL Championship 2024-25",Derby County vs West Bromwich Albion
+https://dai.google.com/linear/hls/event/lPlQgu8VRISkDqiSwr9K8A/master.m3u8
