@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 3,
-  "last_upaded": "26-12-2024 on 9:22:29 PM \ud83c\udf19",
+  "last_upaded": "26-12-2024 on 9:39:43 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -17,18 +17,6 @@
       "stream_link": "https://dai.google.com/linear/hls/event/KSwfhOXLSJyI-xydxnx6uA/master.m3u8"
     },
     {
-      "event_catagory": "cricket",
-      "event_name": "Afghanistan tour of Zimbabwe, 2024-25",
-      "match_id": 113545,
-      "match_name": "Zimbabwe vs Afghanistan",
-      "team_1": "Zimbabwe",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
-      "team_2": "Afghanistan",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFG@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/ywWXxndBSCqCYCrMhhAc5g/master.m3u8"
-    },
-    {
       "event_catagory": "football",
       "event_name": "EFL Championship 2024-25",
       "match_id": 109904,
@@ -39,6 +27,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PLYM@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/109904_4352_CVC_PLY_fc-web_1734938758807.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/dmQx3rvkQh6l8dCS3brF1w/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "League One 2024-25",
+      "match_id": 110108,
+      "match_name": "Charlton Athletic vs Cambridge United",
+      "team_1": "Charlton Athletic",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CHL@2x.png",
+      "team_2": "Cambridge United",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CAMB@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/League-One-2024-25-old-2-match-card.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/PLBL2BIVS5uXjjg3-cA0rw/master.m3u8"
     }
   ]
 }
