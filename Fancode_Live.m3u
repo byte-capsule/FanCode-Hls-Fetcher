@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Going Global vs Strikers Afghan" tvg-logo="https://www.fancode.com/aig/match/v1/112452_CASACARDS_APP.png" tvg-id="112452" group-title="KCC T20 Challengers A League, 2024-25",Going Global vs Strikers Afghan
+https://dai.google.com/linear/hls/event/99SgUm9ISlaM52d60g8vUw/master.m3u8
 #EXTINF:-1 tvg-name="Emirates Red vs Ajman" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115478_4713_AJM_EMR_fc-web.jpg" tvg-id="115478" group-title="Emirates D10 2024",Emirates Red vs Ajman
 https://dai.google.com/linear/hls/event/KSwfhOXLSJyI-xydxnx6uA/master.m3u8
 #EXTINF:-1 tvg-name="Coventry City vs Plymouth Argyle" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109904_4352_CVC_PLY_fc-web_1734938758807.jpg" tvg-id="109904" group-title="EFL Championship 2024-25",Coventry City vs Plymouth Argyle
