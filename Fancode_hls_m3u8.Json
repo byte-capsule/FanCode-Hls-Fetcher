@@ -1,44 +1,7 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "28-12-2024 on 00:29:19 AM \ud83c\udf19",
-  "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Emirates D10 2024",
-      "match_id": 115483,
-      "match_name": "Fujairah vs Emirates Red",
-      "team_1": "Fujairah",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FUJA@2x.png",
-      "team_2": "Emirates Red",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EMRD@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115483_4713_FUJ_EMR_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/QHGmbthSSNCnn9Hhtkmq1A/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Afghanistan tour of Zimbabwe, 2024-25",
-      "match_id": 113545,
-      "match_name": "Zimbabwe vs Afghanistan",
-      "team_1": "Zimbabwe",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
-      "team_2": "Afghanistan",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFG@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/ywWXxndBSCqCYCrMhhAc5g/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Barbados T10, 2024-25",
-      "match_id": 115727,
-      "match_name": "Settlers vs Voyagers",
-      "team_1": "Settlers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-STTL@2x.png",
-      "team_2": "Voyagers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VOYA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115727_4722_SET_VOY_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/vWUzZ8pHSFeVOtoo0xa-hw/master.m3u8"
-    }
-  ]
+  "total_mathes": 0,
+  "last_upaded": "28-12-2024 on 00:45:12 AM \ud83c\udf19",
+  "matches": []
 }
