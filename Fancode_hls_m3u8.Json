@@ -1,20 +1,20 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "27-12-2024 on 6:41:42 PM \ud83c\udf19",
+  "total_mathes": 4,
+  "last_upaded": "27-12-2024 on 7:10:10 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
       "event_name": "Emirates D10 2024",
-      "match_id": 115480,
-      "match_name": "Sharjah vs Dubai",
-      "team_1": "Sharjah",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHRJ@2x.png",
-      "team_2": "Dubai",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EMDB@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115480_4713_SHA_DUB_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/DIHy4pT2SnaBB303JeEOXw/master.m3u8"
+      "match_id": 115481,
+      "match_name": "Emirates Red vs Emirates Blues",
+      "team_1": "Emirates Red",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EMRD@2x.png",
+      "team_2": "Emirates Blues",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLUE@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115481_4713_EMB_EMR_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/avXfDFrFSJyV6x8A3Vs4mg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -27,18 +27,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFG@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/ywWXxndBSCqCYCrMhhAc5g/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "TNCA S S Rajan T20 Trophy 2024-2025",
-      "match_id": 115667,
-      "match_name": "Coimbatore vs Ramanathapuram",
-      "team_1": "Coimbatore",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CB@2x.png",
-      "team_2": "Ramanathapuram",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RAM@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115667_4720_COM_RAM_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/rraOdGlsQQWMs0Zi5i0A2Q/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -63,18 +51,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MACA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110947_4567_PG_MAC_fc-web_1728983127758.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/S7-IYP7XRNG5FZUlIm2i6A/master.m3u8"
-    },
-    {
-      "event_catagory": "kabaddi",
-      "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
-      "match_id": 114788,
-      "match_name": "Sindh Sonics vs Vizag Victors",
-      "team_1": "Sindh Sonics",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-SSO@2x.png",
-      "team_2": "Vizag Victors",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-VVZ@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114788_4687_SS_VVZ_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/Df9542ELTTSSNXjUns1e_Q/master.m3u8"
     }
   ]
 }
