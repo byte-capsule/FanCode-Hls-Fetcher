@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "27-12-2024 on 1:53:09 PM \ud83c\udf1e",
+  "total_mathes": 2,
+  "last_upaded": "27-12-2024 on 2:27:35 PM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "KCC T20 Challengers A League, 2024-25",
-      "match_id": 112454,
-      "match_name": "Al Mulla Exchange vs Phoenix Riders",
-      "team_1": "Al Mulla Exchange",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AECX@2x.png",
-      "team_2": "Phoenix Riders",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PHR@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/112454_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/UbYZ9PhrQQOPyqKYYk1eNA/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "MCA Women's T20 Inter-State Championship, 2024-25",
