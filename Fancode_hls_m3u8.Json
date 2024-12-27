@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "27-12-2024 on 11:53:34 AM \ud83c\udf1e",
+  "total_mathes": 5,
+  "last_upaded": "27-12-2024 on 0:30:50 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -51,6 +51,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFG@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/ywWXxndBSCqCYCrMhhAc5g/master.m3u8"
+    },
+    {
+      "event_catagory": "kabaddi",
+      "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
+      "match_id": 114786,
+      "match_name": "Hampi Heroes vs UP Falcons",
+      "team_1": "Hampi Heroes",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-HER@2x.png",
+      "team_2": "UP Falcons",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-UPF@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114786_4687_HMH_UPF_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/jLGAqj9BSLmGjGpCgkEK2g/master.m3u8"
     }
   ]
 }
