@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 2,
-  "last_upaded": "27-12-2024 on 2:57:33 PM \ud83c\udf1e",
+  "total_mathes": 3,
+  "last_upaded": "27-12-2024 on 3:23:59 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,6 +15,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFG@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/ywWXxndBSCqCYCrMhhAc5g/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "S.S.Rajan T20 Trophy, 2024-25",
+      "match_id": 115667,
+      "match_name": "Coimbatore vs Ramanathapuram",
+      "team_1": "Coimbatore",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CB@2x.png",
+      "team_2": "Ramanathapuram",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RAM@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/rraOdGlsQQWMs0Zi5i0A2Q/master.m3u8"
     },
     {
       "event_catagory": "football",

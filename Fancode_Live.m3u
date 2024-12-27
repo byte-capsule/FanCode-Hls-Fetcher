@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Zimbabwe vs Afghanistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg" tvg-id="113545" group-title="Afghanistan tour of Zimbabwe, 2024-25",Zimbabwe vs Afghanistan
 https://dai.google.com/linear/hls/event/ywWXxndBSCqCYCrMhhAc5g/master.m3u8
+#EXTINF:-1 tvg-name="Coimbatore vs Ramanathapuram" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115667" group-title="S.S.Rajan T20 Trophy, 2024-25",Coimbatore vs Ramanathapuram
+https://dai.google.com/linear/hls/event/rraOdGlsQQWMs0Zi5i0A2Q/master.m3u8
 #EXTINF:-1 tvg-name="Adelaide United vs Western Sydney Wanderers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110946_4567_ADL_SYW_fc-web_1728983127040.jpg" tvg-id="110946" group-title="A League 2024-25",Adelaide United vs Western Sydney Wanderers
 https://dai.google.com/linear/hls/event/SaVoPN6fRliRHBODEks12A/master.m3u8
