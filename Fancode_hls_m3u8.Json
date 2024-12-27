@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "27-12-2024 on 0:53:11 PM \ud83c\udf1e",
+  "total_mathes": 3,
+  "last_upaded": "27-12-2024 on 1:22:31 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -30,18 +30,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Dream11 Super Smash, 2024-25",
-      "match_id": 114472,
-      "match_name": "Otago Volts vs Canterbury",
-      "team_1": "Otago Volts",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VOLT@2x.png",
-      "team_2": "Canterbury",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KING@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114472_4676_OV_CTB_fc-Web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/lHOkA_NJRx6v5jzqkKfjYA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "Afghanistan tour of Zimbabwe, 2024-25",
       "match_id": 113545,
       "match_name": "Zimbabwe vs Afghanistan",
@@ -51,18 +39,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFG@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/ywWXxndBSCqCYCrMhhAc5g/master.m3u8"
-    },
-    {
-      "event_catagory": "kabaddi",
-      "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
-      "match_id": 114786,
-      "match_name": "Hampi Heroes vs UP Falcons",
-      "team_1": "Hampi Heroes",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-HER@2x.png",
-      "team_2": "UP Falcons",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-UPF@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114786_4687_HMH_UPF_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/jLGAqj9BSLmGjGpCgkEK2g/master.m3u8"
     }
   ]
 }
