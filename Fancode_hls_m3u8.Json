@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "27-12-2024 on 10:56:06 PM \ud83c\udf19",
+  "total_mathes": 4,
+  "last_upaded": "27-12-2024 on 11:19:13 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -13,20 +13,8 @@
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EMDB@2x.png",
       "team_2": "Ajman",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AJMN@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115482_4713_AJM_DUB_fc-web.jpg",
+      "banner": false,
       "stream_link": "https://dai.google.com/linear/hls/event/-IzsZ3xyTB-FajOVPzm-Tg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "TNCA S S Rajan T20 Trophy 2024-2025",
-      "match_id": 115668,
-      "match_name": "Thiruvallur vs Karur",
-      "team_1": "Thiruvallur",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THR@2x.png",
-      "team_2": "Karur",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KU@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115668_4720_THR_KAR_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/8JDARi9TTV6deZjx3W1x1w/master.m3u8"
     },
     {
       "event_catagory": "cricket",
