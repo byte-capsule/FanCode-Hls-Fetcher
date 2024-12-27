@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Emirates Red vs Emirates Blues" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115481_4713_EMB_EMR_fc-web.jpg" tvg-id="115481" group-title="Emirates D10 2024",Emirates Red vs Emirates Blues
-https://dai.google.com/linear/hls/event/avXfDFrFSJyV6x8A3Vs4mg/master.m3u8
+#EXTINF:-1 tvg-name="Dubai vs Ajman" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115482_4713_AJM_DUB_fc-web.jpg" tvg-id="115482" group-title="Emirates D10 2024",Dubai vs Ajman
+https://dai.google.com/linear/hls/event/-IzsZ3xyTB-FajOVPzm-Tg/master.m3u8
 #EXTINF:-1 tvg-name="Thiruvallur vs Karur" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115668_4720_THR_KAR_fc-web.jpg" tvg-id="115668" group-title="TNCA S S Rajan T20 Trophy 2024-2025",Thiruvallur vs Karur
 https://dai.google.com/linear/hls/event/8JDARi9TTV6deZjx3W1x1w/master.m3u8
-#EXTINF:-1 tvg-name="Zimbabwe vs Afghanistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg" tvg-id="113545" group-title="Afghanistan tour of Zimbabwe, 2024-25",Zimbabwe vs Afghanistan
-https://dai.google.com/linear/hls/event/ywWXxndBSCqCYCrMhhAc5g/master.m3u8
 #EXTINF:-1 tvg-name="Chennai Kings CA vs MEC Study Group" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115690_4721_CHK_MEC_fc-web.jpg" tvg-id="115690" group-title="KCC T20 Challengers B League, 2024-25",Chennai Kings CA vs MEC Study Group
 https://dai.google.com/linear/hls/event/zGIdfh_VTCesAqZAoxWivQ/master.m3u8
+#EXTINF:-1 tvg-name="Zimbabwe vs Afghanistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg" tvg-id="113545" group-title="Afghanistan tour of Zimbabwe, 2024-25",Zimbabwe vs Afghanistan
+https://dai.google.com/linear/hls/event/ywWXxndBSCqCYCrMhhAc5g/master.m3u8
