@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "27-12-2024 on 3:52:55 PM \ud83c\udf1e",
+  "total_mathes": 5,
+  "last_upaded": "27-12-2024 on 4:22:30 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -29,6 +29,18 @@
       "stream_link": "https://dai.google.com/linear/hls/event/rraOdGlsQQWMs0Zi5i0A2Q/master.m3u8"
     },
     {
+      "event_catagory": "cricket",
+      "event_name": "KCC T20 Challengers B League, 2024-25",
+      "match_id": 115689,
+      "match_name": "Al-Rashed International Shipping Co vs Gulf Cable",
+      "team_1": "Al-Rashed International Shipping Co",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ARI@2x.png",
+      "team_2": "Gulf Cable",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR1@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115689_4721_ARI_GUC_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/E_j8O524TgC__nUCQ6FD6w/master.m3u8"
+    },
+    {
       "event_catagory": "football",
       "event_name": "A League 2024-25",
       "match_id": 110946,
@@ -39,6 +51,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYWA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110946_4567_ADL_SYW_fc-web_1728983127040.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/SaVoPN6fRliRHBODEks12A/master.m3u8"
+    },
+    {
+      "event_catagory": "kabaddi",
+      "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
+      "match_id": 114787,
+      "match_name": "Chola Veerans vs Delhi Dhurandhars",
+      "team_1": "Chola Veerans",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-COVR@2x.png",
+      "team_2": "Delhi Dhurandhars",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-DDD@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114787_4687_COV_DDD_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/m-7ZfwZRTX-XW3ktR3pfew/master.m3u8"
     }
   ]
 }
