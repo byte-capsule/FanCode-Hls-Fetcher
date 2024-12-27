@@ -1,7 +1,56 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 0,
-  "last_upaded": "27-12-2024 on 05:53:00 AM \ud83c\udf1e",
-  "matches": []
+  "total_mathes": 4,
+  "last_upaded": "27-12-2024 on 07:45:17 AM \ud83c\udf1e",
+  "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "Dream11 Women's Super Smash, 2024-25",
+      "match_id": 114504,
+      "match_name": "Canterbury Magicians vs Otago Sparks",
+      "team_1": "Canterbury Magicians",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAGW@2x.png",
+      "team_2": "Otago Sparks",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OSW@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/jj-qfqQ5QeaasExm3n2nZA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Afghanistan tour of Zimbabwe, 2024-25",
+      "match_id": 113545,
+      "match_name": "Zimbabwe vs Afghanistan",
+      "team_1": "Zimbabwe",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
+      "team_2": "Afghanistan",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFG@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/ywWXxndBSCqCYCrMhhAc5g/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "MCA Women's T20 Inter-State Championship, 2024-25",
+      "match_id": 115893,
+      "match_name": "Negeri Sembilan Women vs Selangor Women",
+      "team_1": "Negeri Sembilan Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEGS@2x.png",
+      "team_2": "Selangor Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SELR@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/dtvUzLM-QheZo0rC6ll6ew/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "MCA Women's T20 Inter-State Championship, 2024-25",
+      "match_id": 115892,
+      "match_name": "Johor Women vs Pahang Women",
+      "team_1": "Johor Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JOW@2x.png",
+      "team_2": "Pahang Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAHN@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/PCu5hPzNQ5a5COmYeGrBzA/master.m3u8"
+    }
+  ]
 }
