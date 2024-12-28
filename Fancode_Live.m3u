@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Warriors vs Guardians" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115729_4722_WAR_GUA_fc-web.jpg" tvg-id="115729" group-title="Barbados T10, 2024-25",Warriors vs Guardians
 https://dai.google.com/linear/hls/event/S1UNX-AZS6SjegQqiWEImQ/master.m3u8
+#EXTINF:-1 tvg-name="Titans vs Settlers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115730_4722_TIT_SET_fc-web.jpg" tvg-id="115730" group-title="Barbados T10, 2024-25",Titans vs Settlers
+https://dai.google.com/linear/hls/event/WxWHj-jgSEeV8dnOPJTaXQ/master.m3u8
 #EXTINF:-1 tvg-name="Sharjah vs Fujairah" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115485_4713_FUJ_SHA_fc-web.jpg" tvg-id="115485" group-title="Emirates D10 2024",Sharjah vs Fujairah
 https://dai.google.com/linear/hls/event/PaVvRKGqSOqhajsb2hdzTg/master.m3u8
 #EXTINF:-1 tvg-name="Kallakurichi vs Virudhunagar" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115670_4720_VIR_KAL_fc-web.jpg" tvg-id="115670" group-title="TNCA S S Rajan T20 Trophy 2024-2025",Kallakurichi vs Virudhunagar
