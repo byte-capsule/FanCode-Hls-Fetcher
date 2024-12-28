@@ -1,3 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Warriors vs Guardians" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115729_4722_WAR_GUA_fc-web.jpg" tvg-id="115729" group-title="Barbados T10, 2024-25",Warriors vs Guardians
+https://dai.google.com/linear/hls/event/S1UNX-AZS6SjegQqiWEImQ/master.m3u8
+#EXTINF:-1 tvg-name="Dubai vs Abu Dhabi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115484_4713_ABD_DUB_fc-web.jpg" tvg-id="115484" group-title="Emirates D10 2024",Dubai vs Abu Dhabi
+https://dai.google.com/linear/hls/event/CxmFEYrLQWy7ZRJQjPJ-7g/master.m3u8
+#EXTINF:-1 tvg-name="Kallakurichi vs Virudhunagar" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115670_4720_VIR_KAL_fc-web.jpg" tvg-id="115670" group-title="TNCA S S Rajan T20 Trophy 2024-2025",Kallakurichi vs Virudhunagar
+https://dai.google.com/linear/hls/event/mw9XytxTSBaFlEHThKmJhQ/master.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe vs Afghanistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg" tvg-id="113545" group-title="Afghanistan tour of Zimbabwe, 2024-25",Zimbabwe vs Afghanistan
 https://dai.google.com/linear/hls/event/ywWXxndBSCqCYCrMhhAc5g/master.m3u8
