@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Zimbabwe vs Afghanistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg" tvg-id="113545" group-title="Afghanistan tour of Zimbabwe, 2024-25",Zimbabwe vs Afghanistan
 https://dai.google.com/linear/hls/event/ywWXxndBSCqCYCrMhhAc5g/master.m3u8
+#EXTINF:-1 tvg-name="Wellington Phoenix vs Newcastle Jets" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110948_4567_WEL_NJ_fc-web_1728983127884.jpg" tvg-id="110948" group-title="A League 2024-25",Wellington Phoenix vs Newcastle Jets
+https://dai.google.com/linear/hls/event/cKG9SGpuSquIqw3X4U8jgw/master.m3u8
