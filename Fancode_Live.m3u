@@ -1,1 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Auckland Hearts vs Otago Sparks" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="114506" group-title="Dream11 Women's Super Smash, 2024-25",Auckland Hearts vs Otago Sparks
+https://dai.google.com/linear/hls/event/R7blKcDSQICP5Fzcu2n1bQ/master.m3u8
+#EXTINF:-1 tvg-name="Zimbabwe vs Afghanistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg" tvg-id="113545" group-title="Afghanistan tour of Zimbabwe, 2024-25",Zimbabwe vs Afghanistan
+https://dai.google.com/linear/hls/event/ywWXxndBSCqCYCrMhhAc5g/master.m3u8
+#EXTINF:-1 tvg-name="Sabah Women vs Negeri Sembilan Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115899" group-title="MCA Women's T20 Inter-State Championship, 2024-25",Sabah Women vs Negeri Sembilan Women
+https://dai.google.com/linear/hls/event/ZIw7hwesRRGqU48-q6jN-w/master.m3u8
+#EXTINF:-1 tvg-name="Kuala Lumpur Women vs Johor Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115898" group-title="MCA Women's T20 Inter-State Championship, 2024-25",Kuala Lumpur Women vs Johor Women
+https://dai.google.com/linear/hls/event/BCQ3DF4LSWySbSWsxthd4g/master.m3u8
