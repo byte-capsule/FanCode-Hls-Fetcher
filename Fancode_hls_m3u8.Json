@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "29-12-2024 on 6:39:33 PM \ud83c\udf19",
+  "total_mathes": 2,
+  "last_upaded": "29-12-2024 on 7:02:10 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,18 +27,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WESTB@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/109907_4352_SHF_WBA_fc-web_1734938759260.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/8DijK_B6R3mg9QTjq3i_ZA/master.m3u8"
-    },
-    {
-      "event_catagory": "kabaddi",
-      "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
-      "match_id": 114796,
-      "match_name": "Hyderabad Hurricanes vs UP Falcons",
-      "team_1": "Hyderabad Hurricanes",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-HR@2x.png",
-      "team_2": "UP Falcons",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-UPF@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114796_4687_HH_UPF_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/naqgwu35RoqYOaagA1cElA/master.m3u8"
     }
   ]
 }
