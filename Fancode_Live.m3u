@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Zimbabwe vs Afghanistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg" tvg-id="113545" group-title="Afghanistan tour of Zimbabwe, 2024-25",Zimbabwe vs Afghanistan
 https://dai.google.com/linear/hls/event/ywWXxndBSCqCYCrMhhAc5g/master.m3u8
+#EXTINF:-1 tvg-name="Karur vs Coimbatore" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115671_4720_COM_KAR_fc-web.jpg" tvg-id="115671" group-title="TNCA S S Rajan T20 Trophy 2024-2025",Karur vs Coimbatore
+https://dai.google.com/linear/hls/event/PN6UxtWUQ7-MyoLixvxw-w/master.m3u8
