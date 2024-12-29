@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "29-12-2024 on 8:53:07 PM \ud83c\udf19",
+  "total_mathes": 5,
+  "last_upaded": "29-12-2024 on 9:20:16 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,6 +15,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FUJA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/115487_4713_FUJ_EMB_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/uQzRWxGTSg6Ms2qK0PXhpQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Emirates D10 2024",
+      "match_id": 115488,
+      "match_name": "Ajman vs Sharjah",
+      "team_1": "Ajman",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AJMN@2x.png",
+      "team_2": "Sharjah",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHRJ@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115488_4713_AJM_SHA_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/hCQDbzjQQEGYKQj0Uulobw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -39,6 +51,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFG@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/ywWXxndBSCqCYCrMhhAc5g/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "EFL Championship 2024-25",
+      "match_id": 109908,
+      "match_name": "Stoke City vs Sunderland",
+      "team_1": "Stoke City",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-STOKC@2x.png",
+      "team_2": "Sunderland",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SUNDL@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/109908_4352_STK_SUN_fc-web_1734938760136.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/_nn7u6zkQQuAdKEqdITaMA/master.m3u8"
     }
   ]
 }

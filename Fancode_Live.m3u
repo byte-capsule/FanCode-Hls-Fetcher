@@ -1,7 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Emirates Blues vs Fujairah" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115487_4713_FUJ_EMB_fc-web.jpg" tvg-id="115487" group-title="Emirates D10 2024",Emirates Blues vs Fujairah
 https://dai.google.com/linear/hls/event/uQzRWxGTSg6Ms2qK0PXhpQ/master.m3u8
+#EXTINF:-1 tvg-name="Ajman vs Sharjah" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115488_4713_AJM_SHA_fc-web.jpg" tvg-id="115488" group-title="Emirates D10 2024",Ajman vs Sharjah
+https://dai.google.com/linear/hls/event/hCQDbzjQQEGYKQj0Uulobw/master.m3u8
 #EXTINF:-1 tvg-name="Ramanathapuram vs Salem" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115672_4720_RAM_SAE_fc-web.jpg" tvg-id="115672" group-title="TNCA S S Rajan T20 Trophy 2024-2025",Ramanathapuram vs Salem
 https://dai.google.com/linear/hls/event/L4pgfQhoTqqDt4KJEFi0ZQ/master.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe vs Afghanistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg" tvg-id="113545" group-title="Afghanistan tour of Zimbabwe, 2024-25",Zimbabwe vs Afghanistan
 https://dai.google.com/linear/hls/event/ywWXxndBSCqCYCrMhhAc5g/master.m3u8
+#EXTINF:-1 tvg-name="Stoke City vs Sunderland" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109908_4352_STK_SUN_fc-web_1734938760136.jpg" tvg-id="109908" group-title="EFL Championship 2024-25",Stoke City vs Sunderland
+https://dai.google.com/linear/hls/event/_nn7u6zkQQuAdKEqdITaMA/master.m3u8
