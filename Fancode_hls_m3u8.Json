@@ -1,68 +1,7 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "29-12-2024 on 11:53:09 PM \ud83c\udf19",
-  "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Emirates D10 2024",
-      "match_id": 115489,
-      "match_name": "Dubai vs Emirates Blues",
-      "team_1": "Dubai",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EMDB@2x.png",
-      "team_2": "Emirates Blues",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLUE@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115489_4713_EMB_DUB_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/7_ekhUHmSvKC8OjrqM7oJQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Barbados T10, 2024-25",
-      "match_id": 115732,
-      "match_name": "Warriors vs Pelicans",
-      "team_1": "Warriors",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WARRO@2x.png",
-      "team_2": "Pelicans",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PELC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115732_4722_WAR_PEL_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/_cy7SN1RTqSs-bOmzehT8g/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Afghanistan tour of Zimbabwe, 2024-25",
-      "match_id": 113545,
-      "match_name": "Zimbabwe vs Afghanistan",
-      "team_1": "Zimbabwe",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
-      "team_2": "Afghanistan",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFG@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/ywWXxndBSCqCYCrMhhAc5g/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "KCC T20 Challengers A League, 2024-25",
-      "match_id": 112455,
-      "match_name": "Kuwait Mavericks vs Cochin Hurricanes",
-      "team_1": "Kuwait Mavericks",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/KUM-CR1@2x.png",
-      "team_2": "Cochin Hurricanes",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-COR@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/112455_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/eCQMyQGhT8OIPnw8nXCNNw/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "EFL Championship 2024-25",
-      "match_id": 109905,
-      "match_name": "Derby County vs Leeds United",
-      "team_1": "Derby County",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-DERBC@2x.png",
-      "team_2": "Leeds United",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LEEDU@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/109905_4352_DER_LU_fc-web_1734938759105.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/BJtawxw-QOGTk_5YRKWeew/master.m3u8"
-    }
-  ]
+  "total_mathes": 0,
+  "last_upaded": "30-12-2024 on 00:42:58 AM \ud83c\udf19",
+  "matches": []
 }
