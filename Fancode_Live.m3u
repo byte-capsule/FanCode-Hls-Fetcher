@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Ajman vs Sharjah" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115488_4713_AJM_SHA_fc-web.jpg" tvg-id="115488" group-title="Emirates D10 2024",Ajman vs Sharjah
 https://dai.google.com/linear/hls/event/hCQDbzjQQEGYKQj0Uulobw/master.m3u8
+#EXTINF:-1 tvg-name="Dubai vs Emirates Blues" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115489_4713_EMB_DUB_fc-web.jpg" tvg-id="115489" group-title="Emirates D10 2024",Dubai vs Emirates Blues
+https://dai.google.com/linear/hls/event/7_ekhUHmSvKC8OjrqM7oJQ/master.m3u8
 #EXTINF:-1 tvg-name="Warriors vs Pelicans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115732_4722_WAR_PEL_fc-web.jpg" tvg-id="115732" group-title="Barbados T10, 2024-25",Warriors vs Pelicans
 https://dai.google.com/linear/hls/event/_cy7SN1RTqSs-bOmzehT8g/master.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe vs Afghanistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg" tvg-id="113545" group-title="Afghanistan tour of Zimbabwe, 2024-25",Zimbabwe vs Afghanistan
