@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Sharjah vs Emirates Blues" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115448_4713_EMB_SHA_fc-web.jpg" tvg-id="115490" group-title="Emirates D10 2024",Sharjah vs Emirates Blues
+https://dai.google.com/linear/hls/event/U-ie8ApeQ3OgFD401R2Imw/master.m3u8
 #EXTINF:-1 tvg-name="Nagapattinam vs Kallakurichi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115673_4720_NGM_KAL_fc-web.jpg" tvg-id="115673" group-title="TNCA S S Rajan T20 Trophy 2024-2025",Nagapattinam vs Kallakurichi
 https://dai.google.com/linear/hls/event/mBvoVhckSL6pHZcmmiWfog/master.m3u8
 #EXTINF:-1 tvg-name="Durbar Rajshahi vs Fortune Barishal" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113348_4644_FBA_DBR_fc-web.jpg" tvg-id="113348" group-title="Bangladesh Premier League, 2024-25",Durbar Rajshahi vs Fortune Barishal
