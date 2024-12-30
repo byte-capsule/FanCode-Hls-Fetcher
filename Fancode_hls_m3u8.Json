@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "30-12-2024 on 5:17:42 PM \ud83c\udf1e",
+  "total_mathes": 3,
+  "last_upaded": "30-12-2024 on 5:38:44 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,18 +27,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KK@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/115673_4720_NGM_KAL_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/mBvoVhckSL6pHZcmmiWfog/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Bangladesh Premier League, 2024-25",
-      "match_id": 113348,
-      "match_name": "Durbar Rajshahi vs Fortune Barishal",
-      "team_1": "Durbar Rajshahi",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RAR-CR1@2x.png",
-      "team_2": "Fortune Barishal",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FBAA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113348_4644_FBA_DBR_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/VleJc1hdQqqFJszXs8FHbg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
