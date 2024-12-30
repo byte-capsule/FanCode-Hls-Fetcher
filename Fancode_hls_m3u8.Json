@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "30-12-2024 on 6:43:12 PM \ud83c\udf19",
+  "total_mathes": 4,
+  "last_upaded": "30-12-2024 on 7:11:17 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -18,6 +18,18 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "Emirates D10 2024",
+      "match_id": 115491,
+      "match_name": "Fujairah vs Abu Dhabi",
+      "team_1": "Fujairah",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FUJA@2x.png",
+      "team_2": "Abu Dhabi",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ABUD@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115457_4713_FUJ_ABD_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/LOq7pcXpSiCeN0o9L1FBkw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "Bangladesh Premier League, 2024-25",
       "match_id": 113349,
       "match_name": "Rangpur Riders vs Dhaka Capitals",
@@ -30,18 +42,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "TNCA S S Rajan T20 Trophy 2024-2025",
-      "match_id": 115673,
-      "match_name": "Nagapattinam vs Kallakurichi",
-      "team_1": "Nagapattinam",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR6@2x.png",
-      "team_2": "Kallakurichi",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KK@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115673_4720_NGM_KAL_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/mBvoVhckSL6pHZcmmiWfog/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "Afghanistan tour of Zimbabwe, 2024-25",
       "match_id": 113545,
       "match_name": "Zimbabwe vs Afghanistan",
@@ -51,18 +51,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFG@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/ywWXxndBSCqCYCrMhhAc5g/master.m3u8"
-    },
-    {
-      "event_catagory": "kabaddi",
-      "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
-      "match_id": 114800,
-      "match_name": "Chandigarh Chargers vs Vizag Victors",
-      "team_1": "Chandigarh Chargers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-CSC@2x.png",
-      "team_2": "Vizag Victors",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-VVZ@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114800_4687_CSC_VVZ_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/b13VqolMRfifZZGzoUc8CA/master.m3u8"
     }
   ]
 }

@@ -1,11 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Sharjah vs Emirates Blues" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115448_4713_EMB_SHA_fc-web.jpg" tvg-id="115490" group-title="Emirates D10 2024",Sharjah vs Emirates Blues
 https://dai.google.com/linear/hls/event/U-ie8ApeQ3OgFD401R2Imw/master.m3u8
+#EXTINF:-1 tvg-name="Fujairah vs Abu Dhabi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115457_4713_FUJ_ABD_fc-web.jpg" tvg-id="115491" group-title="Emirates D10 2024",Fujairah vs Abu Dhabi
+https://dai.google.com/linear/hls/event/LOq7pcXpSiCeN0o9L1FBkw/master.m3u8
 #EXTINF:-1 tvg-name="Rangpur Riders vs Dhaka Capitals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113349_4644_RAN_DC_fc-web.jpg" tvg-id="113349" group-title="Bangladesh Premier League, 2024-25",Rangpur Riders vs Dhaka Capitals
 https://dai.google.com/linear/hls/event/7iVOc3ICTnulyE4PeQLpjw/master.m3u8
-#EXTINF:-1 tvg-name="Nagapattinam vs Kallakurichi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115673_4720_NGM_KAL_fc-web.jpg" tvg-id="115673" group-title="TNCA S S Rajan T20 Trophy 2024-2025",Nagapattinam vs Kallakurichi
-https://dai.google.com/linear/hls/event/mBvoVhckSL6pHZcmmiWfog/master.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe vs Afghanistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg" tvg-id="113545" group-title="Afghanistan tour of Zimbabwe, 2024-25",Zimbabwe vs Afghanistan
 https://dai.google.com/linear/hls/event/ywWXxndBSCqCYCrMhhAc5g/master.m3u8
-#EXTINF:-1 tvg-name="Chandigarh Chargers vs Vizag Victors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114800_4687_CSC_VVZ_fc-web.jpg" tvg-id="114800" group-title="Yuva Kabaddi Series Edition 11 - Division Rounds",Chandigarh Chargers vs Vizag Victors
-https://dai.google.com/linear/hls/event/b13VqolMRfifZZGzoUc8CA/master.m3u8
