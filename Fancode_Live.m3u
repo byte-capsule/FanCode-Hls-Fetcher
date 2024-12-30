@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Warriors vs Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115734_4722_TIT_WAR_fc-web.jpg" tvg-id="115734" group-title="Barbados T10, 2024-25",Warriors vs Titans
+https://dai.google.com/linear/hls/event/frgqU9xGSZyb_KEs_H8rlg/master.m3u8
 #EXTINF:-1 tvg-name="Rangpur Riders vs Dhaka Capitals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113349_4644_RAN_DC_fc-web.jpg" tvg-id="113349" group-title="Bangladesh Premier League, 2024-25",Rangpur Riders vs Dhaka Capitals
 https://dai.google.com/linear/hls/event/7iVOc3ICTnulyE4PeQLpjw/master.m3u8
 #EXTINF:-1 tvg-name="Nilgiris vs Virudhunagar" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115674_4720_NIL_VIR_fc-web.jpg" tvg-id="115674" group-title="TNCA S S Rajan T20 Trophy 2024-2025",Nilgiris vs Virudhunagar
