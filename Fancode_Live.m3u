@@ -1,5 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Sharjah vs Fujairah" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115485_4713_FUJ_SHA_fc-web.jpg" tvg-id="115492" group-title="Emirates D10 2024",Sharjah vs Fujairah
+https://dai.google.com/linear/hls/event/VGn-t6mqTJitEXhgIidnuQ/master.m3u8
+#EXTINF:-1 tvg-name="Strikers Afghan vs Al Mulla Exchange" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112426_4616_AEC_STX_fc-web_1731569490199.jpg" tvg-id="112456" group-title="KCC T20 Challengers A League, 2024-25",Strikers Afghan vs Al Mulla Exchange
+https://dai.google.com/linear/hls/event/_dvzfrO2Ttu86iKnm8MW2g/master.m3u8
 #EXTINF:-1 tvg-name="Warriors vs Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115734_4722_TIT_WAR_fc-web.jpg" tvg-id="115734" group-title="Barbados T10, 2024-25",Warriors vs Titans
 https://dai.google.com/linear/hls/event/frgqU9xGSZyb_KEs_H8rlg/master.m3u8
-#EXTINF:-1 tvg-name="Nilgiris vs Virudhunagar" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115674_4720_NIL_VIR_fc-web.jpg" tvg-id="115674" group-title="TNCA S S Rajan T20 Trophy 2024-2025",Nilgiris vs Virudhunagar
-https://dai.google.com/linear/hls/event/zO7D85BIS2CzxGmQf0k6Ew/master.m3u8
