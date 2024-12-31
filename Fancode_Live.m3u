@@ -1,3 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Settlers vs Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115736_4722_WAR_SET_fc-web.jpg" tvg-id="115736" group-title="Barbados T10, 2024-25",Settlers vs Warriors
+https://dai.google.com/linear/hls/event/JsBFD6E6SLyRAjRDlgwK6A/master.m3u8
 #EXTINF:-1 tvg-name="Salem vs Karur" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115676_4720_KAR_SAE_fc-web.jpg" tvg-id="115676" group-title="TNCA S S Rajan T20 Trophy 2024-2025",Salem vs Karur
 https://dai.google.com/linear/hls/event/RNkNe84eRSa3PaRQRMGzVQ/master.m3u8
