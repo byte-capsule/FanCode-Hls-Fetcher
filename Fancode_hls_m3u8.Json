@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 2,
-  "last_upaded": "31-12-2024 on 11:53:14 AM \ud83c\udf1e",
+  "total_mathes": 3,
+  "last_upaded": "31-12-2024 on 0:30:38 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,6 +27,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CTK@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/113350_4644_KHT_CHK_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/Bz5i0DRQRF6FI86Kq9aK3g/master.m3u8"
+    },
+    {
+      "event_catagory": "kabaddi",
+      "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
+      "match_id": 114802,
+      "match_name": "Hampi Heroes vs Panchala Pride",
+      "team_1": "Hampi Heroes",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-HER@2x.png",
+      "team_2": "Panchala Pride",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-PAP@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114802_4687_HMH_PPE_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/zPGIZkuPToKu_lpwPFxKMA/master.m3u8"
     }
   ]
 }
