@@ -1,1 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Wellington Blaze vs Northern Brave Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="114507" group-title="Dream11 Women's Super Smash, 2024-25",Wellington Blaze vs Northern Brave Women
+https://dai.google.com/linear/hls/event/n9NJiRRiSA-xhpLbbCgqww/master.m3u8
+#EXTINF:-1 tvg-name="Kuala Lumpur Women vs Sabah Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115905" group-title="MCA Women's T20 Inter-State Championship, 2024-25",Kuala Lumpur Women vs Sabah Women
+https://dai.google.com/linear/hls/event/48AvXfDDQvKeg4htE2Y5oA/master.m3u8
+#EXTINF:-1 tvg-name="Johor Women vs Negeri Sembilan Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115904" group-title="MCA Women's T20 Inter-State Championship, 2024-25",Johor Women vs Negeri Sembilan Women
+https://dai.google.com/linear/hls/event/OBXrbuqmScCSU-cxGJJ5kA/master.m3u8
