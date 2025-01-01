@@ -1,32 +1,7 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 2,
-  "last_upaded": "02-01-2025 on 00:58:00 AM \ud83c\udf19",
-  "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "KCC T20 Challengers B League, 2024-25",
-      "match_id": 115694,
-      "match_name": "MEC Study Group vs Mangaf Warriors",
-      "team_1": "MEC Study Group",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MSTG@2x.png",
-      "team_2": "Mangaf Warriors",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAW@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115694_4721_MAW_MEC_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/GX45Gi-ITRyctEKeRA0sGQ/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "EFL Championship 2024-25",
-      "match_id": 109909,
-      "match_name": "Hull City vs Middlesbrough",
-      "team_1": "Hull City",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-HLC@2x.png",
-      "team_2": "Middlesbrough",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MIDDB@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/109909_4352_HUL_MIDD_fc-web_1734938760038.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/HrmuWPbsSl66MG9jIzuSqA/master.m3u8"
-    }
-  ]
+  "total_mathes": 0,
+  "last_upaded": "02-01-2025 on 01:18:46 AM \ud83c\udf19",
+  "matches": []
 }
