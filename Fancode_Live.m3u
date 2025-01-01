@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Thiruvallur vs Nagapattinam" tvg-logo="https://www.fancode.com/aig/match/v2/115678_CASACARDS_APP.png" tvg-id="115678" group-title="TNCA S S Rajan T20 Trophy 2024-2025",Thiruvallur vs Nagapattinam
 https://dai.google.com/linear/hls/event/I6pt5YSwQJi7erxsToQyfg/master.m3u8
-#EXTINF:-1 tvg-name="Sheffield Wednesday vs Derby County" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109911_4352_SHFF_DER_fc-web_1734938759440.jpg" tvg-id="109911" group-title="EFL Championship 2024-25",Sheffield Wednesday vs Derby County
+#EXTINF:-1 tvg-name="Sheffield Wednesday vs Derby County" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="109911" group-title="EFL Championship 2024-25",Sheffield Wednesday vs Derby County
 https://dai.google.com/linear/hls/event/flU7CABfSVaqgDkUs59jqQ/master.m3u8
+#EXTINF:-1 tvg-name="Swindon Town vs Colchester United" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/08/EFL-league-two-old-matchcard-1.png" tvg-id="110106" group-title="League Two 2024-25",Swindon Town vs Colchester United
+https://dai.google.com/linear/hls/event/4g1km2r5TJWuhxQAxDfGqA/master.m3u8
