@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "01-01-2025 on 11:40:50 AM \ud83c\udf1e",
+  "total_mathes": 3,
+  "last_upaded": "01-01-2025 on 11:53:47 AM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -39,18 +39,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NB-W-CR1@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/114475_4676_ND_WF_fc-Web_1735207965617.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/rd1S4UzhSQWvRJPT0joJVA/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "A League 2024-25",
-      "match_id": 110953,
-      "match_name": "Auckland vs Melbourne Victory",
-      "team_1": "Auckland",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AUCK@2x.png",
-      "team_2": "Melbourne Victory",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLVA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110953_4567_AFC_MLV_fc-web_1728983127347.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/TWQUKQy8R-qkbFeMHZE30Q/master.m3u8"
     }
   ]
 }
