@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Global Champs vs Phoenix Cricketers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115695_4721_GC_PCT_fc-web.jpg" tvg-id="115695" group-title="KCC T20 Challengers B League, 2024-25",Global Champs vs Phoenix Cricketers
-https://dai.google.com/linear/hls/event/bQQhjrOhRROrSLkiwFMfKw/master.m3u8
-#EXTINF:-1 tvg-name="Afghanistan vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg" tvg-id="113546" group-title="Afghanistan tour of Zimbabwe, 2024-25",Afghanistan vs Zimbabwe
-https://dai.google.com/linear/hls/event/EeqomKkkQ4q63UoBuiI0Bg/master.m3u8
+#EXTINF:-1 tvg-name="Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_Sentry_match-card.jpg" tvg-id="116252" group-title="The Sentry",Day 1
+https://dai.google.com/linear/hls/event/6W8iFVPYRgKrjIB5xHxLyw/master.m3u8
 #EXTINF:-1 tvg-name="LDLC ASVEL Villeurbanne vs EA7 EMPORIO ARMANI MILAN" tvg-logo="https://www.fancode.com/aig/match/v1/115592_CASACARDS_APP.png" tvg-id="115592" group-title="EuroLeague 2024-25",LDLC ASVEL Villeurbanne vs EA7 EMPORIO ARMANI MILAN
 https://dai.google.com/linear/hls/event/0_ABujhmQLWbh6D2p6ObUw/master.m3u8

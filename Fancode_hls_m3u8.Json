@@ -1,32 +1,20 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "03-01-2025 on 00:46:27 AM \ud83c\udf19",
+  "total_mathes": 2,
+  "last_upaded": "03-01-2025 on 01:16:34 AM \ud83c\udf19",
   "matches": [
     {
-      "event_catagory": "cricket",
-      "event_name": "KCC T20 Challengers B League, 2024-25",
-      "match_id": 115695,
-      "match_name": "Global Champs vs Phoenix Cricketers",
-      "team_1": "Global Champs",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GCHM@2x.png",
-      "team_2": "Phoenix Cricketers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PHO@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115695_4721_GC_PCT_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/bQQhjrOhRROrSLkiwFMfKw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Afghanistan tour of Zimbabwe, 2024-25",
-      "match_id": 113546,
-      "match_name": "Afghanistan vs Zimbabwe",
-      "team_1": "Afghanistan",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFG@2x.png",
-      "team_2": "Zimbabwe",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/EeqomKkkQ4q63UoBuiI0Bg/master.m3u8"
+      "event_catagory": "golf",
+      "event_name": "The Sentry",
+      "match_id": 116252,
+      "match_name": "Day 1",
+      "team_1": "Day 1",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-TSS@2x.png",
+      "team_2": "Kapalua Plantation Course, Hawaii",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/The_Sentry_match-card.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/6W8iFVPYRgKrjIB5xHxLyw/master.m3u8"
     },
     {
       "event_catagory": "basketball",
