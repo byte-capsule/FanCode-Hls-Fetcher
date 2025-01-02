@@ -1,5 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_Sentry_match-card.jpg" tvg-id="116252" group-title="The Sentry",Day 1
 https://dai.google.com/linear/hls/event/6W8iFVPYRgKrjIB5xHxLyw/master.m3u8
-#EXTINF:-1 tvg-name="LDLC ASVEL Villeurbanne vs EA7 EMPORIO ARMANI MILAN" tvg-logo="https://www.fancode.com/aig/match/v1/115592_CASACARDS_APP.png" tvg-id="115592" group-title="EuroLeague 2024-25",LDLC ASVEL Villeurbanne vs EA7 EMPORIO ARMANI MILAN
-https://dai.google.com/linear/hls/event/0_ABujhmQLWbh6D2p6ObUw/master.m3u8
