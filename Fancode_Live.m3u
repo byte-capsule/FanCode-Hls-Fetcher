@@ -5,3 +5,5 @@ https://dai.google.com/linear/hls/event/b8OCavNmQ3ipoZXRJXc-ag/master.m3u8
 https://dai.google.com/linear/hls/event/gn70W1gZRaSPN9k5Y1EMlQ/master.m3u8
 #EXTINF:-1 tvg-name="Dhaka Capitals vs Durbar Rajshahi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113352_4644_DBR_DC_fc-web.jpg" tvg-id="113352" group-title="Bangladesh Premier League, 2024-25",Dhaka Capitals vs Durbar Rajshahi
 https://dai.google.com/linear/hls/event/HWsLjkitTpKe2t2dq-5y7g/master.m3u8
+#EXTINF:-1 tvg-name="Zimbabwe vs Afghanistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg" tvg-id="113546" group-title="Afghanistan tour of Zimbabwe, 2024-25",Zimbabwe vs Afghanistan
+https://dai.google.com/linear/hls/event/EeqomKkkQ4q63UoBuiI0Bg/master.m3u8
