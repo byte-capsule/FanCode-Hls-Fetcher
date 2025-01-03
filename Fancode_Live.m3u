@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Afghanistan vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg" tvg-id="113546" group-title="Afghanistan tour of Zimbabwe, 2024-25",Afghanistan vs Zimbabwe
-https://dai.google.com/linear/hls/event/EeqomKkkQ4q63UoBuiI0Bg/master.m3u8
 #EXTINF:-1 tvg-name="Chittagong Kings vs Durbar Rajshahi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113354_4644_DBR_CHK_fc-web.jpg" tvg-id="113354" group-title="Bangladesh Premier League, 2024-25",Chittagong Kings vs Durbar Rajshahi
 https://dai.google.com/linear/hls/event/eUJttCPwQEWXTlFXLVMoiA/master.m3u8
+#EXTINF:-1 tvg-name="Afghanistan vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg" tvg-id="113546" group-title="Afghanistan tour of Zimbabwe, 2024-25",Afghanistan vs Zimbabwe
+https://dai.google.com/linear/hls/event/EeqomKkkQ4q63UoBuiI0Bg/master.m3u8
+#EXTINF:-1 tvg-name="Tirupur vs Coimbatore" tvg-logo="https://www.fancode.com/aig/match/v1/115681_CASACARDS_APP.png" tvg-id="115681" group-title="TNCA S S Rajan T20 Trophy 2024-2025",Tirupur vs Coimbatore
+https://dai.google.com/linear/hls/event/IeJNFyvjSguB12ZvkcrCSA/master.m3u8
 #EXTINF:-1 tvg-name="Brisbane Roar vs Central Coast Mariners" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110958_4567_BRB_CCM_fc-web_1728983130689.jpg" tvg-id="110958" group-title="A League 2024-25",Brisbane Roar vs Central Coast Mariners
 https://dai.google.com/linear/hls/event/oCuEfYgqRW6DHr0NXQOdfg/master.m3u8
