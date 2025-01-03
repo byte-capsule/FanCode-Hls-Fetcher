@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 5,
-  "last_upaded": "03-01-2025 on 8:53:49 PM \ud83c\udf19",
+  "last_upaded": "03-01-2025 on 9:22:48 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -42,18 +42,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "BOX Office White Ball T20",
-      "match_id": 116276,
-      "match_name": "Raghubansh vs Seven United",
-      "team_1": "Raghubansh",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RBS@2x.png",
-      "team_2": "Seven United",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SU@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-White-Ball-T20-old-Match-card.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/H9TO6rJ8Tf62DCFkaVCSWg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "Afghanistan tour of Zimbabwe, 2024-25",
       "match_id": 113546,
       "match_name": "Afghanistan vs Zimbabwe",
@@ -63,6 +51,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/EeqomKkkQ4q63UoBuiI0Bg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "BOX Office Hundred Ball",
+      "match_id": 116277,
+      "match_name": "Seven United vs UFC",
+      "team_1": "Seven United",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SU@2x.png",
+      "team_2": "UFC",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UFC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-Hundred-Ball-TV-old-Match-card-.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/nwlGLC19R-CCxNxvPHS5Kw/master.m3u8"
     }
   ]
 }
