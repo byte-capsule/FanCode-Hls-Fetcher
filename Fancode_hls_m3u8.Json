@@ -1,9 +1,21 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "03-01-2025 on 09:56:53 AM \ud83c\udf1e",
+  "total_mathes": 4,
+  "last_upaded": "03-01-2025 on 10:27:32 AM \ud83c\udf1e",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "Dream11 Super Smash, 2024-25",
+      "match_id": 114476,
+      "match_name": "Auckland Aces vs Canterbury",
+      "team_1": "Auckland Aces",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACE@2x.png",
+      "team_2": "Canterbury",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KING@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114476_4676_AA_CTB_fc-Web_1735207964815.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/FESyY5BGQTWynW_hhQfshQ/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "Afghanistan tour of Zimbabwe, 2024-25",
@@ -27,30 +39,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JOW@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
       "stream_link": "https://dai.google.com/linear/hls/event/rSM5MlO2QuKUjRsuA9sMXA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "MCA Women's T20 Inter-State Championship, 2024-25",
-      "match_id": 115912,
-      "match_name": "Perak Women vs Pahang Women",
-      "team_1": "Perak Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PERA@2x.png",
-      "team_2": "Pahang Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAHN@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/DHz5S6JzSyGFEwRGdzSQbw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Dream11 Super Smash, 2024-25",
-      "match_id": 114476,
-      "match_name": "Auckland Aces vs Canterbury",
-      "team_1": "Auckland Aces",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACE@2x.png",
-      "team_2": "Canterbury",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KING@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114476_4676_AA_CTB_fc-Web_1735207964815.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/FESyY5BGQTWynW_hhQfshQ/master.m3u8"
     },
     {
       "event_catagory": "golf",
