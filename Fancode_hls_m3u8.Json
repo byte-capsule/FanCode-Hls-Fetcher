@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 6,
-  "last_upaded": "03-01-2025 on 5:38:49 PM \ud83c\udf1e",
+  "last_upaded": "03-01-2025 on 5:53:01 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,18 +15,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SU@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-White-Ball-T20-old-Match-card.png",
       "stream_link": "https://dai.google.com/linear/hls/event/H9TO6rJ8Tf62DCFkaVCSWg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Bangladesh Premier League, 2024-25",
-      "match_id": 113354,
-      "match_name": "Chittagong Kings vs Durbar Rajshahi",
-      "team_1": "Chittagong Kings",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CTK@2x.png",
-      "team_2": "Durbar Rajshahi",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RAR-CR1@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113354_4644_DBR_CHK_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/eUJttCPwQEWXTlFXLVMoiA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -75,6 +63,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WSTA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110959_4567_PG_WST_fc-web_1728983130305.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/5rk_lTQKRTeTihe27MGUZA/master.m3u8"
+    },
+    {
+      "event_catagory": "kabaddi",
+      "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
+      "match_id": 114809,
+      "match_name": "Palani Tuskers vs Karpagam Raiders",
+      "team_1": "Palani Tuskers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-TUK@2x.png",
+      "team_2": "Karpagam Raiders",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-KRR@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114809_4687_PAL_KRS_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/8dr4sdkDQv6pO-pBtuf7Hg/master.m3u8"
     }
   ]
 }
