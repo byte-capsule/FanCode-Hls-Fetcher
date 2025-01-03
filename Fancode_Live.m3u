@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Voyagers vs Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115740_4722_WAR_VOY_fc-web.jpg" tvg-id="115740" group-title="Barbados T10, 2024-25",Voyagers vs Warriors
 https://dai.google.com/linear/hls/event/1S0_xt5VQai3YHKVsLjs6Q/master.m3u8
-#EXTINF:-1 tvg-name="Khulna Tigers vs Dhaka Capitals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113355_4644_DC_KHT_fc-web.jpg" tvg-id="113355" group-title="Bangladesh Premier League, 2024-25",Khulna Tigers vs Dhaka Capitals
-https://dai.google.com/linear/hls/event/Q1A3to13ThymA5jdxyVkZQ/master.m3u8
-#EXTINF:-1 tvg-name="Thiruvallur vs Chengalpattu" tvg-logo="https://www.fancode.com/aig/match/v1/115682_CASACARDS_APP.png" tvg-id="115682" group-title="TNCA S S Rajan T20 Trophy 2024-2025",Thiruvallur vs Chengalpattu
-https://dai.google.com/linear/hls/event/ySP53qR_R2m1TtIYnYPOdA/master.m3u8
 #EXTINF:-1 tvg-name="Al Mulla Exchange vs Cochin Hurricanes" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cochin-Hurricanes-VS-Al-Mulla-Exchange_fc-web.jpg" tvg-id="112457" group-title="KCC T20 Challengers A League, 2024-25",Al Mulla Exchange vs Cochin Hurricanes
 https://dai.google.com/linear/hls/event/W0_89ozsQJOrR5XmOb4zgg/master.m3u8
 #EXTINF:-1 tvg-name="Seven United vs UFC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-Hundred-Ball-TV-old-Match-card-.png" tvg-id="116277" group-title="BOX Office Hundred Ball",Seven United vs UFC
