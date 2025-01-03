@@ -1,11 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Super Lanka vs Royal Lions CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115697_4721_RLC_SUL_fc-web.jpg" tvg-id="115697" group-title="KCC T20 Challengers B League, 2024-25",Super Lanka vs Royal Lions CC
 https://dai.google.com/linear/hls/event/BlzDXrwiTgyADuhYPlzYcQ/master.m3u8
+#EXTINF:-1 tvg-name="Sarawak Women vs Selangor Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115915" group-title="MCA Women's T20 Inter-State Championship, 2024-25",Sarawak Women vs Selangor Women
+https://dai.google.com/linear/hls/event/OEeWNlk4TMyRt3Ilv8QU3w/master.m3u8
+#EXTINF:-1 tvg-name="Negeri Sembilan Women vs Sabah Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="115914" group-title="MCA Women's T20 Inter-State Championship, 2024-25",Negeri Sembilan Women vs Sabah Women
+https://dai.google.com/linear/hls/event/_4HUBOm2RUmbpnQvwoXntQ/master.m3u8
 #EXTINF:-1 tvg-name="Auckland Aces vs Canterbury" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114476_4676_AA_CTB_fc-Web_1735207964815.jpg" tvg-id="114476" group-title="Dream11 Super Smash, 2024-25",Auckland Aces vs Canterbury
 https://dai.google.com/linear/hls/event/FESyY5BGQTWynW_hhQfshQ/master.m3u8
 #EXTINF:-1 tvg-name="Afghanistan vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg" tvg-id="113546" group-title="Afghanistan tour of Zimbabwe, 2024-25",Afghanistan vs Zimbabwe
 https://dai.google.com/linear/hls/event/EeqomKkkQ4q63UoBuiI0Bg/master.m3u8
-#EXTINF:-1 tvg-name="Day 1, Feature Group" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The_Sentry_match-card.jpg" tvg-id="116338" group-title="The Sentry",Day 1, Feature Group
-https://mls3.fancode.com/7ab3cc4b-0d91-467f-81c9-fbb12a903a4d/master.m3u8
 #EXTINF:-1 tvg-name="Murthal Magnets vs Sonipat Spartans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114806_4687_MMGL_SPS_fc-web.jpg" tvg-id="114806" group-title="Yuva Kabaddi Series Edition 11 - Division Rounds",Murthal Magnets vs Sonipat Spartans
 https://dai.google.com/linear/hls/event/-5REvmxjQ8qFkU0Ra1IFZA/master.m3u8
