@@ -2,8 +2,20 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 6,
-  "last_upaded": "03-01-2025 on 5:17:49 PM \ud83c\udf1e",
+  "last_upaded": "03-01-2025 on 5:38:49 PM \ud83c\udf1e",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "BOX Office White Ball T20",
+      "match_id": 116276,
+      "match_name": "Raghubansh vs Seven United",
+      "team_1": "Raghubansh",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RBS@2x.png",
+      "team_2": "Seven United",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SU@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-White-Ball-T20-old-Match-card.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/H9TO6rJ8Tf62DCFkaVCSWg/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "Bangladesh Premier League, 2024-25",
@@ -15,6 +27,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RAR-CR1@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/113354_4644_DBR_CHK_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/eUJttCPwQEWXTlFXLVMoiA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "KCC T20 Challengers A League, 2024-25",
+      "match_id": 116126,
+      "match_name": "Kuwait Mavericks vs Strikers Afghan",
+      "team_1": "Kuwait Mavericks",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/KUM-CR1@2x.png",
+      "team_2": "Strikers Afghan",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAG@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112410_4616_STX_KMW_fc-web_1731569489700.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/qKaEs8V_RfKj2w_hYq9oSg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -39,30 +63,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CB@2x.png",
       "banner": "https://www.fancode.com/aig/match/v1/115681_CASACARDS_APP.png",
       "stream_link": "https://dai.google.com/linear/hls/event/IeJNFyvjSguB12ZvkcrCSA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "KCC T20 Challengers A League, 2024-25",
-      "match_id": 116126,
-      "match_name": "Kuwait Mavericks vs Strikers Afghan",
-      "team_1": "Kuwait Mavericks",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/KUM-CR1@2x.png",
-      "team_2": "Strikers Afghan",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAG@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112410_4616_STX_KMW_fc-web_1731569489700.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/qKaEs8V_RfKj2w_hYq9oSg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "BOX Office White Ball T20",
-      "match_id": 116276,
-      "match_name": "Raghubansh vs Seven United",
-      "team_1": "Raghubansh",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RBS@2x.png",
-      "team_2": "Seven United",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SU@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-White-Ball-T20-old-Match-card.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/H9TO6rJ8Tf62DCFkaVCSWg/master.m3u8"
     },
     {
       "event_catagory": "football",
