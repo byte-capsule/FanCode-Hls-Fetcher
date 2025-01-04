@@ -1,33 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "04-01-2025 on 6:40:45 PM \ud83c\udf19",
+  "total_mathes": 2,
+  "last_upaded": "04-01-2025 on 7:03:20 PM \ud83c\udf19",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "SPL T12",
-      "match_id": 116343,
-      "match_name": "Marwar Warriors vs Victory Lions",
-      "team_1": "Marwar Warriors",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MWS@2x.png",
-      "team_2": "Victory Lions",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VLS@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/116343_4747_MWS_VLS_fc-Web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/AGkHNvWnRy-uEaueWBp1WQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "TNCA S S Rajan T20 Trophy 2024-2025",
-      "match_id": 115683,
-      "match_name": "Dindigul vs Coimbatore",
-      "team_1": "Dindigul",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DNL@2x.png",
-      "team_2": "Coimbatore",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CB@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/115683_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/i-wmbgKmTUK75O5wPErVLQ/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Afghanistan tour of Zimbabwe, 2024-25",
@@ -51,18 +27,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BURNL@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/109913_4352_BLK_BUR_fc-web_1734938759599.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/paCmFSGTQOe1MNZjhCTDVA/master.m3u8"
-    },
-    {
-      "event_catagory": "kabaddi",
-      "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
-      "match_id": 114813,
-      "match_name": "Jaipur Thunders vs Karpagam Raiders",
-      "team_1": "Jaipur Thunders",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-JTS@2x.png",
-      "team_2": "Karpagam Raiders",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-KRR@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114813_4687_JTS_KRS_fc-web_1735646310784.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/vVZ7ddDuRuOC8W8L8TqpPg/master.m3u8"
     }
   ]
 }
