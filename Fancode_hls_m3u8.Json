@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "05-01-2025 on 00:28:15 AM \ud83c\udf19",
+  "total_mathes": 3,
+  "last_upaded": "05-01-2025 on 00:44:09 AM \ud83c\udf19",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Barbados T10, 2024-25",
-      "match_id": 115743,
-      "match_name": "Voyagers vs Settlers",
-      "team_1": "Voyagers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VOYA@2x.png",
-      "team_2": "Settlers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-STTL@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115743_4722_VOY_SET_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/pc8HNcssSGG5cBMBPP9oNw/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "KCC T20 Challengers B League, 2024-25",
@@ -51,18 +39,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/BAR-FT2@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Barbastro-VS-Barcelona_old.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/4n29WZeVTEm1gjmILsndXQ/master.m3u8"
-    },
-    {
-      "event_catagory": "golf",
-      "event_name": "The Sentry",
-      "match_id": 116254,
-      "match_name": "Day 3",
-      "team_1": "Day 3",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-TSS@2x.png",
-      "team_2": "Kapalua Plantation Course, Hawaii",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/The_Sentry_match-card.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/ibFjPI11QySe1wZk6WKIpg/master.m3u8"
     }
   ]
 }
