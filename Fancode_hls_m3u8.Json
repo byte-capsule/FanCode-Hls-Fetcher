@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "04-01-2025 on 3:53:10 PM \ud83c\udf1e",
+  "total_mathes": 5,
+  "last_upaded": "04-01-2025 on 4:21:54 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -18,18 +18,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Afghanistan tour of Zimbabwe, 2024-25",
-      "match_id": 113546,
-      "match_name": "Afghanistan vs Zimbabwe",
-      "team_1": "Afghanistan",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFG@2x.png",
-      "team_2": "Zimbabwe",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/EeqomKkkQ4q63UoBuiI0Bg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "TNCA S S Rajan T20 Trophy 2024-2025",
       "match_id": 115683,
       "match_name": "Dindigul vs Coimbatore",
@@ -39,6 +27,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CB@2x.png",
       "banner": "https://www.fancode.com/aig/match/v1/115683_CASACARDS_APP.png",
       "stream_link": "https://dai.google.com/linear/hls/event/i-wmbgKmTUK75O5wPErVLQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Afghanistan tour of Zimbabwe, 2024-25",
+      "match_id": 113546,
+      "match_name": "Afghanistan vs Zimbabwe",
+      "team_1": "Afghanistan",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFG@2x.png",
+      "team_2": "Zimbabwe",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/EeqomKkkQ4q63UoBuiI0Bg/master.m3u8"
     },
     {
       "event_catagory": "football",
@@ -51,6 +51,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYWA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110961_4567_MLV_SYW_fc-web_1728983128182.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/GHWUr3zXRF62TxnnWG0F4g/master.m3u8"
+    },
+    {
+      "event_catagory": "kabaddi",
+      "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
+      "match_id": 114812,
+      "match_name": "Chennai Tamizhans vs Palani Tuskers",
+      "team_1": "Chennai Tamizhans",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-CTS@2x.png",
+      "team_2": "Palani Tuskers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-TUK@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114812_4687_CTS_PAL_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/LevljT2_R8eAftUbcfJZQw/master.m3u8"
     }
   ]
 }
