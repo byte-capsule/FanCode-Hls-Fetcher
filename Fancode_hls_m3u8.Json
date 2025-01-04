@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "04-01-2025 on 5:53:19 PM \ud83c\udf1e",
+  "total_mathes": 5,
+  "last_upaded": "04-01-2025 on 6:40:45 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -39,6 +39,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/EeqomKkkQ4q63UoBuiI0Bg/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "EFL Championship 2024-25",
+      "match_id": 109913,
+      "match_name": "Blackburn Rovers vs Burnley",
+      "team_1": "Blackburn Rovers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BLKB@2x.png",
+      "team_2": "Burnley",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BURNL@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/109913_4352_BLK_BUR_fc-web_1734938759599.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/paCmFSGTQOe1MNZjhCTDVA/master.m3u8"
     },
     {
       "event_catagory": "kabaddi",
