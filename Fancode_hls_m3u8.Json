@@ -1,20 +1,20 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "04-01-2025 on 4:21:54 PM \ud83c\udf1e",
+  "total_mathes": 4,
+  "last_upaded": "04-01-2025 on 4:40:55 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
       "event_name": "SPL T12",
-      "match_id": 116342,
-      "match_name": "Desert Eagles vs Thunder Blasters",
-      "team_1": "Desert Eagles",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DESS@2x.png",
-      "team_2": "Thunder Blasters",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TBS@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/116342_4747_DESS_TBS_fc-Web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/4y_yh8McRWCuNZxx1L4NgA/master.m3u8"
+      "match_id": 116343,
+      "match_name": "Marwar Warriors vs Victory Lions",
+      "team_1": "Marwar Warriors",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MWS@2x.png",
+      "team_2": "Victory Lions",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VLS@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/116343_4747_MWS_VLS_fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/AGkHNvWnRy-uEaueWBp1WQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -39,18 +39,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/EeqomKkkQ4q63UoBuiI0Bg/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "A League 2024-25",
-      "match_id": 110961,
-      "match_name": "Melbourne Victory vs Western Sydney Wanderers",
-      "team_1": "Melbourne Victory",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLVA@2x.png",
-      "team_2": "Western Sydney Wanderers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYWA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110961_4567_MLV_SYW_fc-web_1728983128182.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/GHWUr3zXRF62TxnnWG0F4g/master.m3u8"
     },
     {
       "event_catagory": "kabaddi",

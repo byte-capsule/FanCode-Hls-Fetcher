@@ -1,11 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Desert Eagles vs Thunder Blasters" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116342_4747_DESS_TBS_fc-Web.jpg" tvg-id="116342" group-title="SPL T12",Desert Eagles vs Thunder Blasters
-https://dai.google.com/linear/hls/event/4y_yh8McRWCuNZxx1L4NgA/master.m3u8
+#EXTINF:-1 tvg-name="Marwar Warriors vs Victory Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116343_4747_MWS_VLS_fc-Web.jpg" tvg-id="116343" group-title="SPL T12",Marwar Warriors vs Victory Lions
+https://dai.google.com/linear/hls/event/AGkHNvWnRy-uEaueWBp1WQ/master.m3u8
 #EXTINF:-1 tvg-name="Dindigul vs Coimbatore" tvg-logo="https://www.fancode.com/aig/match/v1/115683_CASACARDS_APP.png" tvg-id="115683" group-title="TNCA S S Rajan T20 Trophy 2024-2025",Dindigul vs Coimbatore
 https://dai.google.com/linear/hls/event/i-wmbgKmTUK75O5wPErVLQ/master.m3u8
 #EXTINF:-1 tvg-name="Afghanistan vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg" tvg-id="113546" group-title="Afghanistan tour of Zimbabwe, 2024-25",Afghanistan vs Zimbabwe
 https://dai.google.com/linear/hls/event/EeqomKkkQ4q63UoBuiI0Bg/master.m3u8
-#EXTINF:-1 tvg-name="Melbourne Victory vs Western Sydney Wanderers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110961_4567_MLV_SYW_fc-web_1728983128182.jpg" tvg-id="110961" group-title="A League 2024-25",Melbourne Victory vs Western Sydney Wanderers
-https://dai.google.com/linear/hls/event/GHWUr3zXRF62TxnnWG0F4g/master.m3u8
 #EXTINF:-1 tvg-name="Chennai Tamizhans vs Palani Tuskers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114812_4687_CTS_PAL_fc-web.jpg" tvg-id="114812" group-title="Yuva Kabaddi Series Edition 11 - Division Rounds",Chennai Tamizhans vs Palani Tuskers
 https://dai.google.com/linear/hls/event/LevljT2_R8eAftUbcfJZQw/master.m3u8
