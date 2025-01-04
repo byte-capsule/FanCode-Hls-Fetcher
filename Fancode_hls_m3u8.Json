@@ -1,20 +1,20 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "04-01-2025 on 9:38:27 PM \ud83c\udf19",
+  "total_mathes": 5,
+  "last_upaded": "04-01-2025 on 10:25:27 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
       "event_name": "Barbados T10, 2024-25",
-      "match_id": 115742,
-      "match_name": "Guardians vs Warriors",
-      "team_1": "Guardians",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GUARD@2x.png",
-      "team_2": "Warriors",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WARRO@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115742_4722_GUA_WAR_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/uutkEpsIRnuJKmXkWY5NZw/master.m3u8"
+      "match_id": 115743,
+      "match_name": "Voyagers vs Settlers",
+      "team_1": "Voyagers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VOYA@2x.png",
+      "team_2": "Settlers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-STTL@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115743_4722_VOY_SET_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/pc8HNcssSGG5cBMBPP9oNw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -39,18 +39,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/EeqomKkkQ4q63UoBuiI0Bg/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "Copa del Rey 2024-25",
-      "match_id": 115607,
-      "match_name": "Huesca vs Real Betis",
-      "team_1": "Huesca",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-HUE@2x.png",
-      "team_2": "Real Betis",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-REALB@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Huesca-VS-Real-Betis_old.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/8qnReHh2Sm-jDhEGfAg01g/master.m3u8"
     },
     {
       "event_catagory": "football",
