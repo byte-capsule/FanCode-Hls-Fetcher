@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 4,
-  "last_upaded": "04-01-2025 on 11:18:28 PM \ud83c\udf19",
+  "last_upaded": "04-01-2025 on 11:38:06 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -18,6 +18,18 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "KCC T20 Challengers B League, 2024-25",
+      "match_id": 115699,
+      "match_name": "Al-Rashed Shipping Co vs Chennai Kings CA",
+      "team_1": "Al-Rashed Shipping Co",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ARI@2x.png",
+      "team_2": "Chennai Kings CA",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CKC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115699_4721_ARI_CHK_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/IPMn-LOwQACEa5LwBFwHPQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "Afghanistan tour of Zimbabwe, 2024-25",
       "match_id": 113546,
       "match_name": "Afghanistan vs Zimbabwe",
@@ -27,18 +39,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/EeqomKkkQ4q63UoBuiI0Bg/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "Copa del Rey 2024-25",
-      "match_id": 115614,
-      "match_name": "Tenerife vs Osasuna",
-      "team_1": "Tenerife",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-TFE@2x.png",
-      "team_2": "Osasuna",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-OSN@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Tenerife-VS-Osasuna_old.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/SxaE6YtDQvCsNbyoL9-bcg/master.m3u8"
     },
     {
       "event_catagory": "football",
