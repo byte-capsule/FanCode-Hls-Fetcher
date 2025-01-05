@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "05-01-2025 on 10:55:59 PM \ud83c\udf19",
+  "total_mathes": 2,
+  "last_upaded": "05-01-2025 on 11:18:28 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -13,20 +13,8 @@
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-STTL@2x.png",
       "team_2": "Titans",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TTNS@2x.png",
-      "banner": false,
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115745_4722_SET_TIT_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/Jo6L7k-MRYmr0ouFyhu6wA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "SPL T12",
-      "match_id": 116347,
-      "match_name": "Victory Lions vs Royal Gladiators",
-      "team_1": "Victory Lions",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VLS@2x.png",
-      "team_2": "Royal Gladiators",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RGS@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/116347_4747_VLS_RGS_fc-Web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/8bRt4wVvTmiu6vZpS7-qnA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -39,18 +27,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/EeqomKkkQ4q63UoBuiI0Bg/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "EFL Championship 2024-25",
-      "match_id": 109915,
-      "match_name": "Sunderland vs Portsmouth",
-      "team_1": "Sunderland",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SUNDL@2x.png",
-      "team_2": "Portsmouth",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PORTS@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/109915_4352_SUN_PRM_fc-web_1734938759534.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/PUyoowbgSrWNg6eRLC5xUw/master.m3u8"
     }
   ]
 }
