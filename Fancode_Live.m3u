@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Settlers vs Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115745_4722_SET_TIT_fc-web.jpg" tvg-id="115745" group-title="Barbados T10, 2024-25",Settlers vs Titans
-https://dai.google.com/linear/hls/event/Jo6L7k-MRYmr0ouFyhu6wA/master.m3u8
 #EXTINF:-1 tvg-name="Gulf Cable vs Lexus CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115700_4721_GUC_LEX_fc-web.jpg" tvg-id="115700" group-title="KCC T20 Challengers B League, 2024-25",Gulf Cable vs Lexus CC
 https://dai.google.com/linear/hls/event/JWVIfc77T2Og1oBD4uVutg/master.m3u8
 #EXTINF:-1 tvg-name="Afghanistan vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg" tvg-id="113546" group-title="Afghanistan tour of Zimbabwe, 2024-25",Afghanistan vs Zimbabwe
