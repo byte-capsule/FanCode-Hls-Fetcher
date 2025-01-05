@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "05-01-2025 on 5:38:23 PM \ud83c\udf1e",
+  "total_mathes": 5,
+  "last_upaded": "05-01-2025 on 5:53:15 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -51,6 +51,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VLD@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Ourense-CF-VS-Real-Valladolid_old.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/nrU2od9LSLe2HSJe_K8GNA/master.m3u8"
+    },
+    {
+      "event_catagory": "kabaddi",
+      "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
+      "match_id": 114817,
+      "match_name": "Karpagam Raiders vs Chennai Tamizhans",
+      "team_1": "Karpagam Raiders",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-KRR@2x.png",
+      "team_2": "Chennai Tamizhans",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-CTS@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114817_4687_KRS_CTS_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/xi2tixkuQjKhkWi8WTaArw/master.m3u8"
     }
   ]
 }
