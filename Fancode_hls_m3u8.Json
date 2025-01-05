@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "05-01-2025 on 8:18:15 PM \ud83c\udf19",
+  "total_mathes": 6,
+  "last_upaded": "05-01-2025 on 8:38:48 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -39,6 +39,42 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/EeqomKkkQ4q63UoBuiI0Bg/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "Copa del Rey 2024-25",
+      "match_id": 115613,
+      "match_name": "FC Cartagena vs Legan\u00e9s",
+      "team_1": "FC Cartagena",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CAT@2x.png",
+      "team_2": "Legan\u00e9s",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LEGA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/RFBoVr0jTJ2PTMCJj7hRiQ/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "Copa del Rey 2024-25",
+      "match_id": 115608,
+      "match_name": "Racing de Santander vs Celta de Vigo",
+      "team_1": "Racing de Santander",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RAC@2x.png",
+      "team_2": "Celta de Vigo",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CEV@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Racing-de-Santander-VS-Celta-de-Vigo_old.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/jLBY6MjEQJiFJPx1nJotpw/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "Copa del Rey 2024-25",
+      "match_id": 115605,
+      "match_name": "Ponferradina vs Real Sociedad",
+      "team_1": "Ponferradina",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PON@2x.png",
+      "team_2": "Real Sociedad",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RSO@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Ponferradina-VS-Real-Sociedad_old.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/h03DpTypT-6q0IEXZS3u7A/master.m3u8"
     }
   ]
 }
