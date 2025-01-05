@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Settlers vs Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115745_4722_SET_TIT_fc-web.jpg" tvg-id="115745" group-title="Barbados T10, 2024-25",Settlers vs Titans
+https://dai.google.com/linear/hls/event/Jo6L7k-MRYmr0ouFyhu6wA/master.m3u8
 #EXTINF:-1 tvg-name="Victory Lions vs Royal Gladiators" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116347_4747_VLS_RGS_fc-Web.jpg" tvg-id="116347" group-title="SPL T12",Victory Lions vs Royal Gladiators
 https://dai.google.com/linear/hls/event/8bRt4wVvTmiu6vZpS7-qnA/master.m3u8
 #EXTINF:-1 tvg-name="Coimbatore vs Chengalpattu" tvg-logo="https://www.fancode.com/aig/match/v1/115685_CASACARDS_APP.png" tvg-id="115685" group-title="TNCA S S Rajan T20 Trophy 2024-2025",Coimbatore vs Chengalpattu
