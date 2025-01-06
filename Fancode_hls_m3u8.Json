@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "06-01-2025 on 4:55:58 PM \ud83c\udf1e",
+  "total_mathes": 1,
+  "last_upaded": "06-01-2025 on 5:18:54 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,30 +15,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCSS@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/116351_4747_VLS_SCSS_fc-Web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/Yt2_KsetRTOwHyuH3u1Xxw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Bangladesh Premier League, 2024-25",
-      "match_id": 113356,
-      "match_name": "Sylhet Strikers vs Rangpur Riders",
-      "team_1": "Sylhet Strikers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SYL@2x.png",
-      "team_2": "Rangpur Riders",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RANG@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113356_4644_SYL_RAN_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/e_lXzBwyQQWEAR8J71Aujg/master.m3u8"
-    },
-    {
-      "event_catagory": "kabaddi",
-      "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
-      "match_id": 114820,
-      "match_name": "Chennai Tamizhans vs Murthal Magnets",
-      "team_1": "Chennai Tamizhans",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-CTS@2x.png",
-      "team_2": "Murthal Magnets",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-MUR@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/114820_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/nptfm3zLTH2OCqoT5LnxIQ/master.m3u8"
     }
   ]
 }
