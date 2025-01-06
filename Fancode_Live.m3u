@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Victory Lions vs Sun City Strikers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116351_4747_VLS_SCSS_fc-Web.jpg" tvg-id="116351" group-title="SPL T12",Victory Lions vs Sun City Strikers
 https://dai.google.com/linear/hls/event/Yt2_KsetRTOwHyuH3u1Xxw/master.m3u8
+#EXTINF:-1 tvg-name="Durbar Rajshahi vs Fortune Barishal" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113357_4644_FBA_DBR_fc-web.jpg" tvg-id="113357" group-title="Bangladesh Premier League, 2024-25",Durbar Rajshahi vs Fortune Barishal
+https://dai.google.com/linear/hls/event/5mUMl6CcSIydH6ovBFGWIw/master.m3u8
 #EXTINF:-1 tvg-name="Palani Tuskers vs Sonipat Spartans" tvg-logo="https://www.fancode.com/aig/match/v2/114821_CASACARDS_APP.png" tvg-id="114821" group-title="Yuva Kabaddi Series Edition 11 - Division Rounds",Palani Tuskers vs Sonipat Spartans
 https://dai.google.com/linear/hls/event/5ve5bEYwQg687BYH9UB2gw/master.m3u8
