@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Thar Defenders vs Thunder Blasters" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116352_4747_TDSS_TBS_fc-Web.jpg" tvg-id="116352" group-title="SPL T12",Thar Defenders vs Thunder Blasters
-https://dai.google.com/linear/hls/event/xuHgoQFnS2uGzRBWnioLXA/master.m3u8
 #EXTINF:-1 tvg-name="Pondicherry North XI vs Mahe XI" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-1.png" tvg-id="116221" group-title="CAP Masters T10 Tournament, 2025",Pondicherry North XI vs Mahe XI
 https://dai.google.com/linear/hls/event/QUY1wovNRgGTQvlhagvngw/master.m3u8
 #EXTINF:-1 tvg-name="Otago Sparks vs Canterbury Magicians" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="114511" group-title="Dream11 Women's Super Smash, 2024-25",Otago Sparks vs Canterbury Magicians
 https://dai.google.com/linear/hls/event/DpkAEfcgR9SDRu3WPyiu6A/master.m3u8
+#EXTINF:-1 tvg-name="Jaipur Thunders vs Sonipat Spartans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114823_4687_JTS_SPS_fc-web.jpg" tvg-id="114823" group-title="Yuva Kabaddi Series Edition 11 - Division Rounds",Jaipur Thunders vs Sonipat Spartans
+https://dai.google.com/linear/hls/event/za1qotMiQ4mRct0hBgky6Q/master.m3u8
