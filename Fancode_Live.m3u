@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Canterbury vs Otago Volts" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114479_4676_CTB_OV_fc-Web_1735207965443.jpg" tvg-id="114479" group-title="Dream11 Super Smash, 2024-25",Canterbury vs Otago Volts
-https://dai.google.com/linear/hls/event/RM8o1hToQvaCKtGBpESHRQ/master.m3u8
 #EXTINF:-1 tvg-name="Thar Defenders vs Thunder Blasters" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116352_4747_TDSS_TBS_fc-Web.jpg" tvg-id="116352" group-title="SPL T12",Thar Defenders vs Thunder Blasters
 https://dai.google.com/linear/hls/event/xuHgoQFnS2uGzRBWnioLXA/master.m3u8
+#EXTINF:-1 tvg-name="Canterbury vs Otago Volts" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114479_4676_CTB_OV_fc-Web_1735207965443.jpg" tvg-id="114479" group-title="Dream11 Super Smash, 2024-25",Canterbury vs Otago Volts
+https://dai.google.com/linear/hls/event/RM8o1hToQvaCKtGBpESHRQ/master.m3u8
+#EXTINF:-1 tvg-name="Pondicherry North XI vs Mahe XI" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-1.png" tvg-id="116221" group-title="CAP Masters T10 Tournament, 2025",Pondicherry North XI vs Mahe XI
+https://dai.google.com/linear/hls/event/QUY1wovNRgGTQvlhagvngw/master.m3u8
