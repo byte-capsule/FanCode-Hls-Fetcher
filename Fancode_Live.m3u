@@ -1,3 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Team TGS vs Thunder Cats" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115703_4721_THN_TGS_fc-web.jpg" tvg-id="115703" group-title="KCC T20 Challengers B League, 2024-25",Team TGS vs Thunder Cats
+https://dai.google.com/linear/hls/event/6AJTpZalSD2QyrlxxNiHpw/master.m3u8
 #EXTINF:-1 tvg-name="Warriors vs Settlers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115751_4722_SET_WAR_fc-web.jpg" tvg-id="115751" group-title="Barbados T10, 2024-25",Warriors vs Settlers
 https://dai.google.com/linear/hls/event/KVHTGD0GSQ-Xa0-vgpZSeA/master.m3u8
