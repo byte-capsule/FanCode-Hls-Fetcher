@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Pondicherry North XI vs Pondicherry West XI" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-3.png" tvg-id="116226" group-title="CAP Masters T10 Tournament, 2025",Pondicherry North XI vs Pondicherry West XI
+https://dai.google.com/linear/hls/event/S0y48MneTYGefTKn0uj76Q/master.m3u8
 #EXTINF:-1 tvg-name="Marwar Warriors vs Thar Defenders" tvg-logo="https://www.fancode.com/aig/match/v1/116355_CASACARDS_APP.png" tvg-id="116355" group-title="SPL T12",Marwar Warriors vs Thar Defenders
 https://dai.google.com/linear/hls/event/p5SjBh8bTW2NLGWyXskQag/master.m3u8
 #EXTINF:-1 tvg-name="New Zealand vs Sri Lanka" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-New-Zealand-ODI_2025_Old_match-card_02.jpg" tvg-id="115624" group-title="Sri Lanka tour of New Zealand, 2024-25",New Zealand vs Sri Lanka
