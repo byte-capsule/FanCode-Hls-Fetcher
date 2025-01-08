@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "08-01-2025 on 10:27:02 AM \ud83c\udf1e",
+  "total_mathes": 4,
+  "last_upaded": "08-01-2025 on 10:43:14 AM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -39,6 +39,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR4@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-1.png",
       "stream_link": "https://dai.google.com/linear/hls/event/5jENnYGCSyOIuq9EOIBqnA/master.m3u8"
+    },
+    {
+      "event_catagory": "kabaddi",
+      "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
+      "match_id": 114826,
+      "match_name": "Jaipur Thunders vs Murthal Magnets",
+      "team_1": "Jaipur Thunders",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-JTS@2x.png",
+      "team_2": "Murthal Magnets",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-MUR@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114826_4687_JTS_MMGL_fc-web_1736173455238.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/6uUxo-otQGa5Oc7mSqLwuw/master.m3u8"
     }
   ]
 }
