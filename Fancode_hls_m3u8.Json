@@ -1,20 +1,20 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "08-01-2025 on 2:46:47 PM \ud83c\udf1e",
+  "total_mathes": 3,
+  "last_upaded": "08-01-2025 on 3:23:28 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
       "event_name": "CAP Masters T10 Tournament, 2025",
-      "match_id": 116226,
-      "match_name": "Pondicherry West XI vs Pondicherry North XI",
-      "team_1": "Pondicherry West XI",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR2@2x.png",
-      "team_2": "Pondicherry North XI",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR6@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-3.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/S0y48MneTYGefTKn0uj76Q/master.m3u8"
+      "match_id": 116225,
+      "match_name": "Karaikal XI vs Yanam XI",
+      "team_1": "Karaikal XI",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR8@2x.png",
+      "team_2": "Yanam XI",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR9@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-2.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/nnC2VHtETFaKOXWIsWjxGQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -27,18 +27,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RGS@2x.png",
       "banner": "https://www.fancode.com/aig/match/v2/116356_CASACARDS_APP.png",
       "stream_link": "https://dai.google.com/linear/hls/event/zaaHmpVdR2WLozkb4ji74A/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Sri Lanka tour of New Zealand, 2024-25",
-      "match_id": 115624,
-      "match_name": "New Zealand vs Sri Lanka",
-      "team_1": "New Zealand",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
-      "team_2": "Sri Lanka",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-New-Zealand-ODI_2025_Old_match-card_02.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8"
     },
     {
       "event_catagory": "football",

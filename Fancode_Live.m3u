@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Pondicherry West XI vs Pondicherry North XI" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-3.png" tvg-id="116226" group-title="CAP Masters T10 Tournament, 2025",Pondicherry West XI vs Pondicherry North XI
-https://dai.google.com/linear/hls/event/S0y48MneTYGefTKn0uj76Q/master.m3u8
+#EXTINF:-1 tvg-name="Karaikal XI vs Yanam XI" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-2.png" tvg-id="116225" group-title="CAP Masters T10 Tournament, 2025",Karaikal XI vs Yanam XI
+https://dai.google.com/linear/hls/event/nnC2VHtETFaKOXWIsWjxGQ/master.m3u8
 #EXTINF:-1 tvg-name="Thar Defenders vs Royal Gladiators" tvg-logo="https://www.fancode.com/aig/match/v2/116356_CASACARDS_APP.png" tvg-id="116356" group-title="SPL T12",Thar Defenders vs Royal Gladiators
 https://dai.google.com/linear/hls/event/zaaHmpVdR2WLozkb4ji74A/master.m3u8
-#EXTINF:-1 tvg-name="New Zealand vs Sri Lanka" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-New-Zealand-ODI_2025_Old_match-card_02.jpg" tvg-id="115624" group-title="Sri Lanka tour of New Zealand, 2024-25",New Zealand vs Sri Lanka
-https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
 #EXTINF:-1 tvg-name="Sydney FC vs Perth Glory" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110956_4567_SYD_PG_fc-web_1728983128933.jpg" tvg-id="110956" group-title="A League 2024-25",Sydney FC vs Perth Glory
 https://dai.google.com/linear/hls/event/ZH1TsiBiQ52FBuWVeuxUiw/master.m3u8
