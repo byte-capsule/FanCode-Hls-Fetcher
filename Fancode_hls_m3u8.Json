@@ -2,20 +2,8 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 2,
-  "last_upaded": "09-01-2025 on 11:53:04 AM \ud83c\udf1e",
+  "last_upaded": "09-01-2025 on 0:30:38 PM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "CAP Masters T10 Tournament, 2025",
-      "match_id": 116228,
-      "match_name": "Pondicherry West XI vs Yanam XI",
-      "team_1": "Pondicherry West XI",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR2@2x.png",
-      "team_2": "Yanam XI",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR9@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-2.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/3OZnWn6ERE2MqjtG-IU1OQ/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Dream11 Super Smash, 2024-25",
@@ -27,6 +15,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSGT@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/114477_4676_CS_WF_fc-Web_1735207964858.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/Zhvhm0OxQWeq_Z3V6R0JUA/master.m3u8"
+    },
+    {
+      "event_catagory": "kabaddi",
+      "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
+      "match_id": 114831,
+      "match_name": "Karpagam Raiders vs Kurukshetra Warriors",
+      "team_1": "Karpagam Raiders",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-KRR@2x.png",
+      "team_2": "Kurukshetra Warriors",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-KWS@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114831_4687_KRS_KWS_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/JfXS402aSRa2K2niZ_K5kw/master.m3u8"
     }
   ]
 }
