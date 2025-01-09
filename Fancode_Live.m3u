@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="MEC Study Group vs Karavali United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115704_4721_KUCC_MEC_fc-web.jpg" tvg-id="115704" group-title="KCC T20 Challengers B League, 2024-25",MEC Study Group vs Karavali United
+#EXTINF:-1 tvg-name="MEC Study Group vs Karavali United" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="115704" group-title="KCC T20 Challengers B League, 2024-25",MEC Study Group vs Karavali United
 https://dai.google.com/linear/hls/event/qFhgoeU4T4mdXTjnz7nNBw/master.m3u8
-#EXTINF:-1 tvg-name="Titans vs Voyagers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115753_4722_TIT_VOY_fc-web.jpg" tvg-id="115753" group-title="Barbados T10, 2024-25",Titans vs Voyagers
-https://dai.google.com/linear/hls/event/YDCG4TPAQA6_L4KG8-gJ9Q/master.m3u8
 #EXTINF:-1 tvg-name="Featured Feed - Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sony-Open-in-Hawaii_Old.jpg" tvg-id="116625" group-title="Sony Open in Hawaii",Featured Feed - Day 1
 https://dai.google.com/linear/hls/event/3SZXz_1GT9C7mcdL2ULXWA/master.m3u8
+#EXTINF:-1 tvg-name="Fenerbahce Beko Istanbul vs Alba Berlin" tvg-logo="https://www.fancode.com/aig/match/v1/115595_CASACARDS_APP.png" tvg-id="115595" group-title="EuroLeague 2024-25",Fenerbahce Beko Istanbul vs Alba Berlin
+https://dai.google.com/linear/hls/event/cm3WuiJoSxaAffbrfs6usg/master.m3u8
