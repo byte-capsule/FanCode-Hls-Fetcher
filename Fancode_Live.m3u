@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Pondicherry North XI vs Pondicherry South XI" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-1.png" tvg-id="116227" group-title="CAP Masters T10 Tournament, 2025",Pondicherry North XI vs Pondicherry South XI
 https://dai.google.com/linear/hls/event/r738SR6OSwegmCLL_9P0jA/master.m3u8
-#EXTINF:-1 tvg-name="Wellington Firebirds vs Central Stags" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114477_4676_CS_WF_fc-Web_1735207964858.jpg" tvg-id="114480" group-title="Dream11 Super Smash, 2024-25",Wellington Firebirds vs Central Stags
-https://dai.google.com/linear/hls/event/Zhvhm0OxQWeq_Z3V6R0JUA/master.m3u8
-#EXTINF:-1 tvg-name="Karpagam Raiders vs Kurukshetra Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114831_4687_KRS_KWS_fc-web.jpg" tvg-id="114831" group-title="Yuva Kabaddi Series Edition 11 - Division Rounds",Karpagam Raiders vs Kurukshetra Warriors
-https://dai.google.com/linear/hls/event/JfXS402aSRa2K2niZ_K5kw/master.m3u8
+#EXTINF:-1 tvg-name="Fortune Barishal vs Rangpur Riders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113360_4644_FBA_RAN_fc-web.jpg" tvg-id="113360" group-title="Bangladesh Premier League, 2024-25",Fortune Barishal vs Rangpur Riders
+https://dai.google.com/linear/hls/event/A6dRx9RVROOkkbFRTt6i2Q/master.m3u8
