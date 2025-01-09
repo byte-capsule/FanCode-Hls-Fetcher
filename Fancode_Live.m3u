@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Featured Feed - Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sony-Open-in-Hawaii_Old.jpg" tvg-id="116625" group-title="Sony Open in Hawaii",Featured Feed - Day 1
 https://dai.google.com/linear/hls/event/3SZXz_1GT9C7mcdL2ULXWA/master.m3u8
-#EXTINF:-1 tvg-name="Fenerbahce Beko Istanbul vs Alba Berlin" tvg-logo="https://www.fancode.com/aig/match/v1/115595_CASACARDS_APP.png" tvg-id="115595" group-title="EuroLeague 2024-25",Fenerbahce Beko Istanbul vs Alba Berlin
-https://dai.google.com/linear/hls/event/cm3WuiJoSxaAffbrfs6usg/master.m3u8
 #EXTINF:-1 tvg-name="Panathinaikos OPAP Athens vs Partizan NIS Belgrade" tvg-logo="https://www.fancode.com/aig/match/v1/115596_CASACARDS_APP.png" tvg-id="115596" group-title="EuroLeague 2024-25",Panathinaikos OPAP Athens vs Partizan NIS Belgrade
 https://dai.google.com/linear/hls/event/saoapttyT_uRBxJYxh1ttQ/master.m3u8
