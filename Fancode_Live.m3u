@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Super Lanka vs YSSC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115708_4721_SUL_YSS_fc-web.jpg" tvg-id="115708" group-title="KCC T20 Challengers B League, 2024-25",Super Lanka vs YSSC
 https://dai.google.com/linear/hls/event/3XEf5jgWRa-9ruWyOFAP2Q/master.m3u8
+#EXTINF:-1 tvg-name="Voyagers vs Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115755_4722_VOY_WAR_fc-web.jpg" tvg-id="115755" group-title="Barbados T10, 2024-25",Voyagers vs Warriors
+https://dai.google.com/linear/hls/event/G3ydknkyTammmXO47Q_N3g/master.m3u8
 #EXTINF:-1 tvg-name="Dhaka Capitals vs Sylhet Strikers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113363_4644_DC_SYL_fc-web.jpg" tvg-id="113363" group-title="Bangladesh Premier League, 2024-25",Dhaka Capitals vs Sylhet Strikers
 https://dai.google.com/linear/hls/event/CJF5YGVOQ6KDPMTDwX-MJw/master.m3u8
