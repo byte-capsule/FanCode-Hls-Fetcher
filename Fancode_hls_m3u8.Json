@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "10-01-2025 on 1:39:04 PM \ud83c\udf1e",
+  "total_mathes": 4,
+  "last_upaded": "10-01-2025 on 1:53:17 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,6 +27,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACE@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/114481_4676_CTB_AA_fc-Web_1735207964888.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/T14qPpsJTfq5ebdExC1JHw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Bangladesh Premier League, 2024-25",
+      "match_id": 113362,
+      "match_name": "Durbar Rajshahi vs Khulna Tigers",
+      "team_1": "Durbar Rajshahi",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RAR-CR1@2x.png",
+      "team_2": "Khulna Tigers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KHTI@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113362_4644_DBR_KHT_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/yyUu9K58RhOG3MFO_ohLAw/master.m3u8"
     },
     {
       "event_catagory": "golf",
