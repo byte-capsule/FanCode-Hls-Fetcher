@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Yanam XI vs Pondicherry North XI" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-1.png" tvg-id="116230" group-title="CAP Masters T10 Tournament, 2025",Yanam XI vs Pondicherry North XI
 https://dai.google.com/linear/hls/event/N-_wxqTcR2S9hHZ5Kwhyrw/master.m3u8
-#EXTINF:-1 tvg-name="Canterbury vs Auckland Aces" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114481_4676_CTB_AA_fc-Web_1735207964888.jpg" tvg-id="114481" group-title="Dream11 Super Smash, 2024-25",Canterbury vs Auckland Aces
-https://dai.google.com/linear/hls/event/T14qPpsJTfq5ebdExC1JHw/master.m3u8
 #EXTINF:-1 tvg-name="Durbar Rajshahi vs Khulna Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113362_4644_DBR_KHT_fc-web.jpg" tvg-id="113362" group-title="Bangladesh Premier League, 2024-25",Durbar Rajshahi vs Khulna Tigers
 https://dai.google.com/linear/hls/event/yyUu9K58RhOG3MFO_ohLAw/master.m3u8
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Team-Cup-Old-match-card.png" tvg-id="116629" group-title="Team Cup",Day 1
