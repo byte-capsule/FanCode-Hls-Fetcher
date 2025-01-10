@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Phoenix Cricketers vs Royal Lions CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115707_4721_PCT_RLC_fc-web.jpg" tvg-id="115707" group-title="KCC T20 Challengers B League, 2024-25",Phoenix Cricketers vs Royal Lions CC
+https://dai.google.com/linear/hls/event/_YgzvAX7TrGLYSKeTMBFZA/master.m3u8
 #EXTINF:-1 tvg-name="Pondicherry West XI vs Mahe XI" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-3.png" tvg-id="116232" group-title="CAP Masters T10 Tournament, 2025",Pondicherry West XI vs Mahe XI
 https://dai.google.com/linear/hls/event/cLRvwbpqT7OkPVjojixLng/master.m3u8
 #EXTINF:-1 tvg-name="Durbar Rajshahi vs Khulna Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113362_4644_DBR_KHT_fc-web.jpg" tvg-id="113362" group-title="Bangladesh Premier League, 2024-25",Durbar Rajshahi vs Khulna Tigers
