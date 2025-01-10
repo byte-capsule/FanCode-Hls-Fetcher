@@ -1,3 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Salmiya Strikers vs Thunder Cats" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115706_4721_SAS_THN_fc-web.jpg" tvg-id="115706" group-title="KCC T20 Challengers B League, 2024-25",Salmiya Strikers vs Thunder Cats
+https://dai.google.com/linear/hls/event/NKRoEO6fSc66JqfrifAMQQ/master.m3u8
 #EXTINF:-1 tvg-name="Pondicherry South XI vs Karaikal XI" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-2.png" tvg-id="116231" group-title="CAP Masters T10 Tournament, 2025",Pondicherry South XI vs Karaikal XI
 https://dai.google.com/linear/hls/event/LL2i8ysNSUytGOfB_5rewQ/master.m3u8
+#EXTINF:-1 tvg-name="Canterbury vs Auckland Aces" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114481_4676_CTB_AA_fc-Web_1735207964888.jpg" tvg-id="114481" group-title="Dream11 Super Smash, 2024-25",Canterbury vs Auckland Aces
+https://dai.google.com/linear/hls/event/T14qPpsJTfq5ebdExC1JHw/master.m3u8
