@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 2,
-  "last_upaded": "10-01-2025 on 6:44:16 PM \ud83c\udf19",
+  "last_upaded": "10-01-2025 on 7:32:05 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -17,16 +17,16 @@
       "stream_link": "https://dai.google.com/linear/hls/event/_YgzvAX7TrGLYSKeTMBFZA/master.m3u8"
     },
     {
-      "event_catagory": "golf",
-      "event_name": "Team Cup",
-      "match_id": 116629,
-      "match_name": "Day 1",
-      "team_1": "Day 1",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-TC@2x.png",
-      "team_2": "Abu Dhabi Golf Resort",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Team-Cup-Old-match-card.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/j_K4s-NlRU2mUTZLsSgYoA/master.m3u8"
+      "event_catagory": "cricket",
+      "event_name": "Bangladesh Premier League, 2024-25",
+      "match_id": 113363,
+      "match_name": "Dhaka Capitals vs Sylhet Strikers",
+      "team_1": "Dhaka Capitals",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DUD@2x.png",
+      "team_2": "Sylhet Strikers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SYL@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113363_4644_DC_SYL_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/CJF5YGVOQ6KDPMTDwX-MJw/master.m3u8"
     }
   ]
 }
