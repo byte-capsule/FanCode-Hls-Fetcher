@@ -7,3 +7,5 @@ https://dai.google.com/linear/hls/event/G3ydknkyTammmXO47Q_N3g/master.m3u8
 https://dai.google.com/linear/hls/event/z5Q-CbqhQEedkkbieRgfUA/master.m3u8
 #EXTINF:-1 tvg-name="Featured Feed - Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sony-Open-in-Hawaii_Old.jpg" tvg-id="116626" group-title="Sony Open in Hawaii",Featured Feed - Day 2
 https://dai.google.com/linear/hls/event/ZkLA_XAQTJSDH8CJEy-usA/master.m3u8
+#EXTINF:-1 tvg-name="Zalgiris Kaunas vs Real Madrid" tvg-logo="https://www.fancode.com/aig/match/v1/115597_CASACARDS_APP.png" tvg-id="115597" group-title="EuroLeague 2024-25",Zalgiris Kaunas vs Real Madrid
+https://dai.google.com/linear/hls/event/oTJRFGDeTFyiSc8b9EW51g/master.m3u8
