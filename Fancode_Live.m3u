@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Lexus vs Al-Rashed Shipping Co" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115710_4721_ARI_LEX_fc-web.jpg" tvg-id="115710" group-title="KCC T20 Challengers B League, 2024-25",Lexus vs Al-Rashed Shipping Co
+https://dai.google.com/linear/hls/event/L8lxwJMhQeehz21l-XYFLA/master.m3u8
 #EXTINF:-1 tvg-name="Pelicans vs Settlers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115739_4722_SET_PEL_fc-web.jpg" tvg-id="115757" group-title="Barbados T10, 2024-25",Pelicans vs Settlers
 https://dai.google.com/linear/hls/event/e5T3e8nUTkGwVM01j10sHQ/master.m3u8
 #EXTINF:-1 tvg-name="Middlesex Titans vs Surrey Risers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116299_4745_MIT_SRI_fc-Web.jpg" tvg-id="116299" group-title="Jamaica T10, 2025",Middlesex Titans vs Surrey Risers
