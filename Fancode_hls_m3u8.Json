@@ -2,32 +2,8 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 6,
-  "last_upaded": "12-01-2025 on 11:53:15 AM \ud83c\udf1e",
+  "last_upaded": "12-01-2025 on 0:29:38 PM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "CAP Masters T10 Tournament, 2025",
-      "match_id": 116237,
-      "match_name": "Karaikal XI vs Pondicherry West XI",
-      "team_1": "Karaikal XI",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR8@2x.png",
-      "team_2": "Pondicherry West XI",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR2@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-2.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/XbRh6AA0Siu1YKsPbvEykw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Dream11 Super Smash, 2024-25",
-      "match_id": 114482,
-      "match_name": "Central Stags vs Otago Volts",
-      "team_1": "Central Stags",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSGT@2x.png",
-      "team_2": "Otago Volts",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VOLT@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/114482_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/L4W9lQZTSW6_h_oueLUXgA/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "PD Champions Trophy",
@@ -75,6 +51,30 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACTM@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/109399_4508_ACTM_VCTW_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/mZyf96d5QxCxnubLnuu7Mw/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "A League 2024-25",
+      "match_id": 110968,
+      "match_name": "Newcastle Jets vs Macarthur",
+      "team_1": "Newcastle Jets",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NJA@2x.png",
+      "team_2": "Macarthur",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MACA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110968_4567_NJ_MAC_fc-web_1728983128422.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/dJZSFMTqQ_63iT0-VIPzrA/master.m3u8"
+    },
+    {
+      "event_catagory": "golf",
+      "event_name": "Team Cup",
+      "match_id": 116631,
+      "match_name": "Day 3",
+      "team_1": "Day 3",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-TC@2x.png",
+      "team_2": "Abu Dhabi Golf Resort",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Team-Cup-Old-match-card.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/FehuskAxREK-eKdhkCgQgg/master.m3u8"
     }
   ]
 }
