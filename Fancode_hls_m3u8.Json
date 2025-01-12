@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "12-01-2025 on 1:18:50 PM \ud83c\udf1e",
+  "total_mathes": 7,
+  "last_upaded": "12-01-2025 on 1:38:13 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,18 +15,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR6@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-1.png",
       "stream_link": "https://dai.google.com/linear/hls/event/HctsrRJiTZqCbo6f9kF73A/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "PD Champions Trophy",
-      "match_id": 116747,
-      "match_name": "Sri Lanka vs England",
-      "team_1": "Sri Lanka",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
-      "team_2": "England",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/116747_4758_SL_ENG_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/ATDxG8weTSSCuhNpiCs4Zg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -51,6 +39,30 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-QUF@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/109400_4508_QLF_TASW_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/zciN4WrcTwawgFEmOZ4WBw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "PD Champions Trophy",
+      "match_id": 116747,
+      "match_name": "Sri Lanka vs England",
+      "team_1": "Sri Lanka",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+      "team_2": "England",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/116747_4758_SL_ENG_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/ATDxG8weTSSCuhNpiCs4Zg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Bangladesh Premier League, 2024-25",
+      "match_id": 113364,
+      "match_name": "Sylhet Strikers vs Khulna Tigers",
+      "team_1": "Sylhet Strikers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SYL@2x.png",
+      "team_2": "Khulna Tigers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KHTI@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113364_4644_KHT_SYL_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/cRkYEuwJSNebMQ8aNZWW0g/master.m3u8"
     },
     {
       "event_catagory": "football",
