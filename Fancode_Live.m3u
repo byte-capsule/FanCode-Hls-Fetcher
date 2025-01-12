@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Mahe XI vs Pondicherry North XI" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-1.png" tvg-id="116236" group-title="CAP Masters T10 Tournament, 2025",Mahe XI vs Pondicherry North XI
+https://dai.google.com/linear/hls/event/HctsrRJiTZqCbo6f9kF73A/master.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka vs England" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116747_4758_SL_ENG_fc-web.jpg" tvg-id="116747" group-title="PD Champions Trophy",Sri Lanka vs England
 https://dai.google.com/linear/hls/event/ATDxG8weTSSCuhNpiCs4Zg/master.m3u8
 #EXTINF:-1 tvg-name="New South Wales Breakers vs Western Australia Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109401_4508_WA-W_NSWB_fc-web.jpg" tvg-id="109401" group-title="WNCL, 2024-25",New South Wales Breakers vs Western Australia Women
