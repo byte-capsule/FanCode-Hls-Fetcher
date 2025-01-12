@@ -1,1 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Central Hinds vs Otago Sparks" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="114514" group-title="Dream11 Women's Super Smash, 2024-25",Central Hinds vs Otago Sparks
+https://dai.google.com/linear/hls/event/U2vR4An-SqiHJQwht-PANg/master.m3u8
+#EXTINF:-1 tvg-name="Tasmania Women vs Queensland Fire" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109400_4508_QLF_TASW_fc-web.jpg" tvg-id="109400" group-title="WNCL, 2024-25",Tasmania Women vs Queensland Fire
+https://dai.google.com/linear/hls/event/zciN4WrcTwawgFEmOZ4WBw/master.m3u8
+#EXTINF:-1 tvg-name="Victoria Women vs ACT Meteors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109399_4508_ACTM_VCTW_fc-web.jpg" tvg-id="109399" group-title="WNCL, 2024-25",Victoria Women vs ACT Meteors
+https://dai.google.com/linear/hls/event/mZyf96d5QxCxnubLnuu7Mw/master.m3u8
+#EXTINF:-1 tvg-name="New South Wales Breakers vs Western Australia Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109401_4508_WA-W_NSWB_fc-web.jpg" tvg-id="109401" group-title="WNCL, 2024-25",New South Wales Breakers vs Western Australia Women
+https://dai.google.com/linear/hls/event/ELb2QX0aRNafHpdx-mQd3A/master.m3u8
