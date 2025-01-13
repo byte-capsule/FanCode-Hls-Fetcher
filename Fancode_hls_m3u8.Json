@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 2,
-  "last_upaded": "13-01-2025 on 7:55:05 PM \ud83c\udf19",
+  "total_mathes": 3,
+  "last_upaded": "13-01-2025 on 8:22:20 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,6 +27,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KHTI@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/113367_4644_RAN_KHT_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/oxfm86SGT5CDkQe2GvGFbg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "DP World International League T20, 2025",
+      "match_id": 115955,
+      "match_name": "MI Emirates vs Dubai Capitals",
+      "team_1": "MI Emirates",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MIE@2x.png",
+      "team_2": "Dubai Capitals",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DCDP@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115955_4730_MIE_DC_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/OxFBHau0RwSWGmu6jaczlg/master.m3u8"
     }
   ]
 }
