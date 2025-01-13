@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Surrey Kings vs Surrey Risers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116303_4745_SKI_SRI_fc-Web.jpg" tvg-id="116303" group-title="Jamaica T10, 2025",Surrey Kings vs Surrey Risers
 https://dai.google.com/linear/hls/event/jGQzJ7idQqSVSHte6XS99A/master.m3u8
-#EXTINF:-1 tvg-name="Rangpur Riders vs Khulna Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113367_4644_RAN_KHT_fc-web.jpg" tvg-id="113367" group-title="Bangladesh Premier League, 2024-25",Rangpur Riders vs Khulna Tigers
-https://dai.google.com/linear/hls/event/oxfm86SGT5CDkQe2GvGFbg/master.m3u8
 #EXTINF:-1 tvg-name="MI Emirates vs Dubai Capitals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115955_4730_MIE_DC_fc-web.jpg" tvg-id="115955" group-title="DP World International League T20, 2025",MI Emirates vs Dubai Capitals
 https://dai.google.com/linear/hls/event/OxFBHau0RwSWGmu6jaczlg/master.m3u8
