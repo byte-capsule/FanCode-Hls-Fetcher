@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 2,
-  "last_upaded": "13-01-2025 on 0:53:08 PM \ud83c\udf1e",
+  "last_upaded": "13-01-2025 on 1:22:01 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -18,15 +18,15 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "PD Champions Trophy",
-      "match_id": 116749,
-      "match_name": "India vs England",
-      "team_1": "India",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IND@2x.png",
-      "team_2": "England",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/116749_4758_IND_ENG_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/DRKQOrMPSLilmPZK5hBbmw/master.m3u8"
+      "event_name": "Bangladesh Premier League, 2024-25",
+      "match_id": 113366,
+      "match_name": "Chittagong Kings vs Sylhet Strikers",
+      "team_1": "Chittagong Kings",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CTK@2x.png",
+      "team_2": "Sylhet Strikers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SYL@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113366_4644_CHK_SYL_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/_XOWDuuJT5KdiQSZJrSvyQ/master.m3u8"
     }
   ]
 }
