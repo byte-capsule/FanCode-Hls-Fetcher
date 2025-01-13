@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Pondicherry North XI vs Pondicherry West XI" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-1.png" tvg-id="116239" group-title="CAP Masters T10 Tournament, 2025",Pondicherry North XI vs Pondicherry West XI
+https://dai.google.com/linear/hls/event/z7Ny8dDHRjGjs_1uVCikXw/master.m3u8
 #EXTINF:-1 tvg-name="Pakistan PD vs Sri Lanka PD" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116750_4758_PAK_SL_fc-web.jpg" tvg-id="116750" group-title="PD Champions Trophy",Pakistan PD vs Sri Lanka PD
 https://dai.google.com/linear/hls/event/-Qk9CBcvR5WhXtE577C6dQ/master.m3u8
 #EXTINF:-1 tvg-name="Chittagong Kings vs Sylhet Strikers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113366_4644_CHK_SYL_fc-web.jpg" tvg-id="113366" group-title="Bangladesh Premier League, 2024-25",Chittagong Kings vs Sylhet Strikers
