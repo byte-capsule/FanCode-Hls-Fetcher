@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "13-01-2025 on 5:20:01 PM \ud83c\udf1e",
+  "total_mathes": 1,
+  "last_upaded": "13-01-2025 on 5:53:08 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,30 +15,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IAI@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/116761_4759_ROS_IAI_fc-Web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/8hFfBcJcQdSIt8vGHi4lcg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "CAP Masters T10 Tournament, 2025",
-      "match_id": 116239,
-      "match_name": "Pondicherry North XI vs Pondicherry West XI",
-      "team_1": "Pondicherry North XI",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR6@2x.png",
-      "team_2": "Pondicherry West XI",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR2@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-1.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/z7Ny8dDHRjGjs_1uVCikXw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Bangladesh Premier League, 2024-25",
-      "match_id": 113366,
-      "match_name": "Chittagong Kings vs Sylhet Strikers",
-      "team_1": "Chittagong Kings",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CTK@2x.png",
-      "team_2": "Sylhet Strikers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SYL@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113366_4644_CHK_SYL_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/_XOWDuuJT5KdiQSZJrSvyQ/master.m3u8"
     }
   ]
 }
