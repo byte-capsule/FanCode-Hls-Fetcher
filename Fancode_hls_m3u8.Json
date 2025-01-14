@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 3,
-  "last_upaded": "14-01-2025 on 4:41:25 PM \ud83c\udf1e",
+  "last_upaded": "14-01-2025 on 4:54:20 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -18,18 +18,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "MPL Player Development Program",
-      "match_id": 117004,
-      "match_name": "JK Super Strikers vs Cheetah Challengers",
-      "team_1": "JK Super Strikers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JSS@2x.png",
-      "team_2": "Cheetah Challengers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CCM@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/MP-Development-League_old.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/F3WBi1OTRBGrF70EImmneQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "Oman D50 League, 2025",
       "match_id": 116762,
       "match_name": "Renaissance Challengers vs Yalla Shabab Giants",
@@ -39,6 +27,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YSG@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/116762_4759_RNC_YSG_fc-Web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/cEPMViAiRr6UWIYhQBDKhw/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "A League 2024-25",
+      "match_id": 110969,
+      "match_name": "Perth Glory vs Western Sydney Wanderers",
+      "team_1": "Perth Glory",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PERTHGA@2x.png",
+      "team_2": "Western Sydney Wanderers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYWA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110969_4567_PG_SYW_fc-web_1728983127792.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/vPQzR_69RHWoyH0DkpwkxQ/master.m3u8"
     }
   ]
 }
