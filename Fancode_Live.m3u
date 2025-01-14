@@ -1,13 +1,15 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Gwalior Rudras vs Gwalior Kings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MP-Development-League_old.jpg" tvg-id="117003" group-title="MPL Player Development Program",Gwalior Rudras vs Gwalior Kings
+https://dai.google.com/linear/hls/event/ycBeqx-5QjidWPAyhKhVrQ/master.m3u8
+#EXTINF:-1 tvg-name="Otago Volts vs Wellington Firebirds" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114484_4676_WF_OV_fc-Web_1735207965606.jpg" tvg-id="114484" group-title="Dream11 Super Smash, 2024-25",Otago Volts vs Wellington Firebirds
+https://dai.google.com/linear/hls/event/e4nhMFS_SbuH1moQrSxadw/master.m3u8
 #EXTINF:-1 tvg-name="New South Wales Breakers vs Western Australia Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109404_4508_WA-W_NSWB_fc-web.jpg" tvg-id="109404" group-title="WNCL, 2024-25",New South Wales Breakers vs Western Australia Women
 https://dai.google.com/linear/hls/event/1FWe5EbfRMKnLLoVNvODUw/master.m3u8
 #EXTINF:-1 tvg-name="Queensland Fire vs Tasmania Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109403_4508_QLF_TASW_fc-web.jpg" tvg-id="109403" group-title="WNCL, 2024-25",Queensland Fire vs Tasmania Women
 https://dai.google.com/linear/hls/event/V2ZwEkzfTh6oeZ7yoSs-OQ/master.m3u8
 #EXTINF:-1 tvg-name="Victoria Women vs ACT Meteors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109402_4508_ACTM_VCTW_fc-web.jpg" tvg-id="109402" group-title="WNCL, 2024-25",Victoria Women vs ACT Meteors
 https://dai.google.com/linear/hls/event/xgwumWYYTdSGkx2z4uP5nQ/master.m3u8
-#EXTINF:-1 tvg-name="Otago Volts vs Wellington Firebirds" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114484_4676_WF_OV_fc-Web_1735207965606.jpg" tvg-id="114484" group-title="Dream11 Super Smash, 2024-25",Otago Volts vs Wellington Firebirds
-https://dai.google.com/linear/hls/event/e4nhMFS_SbuH1moQrSxadw/master.m3u8
-#EXTINF:-1 tvg-name="Gwalior Rudras vs Gwalior Kings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MP-Development-League_old.jpg" tvg-id="117003" group-title="MPL Player Development Program",Gwalior Rudras vs Gwalior Kings
-https://dai.google.com/linear/hls/event/ycBeqx-5QjidWPAyhKhVrQ/master.m3u8
 #EXTINF:-1 tvg-name="Sudur Paschim Province Women vs Gandaki Province Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="116776" group-title="Women's PM Cup, 2025",Sudur Paschim Province Women vs Gandaki Province Women
 https://dai.google.com/linear/hls/event/GDPbQSBuTm6Q0-BES6oQZw/master.m3u8
+#EXTINF:-1 tvg-name="Pondicherry North XI vs Pondicherry South XI" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-1.png" tvg-id="116242" group-title="CAP Masters T10 Tournament, 2025",Pondicherry North XI vs Pondicherry South XI
+https://dai.google.com/linear/hls/event/N43py2_1RXyT5lAIFffh3Q/master.m3u8
