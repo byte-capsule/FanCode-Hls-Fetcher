@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "14-01-2025 on 4:22:51 PM \ud83c\udf1e",
+  "total_mathes": 3,
+  "last_upaded": "14-01-2025 on 4:41:25 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,18 +27,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CCM@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/MP-Development-League_old.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/F3WBi1OTRBGrF70EImmneQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Women's PM Cup, 2025",
-      "match_id": 116777,
-      "match_name": "Armed Police Force Club Women vs Karnali Province Women",
-      "team_1": "Armed Police Force Club Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-APF@2x.png",
-      "team_2": "Karnali Province Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KPW@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/Ar4rjYpLSiW_ws-DI2pP2A/master.m3u8"
     },
     {
       "event_catagory": "cricket",
