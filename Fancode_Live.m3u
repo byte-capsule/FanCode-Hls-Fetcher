@@ -1,11 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Cornwall Warriors vs Middlesex Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116305_4745_CWA_MIT_fc-Web.jpg" tvg-id="116305" group-title="Jamaica T10, 2025",Cornwall Warriors vs Middlesex Titans
-https://dai.google.com/linear/hls/event/4GRZ2g3XSZSsmcd5IKOzkw/master.m3u8
 #EXTINF:-1 tvg-name="Salmiya Strikers vs Global Champs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115713_4721_GC_SAS_fc-web.jpg" tvg-id="115713" group-title="KCC T20 Challengers B League, 2024-25",Salmiya Strikers vs Global Champs
 https://dai.google.com/linear/hls/event/ktgfL57dRU2AGaE5xce9dw/master.m3u8
 #EXTINF:-1 tvg-name="Phonex vs Vyana Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-White-Ball-T20-old-Match-card.png" tvg-id="117036" group-title="BOX Office White Ball T20",Phonex vs Vyana Warriors
 https://dai.google.com/linear/hls/event/8lGD6i5SRay65-dl4m5vyQ/master.m3u8
 #EXTINF:-1 tvg-name="Yalla Shabab Giants vs Renaissance Challengers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116762_4759_RNC_YSG_fc-Web.jpg" tvg-id="116762" group-title="Oman D50 League, 2025",Yalla Shabab Giants vs Renaissance Challengers
 https://dai.google.com/linear/hls/event/cEPMViAiRr6UWIYhQBDKhw/master.m3u8
-#EXTINF:-1 tvg-name="Gulf Giants vs Desert Vipers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115956_4730_GG_DV_fc-web.jpg" tvg-id="115956" group-title="DP World International League T20, 2025",Gulf Giants vs Desert Vipers
-https://dai.google.com/linear/hls/event/1iTb50P9RDmYqUFtc35Rhw/master.m3u8
