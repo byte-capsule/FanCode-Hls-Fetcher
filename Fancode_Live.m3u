@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Mahe XI vs Pondicherry West XI" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-3.png" tvg-id="116247" group-title="CAP Masters T10 Tournament, 2025",Mahe XI vs Pondicherry West XI
-https://dai.google.com/linear/hls/event/Xn_ajVrpRBSTdrmYdc6ZQA/master.m3u8
 #EXTINF:-1 tvg-name="Auckland Aces vs Central Stags" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114485_4676_AA_CS_fc-Web_1735207964821.jpg" tvg-id="114485" group-title="Dream11 Super Smash, 2024-25",Auckland Aces vs Central Stags
 https://dai.google.com/linear/hls/event/T69kxpHlQoWNsvvfLT_bkA/master.m3u8
 #EXTINF:-1 tvg-name="Gwalior Rudras vs Gwalior Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MP-Development-League_old.jpg" tvg-id="117005" group-title="MPL Player Development Program",Gwalior Rudras vs Gwalior Warriors
@@ -9,3 +7,5 @@ https://dai.google.com/linear/hls/event/CtyU2Z0dQvCe4s6rb-65Pg/master.m3u8
 https://dai.google.com/linear/hls/event/PR9dLrRNTOaSBdic4CPY0A/master.m3u8
 #EXTINF:-1 tvg-name="Gandaki Province Women vs Armed Police Force Club Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="116778" group-title="Women's PM Cup, 2025",Gandaki Province Women vs Armed Police Force Club Women
 https://dai.google.com/linear/hls/event/k1Apv2-FRK67Ogt_hj4B2A/master.m3u8
+#EXTINF:-1 tvg-name="Wellington Phoenix vs Sydney FC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110970_4567_WEL_SYD_fc-web_1728983127895.jpg" tvg-id="110970" group-title="A League 2024-25",Wellington Phoenix vs Sydney FC
+https://dai.google.com/linear/hls/event/vs49TCUMQB6ckftUVzRsew/master.m3u8
