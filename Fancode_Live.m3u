@@ -1,11 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Karaikal XI vs Pondicherry South XI" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-2.png" tvg-id="116246" group-title="CAP Masters T10 Tournament, 2025",Karaikal XI vs Pondicherry South XI
 https://dai.google.com/linear/hls/event/C6NNZ7wgRVaad0C3j8JZOw/master.m3u8
-#EXTINF:-1 tvg-name="JK Super Strikers vs JK Maxx Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MP-Development-League_old.jpg" tvg-id="117006" group-title="MPL Player Development Program",JK Super Strikers vs JK Maxx Titans
-https://dai.google.com/linear/hls/event/dkDpsJtzQPWhMGDqCvx3fA/master.m3u8
 #EXTINF:-1 tvg-name="India PD vs Sri Lanka PD" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116752_4758_IND_SL_fc-web.jpg" tvg-id="116752" group-title="PD Champions Trophy",India PD vs Sri Lanka PD
 https://dai.google.com/linear/hls/event/264nUdU8RNWZFM13ZaViYQ/master.m3u8
 #EXTINF:-1 tvg-name="Sudur Paschim Province Women vs Lumbini Province Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="116779" group-title="Women's PM Cup, 2025",Sudur Paschim Province Women vs Lumbini Province Women
 https://dai.google.com/linear/hls/event/GwcO7NdrTqqzne4LhoKfTQ/master.m3u8
-#EXTINF:-1 tvg-name="Wellington Phoenix vs Sydney FC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110970_4567_WEL_SYD_fc-web_1728983127895.jpg" tvg-id="110970" group-title="A League 2024-25",Wellington Phoenix vs Sydney FC
-https://dai.google.com/linear/hls/event/vs49TCUMQB6ckftUVzRsew/master.m3u8
+#EXTINF:-1 tvg-name="JK Super Strikers vs JK Maxx Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MP-Development-League_old.jpg" tvg-id="117006" group-title="MPL Player Development Program",JK Super Strikers vs JK Maxx Titans
+https://dai.google.com/linear/hls/event/dkDpsJtzQPWhMGDqCvx3fA/master.m3u8
