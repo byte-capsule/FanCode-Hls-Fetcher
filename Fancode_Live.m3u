@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Pondicherry North XI vs Yanam XI" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-1.png" tvg-id="116245" group-title="CAP Masters T10 Tournament, 2025",Pondicherry North XI vs Yanam XI
+https://dai.google.com/linear/hls/event/stweGkvLSyedQSAU-T5N7Q/master.m3u8
 #EXTINF:-1 tvg-name="India PD vs Sri Lanka PD" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116752_4758_IND_SL_fc-web.jpg" tvg-id="116752" group-title="PD Champions Trophy",India PD vs Sri Lanka PD
 https://dai.google.com/linear/hls/event/264nUdU8RNWZFM13ZaViYQ/master.m3u8
 #EXTINF:-1 tvg-name="Sudur Paschim Province Women vs Lumbini Province Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="116779" group-title="Women's PM Cup, 2025",Sudur Paschim Province Women vs Lumbini Province Women
