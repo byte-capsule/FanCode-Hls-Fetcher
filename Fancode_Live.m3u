@@ -1,3 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Auckland Aces vs Central Stags" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114485_4676_AA_CS_fc-Web_1735207964821.jpg" tvg-id="114485" group-title="Dream11 Super Smash, 2024-25",Auckland Aces vs Central Stags
 https://dai.google.com/linear/hls/event/T69kxpHlQoWNsvvfLT_bkA/master.m3u8
+#EXTINF:-1 tvg-name="Gwalior Rudras vs Gwalior Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MP-Development-League_old.jpg" tvg-id="117005" group-title="MPL Player Development Program",Gwalior Rudras vs Gwalior Warriors
+https://dai.google.com/linear/hls/event/CtyU2Z0dQvCe4s6rb-65Pg/master.m3u8
+#EXTINF:-1 tvg-name="Pakistan PD vs England PD" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116751_4758_PAK_ENG_fc-web.jpg" tvg-id="116751" group-title="PD Champions Trophy",Pakistan PD vs England PD
+https://dai.google.com/linear/hls/event/PR9dLrRNTOaSBdic4CPY0A/master.m3u8
+#EXTINF:-1 tvg-name="Gandaki Province Women vs Armed Police Force Club Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="116778" group-title="Women's PM Cup, 2025",Gandaki Province Women vs Armed Police Force Club Women
+https://dai.google.com/linear/hls/event/k1Apv2-FRK67Ogt_hj4B2A/master.m3u8
