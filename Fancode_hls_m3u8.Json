@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "15-01-2025 on 5:18:19 PM \ud83c\udf1e",
+  "total_mathes": 3,
+  "last_upaded": "15-01-2025 on 5:38:33 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,18 +15,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROS@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/116763_4759_MAT_ROS_fc-Web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/ZTiNPRTjTkC4_TNI82pNVQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "CAP Masters T10 Tournament, 2025",
-      "match_id": 116245,
-      "match_name": "Pondicherry North XI vs Yanam XI",
-      "team_1": "Pondicherry North XI",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR6@2x.png",
-      "team_2": "Yanam XI",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR9@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-1.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/stweGkvLSyedQSAU-T5N7Q/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -49,7 +37,7 @@
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JSS@2x.png",
       "team_2": "JK Maxx Titans",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JKT@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/MP-Development-League_old.jpg",
+      "banner": false,
       "stream_link": "https://dai.google.com/linear/hls/event/dkDpsJtzQPWhMGDqCvx3fA/master.m3u8"
     }
   ]
