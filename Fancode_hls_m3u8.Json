@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "15-01-2025 on 11:38:58 PM \ud83c\udf19",
+  "total_mathes": 5,
+  "last_upaded": "15-01-2025 on 11:53:06 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -51,6 +51,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SWR@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/115957_4730_ADKR_SWR_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/0fyDODr2QrmqL-1eC7z1PQ/master.m3u8"
+    },
+    {
+      "event_catagory": "basketball",
+      "event_name": "EuroLeague 2024-25",
+      "match_id": 116261,
+      "match_name": "Zalgiris Kaunas vs Virtus Bologna",
+      "team_1": "Zalgiris Kaunas",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-ZALR@2x.png",
+      "team_2": "Virtus Bologna",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-ZANE@2x.png",
+      "banner": "https://www.fancode.com/aig/match/v1/116261_CASACARDS_APP.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/gKiGS9zDRfu1YaOX7biwAw/master.m3u8"
     }
   ]
 }
