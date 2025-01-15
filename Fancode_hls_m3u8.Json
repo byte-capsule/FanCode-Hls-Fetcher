@@ -2,20 +2,8 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 4,
-  "last_upaded": "15-01-2025 on 11:20:12 PM \ud83c\udf19",
+  "last_upaded": "15-01-2025 on 11:38:58 PM \ud83c\udf19",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Oman D50 League, 2025",
-      "match_id": 116763,
-      "match_name": "Majees Titans vs Royal Oman Stallions",
-      "team_1": "Majees Titans",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAJ@2x.png",
-      "team_2": "Royal Oman Stallions",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROS@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/116763_4759_MAT_ROS_fc-Web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/ZTiNPRTjTkC4_TNI82pNVQ/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Jamaica T10, 2025",
@@ -27,6 +15,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SKI@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/116307_4745_SRO_SKI_fc-Web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/sI3r38QmSNuTwCSRgply8Q/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "KCC T20 Challengers B League, 2024-25",
+      "match_id": 115714,
+      "match_name": "Lexus vs Karavali United",
+      "team_1": "Lexus",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LEX@2x.png",
+      "team_2": "Karavali United",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KARVL@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115714_4721_KUCC_LEX_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/Afb-ucCLTJCIp7dWpdD7eA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
