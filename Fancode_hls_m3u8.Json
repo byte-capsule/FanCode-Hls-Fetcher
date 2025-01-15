@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "15-01-2025 on 1:38:44 PM \ud83c\udf1e",
+  "total_mathes": 5,
+  "last_upaded": "15-01-2025 on 1:52:51 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,18 +15,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR4@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-2.png",
       "stream_link": "https://dai.google.com/linear/hls/event/C6NNZ7wgRVaad0C3j8JZOw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "MPL Player Development Program",
-      "match_id": 117005,
-      "match_name": "Gwalior Rudras vs Gwalior Warriors",
-      "team_1": "Gwalior Rudras",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GR@2x.png",
-      "team_2": "Gwalior Warriors",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR13@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/MP-Development-League_old.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/CtyU2Z0dQvCe4s6rb-65Pg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -56,11 +44,11 @@
       "event_catagory": "cricket",
       "event_name": "Women's PM Cup, 2025",
       "match_id": 116779,
-      "match_name": "Lumbini Province Women vs Sudur Paschim Province Women",
-      "team_1": "Lumbini Province Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LPW@2x.png",
-      "team_2": "Sudur Paschim Province Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SPP@2x.png",
+      "match_name": "Sudur Paschim Province Women vs Lumbini Province Women",
+      "team_1": "Sudur Paschim Province Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SPP@2x.png",
+      "team_2": "Lumbini Province Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LPW@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
       "stream_link": "https://dai.google.com/linear/hls/event/GwcO7NdrTqqzne4LhoKfTQ/master.m3u8"
     },
