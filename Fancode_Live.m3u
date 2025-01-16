@@ -1,7 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Yanam XI vs Mahe XI" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-2.png" tvg-id="116249" group-title="CAP Masters T10 Tournament, 2025",Yanam XI vs Mahe XI
 https://dai.google.com/linear/hls/event/v4ybF1LJT2W41ieN-PIryg/master.m3u8
-#EXTINF:-1 tvg-name="Gwalior Kings vs Gwalior Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MP-Development-League_old.jpg" tvg-id="117007" group-title="MPL Player Development Program",Gwalior Kings vs Gwalior Warriors
-https://dai.google.com/linear/hls/event/NRq4a-7TQSqwGz0yEpcyVw/master.m3u8
+#EXTINF:-1 tvg-name="Pakistan PD vs India PD" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116754_4758_PAK_IND_fc-web.jpg" tvg-id="116754" group-title="PD Champions Trophy",Pakistan PD vs India PD
+https://dai.google.com/linear/hls/event/3dshgqAFSZO1ExQ7-ofN_A/master.m3u8
+#EXTINF:-1 tvg-name="Cheetah Challengers vs JK Maxx Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MP-Development-League_old.jpg" tvg-id="117008" group-title="MPL Player Development Program",Cheetah Challengers vs JK Maxx Titans
+https://dai.google.com/linear/hls/event/_iAgTSfIQLyd7ndk8cBC2A/master.m3u8
+#EXTINF:-1 tvg-name="Dhaka Capitals vs Fortune Barishal" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113385_4644_FBA_DC_fc-web.jpg" tvg-id="113368" group-title="Bangladesh Premier League, 2024-25",Dhaka Capitals vs Fortune Barishal
+https://dai.google.com/linear/hls/event/3-4OuYHmTNSXhryhsXrpOw/master.m3u8
 #EXTINF:-1 tvg-name="Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hero-Dubai-Desert-Classic-old-Match-card.png" tvg-id="116850" group-title="Hero Dubai Desert Classic",Day 1
 https://dai.google.com/linear/hls/event/Uni46ZEiSGSBb7UplbUaHQ/master.m3u8
