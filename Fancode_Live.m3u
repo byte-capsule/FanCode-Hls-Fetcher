@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Middlesex United Stars vs Surrey Royals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116309_4745_UNS_SRO_fc-Web.jpg" tvg-id="116309" group-title="Jamaica T10, 2025",Middlesex United Stars vs Surrey Royals
+https://dai.google.com/linear/hls/event/WVJstXfxTjKGhDtCuGXJDw/master.m3u8
 #EXTINF:-1 tvg-name="Chittagong Kings vs Khulna Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113369_4644_KHT_CHK_fc-web.jpg" tvg-id="113369" group-title="Bangladesh Premier League, 2024-25",Chittagong Kings vs Khulna Tigers
 https://dai.google.com/linear/hls/event/RDuTz1o-QGCLfW-VCv5wOw/master.m3u8
 #EXTINF:-1 tvg-name="Starboys vs Vishal Brothers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-White-Ball-T20-old-Match-card.png" tvg-id="117039" group-title="BOX Office White Ball T20",Starboys vs Vishal Brothers
