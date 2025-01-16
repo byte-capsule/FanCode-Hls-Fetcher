@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Yanam XI vs Mahe XI" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-2.png" tvg-id="116249" group-title="CAP Masters T10 Tournament, 2025",Yanam XI vs Mahe XI
-https://dai.google.com/linear/hls/event/v4ybF1LJT2W41ieN-PIryg/master.m3u8
 #EXTINF:-1 tvg-name="Pakistan PD vs India PD" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116754_4758_PAK_IND_fc-web.jpg" tvg-id="116754" group-title="PD Champions Trophy",Pakistan PD vs India PD
 https://dai.google.com/linear/hls/event/3dshgqAFSZO1ExQ7-ofN_A/master.m3u8
 #EXTINF:-1 tvg-name="Cheetah Challengers vs JK Maxx Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MP-Development-League_old.jpg" tvg-id="117008" group-title="MPL Player Development Program",Cheetah Challengers vs JK Maxx Titans
