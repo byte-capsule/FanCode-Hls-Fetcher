@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "16-01-2025 on 7:31:06 PM \ud83c\udf19",
+  "total_mathes": 2,
+  "last_upaded": "16-01-2025 on 7:53:00 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,18 +27,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KHTI@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/113369_4644_KHT_CHK_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/RDuTz1o-QGCLfW-VCv5wOw/master.m3u8"
-    },
-    {
-      "event_catagory": "golf",
-      "event_name": "Hero Dubai Desert Classic",
-      "match_id": 116850,
-      "match_name": "Day 1",
-      "team_1": "Day 1",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-DDC@2x.png",
-      "team_2": "Emirates GC, Dubai, UAE",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Hero-Dubai-Desert-Classic-old-Match-card.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/Uni46ZEiSGSBb7UplbUaHQ/master.m3u8"
     }
   ]
 }
