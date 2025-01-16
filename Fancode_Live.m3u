@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Vishal Brothers vs Avenida Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-Hundred-Ball-TV-old-Match-card-.png" tvg-id="117041" group-title="BOX Office Hundred Ball",Vishal Brothers vs Avenida Titans
+https://dai.google.com/linear/hls/event/YmPZXQALSVOdiVtYE4A0sw/master.m3u8
 #EXTINF:-1 tvg-name="Pondicherry West XI vs Pondicherry South XI" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-3.png" tvg-id="116250" group-title="CAP Masters T10 Tournament, 2025",Pondicherry West XI vs Pondicherry South XI
 https://d2xnz9ylwd2kx0.cloudfront.net/out/v1/eb9f9bea455b4c4fa091c9e61c6a9dd5/index.m3u8
 #EXTINF:-1 tvg-name="Pakistan PD vs India PD" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116754_4758_PAK_IND_fc-web.jpg" tvg-id="116754" group-title="PD Champions Trophy",Pakistan PD vs India PD
