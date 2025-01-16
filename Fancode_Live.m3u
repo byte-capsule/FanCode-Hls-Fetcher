@@ -1,9 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Middlesex United Stars vs Surrey Royals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116309_4745_UNS_SRO_fc-Web.jpg" tvg-id="116309" group-title="Jamaica T10, 2025",Middlesex United Stars vs Surrey Royals
 https://dai.google.com/linear/hls/event/WVJstXfxTjKGhDtCuGXJDw/master.m3u8
-#EXTINF:-1 tvg-name="Chittagong Kings vs Khulna Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113369_4644_KHT_CHK_fc-web.jpg" tvg-id="113369" group-title="Bangladesh Premier League, 2024-25",Chittagong Kings vs Khulna Tigers
-https://dai.google.com/linear/hls/event/RDuTz1o-QGCLfW-VCv5wOw/master.m3u8
+#EXTINF:-1 tvg-name="Royal Lions CC vs Team TGS" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115715_4721_RLC_TGS_fc-web.jpg" tvg-id="115715" group-title="KCC T20 Challengers B League, 2024-25",Royal Lions CC vs Team TGS
+https://dai.google.com/linear/hls/event/AxG3nuLKRhqk_dR_yki4Ig/master.m3u8
 #EXTINF:-1 tvg-name="Starboys vs Vishal Brothers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-White-Ball-T20-old-Match-card.png" tvg-id="117039" group-title="BOX Office White Ball T20",Starboys vs Vishal Brothers
 https://dai.google.com/linear/hls/event/eNzn1H7SSfm7zfgTBdL2OA/master.m3u8
 #EXTINF:-1 tvg-name="MI Emirates vs Desert Vipers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115958_4730_DV_MIE_fc-web.jpg" tvg-id="115958" group-title="DP World International League T20, 2025",MI Emirates vs Desert Vipers
 https://dai.google.com/linear/hls/event/lvfUbfPwSxmhYlCMenTgQw/master.m3u8
+#EXTINF:-1 tvg-name="Feed B - Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/American_Express_golf_2025_Match_Card_Old_matchcard_2_1737009689566.jpg" tvg-id="116948" group-title="The American Express",Feed B - Day 1
+https://dai.google.com/linear/hls/event/qM1zJsXuQoS7DNpl04TxJA/master.m3u8
