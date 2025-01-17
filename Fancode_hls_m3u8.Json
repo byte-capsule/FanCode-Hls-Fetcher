@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "17-01-2025 on 8:40:08 PM \ud83c\udf19",
+  "total_mathes": 6,
+  "last_upaded": "17-01-2025 on 8:53:10 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,18 +27,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CTK@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/113371_4644_RAN_CHK_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/8-Il6CF-QCicGQn5fAeNeQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "BOX Office T20 Test Pink Ball",
-      "match_id": 117033,
-      "match_name": "Avenida Titans vs Team Krishshil",
-      "team_1": "Avenida Titans",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ATS@2x.png",
-      "team_2": "Team Krishshil",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TKB@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-T20-Test-Pink-Ball-old-Match-card--.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/zVH2ocIMSuq7BqY0YkZILQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
