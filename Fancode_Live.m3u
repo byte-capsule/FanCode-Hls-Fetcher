@@ -1,11 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Avenida Titans vs Team Krishshil" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-T20-Test-Pink-Ball-old-Match-card--.png" tvg-id="117033" group-title="BOX Office T20 Test Pink Ball",Avenida Titans vs Team Krishshil
-https://dai.google.com/linear/hls/event/zVH2ocIMSuq7BqY0YkZILQ/master.m3u8
 #EXTINF:-1 tvg-name="Rangpur Riders vs Chittagong Kings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113371_4644_RAN_CHK_fc-web.jpg" tvg-id="113371" group-title="Bangladesh Premier League, 2024-25",Rangpur Riders vs Chittagong Kings
 https://dai.google.com/linear/hls/event/8-Il6CF-QCicGQn5fAeNeQ/master.m3u8
+#EXTINF:-1 tvg-name="Avenida Titans vs Team Krishshil" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-T20-Test-Pink-Ball-old-Match-card--.png" tvg-id="117033" group-title="BOX Office T20 Test Pink Ball",Avenida Titans vs Team Krishshil
+https://dai.google.com/linear/hls/event/zVH2ocIMSuq7BqY0YkZILQ/master.m3u8
 #EXTINF:-1 tvg-name="Pakistan vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-Tour-of-Pakistan-test--old-match-card.png" tvg-id="116279" group-title="West Indies tour of Pakistan, 2025",Pakistan vs West Indies
 https://dai.google.com/linear/hls/event/wpxckJ8VTuygM_ysTfVF7A/master.m3u8
 #EXTINF:-1 tvg-name="Muscat Thunders vs Renaissance Challengers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116764_4759_MUT_RNC_fc-Web.jpg" tvg-id="116764" group-title="Oman D50 League, 2025",Muscat Thunders vs Renaissance Challengers
 https://dai.google.com/linear/hls/event/kh1491RGQACA5Fi47Xz_aA/master.m3u8
-#EXTINF:-1 tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hero-Dubai-Desert-Classic-old-Match-card-op-2-(1)_1736509613633.png" tvg-id="116851" group-title="Hero Dubai Desert Classic",Day 2
-https://dai.google.com/linear/hls/event/kVClaM_jRr6AKbVPZVVSIQ/master.m3u8
