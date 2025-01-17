@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 7,
-  "last_upaded": "17-01-2025 on 4:22:33 PM \ud83c\udf1e",
+  "last_upaded": "17-01-2025 on 4:41:45 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -30,6 +30,18 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "Oman D50 League, 2025",
+      "match_id": 116764,
+      "match_name": "Muscat Thunders vs Renaissance Challengers",
+      "team_1": "Muscat Thunders",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MSCT@2x.png",
+      "team_2": "Renaissance Challengers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RNC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/116764_4759_MUT_RNC_fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/kh1491RGQACA5Fi47Xz_aA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "Bangladesh Premier League, 2024-25",
       "match_id": 113370,
       "match_name": "Durbar Rajshahi vs Sylhet Strikers",
@@ -54,27 +66,15 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Oman D50 League, 2025",
-      "match_id": 116764,
-      "match_name": "Muscat Thunders vs Renaissance Challengers",
-      "team_1": "Muscat Thunders",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MSCT@2x.png",
-      "team_2": "Renaissance Challengers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RNC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/116764_4759_MUT_RNC_fc-Web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/kh1491RGQACA5Fi47Xz_aA/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "A League 2024-25",
-      "match_id": 110974,
-      "match_name": "Western Sydney Wanderers vs Central Coast Mariners",
-      "team_1": "Western Sydney Wanderers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYWA@2x.png",
-      "team_2": "Central Coast Mariners",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CENTA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110974_4567_SYW_CCM_fc-web_1728983129001.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/JM4AwOPdR_WssEObJwYi4Q/master.m3u8"
+      "event_name": "BOX Office T20 Test Pink Ball",
+      "match_id": 117033,
+      "match_name": "Avenida Titans vs Team Krishshil",
+      "team_1": "Avenida Titans",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ATS@2x.png",
+      "team_2": "Team Krishshil",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TKB@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-T20-Test-Pink-Ball-old-Match-card--.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/zVH2ocIMSuq7BqY0YkZILQ/master.m3u8"
     },
     {
       "event_catagory": "golf",
