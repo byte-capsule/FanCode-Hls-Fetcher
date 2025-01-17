@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "17-01-2025 on 3:23:26 PM \ud83c\udf1e",
+  "total_mathes": 4,
+  "last_upaded": "17-01-2025 on 3:39:07 PM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Guwahati Sixes Tournament, 2025",
-      "match_id": 117017,
-      "match_name": "New Star Club vs Sath Gaon Club",
-      "team_1": "New Star Club",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSCB@2x.png",
-      "team_2": "Sath Gaon Club",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SGC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/117017_4767_SGC_NSC_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/uodRDLB1R9iq7WTPYjalPw/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Bangladesh Premier League, 2024-25",
@@ -49,7 +37,7 @@
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYWA@2x.png",
       "team_2": "Central Coast Mariners",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CENTA@2x.png",
-      "banner": false,
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110974_4567_SYW_CCM_fc-web_1728983129001.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/JM4AwOPdR_WssEObJwYi4Q/master.m3u8"
     },
     {
