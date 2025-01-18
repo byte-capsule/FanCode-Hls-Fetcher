@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "18-01-2025 on 09:53:13 AM \ud83c\udf1e",
+  "total_mathes": 5,
+  "last_upaded": "18-01-2025 on 10:24:32 AM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -30,18 +30,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Guwahati Sixes Tournament, 2025",
-      "match_id": 117019,
-      "match_name": "Super Striker vs Legend Sporting Club",
-      "team_1": "Super Striker",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SPSS@2x.png",
-      "team_2": "Legend Sporting Club",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LSC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/117019_4767_SPS_LSC_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/z5b_umADSn6gSsGyFiaSAA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "PD Champions Trophy",
       "match_id": 116755,
       "match_name": "India PD vs England PD",
@@ -51,6 +39,30 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/116755_4758_IND_ENG_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/ZmOlFI8_SoCD8qZROqyNiw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Guwahati Sixes Tournament, 2025",
+      "match_id": 117020,
+      "match_name": "Kalki vs 91 Yards Club",
+      "team_1": "Kalki",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KLK@2x.png",
+      "team_2": "91 Yards Club",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NYC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/117020_4767_KLK_NYC_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/HTZeVpZCSPOgzNodwbVwtA/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "A League 2024-25",
+      "match_id": 110975,
+      "match_name": "Auckland vs Melbourne City",
+      "team_1": "Auckland",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AUCK@2x.png",
+      "team_2": "Melbourne City",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLCA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110975_4567_AFC_MLC_fc-web_1728983128197.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/bBnpPMKBRa2SktBBZD7wYw/master.m3u8"
     }
   ]
 }
