@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Pakistan vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-Tour-of-Pakistan-test--old-match-card.png" tvg-id="116279" group-title="West Indies tour of Pakistan, 2025",Pakistan vs West Indies
-https://dai.google.com/linear/hls/event/wpxckJ8VTuygM_ysTfVF7A/master.m3u8
 #EXTINF:-1 tvg-name="Wellington Firebirds vs Otago Volts" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114488_4676_OV_WF_fc-Web_1735207965550.jpg" tvg-id="114488" group-title="Dream11 Super Smash, 2024-25",Wellington Firebirds vs Otago Volts
 https://dai.google.com/linear/hls/event/DoU37sl1SW2NzO6wYHdLIw/master.m3u8
+#EXTINF:-1 tvg-name="Pakistan vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-Tour-of-Pakistan-test--old-match-card.png" tvg-id="116279" group-title="West Indies tour of Pakistan, 2025",Pakistan vs West Indies
+https://dai.google.com/linear/hls/event/wpxckJ8VTuygM_ysTfVF7A/master.m3u8
