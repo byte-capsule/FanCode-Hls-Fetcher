@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Middlesex Titans vs Surrey Risers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116313_4745_SRI_MIT_fc-Web.jpg" tvg-id="116313" group-title="Jamaica T10, 2025",Middlesex Titans vs Surrey Risers
-https://dai.google.com/linear/hls/event/67DOmCFFRTeVG4lqGdrKZg/master.m3u8
 #EXTINF:-1 tvg-name="Phoenix Cricketers vs Team TGS" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115721_4721_PCT_TGS_fc-web.jpg" tvg-id="115721" group-title="KCC T20 Challengers B League, 2024-25",Phoenix Cricketers vs Team TGS
 https://dai.google.com/linear/hls/event/sCsCGs-nSJe1eBzkGoTXEw/master.m3u8
 #EXTINF:-1 tvg-name="Pakistan vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-Tour-of-Pakistan-test--old-match-card.png" tvg-id="116279" group-title="West Indies tour of Pakistan, 2025",Pakistan vs West Indies
 https://dai.google.com/linear/hls/event/wpxckJ8VTuygM_ysTfVF7A/master.m3u8
-#EXTINF:-1 tvg-name="Royal Oman Stallions vs Yalla Shabab Giants" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116765_4759_ROS_YSG_fc-Web.jpg" tvg-id="116765" group-title="Oman D50 League, 2025",Royal Oman Stallions vs Yalla Shabab Giants
-https://dai.google.com/linear/hls/event/YGUx3UftSSetepRY8eYptg/master.m3u8
 #EXTINF:-1 tvg-name="Feed B - Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/American_Express_golf_2025_Match_Card_Old_matchcard_4_1737010949061.jpg" tvg-id="116965" group-title="The American Express",Feed B - Day 3
 https://dai.google.com/linear/hls/event/CQTzm-APQH2nVuTrakZAxw/master.m3u8
 #EXTINF:-1 tvg-name="Feed E - Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/American_Express_golf_2025_Match_Card_Old_matchcard_2_1737010949029.jpg" tvg-id="116968" group-title="The American Express",Feed E - Day 3
