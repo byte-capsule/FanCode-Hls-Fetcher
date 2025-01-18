@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="New Star Club vs Gauhati Town Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117021_4767_NSC_GTC_fc-web.jpg" tvg-id="117021" group-title="Guwahati Sixes Tournament, 2025",New Star Club vs Gauhati Town Club
-https://dai.google.com/linear/hls/event/_JARYzXyQmSwqaa9TSbudw/master.m3u8
 #EXTINF:-1 tvg-name="Pakistan vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-Tour-of-Pakistan-test--old-match-card.png" tvg-id="116279" group-title="West Indies tour of Pakistan, 2025",Pakistan vs West Indies
 https://dai.google.com/linear/hls/event/wpxckJ8VTuygM_ysTfVF7A/master.m3u8
 #EXTINF:-1 tvg-name="India PD vs England PD" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116755_4758_IND_ENG_fc-web.jpg" tvg-id="116755" group-title="PD Champions Trophy",India PD vs England PD
