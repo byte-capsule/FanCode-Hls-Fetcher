@@ -1,8 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Icon Cricket Academy vs 91 Yards Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117024_4767_NYC_IKD_fc-web.jpg" tvg-id="117024" group-title="Guwahati Sixes Tournament, 2025",Icon Cricket Academy vs 91 Yards Club
+https://dai.google.com/linear/hls/event/62GfswsvRi6QpSFYHVlfDA/master.m3u8
 #EXTINF:-1 tvg-name="Pakistan PD vs Sri Lanka PD" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116756_4758_PAK_SL_fc-web.jpg" tvg-id="116756" group-title="PD Champions Trophy",Pakistan PD vs Sri Lanka PD
 https://dai.google.com/linear/hls/event/N96nA7hCQ266pRrfNK3ERg/master.m3u8
 #EXTINF:-1 tvg-name="Pakistan vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-Tour-of-Pakistan-test--old-match-card.png" tvg-id="116279" group-title="West Indies tour of Pakistan, 2025",Pakistan vs West Indies
 https://dai.google.com/linear/hls/event/wpxckJ8VTuygM_ysTfVF7A/master.m3u8
+#EXTINF:-1 tvg-name="Desert Vipers vs Abu Dhabi Knight Riders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115960_4730_DV_ADKR_fc-web.jpg" tvg-id="115960" group-title="DP World International League T20, 2025",Desert Vipers vs Abu Dhabi Knight Riders
+https://dai.google.com/linear/hls/event/O9euLXnVRnOL_NlnHhJQfQ/master.m3u8
 #EXTINF:-1 tvg-name="Adelaide United vs Melbourne Victory" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110978_4567_ADL_MLV_fc-web_1728983127948.jpg" tvg-id="110978" group-title="A League 2024-25",Adelaide United vs Melbourne Victory
 https://dai.google.com/linear/hls/event/dJqLjNOhQ76hLRvwCm1PdA/master.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hero-Dubai-Desert-Classic-old-Match-card.png" tvg-id="116852" group-title="Hero Dubai Desert Classic",Day 3
