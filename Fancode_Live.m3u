@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="91 Yards Club vs Cricket Club of Dibrugarh" tvg-logo="https://www.fancode.com/aig/match/v1/117027_CASACARDS_APP.png" tvg-id="117027" group-title="Guwahati Sixes Tournament, 2025",91 Yards Club vs Cricket Club of Dibrugarh
-https://dai.google.com/linear/hls/event/_Aj4ee1KQAK6M9qmGYGzVw/master.m3u8
-#EXTINF:-1 tvg-name="Canterbury vs Northern Districts" tvg-logo="https://www.fancode.com/aig/match/v1/114489_CASACARDS_APP.png" tvg-id="114489" group-title="Dream11 Super Smash, 2024-25",Canterbury vs Northern Districts
-https://dai.google.com/linear/hls/event/4EwmshvSRA-UDP0PXDSWNQ/master.m3u8
 #EXTINF:-1 tvg-name="Pakistan vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-Tour-of-Pakistan-test--old-match-card.png" tvg-id="116279" group-title="West Indies tour of Pakistan, 2025",Pakistan vs West Indies
 https://dai.google.com/linear/hls/event/wpxckJ8VTuygM_ysTfVF7A/master.m3u8
 #EXTINF:-1 tvg-name="Pakistan PD vs England PD" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116757_4758_PAK_ENG_fc-web.jpg" tvg-id="116757" group-title="PD Champions Trophy",Pakistan PD vs England PD
 https://dai.google.com/linear/hls/event/oW4ZOkJETAq8SpxQ_vfuxg/master.m3u8
+#EXTINF:-1 tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hero-Dubai-Desert-Classic-old-Match-card-op-2-(1)_1736509613633.png" tvg-id="116853" group-title="Hero Dubai Desert Classic",Day 4
+https://dai.google.com/linear/hls/event/warU6qCTThOHel7jYr-2vA/master.m3u8
