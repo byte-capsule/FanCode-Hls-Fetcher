@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Cornwall Warriors vs Surrey Kings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116315_4745_SKI_CWA_fc-Web.jpg" tvg-id="116315" group-title="Jamaica T10, 2025",Cornwall Warriors vs Surrey Kings
 https://dai.google.com/linear/hls/event/71_q1RcTSGyXyfGOSJjw-g/master.m3u8
+#EXTINF:-1 tvg-name="Salmiya Strikers vs YSSC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115722_4721_SAS_YSS_fc-web.jpg" tvg-id="115722" group-title="KCC T20 Challengers B League, 2024-25",Salmiya Strikers vs YSSC
+https://dai.google.com/linear/hls/event/r9X7-0ZkQl2ycVz2i0qj_A/master.m3u8
 #EXTINF:-1 tvg-name="Abu Dhabi Knight Riders vs Gulf Giants" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115963_4730_GG_ADKR_fc-web.jpg" tvg-id="115963" group-title="DP World International League T20, 2025",Abu Dhabi Knight Riders vs Gulf Giants
 https://dai.google.com/linear/hls/event/GeMduUDlRLmLsUnpp5-ZtQ/master.m3u8
 #EXTINF:-1 tvg-name="Feed B - Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/American_Express_golf_2025_Match_Card_Old_matchcard_1737010949057.jpg" tvg-id="116971" group-title="The American Express",Feed B - Day 4
