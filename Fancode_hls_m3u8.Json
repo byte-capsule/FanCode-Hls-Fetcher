@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "19-01-2025 on 1:20:02 PM \ud83c\udf1e",
+  "total_mathes": 3,
+  "last_upaded": "19-01-2025 on 1:38:13 PM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Guwahati Sixes Tournament, 2025",
-      "match_id": 117028,
-      "match_name": "Red River Blue Hill vs New Star Club",
-      "team_1": "Red River Blue Hill",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RBH@2x.png",
-      "team_2": "New Star Club",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSCB@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/117028_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/i2LEbNJRS0OOetQ1vrc2CQ/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "West Indies tour of Pakistan, 2025",
@@ -30,15 +18,15 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "PD Champions Trophy",
-      "match_id": 116757,
-      "match_name": "Pakistan PD vs England PD",
-      "team_1": "Pakistan PD",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png",
-      "team_2": "England PD",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/116757_4758_PAK_ENG_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/oW4ZOkJETAq8SpxQ_vfuxg/master.m3u8"
+      "event_name": "Bangladesh Premier League, 2024-25",
+      "match_id": 113372,
+      "match_name": "Chittagong Kings vs Fortune Barishal",
+      "team_1": "Chittagong Kings",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CTK@2x.png",
+      "team_2": "Fortune Barishal",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FBAA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113372_4644_FBA_CHK_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/BhSFnc1wTxix-lCeAWqhBg/master.m3u8"
     },
     {
       "event_catagory": "golf",
