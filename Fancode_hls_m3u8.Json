@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "19-01-2025 on 4:53:13 PM \ud83c\udf1e",
+  "total_mathes": 4,
+  "last_upaded": "19-01-2025 on 5:15:56 PM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Guwahati Sixes Tournament, 2025",
-      "match_id": 117030,
-      "match_name": "91 Yards Club vs New Star Club",
-      "team_1": "91 Yards Club",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NYC@2x.png",
-      "team_2": "New Star Club",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSCB@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/117030_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/nVojRhdgTW2Pe6c443Y-2g/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "PD Champions Trophy",
@@ -27,18 +15,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/116758_4758_IND_SL_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/aQw3X1tnSnWivZrDcW3E_w/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Bangladesh Premier League, 2024-25",
-      "match_id": 113372,
-      "match_name": "Chittagong Kings vs Fortune Barishal",
-      "team_1": "Chittagong Kings",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CTK@2x.png",
-      "team_2": "Fortune Barishal",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FBAA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113372_4644_FBA_CHK_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/BhSFnc1wTxix-lCeAWqhBg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
