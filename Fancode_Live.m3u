@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Khulna Tigers vs Durbar Rajshahi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113373_4644_DBR_KHT_fc-web.jpg" tvg-id="113373" group-title="Bangladesh Premier League, 2024-25",Khulna Tigers vs Durbar Rajshahi
 https://dai.google.com/linear/hls/event/1x4Lk2OBTf2pLH3c6iilqQ/master.m3u8
-#EXTINF:-1 tvg-name="IAS Invincibles vs Muscat Thunders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116766_4759_IAI_MUT_fc-Web.jpg" tvg-id="116766" group-title="Oman D50 League, 2025",IAS Invincibles vs Muscat Thunders
-https://dai.google.com/linear/hls/event/USkCK6TcQfO1ELRAgO__4g/master.m3u8
 #EXTINF:-1 tvg-name="Abu Dhabi Knight Riders vs Gulf Giants" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115963_4730_GG_ADKR_fc-web.jpg" tvg-id="115963" group-title="DP World International League T20, 2025",Abu Dhabi Knight Riders vs Gulf Giants
 https://dai.google.com/linear/hls/event/GeMduUDlRLmLsUnpp5-ZtQ/master.m3u8
+#EXTINF:-1 tvg-name="IAS Invincibles vs Muscat Thunders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116766_4759_IAI_MUT_fc-Web.jpg" tvg-id="116766" group-title="Oman D50 League, 2025",IAS Invincibles vs Muscat Thunders
+https://dai.google.com/linear/hls/event/USkCK6TcQfO1ELRAgO__4g/master.m3u8
