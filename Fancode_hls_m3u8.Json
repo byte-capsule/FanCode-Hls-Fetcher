@@ -2,8 +2,20 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 3,
-  "last_upaded": "19-01-2025 on 09:25:30 AM \ud83c\udf1e",
+  "last_upaded": "19-01-2025 on 09:41:18 AM \ud83c\udf1e",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "Dream11 Super Smash, 2024-25",
+      "match_id": 114489,
+      "match_name": "Canterbury vs Northern Districts",
+      "team_1": "Canterbury",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KING@2x.png",
+      "team_2": "Northern Districts",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NB-W-CR1@2x.png",
+      "banner": "https://www.fancode.com/aig/match/v1/114489_CASACARDS_APP.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/4EwmshvSRA-UDP0PXDSWNQ/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "West Indies tour of Pakistan, 2025",
@@ -27,18 +39,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SGH@2x.png",
       "banner": "https://www.fancode.com/aig/match/v1/117025_CASACARDS_APP.png",
       "stream_link": "https://dai.google.com/linear/hls/event/KXEEjK-0QwSKIHZNlWvPGQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Dream11 Super Smash, 2024-25",
-      "match_id": 114489,
-      "match_name": "Canterbury vs Northern Districts",
-      "team_1": "Canterbury",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KING@2x.png",
-      "team_2": "Northern Districts",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NB-W-CR1@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/114489_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/4EwmshvSRA-UDP0PXDSWNQ/master.m3u8"
     }
   ]
 }
