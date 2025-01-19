@@ -1,7 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Super Striker vs Gauhati Town Club" tvg-logo="https://www.fancode.com/aig/match/v1/117031_CASACARDS_APP.png" tvg-id="117031" group-title="Guwahati Sixes Tournament, 2025",Super Striker vs Gauhati Town Club
+https://dai.google.com/linear/hls/event/Ar4iDMMjQvKmwFqH0GwIcQ/master.m3u8
+#EXTINF:-1 tvg-name="Khulna Tigers vs Durbar Rajshahi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113373_4644_DBR_KHT_fc-web.jpg" tvg-id="113373" group-title="Bangladesh Premier League, 2024-25",Khulna Tigers vs Durbar Rajshahi
+https://dai.google.com/linear/hls/event/1x4Lk2OBTf2pLH3c6iilqQ/master.m3u8
 #EXTINF:-1 tvg-name="IAS Invincibles vs Muscat Thunders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116766_4759_IAI_MUT_fc-Web.jpg" tvg-id="116766" group-title="Oman D50 League, 2025",IAS Invincibles vs Muscat Thunders
 https://dai.google.com/linear/hls/event/USkCK6TcQfO1ELRAgO__4g/master.m3u8
 #EXTINF:-1 tvg-name="Sharjah Warriorz vs MI Emirates" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115962_4730_SWR_MIE_fc-web.jpg" tvg-id="115962" group-title="DP World International League T20, 2025",Sharjah Warriorz vs MI Emirates
 https://dai.google.com/linear/hls/event/auhief7yTmqrmT4ZCJC7Ew/master.m3u8
+#EXTINF:-1 tvg-name="Leeds United vs Sheffield Wednesday" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116542_4352_LU_SHFF_fc-web.jpg" tvg-id="116542" group-title="EFL Championship 2024-25",Leeds United vs Sheffield Wednesday
+https://dai.google.com/linear/hls/event/Lzeo1J7FRKam4A9YtiWBQQ/master.m3u8
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hero-Dubai-Desert-Classic-old-Match-card-op-2-(1)_1736509613633.png" tvg-id="116853" group-title="Hero Dubai Desert Classic",Day 4
 https://dai.google.com/linear/hls/event/warU6qCTThOHel7jYr-2vA/master.m3u8
