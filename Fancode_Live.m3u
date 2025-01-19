@@ -1,9 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Pakistan PD vs England PD" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116757_4758_PAK_ENG_fc-web.jpg" tvg-id="116757" group-title="PD Champions Trophy",Pakistan PD vs England PD
+https://dai.google.com/linear/hls/event/oW4ZOkJETAq8SpxQ_vfuxg/master.m3u8
 #EXTINF:-1 tvg-name="Canterbury vs Northern Districts" tvg-logo="https://www.fancode.com/aig/match/v1/114489_CASACARDS_APP.png" tvg-id="114489" group-title="Dream11 Super Smash, 2024-25",Canterbury vs Northern Districts
 https://dai.google.com/linear/hls/event/4EwmshvSRA-UDP0PXDSWNQ/master.m3u8
 #EXTINF:-1 tvg-name="Pakistan vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-Tour-of-Pakistan-test--old-match-card.png" tvg-id="116279" group-title="West Indies tour of Pakistan, 2025",Pakistan vs West Indies
 https://dai.google.com/linear/hls/event/wpxckJ8VTuygM_ysTfVF7A/master.m3u8
-#EXTINF:-1 tvg-name="Gauhati Town Club vs Saraighat Hundai" tvg-logo="https://www.fancode.com/aig/match/v1/117025_CASACARDS_APP.png" tvg-id="117025" group-title="Guwahati Sixes Tournament, 2025",Gauhati Town Club vs Saraighat Hundai
-https://dai.google.com/linear/hls/event/KXEEjK-0QwSKIHZNlWvPGQ/master.m3u8
-#EXTINF:-1 tvg-name="Pakistan PD vs England PD" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116757_4758_PAK_ENG_fc-web.jpg" tvg-id="116757" group-title="PD Champions Trophy",Pakistan PD vs England PD
-https://dai.google.com/linear/hls/event/oW4ZOkJETAq8SpxQ_vfuxg/master.m3u8
+#EXTINF:-1 tvg-name="Super Striker vs Kalki" tvg-logo="https://www.fancode.com/aig/match/v1/117026_CASACARDS_APP.png" tvg-id="117026" group-title="Guwahati Sixes Tournament, 2025",Super Striker vs Kalki
+https://dai.google.com/linear/hls/event/1Yf0qRlJRFOy2e-_vAjYfQ/master.m3u8
