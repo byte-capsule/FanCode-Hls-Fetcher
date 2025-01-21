@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Karavali United vs Al-Rashed Shipping Co" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115724_4721_ARI_KUCC_fc-web.jpg" tvg-id="115724" group-title="KCC T20 Challengers B League, 2024-25",Karavali United vs Al-Rashed Shipping Co
 https://dai.google.com/linear/hls/event/J2OrWoc8QEGyHS1sfKSudw/master.m3u8
-#EXTINF:-1 tvg-name="Middlesex Titans vs Surrey Royals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116319_4745_SRO_MIT_fc-Web.jpg" tvg-id="116319" group-title="Jamaica T10, 2025",Middlesex Titans vs Surrey Royals
-https://dai.google.com/linear/hls/event/NCR72dkfRwCUKlvlIwdVRw/master.m3u8
 #EXTINF:-1 tvg-name="MI Emirates vs Abu Dhabi Knight Riders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115965_4730_ADKR_MIE_fc-web.jpg" tvg-id="115965" group-title="DP World International League T20, 2025",MI Emirates vs Abu Dhabi Knight Riders
 https://dai.google.com/linear/hls/event/COhbk-wtRL6hUFLoeKNFiw/master.m3u8
+#EXTINF:-1 tvg-name="Bangladesh Women vs West Indies Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-Women's-tour-of-West-Indies-2025-old-match-card.png" tvg-id="116649" group-title="Bangladesh Women tour of West Indies, 2025",Bangladesh Women vs West Indies Women
+https://dai.google.com/linear/hls/event/vH2EYclBSDu7puBRvh2uZw/master.m3u8
