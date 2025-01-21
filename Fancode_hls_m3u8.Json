@@ -1,9 +1,21 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 2,
-  "last_upaded": "21-01-2025 on 11:20:04 PM \ud83c\udf19",
+  "total_mathes": 3,
+  "last_upaded": "21-01-2025 on 11:39:54 PM \ud83c\udf19",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "KCC T20 Challengers B League, 2024-25",
+      "match_id": 115724,
+      "match_name": "Karavali United vs Al-Rashed Shipping Co",
+      "team_1": "Karavali United",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KARVL@2x.png",
+      "team_2": "Al-Rashed Shipping Co",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ARI@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115724_4721_ARI_KUCC_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/J2OrWoc8QEGyHS1sfKSudw/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "Jamaica T10, 2025",
