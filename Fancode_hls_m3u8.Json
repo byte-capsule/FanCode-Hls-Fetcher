@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "22-01-2025 on 9:40:42 PM \ud83c\udf19",
+  "total_mathes": 4,
+  "last_upaded": "22-01-2025 on 9:53:57 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,6 +15,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DVDD@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/115966_4730_DV_SWR_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/cdxpRHGuS7urMLs53MfC0w/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Jamaica T10, 2025",
+      "match_id": 116321,
+      "match_name": "Surrey Kings vs Surrey Royals",
+      "team_1": "Surrey Kings",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SKI@2x.png",
+      "team_2": "Surrey Royals",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRRY@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/116321_4745_SKI_SRO_fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/yE4Stju-RZiB9ikEo8EKUg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
