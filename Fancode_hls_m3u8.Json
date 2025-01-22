@@ -2,20 +2,8 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 5,
-  "last_upaded": "23-01-2025 on 00:53:22 AM \ud83c\udf19",
+  "last_upaded": "23-01-2025 on 01:18:04 AM \ud83c\udf19",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "KCC T20 Challengers B League, 2024-25",
-      "match_id": 115725,
-      "match_name": "Gulf Cable vs MEC Study Group",
-      "team_1": "Gulf Cable",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GUC@2x.png",
-      "team_2": "MEC Study Group",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MSTG@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115725_4721_GUC_MEC_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/ws4b1IxyTpqbPikdALV3JA/master.m3u8"
-    },
     {
       "event_catagory": "golf",
       "event_name": "Farmers Insurance Open",
@@ -23,7 +11,7 @@
       "match_name": "Feed B - Day 1",
       "team_1": "Feed B - Day 1",
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-FIO@2x.png",
-      "team_2": "Torrey Pines Golf Course",
+      "team_2": "San Diego, CA",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Farmers-Insurance-Open_old_v1_1737480359193.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/PQOSUHuuS0OaG1qehcrZxg/master.m3u8"
@@ -63,6 +51,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Farmers-Insurance-Open_old_v1_1737480359193.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/SK7d-fMqSC-DMQlBeahdNA/master.m3u8"
+    },
+    {
+      "event_catagory": "basketball",
+      "event_name": "EuroLeague 2024-25",
+      "match_id": 116266,
+      "match_name": "Partizan NIS Belgrade vs Paris",
+      "team_1": "Partizan NIS Belgrade",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-PARTZ@2x.png",
+      "team_2": "Paris",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/ATS-NB1@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Basketball_Fallback_Old_match-card.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/MZMWn_zeTYycBEI6GBoYVA/master.m3u8"
     }
   ]
 }
