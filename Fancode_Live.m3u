@@ -3,7 +3,9 @@
 https://dai.google.com/linear/hls/event/cdxpRHGuS7urMLs53MfC0w/master.m3u8
 #EXTINF:-1 tvg-name="Surrey Kings vs Surrey Royals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116321_4745_SKI_SRO_fc-Web.jpg" tvg-id="116321" group-title="Jamaica T10, 2025",Surrey Kings vs Surrey Royals
 https://dai.google.com/linear/hls/event/yE4Stju-RZiB9ikEo8EKUg/master.m3u8
-#EXTINF:-1 tvg-name="Fortune Barishal vs Khulna Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113377_4644_FBA_KHT_fc-web.jpg" tvg-id="113377" group-title="Bangladesh Premier League, 2024-25",Fortune Barishal vs Khulna Tigers
-https://dai.google.com/linear/hls/event/rbkm7KioQ_2Zj8_S_-0bJA/master.m3u8
 #EXTINF:-1 tvg-name="Yalla Shabab Giants vs IAS Invincibles" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116768_4759_IAI_YSG_fc-Web.jpg" tvg-id="116768" group-title="Oman D50 League, 2025",Yalla Shabab Giants vs IAS Invincibles
 https://dai.google.com/linear/hls/event/T7_iAlWPRnaNedZO6ox_OA/master.m3u8
+#EXTINF:-1 tvg-name="Feed B - Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Farmers-Insurance-Open_old_v1_1737480359193.jpg" tvg-id="117313" group-title="Farmers Insurance Open",Feed B - Day 1
+https://dai.google.com/linear/hls/event/PQOSUHuuS0OaG1qehcrZxg/master.m3u8
+#EXTINF:-1 tvg-name="Feed E - Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Farmers-Insurance-Open_old_v2_1737480359200.jpg" tvg-id="117394" group-title="Farmers Insurance Open",Feed E - Day 1
+https://dai.google.com/linear/hls/event/R-tp9-etTYCdJNYRe0_diA/master.m3u8
