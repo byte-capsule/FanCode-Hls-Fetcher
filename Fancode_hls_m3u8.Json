@@ -1,9 +1,33 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 2,
-  "last_upaded": "24-01-2025 on 3:53:00 PM \ud83c\udf1e",
+  "total_mathes": 4,
+  "last_upaded": "24-01-2025 on 4:23:31 PM \ud83c\udf1e",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "KCC T20 Challengers B League, 2024-25",
+      "match_id": 115839,
+      "match_name": "Gulf Cable vs Karavali United",
+      "team_1": "Gulf Cable",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GUC@2x.png",
+      "team_2": "Karavali United",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KARVL@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115839_4721_GUC_KUCC_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/BFri_AzhTdStVhxn8aM3lg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Oman D50 League, 2025",
+      "match_id": 116770,
+      "match_name": "Majees Titans vs IAS Invincibles",
+      "team_1": "Majees Titans",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAJ@2x.png",
+      "team_2": "IAS Invincibles",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IAI@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/116770_4759_MAT_IAI_fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/kWUf3k0jSHyqCHHpnsskYA/master.m3u8"
+    },
     {
       "event_catagory": "football",
       "event_name": "A League 2024-25",
