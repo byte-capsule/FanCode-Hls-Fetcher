@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Gulf Cable vs Karavali United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115839_4721_GUC_KUCC_fc-web.jpg" tvg-id="115839" group-title="KCC T20 Challengers B League, 2024-25",Gulf Cable vs Karavali United
-https://dai.google.com/linear/hls/event/BFri_AzhTdStVhxn8aM3lg/master.m3u8
 #EXTINF:-1 tvg-name="Majees Titans vs IAS Invincibles" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116770_4759_MAT_IAI_fc-Web.jpg" tvg-id="116770" group-title="Oman D50 League, 2025",Majees Titans vs IAS Invincibles
 https://dai.google.com/linear/hls/event/kWUf3k0jSHyqCHHpnsskYA/master.m3u8
-#EXTINF:-1 tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Khaimah-Championship_old_v2.jpg" tvg-id="116855" group-title="Ras Al Khaimah Championship",Day 2
-https://dai.google.com/linear/hls/event/lkIxMZQGQ3KflF-BMSMVCw/master.m3u8
