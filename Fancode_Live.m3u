@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="West Indies vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-Tour-of-Pakistan-test--old-match-card.png" tvg-id="116280" group-title="West Indies tour of Pakistan, 2025",West Indies vs Pakistan
 https://dai.google.com/linear/hls/event/L_7JUlSaQRSJCAsuNzZzrQ/master.m3u8
+#EXTINF:-1 tvg-name="Sharjah Warriorz vs Desert Vipers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115969_4730_SWR_DV_fc-web.jpg" tvg-id="115969" group-title="DP World International League T20, 2025",Sharjah Warriorz vs Desert Vipers
+https://dai.google.com/linear/hls/event/nwhf6z-iRFOwfYc4p3GLLA/master.m3u8
 #EXTINF:-1 tvg-name="Macarthur vs Melbourne City" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110984_4567_MAC_MLC_fc-web_1728983128156.jpg" tvg-id="110984" group-title="A League 2024-25",Macarthur vs Melbourne City
 https://dai.google.com/linear/hls/event/ark2nsz2TIOUsY6K-aY99A/master.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Khaimah-Championship_old_v1.jpg" tvg-id="116856" group-title="Ras Al Khaimah Championship",Day 3
