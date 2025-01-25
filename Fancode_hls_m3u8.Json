@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 6,
-  "last_upaded": "26-01-2025 on 01:38:40 AM \ud83c\udf19",
+  "last_upaded": "26-01-2025 on 01:52:57 AM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -73,7 +73,7 @@
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-FIO@2x.png",
       "team_2": "San Diego, CA",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Farmers-Insurance-Open_old_v1_1737480359193.jpg",
+      "banner": false,
       "stream_link": "https://dai.google.com/linear/hls/event/UrVPLI7rQa-pUmhycflT1A/master.m3u8"
     }
   ]
