@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Northern Brave Women vs Otago Sparks" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="114527" group-title="Dream11 Women's Super Smash, 2024-25",Northern Brave Women vs Otago Sparks
-https://dai.google.com/linear/hls/event/Hv8nkbqITUONjokiec9ekA/master.m3u8
+#EXTINF:-1 tvg-name="West Indies vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-Tour-of-Pakistan-test--old-match-card.png" tvg-id="116280" group-title="West Indies tour of Pakistan, 2025",West Indies vs Pakistan
+https://dai.google.com/linear/hls/event/L_7JUlSaQRSJCAsuNzZzrQ/master.m3u8
+#EXTINF:-1 tvg-name="Wellington Phoenix vs Central Coast Mariners" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110981_4567_WEL_CCM_fc-web_1728983129989.jpg" tvg-id="110981" group-title="A League 2024-25",Wellington Phoenix vs Central Coast Mariners
+https://dai.google.com/linear/hls/event/Hf4Og6sGTuezSUZXWBz7sg/master.m3u8
