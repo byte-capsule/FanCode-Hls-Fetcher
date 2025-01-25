@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "25-01-2025 on 8:53:03 PM \ud83c\udf19",
+  "total_mathes": 5,
+  "last_upaded": "25-01-2025 on 9:20:14 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -51,6 +51,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YSG@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/116771_4759_YSG_MUT_fc-Web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/wWwvgPolTGukenZ1CnXXgA/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "EFL Championship 2024-25",
+      "match_id": 116546,
+      "match_name": "Bristol City vs Blackburn Rovers",
+      "team_1": "Bristol City",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BCW@2x.png",
+      "team_2": "Blackburn Rovers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BLKB@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/116546_4352_BRI_BLK_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/lzlzYcjMQ8O6H2H2hqXmfg/master.m3u8"
     }
   ]
 }
