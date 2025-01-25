@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "25-01-2025 on 11:17:44 PM \ud83c\udf19",
+  "total_mathes": 8,
+  "last_upaded": "25-01-2025 on 11:38:17 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,6 +15,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SKI@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/116326_4745_MIT_SKI_fc-Web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/a9f8dTMCS6uHQamHICdJTA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "KCC T20 Challengers B League, 2024-25",
+      "match_id": 115818,
+      "match_name": "Salmiya Strikers vs Team TGS",
+      "team_1": "Salmiya Strikers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SST@2x.png",
+      "team_2": "Team TGS",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TYT@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115818_4721_TGS_SAS_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/IcdUegJFTsSULIKYCzzrqw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -75,6 +87,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Farmers-Insurance-Open_old_v2_1737480359200.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/t4SHRk3-TFOEbdcJkJnsdg/master.m3u8"
+    },
+    {
+      "event_catagory": "golf",
+      "event_name": "Farmers Insurance Open",
+      "match_id": 117408,
+      "match_name": "Feed D - Day 4",
+      "team_1": "Feed D - Day 4",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-FIO@2x.png",
+      "team_2": "San Diego, CA",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Farmers-Insurance-Open_old_v3_1737480359168.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/beG-VRLSSZKEuW6XTBiKQw/master.m3u8"
     }
   ]
 }
