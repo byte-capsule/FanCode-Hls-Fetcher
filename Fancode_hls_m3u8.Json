@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "26-01-2025 on 1:53:10 PM \ud83c\udf1e",
+  "total_mathes": 4,
+  "last_upaded": "26-01-2025 on 2:23:55 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -18,18 +18,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "West Indies tour of Pakistan, 2025",
-      "match_id": 116280,
-      "match_name": "West Indies vs Pakistan",
-      "team_1": "West Indies",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-      "team_2": "Pakistan",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-Tour-of-Pakistan-test--old-match-card.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/L_7JUlSaQRSJCAsuNzZzrQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "Bangladesh Premier League, 2024-25",
       "match_id": 113380,
       "match_name": "Sylhet Strikers vs Fortune Barishal",
@@ -41,16 +29,16 @@
       "stream_link": "https://dai.google.com/linear/hls/event/hkDO7dF7S0WSJldKuWZ6Cg/master.m3u8"
     },
     {
-      "event_catagory": "football",
-      "event_name": "A League 2024-25",
-      "match_id": 110985,
-      "match_name": "Western Sydney Wanderers vs Auckland",
-      "team_1": "Western Sydney Wanderers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYWA@2x.png",
-      "team_2": "Auckland",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AUCK@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110985_4567_SYW_AFC_fc-web_1728983128509.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/1a1YCrXrRU21w1J9GF5HpA/master.m3u8"
+      "event_catagory": "cricket",
+      "event_name": "West Indies tour of Pakistan, 2025",
+      "match_id": 116280,
+      "match_name": "West Indies vs Pakistan",
+      "team_1": "West Indies",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+      "team_2": "Pakistan",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-Tour-of-Pakistan-test--old-match-card.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/L_7JUlSaQRSJCAsuNzZzrQ/master.m3u8"
     },
     {
       "event_catagory": "golf",
