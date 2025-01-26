@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Mangaf Warriors vs Chennai Kings CA" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115819_4721_CHK_MAW_fc-web.jpg" tvg-id="115819" group-title="KCC T20 Challengers B League, 2024-25",Mangaf Warriors vs Chennai Kings CA
+https://dai.google.com/linear/hls/event/bKdAIN5GSiSqIbQu_swftQ/master.m3u8
 #EXTINF:-1 tvg-name="Sharjah Warriorz vs Gulf Giants" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115972_4730_SWR_GG_fc-web.jpg" tvg-id="115972" group-title="DP World International League T20, 2025",Sharjah Warriorz vs Gulf Giants
 https://dai.google.com/linear/hls/event/txd2Xor1SlCBBMrMv934aA/master.m3u8
 #EXTINF:-1 tvg-name="Dark Phoenix vs Blue Boys" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-White-Ball-T20-old-Match-card.png" tvg-id="117634" group-title="BOX Office White Ball T20",Dark Phoenix vs Blue Boys

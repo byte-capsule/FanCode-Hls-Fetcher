@@ -1,9 +1,21 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "26-01-2025 on 11:17:40 PM \ud83c\udf19",
+  "total_mathes": 5,
+  "last_upaded": "26-01-2025 on 11:39:12 PM \ud83c\udf19",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "KCC T20 Challengers B League, 2024-25",
+      "match_id": 115819,
+      "match_name": "Mangaf Warriors vs Chennai Kings CA",
+      "team_1": "Mangaf Warriors",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAW@2x.png",
+      "team_2": "Chennai Kings CA",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CKC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115819_4721_CHK_MAW_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/bKdAIN5GSiSqIbQu_swftQ/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "DP World International League T20, 2025",
