@@ -2,19 +2,31 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 5,
-  "last_upaded": "26-01-2025 on 5:53:03 PM \ud83c\udf1e",
+  "last_upaded": "26-01-2025 on 6:37:55 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
-      "event_name": "Karnataka Coastal Big Bash League T20",
-      "match_id": 117061,
-      "match_name": "Mathsyaraj Trescon Malpe vs United Ullal",
-      "team_1": "Mathsyaraj Trescon Malpe",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MTM@2x.png",
-      "team_2": "United Ullal",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UL@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Coastal-Big-Bash-League-T20_old_v3.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/Yav-iAR6RISrfCu2ZJBkPw/master.m3u8"
+      "event_name": "Bangladesh Premier League, 2024-25",
+      "match_id": 113381,
+      "match_name": "Durbar Rajshahi vs Rangpur Riders",
+      "team_1": "Durbar Rajshahi",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RAR-CR1@2x.png",
+      "team_2": "Rangpur Riders",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RANG@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113381_4644_DBR_RAN_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/o-dwEDeaRCSP_YnybgQJTA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "BOX Office White Ball T20",
+      "match_id": 117633,
+      "match_name": "Vishal Brothers vs Phonex",
+      "team_1": "Vishal Brothers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VBS@2x.png",
+      "team_2": "Phonex",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PPB@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-White-Ball-T20-old-Match-card.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/Lj7XoPs5RJaAD7mXGB9IWw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -39,18 +51,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DCDP@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/115971_4730_ADKR_DC_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/iiAXapAMTlyGdGYGwobhZw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "BOX Office White Ball T20",
-      "match_id": 117633,
-      "match_name": "Vishal Brothers vs Phonex",
-      "team_1": "Vishal Brothers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VBS@2x.png",
-      "team_2": "Phonex",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PPB@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-White-Ball-T20-old-Match-card.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/Lj7XoPs5RJaAD7mXGB9IWw/master.m3u8"
     },
     {
       "event_catagory": "golf",
