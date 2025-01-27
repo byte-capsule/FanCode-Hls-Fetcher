@@ -1,32 +1,7 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 2,
-  "last_upaded": "28-01-2025 on 00:29:41 AM \ud83c\udf19",
-  "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "KCC T20 Challengers B League, 2024-25",
-      "match_id": 115820,
-      "match_name": "Lexus vs MEC Study Group",
-      "team_1": "Lexus",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LEX@2x.png",
-      "team_2": "MEC Study Group",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MSTG@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115820_4721_LEX_MEC_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/pk10MvxoQsaQhhorE9MzQw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "BOX Office T20 Test Pink Ball",
-      "match_id": 117680,
-      "match_name": "Blue Boys vs The Spartan Squad",
-      "team_1": "Blue Boys",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR1@2x.png",
-      "team_2": "The Spartan Squad",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TSS@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-T20-Test-Pink-Ball-old-Match-card--.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/_dfm6i9ySfW4rS8Uwng2hA/master.m3u8"
-    }
-  ]
+  "total_mathes": 0,
+  "last_upaded": "28-01-2025 on 00:46:01 AM \ud83c\udf19",
+  "matches": []
 }
