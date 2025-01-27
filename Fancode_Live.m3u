@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Karavali Tigers vs Mangalore Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Coastal-Big-Bash-League-T20_old_v1.jpg" tvg-id="117062" group-title="Karnataka Coastal Big Bash League T20",Karavali Tigers vs Mangalore Lions
-https://dai.google.com/linear/hls/event/xYrhI69fRFKD7omAiM7i_A/master.m3u8
-#EXTINF:-1 tvg-name="Auckland Hearts vs Wellington Blaze" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="114529" group-title="Dream11 Women's Super Smash, 2024-25",Auckland Hearts vs Wellington Blaze
-https://dai.google.com/linear/hls/event/Z6LQDIgdTeaLAl9wbVOUUw/master.m3u8
-#EXTINF:-1 tvg-name="Western Australia Women vs Victoria Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109405_4508_VCTW_WA-W_fc-web.jpg" tvg-id="109405" group-title="WNCL, 2024-25",Western Australia Women vs Victoria Women
-https://dai.google.com/linear/hls/event/CS7y5jb1RgOj8yPyUL__Vg/master.m3u8
+#EXTINF:-1 tvg-name="Khulna Tigers vs Fortune Barishal" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113382_4644_FBA_KHT_fc-web.jpg" tvg-id="113382" group-title="Bangladesh Premier League, 2024-25",Khulna Tigers vs Fortune Barishal
+https://dai.google.com/linear/hls/event/vUs3tfXbQWmvM19p00NezQ/master.m3u8
