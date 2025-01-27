@@ -1,45 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "27-01-2025 on 08:39:07 AM \ud83c\udf1e",
+  "total_mathes": 2,
+  "last_upaded": "27-01-2025 on 09:01:44 AM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Dream11 Super Smash, 2024-25",
-      "match_id": 114497,
-      "match_name": "Auckland Aces vs Wellington Firebirds",
-      "team_1": "Auckland Aces",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACE@2x.png",
-      "team_2": "Wellington Firebirds",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FIRE@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114497_4676_AA_WF_fc-Web_1735207965730.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/X_9SMPseQNy8sIFvjThuLQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "BOX Office White Ball T20",
-      "match_id": 117634,
-      "match_name": "Dark Phoenix vs Blue Boys",
-      "team_1": "Dark Phoenix",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DP@2x.png",
-      "team_2": "Blue Boys",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR1@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-White-Ball-T20-old-Match-card.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/U-JrExkjTlSL29Yjob9ohw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "BOX Office White Ball T20",
-      "match_id": 117633,
-      "match_name": "Vishal Brothers vs Phonex",
-      "team_1": "Vishal Brothers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VBS@2x.png",
-      "team_2": "Phonex",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PPB@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-White-Ball-T20-old-Match-card.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/Lj7XoPs5RJaAD7mXGB9IWw/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "West Indies tour of Pakistan, 2025",

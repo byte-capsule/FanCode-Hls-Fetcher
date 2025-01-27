@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Auckland Aces vs Wellington Firebirds" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114497_4676_AA_WF_fc-Web_1735207965730.jpg" tvg-id="114497" group-title="Dream11 Super Smash, 2024-25",Auckland Aces vs Wellington Firebirds
-https://dai.google.com/linear/hls/event/X_9SMPseQNy8sIFvjThuLQ/master.m3u8
-#EXTINF:-1 tvg-name="Dark Phoenix vs Blue Boys" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-White-Ball-T20-old-Match-card.png" tvg-id="117634" group-title="BOX Office White Ball T20",Dark Phoenix vs Blue Boys
-https://dai.google.com/linear/hls/event/U-JrExkjTlSL29Yjob9ohw/master.m3u8
-#EXTINF:-1 tvg-name="Vishal Brothers vs Phonex" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-White-Ball-T20-old-Match-card.png" tvg-id="117633" group-title="BOX Office White Ball T20",Vishal Brothers vs Phonex
-https://dai.google.com/linear/hls/event/Lj7XoPs5RJaAD7mXGB9IWw/master.m3u8
 #EXTINF:-1 tvg-name="West Indies vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-Tour-of-Pakistan-test--old-match-card.png" tvg-id="116280" group-title="West Indies tour of Pakistan, 2025",West Indies vs Pakistan
 https://dai.google.com/linear/hls/event/L_7JUlSaQRSJCAsuNzZzrQ/master.m3u8
 #EXTINF:-1 tvg-name="Western Australia Women vs Victoria Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109405_4508_VCTW_WA-W_fc-web.jpg" tvg-id="109405" group-title="WNCL, 2024-25",Western Australia Women vs Victoria Women
