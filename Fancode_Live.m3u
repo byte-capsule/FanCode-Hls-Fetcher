@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="United Ullal vs Kulai Red Hawks" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Coastal-Big-Bash-League-T20_old_v1.jpg" tvg-id="117065" group-title="Karnataka Coastal Big Bash League T20",United Ullal vs Kulai Red Hawks
 https://dai.google.com/linear/hls/event/erEb2mEaRde98ZHmA2CSLw/master.m3u8
-#EXTINF:-1 tvg-name="Gauhati Town Club vs Legend Sporting Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117430_4781_LSC_GTC_fc-web.jpg" tvg-id="117430" group-title="Guwahati Premier League, 2025",Gauhati Town Club vs Legend Sporting Club
-https://dai.google.com/linear/hls/event/NAlLA2wfQVyf-GqKkeVq-A/master.m3u8
 #EXTINF:-1 tvg-name="Canterbury vs Northern Districts" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114498_4676_CTB_ND_fc-Web_1735207965523.jpg" tvg-id="114498" group-title="Dream11 Super Smash, 2024-25",Canterbury vs Northern Districts
 https://dai.google.com/linear/hls/event/MzyAFM4tQ9e3XjjFZEwW8g/master.m3u8
+#EXTINF:-1 tvg-name="Gauhati Town Club vs Legend Sporting Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117430_4781_LSC_GTC_fc-web.jpg" tvg-id="117430" group-title="Guwahati Premier League, 2025",Gauhati Town Club vs Legend Sporting Club
+https://dai.google.com/linear/hls/event/NAlLA2wfQVyf-GqKkeVq-A/master.m3u8
