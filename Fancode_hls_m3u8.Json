@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "29-01-2025 on 3:39:04 PM \ud83c\udf1e",
+  "total_mathes": 6,
+  "last_upaded": "29-01-2025 on 3:53:17 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -63,6 +63,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CENTA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110972_4567_WST_CCM_fc-web_1728983128162.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/4m-fUkJkSQegzj3u9vmzFg/master.m3u8"
+    },
+    {
+      "event_catagory": "golf",
+      "event_name": "SDC Open",
+      "match_id": 117791,
+      "match_name": "SDC Open",
+      "team_1": "SDC Open",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-SD@2x.png",
+      "team_2": "South Africa",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/SDC-Open_2025_OLd_match-card.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/0DD5lrD7TSWcYYy39wgcZw/master.m3u8"
     }
   ]
 }
