@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Karavali Tigers vs United Ullal" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Coastal-Big-Bash-League-T20_old_v3.jpg" tvg-id="117070" group-title="Karnataka Coastal Big Bash League T20",Karavali Tigers vs United Ullal
 https://dai.google.com/linear/hls/event/PTLsjaQ2QECaTNeD-NtEKw/master.m3u8
-#EXTINF:-1 tvg-name="91 Yards Club vs River Rine Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117431_4781_RRC_NYC_fc-web.jpg" tvg-id="117431" group-title="Guwahati Premier League, 2025",91 Yards Club vs River Rine Club
-https://dai.google.com/linear/hls/event/TWXaO5HESS-UpbDFgm-oJQ/master.m3u8
 #EXTINF:-1 tvg-name="Dhaka Capitals vs Fortune Barishal" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113385_4644_FBA_DC_fc-web.jpg" tvg-id="113385" group-title="Bangladesh Premier League, 2024-25",Dhaka Capitals vs Fortune Barishal
 https://dai.google.com/linear/hls/event/woDdmsKaR7KX0mKtbOseBQ/master.m3u8
 #EXTINF:-1 tvg-name="Australia vs Sri Lanka" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg" tvg-id="115615" group-title="Australia tour of Sri Lanka, 2025",Australia vs Sri Lanka
