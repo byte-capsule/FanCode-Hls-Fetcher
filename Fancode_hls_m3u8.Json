@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "29-01-2025 on 4:54:23 PM \ud83c\udf1e",
+  "total_mathes": 5,
+  "last_upaded": "29-01-2025 on 5:17:37 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -30,30 +30,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Oman D50 League, 2025",
-      "match_id": 116774,
-      "match_name": "Muscat Thunders vs Royal Oman Stallions",
-      "team_1": "Muscat Thunders",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MSCT@2x.png",
-      "team_2": "Royal Oman Stallions",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROS@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/116774_4759_MUT_ROS_fc-Web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/GWXXqfWiQieB7i8sDHuz4g/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Bangladesh Premier League, 2024-25",
-      "match_id": 113384,
-      "match_name": "Rangpur Riders vs Chittagong Kings",
-      "team_1": "Rangpur Riders",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RANG@2x.png",
-      "team_2": "Chittagong Kings",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CTK@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113384_4644_RAN_CHK_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/uZF5zscbTN-JJkNvPEjwGQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "Australia tour of Sri Lanka, 2025",
       "match_id": 115615,
       "match_name": "Australia vs Sri Lanka",
@@ -63,6 +39,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Oman D50 League, 2025",
+      "match_id": 116774,
+      "match_name": "Muscat Thunders vs Royal Oman Stallions",
+      "team_1": "Muscat Thunders",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MSCT@2x.png",
+      "team_2": "Royal Oman Stallions",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROS@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/116774_4759_MUT_ROS_fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/GWXXqfWiQieB7i8sDHuz4g/master.m3u8"
     },
     {
       "event_catagory": "cricket",
