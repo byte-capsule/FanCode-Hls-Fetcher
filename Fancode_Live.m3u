@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Western Australia Women vs Victoria Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109407_4508_VCTW_WA-W_fc-web.jpg" tvg-id="109407" group-title="WNCL, 2024-25",Western Australia Women vs Victoria Women
+https://dai.google.com/linear/hls/event/kEvBS8zsT0eXNXEOPLAREQ/master.m3u8
+#EXTINF:-1 tvg-name="Auckland Hearts vs Central Hinds" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="114531" group-title="Dream11 Women's Super Smash, 2024-25",Auckland Hearts vs Central Hinds
+https://dai.google.com/linear/hls/event/FPM90vcwRCeMtYYyaQ1WXA/master.m3u8
