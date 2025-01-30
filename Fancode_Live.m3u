@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Karavali Tigers vs Kulai Red Hawks" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Coastal-Big-Bash-League-T20_old_v2.jpg" tvg-id="117072" group-title="Karnataka Coastal Big Bash League T20",Karavali Tigers vs Kulai Red Hawks
 https://dai.google.com/linear/hls/event/-q2HzUlkQMyru-ZR7K-XfA/master.m3u8
+#EXTINF:-1 tvg-name="River Rine Club vs Guwahati Giants" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117435_4781_GUG_RRC_fc-web.jpg" tvg-id="117435" group-title="Guwahati Premier League, 2025",River Rine Club vs Guwahati Giants
+https://dai.google.com/linear/hls/event/W1Q3UuihSd6hh1FfNqFSzQ/master.m3u8
 #EXTINF:-1 tvg-name="Khulna Tigers vs Rangpur Riders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113386_4644_RAN_KHT_fc-web.jpg" tvg-id="113386" group-title="Bangladesh Premier League, 2024-25",Khulna Tigers vs Rangpur Riders
 https://dai.google.com/linear/hls/event/3LKygId4RAiIVzhgXOT6TA/master.m3u8
 #EXTINF:-1 tvg-name="Australia vs Sri Lanka" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg" tvg-id="115615" group-title="Australia tour of Sri Lanka, 2025",Australia vs Sri Lanka
