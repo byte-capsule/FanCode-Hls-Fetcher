@@ -1,11 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Wellington Firebirds vs Northern Districts" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114500_4676_WF_ND_fc-Web_1735207964818.jpg" tvg-id="114500" group-title="Dream11 Super Smash, 2024-25",Wellington Firebirds vs Northern Districts
+https://dai.google.com/linear/hls/event/XWX0OIv4RxWabQZxUzBruA/master.m3u8
 #EXTINF:-1 tvg-name="Australia vs Sri Lanka" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg" tvg-id="115615" group-title="Australia tour of Sri Lanka, 2025",Australia vs Sri Lanka
 https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
 #EXTINF:-1 tvg-name="Trinidad & Tobago Red Force vs Combined Campuses and Colleges" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="117750" group-title="West Indies Championship, 2025",Trinidad & Tobago Red Force vs Combined Campuses and Colleges
 https://dai.google.com/linear/hls/event/sw02Nl65RWajAkebgNpyzw/master.m3u8
 #EXTINF:-1 tvg-name="Barbados Pride vs Guyana Harpy Eagles" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117749_4799_GUY_BAR_fc-Web_1738071641349.jpg" tvg-id="117749" group-title="West Indies Championship, 2025",Barbados Pride vs Guyana Harpy Eagles
 https://dai.google.com/linear/hls/event/VSJHoz_6QdOFqiZAky-n_w/master.m3u8
-#EXTINF:-1 tvg-name="Wellington Firebirds vs Northern Districts" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114500_4676_WF_ND_fc-Web_1735207964818.jpg" tvg-id="114500" group-title="Dream11 Super Smash, 2024-25",Wellington Firebirds vs Northern Districts
-https://dai.google.com/linear/hls/event/XWX0OIv4RxWabQZxUzBruA/master.m3u8
 #EXTINF:-1 tvg-name="Team Bava Surathkal vs Mathsyaraj Trescon Malpe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Coastal-Big-Bash-League-T20_old_v1.jpg" tvg-id="117071" group-title="Karnataka Coastal Big Bash League T20",Team Bava Surathkal vs Mathsyaraj Trescon Malpe
 https://dai.google.com/linear/hls/event/mZ41Lf5STKuucdG1lwxy_g/master.m3u8
+#EXTINF:-1 tvg-name="Nabajyoti Club vs Ankurjyoti Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117434_4781_NBC_AC_fc-web.jpg" tvg-id="117434" group-title="Guwahati Premier League, 2025",Nabajyoti Club vs Ankurjyoti Club
+https://dai.google.com/linear/hls/event/raUI_9_9QameXXECoWzbuA/master.m3u8
