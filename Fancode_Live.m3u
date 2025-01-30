@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="United Ullal vs Mangalore Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Coastal-Big-Bash-League-T20_old_v3.jpg" tvg-id="117073" group-title="Karnataka Coastal Big Bash League T20",United Ullal vs Mangalore Lions
 https://dai.google.com/linear/hls/event/26StmixDQeqqPiRxQoBA0A/master.m3u8
-#EXTINF:-1 tvg-name="River Rine Club vs Guwahati Giants" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117435_4781_GUG_RRC_fc-web.jpg" tvg-id="117435" group-title="Guwahati Premier League, 2025",River Rine Club vs Guwahati Giants
-https://dai.google.com/linear/hls/event/W1Q3UuihSd6hh1FfNqFSzQ/master.m3u8
 #EXTINF:-1 tvg-name="Chittagong Kings vs Sylhet Strikers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113387_4644_CHK_SYL_fc-web.jpg" tvg-id="113387" group-title="Bangladesh Premier League, 2024-25",Chittagong Kings vs Sylhet Strikers
 https://dai.google.com/linear/hls/event/A189MjZzTKSTiWg5Vj-faA/master.m3u8
 #EXTINF:-1 tvg-name="Raghubansh vs Kolkata Incredibles" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Box-Office-T20-Red-Ball_match-card.jpg" tvg-id="117829" group-title="Box Office T20 Red Ball",Raghubansh vs Kolkata Incredibles
