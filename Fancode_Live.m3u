@@ -15,3 +15,5 @@ https://dai.google.com/linear/hls/event/sw02Nl65RWajAkebgNpyzw/master.m3u8
 https://dai.google.com/linear/hls/event/VSJHoz_6QdOFqiZAky-n_w/master.m3u8
 #EXTINF:-1 tvg-name="Feed B - Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="117684" group-title="AT&T Pebble Beach Pro-AM",Feed B - Day 1
 https://dai.google.com/linear/hls/event/6gcSr-GtRG2QFtofo-ufSw/master.m3u8
+#EXTINF:-1 tvg-name="Feed C - Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="117692" group-title="AT&T Pebble Beach Pro-AM",Feed C - Day 1
+https://dai.google.com/linear/hls/event/AITcf8SjS1S3kvuIx6YWcA/master.m3u8
