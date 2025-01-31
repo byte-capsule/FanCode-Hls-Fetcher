@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Karavali Tigers vs Team Bava Surathkal" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Coastal-Big-Bash-League-T20_old_v1.jpg" tvg-id="117075" group-title="Karnataka Coastal Big Bash League T20",Karavali Tigers vs Team Bava Surathkal
 https://dai.google.com/linear/hls/event/1l3WD6SmSDuWiecb3f2zEA/master.m3u8
+#EXTINF:-1 tvg-name="Gauhati Town Club vs Nabajyoti Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117437_4781_NBC_GTC_fc-web.jpg" tvg-id="117437" group-title="Guwahati Premier League, 2025",Gauhati Town Club vs Nabajyoti Club
+https://dai.google.com/linear/hls/event/K7lPCIZtQW-zvC_CKCl2-Q/master.m3u8
 #EXTINF:-1 tvg-name="Australia vs Sri Lanka" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg" tvg-id="115615" group-title="Australia tour of Sri Lanka, 2025",Australia vs Sri Lanka
 https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
 #EXTINF:-1 tvg-name="Netherlands Women vs Thailand Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="117637" group-title="Nepal Women's T20I Triangular Series",Netherlands Women vs Thailand Women
