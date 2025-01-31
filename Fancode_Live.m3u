@@ -1,11 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Kulai Red Hawks vs Mangalore Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Coastal-Big-Bash-League-T20_old_v1.jpg" tvg-id="117074" group-title="Karnataka Coastal Big Bash League T20",Kulai Red Hawks vs Mangalore Lions
+https://dai.google.com/linear/hls/event/rvpEmAGmT_-kU8q04x4J6Q/master.m3u8
 #EXTINF:-1 tvg-name="Australia vs Sri Lanka" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg" tvg-id="115615" group-title="Australia tour of Sri Lanka, 2025",Australia vs Sri Lanka
 https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
 #EXTINF:-1 tvg-name="Trinidad & Tobago Red Force vs Combined Campuses and Colleges" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="117750" group-title="West Indies Championship, 2025",Trinidad & Tobago Red Force vs Combined Campuses and Colleges
 https://dai.google.com/linear/hls/event/sw02Nl65RWajAkebgNpyzw/master.m3u8
 #EXTINF:-1 tvg-name="Barbados Pride vs Guyana Harpy Eagles" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117749_4799_GUY_BAR_fc-Web_1738071641349.jpg" tvg-id="117749" group-title="West Indies Championship, 2025",Barbados Pride vs Guyana Harpy Eagles
 https://dai.google.com/linear/hls/event/VSJHoz_6QdOFqiZAky-n_w/master.m3u8
-#EXTINF:-1 tvg-name="Kulai Red Hawks vs Mangalore Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Coastal-Big-Bash-League-T20_old_v1.jpg" tvg-id="117074" group-title="Karnataka Coastal Big Bash League T20",Kulai Red Hawks vs Mangalore Lions
-https://dai.google.com/linear/hls/event/rvpEmAGmT_-kU8q04x4J6Q/master.m3u8
 #EXTINF:-1 tvg-name="New Star Club vs Sath Gaon Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117436_4781_NSC_SGC_fc-web.jpg" tvg-id="117436" group-title="Guwahati Premier League, 2025",New Star Club vs Sath Gaon Club
 https://dai.google.com/linear/hls/event/EoFr0RY2QU2XjqQaVEl_AQ/master.m3u8
