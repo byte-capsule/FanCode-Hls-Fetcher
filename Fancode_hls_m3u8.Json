@@ -1,9 +1,21 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 8,
-  "last_upaded": "31-01-2025 on 3:53:12 PM \ud83c\udf1e",
+  "total_mathes": 10,
+  "last_upaded": "31-01-2025 on 4:22:48 PM \ud83c\udf1e",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "KCC T20 Challengers B League, 2024-25",
+      "match_id": 115826,
+      "match_name": "Global Champs vs Thunder Cats",
+      "team_1": "Global Champs",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GCHM@2x.png",
+      "team_2": "Thunder Cats",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THN@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115826_4721_GC_THN_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/rmTbsemQQjSC4K-_6nud7Q/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "Karnataka Coastal Big Bash League T20",
@@ -75,6 +87,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HARP@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/117749_4799_GUY_BAR_fc-Web_1738071641349.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/VSJHoz_6QdOFqiZAky-n_w/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Oman D50 League, 2025",
+      "match_id": 116775,
+      "match_name": "Royal Oman Stallions vs Yalla Shabab Giants",
+      "team_1": "Royal Oman Stallions",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROS@2x.png",
+      "team_2": "Yalla Shabab Giants",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YSG@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/116765_4759_ROS_YSG_fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/3_PiWN4qSGS-QTs5aLKTzg/master.m3u8"
     },
     {
       "event_catagory": "football",
