@@ -7,8 +7,6 @@ https://dai.google.com/linear/hls/event/1l3WD6SmSDuWiecb3f2zEA/master.m3u8
 https://dai.google.com/linear/hls/event/K7lPCIZtQW-zvC_CKCl2-Q/master.m3u8
 #EXTINF:-1 tvg-name="Royal Oman Stallions vs Yalla Shabab Giants" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/116765_4759_ROS_YSG_fc-Web.jpg" tvg-id="116775" group-title="Oman D50 League, 2025",Royal Oman Stallions vs Yalla Shabab Giants
 https://dai.google.com/linear/hls/event/3_PiWN4qSGS-QTs5aLKTzg/master.m3u8
-#EXTINF:-1 tvg-name="Portugal vs Spain" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECI-Portugal-Spain_2025_match-card_2.jpg" tvg-id="117793" group-title="ECI Portugal-Spain, 2025",Portugal vs Spain
-https://dai.google.com/linear/hls/event/gm1R_YTOTQilC7eLGAaVvg/master.m3u8
 #EXTINF:-1 tvg-name="Portugal vs Spain" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECI-Portugal-Spain_2025_match-card_2.jpg" tvg-id="117794" group-title="ECI Portugal-Spain, 2025",Portugal vs Spain
 https://dai.google.com/linear/hls/event/nf_3y3UwTluRjN8hpV_btg/master.m3u8
 #EXTINF:-1 tvg-name="Australia vs Sri Lanka" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg" tvg-id="115615" group-title="Australia tour of Sri Lanka, 2025",Australia vs Sri Lanka
@@ -17,5 +15,7 @@ https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
 https://dai.google.com/linear/hls/event/sw02Nl65RWajAkebgNpyzw/master.m3u8
 #EXTINF:-1 tvg-name="Barbados Pride vs Guyana Harpy Eagles" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117749_4799_GUY_BAR_fc-Web_1738071641349.jpg" tvg-id="117749" group-title="West Indies Championship, 2025",Barbados Pride vs Guyana Harpy Eagles
 https://dai.google.com/linear/hls/event/VSJHoz_6QdOFqiZAky-n_w/master.m3u8
+#EXTINF:-1 tvg-name="Krazy Stallions vs Raghubansh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-White-Ball-T20-old-Match-card.png" tvg-id="117830" group-title="BOX Office White Ball T20",Krazy Stallions vs Raghubansh
+https://dai.google.com/linear/hls/event/PLQ4sKplSxCzYVH-NzV0yQ/master.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bahrain-Championship_old_v2.jpg" tvg-id="117646" group-title="Bahrain Championship",Day 2
 https://dai.google.com/linear/hls/event/g1NtIHjyQCSuGtZwZpmrlQ/master.m3u8
