@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "31-01-2025 on 09:53:33 AM \ud83c\udf1e",
+  "total_mathes": 5,
+  "last_upaded": "31-01-2025 on 10:25:33 AM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -51,6 +51,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ML@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Coastal-Big-Bash-League-T20_old_v1.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/rvpEmAGmT_-kU8q04x4J6Q/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Guwahati Premier League, 2025",
+      "match_id": 117436,
+      "match_name": "New Star Club vs Sath Gaon Club",
+      "team_1": "New Star Club",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSCB@2x.png",
+      "team_2": "Sath Gaon Club",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SGC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/117436_4781_NSC_SGC_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/EoFr0RY2QU2XjqQaVEl_AQ/master.m3u8"
     }
   ]
 }
