@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 9,
-  "last_upaded": "31-01-2025 on 8:53:18 PM \ud83c\udf19",
+  "total_mathes": 7,
+  "last_upaded": "31-01-2025 on 9:20:25 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,30 +27,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RLC@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/115827_4721_RLC_YSS_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/5PUch2WsQYKqmC1qMFjwXA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Boland T20 Super League Finals, 2025",
-      "match_id": 117483,
-      "match_name": "Giflo Young Peoples CC vs Vredenburg/Saldanha CC",
-      "team_1": "Giflo Young Peoples CC",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YPS@2x.png",
-      "team_2": "Vredenburg/Saldanha CC",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VDS@2x.png",
-      "banner": false,
-      "stream_link": "https://dai.google.com/linear/hls/event/UB3XN6GIRsiS44PhmBbJYw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECI Portugal-Spain, 2025",
-      "match_id": 117795,
-      "match_name": "Spain vs Portugal",
-      "team_1": "Spain",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESP@2x.png",
-      "team_2": "Portugal",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-POT@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Portugal-Spain_2025_match-card_2.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/Wg5a9ILdSeCFey1m8ejRWw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
