@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Team TGS vs Super Lanka" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115825_4721_SUL_TGS_fc-web.jpg" tvg-id="115825" group-title="KCC T20 Challengers B League, 2024-25",Team TGS vs Super Lanka
-https://dai.google.com/linear/hls/event/zhIJGDXqQUaRjK9YaqGrrA/master.m3u8
 #EXTINF:-1 tvg-name="Karavali Tigers vs Team Bava Surathkal" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Coastal-Big-Bash-League-T20_old_v1.jpg" tvg-id="117075" group-title="Karnataka Coastal Big Bash League T20",Karavali Tigers vs Team Bava Surathkal
 https://dai.google.com/linear/hls/event/1l3WD6SmSDuWiecb3f2zEA/master.m3u8
 #EXTINF:-1 tvg-name="Australia vs Sri Lanka" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg" tvg-id="115615" group-title="Australia tour of Sri Lanka, 2025",Australia vs Sri Lanka
@@ -11,3 +9,5 @@ https://dai.google.com/linear/hls/event/sw02Nl65RWajAkebgNpyzw/master.m3u8
 https://dai.google.com/linear/hls/event/VSJHoz_6QdOFqiZAky-n_w/master.m3u8
 #EXTINF:-1 tvg-name="Netherlands Women vs Thailand Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="117637" group-title="Nepal Women's T20I Triangular Series",Netherlands Women vs Thailand Women
 https://dai.google.com/linear/hls/event/boDkQicGT5GWLNvlVfPJNQ/master.m3u8
+#EXTINF:-1 tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bahrain-Championship_old_v2.jpg" tvg-id="117646" group-title="Bahrain Championship",Day 2
+https://dai.google.com/linear/hls/event/g1NtIHjyQCSuGtZwZpmrlQ/master.m3u8
