@@ -1,11 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Albanite vs Cathex" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-Hundred-Ball-TV-old-Match-card-.png" tvg-id="117828" group-title="Box Office ASL T20",Albanite vs Cathex
 https://dai.google.com/linear/hls/event/Uur0DTt7RJuOSZtlWA2_HA/master.m3u8
-#EXTINF:-1 tvg-name="YSSC vs Royal Lions CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115827_4721_RLC_YSS_fc-web.jpg" tvg-id="115827" group-title="KCC T20 Challengers B League, 2024-25",YSSC vs Royal Lions CC
-https://dai.google.com/linear/hls/event/5PUch2WsQYKqmC1qMFjwXA/master.m3u8
 #EXTINF:-1 tvg-name="Paarl CC vs Worcester United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117484_4787_WUT_PRC_Fc-Web.jpg" tvg-id="117484" group-title="Boland T20 Super League Finals, 2025",Paarl CC vs Worcester United
 https://dai.google.com/linear/hls/event/65aFew1qTUmYFpmVwMuCqA/master.m3u8
-#EXTINF:-1 tvg-name="Australia vs Sri Lanka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="115615" group-title="Australia tour of Sri Lanka, 2025",Australia vs Sri Lanka
+#EXTINF:-1 tvg-name="Australia vs Sri Lanka" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg" tvg-id="115615" group-title="Australia tour of Sri Lanka, 2025",Australia vs Sri Lanka
 https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
 #EXTINF:-1 tvg-name="Gulf Giants vs MI Emirates" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115977_4730_GG_MIE_fc-web.jpg" tvg-id="115977" group-title="DP World International League T20, 2025",Gulf Giants vs MI Emirates
 https://dai.google.com/linear/hls/event/OwdlxR1lQematbOKQ_Ru5Q/master.m3u8
@@ -19,7 +17,7 @@ https://dai.google.com/linear/hls/event/miHTkIFaT_6tqkcTg1YvAA/master.m3u8
 https://dai.google.com/linear/hls/event/DRbJw2pxT32ukfEktRf4Sg/master.m3u8
 #EXTINF:-1 tvg-name="Feed D - Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am_old_v3.jpg" tvg-id="117710" group-title="Pebble Beach Pro-AM",Feed D - Day 2
 https://dai.google.com/linear/hls/event/GxpRpbWyTKSv9gEWBp8hpA/master.m3u8
-#EXTINF:-1 tvg-name="Feed C - Day 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="117731" group-title="Pebble Beach Pro-AM",Feed C - Day 2
+#EXTINF:-1 tvg-name="Feed C - Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am_old_v1.jpg" tvg-id="117731" group-title="Pebble Beach Pro-AM",Feed C - Day 2
 https://dai.google.com/linear/hls/event/kF8c_lKlSDSB9pYBPNauig/master.m3u8
 #EXTINF:-1 tvg-name="Fenerbahce Beko Istanbul vs Virtus Bologna" tvg-logo="https://www.fancode.com/aig/match/v1/116270_CASACARDS_APP.png" tvg-id="116270" group-title="EuroLeague 2024-25",Fenerbahce Beko Istanbul vs Virtus Bologna
 https://dai.google.com/linear/hls/event/iAYaDMHSRjuJMFMAQ8RBHw/master.m3u8
