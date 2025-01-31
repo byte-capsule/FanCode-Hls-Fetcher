@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "31-01-2025 on 2:26:52 PM \ud83c\udf1e",
+  "total_mathes": 7,
+  "last_upaded": "31-01-2025 on 2:42:58 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -30,6 +30,18 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "Nepal Women's T20I Triangular Series",
+      "match_id": 117637,
+      "match_name": "Netherlands Women vs Thailand Women",
+      "team_1": "Netherlands Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
+      "team_2": "Thailand Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THL@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/boDkQicGT5GWLNvlVfPJNQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "West Indies Championship, 2025",
       "match_id": 117750,
       "match_name": "Trinidad & Tobago Red Force vs Combined Campuses and Colleges",
@@ -53,16 +65,16 @@
       "stream_link": "https://dai.google.com/linear/hls/event/VSJHoz_6QdOFqiZAky-n_w/master.m3u8"
     },
     {
-      "event_catagory": "cricket",
-      "event_name": "Nepal Women's T20I Triangular Series",
-      "match_id": 117637,
-      "match_name": "Netherlands Women vs Thailand Women",
-      "team_1": "Netherlands Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
-      "team_2": "Thailand Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THL@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/boDkQicGT5GWLNvlVfPJNQ/master.m3u8"
+      "event_catagory": "football",
+      "event_name": "A League 2024-25",
+      "match_id": 110987,
+      "match_name": "Brisbane Roar vs Western Sydney Wanderers",
+      "team_1": "Brisbane Roar",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BRBI@2x.png",
+      "team_2": "Western Sydney Wanderers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYWA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110987_4567_BRB_SYW_fc-web_1728983130346.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/D54yqOOBQn6yxa5lcXxVlw/master.m3u8"
     },
     {
       "event_catagory": "golf",
