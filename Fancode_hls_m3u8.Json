@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 10,
-  "last_upaded": "31-01-2025 on 5:53:03 PM \ud83c\udf1e",
+  "total_mathes": 9,
+  "last_upaded": "31-01-2025 on 6:41:27 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -30,30 +30,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Guwahati Premier League, 2025",
-      "match_id": 117437,
-      "match_name": "Gauhati Town Club vs Nabajyoti Club",
-      "team_1": "Gauhati Town Club",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GATC@2x.png",
-      "team_2": "Nabajyoti Club",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NBC@2x.png",
-      "banner": false,
-      "stream_link": "https://dai.google.com/linear/hls/event/K7lPCIZtQW-zvC_CKCl2-Q/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Oman D50 League, 2025",
-      "match_id": 116775,
-      "match_name": "Royal Oman Stallions vs Yalla Shabab Giants",
-      "team_1": "Royal Oman Stallions",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROS@2x.png",
-      "team_2": "Yalla Shabab Giants",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YSG@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/116765_4759_ROS_YSG_fc-Web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/3_PiWN4qSGS-QTs5aLKTzg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "ECI Portugal-Spain, 2025",
       "match_id": 117794,
       "match_name": "Portugal vs Spain",
@@ -66,6 +42,18 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "BOX Office White Ball T20",
+      "match_id": 117830,
+      "match_name": "Krazy Stallions vs Raghubansh",
+      "team_1": "Krazy Stallions",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR16@2x.png",
+      "team_2": "Raghubansh",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RBS@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-White-Ball-T20-old-Match-card.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/PLQ4sKplSxCzYVH-NzV0yQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "Australia tour of Sri Lanka, 2025",
       "match_id": 115615,
       "match_name": "Australia vs Sri Lanka",
@@ -75,6 +63,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Oman D50 League, 2025",
+      "match_id": 116775,
+      "match_name": "Royal Oman Stallions vs Yalla Shabab Giants",
+      "team_1": "Royal Oman Stallions",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROS@2x.png",
+      "team_2": "Yalla Shabab Giants",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YSG@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/116765_4759_ROS_YSG_fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/3_PiWN4qSGS-QTs5aLKTzg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -99,18 +99,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HARP@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/117749_4799_GUY_BAR_fc-Web_1738071641349.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/VSJHoz_6QdOFqiZAky-n_w/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "BOX Office White Ball T20",
-      "match_id": 117830,
-      "match_name": "Krazy Stallions vs Raghubansh",
-      "team_1": "Krazy Stallions",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR16@2x.png",
-      "team_2": "Raghubansh",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RBS@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-White-Ball-T20-old-Match-card.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/PLQ4sKplSxCzYVH-NzV0yQ/master.m3u8"
     },
     {
       "event_catagory": "golf",
