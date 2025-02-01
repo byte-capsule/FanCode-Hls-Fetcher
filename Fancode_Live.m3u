@@ -1,14 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Trinidad & Tobago Red Force vs Combined Campuses and Colleges" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="117750" group-title="West Indies Championship, 2025",Trinidad & Tobago Red Force vs Combined Campuses and Colleges
 https://dai.google.com/linear/hls/event/sw02Nl65RWajAkebgNpyzw/master.m3u8
-#EXTINF:-1 tvg-name="Australia vs Sri Lanka" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg" tvg-id="115615" group-title="Australia tour of Sri Lanka, 2025",Australia vs Sri Lanka
-https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
 #EXTINF:-1 tvg-name="Legend Sporting Club vs Ankurjyoti Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117441_4781_LSC_AC_fc-web.jpg" tvg-id="117441" group-title="Guwahati Premier League, 2025",Legend Sporting Club vs Ankurjyoti Club
 https://dai.google.com/linear/hls/event/l_h3rtt8TOuxPgWDtdJSQQ/master.m3u8
-#EXTINF:-1 tvg-name="Dhaka Capitals vs Khulna Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113388_4644_DC_KHT_fc-web.jpg" tvg-id="113388" group-title="Bangladesh Premier League, 2024-25",Dhaka Capitals vs Khulna Tigers
-https://dai.google.com/linear/hls/event/e2B41XaXQOiYXJQYjFZ5gw/master.m3u8
 #EXTINF:-1 tvg-name="Portugal vs Spain" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECI-Portugal-Spain_2025_match-card-(1)_1738318156453.jpg" tvg-id="117796" group-title="ECN Porto T20, 2025",Portugal vs Spain
 https://dai.google.com/linear/hls/event/puZWbbgyTVqKaw69CZxK_w/master.m3u8
+#EXTINF:-1 tvg-name="Dhaka Capitals vs Khulna Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113388_4644_DC_KHT_fc-web.jpg" tvg-id="113388" group-title="Bangladesh Premier League, 2024-25",Dhaka Capitals vs Khulna Tigers
+https://dai.google.com/linear/hls/event/e2B41XaXQOiYXJQYjFZ5gw/master.m3u8
 #EXTINF:-1 tvg-name="Central Coast Mariners vs Newcastle Jets" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110990_4567_CCM_NJ_fc-web_1728983129174.jpg" tvg-id="110990" group-title="A League 2024-25",Central Coast Mariners vs Newcastle Jets
 https://dai.google.com/linear/hls/event/UPp9JEs9QsSitmUQmr0x3g/master.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bahrain-Championship_old_v1.jpg" tvg-id="117647" group-title="Bahrain Championship",Day 3
