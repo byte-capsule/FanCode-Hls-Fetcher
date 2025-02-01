@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "01-02-2025 on 11:53:10 AM \ud83c\udf1e",
+  "total_mathes": 6,
+  "last_upaded": "01-02-2025 on 0:28:49 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,18 +15,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CCCM@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
       "stream_link": "https://dai.google.com/linear/hls/event/sw02Nl65RWajAkebgNpyzw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Dream11 Super Smash, 2024-25",
-      "match_id": 114501,
-      "match_name": "Northern Districts vs Canterbury",
-      "team_1": "Northern Districts",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NB-W-CR1@2x.png",
-      "team_2": "Canterbury",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KING@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/114489_4676_ND_CTB_fc-Web_1738260463082.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/gBSE1AvrSqafEz1Y2SxWag/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -66,27 +54,27 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "WNCL, 2024-25",
-      "match_id": 109408,
-      "match_name": "Tasmania Women vs ACT Meteors",
-      "team_1": "Tasmania Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TAS@2x.png",
-      "team_2": "ACT Meteors",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACTM@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/109408_4508_TASW_ACTM_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/s9jHbRyBTECmRGlnrCox9Q/master.m3u8"
+      "event_name": "Nepal Women's T20I Triangular Series",
+      "match_id": 117636,
+      "match_name": "Nepal Women vs Thailand Women",
+      "team_1": "Nepal Women",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
+      "team_2": "Thailand Women",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THL@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/bYWsDnwKSeyoravhY2pr2A/master.m3u8"
     },
     {
       "event_catagory": "football",
       "event_name": "A League 2024-25",
-      "match_id": 110988,
-      "match_name": "Auckland vs Macarthur",
-      "team_1": "Auckland",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AUCK@2x.png",
-      "team_2": "Macarthur",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MACA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110988_4567_AFC_MAC_fc-web_1728983128307.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/PVvXtnGlSOOyRZZEZz_quA/master.m3u8"
+      "match_id": 110989,
+      "match_name": "Sydney FC vs Adelaide United",
+      "team_1": "Sydney FC",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYDA@2x.png",
+      "team_2": "Adelaide United",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ADLA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110989_4567_SYD_ADL_fc-web_1728983128175.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/hM1HE8vRTE29grefdeyWTQ/master.m3u8"
     }
   ]
 }
