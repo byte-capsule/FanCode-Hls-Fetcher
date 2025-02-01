@@ -3,13 +3,13 @@
 https://dai.google.com/linear/hls/event/v0IHR5_vS8W3_Hs_xL-VKQ/master.m3u8
 #EXTINF:-1 tvg-name="Trinidad & Tobago Red Force vs Combined Campuses and Colleges" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="117750" group-title="West Indies Championship, 2025",Trinidad & Tobago Red Force vs Combined Campuses and Colleges
 https://dai.google.com/linear/hls/event/sw02Nl65RWajAkebgNpyzw/master.m3u8
-#EXTINF:-1 tvg-name="Spain vs Portugal" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECI-Portugal-Spain_2025_match-card-(1).jpg" tvg-id="117797" group-title="ECN Porto T20, 2025",Spain vs Portugal
-https://dai.google.com/linear/hls/event/gYd_yFIITs-jVfjp2HVPSg/master.m3u8
 #EXTINF:-1 tvg-name="Abu Dhabi Knight Riders vs Gulf Giants" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115978_4730_ADKR_GG_fc-web.jpg" tvg-id="115978" group-title="DP World International League T20, 2025",Abu Dhabi Knight Riders vs Gulf Giants
 https://dai.google.com/linear/hls/event/NIgeBKf1QIeXYjtHjukokA/master.m3u8
-#EXTINF:-1 tvg-name="Swansea City vs Coventry City" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Swansea-City-vs-Conventry-city_fc_app_fc-web.jpg" tvg-id="116553" group-title="EFL Championship 2024-25",Swansea City vs Coventry City
-https://dai.google.com/linear/hls/event/d8Czl3vBT-yGQupubzvyFQ/master.m3u8
 #EXTINF:-1 tvg-name="Feed B - Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am_old_v3.jpg" tvg-id="117733" group-title="Pebble Beach Pro-AM",Feed B - Day 3
 https://dai.google.com/linear/hls/event/5TCUe-mvSSyjqrfb0sHS6Q/master.m3u8
 #EXTINF:-1 tvg-name="Feed E - Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am_old_v1.jpg" tvg-id="117734" group-title="Pebble Beach Pro-AM",Feed E - Day 3
 https://dai.google.com/linear/hls/event/4vCs_dcKTmypIpwtQXY99Q/master.m3u8
+#EXTINF:-1 tvg-name="Feed D - Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am_old_v2.jpg" tvg-id="117735" group-title="Pebble Beach Pro-AM",Feed D - Day 3
+https://dai.google.com/linear/hls/event/28PrT6yPRcifW-FWt9YZ-w/master.m3u8
+#EXTINF:-1 tvg-name="Feed C - Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am_old_v3.jpg" tvg-id="117736" group-title="Pebble Beach Pro-AM",Feed C - Day 3
+https://dai.google.com/linear/hls/event/kGvIUXdGSo6wMM_3zi5VLg/master.m3u8
