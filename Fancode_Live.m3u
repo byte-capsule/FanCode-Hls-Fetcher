@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Trinidad & Tobago Red Force vs Combined Campuses and Colleges" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="117750" group-title="West Indies Championship, 2025",Trinidad & Tobago Red Force vs Combined Campuses and Colleges
 https://dai.google.com/linear/hls/event/sw02Nl65RWajAkebgNpyzw/master.m3u8
+#EXTINF:-1 tvg-name="Queensland Fire vs South Australian Scorpions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109406_4508_SASC_QLF_fc-web.jpg" tvg-id="109406" group-title="WNCL, 2024-25",Queensland Fire vs South Australian Scorpions
+https://dai.google.com/linear/hls/event/5JCFjU0hTe-Xwp4NdhXwVA/master.m3u8
 #EXTINF:-1 tvg-name="Australia vs Sri Lanka" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg" tvg-id="115615" group-title="Australia tour of Sri Lanka, 2025",Australia vs Sri Lanka
 https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
 #EXTINF:-1 tvg-name="91 Yards Club vs Guwahati Giants" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117438_4781_NYC_GUG_fc-web.jpg" tvg-id="117438" group-title="Guwahati Premier League, 2025",91 Yards Club vs Guwahati Giants
 https://dai.google.com/linear/hls/event/2TDskaVwTgagSzUy8UAAtw/master.m3u8
-#EXTINF:-1 tvg-name="Queensland Fire vs South Australian Scorpions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109406_4508_SASC_QLF_fc-web.jpg" tvg-id="109406" group-title="WNCL, 2024-25",Queensland Fire vs South Australian Scorpions
-https://dai.google.com/linear/hls/event/5JCFjU0hTe-Xwp4NdhXwVA/master.m3u8
 #EXTINF:-1 tvg-name="Nepal Women vs Thailand Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="117636" group-title="Nepal Women's T20I Triangular Series",Nepal Women vs Thailand Women
 https://dai.google.com/linear/hls/event/bYWsDnwKSeyoravhY2pr2A/master.m3u8
 #EXTINF:-1 tvg-name="Sydney FC vs Adelaide United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110989_4567_SYD_ADL_fc-web_1728983128175.jpg" tvg-id="110989" group-title="A League 2024-25",Sydney FC vs Adelaide United
