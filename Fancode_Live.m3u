@@ -1,1 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Trinidad & Tobago Red Force vs Combined Campuses and Colleges" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="117750" group-title="West Indies Championship, 2025",Trinidad & Tobago Red Force vs Combined Campuses and Colleges
+https://dai.google.com/linear/hls/event/sw02Nl65RWajAkebgNpyzw/master.m3u8
+#EXTINF:-1 tvg-name="Wellington Blaze vs Northern Brave Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="114533" group-title="Dream11 Women's Super Smash, 2024-25",Wellington Blaze vs Northern Brave Women
+https://dai.google.com/linear/hls/event/pantYKO5RASFOn31TrN6_g/master.m3u8
+#EXTINF:-1 tvg-name="Australia vs Sri Lanka" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg" tvg-id="115615" group-title="Australia tour of Sri Lanka, 2025",Australia vs Sri Lanka
+https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
+#EXTINF:-1 tvg-name="South Australian Scorpions vs Queensland Fire" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109406_4508_SASC_QLF_fc-web.jpg" tvg-id="109406" group-title="WNCL, 2024-25",South Australian Scorpions vs Queensland Fire
+https://dai.google.com/linear/hls/event/5JCFjU0hTe-Xwp4NdhXwVA/master.m3u8
+#EXTINF:-1 tvg-name="Tasmania Women vs ACT Meteors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109408_4508_TASW_ACTM_fc-web.jpg" tvg-id="109408" group-title="WNCL, 2024-25",Tasmania Women vs ACT Meteors
+https://dai.google.com/linear/hls/event/s9jHbRyBTECmRGlnrCox9Q/master.m3u8
