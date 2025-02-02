@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Bokakhat Town Cricket Club vs City Cricket Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117439_4781_BTC_CCC_fc-web.jpg" tvg-id="117439" group-title="Guwahati Premier League, 2025",Bokakhat Town Cricket Club vs City Cricket Club
 https://dai.google.com/linear/hls/event/oGLdRTupR0CtNaXEOcm0kQ/master.m3u8
-#EXTINF:-1 tvg-name="Netherlands Women vs Nepal Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="117638" group-title="Nepal Women's T20I Triangular Series",Netherlands Women vs Nepal Women
-https://dai.google.com/linear/hls/event/Tpl3DApgQgOp_0ShlVdA2A/master.m3u8
 #EXTINF:-1 tvg-name="Portugal vs Spain" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECI-Portugal-Spain_2025_match-card-(1).jpg" tvg-id="117798" group-title="ECN Porto T20, 2025",Portugal vs Spain
 https://dai.google.com/linear/hls/event/wKg13icFRqajBi88IP3OUw/master.m3u8
+#EXTINF:-1 tvg-name="MI Emirates vs Sharjah Warriorz" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115979_4730_MIE_SWR_fc-web.jpg" tvg-id="115979" group-title="DP World International League T20, 2025",MI Emirates vs Sharjah Warriorz
+https://dai.google.com/linear/hls/event/qKHFGgheRGqx48QQ-lkX9w/master.m3u8
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bahrain-Championship_old_v2.jpg" tvg-id="117648" group-title="Bahrain Championship",Day 4
 https://dai.google.com/linear/hls/event/OAuUrOMiR2aS893VvgFSEQ/master.m3u8
