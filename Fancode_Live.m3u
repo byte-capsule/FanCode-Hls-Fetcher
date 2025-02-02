@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Canterbury vs Central Stags" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/114487_4676_CS_CTB_fc-Web_1735207964825.jpg" tvg-id="114502" group-title="Dream11 Super Smash, 2024-25",Canterbury vs Central Stags
 https://dai.google.com/linear/hls/event/y5NeVcEOT9-7UPh-1UyplA/master.m3u8
+#EXTINF:-1 tvg-name="New Star Club vs Bud Cricket Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117440_4781_BCC_NSC_fc-web.jpg" tvg-id="117440" group-title="Guwahati Premier League, 2025",New Star Club vs Bud Cricket Club
+https://dai.google.com/linear/hls/event/5137wcoRTM-r8LEb8p_WJQ/master.m3u8
