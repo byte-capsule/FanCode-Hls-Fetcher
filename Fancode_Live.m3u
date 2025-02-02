@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Bokakhat Town Cricket Club vs City Cricket Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117439_4781_BTC_CCC_fc-web.jpg" tvg-id="117439" group-title="Guwahati Premier League, 2025",Bokakhat Town Cricket Club vs City Cricket Club
+https://dai.google.com/linear/hls/event/oGLdRTupR0CtNaXEOcm0kQ/master.m3u8
 #EXTINF:-1 tvg-name="Netherlands Women vs Nepal Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="117638" group-title="Nepal Women's T20I Triangular Series",Netherlands Women vs Nepal Women
 https://dai.google.com/linear/hls/event/Tpl3DApgQgOp_0ShlVdA2A/master.m3u8
 #EXTINF:-1 tvg-name="Portugal vs Spain" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECI-Portugal-Spain_2025_match-card-(1).jpg" tvg-id="117798" group-title="ECN Porto T20, 2025",Portugal vs Spain
