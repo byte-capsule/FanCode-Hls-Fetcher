@@ -1,15 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Vredenburg/Saldanha CC vs Maties Cricket Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="117488" group-title="Boland T20 Super League Finals, 2025",Vredenburg/Saldanha CC vs Maties Cricket Club
-https://dai.google.com/linear/hls/event/likQ4dmURlq0nnXctDZlqQ/master.m3u8
 #EXTINF:-1 tvg-name="Lexus vs Mangaf Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115830_4721_LEX_MAW_fc-web.jpg" tvg-id="115830" group-title="KCC T20 Challengers B League, 2024-25",Lexus vs Mangaf Warriors
 https://dai.google.com/linear/hls/event/JLKQrugqSjawr7u7T_eqGA/master.m3u8
-#EXTINF:-1 tvg-name="Feed D - Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am_old_v2.jpg" tvg-id="117741" group-title="Pebble Beach Pro-AM",Feed D - Day 4
-https://dai.google.com/linear/hls/event/v7MAcGuPSUSCODnOvRqzNQ/master.m3u8
-#EXTINF:-1 tvg-name="Feed E - Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am_old_v1.jpg" tvg-id="117740" group-title="Pebble Beach Pro-AM",Feed E - Day 4
-https://dai.google.com/linear/hls/event/Jjk8Q6PfRRqtqZ-w6cn0Pg/master.m3u8
-#EXTINF:-1 tvg-name="Feed C - Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am_old_v3.jpg" tvg-id="117739" group-title="Pebble Beach Pro-AM",Feed C - Day 4
-https://dai.google.com/linear/hls/event/ehvO6RnPR9yeHLVltquAZQ/master.m3u8
-#EXTINF:-1 tvg-name="Feed B - Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am_old_v2.jpg" tvg-id="117738" group-title="Pebble Beach Pro-AM",Feed B - Day 4
-https://dai.google.com/linear/hls/event/aGORjyBYSU2AYwVODR92bg/master.m3u8
-#EXTINF:-1 tvg-name="Feed A - Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am_old_v3.jpg" tvg-id="117742" group-title="Pebble Beach Pro-AM",Feed A - Day 4
-https://dai.google.com/linear/hls/event/oZKT5i4sRLaEJVx_kcVRfQ/master.m3u8

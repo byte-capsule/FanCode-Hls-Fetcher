@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "03-02-2025 on 00:56:23 AM \ud83c\udf19",
+  "total_mathes": 1,
+  "last_upaded": "03-02-2025 on 01:38:51 AM \ud83c\udf19",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Boland T20 Super League Finals, 2025",
-      "match_id": 117488,
-      "match_name": "Vredenburg/Saldanha CC vs Maties Cricket Club",
-      "team_1": "Vredenburg/Saldanha CC",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VDS@2x.png",
-      "team_2": "Maties Cricket Club",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MACC@2x.png",
-      "banner": false,
-      "stream_link": "https://dai.google.com/linear/hls/event/likQ4dmURlq0nnXctDZlqQ/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "KCC T20 Challengers B League, 2024-25",
@@ -27,66 +15,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAW@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/115830_4721_LEX_MAW_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/JLKQrugqSjawr7u7T_eqGA/master.m3u8"
-    },
-    {
-      "event_catagory": "golf",
-      "event_name": "Pebble Beach Pro-AM",
-      "match_id": 117741,
-      "match_name": "Feed D - Day 4",
-      "team_1": "Feed D - Day 4",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PBP@2x.png",
-      "team_2": "Pebble Beach, CA",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am_old_v2.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/v7MAcGuPSUSCODnOvRqzNQ/master.m3u8"
-    },
-    {
-      "event_catagory": "golf",
-      "event_name": "Pebble Beach Pro-AM",
-      "match_id": 117740,
-      "match_name": "Feed E - Day 4",
-      "team_1": "Feed E - Day 4",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PBP@2x.png",
-      "team_2": "Pebble Beach, CA",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am_old_v1.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/Jjk8Q6PfRRqtqZ-w6cn0Pg/master.m3u8"
-    },
-    {
-      "event_catagory": "golf",
-      "event_name": "Pebble Beach Pro-AM",
-      "match_id": 117739,
-      "match_name": "Feed C - Day 4",
-      "team_1": "Feed C - Day 4",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PBP@2x.png",
-      "team_2": "Pebble Beach, CA",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am_old_v3.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/ehvO6RnPR9yeHLVltquAZQ/master.m3u8"
-    },
-    {
-      "event_catagory": "golf",
-      "event_name": "Pebble Beach Pro-AM",
-      "match_id": 117738,
-      "match_name": "Feed B - Day 4",
-      "team_1": "Feed B - Day 4",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PBP@2x.png",
-      "team_2": "Pebble Beach, CA",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am_old_v2.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/aGORjyBYSU2AYwVODR92bg/master.m3u8"
-    },
-    {
-      "event_catagory": "golf",
-      "event_name": "Pebble Beach Pro-AM",
-      "match_id": 117742,
-      "match_name": "Feed A - Day 4",
-      "team_1": "Feed A - Day 4",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PBP@2x.png",
-      "team_2": "Pebble Beach, CA",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am_old_v3.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/oZKT5i4sRLaEJVx_kcVRfQ/master.m3u8"
     }
   ]
 }
