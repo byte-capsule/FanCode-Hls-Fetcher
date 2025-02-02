@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Paarl CC vs Giflo Young Peoples CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117487_4787_YPS_PRC_Fc-Web.jpg" tvg-id="117487" group-title="Boland T20 Super League Finals, 2025",Paarl CC vs Giflo Young Peoples CC
+https://dai.google.com/linear/hls/event/asDWRQr_RpGeJcZEx1RxJg/master.m3u8
 #EXTINF:-1 tvg-name="Bokakhat Town Cricket Club vs City Cricket Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117439_4781_BTC_CCC_fc-web.jpg" tvg-id="117439" group-title="Guwahati Premier League, 2025",Bokakhat Town Cricket Club vs City Cricket Club
 https://dai.google.com/linear/hls/event/oGLdRTupR0CtNaXEOcm0kQ/master.m3u8
 #EXTINF:-1 tvg-name="Spain vs Portugal" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECI-Portugal-Spain_2025_match-card-(1).jpg" tvg-id="117798" group-title="ECN Porto T20, 2025",Spain vs Portugal
