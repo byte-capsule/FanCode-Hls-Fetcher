@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 7,
-  "last_upaded": "02-02-2025 on 11:38:02 PM \ud83c\udf19",
+  "last_upaded": "02-02-2025 on 11:53:19 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,18 +27,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAW@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/115830_4721_LEX_MAW_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/JLKQrugqSjawr7u7T_eqGA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "DP World International League T20, 2025",
-      "match_id": 115980,
-      "match_name": "Dubai Capitals vs Abu Dhabi Knight Riders",
-      "team_1": "Dubai Capitals",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DCDP@2x.png",
-      "team_2": "Abu Dhabi Knight Riders",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ADKR@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115980_4730_DC_ADKR_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/aY_l8lZWSzSk2ECTlA1cJg/master.m3u8"
     },
     {
       "event_catagory": "golf",
@@ -87,6 +75,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am_old_v2.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/aGORjyBYSU2AYwVODR92bg/master.m3u8"
+    },
+    {
+      "event_catagory": "golf",
+      "event_name": "Pebble Beach Pro-AM",
+      "match_id": 117742,
+      "match_name": "Feed A - Day 4",
+      "team_1": "Feed A - Day 4",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PBP@2x.png",
+      "team_2": "Pebble Beach, CA",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am_old_v3.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/oZKT5i4sRLaEJVx_kcVRfQ/master.m3u8"
     }
   ]
 }
