@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Paarl CC vs Giflo Young Peoples CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117487_4787_YPS_PRC_Fc-Web.jpg" tvg-id="117487" group-title="Boland T20 Super League Finals, 2025",Paarl CC vs Giflo Young Peoples CC
 https://dai.google.com/linear/hls/event/asDWRQr_RpGeJcZEx1RxJg/master.m3u8
-#EXTINF:-1 tvg-name="MI Emirates vs Sharjah Warriorz" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115979_4730_MIE_SWR_fc-web.jpg" tvg-id="115979" group-title="DP World International League T20, 2025",MI Emirates vs Sharjah Warriorz
-https://dai.google.com/linear/hls/event/qKHFGgheRGqx48QQ-lkX9w/master.m3u8
+#EXTINF:-1 tvg-name="Portugal vs Spain" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECI-Portugal-Spain_2025_match-card-(1).jpg" tvg-id="117799" group-title="ECN Porto T20, 2025",Portugal vs Spain
+https://dai.google.com/linear/hls/event/cHevuptISTy0yFU6Oo-qiA/master.m3u8
 #EXTINF:-1 tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bahrain-Championship_old_v2.jpg" tvg-id="117648" group-title="Bahrain Championship",Day 4
 https://dai.google.com/linear/hls/event/OAuUrOMiR2aS893VvgFSEQ/master.m3u8
