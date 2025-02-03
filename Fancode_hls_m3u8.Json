@@ -2,31 +2,19 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 3,
-  "last_upaded": "03-02-2025 on 2:57:34 PM \ud83c\udf1e",
+  "last_upaded": "03-02-2025 on 3:25:29 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
-      "event_name": "Nepal Women's T20I Triangular Series",
-      "match_id": 117640,
-      "match_name": "Thailand Women vs Netherlands Women",
-      "team_1": "Thailand Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THL@2x.png",
-      "team_2": "Netherlands Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/E8CNvBPmS7GnVYKr4F0ihw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Bangladesh Premier League, 2024-25",
-      "match_id": 113390,
-      "match_name": "Rangpur Riders vs Khulna Tigers",
-      "team_1": "Rangpur Riders",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RANG@2x.png",
-      "team_2": "Khulna Tigers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KHTI@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113367_4644_RAN_KHT_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/e6Q8tfZ8RnCH9OeIgkrGxQ/master.m3u8"
+      "event_name": "Guwahati Premier League, 2025",
+      "match_id": 117443,
+      "match_name": "Legend Sporting Club vs Nabajyoti Club",
+      "team_1": "Legend Sporting Club",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LSC@2x.png",
+      "team_2": "Nabajyoti Club",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NBC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/117443_4781_LSC_NBC_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/Nzq-8_tyT6qnQUn2oBBMJg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -39,6 +27,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAL@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Hungary-VS-Malta_old-Match-card.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/CnejQfCITYC1h1IWZmef3g/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Bangladesh Premier League, 2024-25",
+      "match_id": 113390,
+      "match_name": "Rangpur Riders vs Khulna Tigers",
+      "team_1": "Rangpur Riders",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RANG@2x.png",
+      "team_2": "Khulna Tigers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KHTI@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/113367_4644_RAN_KHT_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/e6Q8tfZ8RnCH9OeIgkrGxQ/master.m3u8"
     }
   ]
 }
