@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "03-02-2025 on 11:39:09 PM \ud83c\udf19",
+  "total_mathes": 5,
+  "last_upaded": "03-02-2025 on 11:52:59 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,6 +27,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DCDP@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/115981_4730_DV_DC_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/8G-27TjRQ_mBZYArQJT7sQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ECSN Portugal, 2025",
+      "match_id": 117757,
+      "match_name": "Lisbon Capitals vs Coimbra Knights",
+      "team_1": "Lisbon Capitals",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LICB@2x.png",
+      "team_2": "Coimbra Knights",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CKCC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/117757_4800_CK_LCA_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/fnY7I6ntSYGA3qFzxO8Bug/master.m3u8"
     },
     {
       "event_catagory": "football",
