@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Thailand Women vs Netherlands Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="117640" group-title="Nepal Women's T20I Triangular Series",Thailand Women vs Netherlands Women
 https://dai.google.com/linear/hls/event/E8CNvBPmS7GnVYKr4F0ihw/master.m3u8
-#EXTINF:-1 tvg-name="City Cricket Club vs BDMTCC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117442_4781_BDM_CCC_fc-web.jpg" tvg-id="117442" group-title="Guwahati Premier League, 2025",City Cricket Club vs BDMTCC
-https://dai.google.com/linear/hls/event/xmiIihP-Q3mFkxqGIc-hgA/master.m3u8
 #EXTINF:-1 tvg-name="Rangpur Riders vs Khulna Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113367_4644_RAN_KHT_fc-web.jpg" tvg-id="113390" group-title="Bangladesh Premier League, 2024-25",Rangpur Riders vs Khulna Tigers
 https://dai.google.com/linear/hls/event/e6Q8tfZ8RnCH9OeIgkrGxQ/master.m3u8
 #EXTINF:-1 tvg-name="Hungary vs Malta" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungary-VS-Malta_old-Match-card.jpg" tvg-id="117811" group-title="ECN Malta T20I Tri-Series, 2025",Hungary vs Malta
