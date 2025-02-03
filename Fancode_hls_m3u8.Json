@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "03-02-2025 on 11:52:59 PM \ud83c\udf19",
+  "total_mathes": 3,
+  "last_upaded": "04-02-2025 on 00:29:41 AM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,18 +15,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WUT@2x.png",
       "banner": false,
       "stream_link": "https://dai.google.com/linear/hls/event/455sBTEuSnCSfjgws-9CVg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "DP World International League T20, 2025",
-      "match_id": 115981,
-      "match_name": "Desert Vipers vs Dubai Capitals",
-      "team_1": "Desert Vipers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DVDD@2x.png",
-      "team_2": "Dubai Capitals",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DCDP@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115981_4730_DV_DC_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/8G-27TjRQ_mBZYArQJT7sQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -43,26 +31,14 @@
     {
       "event_catagory": "football",
       "event_name": "AFC Champions League Elite 2024-25",
-      "match_id": 108701,
-      "match_name": "Al Sadd vs Al-Ahli",
-      "team_1": "Al Sadd",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALSAD@2x.png",
-      "team_2": "Al-Ahli",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AAS@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/prod-images/2024/09/108701_4475_SDD_AAS_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/AOQfvW-oQQWPp-BPHamorA/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "AFC Champions League Elite 2024-25",
-      "match_id": 108700,
-      "match_name": "Esteghlal FC vs Al Shorta",
-      "team_1": "Esteghlal FC",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ESG@2x.png",
-      "team_2": "Al Shorta",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHR@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/prod-images/2024/09/108700_4475_ESG_SHR_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/-eJID3ozSk6vBRctcRKzQg/master.m3u8"
+      "match_id": 108702,
+      "match_name": "Al-Nassr vs Al Wasl",
+      "team_1": "Al-Nassr",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ANF@2x.png",
+      "team_2": "Al Wasl",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AWL@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/prod-images/2024/09/108702_4475_ANF_AWL_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/tTDAH4g8RxmrpZbqoZxWuA/master.m3u8"
     }
   ]
 }
