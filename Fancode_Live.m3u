@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Malta vs Hungary" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Malta-vs-Hungary_oldMatch-card_1738567893277.jpg" tvg-id="117814" group-title="ECN Malta T20I Tri-Series, 2025",Malta vs Hungary
+#EXTINF:-1 tvg-name="Malta vs Hungary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="117814" group-title="ECN Malta T20I Tri-Series, 2025",Malta vs Hungary
 https://dai.google.com/linear/hls/event/DJtPJX2yRP6sEvFkzMGV_A/master.m3u8
 #EXTINF:-1 tvg-name="Team Krishshil vs Red Wings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Box-Office-T20-Red-Ball_match-card.jpg" tvg-id="118150" group-title="Box Office T20 Red Ball",Team Krishshil vs Red Wings
 https://dai.google.com/linear/hls/event/O1Q5Ba6JQX6YLfpNWOzfCQ/master.m3u8
