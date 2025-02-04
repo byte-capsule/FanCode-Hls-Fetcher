@@ -1,20 +1,20 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "04-02-2025 on 8:54:21 PM \ud83c\udf19",
+  "total_mathes": 2,
+  "last_upaded": "04-02-2025 on 9:23:51 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
-      "event_name": "ECN Malta T20I Tri-Series, 2025",
-      "match_id": 117814,
-      "match_name": "Malta vs Hungary",
-      "team_1": "Malta",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAL@2x.png",
-      "team_2": "Hungary",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HUNG@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Malta-vs-Hungary_oldMatch-card_1738567893277.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/DJtPJX2yRP6sEvFkzMGV_A/master.m3u8"
+      "event_name": "BOX Office White Ball T20",
+      "match_id": 118151,
+      "match_name": "Alviva Sporting Club vs Starboys",
+      "team_1": "Alviva Sporting Club",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR17@2x.png",
+      "team_2": "Starboys",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SBB@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-White-Ball-T20-old-Match-card.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/vC-4W2PdQ965ITMMgkG6LQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -27,18 +27,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RW@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Box-Office-T20-Red-Ball_match-card.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/O1Q5Ba6JQX6YLfpNWOzfCQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "BOX Office White Ball T20",
-      "match_id": 118151,
-      "match_name": "Alviva Sporting Club vs Starboys",
-      "team_1": "Alviva Sporting Club",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR17@2x.png",
-      "team_2": "Starboys",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SBB@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-White-Ball-T20-old-Match-card.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/vC-4W2PdQ965ITMMgkG6LQ/master.m3u8"
     }
   ]
 }
