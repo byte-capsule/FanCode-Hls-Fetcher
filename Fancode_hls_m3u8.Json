@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "05-02-2025 on 3:40:11 PM \ud83c\udf1e",
+  "total_mathes": 3,
+  "last_upaded": "05-02-2025 on 3:53:13 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,18 +27,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUST@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Austria-vs-Malta_old-Match-card.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/oTBWPCsLTaapNDzkupFTLA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Nepal Women's T20I Triangular Series",
-      "match_id": 117641,
-      "match_name": "Nepal Women vs Netherlands Women",
-      "team_1": "Nepal Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
-      "team_2": "Netherlands Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/41tfzfjCQ66nNBh6ZK4BbQ/master.m3u8"
     },
     {
       "event_catagory": "golf",
