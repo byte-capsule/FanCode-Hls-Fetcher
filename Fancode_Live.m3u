@@ -5,11 +5,9 @@ https://dai.google.com/linear/hls/event/bO2IYAt2SwedLWQlkUnj5Q/master.m3u8
 https://dai.google.com/linear/hls/event/BR0g_D7EQt6FyjpIr4VMxQ/master.m3u8
 #EXTINF:-1 tvg-name="Lexus vs Phoenix Cricketers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg" tvg-id="115832" group-title="KCC T20 Challengers B League, 2024-25",Lexus vs Phoenix Cricketers
 https://dai.google.com/linear/hls/event/O6nj3Q7wREythMutDTCwWA/master.m3u8
-#EXTINF:-1 tvg-name="Desert Vipers vs Dubai Capitals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115964_4730_DC_DV_fc-web.jpg" tvg-id="115982" group-title="DP World International League T20, 2025",Desert Vipers vs Dubai Capitals
-https://dai.google.com/linear/hls/event/Rdkp4cBgTOaPwuI1fpLn8g/master.m3u8
-#EXTINF:-1 tvg-name="St Thomas Day vs Hartleys" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-Hundred-Ball-TV-old-Match-card-.png" tvg-id="118157" group-title="Box Office ASL T20",St Thomas Day vs Hartleys
-https://dai.google.com/linear/hls/event/CmzsyNwKShKtdeQHwLWUQg/master.m3u8
-#EXTINF:-1 tvg-name="Combined Campuses and Colleges vs Guyana Harpy Eagles" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117751_4799_GUY_CCC_fc-Web_1738071641408.jpg" tvg-id="117751" group-title="West Indies Championship, 2025",Combined Campuses and Colleges vs Guyana Harpy Eagles
-https://dai.google.com/linear/hls/event/Rlox3h4YR1ehCs3qK0dnIA/master.m3u8
 #EXTINF:-1 tvg-name="Barbados Pride vs West Indies Academy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117752_4799_BAR_WIC_fc-Web_1738071641413.jpg" tvg-id="117752" group-title="West Indies Championship, 2025",Barbados Pride vs West Indies Academy
 https://dai.google.com/linear/hls/event/DOLyOqY2QiaU5dArVB3qJw/master.m3u8
+#EXTINF:-1 tvg-name="Combined Campuses and Colleges vs Guyana Harpy Eagles" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117751_4799_GUY_CCC_fc-Web_1738071641408.jpg" tvg-id="117751" group-title="West Indies Championship, 2025",Combined Campuses and Colleges vs Guyana Harpy Eagles
+https://dai.google.com/linear/hls/event/Rlox3h4YR1ehCs3qK0dnIA/master.m3u8
+#EXTINF:-1 tvg-name="St Thomas Day vs Hartleys" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-Hundred-Ball-TV-old-Match-card-.png" tvg-id="118157" group-title="Box Office ASL T20",St Thomas Day vs Hartleys
+https://dai.google.com/linear/hls/event/CmzsyNwKShKtdeQHwLWUQg/master.m3u8
