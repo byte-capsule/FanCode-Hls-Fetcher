@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Nepal Women vs Netherlands Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="117641" group-title="Nepal Women's T20I Triangular Series",Nepal Women vs Netherlands Women
-https://dai.google.com/linear/hls/event/41tfzfjCQ66nNBh6ZK4BbQ/master.m3u8
+#EXTINF:-1 tvg-name="Gauhati Town Club vs Ankurjyoti Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117447_4781_AC_GTC_fc-web.jpg" tvg-id="117447" group-title="Guwahati Premier League, 2025",Gauhati Town Club vs Ankurjyoti Club
+https://dai.google.com/linear/hls/event/cFgmoICwRIiAQxQAMAlKBQ/master.m3u8
 #EXTINF:-1 tvg-name="Malta vs Austria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Austria-vs-Malta_old-Match-card.jpg" tvg-id="117815" group-title="ECN Malta T20I Tri-Series, 2025",Malta vs Austria
 https://dai.google.com/linear/hls/event/oTBWPCsLTaapNDzkupFTLA/master.m3u8
+#EXTINF:-1 tvg-name="Nepal Women vs Netherlands Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="117641" group-title="Nepal Women's T20I Triangular Series",Nepal Women vs Netherlands Women
+https://dai.google.com/linear/hls/event/41tfzfjCQ66nNBh6ZK4BbQ/master.m3u8
