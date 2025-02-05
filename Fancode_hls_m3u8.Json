@@ -1,9 +1,21 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "05-02-2025 on 11:39:23 PM \ud83c\udf19",
+  "total_mathes": 7,
+  "last_upaded": "05-02-2025 on 11:53:04 PM \ud83c\udf19",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "ECSN Portugal, 2025",
+      "match_id": 117761,
+      "match_name": "Punjab CC Amadora vs Fighters CC",
+      "team_1": "Punjab CC Amadora",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PNJ@2x.png",
+      "team_2": "Fighters CC",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FIG@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/117761_4800_PNJ_FIG_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/bO2IYAt2SwedLWQlkUnj5Q/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "Boland T20 Super League Finals, 2025",
