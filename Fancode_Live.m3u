@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Gauhati Town Club vs Ankurjyoti Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117447_4781_AC_GTC_fc-web.jpg" tvg-id="117447" group-title="Guwahati Premier League, 2025",Gauhati Town Club vs Ankurjyoti Club
 https://dai.google.com/linear/hls/event/cFgmoICwRIiAQxQAMAlKBQ/master.m3u8
-#EXTINF:-1 tvg-name="Malta vs Austria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Austria-vs-Malta_old-Match-card.jpg" tvg-id="117815" group-title="ECN Malta T20I Tri-Series, 2025",Malta vs Austria
-https://dai.google.com/linear/hls/event/oTBWPCsLTaapNDzkupFTLA/master.m3u8
 #EXTINF:-1 tvg-name="Raghubansh vs Avenida Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-Hundred-Ball-TV-old-Match-card-.png" tvg-id="118161" group-title="BOX Office Hundred Ball",Raghubansh vs Avenida Titans
 https://dai.google.com/linear/hls/event/dVDtd--cRfeo0gZ0AT0tmg/master.m3u8
