@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 2,
-  "last_upaded": "05-02-2025 on 5:38:54 PM \ud83c\udf1e",
+  "total_mathes": 3,
+  "last_upaded": "05-02-2025 on 5:53:00 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,6 +15,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AJC@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/117447_4781_AC_GTC_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/cFgmoICwRIiAQxQAMAlKBQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ECN Malta T20I Tri-Series, 2025",
+      "match_id": 117816,
+      "match_name": "Austria vs Hungary",
+      "team_1": "Austria",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUST@2x.png",
+      "team_2": "Hungary",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HUNG@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Hungary-VS-Asstria_old-Match-card.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/WiboD_cDSEqc2gru32POCA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
