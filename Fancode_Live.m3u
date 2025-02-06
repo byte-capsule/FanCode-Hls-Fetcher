@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Hungary vs Austria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117819_4805_HUN_AUT_fc-Web.jpg" tvg-id="117819" group-title="ECI Malta, 2025",Hungary vs Austria
-https://dai.google.com/linear/hls/event/SLvtK7GLTza-rb2ZQyl2XA/master.m3u8
+#EXTINF:-1 tvg-name="Hartleys vs NHS" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-Hundred-Ball-TV-old-Match-card-.png" tvg-id="118156" group-title="Box Office ASL T20",Hartleys vs NHS
+https://dai.google.com/linear/hls/event/U6vpZ2aYQ2G1yJt9PuMTOw/master.m3u8
+#EXTINF:-1 tvg-name="Malta vs Austria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117820_4805_MAL_AUT_fc-Web.jpg" tvg-id="117820" group-title="ECI Malta, 2025",Malta vs Austria
+https://dai.google.com/linear/hls/event/UIb-p71_TsWbYf0N4qI5xQ/master.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka vs Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg" tvg-id="115616" group-title="Australia tour of Sri Lanka, 2025",Sri Lanka vs Australia
 https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
 #EXTINF:-1 tvg-name="Ireland vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe-Test_OLD_1738767396284.jpg" tvg-id="116935" group-title="Ireland tour of Zimbabwe, 2025",Ireland vs Zimbabwe
@@ -11,5 +13,5 @@ https://dai.google.com/linear/hls/event/DOLyOqY2QiaU5dArVB3qJw/master.m3u8
 https://dai.google.com/linear/hls/event/Rlox3h4YR1ehCs3qK0dnIA/master.m3u8
 #EXTINF:-1 tvg-name="Delhi Royals vs Chhattisgarh Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118225_4824_CW_DLR_fc-Web.jpg" tvg-id="118225" group-title="Legend 90, 2025",Delhi Royals vs Chhattisgarh Warriors
 https://dai.google.com/linear/hls/event/bP6HHd0fSlK1ec_QWlQlzQ/master.m3u8
-#EXTINF:-1 tvg-name="Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Commercial-Bank-Qatar-Masters_old_v1.jpg" tvg-id="117649" group-title="Commercial Bank Qatar Masters 2025",Day 1
-https://dai.google.com/linear/hls/event/WA7lpCQaQ2SbyVdVBrgslw/master.m3u8
+#EXTINF:-1 tvg-name="Feed B - Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-old-match-card.png" tvg-id="118130" group-title="WM Phoenix Open",Feed B - Day 1
+https://dai.google.com/linear/hls/event/ZuaYCaksR2ysZJoep3pIxg/master.m3u8
