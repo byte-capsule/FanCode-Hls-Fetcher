@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Sri Lanka vs Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg" tvg-id="115616" group-title="Australia tour of Sri Lanka, 2025",Sri Lanka vs Australia
 https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
-#EXTINF:-1 tvg-name="River Rine Club vs Guwahati Giants" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117448_4781_GUG_RRC_fc-web.jpg" tvg-id="117448" group-title="Guwahati Premier League, 2025",River Rine Club vs Guwahati Giants
-https://dai.google.com/linear/hls/event/w5P2LRLiT02m70gtYubqGg/master.m3u8
 #EXTINF:-1 tvg-name="Thailand Women vs Netherlands Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="117643" group-title="Nepal Women's T20I Triangular Series",Thailand Women vs Netherlands Women
 https://dai.google.com/linear/hls/event/QZyCRkzDS9CozYmZMXDuDQ/master.m3u8
 #EXTINF:-1 tvg-name="Barbados Pride vs West Indies Academy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117752_4799_BAR_WIC_fc-Web_1738071641413.jpg" tvg-id="117752" group-title="West Indies Championship, 2025",Barbados Pride vs West Indies Academy
 https://dai.google.com/linear/hls/event/DOLyOqY2QiaU5dArVB3qJw/master.m3u8
 #EXTINF:-1 tvg-name="Combined Campuses and Colleges vs Guyana Harpy Eagles" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117751_4799_GUY_CCC_fc-Web_1738071641408.jpg" tvg-id="117751" group-title="West Indies Championship, 2025",Combined Campuses and Colleges vs Guyana Harpy Eagles
 https://dai.google.com/linear/hls/event/Rlox3h4YR1ehCs3qK0dnIA/master.m3u8
+#EXTINF:-1 tvg-name="Ireland vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe-Test_OLD_1738767396284.jpg" tvg-id="116935" group-title="Ireland tour of Zimbabwe, 2025",Ireland vs Zimbabwe
+https://dai.google.com/linear/hls/event/1fNCotbvT4-xpT71DmtyWg/master.m3u8
