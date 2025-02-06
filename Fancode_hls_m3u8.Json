@@ -2,8 +2,32 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 7,
-  "last_upaded": "06-02-2025 on 10:57:01 AM \ud83c\udf1e",
+  "last_upaded": "06-02-2025 on 11:26:11 AM \ud83c\udf1e",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "Australia tour of Sri Lanka, 2025",
+      "match_id": 115616,
+      "match_name": "Sri Lanka vs Australia",
+      "team_1": "Sri Lanka",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+      "team_2": "Australia",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUS@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Guwahati Premier League, 2025",
+      "match_id": 117448,
+      "match_name": "River Rine Club vs Guwahati Giants",
+      "team_1": "River Rine Club",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RRC@2x.png",
+      "team_2": "Guwahati Giants",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GWT@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/117448_4781_GUG_RRC_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/w5P2LRLiT02m70gtYubqGg/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "Box Office ASL T20",
@@ -51,30 +75,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HARP@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/117751_4799_GUY_CCC_fc-Web_1738071641408.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/Rlox3h4YR1ehCs3qK0dnIA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Australia tour of Sri Lanka, 2025",
-      "match_id": 115616,
-      "match_name": "Sri Lanka vs Australia",
-      "team_1": "Sri Lanka",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
-      "team_2": "Australia",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUS@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Guwahati Premier League, 2025",
-      "match_id": 117448,
-      "match_name": "River Rine Club vs Guwahati Giants",
-      "team_1": "River Rine Club",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RRC@2x.png",
-      "team_2": "Guwahati Giants",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GWT@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/117448_4781_GUG_RRC_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/w5P2LRLiT02m70gtYubqGg/master.m3u8"
     },
     {
       "event_catagory": "football",
