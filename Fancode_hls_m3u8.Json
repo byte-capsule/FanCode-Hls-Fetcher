@@ -1,9 +1,33 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 10,
-  "last_upaded": "06-02-2025 on 9:54:17 PM \ud83c\udf19",
+  "total_mathes": 12,
+  "last_upaded": "06-02-2025 on 10:26:26 PM \ud83c\udf19",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "Boland T20 Super League Finals, 2025",
+      "match_id": 117492,
+      "match_name": "Giflo Young Peoples CC vs Worcester United",
+      "team_1": "Giflo Young Peoples CC",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YPS@2x.png",
+      "team_2": "Worcester United",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WUT@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/117492_4787_YPS_WUT_Fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/pTJoXLqJQ2OmV77tI7-Wmg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "KCC T20 Challengers B League, 2024-25",
+      "match_id": 115833,
+      "match_name": "Osmani CC vs Team TGS",
+      "team_1": "Osmani CC",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OSM@2x.png",
+      "team_2": "Team TGS",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TYT@2x.png",
+      "banner": "https://www.fancode.com/aig/match/v1/115833_CASACARDS_APP.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/8sTvSu11Qo2TXYsCOFQExw/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "Box Office ASL T20",

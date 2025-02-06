@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Giflo Young Peoples CC vs Worcester United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117492_4787_YPS_WUT_Fc-Web.jpg" tvg-id="117492" group-title="Boland T20 Super League Finals, 2025",Giflo Young Peoples CC vs Worcester United
+https://dai.google.com/linear/hls/event/pTJoXLqJQ2OmV77tI7-Wmg/master.m3u8
+#EXTINF:-1 tvg-name="Osmani CC vs Team TGS" tvg-logo="https://www.fancode.com/aig/match/v1/115833_CASACARDS_APP.png" tvg-id="115833" group-title="KCC T20 Challengers B League, 2024-25",Osmani CC vs Team TGS
+https://dai.google.com/linear/hls/event/8sTvSu11Qo2TXYsCOFQExw/master.m3u8
 #EXTINF:-1 tvg-name="Hartleys vs NHS" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-Hundred-Ball-TV-old-Match-card-.png" tvg-id="118156" group-title="Box Office ASL T20",Hartleys vs NHS
 https://dai.google.com/linear/hls/event/U6vpZ2aYQ2G1yJt9PuMTOw/master.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka vs Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg" tvg-id="115616" group-title="Australia tour of Sri Lanka, 2025",Sri Lanka vs Australia
