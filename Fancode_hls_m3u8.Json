@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 12,
-  "last_upaded": "06-02-2025 on 10:26:26 PM \ud83c\udf19",
+  "total_mathes": 11,
+  "last_upaded": "06-02-2025 on 10:45:03 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -51,18 +51,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUS@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Legend 90, 2025",
-      "match_id": 118225,
-      "match_name": "Delhi Royals vs Chhattisgarh Warriors",
-      "team_1": "Delhi Royals",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DLR@2x.png",
-      "team_2": "Chhattisgarh Warriors",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CW@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/118225_4824_CW_DLR_fc-Web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/bP6HHd0fSlK1ec_QWlQlzQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -115,18 +103,6 @@
     {
       "event_catagory": "golf",
       "event_name": "WM Phoenix Open",
-      "match_id": 118130,
-      "match_name": "Feed B - Day 1",
-      "team_1": "Feed B - Day 1",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-WMPO@2x.png",
-      "team_2": "Arizona, United States",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-old-match-card.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/ZuaYCaksR2ysZJoep3pIxg/master.m3u8"
-    },
-    {
-      "event_catagory": "golf",
-      "event_name": "WM Phoenix Open",
       "match_id": 118132,
       "match_name": "Feed D - Day 1",
       "team_1": "Feed D - Day 1",
@@ -147,6 +123,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-old-match-card.png",
       "stream_link": "https://dai.google.com/linear/hls/event/W5ToKifQQL-6aoor_BK-7g/master.m3u8"
+    },
+    {
+      "event_catagory": "golf",
+      "event_name": "WM Phoenix Open",
+      "match_id": 118130,
+      "match_name": "Feed B - Day 1",
+      "team_1": "Feed B - Day 1",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-WMPO@2x.png",
+      "team_2": "Arizona, United States",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-old-match-card.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/ZuaYCaksR2ysZJoep3pIxg/master.m3u8"
     }
   ]
 }
