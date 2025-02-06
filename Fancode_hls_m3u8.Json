@@ -2,19 +2,31 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 7,
-  "last_upaded": "06-02-2025 on 5:53:07 PM \ud83c\udf1e",
+  "last_upaded": "06-02-2025 on 6:43:43 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
       "event_name": "ECI Malta, 2025",
-      "match_id": 117818,
-      "match_name": "Hungary vs Malta",
+      "match_id": 117819,
+      "match_name": "Hungary vs Austria",
       "team_1": "Hungary",
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HUNG@2x.png",
-      "team_2": "Malta",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAL@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/117818_4805_MAL_HUN_fc-Web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/QrsbriBHRPyjVky-CXrm8Q/master.m3u8"
+      "team_2": "Austria",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUST@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/117819_4805_HUN_AUT_fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/SLvtK7GLTza-rb2ZQyl2XA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "BOX Office Hundred Ball",
+      "match_id": 118162,
+      "match_name": "Blue Boys vs Avenida Titans",
+      "team_1": "Blue Boys",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR1@2x.png",
+      "team_2": "Avenida Titans",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ATS@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-Hundred-Ball-TV-old-Match-card-.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/s7YqFLN3TZuBnvmhGk3Mrw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -63,18 +75,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HARP@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/117751_4799_GUY_CCC_fc-Web_1738071641408.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/Rlox3h4YR1ehCs3qK0dnIA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "BOX Office Hundred Ball",
-      "match_id": 118162,
-      "match_name": "Blue Boys vs Avenida Titans",
-      "team_1": "Blue Boys",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR1@2x.png",
-      "team_2": "Avenida Titans",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ATS@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-Hundred-Ball-TV-old-Match-card-.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/s7YqFLN3TZuBnvmhGk3Mrw/master.m3u8"
     },
     {
       "event_catagory": "golf",
