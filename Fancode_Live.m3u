@@ -21,3 +21,5 @@ https://dai.google.com/linear/hls/event/ljEH5pq3Rf2WLRjRFbS5qA/master.m3u8
 https://dai.google.com/linear/hls/event/W5ToKifQQL-6aoor_BK-7g/master.m3u8
 #EXTINF:-1 tvg-name="Feed B - Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-old-match-card.png" tvg-id="118130" group-title="WM Phoenix Open",Feed B - Day 1
 https://dai.google.com/linear/hls/event/ZuaYCaksR2ysZJoep3pIxg/master.m3u8
+#EXTINF:-1 tvg-name="Fenerbahce Beko Istanbul vs Real Madrid" tvg-logo="https://www.fancode.com/aig/match/v1/118364_CASACARDS_APP.png" tvg-id="118364" group-title="EuroLeague 2024-25",Fenerbahce Beko Istanbul vs Real Madrid
+https://dai.google.com/linear/hls/event/kEvvFlWlR3m5JHY9kwkgPQ/master.m3u8
