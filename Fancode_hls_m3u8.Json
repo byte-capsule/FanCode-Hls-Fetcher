@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 12,
-  "last_upaded": "06-02-2025 on 11:39:37 PM \ud83c\udf19",
+  "total_mathes": 13,
+  "last_upaded": "06-02-2025 on 11:53:12 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,6 +15,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WUT@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/117492_4787_YPS_WUT_Fc-Web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/pTJoXLqJQ2OmV77tI7-Wmg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ECSN Portugal, 2025",
+      "match_id": 117763,
+      "match_name": "Malo vs Coimbra Knights",
+      "team_1": "Malo",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALO@2x.png",
+      "team_2": "Coimbra Knights",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CKCC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/117763_4800_CK_MAL_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/Vhtz5JtAT_G8E6IDDIyhzA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
