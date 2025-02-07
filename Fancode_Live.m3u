@@ -1,14 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Vredenburg/Saldanha CC vs Giflo Young Peoples CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="117493" group-title="Boland T20 Super League Finals, 2025",Vredenburg/Saldanha CC vs Giflo Young Peoples CC
 https://dai.google.com/linear/hls/event/u2S0K51zRwm586pr1o1Tzw/master.m3u8
-#EXTINF:-1 tvg-name="ACE KRM Panthers vs MEC Study Group" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-A_league_match-card_1738900931883.jpg" tvg-id="118066" group-title="KCC T20 Challengers A League, 2025",ACE KRM Panthers vs MEC Study Group
-https://dai.google.com/linear/hls/event/--PZDqsOTyOHLEYQaYX8kQ/master.m3u8
 #EXTINF:-1 tvg-name="Hungary vs Malta" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117822_4805_HUN_MAL_fc-Web.jpg" tvg-id="117823" group-title="ECI Malta, 2025",Hungary vs Malta
 https://dai.google.com/linear/hls/event/X24oebMVQ4u0xWaQkVTRMw/master.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka vs Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg" tvg-id="115616" group-title="Australia tour of Sri Lanka, 2025",Sri Lanka vs Australia
 https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
-#EXTINF:-1 tvg-name="Rajasthan Kings vs Dubai Giants" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118226_4824_RK_DG_fc-Web.jpg" tvg-id="118226" group-title="Legend 90, 2025",Rajasthan Kings vs Dubai Giants
-https://dai.google.com/linear/hls/event/3i8CfplOQ6CBjmvFxVwnww/master.m3u8
 #EXTINF:-1 tvg-name="Big Boys vs Gujarat Samp Army" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118227_4824_GJS_BBY_fc-Web.jpg" tvg-id="118227" group-title="Legend 90, 2025",Big Boys vs Gujarat Samp Army
 https://dai.google.com/linear/hls/event/Tl9pXm3kRcuc_9HNEieQqg/master.m3u8
 #EXTINF:-1 tvg-name="Ireland vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe-Test_OLD_1738767396284.jpg" tvg-id="116935" group-title="Ireland tour of Zimbabwe, 2025",Ireland vs Zimbabwe
