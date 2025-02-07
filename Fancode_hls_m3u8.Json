@@ -1,9 +1,21 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 11,
-  "last_upaded": "07-02-2025 on 10:55:52 AM \ud83c\udf1e",
+  "total_mathes": 10,
+  "last_upaded": "07-02-2025 on 11:22:58 AM \ud83c\udf1e",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC CWC Challenge League B, 2024-26",
+      "match_id": 118003,
+      "match_name": "Uganda vs Bahrain",
+      "team_1": "Uganda",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UGN@2x.png",
+      "team_2": "Bahrain",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAH@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112310_4607_UGA_BAH_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/64XbhtebRES4MXlydSc4Lg/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "Australia tour of Sri Lanka, 2025",
@@ -15,6 +27,30 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUS@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Guwahati Premier League, 2025",
+      "match_id": 117450,
+      "match_name": "BDMTCC vs City Cricket Club",
+      "team_1": "BDMTCC",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BDMC@2x.png",
+      "team_2": "City Cricket Club",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CCLB@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/117450_4781_BDM_CCC_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/GfNYWX2aSo60Bb6CrO2qdA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Chandigarh T20",
+      "match_id": 118096,
+      "match_name": "Wild Woods Warriors vs Manohar Mavericks",
+      "team_1": "Wild Woods Warriors",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WWD@2x.png",
+      "team_2": "Manohar Mavericks",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MMV@2x.png",
+      "banner": "https://www.fancode.com/aig/match/v1/118096_CASACARDS_APP.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/rmpaggQzTG6otl7SCwCf0w/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -42,18 +78,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "WNCL, 2024-25",
-      "match_id": 109411,
-      "match_name": "New South Wales Breakers vs South Australian Scorpions",
-      "team_1": "New South Wales Breakers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSW@2x.png",
-      "team_2": "South Australian Scorpions",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SACO@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/109411_4508_NSWB_SASC_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/nifyH0m-Qmiy5OLoNSZdcg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "Ireland tour of Zimbabwe, 2025",
       "match_id": 116935,
       "match_name": "Ireland vs Zimbabwe",
@@ -61,20 +85,8 @@
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png",
       "team_2": "Zimbabwe",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
-      "banner": false,
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe-Test_OLD_1738767396284.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/1fNCotbvT4-xpT71DmtyWg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC CWC Challenge League B, 2024-26",
-      "match_id": 118003,
-      "match_name": "Uganda vs Bahrain",
-      "team_1": "Uganda",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UGN@2x.png",
-      "team_2": "Bahrain",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAH@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/112310_4607_UGA_BAH_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/64XbhtebRES4MXlydSc4Lg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -99,30 +111,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HARP@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/117751_4799_GUY_CCC_fc-Web_1738071641408.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/Rlox3h4YR1ehCs3qK0dnIA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Chandigarh T20",
-      "match_id": 118096,
-      "match_name": "Wild Woods Warriors vs Manohar Mavericks",
-      "team_1": "Wild Woods Warriors",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WWD@2x.png",
-      "team_2": "Manohar Mavericks",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MMV@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/118096_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/rmpaggQzTG6otl7SCwCf0w/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Guwahati Premier League, 2025",
-      "match_id": 117450,
-      "match_name": "BDMTCC vs City Cricket Club",
-      "team_1": "BDMTCC",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BDMC@2x.png",
-      "team_2": "City Cricket Club",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CCLB@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/117450_4781_BDM_CCC_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/GfNYWX2aSo60Bb6CrO2qdA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
