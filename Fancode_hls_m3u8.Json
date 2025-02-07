@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 11,
-  "last_upaded": "07-02-2025 on 10:26:31 AM \ud83c\udf1e",
+  "total_mathes": 10,
+  "last_upaded": "07-02-2025 on 10:43:04 AM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -63,18 +63,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe-Test_OLD_1738767396284.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/1fNCotbvT4-xpT71DmtyWg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Box Office ASL T20",
-      "match_id": 118156,
-      "match_name": "Hartleys vs NHS",
-      "team_1": "Hartleys",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR13@2x.png",
-      "team_2": "NHS",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR20@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-Hundred-Ball-TV-old-Match-card-.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/U6vpZ2aYQ2G1yJt9PuMTOw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
