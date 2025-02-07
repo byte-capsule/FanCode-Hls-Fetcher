@@ -2,8 +2,20 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 11,
-  "last_upaded": "07-02-2025 on 11:39:16 PM \ud83c\udf19",
+  "last_upaded": "07-02-2025 on 11:53:19 PM \ud83c\udf19",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "ECSN Portugal, 2025",
+      "match_id": 117765,
+      "match_name": "Punjab CC Amadora vs Lisbon Capitals",
+      "team_1": "Punjab CC Amadora",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PNJ@2x.png",
+      "team_2": "Lisbon Capitals",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LICB@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/117765_4800_LCA_PNJ_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/R4-duZyqSFeQA3NUaxte1A/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "Boland T20 Super League Finals, 2025",
@@ -15,18 +27,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAR@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/117494_4787_WUT_PRC_Fc-Web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/nAWicytbS2CD3YPTi4jWnA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "KCC T20 Challengers A League, 2025",
-      "match_id": 118067,
-      "match_name": "Strikers Afghan vs Team TGS",
-      "team_1": "Strikers Afghan",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAG@2x.png",
-      "team_2": "Team TGS",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TYT@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-A_league_match-card_1738900931883.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/7qkI_-mcQXiI62_rwtcTcA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
