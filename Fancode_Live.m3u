@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Vredenburg/Saldanha CC vs Giflo Young Peoples CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="117493" group-title="Boland T20 Super League Finals, 2025",Vredenburg/Saldanha CC vs Giflo Young Peoples CC
+https://dai.google.com/linear/hls/event/u2S0K51zRwm586pr1o1Tzw/master.m3u8
 #EXTINF:-1 tvg-name="ACE KRM Panthers vs MEC Study Group" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-A_league_match-card_1738900931883.jpg" tvg-id="118066" group-title="KCC T20 Challengers A League, 2025",ACE KRM Panthers vs MEC Study Group
 https://dai.google.com/linear/hls/event/--PZDqsOTyOHLEYQaYX8kQ/master.m3u8
 #EXTINF:-1 tvg-name="91 Yards Club vs Guwahati Giants" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117451_4781_NYC_GUG_fc-web.jpg" tvg-id="117451" group-title="Guwahati Premier League, 2025",91 Yards Club vs Guwahati Giants
@@ -15,8 +17,10 @@ https://dai.google.com/linear/hls/event/1fNCotbvT4-xpT71DmtyWg/master.m3u8
 https://dai.google.com/linear/hls/event/DOLyOqY2QiaU5dArVB3qJw/master.m3u8
 #EXTINF:-1 tvg-name="Combined Campuses and Colleges vs Guyana Harpy Eagles" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117751_4799_GUY_CCC_fc-Web_1738071641408.jpg" tvg-id="117751" group-title="West Indies Championship, 2025",Combined Campuses and Colleges vs Guyana Harpy Eagles
 https://dai.google.com/linear/hls/event/Rlox3h4YR1ehCs3qK0dnIA/master.m3u8
-#EXTINF:-1 tvg-name="Seven United vs Alviva Sporting Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="118546" group-title="BOX Office T20 Test Pink Ball",Seven United vs Alviva Sporting Club
+#EXTINF:-1 tvg-name="Seven United vs Alviva Sporting Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-T20-Test-Pink-Ball-old-Match-card--.png" tvg-id="118546" group-title="BOX Office T20 Test Pink Ball",Seven United vs Alviva Sporting Club
 https://dai.google.com/linear/hls/event/oDCJYnqkTZCXV9b-5X4OHw/master.m3u8
+#EXTINF:-1 tvg-name="Chittagong Kings vs Fortune Barishal" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BPL_2024-25_Old_match-card_match-card-(1).jpg" tvg-id="113393" group-title="Bangladesh Premier League, 2024-25",Chittagong Kings vs Fortune Barishal
+https://dai.google.com/linear/hls/event/uvKT7FlOTrewWCSNLL3hYA/master.m3u8
 #EXTINF:-1 tvg-name="Perth Glory vs Central Coast Mariners" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110994_4567_PG_CCM_fc-web_1728983129271.jpg" tvg-id="110994" group-title="A League 2024-25",Perth Glory vs Central Coast Mariners
 https://dai.google.com/linear/hls/event/fNRnTl2RRSu4tzW-pISs8A/master.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Commercial-Bank-Qatar-Masters_old_v2.jpg" tvg-id="117650" group-title="Commercial Bank Qatar Masters 2025",Day 2
