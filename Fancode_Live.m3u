@@ -1,10 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Hiims Hawks vs Talanoa Tigers" tvg-logo="https://www.fancode.com/aig/match/v1/118097_CASACARDS_APP.png" tvg-id="118097" group-title="Chandigarh T20",Hiims Hawks vs Talanoa Tigers
-https://dai.google.com/linear/hls/event/EZcV-DSyRGmODGZw0qksAA/master.m3u8
-#EXTINF:-1 tvg-name="Sri Lanka vs Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg" tvg-id="115616" group-title="Australia tour of Sri Lanka, 2025",Sri Lanka vs Australia
-https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
+#EXTINF:-1 tvg-name="ACE KRM Panthers vs MEC Study Group" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-A_league_match-card_1738900931883.jpg" tvg-id="118066" group-title="KCC T20 Challengers A League, 2025",ACE KRM Panthers vs MEC Study Group
+https://dai.google.com/linear/hls/event/--PZDqsOTyOHLEYQaYX8kQ/master.m3u8
 #EXTINF:-1 tvg-name="91 Yards Club vs Guwahati Giants" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117451_4781_NYC_GUG_fc-web.jpg" tvg-id="117451" group-title="Guwahati Premier League, 2025",91 Yards Club vs Guwahati Giants
 https://dai.google.com/linear/hls/event/YPql-FDwQ7Su2LWPgoBcRQ/master.m3u8
+#EXTINF:-1 tvg-name="Malta vs Hungary" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117822_4805_HUN_MAL_fc-Web.jpg" tvg-id="117822" group-title="ECI Malta, 2025",Malta vs Hungary
+https://dai.google.com/linear/hls/event/d9m0SPJBSOiZaiS0aPeG0Q/master.m3u8
+#EXTINF:-1 tvg-name="Sri Lanka vs Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg" tvg-id="115616" group-title="Australia tour of Sri Lanka, 2025",Sri Lanka vs Australia
+https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
 #EXTINF:-1 tvg-name="Union Sporting vs Canara Bank" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117987_4815_CB_US_fc-Web.jpg" tvg-id="117987" group-title="Tillo Cup, 2025",Union Sporting vs Canara Bank
 https://dai.google.com/linear/hls/event/pObjaombSNOp-CURrL-41Q/master.m3u8
 #EXTINF:-1 tvg-name="Ireland vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe-Test_OLD_1738767396284.jpg" tvg-id="116935" group-title="Ireland tour of Zimbabwe, 2025",Ireland vs Zimbabwe
@@ -13,8 +15,8 @@ https://dai.google.com/linear/hls/event/1fNCotbvT4-xpT71DmtyWg/master.m3u8
 https://dai.google.com/linear/hls/event/DOLyOqY2QiaU5dArVB3qJw/master.m3u8
 #EXTINF:-1 tvg-name="Combined Campuses and Colleges vs Guyana Harpy Eagles" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117751_4799_GUY_CCC_fc-Web_1738071641408.jpg" tvg-id="117751" group-title="West Indies Championship, 2025",Combined Campuses and Colleges vs Guyana Harpy Eagles
 https://dai.google.com/linear/hls/event/Rlox3h4YR1ehCs3qK0dnIA/master.m3u8
-#EXTINF:-1 tvg-name="Hungary vs Austria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117821_4805_HUN_AUT_fc-Web.jpg" tvg-id="117821" group-title="ECI Malta, 2025",Hungary vs Austria
-https://dai.google.com/linear/hls/event/hEnsvePDRLmySLmgyY8d3Q/master.m3u8
+#EXTINF:-1 tvg-name="Rajasthan Kings vs Dubai Giants" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118226_4824_RK_DG_fc-Web.jpg" tvg-id="118226" group-title="Legend 90, 2025",Rajasthan Kings vs Dubai Giants
+https://dai.google.com/linear/hls/event/3i8CfplOQ6CBjmvFxVwnww/master.m3u8
 #EXTINF:-1 tvg-name="Adelaide United vs Melbourne City" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110993_4567_ADL_MLC_fc-web_1728983128229.jpg" tvg-id="110993" group-title="A League 2024-25",Adelaide United vs Melbourne City
 https://dai.google.com/linear/hls/event/KU6HDeGJQt-8dm8gdEKBew/master.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Commercial-Bank-Qatar-Masters_old_v2.jpg" tvg-id="117650" group-title="Commercial Bank Qatar Masters 2025",Day 2
