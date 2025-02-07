@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Uganda vs Bahrain" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112310_4607_UGA_BAH_fc-web.jpg" tvg-id="118003" group-title="ICC CWC Challenge League B, 2024-26",Uganda vs Bahrain
-https://dai.google.com/linear/hls/event/64XbhtebRES4MXlydSc4Lg/master.m3u8
 #EXTINF:-1 tvg-name="Hiims Hawks vs Talanoa Tigers" tvg-logo="https://www.fancode.com/aig/match/v1/118097_CASACARDS_APP.png" tvg-id="118097" group-title="Chandigarh T20",Hiims Hawks vs Talanoa Tigers
 https://dai.google.com/linear/hls/event/EZcV-DSyRGmODGZw0qksAA/master.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka vs Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg" tvg-id="115616" group-title="Australia tour of Sri Lanka, 2025",Sri Lanka vs Australia
 https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
+#EXTINF:-1 tvg-name="Union Sporting vs Canara Bank" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117987_4815_CB_US_fc-Web.jpg" tvg-id="117987" group-title="Tillo Cup, 2025",Union Sporting vs Canara Bank
+https://dai.google.com/linear/hls/event/pObjaombSNOp-CURrL-41Q/master.m3u8
 #EXTINF:-1 tvg-name="Nepal Women vs Thailand Women" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="117642" group-title="Nepal Women's T20I Triangular Series",Nepal Women vs Thailand Women
 https://dai.google.com/linear/hls/event/VxNBe24OS8yhKlUJB-H46A/master.m3u8
 #EXTINF:-1 tvg-name="Ireland vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe-Test_OLD_1738767396284.jpg" tvg-id="116935" group-title="Ireland tour of Zimbabwe, 2025",Ireland vs Zimbabwe
@@ -13,7 +13,9 @@ https://dai.google.com/linear/hls/event/1fNCotbvT4-xpT71DmtyWg/master.m3u8
 https://dai.google.com/linear/hls/event/DOLyOqY2QiaU5dArVB3qJw/master.m3u8
 #EXTINF:-1 tvg-name="Combined Campuses and Colleges vs Guyana Harpy Eagles" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117751_4799_GUY_CCC_fc-Web_1738071641408.jpg" tvg-id="117751" group-title="West Indies Championship, 2025",Combined Campuses and Colleges vs Guyana Harpy Eagles
 https://dai.google.com/linear/hls/event/Rlox3h4YR1ehCs3qK0dnIA/master.m3u8
-#EXTINF:-1 tvg-name="Union Sporting vs Canara Bank" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117987_4815_CB_US_fc-Web.jpg" tvg-id="117987" group-title="Tillo Cup, 2025",Union Sporting vs Canara Bank
-https://dai.google.com/linear/hls/event/pObjaombSNOp-CURrL-41Q/master.m3u8
 #EXTINF:-1 tvg-name="Hungary vs Austria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117821_4805_HUN_AUT_fc-Web.jpg" tvg-id="117821" group-title="ECI Malta, 2025",Hungary vs Austria
 https://dai.google.com/linear/hls/event/hEnsvePDRLmySLmgyY8d3Q/master.m3u8
+#EXTINF:-1 tvg-name="Adelaide United vs Melbourne City" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110993_4567_ADL_MLC_fc-web_1728983128229.jpg" tvg-id="110993" group-title="A League 2024-25",Adelaide United vs Melbourne City
+https://dai.google.com/linear/hls/event/KU6HDeGJQt-8dm8gdEKBew/master.m3u8
+#EXTINF:-1 tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Commercial-Bank-Qatar-Masters_old_v2.jpg" tvg-id="117650" group-title="Commercial Bank Qatar Masters 2025",Day 2
+https://dai.google.com/linear/hls/event/-hLmsozdTZaaxZHlaGyPWw/master.m3u8
