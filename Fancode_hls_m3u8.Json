@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 13,
-  "last_upaded": "07-02-2025 on 5:53:32 PM \ud83c\udf1e",
+  "total_mathes": 11,
+  "last_upaded": "07-02-2025 on 6:42:02 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -27,30 +27,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MSTG@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-A_league_match-card_1738900931883.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/--PZDqsOTyOHLEYQaYX8kQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Guwahati Premier League, 2025",
-      "match_id": 117451,
-      "match_name": "91 Yards Club vs Guwahati Giants",
-      "team_1": "91 Yards Club",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NYC@2x.png",
-      "team_2": "Guwahati Giants",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GWT@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/117451_4781_NYC_GUG_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/YPql-FDwQ7Su2LWPgoBcRQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECI Malta, 2025",
-      "match_id": 117822,
-      "match_name": "Malta vs Hungary",
-      "team_1": "Malta",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAL@2x.png",
-      "team_2": "Hungary",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HUNG@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/117822_4805_HUN_MAL_fc-Web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/d9m0SPJBSOiZaiS0aPeG0Q/master.m3u8"
     },
     {
       "event_catagory": "cricket",
