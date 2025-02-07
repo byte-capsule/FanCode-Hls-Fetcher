@@ -1,1 +1,21 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Sri Lanka vs Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg" tvg-id="115616" group-title="Australia tour of Sri Lanka, 2025",Sri Lanka vs Australia
+https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
+#EXTINF:-1 tvg-name="Victoria Women vs Queensland Fire" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109413_4508_VCTW_QLF_fc-web.jpg" tvg-id="109413" group-title="WNCL, 2024-25",Victoria Women vs Queensland Fire
+https://dai.google.com/linear/hls/event/p8IQ8eo2Q0evEqygIBvp5A/master.m3u8
+#EXTINF:-1 tvg-name="ACT Meteors vs Western Australia Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109412_4508_ACTM_WA-W_fc-web.jpg" tvg-id="109412" group-title="WNCL, 2024-25",ACT Meteors vs Western Australia Women
+https://dai.google.com/linear/hls/event/XhpHwsddRsOip53O-3AH4g/master.m3u8
+#EXTINF:-1 tvg-name="New South Wales Breakers vs South Australian Scorpions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109411_4508_NSWB_SASC_fc-web.jpg" tvg-id="109411" group-title="WNCL, 2024-25",New South Wales Breakers vs South Australian Scorpions
+https://dai.google.com/linear/hls/event/nifyH0m-Qmiy5OLoNSZdcg/master.m3u8
+#EXTINF:-1 tvg-name="Ireland vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe-Test_OLD_1738767396284.jpg" tvg-id="116935" group-title="Ireland tour of Zimbabwe, 2025",Ireland vs Zimbabwe
+https://dai.google.com/linear/hls/event/1fNCotbvT4-xpT71DmtyWg/master.m3u8
+#EXTINF:-1 tvg-name="Hartleys vs NHS" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-Hundred-Ball-TV-old-Match-card-.png" tvg-id="118156" group-title="Box Office ASL T20",Hartleys vs NHS
+https://dai.google.com/linear/hls/event/U6vpZ2aYQ2G1yJt9PuMTOw/master.m3u8
+#EXTINF:-1 tvg-name="Barbados Pride vs West Indies Academy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117752_4799_BAR_WIC_fc-Web_1738071641413.jpg" tvg-id="117752" group-title="West Indies Championship, 2025",Barbados Pride vs West Indies Academy
+https://dai.google.com/linear/hls/event/DOLyOqY2QiaU5dArVB3qJw/master.m3u8
+#EXTINF:-1 tvg-name="Combined Campuses and Colleges vs Guyana Harpy Eagles" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117751_4799_GUY_CCC_fc-Web_1738071641408.jpg" tvg-id="117751" group-title="West Indies Championship, 2025",Combined Campuses and Colleges vs Guyana Harpy Eagles
+https://dai.google.com/linear/hls/event/Rlox3h4YR1ehCs3qK0dnIA/master.m3u8
+#EXTINF:-1 tvg-name="Tanzania vs Italy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112298_4607_ITA_TAN_fc-web.jpg" tvg-id="118004" group-title="ICC CWC Challenge League B, 2024-26",Tanzania vs Italy
+https://dai.google.com/linear/hls/event/mF4g1_3SRnqeFq4JLatZ-w/master.m3u8
+#EXTINF:-1 tvg-name="Uganda vs Bahrain" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg" tvg-id="118003" group-title="ICC CWC Challenge League B, 2024-26",Uganda vs Bahrain
+https://dai.google.com/linear/hls/event/64XbhtebRES4MXlydSc4Lg/master.m3u8
