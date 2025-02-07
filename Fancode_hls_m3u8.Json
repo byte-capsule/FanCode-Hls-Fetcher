@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 10,
-  "last_upaded": "07-02-2025 on 2:56:33 PM \ud83c\udf1e",
+  "last_upaded": "07-02-2025 on 3:23:59 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -30,6 +30,18 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "Guwahati Premier League, 2025",
+      "match_id": 117451,
+      "match_name": "91 Yards Club vs Guwahati Giants",
+      "team_1": "91 Yards Club",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NYC@2x.png",
+      "team_2": "Guwahati Giants",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GWT@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/117451_4781_NYC_GUG_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/YPql-FDwQ7Su2LWPgoBcRQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "Tillo Cup, 2025",
       "match_id": 117987,
       "match_name": "Union Sporting vs Canara Bank",
@@ -39,18 +51,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CBTC@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/117987_4815_CB_US_fc-Web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/pObjaombSNOp-CURrL-41Q/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Nepal Women's T20I Triangular Series",
-      "match_id": 117642,
-      "match_name": "Nepal Women vs Thailand Women",
-      "team_1": "Nepal Women",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
-      "team_2": "Thailand Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THL@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/VxNBe24OS8yhKlUJB-H46A/master.m3u8"
     },
     {
       "event_catagory": "cricket",
