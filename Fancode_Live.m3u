@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="City Challengers vs Hiims Hawks" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_old_v1.jpg" tvg-id="118099" group-title="Chandigarh T20",City Challengers vs Hiims Hawks
-https://dai.google.com/linear/hls/event/d9gQ_RJtT7ayW0NmxaQU8w/master.m3u8
 #EXTINF:-1 tvg-name="USA vs Namibia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Match-49_1738836614454.jpg" tvg-id="118175" group-title="ICC CWC League 2, 2023-27",USA vs Namibia
 https://dai.google.com/linear/hls/event/aWXl861zTlqnlLENow5hrA/master.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka vs Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg" tvg-id="115616" group-title="Australia tour of Sri Lanka, 2025",Sri Lanka vs Australia
