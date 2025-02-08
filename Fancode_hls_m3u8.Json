@@ -2,8 +2,20 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 11,
-  "last_upaded": "08-02-2025 on 0:28:12 PM \ud83c\udf1e",
+  "last_upaded": "08-02-2025 on 0:43:26 PM \ud83c\udf1e",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC CWC League 2, 2023-27",
+      "match_id": 118175,
+      "match_name": "USA vs Namibia",
+      "team_1": "USA",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USA@2x.png",
+      "team_2": "Namibia",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAM@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Match-49_1738836614454.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/aWXl861zTlqnlLENow5hrA/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "Australia tour of Sri Lanka, 2025",
@@ -99,18 +111,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VCT@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110409_4543_TAS_VCT_fc-Web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/AcFsqQCXT9eW8U16r22lMw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC CWC League 2, 2023-27",
-      "match_id": 118175,
-      "match_name": "USA vs Namibia",
-      "team_1": "USA",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USA@2x.png",
-      "team_2": "Namibia",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAM@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Match-49_1738836614454.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/aWXl861zTlqnlLENow5hrA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
