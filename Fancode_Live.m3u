@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Sri Lanka vs Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg" tvg-id="115616" group-title="Australia tour of Sri Lanka, 2025",Sri Lanka vs Australia
 https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
+#EXTINF:-1 tvg-name="Bokakhat Town Cricket Club vs City Cricket Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117452_4781_BTC_CCC_fc-web.jpg" tvg-id="117452" group-title="Guwahati Premier League, 2025",Bokakhat Town Cricket Club vs City Cricket Club
+https://dai.google.com/linear/hls/event/CT8tGC9aR9GX3pr71BQeJw/master.m3u8
 #EXTINF:-1 tvg-name="Punjab Panthers vs Wild Woods Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_ols_v3.jpg" tvg-id="118098" group-title="Chandigarh T20",Punjab Panthers vs Wild Woods Warriors
 https://dai.google.com/linear/hls/event/g8cYAi3yT-qYpqpyWTC2Bw/master.m3u8
 #EXTINF:-1 tvg-name="Ireland vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe-Test_OLD_1738767396284.jpg" tvg-id="116935" group-title="Ireland tour of Zimbabwe, 2025",Ireland vs Zimbabwe
@@ -15,5 +17,3 @@ https://dai.google.com/linear/hls/event/x2piEt1mR2uL10efmDbp6g/master.m3u8
 https://dai.google.com/linear/hls/event/1waVN6I0QHChuM7t4SLrKw/master.m3u8
 #EXTINF:-1 tvg-name="Tasmania vs Victoria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110409_4543_TAS_VCT_fc-Web.jpg" tvg-id="110409" group-title="Sheffield Shield, 2024-25",Tasmania vs Victoria
 https://dai.google.com/linear/hls/event/AcFsqQCXT9eW8U16r22lMw/master.m3u8
-#EXTINF:-1 tvg-name="Bokakhat Town Cricket Club vs City Cricket Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117452_4781_BTC_CCC_fc-web.jpg" tvg-id="117452" group-title="Guwahati Premier League, 2025",Bokakhat Town Cricket Club vs City Cricket Club
-https://dai.google.com/linear/hls/event/CT8tGC9aR9GX3pr71BQeJw/master.m3u8

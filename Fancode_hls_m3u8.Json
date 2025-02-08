@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 9,
-  "last_upaded": "08-02-2025 on 10:54:04 AM \ud83c\udf1e",
+  "last_upaded": "08-02-2025 on 11:19:51 AM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,6 +15,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUS@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Guwahati Premier League, 2025",
+      "match_id": 117452,
+      "match_name": "Bokakhat Town Cricket Club vs City Cricket Club",
+      "team_1": "Bokakhat Town Cricket Club",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BTCC@2x.png",
+      "team_2": "City Cricket Club",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CCLB@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/117452_4781_BTC_CCC_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/CT8tGC9aR9GX3pr71BQeJw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -99,18 +111,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VCT@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110409_4543_TAS_VCT_fc-Web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/AcFsqQCXT9eW8U16r22lMw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Guwahati Premier League, 2025",
-      "match_id": 117452,
-      "match_name": "Bokakhat Town Cricket Club vs City Cricket Club",
-      "team_1": "Bokakhat Town Cricket Club",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BTCC@2x.png",
-      "team_2": "City Cricket Club",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CCLB@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/117452_4781_BTC_CCC_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/CT8tGC9aR9GX3pr71BQeJw/master.m3u8"
     }
   ]
 }
