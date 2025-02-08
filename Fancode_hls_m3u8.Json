@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 13,
-  "last_upaded": "08-02-2025 on 1:20:19 PM \ud83c\udf1e",
+  "last_upaded": "08-02-2025 on 1:38:29 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,6 +15,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HHK@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_old_v1.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/d9gQ_RJtT7ayW0NmxaQU8w/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Tillo Cup, 2025",
+      "match_id": 117988,
+      "match_name": "JP Sports vs Lightning Legends",
+      "team_1": "JP Sports",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JPS@2x.png",
+      "team_2": "Lightning Legends",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LGT@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/117988_4815_JPS_LGT_fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/nJhYBfhTRxelwQL2RbWmRg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -135,18 +147,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VCT@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110409_4543_TAS_VCT_fc-Web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/AcFsqQCXT9eW8U16r22lMw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Tillo Cup, 2025",
-      "match_id": 117988,
-      "match_name": "JP Sports vs Lightning Legends",
-      "team_1": "JP Sports",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JPS@2x.png",
-      "team_2": "Lightning Legends",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LGT@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/117988_4815_JPS_LGT_fc-Web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/nJhYBfhTRxelwQL2RbWmRg/master.m3u8"
     },
     {
       "event_catagory": "football",
