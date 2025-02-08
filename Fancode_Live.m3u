@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Vredenburg/Saldanha CC vs Paarl CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="117496" group-title="Boland T20 Super League Finals, 2025",Vredenburg/Saldanha CC vs Paarl CC
 https://dai.google.com/linear/hls/event/HBI8NyJgQVWvh7Ru8FUwuQ/master.m3u8
-#EXTINF:-1 tvg-name="New Zealand vs Pakistan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="117416" group-title="New Zealand and South Africa tour of Pakistan 2025",New Zealand vs Pakistan
+#EXTINF:-1 tvg-name="New Zealand vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan_ODI_Tri_Series_2025_match-card_1738894392220.jpg" tvg-id="117416" group-title="New Zealand and South Africa tour of Pakistan 2025",New Zealand vs Pakistan
 https://dai.google.com/linear/hls/event/30_U2W1zRQmlR3_nGJr3Pw/master.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka vs Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg" tvg-id="115616" group-title="Australia tour of Sri Lanka, 2025",Sri Lanka vs Australia
 https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
@@ -25,3 +25,5 @@ https://dai.google.com/linear/hls/event/fw32O6EXSf-cudq9etmZ0w/master.m3u8
 https://dai.google.com/linear/hls/event/zhaNIWEaSMqomNRL4P-X3Q/master.m3u8
 #EXTINF:-1 tvg-name="Feed D - Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-old-match-card.png" tvg-id="118142" group-title="WM Phoenix Open",Feed D - Day 3
 https://dai.google.com/linear/hls/event/Z7S4Z-FOQfSZF3ff6OVfIQ/master.m3u8
+#EXTINF:-1 tvg-name="Feed C - Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-old-match-card.png" tvg-id="118141" group-title="WM Phoenix Open",Feed C - Day 3
+https://dai.google.com/linear/hls/event/nd0vpX8QQ-adboxTu7Ovvg/master.m3u8
