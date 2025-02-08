@@ -17,3 +17,5 @@ https://dai.google.com/linear/hls/event/x2piEt1mR2uL10efmDbp6g/master.m3u8
 https://dai.google.com/linear/hls/event/1waVN6I0QHChuM7t4SLrKw/master.m3u8
 #EXTINF:-1 tvg-name="Tasmania vs Victoria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110409_4543_TAS_VCT_fc-Web.jpg" tvg-id="110409" group-title="Sheffield Shield, 2024-25",Tasmania vs Victoria
 https://dai.google.com/linear/hls/event/AcFsqQCXT9eW8U16r22lMw/master.m3u8
+#EXTINF:-1 tvg-name="USA vs Namibia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Match-49_1738836614454.jpg" tvg-id="118175" group-title="ICC CWC League 2, 2023-27",USA vs Namibia
+https://dai.google.com/linear/hls/event/aWXl861zTlqnlLENow5hrA/master.m3u8
