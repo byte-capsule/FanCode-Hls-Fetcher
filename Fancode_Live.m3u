@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Maties Cricket Club vs Worcester United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117495_4787_MAT_WUT_Fc-Web.jpg" tvg-id="117495" group-title="Boland T20 Super League Finals, 2025",Maties Cricket Club vs Worcester United
 https://dai.google.com/linear/hls/event/WYkZ-qKkSxK5vLK9OoqUJA/master.m3u8
-#EXTINF:-1 tvg-name="USA vs Namibia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Match-49_1738836614454.jpg" tvg-id="118175" group-title="ICC CWC League 2, 2023-27",USA vs Namibia
-https://dai.google.com/linear/hls/event/aWXl861zTlqnlLENow5hrA/master.m3u8
 #EXTINF:-1 tvg-name="New Zealand vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan_ODI_Tri_Series_2025_match-card_1738894392220.jpg" tvg-id="117416" group-title="New Zealand and South Africa tour of Pakistan 2025",New Zealand vs Pakistan
 https://dai.google.com/linear/hls/event/30_U2W1zRQmlR3_nGJr3Pw/master.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka vs Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg" tvg-id="115616" group-title="Australia tour of Sri Lanka, 2025",Sri Lanka vs Australia
