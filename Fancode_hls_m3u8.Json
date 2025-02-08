@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 16,
-  "last_upaded": "08-02-2025 on 11:53:17 PM \ud83c\udf19",
+  "total_mathes": 15,
+  "last_upaded": "09-02-2025 on 00:27:00 AM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -37,20 +37,8 @@
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MSTG@2x.png",
       "team_2": "Kuwait Mavericks",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/KUM-CR1@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "banner": "https://www.fancode.com/aig/match/v1/118069_CASACARDS_APP.png",
       "stream_link": "https://dai.google.com/linear/hls/event/eBuWfbJtRnyH_i9yvju7PA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Rani Suryamukhi Devi T-20 Tournament",
-      "match_id": 117964,
-      "match_name": "Odisha vs Chhattisgarh",
-      "team_1": "Odisha",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ODS@2x.png",
-      "team_2": "Chhattisgarh",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CHAH@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v2/117964_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/pzzMePZZTmGxAao8ayqrCA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
