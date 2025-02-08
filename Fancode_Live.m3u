@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="City Challengers vs Hiims Hawks" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_old_v1.jpg" tvg-id="118099" group-title="Chandigarh T20",City Challengers vs Hiims Hawks
 https://dai.google.com/linear/hls/event/d9gQ_RJtT7ayW0NmxaQU8w/master.m3u8
-#EXTINF:-1 tvg-name="JP Sports vs Lightning Legends" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117988_4815_JPS_LGT_fc-Web.jpg" tvg-id="117988" group-title="Tillo Cup, 2025",JP Sports vs Lightning Legends
-https://dai.google.com/linear/hls/event/nJhYBfhTRxelwQL2RbWmRg/master.m3u8
 #EXTINF:-1 tvg-name="USA vs Namibia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Match-49_1738836614454.jpg" tvg-id="118175" group-title="ICC CWC League 2, 2023-27",USA vs Namibia
 https://dai.google.com/linear/hls/event/aWXl861zTlqnlLENow5hrA/master.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka vs Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg" tvg-id="115616" group-title="Australia tour of Sri Lanka, 2025",Sri Lanka vs Australia
 https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
+#EXTINF:-1 tvg-name="JP Sports vs Lightning Legends" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117988_4815_JPS_LGT_fc-Web.jpg" tvg-id="117988" group-title="Tillo Cup, 2025",JP Sports vs Lightning Legends
+https://dai.google.com/linear/hls/event/nJhYBfhTRxelwQL2RbWmRg/master.m3u8
 #EXTINF:-1 tvg-name="Delhi Royals vs Rajasthan Kings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118228_4824_DLR_RK_fc-Web.jpg" tvg-id="118228" group-title="Legend 90, 2025",Delhi Royals vs Rajasthan Kings
 https://dai.google.com/linear/hls/event/tWXgI2RdRqGmW6qOi7oQwg/master.m3u8
 #EXTINF:-1 tvg-name="Ireland vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe-Test_OLD_1738767396284.jpg" tvg-id="116935" group-title="Ireland tour of Zimbabwe, 2025",Ireland vs Zimbabwe
@@ -21,5 +21,3 @@ https://dai.google.com/linear/hls/event/x2piEt1mR2uL10efmDbp6g/master.m3u8
 https://dai.google.com/linear/hls/event/1waVN6I0QHChuM7t4SLrKw/master.m3u8
 #EXTINF:-1 tvg-name="Tasmania vs Victoria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110409_4543_TAS_VCT_fc-Web.jpg" tvg-id="110409" group-title="Sheffield Shield, 2024-25",Tasmania vs Victoria
 https://dai.google.com/linear/hls/event/AcFsqQCXT9eW8U16r22lMw/master.m3u8
-#EXTINF:-1 tvg-name="Newcastle Jets vs Melbourne Victory" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110995_4567_NJ_MLV_fc-web_1728983129296.jpg" tvg-id="110995" group-title="A League 2024-25",Newcastle Jets vs Melbourne Victory
-https://dai.google.com/linear/hls/event/lNxxgrtKSoSzo-YxDil_hQ/master.m3u8
