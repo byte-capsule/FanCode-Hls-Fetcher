@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 11,
-  "last_upaded": "08-02-2025 on 2:43:03 PM \ud83c\udf1e",
+  "total_mathes": 14,
+  "last_upaded": "08-02-2025 on 2:55:51 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -135,6 +135,42 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VCT@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110409_4543_TAS_VCT_fc-Web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/AcFsqQCXT9eW8U16r22lMw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "New Zealand and South Africa tour of Pakistan 2025",
+      "match_id": 117416,
+      "match_name": "New Zealand vs Pakistan",
+      "team_1": "New Zealand",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
+      "team_2": "Pakistan",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan_ODI_Tri_Series_2025_match-card_1738894392220.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/30_U2W1zRQmlR3_nGJr3Pw/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "A League 2024-25",
+      "match_id": 110996,
+      "match_name": "Sydney FC vs Western Sydney Wanderers",
+      "team_1": "Sydney FC",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYDA@2x.png",
+      "team_2": "Western Sydney Wanderers",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYWA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110996_4567_SYD_SYW_fc-web_1728983128409.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/r3ph-qRzQ4GF5IgHlG_uNQ/master.m3u8"
+    },
+    {
+      "event_catagory": "golf",
+      "event_name": "Commercial Bank Qatar Masters 2025",
+      "match_id": 117651,
+      "match_name": "Day 3",
+      "team_1": "Day 3",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-QMC@2x.png",
+      "team_2": "Doha GC, Doha, Qatar",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Commercial-Bank-Qatar-Masters_old_v1.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/vZ_gWZOhS4S0GuIM5tpSxg/master.m3u8"
     }
   ]
 }

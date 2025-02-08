@@ -21,3 +21,9 @@ https://dai.google.com/linear/hls/event/x2piEt1mR2uL10efmDbp6g/master.m3u8
 https://dai.google.com/linear/hls/event/1waVN6I0QHChuM7t4SLrKw/master.m3u8
 #EXTINF:-1 tvg-name="Tasmania vs Victoria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110409_4543_TAS_VCT_fc-Web.jpg" tvg-id="110409" group-title="Sheffield Shield, 2024-25",Tasmania vs Victoria
 https://dai.google.com/linear/hls/event/AcFsqQCXT9eW8U16r22lMw/master.m3u8
+#EXTINF:-1 tvg-name="New Zealand vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan_ODI_Tri_Series_2025_match-card_1738894392220.jpg" tvg-id="117416" group-title="New Zealand and South Africa tour of Pakistan 2025",New Zealand vs Pakistan
+https://dai.google.com/linear/hls/event/30_U2W1zRQmlR3_nGJr3Pw/master.m3u8
+#EXTINF:-1 tvg-name="Sydney FC vs Western Sydney Wanderers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110996_4567_SYD_SYW_fc-web_1728983128409.jpg" tvg-id="110996" group-title="A League 2024-25",Sydney FC vs Western Sydney Wanderers
+https://dai.google.com/linear/hls/event/r3ph-qRzQ4GF5IgHlG_uNQ/master.m3u8
+#EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Commercial-Bank-Qatar-Masters_old_v1.jpg" tvg-id="117651" group-title="Commercial Bank Qatar Masters 2025",Day 3
+https://dai.google.com/linear/hls/event/vZ_gWZOhS4S0GuIM5tpSxg/master.m3u8
