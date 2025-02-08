@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Western Australia vs South Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110411_4543_WAU_SAU_fc-Web.jpg" tvg-id="110411" group-title="Sheffield Shield, 2024-25",Western Australia vs South Australia
+https://dai.google.com/linear/hls/event/x2piEt1mR2uL10efmDbp6g/master.m3u8
+#EXTINF:-1 tvg-name="Queensland vs New South Wales" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110410_4543_QUN_NSW_fc-Web.jpg" tvg-id="110410" group-title="Sheffield Shield, 2024-25",Queensland vs New South Wales
+https://dai.google.com/linear/hls/event/1waVN6I0QHChuM7t4SLrKw/master.m3u8
+#EXTINF:-1 tvg-name="Tasmania vs Victoria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110409_4543_TAS_VCT_fc-Web.jpg" tvg-id="110409" group-title="Sheffield Shield, 2024-25",Tasmania vs Victoria
+https://dai.google.com/linear/hls/event/AcFsqQCXT9eW8U16r22lMw/master.m3u8
 #EXTINF:-1 tvg-name="Blue Boys vs Raghubansh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-T20-Test-Pink-Ball-old-Match-card--.png" tvg-id="118547" group-title="BOX Office T20 Test Pink Ball",Blue Boys vs Raghubansh
 https://dai.google.com/linear/hls/event/PVSIYwcpSmyp3x5-qJnmxQ/master.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka vs Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg" tvg-id="115616" group-title="Australia tour of Sri Lanka, 2025",Sri Lanka vs Australia
@@ -9,9 +15,5 @@ https://dai.google.com/linear/hls/event/1fNCotbvT4-xpT71DmtyWg/master.m3u8
 https://dai.google.com/linear/hls/event/DOLyOqY2QiaU5dArVB3qJw/master.m3u8
 #EXTINF:-1 tvg-name="Combined Campuses and Colleges vs Guyana Harpy Eagles" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117751_4799_GUY_CCC_fc-Web_1738071641408.jpg" tvg-id="117751" group-title="West Indies Championship, 2025",Combined Campuses and Colleges vs Guyana Harpy Eagles
 https://dai.google.com/linear/hls/event/Rlox3h4YR1ehCs3qK0dnIA/master.m3u8
-#EXTINF:-1 tvg-name="Queensland vs New South Wales" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110410_4543_QUN_NSW_fc-Web.jpg" tvg-id="110410" group-title="Sheffield Shield, 2024-25",Queensland vs New South Wales
-https://dai.google.com/linear/hls/event/1waVN6I0QHChuM7t4SLrKw/master.m3u8
-#EXTINF:-1 tvg-name="Tasmania vs Victoria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110409_4543_TAS_VCT_fc-Web.jpg" tvg-id="110409" group-title="Sheffield Shield, 2024-25",Tasmania vs Victoria
-https://dai.google.com/linear/hls/event/AcFsqQCXT9eW8U16r22lMw/master.m3u8
-#EXTINF:-1 tvg-name="Western Australia vs South Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110411_4543_WAU_SAU_fc-Web.jpg" tvg-id="110411" group-title="Sheffield Shield, 2024-25",Western Australia vs South Australia
-https://dai.google.com/linear/hls/event/x2piEt1mR2uL10efmDbp6g/master.m3u8
+#EXTINF:-1 tvg-name="Punjab Panthers vs Wild Woods Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_ols_v3.jpg" tvg-id="118098" group-title="Chandigarh T20",Punjab Panthers vs Wild Woods Warriors
+https://dai.google.com/linear/hls/event/g8cYAi3yT-qYpqpyWTC2Bw/master.m3u8
