@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Maties Cricket Club vs Worcester United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117495_4787_MAT_WUT_Fc-Web.jpg" tvg-id="117495" group-title="Boland T20 Super League Finals, 2025",Maties Cricket Club vs Worcester United
+https://dai.google.com/linear/hls/event/WYkZ-qKkSxK5vLK9OoqUJA/master.m3u8
 #EXTINF:-1 tvg-name="Bud Cricket Club vs New Star Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117453_4781_BCC_NSC_fc-web.jpg" tvg-id="117453" group-title="Guwahati Premier League, 2025",Bud Cricket Club vs New Star Club
 https://dai.google.com/linear/hls/event/Wf_kNQHwS-SH6ZHjHgHDoQ/master.m3u8
 #EXTINF:-1 tvg-name="Chhattisgarh Warriors vs Dubai Giants" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118229_4824_CW_DG_fc-Web.jpg" tvg-id="118229" group-title="Legend 90, 2025",Chhattisgarh Warriors vs Dubai Giants
@@ -25,5 +27,7 @@ https://dai.google.com/linear/hls/event/x2piEt1mR2uL10efmDbp6g/master.m3u8
 https://dai.google.com/linear/hls/event/1waVN6I0QHChuM7t4SLrKw/master.m3u8
 #EXTINF:-1 tvg-name="Tasmania vs Victoria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110409_4543_TAS_VCT_fc-Web.jpg" tvg-id="110409" group-title="Sheffield Shield, 2024-25",Tasmania vs Victoria
 https://dai.google.com/linear/hls/event/AcFsqQCXT9eW8U16r22lMw/master.m3u8
+#EXTINF:-1 tvg-name="Sunderland vs Watford" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sunderland-vs-Watford_fc_web.jpg" tvg-id="116557" group-title="EFL Championship 2024-25",Sunderland vs Watford
+https://dai.google.com/linear/hls/event/zqoSnPxEQ4GuOA5l9viJ4g/master.m3u8
 #EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Commercial-Bank-Qatar-Masters_old_v1.jpg" tvg-id="117651" group-title="Commercial Bank Qatar Masters 2025",Day 3
 https://dai.google.com/linear/hls/event/vZ_gWZOhS4S0GuIM5tpSxg/master.m3u8
