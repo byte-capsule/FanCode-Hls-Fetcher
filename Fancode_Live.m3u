@@ -9,15 +9,15 @@ https://dai.google.com/linear/hls/event/-qqfLKFiTJKpc7A7ng5Tww/master.m3u8
 https://dai.google.com/linear/hls/event/lX83uWoRR-CICC7ajQnuXw/master.m3u8
 #EXTINF:-1 tvg-name="Ireland vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe-Test_OLD_1738767396284.jpg" tvg-id="116935" group-title="Ireland tour of Zimbabwe, 2025",Ireland vs Zimbabwe
 https://dai.google.com/linear/hls/event/1fNCotbvT4-xpT71DmtyWg/master.m3u8
+#EXTINF:-1 tvg-name="Bahrain vs Hong Kong, China" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg" tvg-id="118006" group-title="ICC CWC Challenge League B, 2024-26",Bahrain vs Hong Kong, China
+https://dai.google.com/linear/hls/event/iriiPq1PTjCddiSVXhRO2w/master.m3u8
+#EXTINF:-1 tvg-name="Singapore vs Italy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg" tvg-id="118005" group-title="ICC CWC Challenge League B, 2024-26",Singapore vs Italy
+https://dai.google.com/linear/hls/event/eBvQmD5BT6eIneNVpqEveg/master.m3u8
 #EXTINF:-1 tvg-name="Western Australia vs South Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110411_4543_WAU_SAU_fc-Web.jpg" tvg-id="110411" group-title="Sheffield Shield, 2024-25",Western Australia vs South Australia
 https://dai.google.com/linear/hls/event/x2piEt1mR2uL10efmDbp6g/master.m3u8
 #EXTINF:-1 tvg-name="Queensland vs New South Wales" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110410_4543_QUN_NSW_fc-Web.jpg" tvg-id="110410" group-title="Sheffield Shield, 2024-25",Queensland vs New South Wales
 https://dai.google.com/linear/hls/event/1waVN6I0QHChuM7t4SLrKw/master.m3u8
 #EXTINF:-1 tvg-name="Tasmania vs Victoria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110409_4543_TAS_VCT_fc-Web.jpg" tvg-id="110409" group-title="Sheffield Shield, 2024-25",Tasmania vs Victoria
 https://dai.google.com/linear/hls/event/AcFsqQCXT9eW8U16r22lMw/master.m3u8
-#EXTINF:-1 tvg-name="Bahrain vs Hong Kong, China" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg" tvg-id="118006" group-title="ICC CWC Challenge League B, 2024-26",Bahrain vs Hong Kong, China
-https://dai.google.com/linear/hls/event/iriiPq1PTjCddiSVXhRO2w/master.m3u8
-#EXTINF:-1 tvg-name="Singapore vs Italy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg" tvg-id="118005" group-title="ICC CWC Challenge League B, 2024-26",Singapore vs Italy
-https://dai.google.com/linear/hls/event/eBvQmD5BT6eIneNVpqEveg/master.m3u8
 #EXTINF:-1 tvg-name="Manohar Mavericks vs Punjab Panthers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_old_v2.jpg" tvg-id="118100" group-title="Chandigarh T20",Manohar Mavericks vs Punjab Panthers
 https://dai.google.com/linear/hls/event/U_0VoESkTBSt8SvBOIFFAA/master.m3u8
