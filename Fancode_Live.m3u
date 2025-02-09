@@ -1,17 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Bandaghat 11 vs Thrilling" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-White-Ball-T20-old-Match-card.png" tvg-id="118548" group-title="BOX Office White Ball T20",Bandaghat 11 vs Thrilling
-https://dai.google.com/linear/hls/event/LJI2RLLkQMu9tXkLPuUSgA/master.m3u8
-#EXTINF:-1 tvg-name="Bud Cricket Club vs Nabajyoti Club" tvg-logo="https://www.fancode.com/aig/match/v1/117454_CASACARDS_APP.png" tvg-id="117454" group-title="Guwahati Premier League, 2025",Bud Cricket Club vs Nabajyoti Club
-https://dai.google.com/linear/hls/event/d_Q-7zncQ_Ws3HEm4Jjngw/master.m3u8
 #EXTINF:-1 tvg-name="City Challengers vs Talanoa Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_ols_v3.jpg" tvg-id="118101" group-title="Chandigarh T20",City Challengers vs Talanoa Tigers
 https://dai.google.com/linear/hls/event/YZpAhe5uSPCZ38ColQXplw/master.m3u8
-#EXTINF:-1 tvg-name="Ireland vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe-Test_OLD_1738767396284.jpg" tvg-id="116935" group-title="Ireland tour of Zimbabwe, 2025",Ireland vs Zimbabwe
-https://dai.google.com/linear/hls/event/1fNCotbvT4-xpT71DmtyWg/master.m3u8
 #EXTINF:-1 tvg-name="Bahrain vs Hong Kong, China" tvg-logo="https://www.fancode.com/aig/match/v1/118006_CASACARDS_APP.png" tvg-id="118006" group-title="ICC CWC Challenge League B, 2024-26",Bahrain vs Hong Kong, China
 https://dai.google.com/linear/hls/event/iriiPq1PTjCddiSVXhRO2w/master.m3u8
 #EXTINF:-1 tvg-name="Queensland vs New South Wales" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110410_4543_QUN_NSW_fc-Web.jpg" tvg-id="110410" group-title="Sheffield Shield, 2024-25",Queensland vs New South Wales
 https://dai.google.com/linear/hls/event/1waVN6I0QHChuM7t4SLrKw/master.m3u8
 #EXTINF:-1 tvg-name="Tasmania vs Victoria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110409_4543_TAS_VCT_fc-Web.jpg" tvg-id="110409" group-title="Sheffield Shield, 2024-25",Tasmania vs Victoria
 https://dai.google.com/linear/hls/event/AcFsqQCXT9eW8U16r22lMw/master.m3u8
+#EXTINF:-1 tvg-name="Bud Cricket Club vs Nabajyoti Club" tvg-logo="https://www.fancode.com/aig/match/v1/117454_CASACARDS_APP.png" tvg-id="117454" group-title="Guwahati Premier League, 2025",Bud Cricket Club vs Nabajyoti Club
+https://dai.google.com/linear/hls/event/d_Q-7zncQ_Ws3HEm4Jjngw/master.m3u8
+#EXTINF:-1 tvg-name="Ireland vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe-Test_OLD_1738767396284.jpg" tvg-id="116935" group-title="Ireland tour of Zimbabwe, 2025",Ireland vs Zimbabwe
+https://dai.google.com/linear/hls/event/1fNCotbvT4-xpT71DmtyWg/master.m3u8
 #EXTINF:-1 tvg-name="Macarthur vs Western United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110997_4567_MAC_WST_fc-web_1728983128657.jpg" tvg-id="110997" group-title="A League 2024-25",Macarthur vs Western United
 https://dai.google.com/linear/hls/event/SNCBpm3qQ0Cgeb-nmq6S9w/master.m3u8
