@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Sri Lanka vs Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg" tvg-id="115616" group-title="Australia tour of Sri Lanka, 2025",Sri Lanka vs Australia
 https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
-#EXTINF:-1 tvg-name="Queensland Fire vs Victoria Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109416_4508_VCTW_QLF_fc-web.jpg" tvg-id="109416" group-title="WNCL, 2024-25",Queensland Fire vs Victoria Women
-https://dai.google.com/linear/hls/event/93ZUeoKIRh6EYZDOVCYh3Q/master.m3u8
 #EXTINF:-1 tvg-name="ACT Meteors vs Western Australia Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109415_4508_ACTM_WA-W_fc-web.jpg" tvg-id="109415" group-title="WNCL, 2024-25",ACT Meteors vs Western Australia Women
 https://dai.google.com/linear/hls/event/-qqfLKFiTJKpc7A7ng5Tww/master.m3u8
 #EXTINF:-1 tvg-name="New South Wales Breakers vs South Australian Scorpions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109414_4508_NSWB_SASC_fc-web.jpg" tvg-id="109414" group-title="WNCL, 2024-25",New South Wales Breakers vs South Australian Scorpions
@@ -25,3 +23,5 @@ https://dai.google.com/linear/hls/event/U_0VoESkTBSt8SvBOIFFAA/master.m3u8
 https://dai.google.com/linear/hls/event/LJI2RLLkQMu9tXkLPuUSgA/master.m3u8
 #EXTINF:-1 tvg-name="JP Sports vs Union Sporting" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117989_4815_JPS_US_fc-Web.jpg" tvg-id="117989" group-title="Tillo Cup, 2025",JP Sports vs Union Sporting
 https://dai.google.com/linear/hls/event/3BY7PAnVSpevdzFJxRJwCA/master.m3u8
+#EXTINF:-1 tvg-name="Bud Cricket Club vs Nabajyoti Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg" tvg-id="117454" group-title="Guwahati Premier League, 2025",Bud Cricket Club vs Nabajyoti Club
+https://dai.google.com/linear/hls/event/d_Q-7zncQ_Ws3HEm4Jjngw/master.m3u8
