@@ -1,1 +1,21 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Sri Lanka vs Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg" tvg-id="115616" group-title="Australia tour of Sri Lanka, 2025",Sri Lanka vs Australia
+https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
+#EXTINF:-1 tvg-name="Queensland Fire vs Victoria Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109416_4508_VCTW_QLF_fc-web.jpg" tvg-id="109416" group-title="WNCL, 2024-25",Queensland Fire vs Victoria Women
+https://dai.google.com/linear/hls/event/93ZUeoKIRh6EYZDOVCYh3Q/master.m3u8
+#EXTINF:-1 tvg-name="ACT Meteors vs Western Australia Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109415_4508_ACTM_WA-W_fc-web.jpg" tvg-id="109415" group-title="WNCL, 2024-25",ACT Meteors vs Western Australia Women
+https://dai.google.com/linear/hls/event/-qqfLKFiTJKpc7A7ng5Tww/master.m3u8
+#EXTINF:-1 tvg-name="New South Wales Breakers vs South Australian Scorpions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109414_4508_NSWB_SASC_fc-web.jpg" tvg-id="109414" group-title="WNCL, 2024-25",New South Wales Breakers vs South Australian Scorpions
+https://dai.google.com/linear/hls/event/lX83uWoRR-CICC7ajQnuXw/master.m3u8
+#EXTINF:-1 tvg-name="Ireland vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe-Test_OLD_1738767396284.jpg" tvg-id="116935" group-title="Ireland tour of Zimbabwe, 2025",Ireland vs Zimbabwe
+https://dai.google.com/linear/hls/event/1fNCotbvT4-xpT71DmtyWg/master.m3u8
+#EXTINF:-1 tvg-name="Western Australia vs South Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110411_4543_WAU_SAU_fc-Web.jpg" tvg-id="110411" group-title="Sheffield Shield, 2024-25",Western Australia vs South Australia
+https://dai.google.com/linear/hls/event/x2piEt1mR2uL10efmDbp6g/master.m3u8
+#EXTINF:-1 tvg-name="Queensland vs New South Wales" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110410_4543_QUN_NSW_fc-Web.jpg" tvg-id="110410" group-title="Sheffield Shield, 2024-25",Queensland vs New South Wales
+https://dai.google.com/linear/hls/event/1waVN6I0QHChuM7t4SLrKw/master.m3u8
+#EXTINF:-1 tvg-name="Tasmania vs Victoria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110409_4543_TAS_VCT_fc-Web.jpg" tvg-id="110409" group-title="Sheffield Shield, 2024-25",Tasmania vs Victoria
+https://dai.google.com/linear/hls/event/AcFsqQCXT9eW8U16r22lMw/master.m3u8
+#EXTINF:-1 tvg-name="Bahrain vs Hong Kong, China" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg" tvg-id="118006" group-title="ICC CWC Challenge League B, 2024-26",Bahrain vs Hong Kong, China
+https://dai.google.com/linear/hls/event/iriiPq1PTjCddiSVXhRO2w/master.m3u8
+#EXTINF:-1 tvg-name="Singapore vs Italy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg" tvg-id="118005" group-title="ICC CWC Challenge League B, 2024-26",Singapore vs Italy
+https://dai.google.com/linear/hls/event/eBvQmD5BT6eIneNVpqEveg/master.m3u8
