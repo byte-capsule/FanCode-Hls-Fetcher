@@ -11,9 +11,11 @@ https://dai.google.com/linear/hls/event/YRQwNbDOSKGfCy1shfDLgQ/master.m3u8
 https://dai.google.com/linear/hls/event/fSBNJLZVRsStpWizGGD7Mw/master.m3u8
 #EXTINF:-1 tvg-name="Ireland vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe-Test_OLD_1738767396284.jpg" tvg-id="116935" group-title="Ireland tour of Zimbabwe, 2025",Ireland vs Zimbabwe
 https://dai.google.com/linear/hls/event/1fNCotbvT4-xpT71DmtyWg/master.m3u8
-#EXTINF:-1 tvg-name="Feed B - Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-old-match-card.png" tvg-id="118145" group-title="WM Phoenix Open",Feed B - Day 4
-https://dai.google.com/linear/hls/event/VZ85ZwOzRuO-6jf_wqsOvw/master.m3u8
+#EXTINF:-1 tvg-name="Global Champs vs Team TGS" tvg-logo="https://www.fancode.com/aig/match/v1/115835_CASACARDS_APP.png" tvg-id="115835" group-title="KCC T20 Challengers B League, 2024-25",Global Champs vs Team TGS
+https://dai.google.com/linear/hls/event/bthIJV4iQtSffsjAXrUDUg/master.m3u8
 #EXTINF:-1 tvg-name="Feed D - Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-old-match-card.png" tvg-id="118147" group-title="WM Phoenix Open",Feed D - Day 4
 https://dai.google.com/linear/hls/event/tBN0HsVBTymHHC8fdBqqXg/master.m3u8
 #EXTINF:-1 tvg-name="Feed C - Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-old-match-card.png" tvg-id="118146" group-title="WM Phoenix Open",Feed C - Day 4
 https://dai.google.com/linear/hls/event/abe6ed4eQqC9LvOom2pReA/master.m3u8
+#EXTINF:-1 tvg-name="Feed B - Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-old-match-card.png" tvg-id="118145" group-title="WM Phoenix Open",Feed B - Day 4
+https://dai.google.com/linear/hls/event/VZ85ZwOzRuO-6jf_wqsOvw/master.m3u8
