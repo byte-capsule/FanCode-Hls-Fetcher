@@ -1,9 +1,45 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 11,
-  "last_upaded": "09-02-2025 on 0:28:40 PM \ud83c\udf1e",
+  "total_mathes": 10,
+  "last_upaded": "09-02-2025 on 0:44:32 PM \ud83c\udf1e",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "BOX Office White Ball T20",
+      "match_id": 118548,
+      "match_name": "Bandaghat 11 vs Thrilling",
+      "team_1": "Bandaghat 11",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR19@2x.png",
+      "team_2": "Thrilling",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR12@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-White-Ball-T20-old-Match-card.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/LJI2RLLkQMu9tXkLPuUSgA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Guwahati Premier League, 2025",
+      "match_id": 117454,
+      "match_name": "Bud Cricket Club vs Nabajyoti Club",
+      "team_1": "Bud Cricket Club",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BCC@2x.png",
+      "team_2": "Nabajyoti Club",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NBC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/d_Q-7zncQ_Ws3HEm4Jjngw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Tillo Cup, 2025",
+      "match_id": 117989,
+      "match_name": "JP Sports vs Union Sporting",
+      "team_1": "JP Sports",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JPS@2x.png",
+      "team_2": "Union Sporting",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USTC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/117989_4815_JPS_US_fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/3BY7PAnVSpevdzFJxRJwCA/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "Ireland tour of Zimbabwe, 2025",
@@ -75,54 +111,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VCT@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110409_4543_TAS_VCT_fc-Web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/AcFsqQCXT9eW8U16r22lMw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Chandigarh T20",
-      "match_id": 118100,
-      "match_name": "Manohar Mavericks vs Punjab Panthers",
-      "team_1": "Manohar Mavericks",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MMV@2x.png",
-      "team_2": "Punjab Panthers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PP@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_old_v2.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/U_0VoESkTBSt8SvBOIFFAA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "BOX Office White Ball T20",
-      "match_id": 118548,
-      "match_name": "Bandaghat 11 vs Thrilling",
-      "team_1": "Bandaghat 11",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR19@2x.png",
-      "team_2": "Thrilling",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR12@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-White-Ball-T20-old-Match-card.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/LJI2RLLkQMu9tXkLPuUSgA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Tillo Cup, 2025",
-      "match_id": 117989,
-      "match_name": "JP Sports vs Union Sporting",
-      "team_1": "JP Sports",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JPS@2x.png",
-      "team_2": "Union Sporting",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USTC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/117989_4815_JPS_US_fc-Web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/3BY7PAnVSpevdzFJxRJwCA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Guwahati Premier League, 2025",
-      "match_id": 117454,
-      "match_name": "Bud Cricket Club vs Nabajyoti Club",
-      "team_1": "Bud Cricket Club",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BCC@2x.png",
-      "team_2": "Nabajyoti Club",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NBC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/d_Q-7zncQ_Ws3HEm4Jjngw/master.m3u8"
     },
     {
       "event_catagory": "football",
