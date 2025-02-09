@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 13,
-  "last_upaded": "09-02-2025 on 11:53:03 PM \ud83c\udf19",
+  "total_mathes": 11,
+  "last_upaded": "10-02-2025 on 00:27:10 AM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -13,7 +13,7 @@
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CKCC@2x.png",
       "team_2": "Punjab CC Amadora",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PNJ@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/117769_4800_CK_PNJ_fc-web.jpg",
+      "banner": false,
       "stream_link": "https://dai.google.com/linear/hls/event/GuWvkJKoQfWBZtSnpqUL9w/master.m3u8"
     },
     {
@@ -54,27 +54,15 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Rani Suryamukhi Devi T-20 Tournament",
-      "match_id": 117966,
-      "match_name": "Vidarbha vs Chhattisgarh",
-      "team_1": "Vidarbha",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VI@2x.png",
-      "team_2": "Chhattisgarh",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CHAH@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v3/117966_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/YRQwNbDOSKGfCy1shfDLgQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "DP World International League T20, 2025",
-      "match_id": 115985,
-      "match_name": "Desert Vipers vs Dubai Capitals",
-      "team_1": "Desert Vipers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DVDD@2x.png",
-      "team_2": "Dubai Capitals",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DCDP@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/115964_4730_DC_DV_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/fSBNJLZVRsStpWizGGD7Mw/master.m3u8"
+      "event_name": "KCC T20 Challengers B League, 2024-25",
+      "match_id": 115835,
+      "match_name": "Global Champs vs Team TGS",
+      "team_1": "Global Champs",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GCHM@2x.png",
+      "team_2": "Team TGS",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TYT@2x.png",
+      "banner": "https://www.fancode.com/aig/match/v1/115835_CASACARDS_APP.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/bthIJV4iQtSffsjAXrUDUg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -87,18 +75,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe-Test_OLD_1738767396284.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/1fNCotbvT4-xpT71DmtyWg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "KCC T20 Challengers B League, 2024-25",
-      "match_id": 115835,
-      "match_name": "Global Champs vs Team TGS",
-      "team_1": "Global Champs",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GCHM@2x.png",
-      "team_2": "Team TGS",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TYT@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/115835_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/bthIJV4iQtSffsjAXrUDUg/master.m3u8"
     },
     {
       "event_catagory": "golf",
