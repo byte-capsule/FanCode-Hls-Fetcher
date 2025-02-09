@@ -1,33 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 12,
-  "last_upaded": "09-02-2025 on 11:53:09 AM \ud83c\udf1e",
+  "total_mathes": 11,
+  "last_upaded": "09-02-2025 on 0:28:40 PM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "Australia tour of Sri Lanka, 2025",
-      "match_id": 115616,
-      "match_name": "Sri Lanka vs Australia",
-      "team_1": "Sri Lanka",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
-      "team_2": "Australia",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUS@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "WNCL, 2024-25",
-      "match_id": 109415,
-      "match_name": "ACT Meteors vs Western Australia Women",
-      "team_1": "ACT Meteors",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACTM@2x.png",
-      "team_2": "Western Australia Women",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAU@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/109415_4508_ACTM_WA-W_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/-qqfLKFiTJKpc7A7ng5Tww/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Ireland tour of Zimbabwe, 2025",
@@ -147,6 +123,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NBC@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/d_Q-7zncQ_Ws3HEm4Jjngw/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "A League 2024-25",
+      "match_id": 110997,
+      "match_name": "Macarthur vs Western United",
+      "team_1": "Macarthur",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MACA@2x.png",
+      "team_2": "Western United",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WSTA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110997_4567_MAC_WST_fc-web_1728983128657.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/SNCBpm3qQ0Cgeb-nmq6S9w/master.m3u8"
     }
   ]
 }
