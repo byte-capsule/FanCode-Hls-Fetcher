@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 9,
-  "last_upaded": "09-02-2025 on 0:57:17 PM \ud83c\udf1e",
+  "total_mathes": 8,
+  "last_upaded": "09-02-2025 on 1:20:59 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -25,20 +25,8 @@
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BCC@2x.png",
       "team_2": "Nabajyoti Club",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NBC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "banner": "https://www.fancode.com/aig/match/v1/117454_CASACARDS_APP.png",
       "stream_link": "https://dai.google.com/linear/hls/event/d_Q-7zncQ_Ws3HEm4Jjngw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Tillo Cup, 2025",
-      "match_id": 117989,
-      "match_name": "JP Sports vs Union Sporting",
-      "team_1": "JP Sports",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JPS@2x.png",
-      "team_2": "Union Sporting",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USTC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/117989_4815_JPS_US_fc-Web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/3BY7PAnVSpevdzFJxRJwCA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -73,7 +61,7 @@
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAH@2x.png",
       "team_2": "Hong Kong, China",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HK@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "banner": "https://www.fancode.com/aig/match/v1/118006_CASACARDS_APP.png",
       "stream_link": "https://dai.google.com/linear/hls/event/iriiPq1PTjCddiSVXhRO2w/master.m3u8"
     },
     {
