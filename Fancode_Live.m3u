@@ -1,10 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Maties Cricket Club vs Vredenburg/Saldanha CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="117498" group-title="Boland T20 Super League Finals, 2025",Maties Cricket Club vs Vredenburg/Saldanha CC
+https://dai.google.com/linear/hls/event/6oH7yOtHSfW-yyQHeDVGvA/master.m3u8
 #EXTINF:-1 tvg-name="Queensland vs New South Wales" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110410_4543_QUN_NSW_fc-Web.jpg" tvg-id="110410" group-title="Sheffield Shield, 2024-25",Queensland vs New South Wales
 https://dai.google.com/linear/hls/event/1waVN6I0QHChuM7t4SLrKw/master.m3u8
 #EXTINF:-1 tvg-name="Tasmania vs Victoria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110409_4543_TAS_VCT_fc-Web.jpg" tvg-id="110409" group-title="Sheffield Shield, 2024-25",Tasmania vs Victoria
 https://dai.google.com/linear/hls/event/AcFsqQCXT9eW8U16r22lMw/master.m3u8
-#EXTINF:-1 tvg-name="Gujarat Samp Army vs Dubai Giants" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118231_4824_GJS_DG_fc-Web.jpg" tvg-id="118231" group-title="Legend 90, 2025",Gujarat Samp Army vs Dubai Giants
-https://dai.google.com/linear/hls/event/Vuqr-iDbS668aJMCZ3oB_Q/master.m3u8
 #EXTINF:-1 tvg-name="Vidarbha vs Chhattisgarh" tvg-logo="https://www.fancode.com/aig/match/v3/117966_CASACARDS_APP.png" tvg-id="117966" group-title="Rani Suryamukhi Devi T-20 Tournament",Vidarbha vs Chhattisgarh
 https://dai.google.com/linear/hls/event/YRQwNbDOSKGfCy1shfDLgQ/master.m3u8
 #EXTINF:-1 tvg-name="Desert Vipers vs Dubai Capitals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115964_4730_DC_DV_fc-web.jpg" tvg-id="115985" group-title="DP World International League T20, 2025",Desert Vipers vs Dubai Capitals
@@ -13,3 +13,7 @@ https://dai.google.com/linear/hls/event/fSBNJLZVRsStpWizGGD7Mw/master.m3u8
 https://dai.google.com/linear/hls/event/1fNCotbvT4-xpT71DmtyWg/master.m3u8
 #EXTINF:-1 tvg-name="Feed B - Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-old-match-card.png" tvg-id="118145" group-title="WM Phoenix Open",Feed B - Day 4
 https://dai.google.com/linear/hls/event/VZ85ZwOzRuO-6jf_wqsOvw/master.m3u8
+#EXTINF:-1 tvg-name="Feed D - Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-old-match-card.png" tvg-id="118147" group-title="WM Phoenix Open",Feed D - Day 4
+https://dai.google.com/linear/hls/event/tBN0HsVBTymHHC8fdBqqXg/master.m3u8
+#EXTINF:-1 tvg-name="Feed C - Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-old-match-card.png" tvg-id="118146" group-title="WM Phoenix Open",Feed C - Day 4
+https://dai.google.com/linear/hls/event/abe6ed4eQqC9LvOom2pReA/master.m3u8
