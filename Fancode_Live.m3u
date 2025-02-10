@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Vredenburg/Saldanha CC vs Worcester United" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="117499" group-title="Boland T20 Super League Finals, 2025",Vredenburg/Saldanha CC vs Worcester United
 https://dai.google.com/linear/hls/event/jKbtTOh9QUKtANGG0Yz8Bw/master.m3u8
+#EXTINF:-1 tvg-name="Salmiya Strikers vs Phoenix Cricketers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg" tvg-id="115836" group-title="KCC T20 Challengers B League, 2024-25",Salmiya Strikers vs Phoenix Cricketers
+https://dai.google.com/linear/hls/event/xVUNP3n0R-WkdKqAlWwpgA/master.m3u8
 #EXTINF:-1 tvg-name="Maharashtra vs Chhattisgarh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117968_4813_MAH_CHA_fc-web.jpg" tvg-id="117968" group-title="Rani Suryamukhi Devi T-20 Tournament",Maharashtra vs Chhattisgarh
 https://dai.google.com/linear/hls/event/0fAQ8MG_RB-PDqj2l9fDdw/master.m3u8
 #EXTINF:-1 tvg-name="The Spartan Squad vs Madora" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg" tvg-id="118783" group-title="BOX Office White Ball T20",The Spartan Squad vs Madora
