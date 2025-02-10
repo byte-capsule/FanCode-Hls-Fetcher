@@ -2,8 +2,32 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 10,
-  "last_upaded": "10-02-2025 on 11:53:41 AM \ud83c\udf1e",
+  "last_upaded": "10-02-2025 on 0:31:53 PM \ud83c\udf1e",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "New Zealand and South Africa tour of Pakistan 2025",
+      "match_id": 117417,
+      "match_name": "South Africa vs New Zealand",
+      "team_1": "South Africa",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
+      "team_2": "New Zealand",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan_ODI_Tri_Series_2025_match-card_2_1739082641620.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/oywMqMg5TI6WwCd_Qjb35A/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Guwahati Premier League, 2025",
+      "match_id": 117456,
+      "match_name": "91 Yards Club vs Guwahati Giants",
+      "team_1": "91 Yards Club",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NYC@2x.png",
+      "team_2": "Guwahati Giants",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GWT@2x.png",
+      "banner": "https://www.fancode.com/aig/match/v1/117456_CASACARDS_APP.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/l5In_CBITEC83EvlZFAp3w/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "Tillo Cup, 2025",
@@ -87,30 +111,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VCT@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110409_4543_TAS_VCT_fc-Web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/AcFsqQCXT9eW8U16r22lMw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "New Zealand and South Africa tour of Pakistan 2025",
-      "match_id": 117417,
-      "match_name": "South Africa vs New Zealand",
-      "team_1": "South Africa",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
-      "team_2": "New Zealand",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan_ODI_Tri_Series_2025_match-card_2_1739082641620.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/oywMqMg5TI6WwCd_Qjb35A/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Guwahati Premier League, 2025",
-      "match_id": 117456,
-      "match_name": "91 Yards Club vs Guwahati Giants",
-      "team_1": "91 Yards Club",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NYC@2x.png",
-      "team_2": "Guwahati Giants",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GWT@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/117456_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/l5In_CBITEC83EvlZFAp3w/master.m3u8"
     },
     {
       "event_catagory": "cricket",
