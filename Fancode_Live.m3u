@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Mater Dei vs Power Hitters" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118258_4825_PWH_MTD_fc-web.jpg" tvg-id="118258" group-title="ECS Malta, 2025",Mater Dei vs Power Hitters
-https://dai.google.com/linear/hls/event/1xvqHzjQRpCGJwz3kuNK7g/master.m3u8
-#EXTINF:-1 tvg-name="Rajasthan Kings vs Gujarat Samp Army" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118233_4824_RK_GJS_fc-Web.jpg" tvg-id="118233" group-title="Legend 90, 2025",Rajasthan Kings vs Gujarat Samp Army
-https://dai.google.com/linear/hls/event/wj7PKfaESrqUFIMJht1ZAg/master.m3u8
+#EXTINF:-1 tvg-name="Vredenburg/Saldanha CC vs Worcester United" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="117499" group-title="Boland T20 Super League Finals, 2025",Vredenburg/Saldanha CC vs Worcester United
+https://dai.google.com/linear/hls/event/jKbtTOh9QUKtANGG0Yz8Bw/master.m3u8
 #EXTINF:-1 tvg-name="Maharashtra vs Chhattisgarh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117968_4813_MAH_CHA_fc-web.jpg" tvg-id="117968" group-title="Rani Suryamukhi Devi T-20 Tournament",Maharashtra vs Chhattisgarh
 https://dai.google.com/linear/hls/event/0fAQ8MG_RB-PDqj2l9fDdw/master.m3u8
 #EXTINF:-1 tvg-name="The Spartan Squad vs Madora" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg" tvg-id="118783" group-title="BOX Office White Ball T20",The Spartan Squad vs Madora

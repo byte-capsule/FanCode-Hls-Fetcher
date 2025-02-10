@@ -1,32 +1,20 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "10-02-2025 on 9:53:46 PM \ud83c\udf19",
+  "total_mathes": 5,
+  "last_upaded": "10-02-2025 on 10:28:05 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
-      "event_name": "ECS Malta, 2025",
-      "match_id": 118258,
-      "match_name": "Mater Dei vs Power Hitters",
-      "team_1": "Mater Dei",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MART@2x.png",
-      "team_2": "Power Hitters",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR3@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/118258_4825_PWH_MTD_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/1xvqHzjQRpCGJwz3kuNK7g/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Legend 90, 2025",
-      "match_id": 118233,
-      "match_name": "Rajasthan Kings vs Gujarat Samp Army",
-      "team_1": "Rajasthan Kings",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RKL@2x.png",
-      "team_2": "Gujarat Samp Army",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GJS@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/118233_4824_RK_GJS_fc-Web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/wj7PKfaESrqUFIMJht1ZAg/master.m3u8"
+      "event_name": "Boland T20 Super League Finals, 2025",
+      "match_id": 117499,
+      "match_name": "Vredenburg/Saldanha CC vs Worcester United",
+      "team_1": "Vredenburg/Saldanha CC",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VDS@2x.png",
+      "team_2": "Worcester United",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WUT@2x.png",
+      "banner": false,
+      "stream_link": "https://dai.google.com/linear/hls/event/jKbtTOh9QUKtANGG0Yz8Bw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
