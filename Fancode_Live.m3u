@@ -1,11 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Ireland vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe-Test_OLD_1738767396284.jpg" tvg-id="116935" group-title="Ireland tour of Zimbabwe, 2025",Ireland vs Zimbabwe
 https://dai.google.com/linear/hls/event/1fNCotbvT4-xpT71DmtyWg/master.m3u8
-#EXTINF:-1 tvg-name="Queensland vs New South Wales" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110410_4543_QUN_NSW_fc-Web.jpg" tvg-id="110410" group-title="Sheffield Shield, 2024-25",Queensland vs New South Wales
-https://dai.google.com/linear/hls/event/1waVN6I0QHChuM7t4SLrKw/master.m3u8
-#EXTINF:-1 tvg-name="Tasmania vs Victoria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110409_4543_TAS_VCT_fc-Web.jpg" tvg-id="110409" group-title="Sheffield Shield, 2024-25",Tasmania vs Victoria
-https://dai.google.com/linear/hls/event/AcFsqQCXT9eW8U16r22lMw/master.m3u8
 #EXTINF:-1 tvg-name="Singapore vs Uganda" tvg-logo="https://www.fancode.com/aig/match/v1/118008_CASACARDS_APP.png" tvg-id="118008" group-title="ICC CWC Challenge League B, 2024-26",Singapore vs Uganda
 https://dai.google.com/linear/hls/event/Fn_Ak8fdQWGKY-bCCTHRFg/master.m3u8
 #EXTINF:-1 tvg-name="Tanzania vs Bahrain" tvg-logo="https://www.fancode.com/aig/match/v1/118007_CASACARDS_APP.png" tvg-id="118007" group-title="ICC CWC Challenge League B, 2024-26",Tanzania vs Bahrain
 https://dai.google.com/linear/hls/event/4a16fsqHQrCJZ8th3Rn7LA/master.m3u8
+#EXTINF:-1 tvg-name="Queensland vs New South Wales" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110410_4543_QUN_NSW_fc-Web.jpg" tvg-id="110410" group-title="Sheffield Shield, 2024-25",Queensland vs New South Wales
+https://dai.google.com/linear/hls/event/1waVN6I0QHChuM7t4SLrKw/master.m3u8
+#EXTINF:-1 tvg-name="Tasmania vs Victoria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110409_4543_TAS_VCT_fc-Web.jpg" tvg-id="110409" group-title="Sheffield Shield, 2024-25",Tasmania vs Victoria
+https://dai.google.com/linear/hls/event/AcFsqQCXT9eW8U16r22lMw/master.m3u8
+#EXTINF:-1 tvg-name="Manohar Mavericks vs Hiims Hawks" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_old_v1.jpg" tvg-id="118102" group-title="Chandigarh T20",Manohar Mavericks vs Hiims Hawks
+https://dai.google.com/linear/hls/event/wyvO-941RoSADkdfpmw-pQ/master.m3u8
