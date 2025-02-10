@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 8,
-  "last_upaded": "10-02-2025 on 2:46:05 PM \ud83c\udf1e",
+  "total_mathes": 7,
+  "last_upaded": "10-02-2025 on 3:24:26 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -54,15 +54,15 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Ireland tour of Zimbabwe, 2025",
-      "match_id": 116935,
-      "match_name": "Ireland vs Zimbabwe",
-      "team_1": "Ireland",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png",
-      "team_2": "Zimbabwe",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe-Test_OLD_1738767396284.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/1fNCotbvT4-xpT71DmtyWg/master.m3u8"
+      "event_name": "Guwahati Premier League, 2025",
+      "match_id": 117457,
+      "match_name": "New Star Club vs BDMTCC",
+      "team_1": "New Star Club",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSCB@2x.png",
+      "team_2": "BDMTCC",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BDMC@2x.png",
+      "banner": "https://www.fancode.com/aig/match/v1/117457_CASACARDS_APP.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/atwBm0LqReCjqemDz7Mcag/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -87,18 +87,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VCT@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110409_4543_TAS_VCT_fc-Web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/AcFsqQCXT9eW8U16r22lMw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ECS Malta, 2025",
-      "match_id": 118255,
-      "match_name": "Edex Knights vs Swieqi United",
-      "team_1": "Edex Knights",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/EDK-CR1@2x.png",
-      "team_2": "Swieqi United",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SWEQ@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/118255_4825_EDK_SWU_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/fYv9n6leQ3GNvUE1-0Smvg/master.m3u8"
     }
   ]
 }
