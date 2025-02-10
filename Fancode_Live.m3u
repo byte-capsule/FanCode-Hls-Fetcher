@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Lightning Legends vs Union Sporting" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117991_4815_LGT_US_fc-Web.jpg" tvg-id="117991" group-title="Tillo Cup, 2025",Lightning Legends vs Union Sporting
+https://dai.google.com/linear/hls/event/exc7soLSQz291H8W_5AmZQ/master.m3u8
+#EXTINF:-1 tvg-name="Manohar Mavericks vs Hiims Hawks" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_old_v1.jpg" tvg-id="118102" group-title="Chandigarh T20",Manohar Mavericks vs Hiims Hawks
+https://dai.google.com/linear/hls/event/wyvO-941RoSADkdfpmw-pQ/master.m3u8
 #EXTINF:-1 tvg-name="Ireland vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe-Test_OLD_1738767396284.jpg" tvg-id="116935" group-title="Ireland tour of Zimbabwe, 2025",Ireland vs Zimbabwe
 https://dai.google.com/linear/hls/event/1fNCotbvT4-xpT71DmtyWg/master.m3u8
 #EXTINF:-1 tvg-name="Singapore vs Uganda" tvg-logo="https://www.fancode.com/aig/match/v1/118008_CASACARDS_APP.png" tvg-id="118008" group-title="ICC CWC Challenge League B, 2024-26",Singapore vs Uganda
@@ -9,7 +13,7 @@ https://dai.google.com/linear/hls/event/4a16fsqHQrCJZ8th3Rn7LA/master.m3u8
 https://dai.google.com/linear/hls/event/1waVN6I0QHChuM7t4SLrKw/master.m3u8
 #EXTINF:-1 tvg-name="Tasmania vs Victoria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110409_4543_TAS_VCT_fc-Web.jpg" tvg-id="110409" group-title="Sheffield Shield, 2024-25",Tasmania vs Victoria
 https://dai.google.com/linear/hls/event/AcFsqQCXT9eW8U16r22lMw/master.m3u8
-#EXTINF:-1 tvg-name="Manohar Mavericks vs Hiims Hawks" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_old_v1.jpg" tvg-id="118102" group-title="Chandigarh T20",Manohar Mavericks vs Hiims Hawks
-https://dai.google.com/linear/hls/event/wyvO-941RoSADkdfpmw-pQ/master.m3u8
-#EXTINF:-1 tvg-name="Lightning Legends vs Union Sporting" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117991_4815_LGT_US_fc-Web.jpg" tvg-id="117991" group-title="Tillo Cup, 2025",Lightning Legends vs Union Sporting
-https://dai.google.com/linear/hls/event/exc7soLSQz291H8W_5AmZQ/master.m3u8
+#EXTINF:-1 tvg-name="South Africa vs New Zealand" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan_ODI_Tri_Series_2025_match-card_2_1739082641620.jpg" tvg-id="117417" group-title="New Zealand and South Africa tour of Pakistan 2025",South Africa vs New Zealand
+https://dai.google.com/linear/hls/event/oywMqMg5TI6WwCd_Qjb35A/master.m3u8
+#EXTINF:-1 tvg-name="91 Yards Club vs Guwahati Giants" tvg-logo="https://www.fancode.com/aig/match/v1/117456_CASACARDS_APP.png" tvg-id="117456" group-title="Guwahati Premier League, 2025",91 Yards Club vs Guwahati Giants
+https://dai.google.com/linear/hls/event/l5In_CBITEC83EvlZFAp3w/master.m3u8
