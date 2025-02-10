@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 9,
-  "last_upaded": "10-02-2025 on 11:40:59 AM \ud83c\udf1e",
+  "total_mathes": 10,
+  "last_upaded": "10-02-2025 on 11:53:41 AM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -111,6 +111,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GWT@2x.png",
       "banner": "https://www.fancode.com/aig/match/v1/117456_CASACARDS_APP.png",
       "stream_link": "https://dai.google.com/linear/hls/event/l5In_CBITEC83EvlZFAp3w/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC CWC League 2, 2023-27",
+      "match_id": 118176,
+      "match_name": "Namibia vs Oman",
+      "team_1": "Namibia",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAM@2x.png",
+      "team_2": "Oman",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OMA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Match-50_1738836614491.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/CcO-m8aERIa5kjY5wbcAxg/master.m3u8"
     }
   ]
 }
