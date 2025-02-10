@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Namibia vs Oman" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Match-50_1738836614491.jpg" tvg-id="118176" group-title="ICC CWC League 2, 2023-27",Namibia vs Oman
+https://dai.google.com/linear/hls/event/CcO-m8aERIa5kjY5wbcAxg/master.m3u8
 #EXTINF:-1 tvg-name="South Africa vs New Zealand" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan_ODI_Tri_Series_2025_match-card_2_1739082641620.jpg" tvg-id="117417" group-title="New Zealand and South Africa tour of Pakistan 2025",South Africa vs New Zealand
 https://dai.google.com/linear/hls/event/oywMqMg5TI6WwCd_Qjb35A/master.m3u8
 #EXTINF:-1 tvg-name="91 Yards Club vs Guwahati Giants" tvg-logo="https://www.fancode.com/aig/match/v1/117456_CASACARDS_APP.png" tvg-id="117456" group-title="Guwahati Premier League, 2025",91 Yards Club vs Guwahati Giants
@@ -11,11 +13,7 @@ https://dai.google.com/linear/hls/event/0jljh7vvQWqbR6gCpPtN_A/master.m3u8
 https://dai.google.com/linear/hls/event/1fNCotbvT4-xpT71DmtyWg/master.m3u8
 #EXTINF:-1 tvg-name="Singapore vs Uganda" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118008_4607_SIN_UGA_fc-web.jpg" tvg-id="118008" group-title="ICC CWC Challenge League B, 2024-26",Singapore vs Uganda
 https://dai.google.com/linear/hls/event/Fn_Ak8fdQWGKY-bCCTHRFg/master.m3u8
-#EXTINF:-1 tvg-name="Tanzania vs Bahrain" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118007_4607_BAH_TAN_fc-web.jpg" tvg-id="118007" group-title="ICC CWC Challenge League B, 2024-26",Tanzania vs Bahrain
-https://dai.google.com/linear/hls/event/4a16fsqHQrCJZ8th3Rn7LA/master.m3u8
 #EXTINF:-1 tvg-name="Queensland vs New South Wales" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110410_4543_QUN_NSW_fc-Web.jpg" tvg-id="110410" group-title="Sheffield Shield, 2024-25",Queensland vs New South Wales
 https://dai.google.com/linear/hls/event/1waVN6I0QHChuM7t4SLrKw/master.m3u8
 #EXTINF:-1 tvg-name="Tasmania vs Victoria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110409_4543_TAS_VCT_fc-Web.jpg" tvg-id="110409" group-title="Sheffield Shield, 2024-25",Tasmania vs Victoria
 https://dai.google.com/linear/hls/event/AcFsqQCXT9eW8U16r22lMw/master.m3u8
-#EXTINF:-1 tvg-name="Namibia vs Oman" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Match-50_1738836614491.jpg" tvg-id="118176" group-title="ICC CWC League 2, 2023-27",Namibia vs Oman
-https://dai.google.com/linear/hls/event/CcO-m8aERIa5kjY5wbcAxg/master.m3u8
