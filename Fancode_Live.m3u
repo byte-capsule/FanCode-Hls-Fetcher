@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Lisbon Capitals vs Gorkha XI" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117773_4800_GOR_LCA_fc-web.jpg" tvg-id="117773" group-title="ECSN Portugal, 2025",Lisbon Capitals vs Gorkha XI
-https://dai.google.com/linear/hls/event/cyNLfjieRfGfqggqHr8wbg/master.m3u8
-#EXTINF:-1 tvg-name="Maties Cricket Club vs Giflo Young Peoples CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117500_4787_MAT_YPS_Fc-Web.jpg" tvg-id="117500" group-title="Boland T20 Super League Finals, 2025",Maties Cricket Club vs Giflo Young Peoples CC
-https://dai.google.com/linear/hls/event/1_wMIrUCT7S_vYrvrqTBKQ/master.m3u8
 #EXTINF:-1 tvg-name="ACE KRM Panthers vs GAT" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-A_league_match-card_1739168693257.jpg" tvg-id="118070" group-title="KCC T20 Challengers A League, 2025",ACE KRM Panthers vs GAT
 https://dai.google.com/linear/hls/event/TkzIsB5hQii0M_cBUaIFkQ/master.m3u8
