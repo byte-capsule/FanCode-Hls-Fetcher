@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Sapience vs Indian Oil" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117994_4815_INO_SPC_fc-Web.jpg" tvg-id="117994" group-title="Tillo Cup, 2025",Sapience vs Indian Oil
-https://dai.google.com/linear/hls/event/PxOLIjTsTl-w5h_b52Jvgg/master.m3u8
 #EXTINF:-1 tvg-name="Bud Cricket Club vs Nabajyoti Club" tvg-logo="https://www.fancode.com/aig/match/v1/117459_CASACARDS_APP.png" tvg-id="117459" group-title="Guwahati Premier League, 2025",Bud Cricket Club vs Nabajyoti Club
 https://dai.google.com/linear/hls/event/eT6S4JwUSTKdE2TO1neFyQ/master.m3u8
 #EXTINF:-1 tvg-name="American University of Malta vs Hamrun Stallions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118260_4825_HST_AUM_fc-web.jpg" tvg-id="118260" group-title="ECS Malta, 2025",American University of Malta vs Hamrun Stallions
@@ -9,6 +7,8 @@ https://dai.google.com/linear/hls/event/KmU80z9CTYay6m_qOxs8lQ/master.m3u8
 https://dai.google.com/linear/hls/event/KsMgqhl6R0OS4U67-gACmA/master.m3u8
 #EXTINF:-1 tvg-name="Rajnandgaon vs Jharkhand" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117969_4813_RAJ_JHA_fc-web_1739172450988.jpg" tvg-id="117969" group-title="Rani Suryamukhi Devi T-20 Tournament",Rajnandgaon vs Jharkhand
 https://dai.google.com/linear/hls/event/IvdqL53ET9uI3wdFixDgKg/master.m3u8
+#EXTINF:-1 tvg-name="Phonex vs Newtown United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-Hundred-Ball-TV-old-Match-card-.png" tvg-id="118886" group-title="BOX Office Hundred Ball",Phonex vs Newtown United
+https://dai.google.com/linear/hls/event/uVO3Rf3LQHe7aZQS6RtPOQ/master.m3u8
 #EXTINF:-1 tvg-name="Pohang Steelers vs Kawasaki Frontale" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/09/108707_4475_PHG_KAW_fc-web.jpg" tvg-id="108707" group-title="AFC Champions League Elite 2024-25",Pohang Steelers vs Kawasaki Frontale
 https://dai.google.com/linear/hls/event/8yJt6MSuSDSwK-gDXwzVFA/master.m3u8
 #EXTINF:-1 tvg-name="Vissel Kobe vs Shanghai Port" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/09/108706_4475_VIS_SHG_fc-web.jpg" tvg-id="108706" group-title="AFC Champions League Elite 2024-25",Vissel Kobe vs Shanghai Port
