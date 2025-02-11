@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "11-02-2025 on 09:34:00 AM \ud83c\udf1e",
+  "total_mathes": 4,
+  "last_upaded": "11-02-2025 on 09:53:12 AM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -39,6 +39,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VCT@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110409_4543_TAS_VCT_fc-Web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/AcFsqQCXT9eW8U16r22lMw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Tillo Cup, 2025",
+      "match_id": 117993,
+      "match_name": "Wonder Cement vs SPJ Cargo",
+      "team_1": "Wonder Cement",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WCT@2x.png",
+      "team_2": "SPJ Cargo",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SPJT@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/117993_4815_WC_SPJ_fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/kXqBY4J3RBCl8oC8mdKp_A/master.m3u8"
     }
   ]
 }
