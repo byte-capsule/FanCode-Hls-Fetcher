@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Victoria Lions vs Gzira United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118261_4825_GZU_VLS_fc-web.jpg" tvg-id="118261" group-title="ECS Malta, 2025",Victoria Lions vs Gzira United
 https://dai.google.com/linear/hls/event/acyzIHBwQ46lG7FZjm1TAQ/master.m3u8
-#EXTINF:-1 tvg-name="Punjabi Sher vs Dubai Giants" tvg-logo="https://www.fancode.com/aig/match/v1/118234_CASACARDS_APP.png" tvg-id="118234" group-title="Legend 90, 2025",Punjabi Sher vs Dubai Giants
-https://dai.google.com/linear/hls/event/KsMgqhl6R0OS4U67-gACmA/master.m3u8
-#EXTINF:-1 tvg-name="Rajnandgaon vs Jharkhand" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117969_4813_RAJ_JHA_fc-web_1739172450988.jpg" tvg-id="117969" group-title="Rani Suryamukhi Devi T-20 Tournament",Rajnandgaon vs Jharkhand
-https://dai.google.com/linear/hls/event/IvdqL53ET9uI3wdFixDgKg/master.m3u8
 #EXTINF:-1 tvg-name="Phonex vs Newtown United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-Hundred-Ball-TV-old-Match-card-.png" tvg-id="118886" group-title="BOX Office Hundred Ball",Phonex vs Newtown United
 https://dai.google.com/linear/hls/event/uVO3Rf3LQHe7aZQS6RtPOQ/master.m3u8
+#EXTINF:-1 tvg-name="Rajnandgaon vs Jharkhand" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117969_4813_RAJ_JHA_fc-web_1739172450988.jpg" tvg-id="117969" group-title="Rani Suryamukhi Devi T-20 Tournament",Rajnandgaon vs Jharkhand
+https://dai.google.com/linear/hls/event/IvdqL53ET9uI3wdFixDgKg/master.m3u8
+#EXTINF:-1 tvg-name="Punjabi Sher vs Dubai Giants" tvg-logo="https://www.fancode.com/aig/match/v1/118234_CASACARDS_APP.png" tvg-id="118234" group-title="Legend 90, 2025",Punjabi Sher vs Dubai Giants
+https://dai.google.com/linear/hls/event/KsMgqhl6R0OS4U67-gACmA/master.m3u8
 #EXTINF:-1 tvg-name="Shandong Taishan vs Gwangju" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/09/108708_4475_SHD_GWN_fc-web.jpg" tvg-id="108708" group-title="AFC Champions League Elite 2024-25",Shandong Taishan vs Gwangju
 https://dai.google.com/linear/hls/event/Yn0HFH-gTnKL_59HoSBJEA/master.m3u8
