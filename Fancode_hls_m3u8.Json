@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "11-02-2025 on 7:34:16 PM \ud83c\udf19",
+  "total_mathes": 5,
+  "last_upaded": "11-02-2025 on 7:53:15 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -39,18 +39,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JHAR@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/117969_4813_RAJ_JHA_fc-web_1739172450988.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/IvdqL53ET9uI3wdFixDgKg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Legend 90, 2025",
-      "match_id": 118234,
-      "match_name": "Punjabi Sher vs Dubai Giants",
-      "team_1": "Punjabi Sher",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PJS@2x.png",
-      "team_2": "Dubai Giants",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DGL@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/118234_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/KsMgqhl6R0OS4U67-gACmA/master.m3u8"
     },
     {
       "event_catagory": "cricket",
