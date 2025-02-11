@@ -1,13 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Punjab Panthers vs Hiims Hawks" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_ols_v3.jpg" tvg-id="118104" group-title="Chandigarh T20",Punjab Panthers vs Hiims Hawks
-https://dai.google.com/linear/hls/event/D8GZ6t2rTZGQE5YrVgH7gA/master.m3u8
-#EXTINF:-1 tvg-name="Wild Woods Warriors vs City Challengers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="118105" group-title="Chandigarh T20",Wild Woods Warriors vs City Challengers
+#EXTINF:-1 tvg-name="City Challengers vs Wild Woods Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_old_v1.jpg" tvg-id="118105" group-title="Chandigarh T20",City Challengers vs Wild Woods Warriors
 https://dai.google.com/linear/hls/event/zE81jx7mR82LliLuJlHkUA/master.m3u8
-#EXTINF:-1 tvg-name="Queensland vs New South Wales" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110410_4543_QUN_NSW_fc-Web.jpg" tvg-id="110410" group-title="Sheffield Shield, 2024-25",Queensland vs New South Wales
-https://dai.google.com/linear/hls/event/1waVN6I0QHChuM7t4SLrKw/master.m3u8
 #EXTINF:-1 tvg-name="Tasmania vs Victoria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110409_4543_TAS_VCT_fc-Web.jpg" tvg-id="110409" group-title="Sheffield Shield, 2024-25",Tasmania vs Victoria
 https://dai.google.com/linear/hls/event/AcFsqQCXT9eW8U16r22lMw/master.m3u8
-#EXTINF:-1 tvg-name="Wonder Cement vs SPJ Cargo" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117993_4815_WC_SPJ_fc-Web.jpg" tvg-id="117993" group-title="Tillo Cup, 2025",Wonder Cement vs SPJ Cargo
-https://dai.google.com/linear/hls/event/kXqBY4J3RBCl8oC8mdKp_A/master.m3u8
 #EXTINF:-1 tvg-name="Bokakhat Town Cricket Club vs Gauhati Town Club" tvg-logo="https://www.fancode.com/aig/match/v1/117458_CASACARDS_APP.png" tvg-id="117458" group-title="Guwahati Premier League, 2025",Bokakhat Town Cricket Club vs Gauhati Town Club
 https://dai.google.com/linear/hls/event/hIPFNqM-RF25lb50_JgRSg/master.m3u8
