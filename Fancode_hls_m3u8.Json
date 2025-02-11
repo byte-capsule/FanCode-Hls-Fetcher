@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "11-02-2025 on 3:53:10 PM \ud83c\udf1e",
+  "total_mathes": 7,
+  "last_upaded": "11-02-2025 on 4:24:41 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -43,26 +43,50 @@
     {
       "event_catagory": "cricket",
       "event_name": "ECS Malta, 2025",
-      "match_id": 118259,
-      "match_name": "Hamrun Stallions vs American University of Malta",
-      "team_1": "Hamrun Stallions",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR5@2x.png",
-      "team_2": "American University of Malta",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUM@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/118259_4825_HST_AUM_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/230AAu6ASjGEHDtwkG3VTQ/master.m3u8"
+      "match_id": 118260,
+      "match_name": "American University of Malta vs Hamrun Stallions",
+      "team_1": "American University of Malta",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUM@2x.png",
+      "team_2": "Hamrun Stallions",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR5@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/118260_4825_HST_AUM_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/KmU80z9CTYay6m_qOxs8lQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Legend 90, 2025",
+      "match_id": 118234,
+      "match_name": "Punjabi Sher vs Dubai Giants",
+      "team_1": "Punjabi Sher",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PJS@2x.png",
+      "team_2": "Dubai Giants",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DGL@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/118234_4824_DG_HYG_fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/KsMgqhl6R0OS4U67-gACmA/master.m3u8"
     },
     {
       "event_catagory": "football",
       "event_name": "AFC Champions League Elite 2024-25",
-      "match_id": 108705,
-      "match_name": "Central Coast Mariners vs Johor Darul Ta'zim",
-      "team_1": "Central Coast Mariners",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CENTA@2x.png",
-      "team_2": "Johor Darul Ta'zim",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-JOHOR@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/ht7KujuXT76ASXwmtFsJsA/master.m3u8"
+      "match_id": 108707,
+      "match_name": "Pohang Steelers vs Kawasaki Frontale",
+      "team_1": "Pohang Steelers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-POHAN@2x.png",
+      "team_2": "Kawasaki Frontale",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KAFRON@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/prod-images/2024/09/108707_4475_PHG_KAW_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/8yJt6MSuSDSwK-gDXwzVFA/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "AFC Champions League Elite 2024-25",
+      "match_id": 108706,
+      "match_name": "Vissel Kobe vs Shanghai Port",
+      "team_1": "Vissel Kobe",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VKO@2x.png",
+      "team_2": "Shanghai Port",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHANGP@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/prod-images/2024/09/108706_4475_VIS_SHG_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/868EmRr9RDKDzf8zm2kzHA/master.m3u8"
     }
   ]
 }

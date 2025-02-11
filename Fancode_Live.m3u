@@ -5,7 +5,11 @@ https://dai.google.com/linear/hls/event/zE81jx7mR82LliLuJlHkUA/master.m3u8
 https://dai.google.com/linear/hls/event/PxOLIjTsTl-w5h_b52Jvgg/master.m3u8
 #EXTINF:-1 tvg-name="Bud Cricket Club vs Nabajyoti Club" tvg-logo="https://www.fancode.com/aig/match/v1/117459_CASACARDS_APP.png" tvg-id="117459" group-title="Guwahati Premier League, 2025",Bud Cricket Club vs Nabajyoti Club
 https://dai.google.com/linear/hls/event/eT6S4JwUSTKdE2TO1neFyQ/master.m3u8
-#EXTINF:-1 tvg-name="Hamrun Stallions vs American University of Malta" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118259_4825_HST_AUM_fc-web.jpg" tvg-id="118259" group-title="ECS Malta, 2025",Hamrun Stallions vs American University of Malta
-https://dai.google.com/linear/hls/event/230AAu6ASjGEHDtwkG3VTQ/master.m3u8
-#EXTINF:-1 tvg-name="Central Coast Mariners vs Johor Darul Ta'zim" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="108705" group-title="AFC Champions League Elite 2024-25",Central Coast Mariners vs Johor Darul Ta'zim
-https://dai.google.com/linear/hls/event/ht7KujuXT76ASXwmtFsJsA/master.m3u8
+#EXTINF:-1 tvg-name="American University of Malta vs Hamrun Stallions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118260_4825_HST_AUM_fc-web.jpg" tvg-id="118260" group-title="ECS Malta, 2025",American University of Malta vs Hamrun Stallions
+https://dai.google.com/linear/hls/event/KmU80z9CTYay6m_qOxs8lQ/master.m3u8
+#EXTINF:-1 tvg-name="Punjabi Sher vs Dubai Giants" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118234_4824_DG_HYG_fc-Web.jpg" tvg-id="118234" group-title="Legend 90, 2025",Punjabi Sher vs Dubai Giants
+https://dai.google.com/linear/hls/event/KsMgqhl6R0OS4U67-gACmA/master.m3u8
+#EXTINF:-1 tvg-name="Pohang Steelers vs Kawasaki Frontale" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/09/108707_4475_PHG_KAW_fc-web.jpg" tvg-id="108707" group-title="AFC Champions League Elite 2024-25",Pohang Steelers vs Kawasaki Frontale
+https://dai.google.com/linear/hls/event/8yJt6MSuSDSwK-gDXwzVFA/master.m3u8
+#EXTINF:-1 tvg-name="Vissel Kobe vs Shanghai Port" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/09/108706_4475_VIS_SHG_fc-web.jpg" tvg-id="108706" group-title="AFC Champions League Elite 2024-25",Vissel Kobe vs Shanghai Port
+https://dai.google.com/linear/hls/event/868EmRr9RDKDzf8zm2kzHA/master.m3u8
