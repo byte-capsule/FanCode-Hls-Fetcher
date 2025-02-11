@@ -1,11 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Victoria Lions vs Gzira United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118261_4825_GZU_VLS_fc-web.jpg" tvg-id="118261" group-title="ECS Malta, 2025",Victoria Lions vs Gzira United
-https://dai.google.com/linear/hls/event/acyzIHBwQ46lG7FZjm1TAQ/master.m3u8
-#EXTINF:-1 tvg-name="Phonex vs Newtown United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-Hundred-Ball-TV-old-Match-card-.png" tvg-id="118886" group-title="BOX Office Hundred Ball",Phonex vs Newtown United
+#EXTINF:-1 tvg-name="Gzira United vs Victoria Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118262_4825_GZU_VLS_fc-web.jpg" tvg-id="118262" group-title="ECS Malta, 2025",Gzira United vs Victoria Lions
+https://dai.google.com/linear/hls/event/sAsLhiXyT_2ZaIZz-r7jOw/master.m3u8
+#EXTINF:-1 tvg-name="Phonex vs Newtown United" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web/home-page-new-arc/hero-image/v1/hero-image-mweb-v2.png" tvg-id="118886" group-title="BOX Office Hundred Ball",Phonex vs Newtown United
 https://dai.google.com/linear/hls/event/uVO3Rf3LQHe7aZQS6RtPOQ/master.m3u8
 #EXTINF:-1 tvg-name="Rajnandgaon vs Jharkhand" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117969_4813_RAJ_JHA_fc-web_1739172450988.jpg" tvg-id="117969" group-title="Rani Suryamukhi Devi T-20 Tournament",Rajnandgaon vs Jharkhand
 https://dai.google.com/linear/hls/event/IvdqL53ET9uI3wdFixDgKg/master.m3u8
-#EXTINF:-1 tvg-name="Delhi Royals vs Gujarat Samp Army" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118235_4824_DLR_GJS_fc-Web.jpg" tvg-id="118235" group-title="Legend 90, 2025",Delhi Royals vs Gujarat Samp Army
+#EXTINF:-1 tvg-name="Delhi Royals vs Gujarat Samp Army" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web/home-page-new-arc/hero-image/v1/hero-image-mweb-v2.png" tvg-id="118235" group-title="Legend 90, 2025",Delhi Royals vs Gujarat Samp Army
 https://dai.google.com/linear/hls/event/zRAk_GoaQtmhOBZmb2ZXBw/master.m3u8
-#EXTINF:-1 tvg-name="Shandong Taishan vs Gwangju" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/09/108708_4475_SHD_GWN_fc-web.jpg" tvg-id="108708" group-title="AFC Champions League Elite 2024-25",Shandong Taishan vs Gwangju
-https://dai.google.com/linear/hls/event/Yn0HFH-gTnKL_59HoSBJEA/master.m3u8
+#EXTINF:-1 tvg-name="Ling Liang vs Aspex 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-Hundred-Ball-TV-old-Match-card-.png" tvg-id="118889" group-title="Box Office ASL T20",Ling Liang vs Aspex 2
+https://dai.google.com/linear/hls/event/jhffsWCVRrOBmfqAOC475w/master.m3u8
+#EXTINF:-1 tvg-name="Khaldiya vs Tractor" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/108742_Old.jpg" tvg-id="117658" group-title="AFC Champions League Two 2024-25",Khaldiya vs Tractor
+https://dai.google.com/linear/hls/event/GZIDqswoRQKlxb9AjYrc5g/master.m3u8
