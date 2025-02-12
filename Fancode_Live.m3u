@@ -17,3 +17,5 @@ https://dai.google.com/linear/hls/event/HV6wRjPHR5S20Hdptjt9aQ/master.m3u8
 https://dai.google.com/linear/hls/event/yVSQqTYISq-W1As8CxdHTw/master.m3u8
 #EXTINF:-1 tvg-name="Australia vs Kyrgyz Republic" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118815_4882_AUS_KYG_fc-Web.jpg" tvg-id="118815" group-title="AFC U20 Asian Cup China, 2025",Australia vs Kyrgyz Republic
 https://dai.google.com/linear/hls/event/9bzTqWDQSmSVzm2dGmGsgg/master.m3u8
+#EXTINF:-1 tvg-name="Cell C Cape Town Open" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cell-C-Cape-Town-Open-old-match-card.jpg" tvg-id="118814" group-title="Cell C Cape Town Open",Cell C Cape Town Open
+https://dai.google.com/linear/hls/event/JBVZ1aEHQ8qqO7VLQiRwPg/master.m3u8
