@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 11,
-  "last_upaded": "12-02-2025 on 4:23:34 PM \ud83c\udf1e",
+  "total_mathes": 10,
+  "last_upaded": "12-02-2025 on 4:42:04 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -42,6 +42,18 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "ECS Malta, 2025",
+      "match_id": 118264,
+      "match_name": "Mater Dei vs Edex Knights",
+      "team_1": "Mater Dei",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MART@2x.png",
+      "team_2": "Edex Knights",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/EDK-CR1@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/118264_4825_MTD_EDK_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/qKgE40a-RWaHocSKqpEIuA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "ICC CWC League 2, 2023-27",
       "match_id": 118177,
       "match_name": "USA vs Oman",
@@ -78,18 +90,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "ECS Malta, 2025",
-      "match_id": 118264,
-      "match_name": "Mater Dei vs Edex Knights",
-      "team_1": "Mater Dei",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MART@2x.png",
-      "team_2": "Edex Knights",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/EDK-CR1@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/118264_4825_MTD_EDK_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/qKgE40a-RWaHocSKqpEIuA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "Legend 90, 2025",
       "match_id": 118236,
       "match_name": "Rajasthan Kings vs Big Boys",
@@ -123,18 +123,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHENUA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
       "stream_link": "https://dai.google.com/linear/hls/event/2yKeNCicSw2ygR7glm6eHA/master.m3u8"
-    },
-    {
-      "event_catagory": "golf",
-      "event_name": "Cell C Cape Town Open",
-      "match_id": 118814,
-      "match_name": "Cell C Cape Town Open",
-      "team_1": "Cell C Cape Town Open",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-CC@2x.png",
-      "team_2": "Royal Cape Golf Club",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Cell-C-Cape-Town-Open-old-match-card.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/JBVZ1aEHQ8qqO7VLQiRwPg/master.m3u8"
     }
   ]
 }
