@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 10,
-  "last_upaded": "12-02-2025 on 3:53:20 PM \ud83c\udf1e",
+  "total_mathes": 11,
+  "last_upaded": "12-02-2025 on 4:23:34 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -79,26 +79,26 @@
     {
       "event_catagory": "cricket",
       "event_name": "ECS Malta, 2025",
-      "match_id": 118263,
-      "match_name": "Edex Knights vs Mater Dei",
-      "team_1": "Edex Knights",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/EDK-CR1@2x.png",
-      "team_2": "Mater Dei",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MART@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/118263_4825_MTD_EDK_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/HV6wRjPHR5S20Hdptjt9aQ/master.m3u8"
+      "match_id": 118264,
+      "match_name": "Mater Dei vs Edex Knights",
+      "team_1": "Mater Dei",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MART@2x.png",
+      "team_2": "Edex Knights",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/EDK-CR1@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/118264_4825_MTD_EDK_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/qKgE40a-RWaHocSKqpEIuA/master.m3u8"
     },
     {
-      "event_catagory": "football",
-      "event_name": "AFC Champions League Two 2024-25",
-      "match_id": 117660,
-      "match_name": "Sydney FC vs Bangkok United",
-      "team_1": "Sydney FC",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYDA@2x.png",
-      "team_2": "Bangkok United",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BANGK@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/117660_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/yVSQqTYISq-W1As8CxdHTw/master.m3u8"
+      "event_catagory": "cricket",
+      "event_name": "Legend 90, 2025",
+      "match_id": 118236,
+      "match_name": "Rajasthan Kings vs Big Boys",
+      "team_1": "Rajasthan Kings",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RKL@2x.png",
+      "team_2": "Big Boys",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBY@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/118236_4824_RK_BBY_fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/SmH2njE7RdK4-eUSah6QWA/master.m3u8"
     },
     {
       "event_catagory": "football",
@@ -111,6 +111,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/KYG-FT1@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/118815_4882_AUS_KYG_fc-Web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/9bzTqWDQSmSVzm2dGmGsgg/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "AFC Champions League Elite 2024-25",
+      "match_id": 108709,
+      "match_name": "Yokohama F. Marinos vs Shanghai Shenhua",
+      "team_1": "Yokohama F. Marinos",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-YKM@2x.png",
+      "team_2": "Shanghai Shenhua",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHENUA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/2yKeNCicSw2ygR7glm6eHA/master.m3u8"
     },
     {
       "event_catagory": "golf",
