@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Paarl CC vs Maties Cricket Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117481_4787_PRC_MAT_Fc-Web_1739361650334.jpg" tvg-id="117501" group-title="Boland T20 Super League Finals, 2025",Paarl CC vs Maties Cricket Club
 https://dai.google.com/linear/hls/event/tT3s2DA-QcKap8s7TYYJaw/master.m3u8
-#EXTINF:-1 tvg-name="91 Yards Club vs Guwahati Giants" tvg-logo="https://www.fancode.com/aig/match/v1/117461_CASACARDS_APP.png" tvg-id="117461" group-title="Guwahati Premier League, 2025",91 Yards Club vs Guwahati Giants
-https://dai.google.com/linear/hls/event/f62qorX5TQCG0A8PvECMaQ/master.m3u8
 #EXTINF:-1 tvg-name="Swieqi United vs Red Stars" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118265_4825_SWU_RS_fc-web.jpg" tvg-id="118265" group-title="ECS Malta, 2025",Swieqi United vs Red Stars
 https://dai.google.com/linear/hls/event/e-hUnM5RQheWQ4A0us1HoQ/master.m3u8
 #EXTINF:-1 tvg-name="Phonex vs Alviva Sporting Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-T20-Test-Pink-Ball-old-Match-card--.png" tvg-id="118957" group-title="BOX Office T20 Test Pink Ball",Phonex vs Alviva Sporting Club
@@ -11,8 +9,8 @@ https://dai.google.com/linear/hls/event/IEozjoGKT_G3O_3AgeksGg/master.m3u8
 https://dai.google.com/linear/hls/event/uHxhJdKSQuSzctIbdtdw3A/master.m3u8
 #EXTINF:-1 tvg-name="Jharkhand vs Uttarakhand" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117971_4813_UT_JHA_fc-web.jpg" tvg-id="117971" group-title="Rani Suryamukhi Devi T-20 Tournament",Jharkhand vs Uttarakhand
 https://dai.google.com/linear/hls/event/cQvMxLL6SZ27lfEVq41tGA/master.m3u8
-#EXTINF:-1 tvg-name="Rajasthan Kings vs Big Boys" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118236_4824_RK_BBY_fc-Web.jpg" tvg-id="118236" group-title="Legend 90, 2025",Rajasthan Kings vs Big Boys
-https://dai.google.com/linear/hls/event/SmH2njE7RdK4-eUSah6QWA/master.m3u8
+#EXTINF:-1 tvg-name="Punjabi Sher vs Chhattisgarh Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118237_4824_HYG_CW_fc-Web_1739344679864.jpg" tvg-id="118237" group-title="Legend 90, 2025",Punjabi Sher vs Chhattisgarh Warriors
+https://dai.google.com/linear/hls/event/CmiVPkwkSiCcVpzzfSU1Mw/master.m3u8
 #EXTINF:-1 tvg-name="Nam Dinh vs Sanfrecce Hiroshima" tvg-logo="https://www.fancode.com/aig/match/v1/117661_CASACARDS_APP.png" tvg-id="117661" group-title="AFC Champions League Two 2024-25",Nam Dinh vs Sanfrecce Hiroshima
 https://dai.google.com/linear/hls/event/CShLBe_PQxCo23Inyedgcg/master.m3u8
 #EXTINF:-1 tvg-name="China PR vs Qatar" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118816_4882_CHN_QAT_fc-Web.jpg" tvg-id="118816" group-title="AFC U20 Asian Cup China, 2025",China PR vs Qatar
