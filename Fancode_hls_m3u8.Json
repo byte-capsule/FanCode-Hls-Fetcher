@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "12-02-2025 on 11:53:24 PM \ud83c\udf19",
+  "total_mathes": 6,
+  "last_upaded": "13-02-2025 on 00:30:51 AM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -54,18 +54,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "BOX Office T20 Test Pink Ball",
-      "match_id": 118957,
-      "match_name": "Phonex vs Alviva Sporting Club",
-      "team_1": "Phonex",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PPB@2x.png",
-      "team_2": "Alviva Sporting Club",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR17@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-T20-Test-Pink-Ball-old-Match-card--.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/IEozjoGKT_G3O_3AgeksGg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "West Indies Championship, 2025",
       "match_id": 117754,
       "match_name": "Jamaica Scorpions vs Barbados Pride",
@@ -77,16 +65,16 @@
       "stream_link": "https://dai.google.com/linear/hls/event/IkrLlo6DRleEu3YJzIKXVw/master.m3u8"
     },
     {
-      "event_catagory": "football",
-      "event_name": "AFC Champions League Two 2024-25",
-      "match_id": 117663,
-      "match_name": "Al Wakrah vs Al Taawoun",
-      "team_1": "Al Wakrah",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WAK@2x.png",
-      "team_2": "Al Taawoun",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALTW@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/117663_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/1ilR10utQ_i1MtgkVlZL-Q/master.m3u8"
+      "event_catagory": "cricket",
+      "event_name": "BOX Office T20 Test Pink Ball",
+      "match_id": 118957,
+      "match_name": "Phonex vs Alviva Sporting Club",
+      "team_1": "Phonex",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PPB@2x.png",
+      "team_2": "Alviva Sporting Club",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR17@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-T20-Test-Pink-Ball-old-Match-card--.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/IEozjoGKT_G3O_3AgeksGg/master.m3u8"
     }
   ]
 }
