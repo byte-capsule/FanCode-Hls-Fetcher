@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "12-02-2025 on 11:19:52 PM \ud83c\udf19",
+  "total_mathes": 6,
+  "last_upaded": "12-02-2025 on 11:39:58 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -30,6 +30,18 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "KCC T20 Challengers A League, 2025",
+      "match_id": 118071,
+      "match_name": "SBS CC vs Strikers Afghan",
+      "team_1": "SBS CC",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SBCC@2x.png",
+      "team_2": "Strikers Afghan",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAG@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-A_league_match-card_1739168693257.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/9JA7kNs8TVqV6-KQkDDI5Q/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "BOX Office T20 Test Pink Ball",
       "match_id": 118957,
       "match_name": "Phonex vs Alviva Sporting Club",
@@ -39,30 +51,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR17@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-T20-Test-Pink-Ball-old-Match-card--.png",
       "stream_link": "https://dai.google.com/linear/hls/event/IEozjoGKT_G3O_3AgeksGg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "New Zealand and South Africa tour of Pakistan 2025",
-      "match_id": 117418,
-      "match_name": "South Africa vs Pakistan",
-      "team_1": "South Africa",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
-      "team_2": "Pakistan",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan_ODI_Tri_Series_2025_match-card_3_1739082781929.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/uHxhJdKSQuSzctIbdtdw3A/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Rani Suryamukhi Devi T-20 Tournament",
-      "match_id": 117972,
-      "match_name": "Rajnandgaon vs Rajasthan",
-      "team_1": "Rajnandgaon",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RAJ@2x.png",
-      "team_2": "Rajasthan",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RJ@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/117972_4813_RAJ_RJS_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/xRkEAM6fRkW_W55ZvhsUIw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
