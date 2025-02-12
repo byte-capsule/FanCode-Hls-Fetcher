@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="City Challengers vs Manohar Mavericks" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_ols_v3.jpg" tvg-id="118107" group-title="Chandigarh T20",City Challengers vs Manohar Mavericks
-https://dai.google.com/linear/hls/event/KeD5MLD2SC-Tdan0zLogDQ/master.m3u8
 #EXTINF:-1 tvg-name="Wonder Cement vs Indian Oil" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117996_4815_WC_INO_fc-Web.jpg" tvg-id="117996" group-title="Tillo Cup, 2025",Wonder Cement vs Indian Oil
 https://dai.google.com/linear/hls/event/ZCD67lFfTsmvuDzYU4zgOw/master.m3u8
 #EXTINF:-1 tvg-name="91 Yards Club vs Guwahati Giants" tvg-logo="https://www.fancode.com/aig/match/v1/117461_CASACARDS_APP.png" tvg-id="117461" group-title="Guwahati Premier League, 2025",91 Yards Club vs Guwahati Giants
@@ -17,7 +15,11 @@ https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
 https://dai.google.com/linear/hls/event/SmH2njE7RdK4-eUSah6QWA/master.m3u8
 #EXTINF:-1 tvg-name="Jharkhand vs Uttarakhand" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117971_4813_UT_JHA_fc-web.jpg" tvg-id="117971" group-title="Rani Suryamukhi Devi T-20 Tournament",Jharkhand vs Uttarakhand
 https://dai.google.com/linear/hls/event/cQvMxLL6SZ27lfEVq41tGA/master.m3u8
+#EXTINF:-1 tvg-name="Phonex vs Alviva Sporting Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-T20-Test-Pink-Ball-old-Match-card--.png" tvg-id="118957" group-title="BOX Office T20 Test Pink Ball",Phonex vs Alviva Sporting Club
+https://dai.google.com/linear/hls/event/IEozjoGKT_G3O_3AgeksGg/master.m3u8
 #EXTINF:-1 tvg-name="Australia vs Kyrgyz Republic" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118815_4882_AUS_KYG_fc-Web.jpg" tvg-id="118815" group-title="AFC U20 Asian Cup China, 2025",Australia vs Kyrgyz Republic
 https://dai.google.com/linear/hls/event/9bzTqWDQSmSVzm2dGmGsgg/master.m3u8
+#EXTINF:-1 tvg-name="China PR vs Qatar" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118816_4882_CHN_QAT_fc-Web.jpg" tvg-id="118816" group-title="AFC U20 Asian Cup China, 2025",China PR vs Qatar
+https://dai.google.com/linear/hls/event/c2qQqcjxQTm_xxiGfZjFcw/master.m3u8
 #EXTINF:-1 tvg-name="Yokohama F. Marinos vs Shanghai Shenhua" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="108709" group-title="AFC Champions League Elite 2024-25",Yokohama F. Marinos vs Shanghai Shenhua
 https://dai.google.com/linear/hls/event/2yKeNCicSw2ygR7glm6eHA/master.m3u8
