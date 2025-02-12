@@ -1,12 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Paarl CC vs Maties Cricket Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117481_4787_PRC_MAT_Fc-Web_1739361650334.jpg" tvg-id="117501" group-title="Boland T20 Super League Finals, 2025",Paarl CC vs Maties Cricket Club
 https://dai.google.com/linear/hls/event/tT3s2DA-QcKap8s7TYYJaw/master.m3u8
+#EXTINF:-1 tvg-name="Hartleys vs Don Bosco" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-Hundred-Ball-TV-old-Match-card-.png" tvg-id="118956" group-title="Box Office ASL T20",Hartleys vs Don Bosco
+https://dai.google.com/linear/hls/event/OlUWlmZuRHqplkvcsmEQKg/master.m3u8
 #EXTINF:-1 tvg-name="Red Stars vs Swieqi United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118266_4825_SWU_RS_fc-web.jpg" tvg-id="118266" group-title="ECS Malta, 2025",Red Stars vs Swieqi United
 https://dai.google.com/linear/hls/event/I5lybSgzSUa6QgMyjfscPQ/master.m3u8
 #EXTINF:-1 tvg-name="Phonex vs Alviva Sporting Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-T20-Test-Pink-Ball-old-Match-card--.png" tvg-id="118957" group-title="BOX Office T20 Test Pink Ball",Phonex vs Alviva Sporting Club
 https://dai.google.com/linear/hls/event/IEozjoGKT_G3O_3AgeksGg/master.m3u8
 #EXTINF:-1 tvg-name="South Africa vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan_ODI_Tri_Series_2025_match-card_3_1739082781929.jpg" tvg-id="117418" group-title="New Zealand and South Africa tour of Pakistan 2025",South Africa vs Pakistan
 https://dai.google.com/linear/hls/event/uHxhJdKSQuSzctIbdtdw3A/master.m3u8
+#EXTINF:-1 tvg-name="Rajnandgaon vs Rajasthan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117972_4813_RAJ_RJS_fc-web.jpg" tvg-id="117972" group-title="Rani Suryamukhi Devi T-20 Tournament",Rajnandgaon vs Rajasthan
+https://dai.google.com/linear/hls/event/xRkEAM6fRkW_W55ZvhsUIw/master.m3u8
 #EXTINF:-1 tvg-name="Punjabi Sher vs Chhattisgarh Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118237_4824_HYG_CW_fc-Web_1739344679864.jpg" tvg-id="118237" group-title="Legend 90, 2025",Punjabi Sher vs Chhattisgarh Warriors
 https://dai.google.com/linear/hls/event/CmiVPkwkSiCcVpzzfSU1Mw/master.m3u8
 #EXTINF:-1 tvg-name="Al Wehdat vs Shabab Al Ahli" tvg-logo="https://www.fancode.com/aig/match/v1/117662_CASACARDS_APP.png" tvg-id="117662" group-title="AFC Champions League Two 2024-25",Al Wehdat vs Shabab Al Ahli
