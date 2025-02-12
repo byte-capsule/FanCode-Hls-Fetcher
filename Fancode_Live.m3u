@@ -3,15 +3,17 @@
 https://dai.google.com/linear/hls/event/KeD5MLD2SC-Tdan0zLogDQ/master.m3u8
 #EXTINF:-1 tvg-name="Wonder Cement vs Indian Oil" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117996_4815_WC_INO_fc-Web.jpg" tvg-id="117996" group-title="Tillo Cup, 2025",Wonder Cement vs Indian Oil
 https://dai.google.com/linear/hls/event/ZCD67lFfTsmvuDzYU4zgOw/master.m3u8
-#EXTINF:-1 tvg-name="USA vs Oman" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Match-51_1738836614436.jpg" tvg-id="118177" group-title="ICC CWC League 2, 2023-27",USA vs Oman
-https://dai.google.com/linear/hls/event/INxzjFu6TCyWNfCYpRXZrg/master.m3u8
-#EXTINF:-1 tvg-name="Sri Lanka vs Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_ODI_old-(1).jpg" tvg-id="115617" group-title="Australia tour of Sri Lanka, 2025",Sri Lanka vs Australia
-https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
 #EXTINF:-1 tvg-name="91 Yards Club vs Guwahati Giants" tvg-logo="https://www.fancode.com/aig/match/v1/117461_CASACARDS_APP.png" tvg-id="117461" group-title="Guwahati Premier League, 2025",91 Yards Club vs Guwahati Giants
 https://dai.google.com/linear/hls/event/f62qorX5TQCG0A8PvECMaQ/master.m3u8
-#EXTINF:-1 tvg-name="Edex Knights vs Mater Dei" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118263_4825_MTD_EDK_fc-web.jpg" tvg-id="118263" group-title="ECS Malta, 2025",Edex Knights vs Mater Dei
-https://dai.google.com/linear/hls/event/HV6wRjPHR5S20Hdptjt9aQ/master.m3u8
+#EXTINF:-1 tvg-name="USA vs Oman" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Match-51_1738836614436.jpg" tvg-id="118177" group-title="ICC CWC League 2, 2023-27",USA vs Oman
+https://dai.google.com/linear/hls/event/INxzjFu6TCyWNfCYpRXZrg/master.m3u8
 #EXTINF:-1 tvg-name="South Africa vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan_ODI_Tri_Series_2025_match-card_3_1739082781929.jpg" tvg-id="117418" group-title="New Zealand and South Africa tour of Pakistan 2025",South Africa vs Pakistan
 https://dai.google.com/linear/hls/event/uHxhJdKSQuSzctIbdtdw3A/master.m3u8
+#EXTINF:-1 tvg-name="Sri Lanka vs Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_ODI_old-(1).jpg" tvg-id="115617" group-title="Australia tour of Sri Lanka, 2025",Sri Lanka vs Australia
+https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
+#EXTINF:-1 tvg-name="Edex Knights vs Mater Dei" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118263_4825_MTD_EDK_fc-web.jpg" tvg-id="118263" group-title="ECS Malta, 2025",Edex Knights vs Mater Dei
+https://dai.google.com/linear/hls/event/HV6wRjPHR5S20Hdptjt9aQ/master.m3u8
 #EXTINF:-1 tvg-name="Sydney FC vs Bangkok United" tvg-logo="https://www.fancode.com/aig/match/v1/117660_CASACARDS_APP.png" tvg-id="117660" group-title="AFC Champions League Two 2024-25",Sydney FC vs Bangkok United
 https://dai.google.com/linear/hls/event/yVSQqTYISq-W1As8CxdHTw/master.m3u8
+#EXTINF:-1 tvg-name="Australia vs Kyrgyz Republic" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118815_4882_AUS_KYG_fc-Web.jpg" tvg-id="118815" group-title="AFC U20 Asian Cup China, 2025",Australia vs Kyrgyz Republic
+https://dai.google.com/linear/hls/event/9bzTqWDQSmSVzm2dGmGsgg/master.m3u8
