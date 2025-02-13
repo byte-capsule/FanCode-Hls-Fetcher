@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 9,
-  "last_upaded": "13-02-2025 on 4:55:31 PM \ud83c\udf1e",
+  "total_mathes": 7,
+  "last_upaded": "13-02-2025 on 5:18:13 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,18 +15,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BTCC@2x.png",
       "banner": "https://www.fancode.com/aig/match/v1/117463_CASACARDS_APP.png",
       "stream_link": "https://dai.google.com/linear/hls/event/aFtX3C9WRX6iGQM4T-kT8w/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Tillo Cup, 2025",
-      "match_id": 117998,
-      "match_name": "Indian Oil vs SPJ Cargo",
-      "team_1": "Indian Oil",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-INO@2x.png",
-      "team_2": "SPJ Cargo",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SPJT@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/117998_4815_INO_SPJ_fc-Web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/vpRcl96WTeWQMiqnRaTVVg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -87,18 +75,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UTT@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/117973_4813_RAJ_UT_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/YKJhfdwXTyew6nUkDkXvdg/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "AFC U20 Asian Cup China, 2025",
-      "match_id": 118818,
-      "match_name": "Uzbekistan U20 vs Yemen U20",
-      "team_1": "Uzbekistan U20",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/UZB-FT1@2x.png",
-      "team_2": "Yemen U20",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/YMN-FT2@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/118818_4882_UZB_YMN_fc-Web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/B6Oor_5pTk2mYWxwWbRxLg/master.m3u8"
     },
     {
       "event_catagory": "golf",
