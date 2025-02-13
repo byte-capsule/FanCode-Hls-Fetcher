@@ -1,33 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 10,
-  "last_upaded": "13-02-2025 on 09:25:58 AM \ud83c\udf1e",
+  "total_mathes": 9,
+  "last_upaded": "13-02-2025 on 09:42:20 AM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "BOX Office T20 Test Pink Ball",
-      "match_id": 118957,
-      "match_name": "Phonex vs Alviva Sporting Club",
-      "team_1": "Phonex",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PPB@2x.png",
-      "team_2": "Alviva Sporting Club",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR17@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-T20-Test-Pink-Ball-old-Match-card--.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/IEozjoGKT_G3O_3AgeksGg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Box Office ASL T20",
-      "match_id": 118956,
-      "match_name": "Hartleys vs Don Bosco",
-      "team_1": "Hartleys",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR13@2x.png",
-      "team_2": "Don Bosco",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR5@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-Hundred-Ball-TV-old-Match-card-.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/OlUWlmZuRHqplkvcsmEQKg/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "West Indies Championship, 2025",
@@ -123,6 +99,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WWD@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_old_v1.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/WHIsEZRcQy6ECNQQbgoRBA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Tillo Cup, 2025",
+      "match_id": 117997,
+      "match_name": "Sapience vs Wonder Cement",
+      "team_1": "Sapience",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SPCT@2x.png",
+      "team_2": "Wonder Cement",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WCT@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/117997_4815_SPC_WC_fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/nvEKJb_NSoSVT5MKNgh4JA/master.m3u8"
     }
   ]
 }
