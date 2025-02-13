@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 10,
-  "last_upaded": "13-02-2025 on 1:53:16 PM \ud83c\udf1e",
+  "total_mathes": 8,
+  "last_upaded": "13-02-2025 on 2:28:15 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -30,30 +30,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "One Day Cup, 2024-25",
-      "match_id": 109152,
-      "match_name": "Queensland vs New South Wales",
-      "team_1": "Queensland",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-QUN@2x.png",
-      "team_2": "New South Wales",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSW@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/109152_4492_QUN_NSW_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/hVb5fjanQkWEWguwuECEcQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Guwahati Premier League, 2025",
-      "match_id": 117462,
-      "match_name": "Bud Cricket Club vs New Star Club",
-      "team_1": "Bud Cricket Club",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BCC@2x.png",
-      "team_2": "New Star Club",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSCB@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/117462_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/Kqch3MCkRb637p7ai438SA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "Tillo Cup, 2025",
       "match_id": 117998,
       "match_name": "Indian Oil vs SPJ Cargo",
@@ -78,18 +54,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "ICC CWC Challenge League B, 2024-26",
-      "match_id": 118012,
-      "match_name": "Uganda vs Hong Kong, China",
-      "team_1": "Uganda",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UGN@2x.png",
-      "team_2": "Hong Kong, China",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HK@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/118012_4607_HK_UGA_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/u7Slf3d7Rr2cngogLjbPzw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "West Indies Championship, 2025",
       "match_id": 117754,
       "match_name": "Jamaica Scorpions vs Barbados Pride",
@@ -111,6 +75,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIC@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/117753_4799_GUY_WIC_fc-Web_1738071641372.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/ziQStoElQFGtqzDaJfyDaQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ECS Malta, 2025",
+      "match_id": 118267,
+      "match_name": "Southern Crusaders vs Gzira United",
+      "team_1": "Southern Crusaders",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOUTHC@2x.png",
+      "team_2": "Gzira United",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/GZU-CR1@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/118267_4825_SOC_GZU_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/gktsMUp_QJ6np938-SWZrw/master.m3u8"
     },
     {
       "event_catagory": "football",
