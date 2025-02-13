@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 9,
-  "last_upaded": "13-02-2025 on 09:55:14 AM \ud83c\udf1e",
+  "total_mathes": 10,
+  "last_upaded": "13-02-2025 on 10:26:26 AM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -85,7 +85,7 @@
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SING@2x.png",
       "team_2": "Bahrain",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAH@2x.png",
-      "banner": false,
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/118011_4607_BAH_SIN_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/XrBUsqqKS4Sk0Px9csVbmg/master.m3u8"
     },
     {
@@ -111,6 +111,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WCT@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/117997_4815_SPC_WC_fc-Web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/nvEKJb_NSoSVT5MKNgh4JA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Guwahati Premier League, 2025",
+      "match_id": 117462,
+      "match_name": "Bud Cricket Club vs New Star Club",
+      "team_1": "Bud Cricket Club",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BCC@2x.png",
+      "team_2": "New Star Club",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSCB@2x.png",
+      "banner": "https://www.fancode.com/aig/match/v1/117462_CASACARDS_APP.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/Kqch3MCkRb637p7ai438SA/master.m3u8"
     }
   ]
 }
