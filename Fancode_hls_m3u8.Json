@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 8,
-  "last_upaded": "13-02-2025 on 3:53:45 PM \ud83c\udf1e",
+  "total_mathes": 9,
+  "last_upaded": "13-02-2025 on 4:24:03 PM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "One Day Cup, 2024-25",
-      "match_id": 109154,
-      "match_name": "Victoria vs Tasmania",
-      "team_1": "Victoria",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VCT@2x.png",
-      "team_2": "Tasmania",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TAS@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/109154_4492_TAS_VCT_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/rp8Ek5w3TL6QB0UxEuDDUg/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "Guwahati Premier League, 2025",
@@ -79,14 +67,26 @@
     {
       "event_catagory": "cricket",
       "event_name": "ECS Malta, 2025",
-      "match_id": 118267,
+      "match_id": 118268,
       "match_name": "Southern Crusaders vs Gzira United",
       "team_1": "Southern Crusaders",
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOUTHC@2x.png",
       "team_2": "Gzira United",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/GZU-CR1@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/118267_4825_SOC_GZU_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/gktsMUp_QJ6np938-SWZrw/master.m3u8"
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/118268_4825_SOC_GZU_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/I_vdFVakStOr49SbqVaBvg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Legend 90, 2025",
+      "match_id": 118238,
+      "match_name": "Dubai Giants vs Delhi Royals",
+      "team_1": "Dubai Giants",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DGL@2x.png",
+      "team_2": "Delhi Royals",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DLR@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/118238_4824_DLR_DG_fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/cKKT899kRcu1ZZFq4f6fbg/master.m3u8"
     },
     {
       "event_catagory": "football",
@@ -99,6 +99,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/YMN-FT2@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/118818_4882_UZB_YMN_fc-Web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/B6Oor_5pTk2mYWxwWbRxLg/master.m3u8"
+    },
+    {
+      "event_catagory": "golf",
+      "event_name": "Aramco Series Presented by PIF \u2013 Riyadh",
+      "match_id": 118863,
+      "match_name": "Day 1",
+      "team_1": "Day 1",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-ATP@2x.png",
+      "team_2": "Riyadh Golf Club",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/V_asmRi6Rm2N-b2gJ-f6_g/master.m3u8"
     }
   ]
 }

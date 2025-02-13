@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Victoria vs Tasmania" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109154_4492_TAS_VCT_fc-web.jpg" tvg-id="109154" group-title="One Day Cup, 2024-25",Victoria vs Tasmania
-https://dai.google.com/linear/hls/event/rp8Ek5w3TL6QB0UxEuDDUg/master.m3u8
 #EXTINF:-1 tvg-name="Guwahati Giants vs Bokakhat Town Cricket Club" tvg-logo="https://www.fancode.com/aig/match/v1/117463_CASACARDS_APP.png" tvg-id="117463" group-title="Guwahati Premier League, 2025",Guwahati Giants vs Bokakhat Town Cricket Club
 https://dai.google.com/linear/hls/event/aFtX3C9WRX6iGQM4T-kT8w/master.m3u8
 #EXTINF:-1 tvg-name="Indian Oil vs SPJ Cargo" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117998_4815_INO_SPJ_fc-Web.jpg" tvg-id="117998" group-title="Tillo Cup, 2025",Indian Oil vs SPJ Cargo
@@ -11,7 +9,11 @@ https://dai.google.com/linear/hls/event/zCjRuSmNQGOnlkCcTPsQ8Q/master.m3u8
 https://dai.google.com/linear/hls/event/IkrLlo6DRleEu3YJzIKXVw/master.m3u8
 #EXTINF:-1 tvg-name="Guyana Harpy Eagles vs West Indies Academy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117753_4799_GUY_WIC_fc-Web_1738071641372.jpg" tvg-id="117753" group-title="West Indies Championship, 2025",Guyana Harpy Eagles vs West Indies Academy
 https://dai.google.com/linear/hls/event/ziQStoElQFGtqzDaJfyDaQ/master.m3u8
-#EXTINF:-1 tvg-name="Southern Crusaders vs Gzira United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118267_4825_SOC_GZU_fc-web.jpg" tvg-id="118267" group-title="ECS Malta, 2025",Southern Crusaders vs Gzira United
-https://dai.google.com/linear/hls/event/gktsMUp_QJ6np938-SWZrw/master.m3u8
+#EXTINF:-1 tvg-name="Southern Crusaders vs Gzira United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118268_4825_SOC_GZU_fc-web.jpg" tvg-id="118268" group-title="ECS Malta, 2025",Southern Crusaders vs Gzira United
+https://dai.google.com/linear/hls/event/I_vdFVakStOr49SbqVaBvg/master.m3u8
+#EXTINF:-1 tvg-name="Dubai Giants vs Delhi Royals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118238_4824_DLR_DG_fc-Web.jpg" tvg-id="118238" group-title="Legend 90, 2025",Dubai Giants vs Delhi Royals
+https://dai.google.com/linear/hls/event/cKKT899kRcu1ZZFq4f6fbg/master.m3u8
 #EXTINF:-1 tvg-name="Uzbekistan U20 vs Yemen U20" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118818_4882_UZB_YMN_fc-Web.jpg" tvg-id="118818" group-title="AFC U20 Asian Cup China, 2025",Uzbekistan U20 vs Yemen U20
 https://dai.google.com/linear/hls/event/B6Oor_5pTk2mYWxwWbRxLg/master.m3u8
+#EXTINF:-1 tvg-name="Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="118863" group-title="Aramco Series Presented by PIF – Riyadh",Day 1
+https://dai.google.com/linear/hls/event/V_asmRi6Rm2N-b2gJ-f6_g/master.m3u8
