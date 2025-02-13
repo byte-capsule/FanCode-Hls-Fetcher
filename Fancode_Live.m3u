@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Coimbra Knights vs Fighters CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117777_4800_CK_FIG_fc-web.jpg" tvg-id="117777" group-title="ECSN Portugal, 2025",Coimbra Knights vs Fighters CC
+https://dai.google.com/linear/hls/event/DoRZ0_MhTSeCkmzcQKy-5A/master.m3u8
 #EXTINF:-1 tvg-name="Paarl CC vs Vredenburg/Saldanha CC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="117503" group-title="Boland T20 Super League Finals, 2025",Paarl CC vs Vredenburg/Saldanha CC
 https://dai.google.com/linear/hls/event/PprSsmv0QMuimeIAQqo2vg/master.m3u8
 #EXTINF:-1 tvg-name="MEC Study Group vs Lexus" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-A_league_match-card_1739168693257.jpg" tvg-id="118072" group-title="KCC T20 Challengers A League, 2025",MEC Study Group vs Lexus
@@ -15,3 +17,7 @@ https://dai.google.com/linear/hls/event/ziQStoElQFGtqzDaJfyDaQ/master.m3u8
 https://dai.google.com/linear/hls/event/9mQiwtmrTqy1Id-lk9I7Qg/master.m3u8
 #EXTINF:-1 tvg-name="Feed E - Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Genesis-Invitational-old.png" tvg-id="118869" group-title="The Genesis Inivitational Pacific Palisades, CA",Feed E - Day 1
 https://dai.google.com/linear/hls/event/TRQzzByrRYux3G0s3g8p9A/master.m3u8
+#EXTINF:-1 tvg-name="Feed C - Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Genesis-Invitational-old.png" tvg-id="118884" group-title="The Genesis Inivitational Pacific Palisades, CA",Feed C - Day 1
+https://dai.google.com/linear/hls/event/BEbN2DI6QiGTgfi4GiRaKw/master.m3u8
+#EXTINF:-1 tvg-name="Feed D - Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Genesis-Invitational-old.png" tvg-id="118875" group-title="The Genesis Inivitational Pacific Palisades, CA",Feed D - Day 1
+https://dai.google.com/linear/hls/event/ovDOlufyRKKUXcq2kIggnA/master.m3u8
