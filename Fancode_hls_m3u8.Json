@@ -1,9 +1,21 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "13-02-2025 on 8:41:53 PM \ud83c\udf19",
+  "total_mathes": 8,
+  "last_upaded": "13-02-2025 on 8:54:51 PM \ud83c\udf19",
   "matches": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "BOX Office T20 Test Pink Ball",
+      "match_id": 119141,
+      "match_name": "Vishal Brothers vs Madora",
+      "team_1": "Vishal Brothers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VBS@2x.png",
+      "team_2": "Madora",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MM@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-T20-Test-Pink-Ball-old-Match-card--.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/SqBeyKbuQXGHUQ-m-6pZ-Q/master.m3u8"
+    },
     {
       "event_catagory": "cricket",
       "event_name": "ECS Malta, 2025",
@@ -27,6 +39,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GJS@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/118239_4824_GJS_HYG_fc-Web_1739344679792.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/B_G5sV68SV2bHmKj2JS7Vg/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Rani Suryamukhi Devi T-20 Tournament",
+      "match_id": 117974,
+      "match_name": "Jharkhand vs Rajasthan",
+      "team_1": "Jharkhand",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JHAR@2x.png",
+      "team_2": "Rajasthan",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RJ@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/117974_4813_JHA_RJS_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/fv8lYeHxScSqrxrWoBL7yg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
