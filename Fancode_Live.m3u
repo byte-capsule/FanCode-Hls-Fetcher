@@ -3,19 +3,19 @@
 https://dai.google.com/linear/hls/event/P08j0VYyQ5y9_I6-Yg2zYw/master.m3u8
 #EXTINF:-1 tvg-name="Chhattisgarh vs Rajasthan" tvg-logo="https://www.fancode.com/aig/match/v1/117976_CASACARDS_APP.png" tvg-id="117976" group-title="Rani Suryamukhi Devi T-20 Tournament",Chhattisgarh vs Rajasthan
 https://dai.google.com/linear/hls/event/TPu-kmwuSOOQLiag35Teqg/master.m3u8
-#EXTINF:-1 tvg-name="Phonex vs UFC" tvg-logo="https://www.fancode.com/aig/match/v1/118959_CASACARDS_APP.png" tvg-id="118959" group-title="BOX Office Hundred Ball",Phonex vs UFC
-https://dai.google.com/linear/hls/event/p5BUSvZjSdCvzWI7W4WAIg/master.m3u8
 #EXTINF:-1 tvg-name="Cloud 7 vs OGC Pan Gulf" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118937_4891_CLO_OPG_fc-web.jpg" tvg-id="118937" group-title="Saudi Foundation T20 Cup, 2025",Cloud 7 vs OGC Pan Gulf
 https://dai.google.com/linear/hls/event/Vfjo7Ql9S8CJwzMDJuHq5g/master.m3u8
+#EXTINF:-1 tvg-name="Phonex vs UFC" tvg-logo="https://www.fancode.com/aig/match/v1/118959_CASACARDS_APP.png" tvg-id="118959" group-title="BOX Office Hundred Ball",Phonex vs UFC
+https://dai.google.com/linear/hls/event/p5BUSvZjSdCvzWI7W4WAIg/master.m3u8
 #EXTINF:-1 tvg-name="Jamaica Scorpions vs Barbados Pride" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117754_4799_BAR_JAM_fc-Web_1738071641376.jpg" tvg-id="117754" group-title="West Indies Championship, 2025",Jamaica Scorpions vs Barbados Pride
 https://dai.google.com/linear/hls/event/IkrLlo6DRleEu3YJzIKXVw/master.m3u8
 #EXTINF:-1 tvg-name="Guyana Harpy Eagles vs West Indies Academy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117753_4799_GUY_WIC_fc-Web_1738071641372.jpg" tvg-id="117753" group-title="West Indies Championship, 2025",Guyana Harpy Eagles vs West Indies Academy
 https://dai.google.com/linear/hls/event/ziQStoElQFGtqzDaJfyDaQ/master.m3u8
-#EXTINF:-1 tvg-name="Feed B - Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Genesis-Invitational-old.png" tvg-id="118880" group-title="The Genesis Inivitational Pacific Palisades, CA",Feed B - Day 2
-https://dai.google.com/linear/hls/event/08z5A1rHQc6E8MsSw1GvOg/master.m3u8
+#EXTINF:-1 tvg-name="Feed C - Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Genesis-Invitational-old.png" tvg-id="118883" group-title="The Genesis Inivitational Pacific Palisades, CA",Feed C - Day 2
+https://dai.google.com/linear/hls/event/a9gNiHcVS82MInRF35AC9w/master.m3u8
 #EXTINF:-1 tvg-name="Feed D - Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Genesis-Invitational-old.png" tvg-id="118882" group-title="The Genesis Inivitational Pacific Palisades, CA",Feed D - Day 2
 https://dai.google.com/linear/hls/event/-kEYis4KQ9-TpY7nd7-07g/master.m3u8
 #EXTINF:-1 tvg-name="Feed E - Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Genesis-Invitational-old.png" tvg-id="118881" group-title="The Genesis Inivitational Pacific Palisades, CA",Feed E - Day 2
 https://dai.google.com/linear/hls/event/Rst1-p-BQaiuTkDWFZO_4g/master.m3u8
-#EXTINF:-1 tvg-name="Feed C - Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Genesis-Invitational-old.png" tvg-id="118883" group-title="The Genesis Inivitational Pacific Palisades, CA",Feed C - Day 2
-https://dai.google.com/linear/hls/event/a9gNiHcVS82MInRF35AC9w/master.m3u8
+#EXTINF:-1 tvg-name="Feed B - Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Genesis-Invitational-old.png" tvg-id="118880" group-title="The Genesis Inivitational Pacific Palisades, CA",Feed B - Day 2
+https://dai.google.com/linear/hls/event/08z5A1rHQc6E8MsSw1GvOg/master.m3u8
