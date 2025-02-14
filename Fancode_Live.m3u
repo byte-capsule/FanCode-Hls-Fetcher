@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="ACE KRM Panthers vs SBS CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-A_league_match-card_1739168693257.jpg" tvg-id="118074" group-title="KCC T20 Challengers A League, 2025",ACE KRM Panthers vs SBS CC
 https://dai.google.com/linear/hls/event/8Vyqhe_TTEeP4rHOX4UEBw/master.m3u8
+#EXTINF:-1 tvg-name="Sri Lanka vs Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_ODI_old-(1).jpg" tvg-id="117415" group-title="Australia tour of Sri Lanka, 2025",Sri Lanka vs Australia
+https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
+#EXTINF:-1 tvg-name="City Challengers vs Punjab Panthers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_ols_v3.jpg" tvg-id="118110" group-title="Chandigarh T20",City Challengers vs Punjab Panthers
+https://dai.google.com/linear/hls/event/OxY2u9cvTxy2keROVgceHA/master.m3u8
 #EXTINF:-1 tvg-name="Jamaica Scorpions vs Barbados Pride" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117754_4799_BAR_JAM_fc-Web_1738071641376.jpg" tvg-id="117754" group-title="West Indies Championship, 2025",Jamaica Scorpions vs Barbados Pride
 https://dai.google.com/linear/hls/event/IkrLlo6DRleEu3YJzIKXVw/master.m3u8
 #EXTINF:-1 tvg-name="Guyana Harpy Eagles vs West Indies Academy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117753_4799_GUY_WIC_fc-Web_1738071641372.jpg" tvg-id="117753" group-title="West Indies Championship, 2025",Guyana Harpy Eagles vs West Indies Academy
 https://dai.google.com/linear/hls/event/ziQStoElQFGtqzDaJfyDaQ/master.m3u8
-#EXTINF:-1 tvg-name="City Challengers vs Punjab Panthers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_ols_v3.jpg" tvg-id="118110" group-title="Chandigarh T20",City Challengers vs Punjab Panthers
-https://dai.google.com/linear/hls/event/OxY2u9cvTxy2keROVgceHA/master.m3u8
-#EXTINF:-1 tvg-name="Sri Lanka vs Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_ODI_old-(1).jpg" tvg-id="117415" group-title="Australia tour of Sri Lanka, 2025",Sri Lanka vs Australia
-https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
 #EXTINF:-1 tvg-name="USA vs Namibia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Match-52_1738836614473.jpg" tvg-id="118178" group-title="ICC CWC League 2, 2023-27",USA vs Namibia
 https://dai.google.com/linear/hls/event/xwnLP7FIRSOmkyvHcEHdpA/master.m3u8
