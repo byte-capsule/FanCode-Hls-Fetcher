@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "14-02-2025 on 0:53:13 PM \ud83c\udf1e",
+  "total_mathes": 8,
+  "last_upaded": "14-02-2025 on 1:20:01 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -87,6 +87,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WCT@2x.png",
       "banner": "https://www.fancode.com/aig/match/v1/117999_CASACARDS_APP.png",
       "stream_link": "https://dai.google.com/linear/hls/event/n6JsCXHBSa2BBOTPBrVRmQ/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "AFC U20 Asian Cup China, 2025",
+      "match_id": 118821,
+      "match_name": "Korea Republic U20 vs Syria U20",
+      "team_1": "Korea Republic U20",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/KOR-FT1@2x.png",
+      "team_2": "Syria U20",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/SYR-FT1@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/118821_4882_KOR_SYR_fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/EFBt_R4PTy-vHxqn5Dx3ig/master.m3u8"
     }
   ]
 }
