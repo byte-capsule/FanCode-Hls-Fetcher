@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 5,
-  "last_upaded": "14-02-2025 on 11:40:17 AM \ud83c\udf1e",
+  "total_mathes": 6,
+  "last_upaded": "14-02-2025 on 11:53:13 AM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -63,6 +63,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUS@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_ODI_old-(1).jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICC CWC League 2, 2023-27",
+      "match_id": 118178,
+      "match_name": "USA vs Namibia",
+      "team_1": "USA",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USA@2x.png",
+      "team_2": "Namibia",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAM@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Match-52_1738836614473.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/xwnLP7FIRSOmkyvHcEHdpA/master.m3u8"
     }
   ]
 }
