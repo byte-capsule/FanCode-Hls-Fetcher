@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="ACE KRM Panthers vs SBS CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-A_league_match-card_1739168693257.jpg" tvg-id="118074" group-title="KCC T20 Challengers A League, 2025",ACE KRM Panthers vs SBS CC
+https://dai.google.com/linear/hls/event/8Vyqhe_TTEeP4rHOX4UEBw/master.m3u8
 #EXTINF:-1 tvg-name="Jamaica Scorpions vs Barbados Pride" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117754_4799_BAR_JAM_fc-Web_1738071641376.jpg" tvg-id="117754" group-title="West Indies Championship, 2025",Jamaica Scorpions vs Barbados Pride
 https://dai.google.com/linear/hls/event/IkrLlo6DRleEu3YJzIKXVw/master.m3u8
 #EXTINF:-1 tvg-name="Guyana Harpy Eagles vs West Indies Academy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117753_4799_GUY_WIC_fc-Web_1738071641372.jpg" tvg-id="117753" group-title="West Indies Championship, 2025",Guyana Harpy Eagles vs West Indies Academy
