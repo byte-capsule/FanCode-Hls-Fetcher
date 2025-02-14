@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Punjab CC Amadora vs Gorkha XI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="117779" group-title="ECSN Portugal, 2025",Punjab CC Amadora vs Gorkha XI
+https://dai.google.com/linear/hls/event/EuKBthjLT-eWFxA0MxNZ2A/master.m3u8
 #EXTINF:-1 tvg-name="Salmiya Strikers vs Team TGS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="115838" group-title="KCC T20 Challengers B League, 2024-25",Salmiya Strikers vs Team TGS
 https://dai.google.com/linear/hls/event/P08j0VYyQ5y9_I6-Yg2zYw/master.m3u8
 #EXTINF:-1 tvg-name="Chhattisgarh vs Rajasthan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="117976" group-title="Rani Suryamukhi Devi T-20 Tournament",Chhattisgarh vs Rajasthan
