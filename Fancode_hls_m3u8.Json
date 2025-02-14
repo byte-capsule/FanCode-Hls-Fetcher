@@ -1,20 +1,20 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 13,
-  "last_upaded": "14-02-2025 on 5:53:13 PM \ud83c\udf1e",
+  "total_mathes": 12,
+  "last_upaded": "14-02-2025 on 7:10:46 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
       "event_name": "ECS Malta, 2025",
-      "match_id": 118272,
-      "match_name": "Power Hitters vs Red Stars",
-      "team_1": "Power Hitters",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR3@2x.png",
-      "team_2": "Red Stars",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RS-CR2@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/118272_4825_PWH_RS_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/LJp2McObRvu4LFiSxEGiIg/master.m3u8"
+      "match_id": 118273,
+      "match_name": "Swieqi United vs Mater Dei",
+      "team_1": "Swieqi United",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SWEQ@2x.png",
+      "team_2": "Mater Dei",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MART@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/118273_4825_SWU_MTD_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/CPbQgBXEREiZH-avBCad-w/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -42,15 +42,27 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "KCC T20 Challengers B League, 2024-25",
-      "match_id": 115837,
-      "match_name": "Global Champs vs Phoenix Cricketers",
-      "team_1": "Global Champs",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GCHM@2x.png",
-      "team_2": "Phoenix Cricketers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PHO@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/115837_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/uixt6ZJCRrqXD-LyrKZJwQ/master.m3u8"
+      "event_name": "Rani Suryamukhi Devi T-20 Tournament",
+      "match_id": 117975,
+      "match_name": "Odisha vs Uttarakhand",
+      "team_1": "Odisha",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ODS@2x.png",
+      "team_2": "Uttarakhand",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UTT@2x.png",
+      "banner": "https://www.fancode.com/aig/match/v1/117975_CASACARDS_APP.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/xAP0QfJPRZyBEc_wDdO_Yw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Guwahati Premier League, 2025",
+      "match_id": 117464,
+      "match_name": "Bud Cricket Club vs Guwahati Giants",
+      "team_1": "Bud Cricket Club",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BCC@2x.png",
+      "team_2": "Guwahati Giants",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GWT@2x.png",
+      "banner": "https://www.fancode.com/aig/match/v1/117464_CASACARDS_APP.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/YPI_rcXKReKT0LxvujuaIw/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -66,6 +78,18 @@
     },
     {
       "event_catagory": "cricket",
+      "event_name": "Saudi Foundation T20 Cup, 2025",
+      "match_id": 118941,
+      "match_name": "Fireox vs Tafga CC",
+      "team_1": "Fireox",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FO@2x.png",
+      "team_2": "Tafga CC",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TAF@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/118941_4891_FIR_TAG_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/6ur42oCuQBWfosKhuZiMxQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
       "event_name": "Ireland tour of Zimbabwe, 2025",
       "match_id": 116936,
       "match_name": "Zimbabwe vs Ireland",
@@ -73,8 +97,20 @@
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
       "team_2": "Ireland",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png",
-      "banner": false,
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe--ODIs_old.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/Allt5Qy9Soe422Qe16Ke-A/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Box Office ASL T20",
+      "match_id": 118958,
+      "match_name": "Etopa vs St Thomas Day",
+      "team_1": "Etopa",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR7@2x.png",
+      "team_2": "St Thomas Day",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR6@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-Hundred-Ball-TV-old-Match-card-.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/VgYopLL0T4aipcqP-RUxLQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -99,54 +135,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIC@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/117753_4799_GUY_WIC_fc-Web_1738071641372.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/ziQStoElQFGtqzDaJfyDaQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Rani Suryamukhi Devi T-20 Tournament",
-      "match_id": 117975,
-      "match_name": "Odisha vs Uttarakhand",
-      "team_1": "Odisha",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ODS@2x.png",
-      "team_2": "Uttarakhand",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UTT@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/117975_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/xAP0QfJPRZyBEc_wDdO_Yw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Box Office ASL T20",
-      "match_id": 118958,
-      "match_name": "Etopa vs St Thomas Day",
-      "team_1": "Etopa",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR7@2x.png",
-      "team_2": "St Thomas Day",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR6@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-Hundred-Ball-TV-old-Match-card-.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/VgYopLL0T4aipcqP-RUxLQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Guwahati Premier League, 2025",
-      "match_id": 117464,
-      "match_name": "Bud Cricket Club vs Guwahati Giants",
-      "team_1": "Bud Cricket Club",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BCC@2x.png",
-      "team_2": "Guwahati Giants",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GWT@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/117464_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/YPI_rcXKReKT0LxvujuaIw/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "J League 2025",
-      "match_id": 117863,
-      "match_name": "Gamba Osaka vs Cerezo Osaka",
-      "team_1": "Gamba Osaka",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GOS@2x.png",
-      "team_2": "Cerezo Osaka",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COS@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Gamba-Osaka-VS-Cerezo-Osaka_old.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/HdVku8KhT3ig88GwKaJotg/master.m3u8"
     },
     {
       "event_catagory": "golf",

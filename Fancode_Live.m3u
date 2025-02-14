@@ -1,27 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Power Hitters vs Red Stars" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118272_4825_PWH_RS_fc-web.jpg" tvg-id="118272" group-title="ECS Malta, 2025",Power Hitters vs Red Stars
-https://dai.google.com/linear/hls/event/LJp2McObRvu4LFiSxEGiIg/master.m3u8
+#EXTINF:-1 tvg-name="Swieqi United vs Mater Dei" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118273_4825_SWU_MTD_fc-web.jpg" tvg-id="118273" group-title="ECS Malta, 2025",Swieqi United vs Mater Dei
+https://dai.google.com/linear/hls/event/CPbQgBXEREiZH-avBCad-w/master.m3u8
 #EXTINF:-1 tvg-name="USA vs Namibia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Match-52_1738836614473.jpg" tvg-id="118178" group-title="ICC CWC League 2, 2023-27",USA vs Namibia
 https://dai.google.com/linear/hls/event/xwnLP7FIRSOmkyvHcEHdpA/master.m3u8
 #EXTINF:-1 tvg-name="Pakistan vs New Zealand" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan_ODI_Tri_Series_Final_2025_Old_match-card.jpg" tvg-id="117419" group-title="New Zealand and South Africa tour of Pakistan 2025",Pakistan vs New Zealand
 https://dai.google.com/linear/hls/event/a1jTYSV-QgqAVdSTOEbxRA/master.m3u8
-#EXTINF:-1 tvg-name="Global Champs vs Phoenix Cricketers" tvg-logo="https://www.fancode.com/aig/match/v1/115837_CASACARDS_APP.png" tvg-id="115837" group-title="KCC T20 Challengers B League, 2024-25",Global Champs vs Phoenix Cricketers
-https://dai.google.com/linear/hls/event/uixt6ZJCRrqXD-LyrKZJwQ/master.m3u8
+#EXTINF:-1 tvg-name="Odisha vs Uttarakhand" tvg-logo="https://www.fancode.com/aig/match/v1/117975_CASACARDS_APP.png" tvg-id="117975" group-title="Rani Suryamukhi Devi T-20 Tournament",Odisha vs Uttarakhand
+https://dai.google.com/linear/hls/event/xAP0QfJPRZyBEc_wDdO_Yw/master.m3u8
+#EXTINF:-1 tvg-name="Bud Cricket Club vs Guwahati Giants" tvg-logo="https://www.fancode.com/aig/match/v1/117464_CASACARDS_APP.png" tvg-id="117464" group-title="Guwahati Premier League, 2025",Bud Cricket Club vs Guwahati Giants
+https://dai.google.com/linear/hls/event/YPI_rcXKReKT0LxvujuaIw/master.m3u8
 #EXTINF:-1 tvg-name="Big Boys vs Punjabi Sher" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4824_Big_boy_Punjabi_Sher_fc-web.jpg" tvg-id="118242" group-title="Legend 90, 2025",Big Boys vs Punjabi Sher
 https://dai.google.com/linear/hls/event/NS0fCkA6Q9GG-quwuYwaBQ/master.m3u8
-#EXTINF:-1 tvg-name="Zimbabwe vs Ireland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="116936" group-title="Ireland tour of Zimbabwe, 2025",Zimbabwe vs Ireland
+#EXTINF:-1 tvg-name="Fireox vs Tafga CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118941_4891_FIR_TAG_fc-web.jpg" tvg-id="118941" group-title="Saudi Foundation T20 Cup, 2025",Fireox vs Tafga CC
+https://dai.google.com/linear/hls/event/6ur42oCuQBWfosKhuZiMxQ/master.m3u8
+#EXTINF:-1 tvg-name="Zimbabwe vs Ireland" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe--ODIs_old.jpg" tvg-id="116936" group-title="Ireland tour of Zimbabwe, 2025",Zimbabwe vs Ireland
 https://dai.google.com/linear/hls/event/Allt5Qy9Soe422Qe16Ke-A/master.m3u8
+#EXTINF:-1 tvg-name="Etopa vs St Thomas Day" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-Hundred-Ball-TV-old-Match-card-.png" tvg-id="118958" group-title="Box Office ASL T20",Etopa vs St Thomas Day
+https://dai.google.com/linear/hls/event/VgYopLL0T4aipcqP-RUxLQ/master.m3u8
 #EXTINF:-1 tvg-name="Jamaica Scorpions vs Barbados Pride" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117754_4799_BAR_JAM_fc-Web_1738071641376.jpg" tvg-id="117754" group-title="West Indies Championship, 2025",Jamaica Scorpions vs Barbados Pride
 https://dai.google.com/linear/hls/event/IkrLlo6DRleEu3YJzIKXVw/master.m3u8
 #EXTINF:-1 tvg-name="Guyana Harpy Eagles vs West Indies Academy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117753_4799_GUY_WIC_fc-Web_1738071641372.jpg" tvg-id="117753" group-title="West Indies Championship, 2025",Guyana Harpy Eagles vs West Indies Academy
 https://dai.google.com/linear/hls/event/ziQStoElQFGtqzDaJfyDaQ/master.m3u8
-#EXTINF:-1 tvg-name="Odisha vs Uttarakhand" tvg-logo="https://www.fancode.com/aig/match/v1/117975_CASACARDS_APP.png" tvg-id="117975" group-title="Rani Suryamukhi Devi T-20 Tournament",Odisha vs Uttarakhand
-https://dai.google.com/linear/hls/event/xAP0QfJPRZyBEc_wDdO_Yw/master.m3u8
-#EXTINF:-1 tvg-name="Etopa vs St Thomas Day" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-Hundred-Ball-TV-old-Match-card-.png" tvg-id="118958" group-title="Box Office ASL T20",Etopa vs St Thomas Day
-https://dai.google.com/linear/hls/event/VgYopLL0T4aipcqP-RUxLQ/master.m3u8
-#EXTINF:-1 tvg-name="Bud Cricket Club vs Guwahati Giants" tvg-logo="https://www.fancode.com/aig/match/v1/117464_CASACARDS_APP.png" tvg-id="117464" group-title="Guwahati Premier League, 2025",Bud Cricket Club vs Guwahati Giants
-https://dai.google.com/linear/hls/event/YPI_rcXKReKT0LxvujuaIw/master.m3u8
-#EXTINF:-1 tvg-name="Gamba Osaka vs Cerezo Osaka" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Gamba-Osaka-VS-Cerezo-Osaka_old.jpg" tvg-id="117863" group-title="J League 2025",Gamba Osaka vs Cerezo Osaka
-https://dai.google.com/linear/hls/event/HdVku8KhT3ig88GwKaJotg/master.m3u8
 #EXTINF:-1 tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" tvg-id="118864" group-title="Aramco Series Presented by PIF – Riyadh",Day 2
 https://dai.google.com/linear/hls/event/4e7_RVqsTdWfFK1C4EKxXg/master.m3u8
