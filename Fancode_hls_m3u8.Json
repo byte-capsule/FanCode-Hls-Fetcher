@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 12,
-  "last_upaded": "14-02-2025 on 8:40:47 PM \ud83c\udf19",
+  "total_mathes": 10,
+  "last_upaded": "14-02-2025 on 9:23:33 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -54,15 +54,15 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Guwahati Premier League, 2025",
-      "match_id": 117464,
-      "match_name": "Bud Cricket Club vs Guwahati Giants",
-      "team_1": "Bud Cricket Club",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BCC@2x.png",
-      "team_2": "Guwahati Giants",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GWT@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/117464_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/YPI_rcXKReKT0LxvujuaIw/master.m3u8"
+      "event_name": "Rani Suryamukhi Devi T-20 Tournament",
+      "match_id": 117976,
+      "match_name": "Chhattisgarh vs Rajasthan",
+      "team_1": "Chhattisgarh",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CHAH@2x.png",
+      "team_2": "Rajasthan",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RJ@2x.png",
+      "banner": "https://www.fancode.com/aig/match/v1/117976_CASACARDS_APP.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/TPu-kmwuSOOQLiag35Teqg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -75,30 +75,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TAF@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/118941_4891_FIR_TAG_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/6ur42oCuQBWfosKhuZiMxQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Ireland tour of Zimbabwe, 2025",
-      "match_id": 116936,
-      "match_name": "Zimbabwe vs Ireland",
-      "team_1": "Zimbabwe",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
-      "team_2": "Ireland",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe--ODIs_old.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/Allt5Qy9Soe422Qe16Ke-A/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Box Office ASL T20",
-      "match_id": 118958,
-      "match_name": "Etopa vs St Thomas Day",
-      "team_1": "Etopa",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR7@2x.png",
-      "team_2": "St Thomas Day",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR6@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-Hundred-Ball-TV-old-Match-card-.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/VgYopLL0T4aipcqP-RUxLQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -138,15 +114,15 @@
     },
     {
       "event_catagory": "golf",
-      "event_name": "Aramco Series Presented by PIF \u2013 Riyadh",
-      "match_id": 118864,
-      "match_name": "Day 2",
-      "team_1": "Day 2",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-ATP@2x.png",
-      "team_2": "Riyadh Golf Club",
+      "event_name": "The Genesis Inivitational Pacific Palisades, CA",
+      "match_id": 118880,
+      "match_name": "Feed B - Day 2",
+      "team_1": "Feed B - Day 2",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-GO@2x.png",
+      "team_2": "Pacific Palisades, CA",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/4e7_RVqsTdWfFK1C4EKxXg/master.m3u8"
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/The-Genesis-Invitational-old.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/08z5A1rHQc6E8MsSw1GvOg/master.m3u8"
     }
   ]
 }
