@@ -1,16 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Swieqi United vs Mater Dei" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118273_4825_SWU_MTD_fc-web.jpg" tvg-id="118273" group-title="ECS Malta, 2025",Swieqi United vs Mater Dei
 https://dai.google.com/linear/hls/event/CPbQgBXEREiZH-avBCad-w/master.m3u8
-#EXTINF:-1 tvg-name="USA vs Namibia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Match-52_1738836614473.jpg" tvg-id="118178" group-title="ICC CWC League 2, 2023-27",USA vs Namibia
-https://dai.google.com/linear/hls/event/xwnLP7FIRSOmkyvHcEHdpA/master.m3u8
 #EXTINF:-1 tvg-name="Pakistan vs New Zealand" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan_ODI_Tri_Series_Final_2025_Old_match-card.jpg" tvg-id="117419" group-title="New Zealand and South Africa tour of Pakistan 2025",Pakistan vs New Zealand
 https://dai.google.com/linear/hls/event/a1jTYSV-QgqAVdSTOEbxRA/master.m3u8
 #EXTINF:-1 tvg-name="Odisha vs Uttarakhand" tvg-logo="https://www.fancode.com/aig/match/v1/117975_CASACARDS_APP.png" tvg-id="117975" group-title="Rani Suryamukhi Devi T-20 Tournament",Odisha vs Uttarakhand
 https://dai.google.com/linear/hls/event/xAP0QfJPRZyBEc_wDdO_Yw/master.m3u8
 #EXTINF:-1 tvg-name="Bud Cricket Club vs Guwahati Giants" tvg-logo="https://www.fancode.com/aig/match/v1/117464_CASACARDS_APP.png" tvg-id="117464" group-title="Guwahati Premier League, 2025",Bud Cricket Club vs Guwahati Giants
 https://dai.google.com/linear/hls/event/YPI_rcXKReKT0LxvujuaIw/master.m3u8
-#EXTINF:-1 tvg-name="Big Boys vs Punjabi Sher" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4824_Big_boy_Punjabi_Sher_fc-web.jpg" tvg-id="118242" group-title="Legend 90, 2025",Big Boys vs Punjabi Sher
-https://dai.google.com/linear/hls/event/NS0fCkA6Q9GG-quwuYwaBQ/master.m3u8
+#EXTINF:-1 tvg-name="Chhattisgarh Warriors vs Rajasthan Kings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4824_Chhatisgarh_Rajasthan-Kings_fc-Web.jpg" tvg-id="118243" group-title="Legend 90, 2025",Chhattisgarh Warriors vs Rajasthan Kings
+https://dai.google.com/linear/hls/event/ePtzycVYS_Sh9OtVe8LIZg/master.m3u8
 #EXTINF:-1 tvg-name="Fireox vs Tafga CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118941_4891_FIR_TAG_fc-web.jpg" tvg-id="118941" group-title="Saudi Foundation T20 Cup, 2025",Fireox vs Tafga CC
 https://dai.google.com/linear/hls/event/6ur42oCuQBWfosKhuZiMxQ/master.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe vs Ireland" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe--ODIs_old.jpg" tvg-id="116936" group-title="Ireland tour of Zimbabwe, 2025",Zimbabwe vs Ireland
