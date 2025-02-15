@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Guyana Harpy Eagles vs West Indies Academy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117753_4799_GUY_WIC_fc-Web_1738071641372.jpg" tvg-id="117753" group-title="West Indies Championship, 2025",Guyana Harpy Eagles vs West Indies Academy
 https://dai.google.com/linear/hls/event/ziQStoElQFGtqzDaJfyDaQ/master.m3u8
-#EXTINF:-1 tvg-name="Punjab Panthers vs Hiims Hawks" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_old_v2.jpg" tvg-id="118112" group-title="Chandigarh T20",Punjab Panthers vs Hiims Hawks
-https://dai.google.com/linear/hls/event/KbU1T5JMQzyW5S4AU5b7WA/master.m3u8
-#EXTINF:-1 tvg-name="Bahrain vs Italy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118014_4607_ITA_BAH_fc-web.jpg" tvg-id="118014" group-title="ICC CWC Challenge League B, 2024-26",Bahrain vs Italy
-https://dai.google.com/linear/hls/event/KBjU4qDqRsWWCG4btYMKXA/master.m3u8
-#EXTINF:-1 tvg-name="Uganda vs Tanzania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="118013" group-title="ICC CWC Challenge League B, 2024-26",Uganda vs Tanzania
+#EXTINF:-1 tvg-name="Uganda vs Tanzania" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118013_4607_TAN_UGA_fc-web.jpg" tvg-id="118013" group-title="ICC CWC Challenge League B, 2024-26",Uganda vs Tanzania
 https://dai.google.com/linear/hls/event/3rbn5Nr-Q-OluRYejAMCuw/master.m3u8
 #EXTINF:-1 tvg-name="Vissel Kobe vs Urawa Red Diamonds" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Vissel-Kobe-VS-Urawa-Red-Diamonds_old.jpg" tvg-id="117866" group-title="J League 2025",Vissel Kobe vs Urawa Red Diamonds
 https://dai.google.com/linear/hls/event/EKkSiA9CQwuNMkFHyC5G-Q/master.m3u8
+#EXTINF:-1 tvg-name="Kawasaki Frontale vs Nagoya Grampus" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Kawasaki-Frontale-VS-Nagoya-Grampus_old.jpg" tvg-id="117865" group-title="J League 2025",Kawasaki Frontale vs Nagoya Grampus
+https://dai.google.com/linear/hls/event/CEQVmWPnSVOCSF2FelwLjQ/master.m3u8
+#EXTINF:-1 tvg-name="Melbourne City vs Perth Glory" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110999_4567_MLC_PG_fc-web_1728983129386.jpg" tvg-id="110999" group-title="A League 2024-25",Melbourne City vs Perth Glory
+https://dai.google.com/linear/hls/event/c9TvqckFTw2pB8cFqiEaeA/master.m3u8
