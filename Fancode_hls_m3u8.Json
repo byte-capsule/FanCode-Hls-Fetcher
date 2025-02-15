@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 6,
-  "last_upaded": "15-02-2025 on 5:39:04 PM \ud83c\udf1e",
+  "last_upaded": "15-02-2025 on 5:53:17 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -30,18 +30,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Box Office T20 Red Ball",
-      "match_id": 119423,
-      "match_name": "Vishal Brothers vs Prince Subhash",
-      "team_1": "Vishal Brothers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VBS@2x.png",
-      "team_2": "Prince Subhash",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR2@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Box-Office-T20-Red-Ball_match-card.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/wpT8yOtqR2-MGC_c7EbhCg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "Legend 90, 2025",
       "match_id": 119376,
       "match_name": "Delhi Royals vs Gujarat Samp Army",
@@ -51,6 +39,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GJS@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/118235_4824_DLR_GJS_fc-Web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/o_7wKEF6QeuPYY9wUV63JA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "BOX Office White Ball T20",
+      "match_id": 119424,
+      "match_name": "ER Tigers vs Kolkata Incredibles",
+      "team_1": "ER Tigers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR12@2x.png",
+      "team_2": "Kolkata Incredibles",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KI@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-White-Ball-T20-old-Match-card.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/GcylaY5yRluvJBstmo0FPg/master.m3u8"
     },
     {
       "event_catagory": "football",
