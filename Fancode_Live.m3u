@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Lisbon Capitals vs Fighters CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117781_4800_LCA_FIG_fc-web_1738606398668.jpg" tvg-id="117781" group-title="ECSN Portugal, 2025",Lisbon Capitals vs Fighters CC
+https://dai.google.com/linear/hls/event/JKe6AcmKRZOhezuvFtC_pA/master.m3u8
 #EXTINF:-1 tvg-name="GAT vs SBS CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-A_league_match-card_1739168693257.jpg" tvg-id="118076" group-title="KCC T20 Challengers A League, 2025",GAT vs SBS CC
 https://dai.google.com/linear/hls/event/CWsxrqrMQhWuNptwcCjfzQ/master.m3u8
 #EXTINF:-1 tvg-name="Tamimi Group vs Kanoo Strikers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118947_4891_TG_KS_fc-web.jpg" tvg-id="118947" group-title="Saudi Foundation T20 Cup, 2025",Tamimi Group vs Kanoo Strikers
@@ -9,7 +11,7 @@ https://dai.google.com/linear/hls/event/ziQStoElQFGtqzDaJfyDaQ/master.m3u8
 https://dai.google.com/linear/hls/event/uWsIpPgPRI6wp-2lc5xuCg/master.m3u8
 #EXTINF:-1 tvg-name="Odisha vs Chhattisgarh" tvg-logo="https://www.fancode.com/aig/match/v2/117964_CASACARDS_APP.png" tvg-id="117977" group-title="Rani Suryamukhi Devi T-20 Tournament",Odisha vs Chhattisgarh
 https://dai.google.com/linear/hls/event/Sq7HfaqRQWmcY2u9pkn_0g/master.m3u8
-#EXTINF:-1 tvg-name="Feed C - Day 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="118891" group-title="The Genesis Inivitational Pacific Palisades, CA",Feed C - Day 3
+#EXTINF:-1 tvg-name="Feed C - Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Genesis-Invitational-old.png" tvg-id="118891" group-title="The Genesis Inivitational Pacific Palisades, CA",Feed C - Day 3
 https://dai.google.com/linear/hls/event/tscdNbIvSACJCjOkJctsyQ/master.m3u8
 #EXTINF:-1 tvg-name="Feed D - Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Genesis-Invitational-old.png" tvg-id="118890" group-title="The Genesis Inivitational Pacific Palisades, CA",Feed D - Day 3
 https://dai.google.com/linear/hls/event/IyFNkWNvSciGuXcVtQtVNA/master.m3u8
@@ -17,3 +19,5 @@ https://dai.google.com/linear/hls/event/IyFNkWNvSciGuXcVtQtVNA/master.m3u8
 https://dai.google.com/linear/hls/event/12VNNB8tTKCwOZEcMOuKEQ/master.m3u8
 #EXTINF:-1 tvg-name="Feed B - Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Genesis-Invitational-old.png" tvg-id="118887" group-title="The Genesis Inivitational Pacific Palisades, CA",Feed B - Day 3
 https://dai.google.com/linear/hls/event/-W_cXgEhRbuWusRBd3BoSg/master.m3u8
+#EXTINF:-1 tvg-name="Feed A - Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Genesis-Invitational-old.png" tvg-id="118892" group-title="The Genesis Inivitational Pacific Palisades, CA",Feed A - Day 3
+https://dai.google.com/linear/hls/event/kUa4iiCdS2OIPRc-bOWyXw/master.m3u8
