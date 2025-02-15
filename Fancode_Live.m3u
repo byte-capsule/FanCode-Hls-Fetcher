@@ -7,7 +7,7 @@ https://dai.google.com/linear/hls/event/Q_erL-s1RbOl3_c9GEIEog/master.m3u8
 https://dai.google.com/linear/hls/event/x11Eos76SFeL0FZm53AoKQ/master.m3u8
 #EXTINF:-1 tvg-name="Phoenix vs Bandhaghat 11" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-White-Ball-T20-old-Match-card.png" tvg-id="119425" group-title="BOX Office White Ball T20",Phoenix vs Bandhaghat 11
 https://dai.google.com/linear/hls/event/uWsIpPgPRI6wp-2lc5xuCg/master.m3u8
-#EXTINF:-1 tvg-name="Odisha vs Chhattisgarh" tvg-logo="https://www.fancode.com/aig/match/v2/117964_CASACARDS_APP.png" tvg-id="117977" group-title="Rani Suryamukhi Devi T-20 Tournament",Odisha vs Chhattisgarh
+#EXTINF:-1 tvg-name="Odisha vs Chhattisgarh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="117977" group-title="Rani Suryamukhi Devi T-20 Tournament",Odisha vs Chhattisgarh
 https://dai.google.com/linear/hls/event/Sq7HfaqRQWmcY2u9pkn_0g/master.m3u8
 #EXTINF:-1 tvg-name="Millwall vs West Bromwich Albion" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Millwall-VS-West-Bromwich-Albion_fc-web.jpg" tvg-id="116561" group-title="EFL Championship 2024-25",Millwall vs West Bromwich Albion
 https://dai.google.com/linear/hls/event/qCDONRyeT8W0B12WoxFWeQ/master.m3u8
@@ -17,3 +17,5 @@ https://dai.google.com/linear/hls/event/-W_cXgEhRbuWusRBd3BoSg/master.m3u8
 https://dai.google.com/linear/hls/event/12VNNB8tTKCwOZEcMOuKEQ/master.m3u8
 #EXTINF:-1 tvg-name="Feed D - Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Genesis-Invitational-old.png" tvg-id="118890" group-title="The Genesis Inivitational Pacific Palisades, CA",Feed D - Day 3
 https://dai.google.com/linear/hls/event/IyFNkWNvSciGuXcVtQtVNA/master.m3u8
+#EXTINF:-1 tvg-name="Feed C - Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Genesis-Invitational-old.png" tvg-id="118891" group-title="The Genesis Inivitational Pacific Palisades, CA",Feed C - Day 3
+https://dai.google.com/linear/hls/event/tscdNbIvSACJCjOkJctsyQ/master.m3u8
