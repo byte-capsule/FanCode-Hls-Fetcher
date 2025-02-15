@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 6,
-  "last_upaded": "15-02-2025 on 3:38:56 PM \ud83c\udf1e",
+  "last_upaded": "15-02-2025 on 3:52:53 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -41,18 +41,6 @@
       "stream_link": "https://dai.google.com/linear/hls/event/Tx_JPQc2STKGtwruMLelIA/master.m3u8"
     },
     {
-      "event_catagory": "cricket",
-      "event_name": "ECS Malta, 2025",
-      "match_id": 118275,
-      "match_name": "Victoria Lions vs Southern Crusaders",
-      "team_1": "Victoria Lions",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VCTL@2x.png",
-      "team_2": "Southern Crusaders",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOUTHC@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/118275_4825_VLS_SOC_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/8X-W3Mq3TACg6MQmPCCFnQ/master.m3u8"
-    },
-    {
       "event_catagory": "football",
       "event_name": "A League 2024-25",
       "match_id": 111001,
@@ -75,6 +63,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AUS@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/118823_4882_QAT_AUS_fc-Web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/WYE7eO77Rf2yC0pr_0DQHw/master.m3u8"
+    },
+    {
+      "event_catagory": "golf",
+      "event_name": "Aramco Series Presented by PIF \u2013 Riyadh",
+      "match_id": 118865,
+      "match_name": "Day 3",
+      "team_1": "Day 3",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-ATP@2x.png",
+      "team_2": "Riyadh Golf Club",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/zFvesRL-QbujpbJNEOK3EQ/master.m3u8"
     }
   ]
 }
