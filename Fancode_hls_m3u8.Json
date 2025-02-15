@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 8,
-  "last_upaded": "15-02-2025 on 7:01:22 PM \ud83c\udf19",
+  "total_mathes": 7,
+  "last_upaded": "15-02-2025 on 7:28:16 PM \ud83c\udf19",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -43,14 +43,14 @@
     {
       "event_catagory": "cricket",
       "event_name": "Legend 90, 2025",
-      "match_id": 119376,
-      "match_name": "Delhi Royals vs Gujarat Samp Army",
-      "team_1": "Delhi Royals",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DLR@2x.png",
-      "team_2": "Gujarat Samp Army",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GJS@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/118235_4824_DLR_GJS_fc-Web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/o_7wKEF6QeuPYY9wUV63JA/master.m3u8"
+      "match_id": 119377,
+      "match_name": "Rajasthan Kings vs Chhattisgarh Warriors",
+      "team_1": "Rajasthan Kings",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RKL@2x.png",
+      "team_2": "Chhattisgarh Warriors",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CW@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/4824_Chhatisgarh_Rajasthan-Kings_fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/x11Eos76SFeL0FZm53AoKQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -75,18 +75,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BURNL@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Preston-North-End-VS-Burnley_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/4EOsW8rMQKCObPGJTpgZxw/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "AFC U20 Asian Cup China, 2025",
-      "match_id": 118824,
-      "match_name": "Kyrgyz Republic U20 vs China PR U20",
-      "team_1": "Kyrgyz Republic U20",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/KYG-FT1@2x.png",
-      "team_2": "China PR U20",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CHN@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/118824_4882_KYG_CHN_fc-Web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/Pa6kZCx0SUSOSWBOBqmVRg/master.m3u8"
     },
     {
       "event_catagory": "golf",
