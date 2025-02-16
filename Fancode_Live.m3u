@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Coimbra Knights vs Gorkha XI" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117783_4800_CK_GOR_fc-web.jpg" tvg-id="117783" group-title="ECSN Portugal, 2025",Coimbra Knights vs Gorkha XI
+https://dai.google.com/linear/hls/event/QLUSqFz_Qs2bzRA9DzrBxg/master.m3u8
 #EXTINF:-1 tvg-name="Team TGS vs Kuwait Mavericks" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-A_league_match-card_1739168693257.jpg" tvg-id="118077" group-title="KCC T20 Challengers A League, 2025",Team TGS vs Kuwait Mavericks
 https://dai.google.com/linear/hls/event/JcfWc4tyQ76CIw0vFcNpAA/master.m3u8
 #EXTINF:-1 tvg-name="Bin Dilmah vs OGC Pan Gulf" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118946_4891_BD_OPG_fc-web.jpg" tvg-id="118946" group-title="Saudi Foundation T20 Cup, 2025",Bin Dilmah vs OGC Pan Gulf
@@ -11,3 +13,5 @@ https://dai.google.com/linear/hls/event/pOkbr52_ScKwgAfLq38O8g/master.m3u8
 https://dai.google.com/linear/hls/event/GHpt8wN9SW2zAPMUJwlA2g/master.m3u8
 #EXTINF:-1 tvg-name="Feed B - Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Genesis-Invitational-old.png" tvg-id="118893" group-title="The Genesis Inivitational Pacific Palisades, CA",Feed B - Day 4
 https://dai.google.com/linear/hls/event/vZxa8ha5RtqY9dNjLng0dg/master.m3u8
+#EXTINF:-1 tvg-name="Feed A - Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Genesis-Invitational-old.png" tvg-id="118897" group-title="The Genesis Inivitational Pacific Palisades, CA",Feed A - Day 4
+https://dai.google.com/linear/hls/event/oisLJqhoSOKhIym_etzo4A/master.m3u8
