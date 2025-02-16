@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 6,
-  "last_upaded": "16-02-2025 on 2:53:53 PM \ud83c\udf1e",
+  "last_upaded": "16-02-2025 on 3:20:08 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -67,14 +67,14 @@
     {
       "event_catagory": "football",
       "event_name": "AFC U20 Asian Cup China, 2025",
-      "match_id": 118825,
-      "match_name": "DPR Korea U20 vs Jordan U20",
-      "team_1": "DPR Korea U20",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NK@2x.png",
-      "team_2": "Jordan U20",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/JOR-FT1@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/118825_4882_PRK_JOR_fc-Web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/B8CUWPVER6KZ0Q6lzs3LFA/master.m3u8"
+      "match_id": 118826,
+      "match_name": "Yemen U20 vs IR Iran U20",
+      "team_1": "Yemen U20",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/YMN-FT2@2x.png",
+      "team_2": "IR Iran U20",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-IRN@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/118826_4882_YMN_IRN_fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/1Rxx2ilLT-mek2devvkV6A/master.m3u8"
     }
   ]
 }
