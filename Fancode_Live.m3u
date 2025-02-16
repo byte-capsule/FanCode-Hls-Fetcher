@@ -1,11 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Tanzania vs Singapore" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118016_4607_TAN_SIN_fc-web.jpg" tvg-id="118016" group-title="ICC CWC Challenge League B, 2024-26",Tanzania vs Singapore
-https://dai.google.com/linear/hls/event/AtqBL2G-RiKx5A0OZYIWrw/master.m3u8
 #EXTINF:-1 tvg-name="Wild Woods Warriors vs Manohar Mavericks" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_old_v2.jpg" tvg-id="118115" group-title="Chandigarh T20",Wild Woods Warriors vs Manohar Mavericks
 https://dai.google.com/linear/hls/event/hkoeQgfOTX6wKaR7LU8abg/master.m3u8
 #EXTINF:-1 tvg-name="Namibia vs Oman" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Match-53_1738836614450.jpg" tvg-id="118179" group-title="ICC CWC League 2, 2023-27",Namibia vs Oman
 https://dai.google.com/linear/hls/event/OJI4oboUQI-h5YQwduQ1SA/master.m3u8
-#EXTINF:-1 tvg-name="Machida Zelvia vs Sanfrecce Hiroshima" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Machida-Zelvia-VS-Sanfrecce-Hiroshima_old.jpg" tvg-id="117864" group-title="J League 2025",Machida Zelvia vs Sanfrecce Hiroshima
-https://dai.google.com/linear/hls/event/OYWmgg6MTECoMA8tJr4GUA/master.m3u8
+#EXTINF:-1 tvg-name="Union Sporting vs Sapience" tvg-logo="https://www.fancode.com/aig/match/v1/118001_CASACARDS_APP.png" tvg-id="118001" group-title="Tillo Cup, 2025",Union Sporting vs Sapience
+https://dai.google.com/linear/hls/event/_lY2M3lJQwynG5YCIrhOAA/master.m3u8
+#EXTINF:-1 tvg-name="Zimbabwe vs Ireland" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe--ODIs_old.jpg" tvg-id="116937" group-title="Ireland tour of Zimbabwe, 2025",Zimbabwe vs Ireland
+https://dai.google.com/linear/hls/event/d6WO56zoSSOM8QoRdOT7tg/master.m3u8
 #EXTINF:-1 tvg-name="Western Sydney Wanderers vs Macarthur" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111002_4567_SYW_MAC_fc-web_1728983129390.jpg" tvg-id="111002" group-title="A League 2024-25",Western Sydney Wanderers vs Macarthur
 https://dai.google.com/linear/hls/event/2UbhUKpeSFiPWYC84ubG6A/master.m3u8
+#EXTINF:-1 tvg-name="DPR Korea U20 vs Jordan U20" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118825_4882_PRK_JOR_fc-Web.jpg" tvg-id="118825" group-title="AFC U20 Asian Cup China, 2025",DPR Korea U20 vs Jordan U20
+https://dai.google.com/linear/hls/event/B8CUWPVER6KZ0Q6lzs3LFA/master.m3u8
