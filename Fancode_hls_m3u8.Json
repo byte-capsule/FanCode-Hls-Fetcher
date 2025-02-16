@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "16-02-2025 on 5:17:24 PM \ud83c\udf1e",
+  "total_mathes": 4,
+  "last_upaded": "16-02-2025 on 5:39:20 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -18,18 +18,6 @@
     },
     {
       "event_catagory": "cricket",
-      "event_name": "Tillo Cup, 2025",
-      "match_id": 118001,
-      "match_name": "Sapience vs Union Sporting",
-      "team_1": "Sapience",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SPCT@2x.png",
-      "team_2": "Union Sporting",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USTC@2x.png",
-      "banner": "https://www.fancode.com/aig/match/v1/118001_CASACARDS_APP.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/_lY2M3lJQwynG5YCIrhOAA/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
       "event_name": "Ireland tour of Zimbabwe, 2025",
       "match_id": 116937,
       "match_name": "Zimbabwe vs Ireland",
@@ -39,6 +27,30 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe--ODIs_old.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/d6WO56zoSSOM8QoRdOT7tg/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "AFC U20 Asian Cup China, 2025",
+      "match_id": 118828,
+      "match_name": "Saudi Arabia U20 vs Iraq U20",
+      "team_1": "Saudi Arabia U20",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/SAU-FT1@2x.png",
+      "team_2": "Iraq U20",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/IRQ-FT1@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/118828_4882_KSA_IRQ_fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/fWGukwfsRNuN-8UMr05G6g/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "AFC U20 Asian Cup China, 2025",
+      "match_id": 118827,
+      "match_name": "Indonesia U20 vs Uzbekistan U20",
+      "team_1": "Indonesia U20",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/INA-FT1@2x.png",
+      "team_2": "Uzbekistan U20",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/UZB-FT1@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/118827_4882_INA_UZB_fc-Web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/WHbKi7u9Sdu6TnUUZkOOxQ/master.m3u8"
     }
   ]
 }
