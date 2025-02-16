@@ -7,9 +7,11 @@ https://dai.google.com/linear/hls/event/FOucTkj8QqGBLUMtqjN7Fw/master.m3u8
 https://dai.google.com/linear/hls/event/pD5ZAy7CQ2GdNTW4vkMvqg/master.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe vs Ireland" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe--ODIs_old.jpg" tvg-id="116937" group-title="Ireland tour of Zimbabwe, 2025",Zimbabwe vs Ireland
 https://dai.google.com/linear/hls/event/d6WO56zoSSOM8QoRdOT7tg/master.m3u8
-#EXTINF:-1 tvg-name="Feed B - Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Genesis-Invitational-old.png" tvg-id="118893" group-title="The Genesis Inivitational Pacific Palisades, CA",Feed B - Day 4
-https://dai.google.com/linear/hls/event/vZxa8ha5RtqY9dNjLng0dg/master.m3u8
 #EXTINF:-1 tvg-name="Feed E - Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Genesis-Invitational-old.png" tvg-id="118896" group-title="The Genesis Inivitational Pacific Palisades, CA",Feed E - Day 4
 https://dai.google.com/linear/hls/event/fLd-HtMKRDGwuH77i7l8pw/master.m3u8
 #EXTINF:-1 tvg-name="Feed C - Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Genesis-Invitational-old.png" tvg-id="118895" group-title="The Genesis Inivitational Pacific Palisades, CA",Feed C - Day 4
 https://dai.google.com/linear/hls/event/pOkbr52_ScKwgAfLq38O8g/master.m3u8
+#EXTINF:-1 tvg-name="Feed B - Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Genesis-Invitational-old.png" tvg-id="118893" group-title="The Genesis Inivitational Pacific Palisades, CA",Feed B - Day 4
+https://dai.google.com/linear/hls/event/vZxa8ha5RtqY9dNjLng0dg/master.m3u8
+#EXTINF:-1 tvg-name="Feed D - Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Genesis-Invitational-old.png" tvg-id="118894" group-title="The Genesis Inivitational Pacific Palisades, CA",Feed D - Day 4
+https://dai.google.com/linear/hls/event/GHpt8wN9SW2zAPMUJwlA2g/master.m3u8
