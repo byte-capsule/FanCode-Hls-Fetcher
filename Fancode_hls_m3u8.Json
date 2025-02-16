@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "16-02-2025 on 10:55:23 AM \ud83c\udf1e",
+  "total_mathes": 5,
+  "last_upaded": "16-02-2025 on 11:21:15 AM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -51,6 +51,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PP@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_old_v1.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/uJ7eKGzZQ_6wRr6FLmqArQ/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "J League 2025",
+      "match_id": 117864,
+      "match_name": "Machida Zelvia vs Sanfrecce Hiroshima",
+      "team_1": "Machida Zelvia",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MZ@2x.png",
+      "team_2": "Sanfrecce Hiroshima",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHI@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Machida-Zelvia-VS-Sanfrecce-Hiroshima_old.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/OYWmgg6MTECoMA8tJr4GUA/master.m3u8"
     }
   ]
 }
