@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 6,
-  "last_upaded": "16-02-2025 on 1:53:05 PM \ud83c\udf1e",
+  "last_upaded": "16-02-2025 on 2:25:20 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -53,16 +53,16 @@
       "stream_link": "https://dai.google.com/linear/hls/event/d6WO56zoSSOM8QoRdOT7tg/master.m3u8"
     },
     {
-      "event_catagory": "football",
-      "event_name": "A League 2024-25",
-      "match_id": 111002,
-      "match_name": "Western Sydney Wanderers vs Macarthur",
-      "team_1": "Western Sydney Wanderers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYWA@2x.png",
-      "team_2": "Macarthur",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MACA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111002_4567_SYW_MAC_fc-web_1728983129390.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/2UbhUKpeSFiPWYC84ubG6A/master.m3u8"
+      "event_catagory": "cricket",
+      "event_name": "ECS Malta, 2025",
+      "match_id": 118279,
+      "match_name": "Swieqi United vs Power Hitters",
+      "team_1": "Swieqi United",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SWEQ@2x.png",
+      "team_2": "Power Hitters",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR3@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/118279_4825_SWU_PWH_fc-web.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/q59sYiDBQcanevd6Wy4fiQ/master.m3u8"
     },
     {
       "event_catagory": "football",
