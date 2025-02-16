@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Bin Dilmah vs OGC Pan Gulf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="118946" group-title="Saudi Foundation T20 Cup, 2025",Bin Dilmah vs OGC Pan Gulf
+#EXTINF:-1 tvg-name="Team TGS vs Kuwait Mavericks" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-A_league_match-card_1739168693257.jpg" tvg-id="118077" group-title="KCC T20 Challengers A League, 2025",Team TGS vs Kuwait Mavericks
+https://dai.google.com/linear/hls/event/JcfWc4tyQ76CIw0vFcNpAA/master.m3u8
+#EXTINF:-1 tvg-name="Bin Dilmah vs OGC Pan Gulf" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118946_4891_BD_OPG_fc-web.jpg" tvg-id="118946" group-title="Saudi Foundation T20 Cup, 2025",Bin Dilmah vs OGC Pan Gulf
 https://dai.google.com/linear/hls/event/v4d0KXcPR8Sh0yADUQjObg/master.m3u8
 #EXTINF:-1 tvg-name="Feed E - Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Genesis-Invitational-old.png" tvg-id="118896" group-title="The Genesis Inivitational Pacific Palisades, CA",Feed E - Day 4
 https://dai.google.com/linear/hls/event/fLd-HtMKRDGwuH77i7l8pw/master.m3u8
