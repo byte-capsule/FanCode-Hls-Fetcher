@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Tanzania vs Singapore" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118016_4607_TAN_SIN_fc-web.jpg" tvg-id="118016" group-title="ICC CWC Challenge League B, 2024-26",Tanzania vs Singapore
 https://dai.google.com/linear/hls/event/AtqBL2G-RiKx5A0OZYIWrw/master.m3u8
+#EXTINF:-1 tvg-name="Wild Woods Warriors vs Manohar Mavericks" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_old_v2.jpg" tvg-id="118115" group-title="Chandigarh T20",Wild Woods Warriors vs Manohar Mavericks
+https://dai.google.com/linear/hls/event/hkoeQgfOTX6wKaR7LU8abg/master.m3u8
 #EXTINF:-1 tvg-name="Namibia vs Oman" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Match-53_1738836614450.jpg" tvg-id="118179" group-title="ICC CWC League 2, 2023-27",Namibia vs Oman
 https://dai.google.com/linear/hls/event/OJI4oboUQI-h5YQwduQ1SA/master.m3u8
 #EXTINF:-1 tvg-name="Machida Zelvia vs Sanfrecce Hiroshima" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Machida-Zelvia-VS-Sanfrecce-Hiroshima_old.jpg" tvg-id="117864" group-title="J League 2025",Machida Zelvia vs Sanfrecce Hiroshima
