@@ -1,21 +1,9 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "16-02-2025 on 11:53:02 AM \ud83c\udf1e",
+  "total_mathes": 4,
+  "last_upaded": "16-02-2025 on 0:28:35 PM \ud83c\udf1e",
   "matches": [
-    {
-      "event_catagory": "cricket",
-      "event_name": "BOX Office White Ball T20",
-      "match_id": 119425,
-      "match_name": "Phoenix vs Bandhaghat 11",
-      "team_1": "Phoenix",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PNS@2x.png",
-      "team_2": "Bandhaghat 11",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR19@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-White-Ball-T20-old-Match-card.png",
-      "stream_link": "https://dai.google.com/linear/hls/event/uWsIpPgPRI6wp-2lc5xuCg/master.m3u8"
-    },
     {
       "event_catagory": "cricket",
       "event_name": "ICC CWC Challenge League B, 2024-26",
@@ -27,30 +15,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SING@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/118016_4607_TAN_SIN_fc-web.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/AtqBL2G-RiKx5A0OZYIWrw/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "ICC CWC Challenge League B, 2024-26",
-      "match_id": 118015,
-      "match_name": "Hong Kong, China vs Italy",
-      "team_1": "Hong Kong, China",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HK@2x.png",
-      "team_2": "Italy",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ITA@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/118015_4607_HK_ITA_fc-web.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/DpYBlx42S-6KEMWWenDQbQ/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Chandigarh T20",
-      "match_id": 118114,
-      "match_name": "Talanoa Tigers vs Punjab Panthers",
-      "team_1": "Talanoa Tigers",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TAT@2x.png",
-      "team_2": "Punjab Panthers",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PP@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_old_v1.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/uJ7eKGzZQ_6wRr6FLmqArQ/master.m3u8"
     },
     {
       "event_catagory": "cricket",
@@ -75,6 +39,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHI@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Machida-Zelvia-VS-Sanfrecce-Hiroshima_old.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/OYWmgg6MTECoMA8tJr4GUA/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "A League 2024-25",
+      "match_id": 111002,
+      "match_name": "Western Sydney Wanderers vs Macarthur",
+      "team_1": "Western Sydney Wanderers",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYWA@2x.png",
+      "team_2": "Macarthur",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MACA@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/111002_4567_SYW_MAC_fc-web_1728983129390.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/2UbhUKpeSFiPWYC84ubG6A/master.m3u8"
     }
   ]
 }

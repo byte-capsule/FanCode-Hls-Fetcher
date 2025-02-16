@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Phoenix vs Bandhaghat 11" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-White-Ball-T20-old-Match-card.png" tvg-id="119425" group-title="BOX Office White Ball T20",Phoenix vs Bandhaghat 11
-https://dai.google.com/linear/hls/event/uWsIpPgPRI6wp-2lc5xuCg/master.m3u8
 #EXTINF:-1 tvg-name="Tanzania vs Singapore" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118016_4607_TAN_SIN_fc-web.jpg" tvg-id="118016" group-title="ICC CWC Challenge League B, 2024-26",Tanzania vs Singapore
 https://dai.google.com/linear/hls/event/AtqBL2G-RiKx5A0OZYIWrw/master.m3u8
-#EXTINF:-1 tvg-name="Hong Kong, China vs Italy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118015_4607_HK_ITA_fc-web.jpg" tvg-id="118015" group-title="ICC CWC Challenge League B, 2024-26",Hong Kong, China vs Italy
-https://dai.google.com/linear/hls/event/DpYBlx42S-6KEMWWenDQbQ/master.m3u8
-#EXTINF:-1 tvg-name="Talanoa Tigers vs Punjab Panthers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_old_v1.jpg" tvg-id="118114" group-title="Chandigarh T20",Talanoa Tigers vs Punjab Panthers
-https://dai.google.com/linear/hls/event/uJ7eKGzZQ_6wRr6FLmqArQ/master.m3u8
 #EXTINF:-1 tvg-name="Namibia vs Oman" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Match-53_1738836614450.jpg" tvg-id="118179" group-title="ICC CWC League 2, 2023-27",Namibia vs Oman
 https://dai.google.com/linear/hls/event/OJI4oboUQI-h5YQwduQ1SA/master.m3u8
 #EXTINF:-1 tvg-name="Machida Zelvia vs Sanfrecce Hiroshima" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Machida-Zelvia-VS-Sanfrecce-Hiroshima_old.jpg" tvg-id="117864" group-title="J League 2025",Machida Zelvia vs Sanfrecce Hiroshima
 https://dai.google.com/linear/hls/event/OYWmgg6MTECoMA8tJr4GUA/master.m3u8
+#EXTINF:-1 tvg-name="Western Sydney Wanderers vs Macarthur" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111002_4567_SYW_MAC_fc-web_1728983129390.jpg" tvg-id="111002" group-title="A League 2024-25",Western Sydney Wanderers vs Macarthur
+https://dai.google.com/linear/hls/event/2UbhUKpeSFiPWYC84ubG6A/master.m3u8
