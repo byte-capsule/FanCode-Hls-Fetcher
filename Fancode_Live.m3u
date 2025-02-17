@@ -1,9 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="ACE KRM Panthers vs Strikers Afghan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-A_league_match-card_1739168693257.jpg" tvg-id="118078" group-title="KCC T20 Challengers A League, 2025",ACE KRM Panthers vs Strikers Afghan
+https://dai.google.com/linear/hls/event/llkrnTQERqybtCDvlG96CQ/master.m3u8
 #EXTINF:-1 tvg-name="Rajasthan Kings vs Chhattisgarh Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4824_Chhatisgarh_Rajasthan-Kings_fc-Web.jpg" tvg-id="118246" group-title="Legend 90, 2025",Rajasthan Kings vs Chhattisgarh Warriors
 https://dai.google.com/linear/hls/event/Jbz0dxUxQjqKksbyKqcazQ/master.m3u8
-#EXTINF:-1 tvg-name="Kanoo Strikers vs Fireox" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118945_4891_FIR_KS_fc-web.jpg" tvg-id="118945" group-title="Saudi Foundation T20 Cup, 2025",Kanoo Strikers vs Fireox
-https://dai.google.com/linear/hls/event/XYBA7qyqRu25yXHQeyLzOA/master.m3u8
-#EXTINF:-1 tvg-name="Tamimi Group vs Tafga CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118938_4891_TG_TAG_fc-web.jpg" tvg-id="118938" group-title="Saudi Foundation T20 Cup, 2025",Tamimi Group vs Tafga CC
+#EXTINF:-1 tvg-name="Tafga CC vs Tamimi Group" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118938_4891_TG_TAG_fc-web.jpg" tvg-id="118938" group-title="Saudi Foundation T20 Cup, 2025",Tafga CC vs Tamimi Group
 https://dai.google.com/linear/hls/event/MrXHtxJVST2A4QIB0q9Cgg/master.m3u8
 #EXTINF:-1 tvg-name="Persepolis FC vs Al-Nassr" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/09/108713_4475_PPL_ANF_fc-web.jpg" tvg-id="108713" group-title="AFC Champions League Elite 2024-25",Persepolis FC vs Al-Nassr
 https://dai.google.com/linear/hls/event/61f218EZTFusCyoz3qjgAg/master.m3u8
