@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "17-02-2025 on 3:41:13 PM \ud83c\udf1e",
+  "total_mathes": 4,
+  "last_upaded": "17-02-2025 on 3:54:06 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -15,6 +15,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WWD@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_old_v1.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/jW8KBq7rQumnaOw7E8q9Ag/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Koshi Premier League, 2025",
+      "match_id": 119467,
+      "match_name": "Duhabi Capitals vs Itahari Adarsha Giants",
+      "team_1": "Duhabi Capitals",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DUC@2x.png",
+      "team_2": "Itahari Adarsha Giants",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IAG@2x.png",
+      "banner": "https://www.fancode.com/aig/match/v1/119467_CASACARDS_APP.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/EjI2RwPLSFSQd1uquf-Jyg/master.m3u8"
     },
     {
       "event_catagory": "cricket",
