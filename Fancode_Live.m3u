@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Edex Knights vs Power Hitters" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118285_4825_EDK_PWH_fc-web.jpg" tvg-id="118285" group-title="ECS Malta, 2025",Edex Knights vs Power Hitters
-https://dai.google.com/linear/hls/event/aogKcJ0mSfG_bFgMtUi4Ig/master.m3u8
+#EXTINF:-1 tvg-name="Edex Knights vs Power Hitters" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118286_4825_EDK_PWH_fc-web.jpg" tvg-id="118286" group-title="ECS Malta, 2025",Edex Knights vs Power Hitters
+https://dai.google.com/linear/hls/event/2du42cCJSQ6qVJihxuHWDQ/master.m3u8
 #EXTINF:-1 tvg-name="Kanoo Strikers vs Fireox" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118945_4891_FIR_KS_fc-web.jpg" tvg-id="118945" group-title="Saudi Foundation T20 Cup, 2025",Kanoo Strikers vs Fireox
 https://dai.google.com/linear/hls/event/XYBA7qyqRu25yXHQeyLzOA/master.m3u8
 #EXTINF:-1 tvg-name="Rajasthan Kings vs Chhattisgarh Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4824_Chhatisgarh_Rajasthan-Kings_fc-Web.jpg" tvg-id="118246" group-title="Legend 90, 2025",Rajasthan Kings vs Chhattisgarh Warriors
 https://dai.google.com/linear/hls/event/Jbz0dxUxQjqKksbyKqcazQ/master.m3u8
+#EXTINF:-1 tvg-name="Pakhtakor Tashkent vs Al Sadd" tvg-logo="https://www.fancode.com/skillup-uploads/prod-images/2024/09/108711_4475_PT_SDD_fc-web.jpg" tvg-id="108711" group-title="AFC Champions League Elite 2024-25",Pakhtakor Tashkent vs Al Sadd
+https://dai.google.com/linear/hls/event/J_aaDi20STiiIjJid4YrGQ/master.m3u8
