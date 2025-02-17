@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Red Stars vs Mater Dei" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118284_4825_RS_MTD_fc-web.jpg" tvg-id="118284" group-title="ECS Malta, 2025",Red Stars vs Mater Dei
-https://dai.google.com/linear/hls/event/jiLHLHK5RxqjgmIXyg98yQ/master.m3u8
+#EXTINF:-1 tvg-name="Edex Knights vs Power Hitters" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118285_4825_EDK_PWH_fc-web.jpg" tvg-id="118285" group-title="ECS Malta, 2025",Edex Knights vs Power Hitters
+https://dai.google.com/linear/hls/event/aogKcJ0mSfG_bFgMtUi4Ig/master.m3u8
+#EXTINF:-1 tvg-name="Fireox vs Kanoo Strikers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118945_4891_FIR_KS_fc-web.jpg" tvg-id="118945" group-title="Saudi Foundation T20 Cup, 2025",Fireox vs Kanoo Strikers
+https://dai.google.com/linear/hls/event/XYBA7qyqRu25yXHQeyLzOA/master.m3u8
