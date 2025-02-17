@@ -2,7 +2,7 @@
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "total_mathes": 1,
-  "last_upaded": "17-02-2025 on 10:28:38 AM \ud83c\udf1e",
+  "last_upaded": "17-02-2025 on 10:44:18 AM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -13,7 +13,7 @@
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HHK@2x.png",
       "team_2": "Talanoa Tigers",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TAT@2x.png",
-      "banner": false,
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_ols_v3.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/YMbZu53XTq6Xzb3H404YWA/master.m3u8"
     }
   ]
