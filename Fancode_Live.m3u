@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Hiims Hawks vs Talanoa Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_ols_v3.jpg" tvg-id="118116" group-title="Chandigarh T20",Hiims Hawks vs Talanoa Tigers
-https://dai.google.com/linear/hls/event/YMbZu53XTq6Xzb3H404YWA/master.m3u8
 #EXTINF:-1 tvg-name="City Challengers vs Wild Woods Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_old_v1.jpg" tvg-id="118117" group-title="Chandigarh T20",City Challengers vs Wild Woods Warriors
 https://dai.google.com/linear/hls/event/jW8KBq7rQumnaOw7E8q9Ag/master.m3u8
+#EXTINF:-1 tvg-name="Syria U20 vs Japan U20" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118829_4882_SYR_JPN_fc-Web.jpg" tvg-id="118829" group-title="AFC U20 Asian Cup China, 2025",Syria U20 vs Japan U20
+https://dai.google.com/linear/hls/event/MptzzX8TTeGxeLO9nFTz4A/master.m3u8
