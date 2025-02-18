@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Hiims Hawks vs Manohar Mavericks" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_old_v2.jpg" tvg-id="118118" group-title="Chandigarh T20",Hiims Hawks vs Manohar Mavericks
 https://dai.google.com/linear/hls/event/zfyZQAIQQhy_uEvU3Pj82g/master.m3u8
+#EXTINF:-1 tvg-name="City Challengers vs Punjab Panthers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_ols_v3.jpg" tvg-id="118119" group-title="Chandigarh T20",City Challengers vs Punjab Panthers
+https://dai.google.com/linear/hls/event/QtinNVypQPWpWRYFTrTpUA/master.m3u8
 #EXTINF:-1 tvg-name="Queensland vs Western Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110413_4543_QUN_WAU_fc-Web_1739782530557.jpg" tvg-id="110413" group-title="Sheffield Shield, 2024-25",Queensland vs Western Australia
 https://dai.google.com/linear/hls/event/Ane5EKIPQceTOJ2MopsWrw/master.m3u8
 #EXTINF:-1 tvg-name="New South Wales vs Victoria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110412_4543_NSW_VCT_fc-Web_1739782530659.jpg" tvg-id="110412" group-title="Sheffield Shield, 2024-25",New South Wales vs Victoria
