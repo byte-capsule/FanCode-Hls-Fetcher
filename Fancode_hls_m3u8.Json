@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 6,
-  "last_upaded": "18-02-2025 on 1:20:18 PM \ud83c\udf1e",
+  "total_mathes": 7,
+  "last_upaded": "18-02-2025 on 1:38:24 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -75,6 +75,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OMA@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/Match-54_1738836614433.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/H_KeyzUcRQCC9G0IN5kXDA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Ireland tour of Zimbabwe, 2025",
+      "match_id": 116938,
+      "match_name": "Ireland vs Zimbabwe",
+      "team_1": "Ireland",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png",
+      "team_2": "Zimbabwe",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe--ODIs_old.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/Dz4WU6dhSlSQ3Or8hR61Sg/master.m3u8"
     }
   ]
 }
