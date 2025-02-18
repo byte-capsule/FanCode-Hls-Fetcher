@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 3,
-  "last_upaded": "18-02-2025 on 08:39:08 AM \ud83c\udf1e",
+  "total_mathes": 4,
+  "last_upaded": "18-02-2025 on 09:02:19 AM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -39,6 +39,18 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TAS@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110419_4543_SAU_TAS_fc-Web_1739782530681.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/qYPRpPPWRcqVt2oBWa9ZRw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Chandigarh T20",
+      "match_id": 118118,
+      "match_name": "Hiims Hawks vs Manohar Mavericks",
+      "team_1": "Hiims Hawks",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HHK@2x.png",
+      "team_2": "Manohar Mavericks",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MMV@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_old_v2.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/zfyZQAIQQhy_uEvU3Pj82g/master.m3u8"
     }
   ]
 }
