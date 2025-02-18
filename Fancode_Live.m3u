@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Punjab Panthers vs City Challengers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_ols_v3.jpg" tvg-id="118119" group-title="Chandigarh T20",Punjab Panthers vs City Challengers
-https://dai.google.com/linear/hls/event/QtinNVypQPWpWRYFTrTpUA/master.m3u8
 #EXTINF:-1 tvg-name="NBSC Lions vs Balan Bihul Saptari Tiger" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/119469_4966_BBS_NBS_fc-web.jpg" tvg-id="119469" group-title="Koshi Premier League, 2025",NBSC Lions vs Balan Bihul Saptari Tiger
 https://dai.google.com/linear/hls/event/xWfG6_RURqCwRFpXqL9JSQ/master.m3u8
+#EXTINF:-1 tvg-name="Punjab Panthers vs City Challengers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_ols_v3.jpg" tvg-id="118119" group-title="Chandigarh T20",Punjab Panthers vs City Challengers
+https://dai.google.com/linear/hls/event/QtinNVypQPWpWRYFTrTpUA/master.m3u8
+#EXTINF:-1 tvg-name="USA vs Oman" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Match-54_1738836614433.jpg" tvg-id="118180" group-title="ICC CWC League 2, 2023-27",USA vs Oman
+https://dai.google.com/linear/hls/event/H_KeyzUcRQCC9G0IN5kXDA/master.m3u8
+#EXTINF:-1 tvg-name="Hamrun Stallions vs Edex Knights" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-White-Ball-T20-old-Match-card.png" tvg-id="118287" group-title="ECS Malta, 2025",Hamrun Stallions vs Edex Knights
+https://dai.google.com/linear/hls/event/kVSCRZC1SSiGMFVP_ST2lg/master.m3u8
+#EXTINF:-1 tvg-name="Ireland vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe--ODIs_old.jpg" tvg-id="116938" group-title="Ireland tour of Zimbabwe, 2025",Ireland vs Zimbabwe
+https://dai.google.com/linear/hls/event/Dz4WU6dhSlSQ3Or8hR61Sg/master.m3u8
 #EXTINF:-1 tvg-name="Queensland vs Western Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110413_4543_QUN_WAU_fc-Web_1739782530557.jpg" tvg-id="110413" group-title="Sheffield Shield, 2024-25",Queensland vs Western Australia
 https://dai.google.com/linear/hls/event/Ane5EKIPQceTOJ2MopsWrw/master.m3u8
 #EXTINF:-1 tvg-name="New South Wales vs Victoria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110412_4543_NSW_VCT_fc-Web_1739782530659.jpg" tvg-id="110412" group-title="Sheffield Shield, 2024-25",New South Wales vs Victoria
 https://dai.google.com/linear/hls/event/60-3Ob3MT0qoxb-vf6T1pg/master.m3u8
 #EXTINF:-1 tvg-name="South Australia vs Tasmania" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110419_4543_SAU_TAS_fc-Web_1739782530681.jpg" tvg-id="110419" group-title="Sheffield Shield, 2024-25",South Australia vs Tasmania
 https://dai.google.com/linear/hls/event/qYPRpPPWRcqVt2oBWa9ZRw/master.m3u8
-#EXTINF:-1 tvg-name="USA vs Oman" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Match-54_1738836614433.jpg" tvg-id="118180" group-title="ICC CWC League 2, 2023-27",USA vs Oman
-https://dai.google.com/linear/hls/event/H_KeyzUcRQCC9G0IN5kXDA/master.m3u8
-#EXTINF:-1 tvg-name="Ireland vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe--ODIs_old.jpg" tvg-id="116938" group-title="Ireland tour of Zimbabwe, 2025",Ireland vs Zimbabwe
-https://dai.google.com/linear/hls/event/Dz4WU6dhSlSQ3Or8hR61Sg/master.m3u8
-#EXTINF:-1 tvg-name="Hamrun Stallions vs Edex Knights" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-White-Ball-T20-old-Match-card.png" tvg-id="118287" group-title="ECS Malta, 2025",Hamrun Stallions vs Edex Knights
-https://dai.google.com/linear/hls/event/kVSCRZC1SSiGMFVP_ST2lg/master.m3u8
