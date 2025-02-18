@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Southern Crusaders vs Swieqi United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-Hundred-Ball-TV-old-Match-card-.png" tvg-id="118288" group-title="ECS Malta, 2025",Southern Crusaders vs Swieqi United
-https://dai.google.com/linear/hls/event/lH_b9q0rRtiSgIJeoETgow/master.m3u8
 #EXTINF:-1 tvg-name="Ireland vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe--ODIs_old.jpg" tvg-id="116938" group-title="Ireland tour of Zimbabwe, 2025",Ireland vs Zimbabwe
 https://dai.google.com/linear/hls/event/Dz4WU6dhSlSQ3Or8hR61Sg/master.m3u8
 #EXTINF:-1 tvg-name="Queensland vs Western Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110413_4543_QUN_WAU_fc-Web_1739782530557.jpg" tvg-id="110413" group-title="Sheffield Shield, 2024-25",Queensland vs Western Australia
