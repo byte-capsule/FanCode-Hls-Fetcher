@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Kuwait Mavericks vs SBS CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-A_league_match-card_1739168693257.jpg" tvg-id="118080" group-title="KCC T20 Challengers A League, 2025",Kuwait Mavericks vs SBS CC
+https://dai.google.com/linear/hls/event/MubB2qzMTQKCutnQhFVucA/master.m3u8
 #EXTINF:-1 tvg-name="Tafga CC vs Bin Dilmah" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118948_4891_BD_TAG_fc-web.jpg" tvg-id="118948" group-title="Saudi Foundation T20 Cup, 2025",Tafga CC vs Bin Dilmah
 https://dai.google.com/linear/hls/event/M6ncwiyIQpCRLM0x_mtbMw/master.m3u8
 #EXTINF:-1 tvg-name="Queensland vs Western Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110413_4543_QUN_WAU_fc-Web_1739782530557.jpg" tvg-id="110413" group-title="Sheffield Shield, 2024-25",Queensland vs Western Australia
@@ -7,7 +9,5 @@ https://dai.google.com/linear/hls/event/Ane5EKIPQceTOJ2MopsWrw/master.m3u8
 https://dai.google.com/linear/hls/event/60-3Ob3MT0qoxb-vf6T1pg/master.m3u8
 #EXTINF:-1 tvg-name="South Australia vs Tasmania" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110419_4543_SAU_TAS_fc-Web_1739782530681.jpg" tvg-id="110419" group-title="Sheffield Shield, 2024-25",South Australia vs Tasmania
 https://dai.google.com/linear/hls/event/qYPRpPPWRcqVt2oBWa9ZRw/master.m3u8
-#EXTINF:-1 tvg-name="British and Irish XI vs Asian XI" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/119498_4967_ASX_BIK_fc-web.jpg" tvg-id="119498" group-title="Weston Shield, Feb 2025",British and Irish XI vs Asian XI
-https://dai.google.com/linear/hls/event/Ha-T2N29Q4W1Z3gbdpoz7Q/master.m3u8
 #EXTINF:-1 tvg-name="Shabab Al Ahli vs Al Wehdat" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117670_4476_SAA_ALW_fc-Web.jpg" tvg-id="117670" group-title="AFC Champions League Two 2024-25",Shabab Al Ahli vs Al Wehdat
 https://dai.google.com/linear/hls/event/uZymW84oRE2a4PeAUYpboA/master.m3u8
