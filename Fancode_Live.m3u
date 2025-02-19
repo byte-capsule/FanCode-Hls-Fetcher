@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Tafga CC vs Bin Dilmah" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118948_4891_BD_TAG_fc-web.jpg" tvg-id="118948" group-title="Saudi Foundation T20 Cup, 2025",Tafga CC vs Bin Dilmah
+https://dai.google.com/linear/hls/event/M6ncwiyIQpCRLM0x_mtbMw/master.m3u8
 #EXTINF:-1 tvg-name="Queensland vs Western Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110413_4543_QUN_WAU_fc-Web_1739782530557.jpg" tvg-id="110413" group-title="Sheffield Shield, 2024-25",Queensland vs Western Australia
 https://dai.google.com/linear/hls/event/Ane5EKIPQceTOJ2MopsWrw/master.m3u8
 #EXTINF:-1 tvg-name="New South Wales vs Victoria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110412_4543_NSW_VCT_fc-Web_1739782530659.jpg" tvg-id="110412" group-title="Sheffield Shield, 2024-25",New South Wales vs Victoria
