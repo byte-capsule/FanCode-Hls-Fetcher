@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="South Australian Scorpions vs Western Australia Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109419_4508_WA-W_SASC_fc-web.jpg" tvg-id="109419" group-title="WNCL, 2024-25",South Australian Scorpions vs Western Australia Women
+https://dai.google.com/linear/hls/event/r5l5CsrOQi2PNj7e2frGRw/master.m3u8
 #EXTINF:-1 tvg-name="Tasmania Women vs Victoria Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109418_4508_TASW_VCTW_fc-web.jpg" tvg-id="109418" group-title="WNCL, 2024-25",Tasmania Women vs Victoria Women
 https://dai.google.com/linear/hls/event/w62_FPFrRxSkz8Jk3MP6LA/master.m3u8
 #EXTINF:-1 tvg-name="New South Wales Breakers vs ACT Meteors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109417_4508_NSWB_ACTM_fc-web.jpg" tvg-id="109417" group-title="WNCL, 2024-25",New South Wales Breakers vs ACT Meteors
@@ -9,5 +11,5 @@ https://dai.google.com/linear/hls/event/Ane5EKIPQceTOJ2MopsWrw/master.m3u8
 https://dai.google.com/linear/hls/event/60-3Ob3MT0qoxb-vf6T1pg/master.m3u8
 #EXTINF:-1 tvg-name="South Australia vs Tasmania" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110419_4543_SAU_TAS_fc-Web_1739782530681.jpg" tvg-id="110419" group-title="Sheffield Shield, 2024-25",South Australia vs Tasmania
 https://dai.google.com/linear/hls/event/qYPRpPPWRcqVt2oBWa9ZRw/master.m3u8
-#EXTINF:-1 tvg-name="Birmingham City vs Bradford City" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Birmingham-City-VS-Bradford-City-Trophy_old.jpg" tvg-id="119343" group-title="EFL Vertu Trophy",Birmingham City vs Bradford City
-Free Trial attempt unsuccessful......it requires Premium Account
+#EXTINF:-1 tvg-name="Talanoa Tigers vs Manohar Mavericks" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_old_v1.jpg" tvg-id="118120" group-title="Chandigarh T20",Talanoa Tigers vs Manohar Mavericks
+https://dai.google.com/linear/hls/event/0A0KKYpfT4a2Qi5dyHGCqg/master.m3u8
