@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 7,
-  "last_upaded": "19-02-2025 on 3:23:33 PM \ud83c\udf1e",
+  "total_mathes": 8,
+  "last_upaded": "19-02-2025 on 3:40:17 PM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -80,13 +80,25 @@
       "event_catagory": "cricket",
       "event_name": "Weston Shield, Feb 2025",
       "match_id": 119488,
-      "match_name": "Team Europe vs British and Irish Knights",
-      "team_1": "Team Europe",
+      "match_name": "European XI vs British and Irish XI",
+      "team_1": "European XI",
       "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TEP@2x.png",
-      "team_2": "British and Irish Knights",
+      "team_2": "British and Irish XI",
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BIK@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/119488_4967_TEP_BIK_fc-web.jpg",
+      "banner": "https://www.fancode.com/skillup-uploads/fc-web/home-page-new-arc/hero-image/v1/hero-image-mweb-v2.png",
       "stream_link": "https://dai.google.com/linear/hls/event/9at-P3k0Ssq7V2Yl6TJkPQ/master.m3u8"
+    },
+    {
+      "event_catagory": "golf",
+      "event_name": "NTT DATA Pro Am",
+      "match_id": 119444,
+      "match_name": "NTT DATA Pro Am",
+      "team_1": "NTT DATA Pro Am",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-NTT@2x.png",
+      "team_2": "Western Cape, South Africa",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+      "banner": "https://www.fancode.com/skillup-uploads/cms-media/NTT-DATA-Pro-Am_2025_OLd_match-card.jpg",
+      "stream_link": "https://dai.google.com/linear/hls/event/rYXbehW3R-qmGTI8b3-sVQ/master.m3u8"
     }
   ]
 }

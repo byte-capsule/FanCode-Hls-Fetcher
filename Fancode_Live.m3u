@@ -11,5 +11,7 @@ https://dai.google.com/linear/hls/event/Ane5EKIPQceTOJ2MopsWrw/master.m3u8
 https://dai.google.com/linear/hls/event/60-3Ob3MT0qoxb-vf6T1pg/master.m3u8
 #EXTINF:-1 tvg-name="South Australia vs Tasmania" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110419_4543_SAU_TAS_fc-Web_1739782530681.jpg" tvg-id="110419" group-title="Sheffield Shield, 2024-25",South Australia vs Tasmania
 https://dai.google.com/linear/hls/event/qYPRpPPWRcqVt2oBWa9ZRw/master.m3u8
-#EXTINF:-1 tvg-name="Team Europe vs British and Irish Knights" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/119488_4967_TEP_BIK_fc-web.jpg" tvg-id="119488" group-title="Weston Shield, Feb 2025",Team Europe vs British and Irish Knights
+#EXTINF:-1 tvg-name="European XI vs British and Irish XI" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web/home-page-new-arc/hero-image/v1/hero-image-mweb-v2.png" tvg-id="119488" group-title="Weston Shield, Feb 2025",European XI vs British and Irish XI
 https://dai.google.com/linear/hls/event/9at-P3k0Ssq7V2Yl6TJkPQ/master.m3u8
+#EXTINF:-1 tvg-name="NTT DATA Pro Am" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NTT-DATA-Pro-Am_2025_OLd_match-card.jpg" tvg-id="119444" group-title="NTT DATA Pro Am",NTT DATA Pro Am
+https://dai.google.com/linear/hls/event/rYXbehW3R-qmGTI8b3-sVQ/master.m3u8
