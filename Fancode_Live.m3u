@@ -1,15 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Kuwait Mavericks vs SBS CC" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-A_league_match-card_1739168693257.jpg" tvg-id="118080" group-title="KCC T20 Challengers A League, 2025",Kuwait Mavericks vs SBS CC
-https://dai.google.com/linear/hls/event/MubB2qzMTQKCutnQhFVucA/master.m3u8
-#EXTINF:-1 tvg-name="Tafga CC vs Bin Dilmah" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118948_4891_BD_TAG_fc-web.jpg" tvg-id="118948" group-title="Saudi Foundation T20 Cup, 2025",Tafga CC vs Bin Dilmah
-https://dai.google.com/linear/hls/event/M6ncwiyIQpCRLM0x_mtbMw/master.m3u8
-#EXTINF:-1 tvg-name="Queensland vs Western Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110413_4543_QUN_WAU_fc-Web_1739782530557.jpg" tvg-id="110413" group-title="Sheffield Shield, 2024-25",Queensland vs Western Australia
-https://dai.google.com/linear/hls/event/Ane5EKIPQceTOJ2MopsWrw/master.m3u8
-#EXTINF:-1 tvg-name="New South Wales vs Victoria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110412_4543_NSW_VCT_fc-Web_1739782530659.jpg" tvg-id="110412" group-title="Sheffield Shield, 2024-25",New South Wales vs Victoria
-https://dai.google.com/linear/hls/event/60-3Ob3MT0qoxb-vf6T1pg/master.m3u8
-#EXTINF:-1 tvg-name="South Australia vs Tasmania" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110419_4543_SAU_TAS_fc-Web_1739782530681.jpg" tvg-id="110419" group-title="Sheffield Shield, 2024-25",South Australia vs Tasmania
-https://dai.google.com/linear/hls/event/qYPRpPPWRcqVt2oBWa9ZRw/master.m3u8
-#EXTINF:-1 tvg-name="Asian XI vs World XI" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/119492_4967_ASX_WXI_fc-web.jpg" tvg-id="119492" group-title="Weston Shield, Feb 2025",Asian XI vs World XI
-https://dai.google.com/linear/hls/event/bhpgrt8KSSmfFKJUaKRSPQ/master.m3u8
 #EXTINF:-1 tvg-name="Al Taawoun vs Al Wakrah" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117671_4476_ALTW_WAK_fc-Web.jpg" tvg-id="117671" group-title="AFC Champions League Two 2024-25",Al Taawoun vs Al Wakrah
 https://dai.google.com/linear/hls/event/c3Rkh0RrTEi4ikN_4zLmOw/master.m3u8
