@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Fireox vs OGC Pan Gulf" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118950_4891_FIR_OPG_fc-web.jpg" tvg-id="118950" group-title="Saudi Foundation T20 Cup, 2025",Fireox vs OGC Pan Gulf
-https://dai.google.com/linear/hls/event/2KDe133DT9y6UHA4L9LqjA/master.m3u8
 #EXTINF:-1 tvg-name="Queensland vs Western Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110413_4543_QUN_WAU_fc-Web_1739782530557.jpg" tvg-id="110413" group-title="Sheffield Shield, 2024-25",Queensland vs Western Australia
 https://dai.google.com/linear/hls/event/Ane5EKIPQceTOJ2MopsWrw/master.m3u8
 #EXTINF:-1 tvg-name="New South Wales vs Victoria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110412_4543_NSW_VCT_fc-Web_1739782530659.jpg" tvg-id="110412" group-title="Sheffield Shield, 2024-25",New South Wales vs Victoria
@@ -13,5 +11,3 @@ https://dai.google.com/linear/hls/event/v_0gDc69S3msaaO_DkmXgw/master.m3u8
 https://dai.google.com/linear/hls/event/KGBnoOOVQXSvKeqaynR_GQ/master.m3u8
 #EXTINF:-1 tvg-name="Uzbekistan U20 vs IR Iran U20" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118835_4882_UZB_IRN_fc-Web.jpg" tvg-id="118835" group-title="AFC U20 Asian Cup China, 2025",Uzbekistan U20 vs IR Iran U20
 https://dai.google.com/linear/hls/event/LNGZh8WsRhK6l9hFbSh0bg/master.m3u8
-#EXTINF:-1 tvg-name="Sanfrecce Hiroshima vs Nam Dinh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117669_4476_HIR_ND_fc-Web.jpg" tvg-id="117669" group-title="AFC Champions League Two 2024-25",Sanfrecce Hiroshima vs Nam Dinh
-https://dai.google.com/linear/hls/event/VEXDI6omSAuLAMwoRvO95g/master.m3u8
