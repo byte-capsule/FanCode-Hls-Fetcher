@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Fireox vs OGC Pan Gulf" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/118950_4891_FIR_OPG_fc-web.jpg" tvg-id="118950" group-title="Saudi Foundation T20 Cup, 2025",Fireox vs OGC Pan Gulf
 https://dai.google.com/linear/hls/event/2KDe133DT9y6UHA4L9LqjA/master.m3u8
-#EXTINF:-1 tvg-name="Punjab Panthers vs Wild Woods Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_old_v2.jpg" tvg-id="118121" group-title="Chandigarh T20",Punjab Panthers vs Wild Woods Warriors
-https://dai.google.com/linear/hls/event/bllLYVPMRHGjjFxKkUWzMg/master.m3u8
 #EXTINF:-1 tvg-name="Namuna Blasters vs Duhabi Capitals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/119471_4966_DUC_NMB_fc-web.jpg" tvg-id="119471" group-title="Koshi Premier League, 2025",Namuna Blasters vs Duhabi Capitals
 https://dai.google.com/linear/hls/event/J1ttKIj1R7eFJ-q9VHqXzw/master.m3u8
 #EXTINF:-1 tvg-name="Queensland vs Western Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/110413_4543_QUN_WAU_fc-Web_1739782530557.jpg" tvg-id="110413" group-title="Sheffield Shield, 2024-25",Queensland vs Western Australia
@@ -13,5 +11,7 @@ https://dai.google.com/linear/hls/event/60-3Ob3MT0qoxb-vf6T1pg/master.m3u8
 https://dai.google.com/linear/hls/event/qYPRpPPWRcqVt2oBWa9ZRw/master.m3u8
 #EXTINF:-1 tvg-name="European XI vs British and Irish XI" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/119488_4967_TEP_BIK_fc-web.jpg" tvg-id="119488" group-title="Weston Shield, Feb 2025",European XI vs British and Irish XI
 https://dai.google.com/linear/hls/event/9at-P3k0Ssq7V2Yl6TJkPQ/master.m3u8
+#EXTINF:-1 tvg-name="Sanfrecce Hiroshima vs Nam Dinh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117669_4476_HIR_ND_fc-Web.jpg" tvg-id="117669" group-title="AFC Champions League Two 2024-25",Sanfrecce Hiroshima vs Nam Dinh
+https://dai.google.com/linear/hls/event/VEXDI6omSAuLAMwoRvO95g/master.m3u8
 #EXTINF:-1 tvg-name="NTT DATA Pro Am" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NTT-DATA-Pro-Am_2025_OLd_match-card.jpg" tvg-id="119444" group-title="NTT DATA Pro Am",NTT DATA Pro Am
 https://dai.google.com/linear/hls/event/rYXbehW3R-qmGTI8b3-sVQ/master.m3u8
