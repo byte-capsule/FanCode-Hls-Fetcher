@@ -1,8 +1,8 @@
 {
   "type": "FanCode All Live Matches Data in Json",
   "generated_by": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
-  "total_mathes": 4,
-  "last_upaded": "20-02-2025 on 10:56:12 AM \ud83c\udf1e",
+  "total_mathes": 2,
+  "last_upaded": "20-02-2025 on 11:23:20 AM \ud83c\udf1e",
   "matches": [
     {
       "event_catagory": "cricket",
@@ -19,18 +19,6 @@
     {
       "event_catagory": "cricket",
       "event_name": "Sheffield Shield, 2024-25",
-      "match_id": 110412,
-      "match_name": "New South Wales vs Victoria",
-      "team_1": "New South Wales",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSW@2x.png",
-      "team_2": "Victoria",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VCT@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/110412_4543_NSW_VCT_fc-Web_1739782530659.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/60-3Ob3MT0qoxb-vf6T1pg/master.m3u8"
-    },
-    {
-      "event_catagory": "cricket",
-      "event_name": "Sheffield Shield, 2024-25",
       "match_id": 110419,
       "match_name": "South Australia vs Tasmania",
       "team_1": "South Australia",
@@ -39,18 +27,6 @@
       "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TAS@2x.png",
       "banner": "https://www.fancode.com/skillup-uploads/cms-media/110419_4543_SAU_TAS_fc-Web_1739782530681.jpg",
       "stream_link": "https://dai.google.com/linear/hls/event/qYPRpPPWRcqVt2oBWa9ZRw/master.m3u8"
-    },
-    {
-      "event_catagory": "football",
-      "event_name": "Concacaf Champions Cup 2025",
-      "match_id": 119356,
-      "match_name": "Motagua vs FC Cincinnati",
-      "team_1": "Motagua",
-      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MOG@2x.png",
-      "team_2": "FC Cincinnati",
-      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CIN@2x.png",
-      "banner": "https://www.fancode.com/skillup-uploads/cms-media/Concacaf_Motagua_vs_Cincinnati_Old_match-card.jpg",
-      "stream_link": "https://dai.google.com/linear/hls/event/ViLSYtghRJaxHVt5B4_JnQ/master.m3u8"
     }
   ]
 }
